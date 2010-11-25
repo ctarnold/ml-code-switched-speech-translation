@@ -179,7 +179,7 @@
 *KEV:	the@2 other@2 one@2 no@2. 355339_356297
 *KEV:	the@2 other@2 one@2 everything@2 is@2 in@2 place@2 . 356309_357870
 *KEV:	you@2 just@2 get@2 there@2 . 357871_360286
-*SOF:	and@2 press@2 the@2 buttom@2. %snd:"sastre1"_359107_360210
+*SOF:	and@2 press@2 the@2 button@2. %snd:"sastre1"_359107_360210
 *KEV:	+< press@2 the@2 xxx . %snd:"sastre1"_359380_359967
 *SOF:	right@2 . %snd:"sastre1"_360202_360771
 *KEV:	and@2 +/. %snd:"sastre1"_360759_361172
@@ -444,7 +444,7 @@
 *SOF:	that's@2 Miramar@0 . %snd:"sastre1"_837473_839302
 *KEV:	+< that's@2 +... . %snd:"sastre1"_837473_839302
 *SOF:	no@2 no@2 that's@2 er@2 Miami_Gardens@0 no@2 ? %snd:"sastre1"_839296_841989
-*KEV:	+< no@2 that's@2 unincorporate(d)@2 [/] no@2 that's@2 incoroporated@2 Dade_County@0 that's@2 Dade_County@0 . %snd:"sastre1"_839360_844114
+*KEV:	+< no@2 that's@2 unincorporate(d)@2 [/] no@2 that's@2 incorporated@2 Dade_County@0 that's@2 Dade_County@0 . %snd:"sastre1"_839360_844114
 *SOF:	so@2 what@2 [/] what@2 is@2 it@2 called@2 ? %snd:"sastre1"_844075_846380
 *KEV:	Dade_County@0 unincorporated@2 Dade_County@0 . %snd:"sastre1"_846346_848395
 *SOF:	so@2 that's@2 Dade@0 +/. %snd:"sastre1"_848366_850873
@@ -586,7 +586,7 @@
 *SOF:	where@2? %snd:"sastre1"_1142907_1144028
 *KEV:	Bass@2 Pro@2 shop@2 . %snd:"sastre1"_1144010_1144782
 *SOF:	ah@0 ok@0 .%snd:"sastre1"_1144777_1145241
-*KEV:	allá@3 en@3 Grifeny@0 y@3 I@3 ninety@2 five@2 . %snd:"sastre1"_1145229_1147633
+*KEV:	allá@3 en@3 Grifeny@0 xxx ninety@2 five@2 . %snd:"sastre1"_1145229_1147633
 *KEV:	eso@3 que@3 es@3 cuestión@3 de@3 casería@3 y@3 toda@3 esa@3 cosa@3 . %snd:"sastre1"_1147613_1150434
 *SOF:	+< uhhuh@0 yo@3 he@3 estado@3 ahí@3 sí@3 . %snd:"sastre1"_1147613_1150440
 *KEV:	y@3 cuando@3 salimos@3 y@3 fuimos@3 a:@3 [/] a@3 xxx county@2 a@3 ver@3 los@3 [/] <los@3 muros@3> [/] los@3 campers@0 . %snd:"sastre1"_1150410_1157852
@@ -941,7 +941,7 @@
 *KEV:	er@0 le@3 [/] le@3 taparon@3 le@3 chocaron@3 el@3 carro@3  . %snd:"sastre1"_1938070_1941477
 *KEV:	y@3 parece@3 que@3 el@3 padre@3 estaba@3 bravo@3 con@3 ellos@3 y@3 no@3 se@3 lo@3 arregló@3 ni@3 na(da)@3 . %snd:"sastre1"_1941460_1944403
 *KEV:	y@3 estaba@3 parado@3 ahí@3 en@3 casa@3 de@3 Lucía@0 todo@3 ese@3 tiempo@3 . %snd:"sastre1"_1944400_1946740
-*KEV:	hasta@3 que@3 después@3 de@3 una@3 forma@3 u@3 otra@3 resolvieron@3 . %snd:"sastre1"_1946709_1949873
+*KEV:	hasta@3 que@3 después@3 de@3 una@3 forma@3 o@3 otra@3 resolvieron@3 . %snd:"sastre1"_1946709_1949873
 *KEV:	mmhm@0 . %snd:"sastre1"_1949890_1952027
 *KEV:	viste@3 qué@3 rica@3 está@3 la@3 tarde@3 ? %snd:"sastre1"_1951998_1953478
 *SOF:	yeah@2 . %snd:"sastre1"_1953455_1955266
