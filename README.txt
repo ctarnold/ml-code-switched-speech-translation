@@ -1,18 +1,16 @@
 This folder contains pre-final versions of the Miami corpus, under version control (git).
 
-Filenames are of the following types:
+The alpha folder contains versions that have been proofread and straightened, and the beta folder contains versions that have been converted to precode format.  Neither of these folders needs to be touched - the files in them are simply for the record.
 
-(1) sastre1.cha OR sastre1_a.cha - alpha files which have completed the transcription and human proofreading stages
+Files which have been autoglossed and require checking are "loose" (i.e. not in a folder).  Each cha file has an accompanying pdf file to simplify checking.  Please mark corrections on the pdf and place it in my pigeon-hole for processing.
 
-(2) sastre1_b.cha - beta files which have completed the import proofreading and conversion to precode stages
+The ready_for_release folder contains files that have been autoglossed and checked - the filename now has _rc suffixed.  Manual changes can be made to these files if necessary - just send me the corrected copy of the file.
 
-(3) sastre1_rc.cha - release candidate files which have completed the autoglossing stage
-
+The log spreadsheet tries to track each file's progress through the finalisation process.
 
 Kevin Donnelly
 kevin@dotmon.com
-7 February 2011
-revised
+17 February 2011
 
 
 
