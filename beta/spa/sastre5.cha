@@ -42,10 +42,10 @@
 *NAT:	no mi vida . %snd:"sastre5"_46187_46825
 *LIL:	te veo muy mal . %snd:"sastre5"_46843_47742
 *LIL:	sí sí y además . %snd:"sastre5"_49461_50708
-*NAT:	+< laugh . %snd:"sastre5"_49461_50708
-*LIL:	&em yo no voy a ver a Enrique@s:eng&spa porque él tiene un trial la semana de [/] del veintiuno . %snd:"sastre5"_50664_56627
+*NAT:	+< &=laugh . %snd:"sastre5"_49461_50708
+*LIL:	&em yo no voy a ver a Enrique@s:eng&spa porque él tiene un trial@s:eng la semana de [/] del veintiuno . %snd:"sastre5"_50664_56627
 *NAT:	+< Lily@s:eng&spa no es verdad que la madre cuando tiene su bebito si [?] tiene que tener esa cosa del bebito . %snd:"sastre5"_56574_61767
-*LIL:	+< &= gasp . %snd:"sastre5"_56574_61767
+*LIL:	+< &=gasp . %snd:"sastre5"_56574_61767
 *NAT:	y ella sola verdad ? %snd:"sastre5"_61745_63086
 *LIL:	no mami . %snd:"sastre5"_63089_63519
 *NAT:	+< entonces . %snd:"sastre5"_63472_63913
@@ -59,7 +59,7 @@
 *LIL:	cierren ahí . %snd:"sastre5"_74063_76472
 %com:	dog barking in background, someone else is speaking.
 *LIL:	Lucho@s:eng&spa you@s:eng know@s:eng Peter@s:eng&spa . %snd:"sastre5"_77146_79781
-*NAT:	+< laughing . %snd:"sastre5"_77146_79781
+*NAT:	+< &=laughing . %snd:"sastre5"_77146_79781
 %com:	dog barking . 79787_83157
 *LIL:	cómo están ? %snd:"sastre5"_83178_84519
 *OSE:	ay muy bien . %snd:"sastre5"_84426_85796
@@ -81,13 +81,13 @@
 *OSE:	+< www . %snd:"sastre5"_103366_105410
 *NAT:	sí está haciendo un +// . %snd:"sastre5"_105427_106518
 *LIL:	+< con los cables . %snd:"sastre5"_106154_107048
-*LIL:	&= laugh . %snd:"sastre5"_107043_107519
+*LIL:	&=laugh . %snd:"sastre5"_107043_107519
 *LIL:	ella está haciendo un posgrado . %snd:"sastre5"_107379_108169
 *LIL:	y ahora me me pidió que yo la ayudara . %snd:"sastre5"_108150_109978
 *LIL:	y claro no le puedo decir que no porque tanto me ayuda en el trabajo . %snd:"sastre5"_109984_112863
-*NAT:	&= laughing . %snd:"sastre5"_112861_113924
+*NAT:	&=laughing . %snd:"sastre5"_112861_113924
 *LIL:	pero es un fastidio tener esto . %snd:"sastre5"_113915_115999
-*LIL:	&= laughing . %snd:"sastre5"_116023_117656
+*LIL:	&=laughing . %snd:"sastre5"_116023_117656
 *LIL:	no no no no . %snd:"sastre5"_117667_119676
 *OSE:	www . %snd:"sastre5"_117667_119676
 *LIL:	&em pues sí ustedes +.. . %snd:"sastre5"_119635_122338
@@ -108,7 +108,7 @@
 *LIL:	para ya quitar esto . %snd:"sastre5"_135717_136918
 *NAT:	ella es así allá ? %snd:"sastre5"_136924_138327
 *LIL:	y que xxx qué . %snd:"sastre5"_136924_138281
-*NAT:	&= laughing . %snd:"sastre5"_138190_139908
+*NAT:	&=laughing . %snd:"sastre5"_138190_139908
 *LIL:	+< y es un color como este no ? %snd:"sastre5"_138190_140411
 *LIL:	para terminar todo eso . %snd:"sastre5"_140402_141760
 *NAT:	+< ella lo que está es +.. . %snd:"sastre5"_140402_142190
@@ -123,7 +123,7 @@
 *OSE:	www . %snd:"sastre5"_150787_152441
 *LIL:	si no buscamos otro más verdad . %snd:"sastre5"_152427_153867
 *LIL:	ah@s:eng&spa y [/] y esto también . %snd:"sastre5"_153902_155783
-*NAT:	&= laughing . %snd:"sastre5"_153873_155771
+*NAT:	&=laughing . %snd:"sastre5"_153873_155771
 *LIL:	+< esta parte también . %snd:"sastre5"_155765_157681
 *OSE:	+< www . %snd:"sastre5"_155765_157641
 *LIL:	el mismo color . %snd:"sastre5"_157624_158448
@@ -135,9 +135,9 @@
 *LIL:	ok ? %snd:"sastre5"_165220_166828
 *LIL:	es fácil ves ? %snd:"sastre5"_166859_167962
 *OSE:	www . %snd:"sastre5"_167970_169444
-*NAT:	+< &= laughing . %snd:"sastre5"_167970_169444
+*NAT:	+< &=laughing . %snd:"sastre5"_167970_169444
 *LIL:	<entonces un color> [//] entonces espera [/] entonces un color para este y este . %snd:"sastre5"_169441_173441
-*NAT:	+< &= laughing . %snd:"sastre5"_169615_172402
+*NAT:	+< &=laughing . %snd:"sastre5"_169615_172402
 *LIL:	donde está el espejo . %snd:"sastre5"_173390_175108
 *OSE:	www . %snd:"sastre5"_173991_174804
 *LIL:	y después un color para la cocina . %snd:"sastre5"_175392_178208
@@ -162,7 +162,7 @@
 *LIL:	eh ? %snd:"sastre5"_199548_200192
 *OSE:	www . %snd:"sastre5"_200187_201197
 *NAT:	&=laugh está bueno eso &=laugh . %snd:"sastre5"_201257_206986
-*LIL:	+< no [=! laugh] no . %snd:"sastre5"_201263_203747
+*LIL:	+< no [=!laugh] no . %snd:"sastre5"_201263_203747
 *LIL:	y tengo [/] tengo un sample@s:eng color para el cuarto de Enrique@s:eng&spa solamente una pared para que se [/] se vea que está pintado . %snd:"sastre5"_205397_211911
 *LIL:	pero no voy a pintar el cuarto entero . %snd:"sastre5"_211929_213467
 *LIL:	solamente . %snd:"sastre5"_213719_214560
@@ -171,7 +171,7 @@
 *LIL:	y ese es el quinto o sexto color . %snd:"sastre5"_215071_217004
 *LIL:	&=laugh pero te voy a enseñar el amarillo . %snd:"sastre5"_216993_220046
 *OSE:	www . %snd:"sastre5"_219640_220458
-*NAT:	no [=! laugh] . %snd:"sastre5"_220572_223062
+*NAT:	no [=!laugh] . %snd:"sastre5"_220572_223062
 *LIL:	&=laugh . %snd:"sastre5"_222278_223172
 *NAT:	yo te(ngo) [/] tengo que estar viva pa(ra) seguirla a ella . %snd:"sastre5"_223120_226336
 *LIL:	estos son los dos colores de [//] del +/ . %snd:"sastre5"_226696_228217
@@ -200,7 +200,7 @@
 *LIL:	son dolores que me entran . %snd:"sastre5"_256060_258963
 *LIL:	lo que sabes qué ? %snd:"sastre5"_258963_260286
 *LIL:	aguanta aquí que voy a lavar esto . %snd:"sastre5"_260275_262475
-*LIL:	Lorena@s:eng&spa we@s:eng love@s:eng you@s:eng [=! laugh] . %snd:"sastre5"_264695_268669
+*LIL:	Lorena@s:eng&spa we@s:eng love@s:eng you@s:eng [=!laugh] . %snd:"sastre5"_264695_268669
 *LIL:	[- eng] you know we love you &=laugh . %snd:"sastre5"_268663_270997
 *LIL:	&=laugh . %snd:"sastre5"_270925_272376
 *NAT:	no ya ya ya ya ya ya . %snd:"sastre5"_272335_273763
@@ -227,7 +227,7 @@
 *LIL:	&=laugh . %snd:"sastre5"_309128_311339
 *NAT:	&=laugh . %snd:"sastre5"_309128_311339
 *OSE:	www . %snd:"sastre5"_309128_311339
-*LIL:	si esto tiene sentido &=laugh lo que he dicho [=! laugh] . %snd:"sastre5"_311376_315085
+*LIL:	si esto tiene sentido &=laugh lo que he dicho [=!laugh] . %snd:"sastre5"_311376_315085
 *NAT:	&=laugh . %snd:"sastre5"_314946_316159
 *OSE:	www . %snd:"sastre5"_316037_317030
 *LIL:	&=laugh . %snd:"sastre5"_319528_320811
@@ -235,16 +235,16 @@
 *OSE:	www . %snd:"sastre5"_320759_321931
 *LIL:	lo normal . %snd:"sastre5"_321936_322470
 *LIL:	lo que puedan ustedes +.. . %snd:"sastre5"_322499_323683
-*NAT:	no pesa pero pesa lo normal [=! laugh] . %snd:"sastre5"_323730_327445
+*NAT:	no pesa pero pesa lo normal [=!laugh] . %snd:"sastre5"_323730_327445
 *LIL:	+< &=laugh . %snd:"sastre5"_325291_326887
 *LIL:	pero normal para los caballeros como ustedes no ? %snd:"sastre5"_327457_330981
 *NAT:	+< óyeme . %snd:"sastre5"_327771_328322
 *NAT:	+< lo que +// . %snd:"sastre5"_328345_328897
-*NAT:	mira &pe perdona allá está arriba yo no pude sacar las botellas que quedaron [=! laugh] . %snd:"sastre5"_330313_333883
+*NAT:	mira &pe perdona allá está arriba yo no pude sacar las botellas que quedaron [=!laugh] . %snd:"sastre5"_330313_333883
 *OSE:	www . %snd:"sastre5"_333980_334641
 *NAT:	porque yo soy muy bajita . %snd:"sastre5"_334606_336783
 *NAT:	pero ahí quedaron unas cuantas botellas que no pude sacarlas . %snd:"sastre5"_336854_339570
-*NAT:	no sé si (.) Lorena@s:eng&spa nos puede ayudar [=! laugh] . %snd:"sastre5"_339710_342432
+*NAT:	no sé si (.) Lorena@s:eng&spa nos puede ayudar [=!laugh] . %snd:"sastre5"_339710_342432
 *LIL:	no no no no . %snd:"sastre5"_341794_343024
 *NAT:	se va a quedar ahí ? %snd:"sastre5"_342519_343506
 *LIL:	pero a eso +// . %snd:"sastre5"_343471_344278
@@ -260,10 +260,10 @@
 *OSE:	+< www . %snd:"sastre5"_353988_355126
 *LIL:	dónde está la fiesta ? %snd:"sastre5"_355120_357065
 *OSE:	www . %snd:"sastre5"_356287_357146
-*LIL:	no no [=! laugh] . %snd:"sastre5"_357030_358202
+*LIL:	no no [=!laugh] . %snd:"sastre5"_357030_358202
 *NAT:	+< mira Lorena@s:eng&spa ven por favor . %snd:"sastre5"_357372_359247
 *LIL:	no . %snd:"sastre5"_360089_361737
-*NAT:	+< ah@s:eng&spa sí [=! laugh] ? %snd:"sastre5"_360379_361656
+*NAT:	+< ah@s:eng&spa sí [=!laugh] ? %snd:"sastre5"_360379_361656
 *LIL:	pero no [/] no se puede mover . %snd:"sastre5"_361774_363313
 *LIL:	ah@s:eng&spa no que se van a ca(er) +/ . %snd:"sastre5"_363324_364822
 *NAT:	no Lorena@s:eng&spa va a ayudar mamita . %snd:"sastre5"_363481_364903
@@ -333,7 +333,7 @@
 *LIL:	perdón mami . %snd:"sastre5"_457146_458423
 *OSE:	www . %snd:"sastre5"_456635_458429
 *NAT:	+< yo tengo que estar pensando cómo tú caminas para yo caminar &=laugh . %snd:"sastre5"_458622_462918
-*LIL:	I'm sorry . %snd:"sastre5"_459929_461020
+*LIL:	[- eng] I'm sorry . %snd:"sastre5"_459929_461020
 *LIL:	ves ? %snd:"sastre5"_461780_462576
 *LIL:	pero [/] pero es pesa(do) +// . %snd:"sastre5"_463162_464915
 *NAT:	+< eso pesa más que el mueble sí . %snd:"sastre5"_463667_465548
@@ -401,7 +401,7 @@
 *NAT:	+< Lily@s:eng&spa siéntate que el [/] el xxx . %snd:"sastre5"_569083_572212
 *LIL:	xxx . %snd:"sastre5"_571069_572828
 *OSE:	www . %snd:"sastre5"_572212_573176
-*LIL:	no no sit down . %snd:"sastre5"_573141_574378
+*LIL:	[- eng] no no sit down . %snd:"sastre5"_573141_574378
 *NAT:	siéntate Lorena@s:eng&spa mi amor . %snd:"sastre5"_574341_576257
 *LIL:	[- eng] you want a xxx ? %snd:"sastre5"_576187_577192
 *NAT:	+< quieres (.) quieres jugar a la suiza ? %snd:"sastre5"_576379_578469
@@ -432,7 +432,7 @@
 *NAT:	oye Lily@s:eng&spa . %snd:"sastre5"_620531_621629
 *LIL:	[- eng] what's wrong my &puchuchurro ? %snd:"sastre5"_621679_623827
 *LIL:	[- eng] what are all these people doing in our home right ? %snd:"sastre5"_623914_626265
-*LIL:	mira qué@s:eng quiet@s:eng . %snd:"sastre5"_626263_627290
+*LIL:	mira qué quiet@s:eng . %snd:"sastre5"_626263_627290
 *LIL:	[- eng] I know . %snd:"sastre5"_627296_628138
 *LIL:	[- eng] I know . %snd:"sastre5"_628138_629241
 *LIL:	mira qué quiet@s:eng . %snd:"sastre5"_629293_630738
@@ -477,20 +477,20 @@
 *LIL:	y me va a ver si estoy dilatada o no . %snd:"sastre5"_700701_702820
 *NAT:	después de hoy yo creo que sí &=laugh . %snd:"sastre5"_702939_705446
 *LIL:	no sí me dio un dolorcito aquí abajo . %snd:"sastre5"_705121_707757
-*LIL:	xxx beautiful . %snd:"sastre5"_709287_711968
+*LIL:	[- eng] xxx beautiful . %snd:"sastre5"_709287_711968
 *LIL:	[- eng] I love my dog . %snd:"sastre5"_711992_713228
 *LIL:	&puchuchurru . %snd:"sastre5"_714089_714960
 *NAT:	estaba tranquilita ahí ya . %snd:"sastre5"_714662_716630
 *LIL:	[- eng] you're beautiful boy . %snd:"sastre5"_716589_717727
 *LIL:	mama@s:eng loves@s:eng you@s:eng Pucho@s:eng&spa . %snd:"sastre5"_717703_719114
 *LIL:	sí mami ya voy a +// . %snd:"sastre5"_720088_721144
-*LIL:	Lorena@s:eng&spa en la graduación podemos tener una mujer dando a luz [=! laugh] . %snd:"sastre5"_721006_724373
+*LIL:	Lorena@s:eng&spa en la graduación podemos tener una mujer dando a luz [=!laugh] . %snd:"sastre5"_721006_724373
 *OSE:	www . %snd:"sastre5"_724206_725378
 *LIL:	no xxx . %snd:"sastre5"_724699_725564
-*NAT:	+< dando a luz porque al paso que va termina ahorita [=! laugh] . %snd:"sastre5"_725145_728610
+*NAT:	+< dando a luz porque al paso que va termina ahorita [=!laugh] . %snd:"sastre5"_725145_728610
 *LIL:	xxx . %snd:"sastre5"_728332_730033
 *OSE:	www . %snd:"sastre5"_730646_735134
-*LIL:	[- eng] oh right you're walking now um in december . %snd:"sastre5"_735139_738062
+*LIL:	[- eng] oh right you're walking now um in December . %snd:"sastre5"_735139_738062
 *OSE:	+< www . %snd:"sastre5"_736947_738125
 *OSE:	www . %snd:"sastre5"_738095_750767
 *LIL:	+< uhuh . %snd:"sastre5"_750511_750842
@@ -499,7 +499,7 @@
 *OSE:	www . %snd:"sastre5"_767875_775060
 *LIL:	[- eng] +< how frustrating . %snd:"sastre5"_775374_776610
 *OSE:	www . %snd:"sastre5"_776223_782229
-*LIL:	+< right . %snd:"sastre5"_782274_782588
+*LIL:	[- eng] +< right . %snd:"sastre5"_782274_782588
 *LIL:	porque &li it@s:eng just@s:eng &caim ya . %snd:"sastre5"_782721_784521
 *OSE:	www . %snd:"sastre5"_781763_786878
 *OSE:	www . %snd:"sastre5"_0_0
@@ -522,12 +522,12 @@
 *NAT:	quién te lo dio ? %snd:"sastre5"_835284_836271
 *LIL:	no lo compré en un Dixie@s:eng&spa . %snd:"sastre5"_836207_837536
 *NAT:	&=gasp . %snd:"sastre5"_837229_838436
-*LIL:	por Saint@s:eng&spa Patrick@s:eng&spa da(y) . %snd:"sastre5"_838018_839255
+*LIL:	por saint@s:eng Patrick@s:eng&spa da(y)@s:eng . %snd:"sastre5"_838018_839255
 *NAT:	en San@s:eng&spa (.) yo no lo creo . %snd:"sastre5"_838986_841314
 *NAT:	por qué tú no me lo dijiste para yo buscarlo ? %snd:"sastre5"_841297_843439
 *LIL:	ah@s:eng&spa pues mami no pensé . %snd:"sastre5"_843363_845372
 *NAT:	+< a mi me encanta este pan . %snd:"sastre5"_844339_846029
-*LIL:	+< pensé tanto en sister Mary@s:eng&spa . %snd:"sastre5"_845806_847309
+*LIL:	+< pensé tanto en sister@s:eng Mary@s:eng&spa . %snd:"sastre5"_845806_847309
 *NAT:	[- eng] I know . %snd:"sastre5"_847112_848337
 *NAT:	fíjate que el en seguida lo &en &lo conocí . %snd:"sastre5"_848304_850545
 *LIL:	+< si quieres +// . %snd:"sastre5"_848513_849111
@@ -543,8 +543,8 @@
 *NAT:	+" oy esto es soda@s:eng&spa bread@s:eng . %snd:"sastre5"_858916_859944
 *LIL:	es soda@s:eng&spa bread@s:eng xxx esto también . %snd:"sastre5"_860130_861889
 *NAT:	+< esto es un pan especial irlandés . %snd:"sastre5"_861059_863090
-*NAT:	que la que era jefa mía una monja era [/] es &em ay irish@s:eng . %snd:"sastre5"_864237_871627
-*LIL:	[- eng] irish . %snd:"sastre5"_871645_871976
+*NAT:	que la que era jefa mía una monja era [/] es &em ay Irish@s:eng . %snd:"sastre5"_864237_871627
+*LIL:	[- eng] Irish . %snd:"sastre5"_871645_871976
 *NAT:	&i irlandesa . %snd:"sastre5"_871593_872777
 *NAT:	+< y siempre ella me hacía esto . %snd:"sastre5"_873255_874718
 *NAT:	y me lo regalaba . %snd:"sastre5"_874590_875513
@@ -664,7 +664,7 @@
 *LIL:	&=laugh . %snd:"sastre5"_1038596_1043431
 *LIL:	ya el tercero no es tan emocionante . %snd:"sastre5"_1043445_1045935
 *OSE:	+< www . %snd:"sastre5"_1043445_1045935
-*LIL:	no qué malo [=! laugh] . %snd:"sastre5"_1045860_1047404
+*LIL:	no qué malo [=!laugh] . %snd:"sastre5"_1045860_1047404
 *NAT:	+< &=laugh la noches sin poder dormir . %snd:"sastre5"_1045886_1049416
 *LIL:	&=laugh . %snd:"sastre5"_1049275_1050297
 *OSE:	www . %snd:"sastre5"_1050140_1052224
@@ -692,7 +692,7 @@
 *OSE:	www . %snd:"sastre5"_1086440_1087595
 *NAT:	&=laugh . %snd:"sastre5"_1086440_1087595
 *NAT:	tu viste ? %snd:"sastre5"_1087665_1088402
-*NAT:	que me sonrió rápido [=! laugh] . %snd:"sastre5"_1088373_1090254
+*NAT:	que me sonrió rápido [=!laugh] . %snd:"sastre5"_1088373_1090254
 *OSE:	www . %snd:"sastre5"_1089626_1090276
 *NAT:	como diciendo +/ . %snd:"sastre5"_1090270_1092760
 *NAT:	+" Nataly@s:eng&spa estás hablando de más &=laugh . %snd:"sastre5"_1090270_1092760
@@ -781,7 +781,7 @@
 *NAT:	ay dios . %snd:"sastre5"_1252323_1253769
 *NAT:	se despierta para qué Peter@s:eng&spa ? %snd:"sastre5"_1253746_1255847
 *OSE:	www . %snd:"sastre5"_1255352_1256565
-*LIL:	+< I yeah xxx too yeah yeah . %snd:"sastre5"_1255741_1257639
+*LIL:	[- eng] +< I yeah xxx too yeah yeah . %snd:"sastre5"_1255741_1257639
 *NAT:	+< ah . %snd:"sastre5"_1257094_1257674
 *OSE:	www . %snd:"sastre5"_1260206_1261994
 *NAT:	oye Lily@s:eng&spa . %snd:"sastre5"_1261906_1262776
@@ -871,7 +871,7 @@
 *NAT:	bueno yo lo que sí te digo una cosa . %snd:"sastre5"_1425812_1427531
 *NAT:	que yo voy a estar en el médico con tu padre . %snd:"sastre5"_1427478_1429255
 *NAT:	y Enrique@s:eng&spa no está por aquí . %snd:"sastre5"_1429212_1430744
-*LIL:	cuando te empiece por tomar el café xxx te lleva [=! laugh] . %snd:"sastre5"_1430678_1434010
+*LIL:	cuando te empiece por tomar el café xxx te lleva [=!laugh] . %snd:"sastre5"_1430678_1434010
 *LIL:	esto es mejor &um &um . %snd:"sastre5"_1435479_1437893
 *LIL:	&=laugh . %snd:"sastre5"_1438002_1439233
 *NAT:	+< &=laugh qué descarada eres &=laugh . %snd:"sastre5"_1438113_1440957
@@ -889,8 +889,8 @@
 *LIL:	+< no no es por ti por +/ . %snd:"sastre5"_1457427_1459035
 *NAT:	+< yo he tenido cuidado cada vez que yo xxx al lado mío &=laugh . %snd:"sastre5"_1458420_1462574
 *LIL:	+< no no es por tí por esto que no quiero que se rompe . %snd:"sastre5"_1460211_1462759
-*NAT:	tú [/] tú te mueves [=! laugh] . %snd:"sastre5"_1462699_1463953
-*NAT:	y yo voy pa(ra) atrás que estoy así xxx [=! laugh] . %snd:"sastre5"_1464080_1466025
+*NAT:	tú [/] tú te mueves [=!laugh] . %snd:"sastre5"_1462699_1463953
+*NAT:	y yo voy pa(ra) atrás que estoy así xxx [=!laugh] . %snd:"sastre5"_1464080_1466025
 *NAT:	tú ni te dabas cuenta . %snd:"sastre5"_1465998_1468227
 *LIL:	no no me daba cuenta . %snd:"sastre5"_1468233_1469522
 *NAT:	tú ni te dabas que te [/] te movías conmigo no tú sola . %snd:"sastre5"_1473370_1475930
@@ -904,7 +904,7 @@
 *LIL:	sabe de computadoras . %snd:"sastre5"_1492004_1492968
 *LIL:	ella sabe +// . %snd:"sastre5"_1492962_1493479
 *LIL:	ella es un xxx women@s:eng . %snd:"sastre5"_1493455_1495145
-*NAT:	oh my god . %snd:"sastre5"_1495105_1496185
+*NAT:	[- eng] oh my god . %snd:"sastre5"_1495105_1496185
 *LIL:	de todo un poco sabe esta muchacha . %snd:"sastre5"_1496109_1498054
 *NAT:	eso es bueno Lorena@s:eng&spa . %snd:"sastre5"_1498008_1499181
 *NAT:	así no tienes que aguantar a nadie &=laugh . %snd:"sastre5"_1500579_1503504
@@ -938,7 +938,7 @@
 *NAT:	sí está más o menos igual . %snd:"sastre5"_1557494_1559196
 *LIL:	dónde está el sample@s:eng ? %snd:"sastre5"_1559167_1560868
 *NAT:	+< o sea si +// . %snd:"sastre5"_1559243_1560346
-*LIL:	yeah it's a +.. . %snd:"sastre5"_1560913_1562016
+*LIL:	[- eng] yeah it's a +.. . %snd:"sastre5"_1560913_1562016
 *NAT:	+< Lily@s:eng&spa el [/] el [/] el sample@s:eng no lo han puesto todavía . %snd:"sastre5"_1561459_1563926
 *NAT:	xxx . %snd:"sastre5"_1563786_1564756
 *LIL:	+< se parece . %snd:"sastre5"_1563868_1564622
@@ -1009,7 +1009,7 @@
 *LIL:	te dije que Enrique@s:eng&spa me [/] me pelió por esto . %snd:"sastre5"_1669639_1671305
 *OSE:	www . %snd:"sastre5"_1673297_1674847
 *LIL:	[- eng] yeah but I didn't ask for his permission . %snd:"sastre5"_1674907_1676826
-*LIL:	[- eng] I did't ask for his permission . %snd:"sastre5"_1679178_1680450
+*LIL:	[- eng] I didn't ask for his permission . %snd:"sastre5"_1679178_1680450
 *LIL:	[- eng] and it's monthly instalments for six months . %snd:"sastre5"_1680420_1682655
 *LIL:	[- eng] it's expensive . %snd:"sastre5"_1682621_1683979
 *LIL:	[- eng] but he came in . %snd:"sastre5"_1684386_1686163
@@ -1017,9 +1017,9 @@
 %com:	imitating a quarrel .
 *LIL:	xxx Enrique@s:eng&spa . %snd:"sastre5"_1686977_1688626
 *NAT:	tenías que haberle pedido el permiso . %snd:"sastre5"_1688601_1690307
-*NAT:	lo que pasa es que no te peleó porque estás embarazada [=! laugh] . %snd:"sastre5"_1690241_1692186
+*NAT:	lo que pasa es que no te peleó porque estás embarazada [=!laugh] . %snd:"sastre5"_1690241_1692186
 *LIL:	+< no no mami para estas cosas I@s:eng no@s:eng&spa I@s:eng didn't@s:eng want@s:eng to@s:eng hear@s:eng it@s:eng . %snd:"sastre5"_1692228_1697104
-*NAT:	si no te pelea más [=! laugh] . %snd:"sastre5"_1692270_1694604
+*NAT:	si no te pelea más [=!laugh] . %snd:"sastre5"_1692270_1694604
 *LIL:	Enrique@s:eng&spa tiene un [/] un [//] una [//] un método de hacer las cosas . %snd:"sastre5"_1697271_1700690
 *LIL:	el pelea . %snd:"sastre5"_1700823_1701490
 *LIL:	dice no . %snd:"sastre5"_1701490_1702233
