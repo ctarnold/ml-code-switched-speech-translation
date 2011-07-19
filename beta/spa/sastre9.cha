@@ -12,7 +12,7 @@
 @Media:	sastre9, audio
 @Comment:	Filename: sastre9.CHA; Soundfile: sastre9.wav
 @Comment:	Language markers: @s:eng = English, @s:spa = Spanish @s:eng&spa = Undetermined, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng&spa+eng = word with first morpheme(s) undetermined, second morpheme(s) English.
-*KAY:	so@s:eng sí hay un range@s:eng ahí@s:eng . %snd:"sastre9"_470_2107
+*KAY:	so@s:eng sí hay un range@s:eng ahí . %snd:"sastre9"_470_2107
 *JES:	mmhm . %snd:"sastre9"_2180_2490
 *KAY:	+< (d)onde los policías &e practican . %snd:"sastre9"_2181_4321
 *KAY:	y [/] y la gente que están (.) <los trainees@s:eng> [//] the@s:eng police@s:eng trainees@s:eng . %snd:"sastre9"_4293_7486
@@ -25,7 +25,7 @@
 *KAY:	[- eng] +< really ? %snd:"sastre9"_16433_16794
 *KAY:	pero aquí no se oye mucho . %snd:"sastre9"_16776_18222
 *JES:	+< absolutely@s:eng se puede quedar uno sordo . %snd:"sastre9"_17304_19522
-*KAY:	+< when [?] +// . %snd:"sastre9"_18233_18648
+*KAY:	[- eng] +< when [?] +// . %snd:"sastre9"_18233_18648
 *KAY:	cuando yo estoy entrando aquí sometimes@s:eng I@s:eng hear@s:eng it@s:eng . %snd:"sastre9"_19200_21150
 *KAY:	[- eng] but it's not so loud (be)cause the range is all the way over there . %snd:"sastre9"_21133_23356
 *JES:	[- eng] +< yeah . %snd:"sastre9"_23136_23635
@@ -97,7 +97,7 @@
 *KAY:	aquí hay una muchacha que se llama Ana@s:eng&spa que she's@s:eng very@s:eng sweet@s:eng . %snd:"sastre9"_134514_137405
 *KAY:	y entonces está encinta . %snd:"sastre9"_137834_139094
 *JES:	+< &aaa . %snd:"sastre9"_139118_139884
-*KAY:	y y no va poder venir@s:eng she's@s:eng not@s:eng gonna@s:eng be@s:eng able@s:eng to@s:eng come@s:eng in@s:eng for@s:eng another@s:eng seven@s:eng months@s:eng . %snd:"sastre9"_139119_142102
+*KAY:	y y no va poder venir she's@s:eng not@s:eng gonna@s:eng be@s:eng able@s:eng to@s:eng come@s:eng in@s:eng for@s:eng another@s:eng seven@s:eng months@s:eng . %snd:"sastre9"_139119_142102
 %com:	background noise
 *KAY:	[- eng] but everybody reports to her . %snd:"sastre9"_142140_143742
 *KAY:	[- eng] but I [/] I report <to the> [/] &a to the lieutenant which is in the command staff . %snd:"sastre9"_143783_147852
@@ -111,7 +111,7 @@
 *JES:	[- eng] because you know being a mother is no easy task . %snd:"sastre9"_156877_159762
 *KAY:	[- eng] no that I know +/ . %snd:"sastre9"_159884_161016
 *JES:	[- eng] +< but it's the best (.) that (.) anybody could experience in life +/ . %snd:"sastre9"_160568_164863
-*KAY:	[- eng] +< well you [/] you have a lot of experience being a xxx [=! laughs] . %snd:"sastre9"_164036_167194
+*KAY:	[- eng] +< well you [/] you have a lot of experience being a xxx [=!laughs] . %snd:"sastre9"_164036_167194
 *KAY:	[- eng] you reared us all . %snd:"sastre9"_166995_168319
 *JES:	[- eng] yeah . %snd:"sastre9"_168303_168994
 *KAY:	[- eng] +< you had six of us . %snd:"sastre9"_168304_169706
@@ -176,8 +176,8 @@
 *KAY:	[- eng] +< see look the number eight it's like it's all messed up +/ . %snd:"sastre9"_275009_278353
 *JES:	+< y entonces en qué letra entonces cuando uno tiene que marcar la letra uno no sabe . %snd:"sastre9"_277302_281232
 *JES:	pero los niños hoy en día (.) they@s:eng memorize@s:eng it@s:eng . %snd:"sastre9"_281580_284836
-*KAY:	Carmencita@s:eng&spa is@s:eng really@s:eng fast . %snd:"sastre9"_285362_286883
-*JES:	+< que (.) que number@s:eng seven@s:eng is@s:eng a@s:eng (.) I@s:eng don't@s:eng know@s:eng i@s:eng g@s:eng t@s:eng whatever@s:eng +/ . %snd:"sastre9"_286651_290981
+*KAY:	Carmencita@s:eng&spa is@s:eng really@s:eng fast@s:eng . %snd:"sastre9"_285362_286883
+*JES:	+< que (.) que number@s:eng seven@s:eng is@s:eng a@s:eng (.) I@s:eng don't@s:eng know@s:eng i_g_t@s:eng whatever@s:eng +/ . %snd:"sastre9"_286651_290981
 *KAY:	+< &e [/] Carmencita@s:eng&spa is@s:eng so@s:eng fast@s:eng <on@s:eng that@s:eng> [/] on@s:eng that@s:eng &i email@s:eng or@s:eng the@s:eng text@s:eng messaging@s:eng on@s:eng her@s:eng phone@s:eng . %snd:"sastre9"_289570_295428
 *JES:	[- eng] she'll answer faster to a text message than to answer her phone . %snd:"sastre9"_296080_299923
 *KAY:	[- eng] I think so . %snd:"sastre9"_299882_300695
@@ -186,14 +186,14 @@
 *KAY:	[- eng] and xxx was telling me that since she is so close to that phone that another way to get to her so she behaves is say to her +" . %snd:"sastre9"_303623_310215
 *KAY:	[- eng] +" you know <if you> [/] if you miss behave . %snd:"sastre9"_310195_313376
 *KAY:	[- eng] (be)cause you know she has a tendency with her friends and everythings . %snd:"sastre9"_313370_316267
-*KAY:	+" then@s:eng what@s:eng they're@s:eng gonna@s:eng take the@s:eng phone@s:eng away@s:eng when@s:eng you@s:eng get@s:eng name@s:eng from@s:eng school@s:eng you@s:eng can't@s:eng text@s:eng message@s:eng . %snd:"sastre9"_316047_319436
+*KAY:	[- eng] +" then what they're gonna take the phone away when you get name from school you can't text message . %snd:"sastre9"_316047_319436
 *KAY:	[- eng] and then [/] then she says how quickly she's gonna be behave (be)cause she wants to do it . %snd:"sastre9"_320031_324141
 *JES:	[- eng] you know I wish that [/] that would be a solution to the problem +/ . %snd:"sastre9"_324051_327255
 *KAY:	[- eng] +< but it's a a &=mumble at least it's a suggestion . %snd:"sastre9"_327041_329218
 *JES:	[- eng] you know taking away . %snd:"sastre9"_328086_329926
 *KAY:	[- eng] but what do you say ? %snd:"sastre9"_330503_331269
 *JES:	[- eng] you know the [/] the [/] the . %snd:"sastre9"_330613_332407
-*KAY:	[- eng] you [/] you have psycology . %snd:"sastre9"_331252_332598
+*KAY:	[- eng] you [/] you have psychology . %snd:"sastre9"_331252_332598
 *KAY:	[- eng] wha(t) [//] what's the best way ? %snd:"sastre9"_331253_333922
 *JES:	[- eng] my philosophy is totally different that +// . %snd:"sastre9"_332789_333892
 *JES:	[- eng] I believe in you know look for something that she's doing right . %snd:"sastre9"_336907_341226
@@ -213,7 +213,7 @@
 *KAY:	[- eng] so we're gonna punish her this weekend . %snd:"sastre9"_373520_375140
 *KAY:	[- eng] she can't go out . %snd:"sastre9"_375290_375981
 *KAY:	[- eng] she [/] she could go out . %snd:"sastre9"_375877_376835
-*KAY:	but@s:eng she@s:eng can't@s:eng be@s:eng with@s:eng her@s:eng friends@s:eng <which@s:eng is@s:eng> [///] that's@s:eng a@s:eng real@s:eng punishment . %snd:"sastre9"_376874_379439
+*KAY:	but@s:eng she@s:eng can't@s:eng be@s:eng with@s:eng her@s:eng friends@s:eng <which@s:eng is@s:eng> [///] that's@s:eng a@s:eng real@s:eng punishment@s:eng . %snd:"sastre9"_376874_379439
 *KAY:	you@s:eng know@s:eng puede ser +/ . %snd:"sastre9"_380120_381757
 *JES:	[- eng] +< yeah that [/] that to me that kind of punishment is like when you have finished all your recourses . %snd:"sastre9"_380629_387365
 %com:	background noise
@@ -252,7 +252,7 @@
 *JES:	y [//] and@s:eng he'll@s:eng ask@s:eng me@s:eng +"/ . %snd:"sastre9"_451578_453220
 *JES:	[- eng] +" are you mad at me ? %snd:"sastre9"_453226_454979
 *JES:	[- eng] I say +"/ . %snd:"sastre9"_455304_455705
-*JES:	+" yeah@s:eng I am . %snd:"sastre9"_455693_456576
+*JES:	[- eng]+" yeah I am . %snd:"sastre9"_455693_456576
 *JES:	[- eng] +" what do you expect ? %snd:"sastre9"_456733_457819
 *JES:	[- eng] +" you want me to have a smile on my face ? %snd:"sastre9"_457783_459954
 *KAY:	mmhm . %snd:"sastre9"_459815_460697
@@ -328,7 +328,7 @@
 *JES:	[- eng] and everybody goes into the sac . %snd:"sastre9"_597300_599494
 *JES:	[- eng] it's time to go to sleep . %snd:"sastre9"_599117_600835
 *JES:	[- eng] I think that if you program kids like that early in life like my son right now . %snd:"sastre9"_601633_607745
-*JES:	<he@s:eng automatically@s:eng can> [///] he@s:eng can't@s:eng stay@s:eng up@s:eng . %snd:"sastre9"_608315_611502
+*JES:	[- eng] <he automatically can> [///] he can't stay up . %snd:"sastre9"_608315_611502
 *KAY:	está cansado . %snd:"sastre9"_611949_612971
 *JES:	+< está cansado . %snd:"sastre9"_612541_613418
 *JES:	for@s:eng example@s:eng now@s:eng que he's@s:eng into@s:eng football@s:eng . %snd:"sastre9"_613936_616479
@@ -349,7 +349,7 @@
 *KAY:	[- eng] +< did they +/ . %snd:"sastre9"_637290_638213
 *KAY:	[- eng] &o he's like defence I think . %snd:"sastre9"_640616_642055
 *JES:	[- eng] yeah I don't know . %snd:"sastre9"_641907_643155
-*JES:	he@s:eng said@s:eng first@s:eng lineman +/ . %snd:"sastre9"_643114_644763
+*JES:	[- eng] he said first lineman +/ . %snd:"sastre9"_643114_644763
 *KAY:	+< I@s:eng don't@s:eng know@s:eng much@s:eng about@s:eng [//] I@s:eng don't@s:eng know@s:eng [///] yo tampoco conozco mucho football@s:eng&spa . %snd:"sastre9"_643115_644798
 *JES:	[- eng] I think he told me first lineman . %snd:"sastre9"_644687_647114
 *JES:	[- eng] he says +"/ . %snd:"sastre9"_647261_648004
@@ -542,7 +542,7 @@
 *KAY:	[- eng] do you wanna take care of her for the summer then ? %snd:"sastre9"_931346_933225
 *KAY:	[- eng] and I'll just give you something (.) for that . %snd:"sastre9"_933264_935024
 *JES:	[- eng] +< yeah . %snd:"sastre9"_934537_935083
-*JES:	&= coughing . %snd:"sastre9"_935063_936090
+*JES:	&=coughing . %snd:"sastre9"_935063_936090
 *KAY:	[- eng] I'm thinking +.. . %snd:"sastre9"_935696_936897
 *KAY:	[- eng] it's like three months right . %snd:"sastre9"_936926_938755
 *KAY:	[- eng] so &er +.. . %snd:"sastre9"_938771_940855
@@ -584,7 +584,7 @@
 *KAY:	[- eng] +< not that you can't . %snd:"sastre9"_993309_994610
 *KAY:	[- eng] I mean you do it xxx because you talk just as well . %snd:"sastre9"_994695_996895
 *JES:	[- eng] well I applied last year . %snd:"sastre9"_995804_997615
-*JES:	[- eng] pero it was very late . %snd:"sastre9"_997654_999602
+*JES:	pero it@s:eng was@s:eng very@s:eng late@s:eng . %snd:"sastre9"_997654_999602
 *KAY:	+< y qué te dijeron ? %snd:"sastre9"_997655_999602
 *JES:	and@s:eng they@s:eng already@s:eng had@s:eng hired@s:eng (.) todo el mundo que ellos necesitaban . %snd:"sastre9"_999660_1002909
 *KAY:	[- eng] we can go . %snd:"sastre9"_1002934_1003614
@@ -642,7 +642,7 @@
 *KAY:	[- eng] I don't think I've seen a guy there . %snd:"sastre9"_1075531_1077748
 *JES:	[- eng] the bag boys . %snd:"sastre9"_1076529_1077789
 *JES:	[- eng] yeah the bag boys are guys . %snd:"sastre9"_1077794_1079704
-*KAY:	do@s:eng you@s:eng want@s:eng me@s:eng to@s:eng have@s:eng requests ? %snd:"sastre9"_1079665_1081482
+*KAY:	[- eng] do you want me to have requests ? %snd:"sastre9"_1079665_1081482
 *JES:	[- eng] and they [/] they're really handicapped the ones that are bag boys . %snd:"sastre9"_1080091_1083336
 *KAY:	[- eng] yeah . %snd:"sastre9"_1082553_1083406
 *KAY:	[- eng] do you want me to request to see if they can train him how to be a cashier ? %snd:"sastre9"_1083448_1086361
@@ -656,8 +656,8 @@
 *KAY:	[- eng] to make sandwiches . %snd:"sastre9"_1095323_1096443
 *JES:	[- eng] but you can't work in there until you are eighteen . %snd:"sastre9"_1096186_1098531
 *KAY:	[- eng] oh really so you've done your homework . %snd:"sastre9"_1098535_1100160
-*JES:	[- eng] yeah [=! laughing ] . %snd:"sastre9"_1100162_1102060
-*KAY:	+< &= laughing . %snd:"sastre9"_1100162_1102060
+*JES:	[- eng] yeah [=!laughing ] . %snd:"sastre9"_1100162_1102060
+*KAY:	+< &=laughing . %snd:"sastre9"_1100162_1102060
 *KAY:	te conoce . %snd:"sastre9"_1102095_1102844
 *JES:	[- eng] only why . %snd:"sastre9"_1102863_1103966
 *JES:	[- eng] I tell you why . %snd:"sastre9"_1103979_1105344
@@ -769,13 +769,13 @@
 *KAY:	y si va uno a(l) [/] <al mar> [//] to@s:eng the@s:eng ocean@s:eng . %snd:"sastre9"_1266944_1271994
 *JES:	[- eng] +< no you know what happened at the ocean the other day ? %snd:"sastre9"_1270280_1272521
 *KAY:	[- eng] +< what happened ? %snd:"sastre9"_1272022_1272765
-*JES:	that@s:eng when@s:eng we@s:eng went@s:eng to@s:eng the@s:eng park@s:eng all@s:eng the@s:eng kids@s:eng decided@s:eng they@s:eng wanted@s:eng to@s:eng go@s:eng into the ocean . %snd:"sastre9"_1272769_1276329
+*JES:	[- eng] that when we went to the park all the kids decided they wanted to go into the ocean . %snd:"sastre9"_1272769_1276329
 *KAY:	mmhm . %snd:"sastre9"_1276335_1276718
-*JES:	and@s:eng of@s:eng course@s:eng Carmencita@s:eng&spa no@s:eng fue@s:eng . %snd:"sastre9"_1276710_1278312
+*JES:	and@s:eng of@s:eng course@s:eng Carmencita@s:eng&spa no fue . %snd:"sastre9"_1276710_1278312
 *JES:	fue pero no se metió en el agua . %snd:"sastre9"_1278291_1280805
-*KAY:	+< &= laugh . %snd:"sastre9"_1278291_1280805
+*KAY:	+< &=laugh . %snd:"sastre9"_1278291_1280805
 *JES:	[- eng] and &a [/] all the kids got sting [/] stung by a +/ . %snd:"sastre9"_1280814_1284105
-*KAY:	+< &= gasp . %snd:"sastre9"_1283134_1283854
+*KAY:	+< &=gasp . %snd:"sastre9"_1283134_1283854
 *KAY:	[- eng] men of war ? %snd:"sastre9"_1283999_1284812
 *JES:	[- eng] yeah . %snd:"sastre9"_1284794_1285206
 *JES:	todos . %snd:"sastre9"_1285214_1285812
@@ -791,7 +791,7 @@
 *JES:	<pero &llo> [/] pero todos los niños llorando porque dicen que le dolía mucho . %snd:"sastre9"_1300141_1303489
 *JES:	y Carmencita@s:eng&spa tú sabes . %snd:"sastre9"_1303489_1304661
 *JES:	pero esto tampoco no le ayuda a Carmencita@s:eng&spa porque le da miedo entrar al agua porque ella tú sabes que le da miedo de todo . %snd:"sastre9"_1304609_1308984
-*JES:	[- eng] so if she would have got stung that would have been her first experience [=! laugh] . %snd:"sastre9"_1308986_1312695
+*JES:	[- eng] so if she would have got stung that would have been her first experience [=!laugh] . %snd:"sastre9"_1308986_1312695
 *JES:	[- eng] she wouldn't have been going back in the ocean . %snd:"sastre9"_1312689_1314285
 *JES:	[- eng] I'll tell you that much . %snd:"sastre9"_1314322_1315290
 *KAY:	+< &i . %snd:"sastre9"_1314323_1315034
@@ -810,7 +810,7 @@
 *JES:	[- eng] no that's terrible . %snd:"sastre9"_1327330_1329246
 *KAY:	[- eng] +< no not good at all . %snd:"sastre9"_1327859_1329385
 *JES:	[- eng] so . %snd:"sastre9"_1329389_1330445
-*KAY:	yo te digo la verdad mira eso de sting rates . %snd:"sastre9"_1330474_1333116
+*KAY:	yo te digo la verdad mira eso de sting@s:eng rates@s:eng . %snd:"sastre9"_1330474_1333116
 *KAY:	e(so) [/] eso es muy peligroso . %snd:"sastre9"_1333112_1336345
 *KAY:	y ahora yo no sé qué está pasando . %snd:"sastre9"_1336281_1338272
 *JES:	+< xxx . %snd:"sastre9"_1336282_1337301
@@ -831,9 +831,9 @@
 *JES:	[- eng] no I know . %snd:"sastre9"_1362688_1363983
 *KAY:	[- eng] say +"/ . %snd:"sastre9"_1363952_1364132
 *KAY:	[- eng] +" honey I'll wait for you here . %snd:"sastre9"_1364108_1365554
-*JES:	&= laugh . %snd:"sastre9"_1365560_1366349
+*JES:	&=laugh . %snd:"sastre9"_1365560_1366349
 *JES:	[- eng] on land . %snd:"sastre9"_1366190_1367432
-*KAY:	+< &= laugh . %snd:"sastre9"_1366486_1368036
+*KAY:	+< &=laugh . %snd:"sastre9"_1366486_1368036
 *JES:	[- eng] +< I'll go to the movies while you are on the ocean . %snd:"sastre9"_1367879_1369754
 *JES:	[- eng] I'm safe territory . %snd:"sastre9"_1369754_1370846
 *KAY:	[- eng] +< yeah . %snd:"sastre9"_1370654_1371438
@@ -853,7 +853,7 @@
 *JES:	[- eng] and xxx . %snd:"sastre9"_1386571_1388818
 *KAY:	[- eng] +< <he even wants to play> [/] &em he wants to learn how to play an airplane . %snd:"sastre9"_1387314_1390629
 *JES:	[- eng] he does ? %snd:"sastre9"_1390617_1391737
-*JES:	do@s:eng you@s:eng know@s:eng Luis@s:eng&spa is@s:eng a@s:eng xxxx is@s:eng [/] is@s:eng [/] is@s:eng [///] knows@s:eng how@s:eng to@s:eng fly@s:eng . %snd:"sastre9"_1391695_1393982
+*JES:	do@s:eng you@s:eng know@s:eng Luis@s:eng&spa is@s:eng a@s:eng xxx is@s:eng [/] is@s:eng [/] is@s:eng [///] knows@s:eng how@s:eng to@s:eng fly@s:eng . %snd:"sastre9"_1391695_1393982
 *KAY:	[- eng] yeah . %snd:"sastre9"_1393918_1394783
 *JES:	[- eng] he has his license and everything . %snd:"sastre9"_1394382_1395578
 *KAY:	a mí no me gusta nada de eso . %snd:"sastre9"_1395559_1397579
@@ -867,7 +867,7 @@
 *JES:	porque yo no me voy xxx airplane@s:eng with@s:eng him@s:eng . %snd:"sastre9"_1401136_1404097
 *KAY:	+< no . %snd:"sastre9"_1403934_1404393
 *KAY:	[- eng] I did it once . %snd:"sastre9"_1404385_1406219
-*KAY:	I@s:eng went@s:eng <on a> [/] on@s:eng an@s:eng airplane@s:eng que era chiquitito . %snd:"sastre9"_1406200_1410757
+*KAY:	I@s:eng went@s:eng <on@s:eng a@s:eng> [/] on@s:eng an@s:eng airplane@s:eng que era chiquitito . %snd:"sastre9"_1406200_1410757
 *KAY:	[- eng] this guy told me that he was (.) &t a doctor . %snd:"sastre9"_1410846_1415215
 *KAY:	[- eng] he lied about that . %snd:"sastre9"_1415157_1416997
 *KAY:	[- eng] this is when I was single . %snd:"sastre9"_1417080_1418670
@@ -904,7 +904,7 @@
 *KAY:	[- eng] +< don't overcook it . %snd:"sastre9"_1451233_1452492
 *KAY:	[- eng] that's all you have to do . %snd:"sastre9"_1452492_1453984
 *JES:	[- eng] yeah and then I made him a salad . %snd:"sastre9"_1453874_1455824
-*JES:	and@s:eng Carmencita@s:eng&spa of@s:eng course@s:eng estaba comiendo su macaroni@s:eng and cheese@s:eng . %snd:"sastre9"_1455859_1458947
+*JES:	and@s:eng Carmencita@s:eng&spa of@s:eng course@s:eng estaba comiendo su macaroni@s:eng and@s:eng cheese@s:eng . %snd:"sastre9"_1455859_1458947
 *KAY:	[- eng] that's ok . %snd:"sastre9"_1458939_1460449
 *KAY:	ella come lo que le gusta . %snd:"sastre9"_1460472_1462376
 *KAY:	no come cosas <que le> [/] que le sean nutritional@s:eng you@s:eng know@s:eng . %snd:"sastre9"_1462383_1467788
@@ -919,7 +919,7 @@
 *KAY:	[- eng] eventually +// . %snd:"sastre9"_1477448_1478325
 *JES:	[- eng] she's eating more salads though . %snd:"sastre9"_1477551_1479147
 *KAY:	+< yeah@s:eng eventually@s:eng yo creo no sé yo creo que ella va a comenzar a comer mejor . %snd:"sastre9"_1478520_1484116
-*JES:	+< yeah . %snd:"sastre9"_1483930_1484302
+*JES:	[- eng] +< yeah . %snd:"sastre9"_1483930_1484302
 *JES:	[- eng] she's eating chicken caesar salad now . %snd:"sastre9"_1484329_1485867
 *KAY:	[- eng] that's good . %snd:"sastre9"_1485867_1486721
 *KAY:	[- eng] that's very good . %snd:"sastre9"_1486691_1487742
@@ -941,8 +941,8 @@
 *KAY:	[- eng] yeah it's stuffed shells . %snd:"sastre9"_1526233_1528346
 *KAY:	[- eng] so that's one meal . %snd:"sastre9"_1528428_1529626
 *JES:	y cuánto tú le sirves a todo el mundo ? %snd:"sastre9"_1529735_1531145
-*KAY:	+< so@s:eng when@s:eng I@s:eng say@s:eng que yo tengo ayuda de otra gente quiero decir que I@s:eng use@s:eng frozen@s:eng vegetables@s:eng [=! laughing] . %snd:"sastre9"_1530145_1536633
-*JES:	+< &= laughs I@s:eng thought@s:eng that@s:eng you@s:eng meant@s:eng that@s:eng you@s:eng had@s:eng xxx helping@s:eng you@s:eng . %snd:"sastre9"_1535280_1538651
+*KAY:	+< so@s:eng when@s:eng I@s:eng say@s:eng que yo tengo ayuda de otra gente quiero decir que I@s:eng use@s:eng frozen@s:eng vegetables@s:eng [=!laughing] . %snd:"sastre9"_1530145_1536633
+*JES:	+< &=laughs I@s:eng thought@s:eng that@s:eng you@s:eng meant@s:eng that@s:eng you@s:eng had@s:eng xxx helping@s:eng you@s:eng . %snd:"sastre9"_1535280_1538651
 *KAY:	[- eng] no are you kidding me ? %snd:"sastre9"_1538689_1540129
 *KAY:	[- eng] I'm serious . %snd:"sastre9"_1540152_1541284
 *JES:	[- eng] do they ever wash the dishes ? %snd:"sastre9"_1541294_1542350
@@ -974,7 +974,7 @@
 *KAY:	y le dije +"/ . %snd:"sastre9"_1572608_1573153
 *KAY:	[- eng] +" you think this is arthritis ? %snd:"sastre9"_1573053_1574637
 *KAY:	[- eng] me dice +"/ . %snd:"sastre9"_1574616_1575870
-*KAY:	+" no parece que sea arthritis . %snd:"sastre9"_1575846_1577809
+*KAY:	+" no parece que sea arthritis@s:eng . %snd:"sastre9"_1575846_1577809
 *KAY:	yo le dije +"/ . %snd:"sastre9"_1577770_1578606
 *KAY:	+" pero doctor@s:eng I@s:eng have@s:eng a@s:eng terrible@s:eng pain@s:eng in@s:eng my@s:eng finger@s:eng . %snd:"sastre9"_1578582_1581427
 *JES:	[- eng] not good . %snd:"sastre9"_1581421_1582919
@@ -985,7 +985,7 @@
 *JES:	[- eng] exactly . %snd:"sastre9"_1590526_1591333
 *KAY:	[- eng] it's my life . %snd:"sastre9"_1591325_1592806
 *JES:	do@s:eng you@s:eng love@s:eng kickboxing ? %snd:"sastre9"_1592798_1594597
-*KAY:	+< &= laughing . %snd:"sastre9"_1592798_1594597
+*KAY:	+< &=laughing . %snd:"sastre9"_1592798_1594597
 *JES:	I@s:eng need@s:eng to@s:eng start@s:eng on@s:eng my@s:eng treadmill@s:eng también . %snd:"sastre9"_1594586_1596287
 *KAY:	[- eng] oh my god . %snd:"sastre9"_1596250_1596956
 *KAY:	[- eng] I [/] I tell you I wish he would go with me . %snd:"sastre9"_1596940_1599255
@@ -1030,12 +1030,12 @@
 *JES:	[- eng] yeah he is a very serious guy . %snd:"sastre9"_1653593_1655034
 *KAY:	[- eng] yeah . %snd:"sastre9"_1655052_1655464
 *KAY:	[- eng] he is serious ? %snd:"sastre9"_1655475_1657246
-*JES:	[- eng] +< now he is more serious [=! laughing] . %snd:"sastre9"_1656131_1657246
+*JES:	[- eng] +< now he is more serious [=!laughing] . %snd:"sastre9"_1656131_1657246
 *KAY:	pobrecita . %snd:"sastre9"_1657257_1658447
-*JES:	+< &= laughing . %snd:"sastre9"_1657257_1658447
+*JES:	+< &=laughing . %snd:"sastre9"_1657257_1658447
 *JES:	[- eng] no he is really serious . %snd:"sastre9"_1658525_1659556
 *JES:	[- eng] but yesterday we were watching T_V . %snd:"sastre9"_1659589_1661471
-*KAY:	+< &= laughing . %snd:"sastre9"_1659589_1661471
+*KAY:	+< &=laughing . %snd:"sastre9"_1659589_1661471
 *JES:	[- eng] xxx was on he says +"/ . %snd:"sastre9"_1661477_1663068
 *JES:	+" did@s:eng you@s:eng know@s:eng anything@s:eng about@s:eng Publix@s:eng&spa ? %snd:"sastre9"_1663205_1664355
 *KAY:	[- eng] oh . %snd:"sastre9"_1664272_1665241
@@ -1112,7 +1112,7 @@
 *KAY:	vamos a ver cuánto quiere . %snd:"sastre9"_1798663_1799679
 *KAY:	si el tipo quiere dos mil dólares le voy a decir que no . %snd:"sastre9"_1799673_1801287
 *KAY:	you@s:eng know@s:eng aunque yo no lo pago . %snd:"sastre9"_1801299_1803232
-*KAY:	lo va a pagar Luis@s:eng&spa but you know@s:eng still@s:eng . %snd:"sastre9"_1803249_1805269
+*KAY:	lo va a pagar Luis@s:eng&spa but@s:eng you@s:eng know@s:eng still@s:eng . %snd:"sastre9"_1803249_1805269
 *JES:	+< no pero de todos modos no vale la pena . %snd:"sastre9"_1803290_1805937
 *JES:	yo te digo sinceramente +"/ . %snd:"sastre9"_1806028_1808055
 *JES:	[- eng] +" I think that you both should come and see it . %snd:"sastre9"_1808061_1810029
@@ -1126,7 +1126,7 @@
 *KAY:	[- eng] but what happened ? %snd:"sastre9"_1820675_1822457
 *JES:	[- eng] that house is beautiful . %snd:"sastre9"_1826056_1827560
 *KAY:	[- eng] +< he [/] <he is not> [/] he is not retired yet . %snd:"sastre9"_1826236_1828964
-*JES:	[- eng] he should [=! laugh] . %snd:"sastre9"_1828987_1830207
+*JES:	[- eng] he should [=!laugh] . %snd:"sastre9"_1828987_1830207
 *KAY:	[- eng] I know . %snd:"sastre9"_1830201_1830862
 *KAY:	[- eng] <if I> [/] if I was his age and his money I would have retired . %snd:"sastre9"_1830853_1833625
 *JES:	+< pero a él +.. . %snd:"sastre9"_1831002_1833306
@@ -1210,7 +1210,7 @@
 *JES:	tú qué crees ? %snd:"sastre9"_1970039_1970707
 *KAY:	yo creo que sí . %snd:"sastre9"_1970689_1971658
 *JES:	yo creo que le va a encantar because@s:eng +.. . %snd:"sastre9"_1971889_1974002
-*KAY:	[- eng] anything that you decide to do sis is very intellingent . %snd:"sastre9"_1973419_1977001
+*KAY:	[- eng] anything that you decide to do sis is very intelligent . %snd:"sastre9"_1973419_1977001
 *JES:	[- eng] +< I [/] I'm banking on that sis . %snd:"sastre9"_1976008_1978214
 *JES:	[- eng] I really am banking on that because I like to see you know something that I do . %snd:"sastre9"_1978179_1985011
 *KAY:	[- eng] to flourish . %snd:"sastre9"_1984999_1986549
@@ -1222,7 +1222,7 @@
 *KAY:	[- eng] because of the insurance . %snd:"sastre9"_1994401_1995777
 *JES:	[- eng] yeah the insurance . %snd:"sastre9"_1995742_1997054
 *KAY:	+< el insurance@s:eng está carísimo . %snd:"sastre9"_1995788_1997489
-*JES:	oh@s:eng yeah man . %snd:"sastre9"_1997427_1998158
+*JES:	[- eng] oh yeah man . %snd:"sastre9"_1997427_1998158
 *KAY:	tú te acuerdas cuando yo dejé de trabajar . %snd:"sastre9"_1998133_1999503
 *KAY:	[- eng] I went on cobra [/] . %snd:"sastre9"_1999555_2000774
 *JES:	mmhm . %snd:"sastre9"_2000861_2001471
@@ -1235,10 +1235,10 @@
 *KAY:	[- eng] you really cannot retire . %snd:"sastre9"_2009015_2010185
 *JES:	[- eng] no you can't retire . %snd:"sastre9"_2010168_2011944
 *JES:	[- eng] and mm I don't want him to retire either . %snd:"sastre9"_2011996_2014187
-*JES:	&= laughing . %snd:"sastre9"_2014192_2015690
+*JES:	&=laughing . %snd:"sastre9"_2014192_2015690
 *KAY:	[- eng] +< yeah . %snd:"sastre9"_2014192_2015690
 *KAY:	[- eng] most housewives would say that about their husbands . %snd:"sastre9"_2015690_2018204
-*JES:	+< &= laughing . %snd:"sastre9"_2015690_2018204
+*JES:	+< &=laughing . %snd:"sastre9"_2015690_2018204
 *JES:	[- eng] you'll drive me crazy . %snd:"sastre9"_2018213_2019606
 *KAY:	[- eng] +< go to work honey . %snd:"sastre9"_2018488_2019641
 *KAY:	[- eng] go to work honey . %snd:"sastre9"_2019670_2020582
@@ -1261,8 +1261,8 @@
 *KAY:	[- eng] so it's not like I have to cook . %snd:"sastre9"_2037143_2038512
 *JES:	[- eng] that's a blessing . %snd:"sastre9"_2038531_2040151
 *KAY:	[- eng] exactly . %snd:"sastre9"_2040110_2040859
-*JES:	[- eng] just for that keep him around [=! laughing] . %snd:"sastre9"_2040516_2043309
-*KAY:	[- eng] +< yeah [=! laughing] . %snd:"sastre9"_2042053_2043208
+*JES:	[- eng] just for that keep him around [=!laughing] . %snd:"sastre9"_2040516_2043309
+*KAY:	[- eng] +< yeah [=!laughing] . %snd:"sastre9"_2042053_2043208
 *KAY:	[- eng] exactly . %snd:"sastre9"_2043173_2044230
 *JES:	[- eng] no . %snd:"sastre9"_2044146_2044686
 *KAY:	[- eng] the other day he was shocked that I said +"/ . %snd:"sastre9"_2044698_2046056
@@ -1271,7 +1271,7 @@
 *JES:	[- eng] yeah . %snd:"sastre9"_2048173_2048794
 *KAY:	[- eng] +" are you feeling ok ? %snd:"sastre9"_2048759_2049746
 *JES:	[- eng] yeah . %snd:"sastre9"_2049804_2050564
-*KAY:	pero no lo molestas sis . %snd:"sastre9"_2050563_2052853
+*KAY:	pero no lo molestas sis@s:eng . %snd:"sastre9"_2050563_2052853
 *JES:	+< como no molestas . %snd:"sastre9"_2052344_2053766
 *KAY:	+< si él se queda así eso sería un milagro de dios . %snd:"sastre9"_2053000_2055459
 *JES:	+< sería . %snd:"sastre9"_2055061_2055787
@@ -1281,7 +1281,7 @@
 *JES:	sí . %snd:"sastre9"_2058329_2058974
 *KAY:	conoció a [/] a [/] a Lola . %snd:"sastre9"_2058428_2060103
 *KAY:	[- eng] yeah . %snd:"sastre9"_2060106_2061516
-*KAY:	so@s:eng we'll see@s:eng lo@s:eng que@s:eng +/ . %snd:"sastre9"_2061586_2062837
+*KAY:	so@s:eng we'll@s:eng see@s:eng lo que +/ . %snd:"sastre9"_2061586_2062837
 *JES:	+< él es buena gente . %snd:"sastre9"_2062289_2063189
 *KAY:	[- eng] +< yes he is . %snd:"sastre9"_2063102_2064013
 *JES:	yo siempre te lo he dicho . %snd:"sastre9"_2063611_2064777
@@ -1289,14 +1289,14 @@
 *KAY:	oh@s:eng&spa <te dio> [//] yo no te di <la car(ta)> [/] la carta ? %snd:"sastre9"_2065917_2067658
 *JES:	[- eng] yeah you gave me the letter yeah . %snd:"sastre9"_2067635_2068988
 *KAY:	+< ah sí . %snd:"sastre9"_2067635_2068755
-*JES:	and &er ya se la dimos al profesor y todo . %snd:"sastre9"_2068994_2072193
+*JES:	and@s:eng &er ya se la dimos al profesor y todo . %snd:"sastre9"_2068994_2072193
 *KAY:	yo estaba haciendo otro pa(ra) Carmencita . %snd:"sastre9"_2072196_2074379
 *KAY:	enseñamelo porque she's@s:eng gonna@s:eng need@s:eng community@s:eng hours@s:eng . %snd:"sastre9"_2074411_2076553
 *JES:	[- eng] oh really ? %snd:"sastre9"_2076568_2077514
 *KAY:	[- eng] sure . %snd:"sastre9"_2077520_2078165
 *KAY:	[- eng] she needs them now . %snd:"sastre9"_2078165_2079297
 *JES:	+< xxx . %snd:"sastre9"_2078165_2079250
-*KAY:	[- eng] she needs them now for her xxx no sé qué . %snd:"sastre9"_2079228_2081741
+*KAY:	she@s:eng needs@s:eng them@s:eng now@s:eng for@s:eng her@s:eng xxx no sé qué . %snd:"sastre9"_2079228_2081741
 *JES:	[- eng] you know I think this is so ridiculous . %snd:"sastre9"_2081698_2084148
 *KAY:	she@s:eng had@s:eng a@s:eng good@s:eng over@s:eng a@s:eng hundred@s:eng hours@s:eng of@s:eng vodka@s:eng&spa . %snd:"sastre9"_2084202_2086540
 *JES:	[- eng] oh please . %snd:"sastre9"_2086554_2087413
@@ -1336,7 +1336,7 @@
 *KAY:	[- eng] so it's four hundred dollars a month . %snd:"sastre9"_2136704_2137764
 *KAY:	[- eng] two hundred dollars for the expenses . %snd:"sastre9"_2137799_2139624
 *KAY:	[- eng] you know the food +.. . %snd:"sastre9"_2139566_2140982
-*JES:	[- eng] +< we can calculate to see because cuando uno come afuera it's expensive . %snd:"sastre9"_2139757_2144206
+*JES:	+< we@s:eng can@s:eng calculate@s:eng to@s:eng see@s:eng because@s:eng cuando uno come afuera it's@s:eng expensive@s:eng . %snd:"sastre9"_2139757_2144206
 *KAY:	[- eng] well no two hundred dollars for her expenses for the food for the movies wherever you go . %snd:"sastre9"_2143909_2148574
 *JES:	[- eng] +< yeah . %snd:"sastre9"_2148255_2148772
 *KAY:	I@s:eng think@s:eng two@s:eng hundred@s:eng is@s:eng ok@s:eng&spa . %snd:"sastre9"_2148789_2149997
@@ -1362,13 +1362,13 @@
 *KAY:	+< you@s:eng know@s:eng xxx empezó . %snd:"sastre9"_2171069_2172391
 *KAY:	[- eng] mother told her or she told her ? %snd:"sastre9"_2172431_2173991
 *JES:	xxx . %snd:"sastre9"_2173919_2174784
-*KAY:	did@s:eng mother@s:eng brigh@s:eng it@s:eng up@s:eng or@s:eng Carmencita@s:eng&spa brought@s:eng it@s:eng up@s:eng ? %snd:"sastre9"_2174842_2176787
+*KAY:	did@s:eng mother@s:eng bring@s:eng it@s:eng up@s:eng or@s:eng Carmencita@s:eng&spa brought@s:eng it@s:eng up@s:eng ? %snd:"sastre9"_2174842_2176787
 *JES:	[- eng] +< no she brought it up . %snd:"sastre9"_2176419_2177636
 *KAY:	tú ves entonces se me va a fastidiar a mí porque es mi hija . %snd:"sastre9"_2177599_2180966
 *JES:	+< xxx . %snd:"sastre9"_2177599_2180900
 *KAY:	con las amistades . %snd:"sastre9"_2181045_2182264
 *JES:	+< no es que mami prefiere que ella vaya al parque . %snd:"sastre9"_2182038_2185053
-*KAY:	no yo no quireo que vaya al parque . %snd:"sastre9"_2185138_2187626
+*KAY:	no yo no quiero que vaya al parque . %snd:"sastre9"_2185138_2187626
 *JES:	pero mami prefiere . %snd:"sastre9"_2187632_2188706
 *KAY:	[- eng] no but I don't prefer it . %snd:"sastre9"_2188700_2189826
 *KAY:	[- eng] and I'm the mother . %snd:"sastre9"_2189834_2190664
@@ -1442,13 +1442,13 @@
 *KAY:	ponles +// . %snd:"sastre9"_2279035_2279685
 *JES:	+< esa es otra cosa que le va a molestar toda el week@s:eng . %snd:"sastre9"_2279203_2281746
 *KAY:	[- eng] xxx she wants some . %snd:"sastre9"_2281812_2282659
-*KAY:	[- eng] she wants xxx thursday today . %snd:"sastre9"_2282653_2284244
+*KAY:	[- eng] she wants xxx Thursday today . %snd:"sastre9"_2282653_2284244
 *KAY:	she@s:eng wants@s:eng you@s:eng to@s:eng take@s:eng her@s:eng today@s:eng porque she@s:eng wants@s:eng to@s:eng show@s:eng it@s:eng to@s:eng her@s:eng friends@s:eng . %snd:"sastre9"_2284305_2286770
 *JES:	[- eng] really ? %snd:"sastre9"_2284884_2285534
 *JES:	[- eng] oh my god . %snd:"sastre9"_2286866_2287882
 *KAY:	no todos los niños los tienen xxx . %snd:"sastre9"_2287360_2289606
 *JES:	xxx . %snd:"sastre9"_2289668_2290515
-*JES:	+< well@s:eng ese the@s:eng good@s:eng thing@s:eng es que@s:eng she@s:eng is@s:eng a@s:eng kid@s:eng . %snd:"sastre9"_2289737_2292175
+*JES:	+< well@s:eng ese the@s:eng good@s:eng thing@s:eng es que she@s:eng is@s:eng a@s:eng kid@s:eng . %snd:"sastre9"_2289737_2292175
 *KAY:	[- eng] +< it's like a xxx right know with the kids . %snd:"sastre9"_2291950_2293657
 *KAY:	[- eng] she wanted xxx right away . %snd:"sastre9"_2293639_2294858
 *KAY:	she@s:eng said@s:eng that@s:eng she's@s:eng not@s:eng gonna@s:eng [/] give@s:eng you@s:eng hard@s:eng time@s:eng ni nada . %snd:"sastre9"_2294841_2296429
