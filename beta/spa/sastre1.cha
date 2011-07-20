@@ -5,7 +5,7 @@
 @ID:	spa, eng|bangor3|SOF||female|||Adult|
 @ID:	spa, eng|bangor3|KEV||male|||Adult||
 @Media:	 sastre1, audio
-@Situation:	SOF and KEV are neighbors and have lived in the same neighborhood for several years. They are sitting in the back porch of KEV’s house which has a view out to a lake – and converse about plants and their neighborhood
+@Situation:	SOF and KEV are neighbors and have lived in the same neighborhood for several years. They are sitting in the back porch of KEV's house which has a view out to a lake - and converse about plants and their neighborhood
 @Comment:
 @Date:	02-MAR-2008
 @Coder:	M. Carmen Parafita Couto, Prifysgol Bangor University
@@ -22,12 +22,12 @@
 *SOF:	yo no sé . %snd:"sastre1"_15321_16325
 *SOF:	cómo va a doblar esa rotondita ? %snd:"sastre1"_16309_17702
 *SOF:	porque no está fácil para los carros de uno . %snd:"sastre1"_17697_19392
-*KEV:	no@s:spa&eng . %snd:"sastre1"_19378_21108
+*KEV:	no@s:eng&spa . %snd:"sastre1"_19378_21108
 *KEV:	no pero +/ . %snd:"sastre1"_21071_21669
 *SOF:	+< no tanto este lado sino el [/] el lado izquierdo . %snd:"sastre1"_21657_24622
 *KEV:	el de entrar o el de salir ? %snd:"sastre1"_24598_25846
 *SOF:	cuando tú entras . %snd:"sastre1"_25815_27545
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_27545_28004
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_27545_28004
 *KEV:	bueno ese está en la intersección . %snd:"sastre1"_28001_30062
 *KEV:	ese tiene bastante espacio . %snd:"sastre1"_30012_30976
 *KEV:	<lo malo> [///] el otro yo lo veo más difícil porque es más [/] más estrechito . %snd:"sastre1"_30970_36600
@@ -70,14 +70,14 @@
 *SOF:	+< no viste que te mandaron una hoja hoy con todo lo de [/] del meeting@s:eng ? %snd:"sastre1"_102074_106403
 *KEV:	+< no # no no e(staba) [/] e(staba) [//] estaba en la puerta . %snd:"sastre1"_102074_106403
 *KEV:	cuando salimos que nos íbamos pal( bicycle@s:eng shop@s:eng . %snd:"sastre1"_106413_109512
-*SOF:	mmhm@s:spa&eng . %snd:"sastre1"_109512_109866
+*SOF:	mmhm@s:eng&spa . %snd:"sastre1"_109512_109866
 *KEV:	estaba puesto en la puerta y yo lo tiré para dentro de la casa y nos fuimos . %snd:"sastre1"_109860_112467
 *KEV:	y ahora les [///] ya vi que lo había sacado de [/] de la maleta . %snd:"sastre1"_112468_116348
 *KEV:	pero <no me había fijado> [/] # <no me había> [//] no me he fijado qué cosa hay dentro . %snd:"sastre1"_116336_121294
 *SOF:	&=sigh . %snd:"sastre1"_121282_124783
 *KEV:	y <se ha &pa> [///] está rico el tiempo . %snd:"sastre1"_124758_126656
 *SOF:	[- eng] it's beautiful . %snd:"sastre1"_126635_128475
-*KEV:	+< mmhm@s:spa&eng mmhm@s:spa&eng mmhm@s:spa&eng . %snd:"sastre1"_126635_130884
+*KEV:	+< mmhm@s:eng&spa mmhm@s:eng&spa mmhm@s:eng&spa . %snd:"sastre1"_126635_130884
 *SOF:	(es)tá tan lindo . %snd:"sastre1"_130855_131900
 *KEV:	sí . %snd:"sastre1"_131900_132521
 *SOF:	+< &=cough . %snd:"sastre1"_132237_132806
@@ -96,9 +96,9 @@
 *SOF:	[- eng] yeah . %snd:"sastre1"_164797_165366
 *KEV:	[- eng] it's not even . %snd:"sastre1"_165355_166649
 *KEV:	[- eng] so: # that's something to +.. . %snd:"sastre1"_166642_168912
-*KEV:	pero sí se pudieran poner un par de tubos o algo # so@s:eng we@s:eng could@s:eng uh@s:spa&eng # install@s:eng the@s:eng hammock@s:eng . %snd:"sastre1"_168925_175310
+*KEV:	pero sí se pudieran poner un par de tubos o algo # so@s:eng we@s:eng could@s:eng uh@s:eng&spa # install@s:eng the@s:eng hammock@s:eng . %snd:"sastre1"_168925_175310
 *SOF:	[- eng] xxx this is great back here . %snd:"sastre1"_175331_176701
-*KEV:	[- eng] mmhm@s:spa&eng yeah . %snd:"sastre1"_176695_177322
+*KEV:	mmhm@s:eng&spa yeah@s:eng . %snd:"sastre1"_176695_177322
 *SOF:	[- eng] and this month that is pretty cool . %snd:"sastre1"_177303_180229
 *KEV:	[- eng] it's really really nice . %snd:"sastre1"_180221_182543
 *KEV:	[- eng] when it gets to July and August it gets hot . %snd:"sastre1"_182537_185118
@@ -109,7 +109,7 @@
 *KEV:	bueno we@s:eng +/ . %snd:"sastre1"_195585_197511
 *SOF:	[- eng] because pool(s) are good for when you have smaller kids but already . %snd:"sastre1"_197059_200228
 *SOF:	[- eng] they don't even wanna jump in it . %snd:"sastre1"_200210_202433
-*KEV:	[- eng] eh@s:spa&eng we had a hard time finding the house . %snd:"sastre1"_202440_206353
+*KEV:	eh@s:eng&spa we@s:eng had@s:eng a@s:eng hard@s:eng time@s:eng finding@s:eng the@s:eng house@s:eng . %snd:"sastre1"_202440_206353
 *KEV:	[- eng] because we were looking for a house in Miami Lakes on the lake without the pool . %snd:"sastre1"_206346_210554
 *KEV:	[- eng] and that's [//] that made it very difficult in nineteen ninety eight when we bought here finding that . %snd:"sastre1"_210520_215663
 *KEV:	[- eng] we couldn't find it . %snd:"sastre1"_215667_217066
@@ -125,26 +125,26 @@
 *KEV:	habían bajado el precio un viaje . %snd:"sastre1"_229900_231316
 *KEV:	y entonces como en agosto # que nosotros encontramos la casa habían vuelto a bajar el precio . %snd:"sastre1"_231300_237318
 *KEV:	y entonces negociamos con [/] con la hija de Lucía la señora que vive aquí . %snd:"sastre1"_237273_243407
-*SOF:	+< mmhm@s:spa&eng . %snd:"sastre1"_242547_243180
+*SOF:	+< mmhm@s:eng&spa . %snd:"sastre1"_242547_243180
 *KEV:	xxx and@s:eng we@s:eng # got@s:eng it@s:eng pero . %snd:"sastre1"_243400_245931
 *KEV:	[- eng] a house on the lake without a pool is almost impossible # to find . %snd:"sastre1"_245910_250248
 *SOF:	[- eng] but you've done a lot to this house . %snd:"sastre1"_250242_253029
-*KEV:	[- eng] +< mmhm@s:spa&eng yeah . %snd:"sastre1"_251711_252970
+*KEV:	+< mmhm@s:eng&spa yeah@s:eng . %snd:"sastre1"_251711_252970
 *SOF:	[- eng] you have done so much . %snd:"sastre1"_252962_254390
 *SOF:	[- eng] it's incredible . %snd:"sastre1"_254384_255307
 *KEV:	[- eng] +< yeah . %snd:"sastre1"_254384_255307
 *KEV:	y ahora vamos a hacerle el baño . %snd:"sastre1"_255313_256921
 *SOF:	[- eng] yeah . %snd:"sastre1"_256915_257675
 *KEV:	porque el baño está el baño original . %snd:"sastre1"_257652_259191
-*KEV:	[- eng] eh@s:spa&eng we are gonna redo the bathroom . %snd:"sastre1"_259179_261414
-*KEV:	[- eng] ah@s:spa&eng my idea originally was just to leave the tub . %snd:"sastre1"_261419_266722
+*KEV:	eh@s:eng&spa we@s:eng are@s:eng gonna@s:eng redo@s:eng the@s:eng bathroom@s:eng . %snd:"sastre1"_259179_261414
+*KEV:	ah@s:eng&spa my@s:eng idea@s:eng originally@s:eng was@s:eng just@s:eng to@s:eng leave@s:eng the@s:eng tub@s:eng . %snd:"sastre1"_261419_266722
 *KEV:	y change@s:eng everything@s:eng else@s:eng . %snd:"sastre1"_266707_269436
 *KEV:	pero ahora the@s:eng new@s:eng idea@s:eng is@s:eng gonna@s:eng be@s:eng that@s:eng # we@s:eng are@s:eng gonna@s:eng to@s:eng replace@s:eng everything@s:eng . %snd:"sastre1"_269438_275689
 *KEV:	[- eng] change +/ . %snd:"sastre1"_275683_277099
 *SOF:	[- eng] +< make it a shower . %snd:"sastre1"_276606_277708
 *SOF:	[- eng] you don't like showers ? %snd:"sastre1"_277701_279326
-*KEV:	[- eng] +< no we are gonna put <a t(ub)> [/] a tub but a new tub . %snd:"sastre1"_278316_280917
-*SOF:	oh@s:spa&eng ok@s:spa&eng . %snd:"sastre1"_280889_281876
+*KEV:	+< no@s:eng we@s:eng are@s:eng gonna@s:eng put@s:eng <a@s:eng t(ub)> [/] a@s:eng tub@s:eng but@s:eng a@s:eng new@s:eng tub@s:eng . %snd:"sastre1"_278316_280917
+*SOF:	oh@s:eng&spa ok@s:eng&spa . %snd:"sastre1"_280889_281876
 *KEV:	[- eng] because it's gonna be very hard to leave an old tub . %snd:"sastre1"_281847_284732
 *KEV:	[- eng] and then match everything else to the old tub . %snd:"sastre1"_284730_287191
 *KEV:	[- eng] so kind of a +.. . %snd:"sastre1"_287180_289607
@@ -152,20 +152,20 @@
 *KEV:	<cambiar las paredes> [//] quitar las paredes poner la [//] los dry@s:eng walls@s:eng esos nuevos . %snd:"sastre1"_291476_295516
 *KEV:	que no deja que [/] que no asome la humedad . %snd:"sastre1"_295490_300389
 *SOF:	[- eng] +< humidity . %snd:"sastre1"_299333_300360
-*KEV:	que ah@s:spa&eng eh@s:spa&eng eh@s:spa&eng son como waterproof@s:eng . %snd:"sastre1"_300348_303790
-*SOF:	mmhm@s:spa&eng . %snd:"sastre1"_303736_304455
+*KEV:	que ah@s:eng&spa eh@s:eng&spa eh@s:eng&spa son como waterproof@s:eng . %snd:"sastre1"_300348_303790
+*SOF:	mmhm@s:eng&spa . %snd:"sastre1"_303736_304455
 *KEV:	y xxx entonces también . %snd:"sastre1"_304461_305965
-*KEV:	eh@s:spa&eng llevan los [//] las losas los ladrillos los +.. . %snd:"sastre1"_305962_309421
+*KEV:	eh@s:eng&spa llevan los [//] las losas los ladrillos los +.. . %snd:"sastre1"_305962_309421
 *SOF:	para arriba . %snd:"sastre1"_309415_310466
 *KEV:	hasta arriba hasta el techo . %snd:"sastre1"_310469_311543
 *SOF:	y aquí antes was@s:eng half@s:eng way@s:eng . %snd:"sastre1"_311516_314494
-*KEV:	sí ahora están eh@s:spa&eng más o menos al nivel de la ventana . %snd:"sastre1"_314482_318488
+*KEV:	sí ahora están eh@s:eng&spa más o menos al nivel de la ventana . %snd:"sastre1"_314482_318488
 *SOF:	xxx . %snd:"sastre1"_318517_319503
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_318517_319503
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_318517_319503
 *KEV:	y hay lugares que alrededor de(l) [/] del inodoro que están bajitos bajitos . %snd:"sastre1"_319467_324145
 *KEV:	entonces llevarlo hasta arriba . %snd:"sastre1"_324145_326089
 *KEV:	después que hagamos uno posiblemente hagamos el otro . %snd:"sastre1"_326078_328057
-*KEV:	y ya entonces ahora quiero eh:@s:spa&eng los regadíos [//] the@s:eng sprinkler@s:eng system@s:eng arreglarlos y: +.. . %snd:"sastre1"_328038_335577
+*KEV:	y ya entonces ahora quiero eh:@s:eng&spa los regadíos [//] the@s:eng sprinkler@s:eng system@s:eng arreglarlos y: +.. . %snd:"sastre1"_328038_335577
 *KEV:	empezar xxx por retirarnos . %snd:"sastre1"_335566_339229
 *KEV:	&=laugh . %snd:"sastre1"_339219_340659
 *KEV:	hoy fuimos a ver un camper@s:eng un R_V . %snd:"sastre1"_340659_342685
@@ -184,36 +184,36 @@
 *SOF:	[- eng] right . %snd:"sastre1"_360202_360771
 *KEV:	[- eng] and +/ . %snd:"sastre1"_360759_361172
 *SOF:	[- eng] +< and everything opens up . %snd:"sastre1"_360759_361967
-*KEV:	[- eng] you don't even ha(ve) mmhm@s:spa&eng +/ . %snd:"sastre1"_361971_363863
+*KEV:	you@s:eng don't@s:eng even@s:eng ha(ve)@s:eng mmhm@s:eng&spa +/ . %snd:"sastre1"_361971_363863
 *SOF:	[- eng] +< my friend has an R_V . %snd:"sastre1"_361971_363863
 *SOF:	[- eng] it's beautiful . %snd:"sastre1"_363834_364856
-*SOF:	[- eng] oh@s:spa&eng my god &ap it looks like a house . %snd:"sastre1"_364840_367417
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_0_0
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_367394_367928
+*SOF:	oh@s:eng&spa my@s:eng god@s:eng &ap it@s:eng looks@s:eng like@s:eng a@s:eng house@s:eng . %snd:"sastre1"_364840_367417
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_0_0
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_367394_367928
 *SOF:	[- eng] but it's big . %snd:"sastre1"_367923_368695
 *SOF:	[- eng] you know . %snd:"sastre1"_368687_369500
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_368687_369500
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_368687_369500
 *SOF:	[- eng] and he takes it with him . %snd:"sastre1"_369476_370678
 *SOF:	[- eng] I mean it's wow . %snd:"sastre1"_370655_371357
 *SOF:	[- eng] he presses the button . %snd:"sastre1"_371346_372226
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_372000_372313
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_372000_372313
 *SOF:	[- eng] that whole thing like opens up . %snd:"sastre1"_372214_373805
 *SOF:	[- eng] it's got a master bedroom . %snd:"sastre1"_373793_375291
 *KEV:	[- eng] yeah . %snd:"sastre1"_375279_375714
 *SOF:	[- eng] and a +.. . %snd:"sastre1"_375703_377324
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_377301_378311
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_377301_378311
 *SOF:	[- eng] and two other bedrooms # with a bathroom pretty big . %snd:"sastre1"_378308_381208
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_379983_380389
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_379983_380389
 *SOF:	[- eng] I mean it's really nice . %snd:"sastre1"_381185_382282
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_381777_382340
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_381777_382340
 *SOF:	[- eng] the kitchen is beautiful . %snd:"sastre1"_382266_383735
 *KEV:	[- eng] yeah . %snd:"sastre1"_383706_384071
 *KEV:	[- eng] yeah . %snd:"sastre1"_384042_384907
-*SOF:	[- eng] flat screen tvs@s:spa&eng I mean he's got it +.. . %snd:"sastre1"_384907_387724
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_0_0
-*KEV:	yeah@s:spa&eng . %snd:"sastre1"_387722_388372
-*SOF:	[- eng] (be)cause he likes to go to the Keys@s:spa&eng a lot . %snd:"sastre1"_388337_390125
-*KEV:	[- eng] yah the Keys@s:spa&eng are getting very +/ . %snd:"sastre1"_390095_391953
+*SOF:	flat@s:eng screen@s:eng tvs@s:eng&spa I@s:eng mean@s:eng he's@s:eng got@s:eng it@s:eng +.. . %snd:"sastre1"_384907_387724
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_0_0
+*KEV:	yeah@s:eng&spa . %snd:"sastre1"_387722_388372
+*SOF:	(be)cause@s:eng he@s:eng likes@s:eng to@s:eng go@s:eng to@s:eng the@s:eng Keys@s:eng&spa a@s:eng lot@s:eng . %snd:"sastre1"_388337_390125
+*KEV:	yah@s:eng the@s:eng Keys@s:eng&spa are@s:eng getting@s:eng very@s:eng +/ . %snd:"sastre1"_390095_391953
 *SOF:	[- eng] expensive . %snd:"sastre1"_391930_392911
 *KEV:	[- eng] +< right difficult expensive and difficult with . %snd:"sastre1"_392493_394754
 *KEV:	[- eng] it's very hard to find a camping sp(ot) [/] spot over there . %snd:"sastre1"_394742_398301
@@ -222,7 +222,7 @@
 *KEV:	[- eng] right they close them . %snd:"sastre1"_400954_402104
 *KEV:	[- eng] they close American_Outdoors they close a [/] a bunch of them . %snd:"sastre1"_402070_405576
 *SOF:	[- eng] +< yes because people are making money selling the property so . %snd:"sastre1"_404827_408013
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_407468_408623
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_407468_408623
 *KEV:	[- eng] yeah . %snd:"sastre1"_408001_410033
 *SOF:	[- eng] +< they don't make as much renting as they do selling . %snd:"sastre1"_409584_411767
 *KEV:	[- eng] yeah . %snd:"sastre1"_411735_412693
@@ -234,34 +234,35 @@
 *SOF:	+< &=cough . %snd:"sastre1"_426992_428826
 *KEV:	[- eng] American_Outdoors was a beautiful place . %snd:"sastre1"_428785_431380
 *KEV:	[- eng] and they just closed it down . %snd:"sastre1"_431374_432703
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_432696_434618
-*SOF:	wow@s:spa&eng . %snd:"sastre1"_434618_435152
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_435117_436649
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_432696_434618
+*SOF:	wow@s:eng&spa . %snd:"sastre1"_434618_435152
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_435117_436649
 *KEV:	viste +/ . %snd:"sastre1"_436636_437036
-*SOF:	[- eng] oh@s:spa&eng look at the little +/ . %snd:"sastre1"_437048_438075
-*KEV:	la coneja de Pepita@s:spa&eng . %snd:"sastre1"_438058_439312
+*SOF:	oh@s:eng&spa look@s:eng at@s:eng the@s:eng little@s:eng +/ . %snd:"sastre1"_437048_438075
+*KEV:	la coneja de Pepita@s:eng&spa . %snd:"sastre1"_438058_439312
 *SOF:	es una conejita ? %snd:"sastre1"_439307_441170
-*KEV:	[- eng] +< Cleopatra@s:spa&eng yeah . %snd:"sastre1"_440595_441652
+*KEV:	+< Cleopatra@s:eng&spa yeah@s:eng . %snd:"sastre1"_440595_441652
 *KEV:	[- eng] yeah that's &a . %snd:"sastre1"_441639_444007
-*SOF:	[- eng] +< oh@s:spa&eng my god . %snd:"sastre1"_441639_444367
-*KEV:	[- eng] when Pepita@s:spa&eng moved to Tampa@s:spa&eng she acquired the rabbit . %snd:"sastre1"_444363_447730
-*SOF:	+< wow@s:spa&eng . %snd:"sastre1"_0_0
+*SOF:	+< oh@s:eng&spa my@s:eng god@s:eng . %snd:"sastre1"_441639_444367
+*KEV:	when@s:eng Pepita@s:eng&spa moved@s:eng to@s:eng Tampa@s:eng&spa she@s:eng acquired@s:eng the@s:eng rabbit@s:eng . %snd:"sastre1"_444363_447730
+*SOF:	+< wow@s:eng&spa . %snd:"sastre1"_0_0
 *KEV:	y: that@s:eng was@s:eng her@s:eng companion@s:eng . %snd:"sastre1"_447728_451070
 *SOF:	[- eng] +< is it a miniature ? %snd:"sastre1"_447728_451070
 *KEV:	[- eng] no . %snd:"sastre1"_451058_452301
 *KEV:	[- eng] it's a Dutch &a +.. . %snd:"sastre1"_452255_453579
 *SOF:	[- eng] +< no . %snd:"sastre1"_452388_452928
 *KEV:	[- eng] I don't know something Dutch . %snd:"sastre1"_453549_456771
-*SOF:	+< xxx. %snd:"sastre1"_0_0
+*SOF:	+< xxx . %snd:"sastre1"_0_0
 *SOF:	ay how@s:eng pretty@s:eng . %snd:"sastre1"_456765_459174
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_0_0
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_0_0
 *SOF:	[- eng] I have a friend of mine that has two miniature rabbits . %snd:"sastre1"_459150_462308
 *KEV:	[- eng] yeah . %snd:"sastre1"_462291_462674
 *SOF:	[- eng] he keep the(m) [///] he has them as pets . %snd:"sastre1"_462654_464436
 *SOF:	[- eng] and they are little . %snd:"sastre1"_464430_465051
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_464511_465028
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_464511_465028
 *SOF:	[- eng] they don't grow much . %snd:"sastre1"_465040_466102
 *KEV:	[- eng] +< yeah . %snd:"sastre1"_465040_466102
+%com:	background noise-something may have dropped.
 *SOF:	&=cough . %snd:"sastre1"_466095_469113
 *KEV:	esta # she@s:eng got@s:eng it@s:eng . %snd:"sastre1"_469090_470894
 *SOF:	[- eng] +< and I have some [///] another doctor over there that has a miniature pig . %snd:"sastre1"_476129_477017
@@ -269,17 +270,17 @@
 *SOF:	[- eng] that's the daughter's pet . %snd:"sastre1"_474732_476114
 *SOF:	[- eng] it's a pig . %snd:"sastre1"_476100_476820
 *KEV:	+< that@s:eng that@s:eng real@s:eng real@s:eng pig@s:eng los los los wi(th)@s:eng with@s:eng a@s:eng big@s:eng belly@s:eng ? %snd:"sastre1"_476530_480406
-*SOF:	[- eng] +< mmhm@s:spa&eng but the little ones the miniature ones . %snd:"sastre1"_477739_479869
+*SOF:	+< mmhm@s:eng&spa but@s:eng the@s:eng little@s:eng ones@s:eng the@s:eng miniature@s:eng ones@s:eng . %snd:"sastre1"_477739_479869
 *SOF:	[- eng] yeah . %snd:"sastre1"_480391_480914
 *KEV:	[- eng] yeah . %snd:"sastre1"_480885_481256
 *KEV:	[- eng] how cute . %snd:"sastre1"_481227_482179
 *SOF:	[- eng] everybody has their own pet . %snd:"sastre1"_482151_484613
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_0_0
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_0_0
 *KEV:	[- eng] how is everything at the hospital ? %snd:"sastre1"_484584_485820
 *SOF:	[- eng] good . %snd:"sastre1"_485806_487234
 *KEV:	sí ? %snd:"sastre1"_487234_487803
 *SOF:	[- eng] +< it's busy but it's good . %snd:"sastre1"_487234_488459
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_488436_488709
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_488436_488709
 *SOF:	[- eng] you know they have # more work # less people . %snd:"sastre1"_488704_493563
 *KEV:	[- eng] yeah and less money . %snd:"sastre1"_493551_494712
 *SOF:	[- eng] every yeah because you have to work double so . %snd:"sastre1"_494688_497561
@@ -288,7 +289,7 @@
 *KEV:	[- eng] because +/ . %snd:"sastre1"_501800_504476
 *SOF:	[- eng] +< I mean what we do is they give us like a raise I mean is # it depends on how much you make . %snd:"sastre1"_503774_508334
 *SOF:	[- eng] but basically what it does is then every year they put up the insurances so high . %snd:"sastre1"_508337_513915
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_0_0
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_0_0
 *SOF:	[- eng] that the little money that you are making +/ . %snd:"sastre1"_513910_515553
 *KEV:	[- eng] they take it away . %snd:"sastre1"_515536_516302
 *SOF:	[- eng] +, it's # they take it away with the insurance so really you are not seeing much . %snd:"sastre1"_515588_519123
@@ -301,28 +302,28 @@
 *SOF:	[- eng] yeah because since I work for xxx you know they have a lot more . %snd:"sastre1"_527526_530255
 *KEV:	[- eng] +< yeah . %snd:"sastre1"_530034_530533
 *SOF:	[- eng] so you know it's +.. . %snd:"sastre1"_530532_532360
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_532349_532691
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_532349_532691
 *SOF:	[- eng] insurance is cheaper but still . %snd:"sastre1"_532671_534424
 *KEV:	+< sí . %snd:"sastre1"_532671_534424
-*KEV:	ahora one@s:eng advantage@s:eng I@s:eng have@s:eng is@s:eng that@s:eng Pepita@s:spa&eng since@s:eng she@s:eng is@s:eng working@s:eng for@s:eng the@s:eng county@s:eng she's@s:eng gonna@s:eng be@s:eng independent@s:eng . %snd:"sastre1"_534832_541304
+*KEV:	ahora one@s:eng advantage@s:eng I@s:eng have@s:eng is@s:eng that@s:eng Pepita@s:eng&spa since@s:eng she@s:eng is@s:eng working@s:eng for@s:eng the@s:eng county@s:eng she's@s:eng gonna@s:eng be@s:eng independent@s:eng . %snd:"sastre1"_534832_541304
 *KEV:	[- eng] I'm not gonna have to carry her # in my insurance any_more . %snd:"sastre1"_540917_544156
 *SOF:	[- eng] yeah . %snd:"sastre1"_544156_545172
 *KEV:	[- eng] because # she'll have her own insurance and for her # working for the county the insurance is free . %snd:"sastre1"_545151_550863
-*KEV:	[- eng] and for Pepa@s:spa&eng is free . %snd:"sastre1"_550850_552777
+*KEV:	and@s:eng for@s:eng Pepa@s:eng&spa is@s:eng free@s:eng . %snd:"sastre1"_550850_552777
 *KEV:	[- eng] and I pay if it's just for me it's just like thirty dollars a month . %snd:"sastre1"_552765_555830
 *SOF:	[- eng] no that's not bad . %snd:"sastre1"_555816_557006
 *KEV:	no@s:eng that's@s:eng not@s:eng bad@s:eng pero # right@s:eng now@s:eng +/ . %snd:"sastre1"_556986_559396
 *SOF:	[- eng] and isn't it better for you to go with her <with the> [/] with the county no ? %snd:"sastre1"_559396_562853
 *KEV:	[- eng] no because if we go into the family plan her plan is more expensive than mine . %snd:"sastre1"_562853_567300
-*SOF:	[- eng] oh@s:spa&eng I see . %snd:"sastre1"_567282_568036
+*SOF:	oh@s:eng&spa I@s:eng see@s:eng . %snd:"sastre1"_567282_568036
 *KEV:	[- eng] that's why I had it . %snd:"sastre1"_568019_568784
-*KEV:	[- eng] I had # the insurance under me # for Pepita@s:spa&eng . %snd:"sastre1"_568784_572888
-*SOF:	oh@s:spa&eng ok@s:spa&eng . %snd:"sastre1"_572861_573662
-*KEV:	[- eng] and me because Pepa@s:spa&eng had her own . %snd:"sastre1"_573627_575791
-*KEV:	[- eng] but now # that Pepa@s:spa&eng has her own and Pepita@s:spa&eng is gonna get her own then I can get mine on my own . %snd:"sastre1"_576329_583149
+*KEV:	I@s:eng had@s:eng # the@s:eng insurance@s:eng under@s:eng me@s:eng # for@s:eng Pepita@s:eng&spa . %snd:"sastre1"_568784_572888
+*SOF:	oh@s:eng&spa ok@s:eng&spa . %snd:"sastre1"_572861_573662
+*KEV:	and@s:eng me@s:eng because@s:eng Pepa@s:eng&spa had@s:eng her@s:eng own@s:eng . %snd:"sastre1"_573627_575791
+*KEV:	but@s:eng now@s:eng # that@s:eng Pepa@s:eng&spa has@s:eng her@s:eng own@s:eng and@s:eng Pepita@s:eng&spa is@s:eng gonna@s:eng get@s:eng her@s:eng own@s:eng then@s:eng I@s:eng can@s:eng get@s:eng mine@s:eng on@s:eng my@s:eng own@s:eng . %snd:"sastre1"_576329_583149
 *KEV:	[- eng] it's thirty some dollars which is not a bad deal . %snd:"sastre1"_583165_585928
 *SOF:	[- eng] but <my brother> [/] my brother was telling me that [/] that [/] that law that came about with the homestead exemption . %snd:"sastre1"_586008_593228
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_593236_593758
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_593236_593758
 *SOF:	[- eng] that he was saying that # you know that it's not worth it . %snd:"sastre1"_593746_597038
 *SOF:	[- eng] he was telling me that so many people from the county are gonna lose # jobs because of that . %snd:"sastre1"_597050_602968
 *SOF:	[- eng] they are gonna take you know they are gonna cut [//] the cut down xxx is gonna be so drastic . %snd:"sastre1"_602950_607089
@@ -334,23 +335,25 @@
 *KEV:	pero you@s:eng know@s:eng &e &e I@s:eng don't@s:eng agree@s:eng with@s:eng him@s:eng . %snd:"sastre1"_616626_619191
 *SOF:	[- eng] no ? %snd:"sastre1"_619180_621920
 *KEV:	[- eng] in two thousand and three # that the taxes were more or less # what they are now . %snd:"sastre1"_621893_628275
-*SOF:	mmhm@s:spa&eng . %snd:"sastre1"_628281_630388
+*SOF:	mmhm@s:eng&spa . %snd:"sastre1"_628281_630388
 *KEV:	[- eng] right ? %snd:"sastre1"_630383_632420
 *KEV:	[- eng] that was five years ago . %snd:"sastre1"_632397_633959
 *KEV:	[- eng] the salaries of [/] of employees and the hiring of employees have not increased what they increased in revenues . %snd:"sastre1"_633965_642947
 *KEV:	[- eng] so where is all that extra money that they made when the [/] when the boom was going on ? %snd:"sastre1"_642919_648660
 *KEV:	xxx tú sabes ? %snd:"sastre1"_648638_650565
 *KEV:	[- eng] it was misspent . %snd:"sastre1"_650571_651871
-*KEV:	[- eng] ah:@s:spa&eng &p they bought things that maybe they didn't need to buy . %snd:"sastre1"_651871_655679
+*KEV:	ah:@s:eng&spa &p they@s:eng bought@s:eng things@s:eng that@s:eng maybe@s:eng they@s:eng didn't@s:eng need@s:eng to@s:eng buy@s:eng . %snd:"sastre1"_651871_655679
 *KEV:	[- eng] they made +.. . %snd:"sastre1"_655676_656883
 *KEV:	tú sabes ? %snd:"sastre1"_656871_657986
 *KEV:	let's@s:eng bring@s:eng it@s:eng back@s:eng to@s:eng # where@s:eng we@s:eng are@s:eng [//] # donde estamos ahora . %snd:"sastre1"_657986_661382
 *KEV:	tú sabes u(na) [/] una cosa básica # lo [/] lo [/] lo necesario . %snd:"sastre1"_661393_666455
+%com:	A phone is ringing .
 *KEV:	contéstalo [/] contéstalo si quieres . %snd:"sastre1"_666444_667762
 *KEV:	así hablas un poco xxx . %snd:"sastre1"_667769_670120
 *SOF:	[- eng] +< hello . %snd:"sastre1"_669539_670265
 *SOF:	[- eng] hey baby are you back ? %snd:"sastre1"_670270_672767
-*SOF:	[- eng] oh@s:spa&eng but I'm not home . %snd:"sastre1"_672766_677729
+*SOF:	oh@s:eng&spa but@s:eng I'm@s:eng not@s:eng home@s:eng . %snd:"sastre1"_672766_677729
+%com:	you can hear the other person on the phone.
 *SOF:	[- eng] I'm in the xxx . %snd:"sastre1"_677707_679890
 *SOF:	estoy haciendo una cosa ahí que necesitaba mi +.. . %snd:"sastre1"_679873_684516
 *SOF:	cómo se llama esto &e cómo es que se llama esto que estamos haciendo aquí un +.. . %snd:"sastre1"_684510_689794
@@ -359,13 +362,14 @@
 *SOF:	y necesitamos hablar por thirty@s:eng minutes@s:eng . %snd:"sastre1"_694850_697713
 *KEV:	+< xxx . %snd:"sastre1"_0_0
 *SOF:	ya ahorita estamos almost@s:eng over@s:eng . %snd:"sastre1"_697713_699147
-*SOF:	ok@s:spa&eng . %snd:"sastre1"_699150_703510
-*SOF:	ah@s:spa&eng se está poniendo xxx dile . %snd:"sastre1"_703506_706901
-*SOF:	uhoh@s:spa&eng ya empezó los síntomas de xxx . %snd:"sastre1"_706890_712413
+*SOF:	ok@s:eng&spa . %snd:"sastre1"_699150_703510
+%com:	phone conversation.
+*SOF:	ah@s:eng&spa se está poniendo xxx dile . %snd:"sastre1"_703506_706901
+*SOF:	uhoh@s:eng&spa ya empezó los síntomas de xxx . %snd:"sastre1"_706890_712413
 *SOF:	dile que cuándo se va a comprar la motocicleta . %snd:"sastre1"_712403_715038
 *SOF:	[- eng] alright I'll talk to you bye . %snd:"sastre1"_715037_719797
 *SOF:	[- eng] home . %snd:"sastre1"_719792_721534
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_721526_725212
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_721526_725212
 *KEV:	se acabó . %snd:"sastre1"_725206_725729
 *SOF:	[- eng] +< he finished playing golf now . %snd:"sastre1"_725206_726820
 *KEV:	[- eng] &e &e they are still playing ? %snd:"sastre1"_726805_728071
@@ -373,10 +377,10 @@
 *KEV:	+< xxx . %snd:"sastre1"_728994_729499
 *SOF:	[- eng] I [/] I don't think they played all eighteen they played like probably half . %snd:"sastre1"_729794_732987
 *KEV:	la mitad nueve . %snd:"sastre1"_732981_733735
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_733709_735119
-*SOF:	pero my@s:eng friend@s:eng bought@s:eng a@s:eng B_M_W@s:eng and@s:eng I@s:eng bought@s:eng him@s:eng a@s:eng xxx because@s:eng I@s:eng have@s:eng another@s:eng friend@s:eng at@s:eng work@s:eng that@s:eng he@s:eng is@s:eng like@s:eng oh@s:spa&eng man@s:eng he@s:eng is@s:eng crazy@s:eng . %snd:"sastre1"_735108_741460
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_733709_735119
+*SOF:	pero my@s:eng friend@s:eng bought@s:eng a@s:eng B_M_W@s:eng and@s:eng I@s:eng bought@s:eng him@s:eng a@s:eng xxx because@s:eng I@s:eng have@s:eng another@s:eng friend@s:eng at@s:eng work@s:eng that@s:eng he@s:eng is@s:eng like@s:eng oh@s:eng&spa man@s:eng he@s:eng is@s:eng crazy@s:eng . %snd:"sastre1"_735108_741460
 *KEV:	+< sí . %snd:"sastre1"_735111_735883
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_741460_741680
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_741460_741680
 *SOF:	[- eng] but he is crazy crazy crazy crazy . %snd:"sastre1"_741680_744397
 *SOF:	[- eng] I don't know how his wife puts up with him you know . %snd:"sastre1"_744397_747967
 *KEV:	&=laugh . %snd:"sastre1"_747954_748796
@@ -387,8 +391,8 @@
 *SOF:	[- eng] and now he bought himself a motorcycle . %snd:"sastre1"_756947_760110
 *KEV:	+< qué edad tiene cincuenta ? %snd:"sastre1"_757696_760116
 *SOF:	está en los cuarenta y pico la edad mala esa . %snd:"sastre1"_760088_762950
-*KEV:	[- eng] +< mmhm@s:spa&eng yeah . %snd:"sastre1"_761505_762834
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_762937_766078
+*KEV:	+< mmhm@s:eng&spa yeah@s:eng . %snd:"sastre1"_761505_762834
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_762937_766078
 *SOF:	[- eng] and he is a gigolo you know . %snd:"sastre1"_766036_767522
 *SOF:	[- eng] he is one of these guys that's crazy . %snd:"sastre1"_767528_770100
 *KEV:	+< xxx . %snd:"sastre1"_0_0
@@ -397,21 +401,21 @@
 *SOF:	[- eng] yeah . %snd:"sastre1"_772030_772355
 *KEV:	sí . %snd:"sastre1"_772350_773162
 *SOF:	[- eng] <he is um> [//] he is a physician # from Cuba . %snd:"sastre1"_772350_775810
-*SOF:	[- eng] and he is er@s:spa&eng working with us over there and as a case manager . %snd:"sastre1"_775812_780411
+*SOF:	and@s:eng he@s:eng is@s:eng er@s:eng&spa working@s:eng with@s:eng us@s:eng over@s:eng there@s:eng and@s:eng as@s:eng a@s:eng case@s:eng manager@s:eng . %snd:"sastre1"_775812_780411
 *SOF:	[- eng] and he is studying for his R_N to see if he can get it now . %snd:"sastre1"_780376_783197
 *KEV:	sí . %snd:"sastre1"_783127_783621
 *KEV:	[- eng] you are still at xxx hospital right ? %snd:"sastre1"_783605_785289
 *SOF:	[- eng] yeah . %snd:"sastre1"_785270_785926
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_785915_787093
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_785915_787093
 *SOF:	[- eng] I haven't moved from there because it's so convenient . %snd:"sastre1"_787083_789027
 *SOF:	[- eng] and you know I xxx # other offers . %snd:"sastre1"_789004_791639
-*KEV:	+< hmm@s:spa&eng . %snd:"sastre1"_789292_789524
+*KEV:	+< hmm@s:eng&spa . %snd:"sastre1"_789292_789524
 *SOF:	[- eng] but don't wanna go in the street [?] any_more . %snd:"sastre1"_791618_793824
 *KEV:	[- eng] yeah . %snd:"sastre1"_793800_794648
 *SOF:	[- eng] you know because with sales you can do a lot you can make a lot more money . %snd:"sastre1"_794160_797045
 *KEV:	[- eng] yeah . %snd:"sastre1"_797008_797350
 *SOF:	[- eng] in the industry . %snd:"sastre1"_797350_798436
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_798420_798774
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_798420_798774
 *SOF:	[- eng] but it's just that you have to drive around so much . %snd:"sastre1"_798750_801293
 *SOF:	[- eng] you know cars everything is so expensive . %snd:"sastre1"_801403_804041
 *KEV:	+< no@s:eng no@s:eng y . %snd:"sastre1"_802064_803730
@@ -420,71 +424,72 @@
 *KEV:	[- eng] it's not worth it being on the streets . %snd:"sastre1"_805418_807212
 *SOF:	[- eng] +< I go there I do my eight hours . %snd:"sastre1"_805610_807252
 *SOF:	[- eng] and I get out and I go pick up my kid and that's it I'm home . %snd:"sastre1"_807258_809807
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_809125_809462
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_809125_809462
 *SOF:	[- eng] you know . %snd:"sastre1"_809800_810235
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_810235_810770
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_810235_810770
 *KEV:	no vale la pena estar en la calle como está la calle hoy . %snd:"sastre1"_810744_813101
 *KEV:	donde quieran te roban . %snd:"sastre1"_813064_814695
 *SOF:	+< no: . %snd:"sastre1"_813064_814695
 *SOF:	te asaltan te matan por cualquier cosa . %snd:"sastre1"_814672_817744
-*KEV:	+< er@s:spa&eng te asaltan # exacto . %snd:"sastre1"_814672_817744
-*SOF:	mira ahí el tú viste como mataron a la gente esa ahí en el Chili's@s:spa&eng . %snd:"sastre1"_817736_821323
+*KEV:	+< er@s:eng&spa te asaltan # exacto . %snd:"sastre1"_814672_817744
+*SOF:	mira ahí el tú viste como mataron a la gente esa ahí en el Chili's@s:eng&spa . %snd:"sastre1"_817736_821323
+%com:	Chili's is an American restaurant.
 *KEV:	+< la del Chili's sí . %snd:"sastre1"_820175_821446
 *KEV:	sí . %snd:"sastre1"_821311_823836
-*SOF:	pero mi [//] la [/] la gente que vive aquí en Miami_Lakes@s:spa&eng they@s:eng get@s:eng very@s:eng upset@s:eng because@s:eng of@s:eng that@s:eng because@s:eng they@s:eng say@s:eng que Chili's@s:spa&eng was@s:eng in@s:eng Miami_Lakes@s:spa&eng . %snd:"sastre1"_823795_829779
-*SOF:	[- eng] and Chili's@s:spa&eng is not in Miami_Lakes@s:spa&eng . %snd:"sastre1"_829763_831760
+*SOF:	pero mi [//] la [/] la gente que vive aquí en Miami_Lakes@s:eng&spa they@s:eng get@s:eng very@s:eng upset@s:eng because@s:eng of@s:eng that@s:eng because@s:eng they@s:eng say@s:eng que Chili's@s:eng&spa was@s:eng in@s:eng Miami_Lakes@s:eng&spa . %snd:"sastre1"_823795_829779
+*SOF:	and@s:eng Chili's@s:eng&spa is@s:eng not@s:eng in@s:eng Miami_Lakes@s:eng&spa . %snd:"sastre1"_829763_831760
 *KEV:	+< xxx . %snd:"sastre1"_830668_831435
-*SOF:	la cincuenta y siete no es Miami_Lakes@s:spa&eng entienden ? %snd:"sastre1"_831753_835997
-*KEV:	[- eng] +< no is [/] is [/] <is not> [//] is not tha(t) [/] that [/] that's actually unincorporated Dade_County@s:spa&eng . %snd:"sastre1"_833013_837477
-*SOF:	[- eng] that's Miramar@s:spa&eng . %snd:"sastre1"_837473_839302
+*SOF:	la cincuenta y siete no es Miami_Lakes@s:eng&spa entienden ? %snd:"sastre1"_831753_835997
+*KEV:	+< no@s:eng is@s:eng [/] is@s:eng [/] <is@s:eng not@s:eng> [//] is@s:eng not@s:eng tha(t)@s:eng [/] that@s:eng [/] that's@s:eng actually@s:eng unincorporated@s:eng Dade_County@s:eng&spa . %snd:"sastre1"_833013_837477
+*SOF:	that's@s:eng Miramar@s:eng&spa . %snd:"sastre1"_837473_839302
 *KEV:	[- eng] +< that's +.. . . %snd:"sastre1"_837473_839302
-*SOF:	[- eng] no no that's er@s:spa&eng Miami_Gardens@s:spa&eng no ? %snd:"sastre1"_839296_841989
-*KEV:	[- eng] +< no that's unincorporate(d) [/] no that's incorporated Dade_County@s:spa&eng that's Dade_County@s:spa&eng . %snd:"sastre1"_839360_844114
+*SOF:	no@s:eng no@s:eng that's@s:eng er@s:eng&spa Miami_Gardens@s:eng&spa no@s:eng ? %snd:"sastre1"_839296_841989
+*KEV:	+< no@s:eng that's@s:eng unincorporate(d)@s:eng [/] no@s:eng that's@s:eng incorporated@s:eng Dade_County@s:eng&spa that's@s:eng Dade_County@s:eng&spa . %snd:"sastre1"_839360_844114
 *SOF:	[- eng] so what [/] what is it called ? %snd:"sastre1"_844075_846380
-*KEV:	[- eng] Dade_County@s:spa&eng unincorporated Dade_County@s:spa&eng . %snd:"sastre1"_846346_848395
-*SOF:	[- eng] so that's Dade@s:spa&eng +/ . %snd:"sastre1"_848366_850873
+*KEV:	Dade_County@s:eng&spa unincorporated@s:eng Dade_County@s:eng&spa . %snd:"sastre1"_846346_848395
+*SOF:	so@s:eng that's@s:eng Dade@s:eng&spa +/ . %snd:"sastre1"_848366_850873
 *KEV:	[- eng] +< it's like what we were # before . %snd:"sastre1"_848366_850873
 *KEV:	[- eng] before we (be)came a town +/ . %snd:"sastre1"_850862_852978
 *SOF:	[- eng] yeah . %snd:"sastre1"_852955_853529
-*KEV:	[- eng] we were unincorporated Dade_County@s:spa&eng . %snd:"sastre1"_853529_855387
-*KEV:	the@s:eng subdivision@s:eng was@s:eng Miami_Lakes@s:spa&eng pero it@s:eng was@s:eng unincorporated@s:eng Dade_County@s:spa&eng . %snd:"sastre1"_855366_859255
+*KEV:	we@s:eng were@s:eng unincorporated@s:eng Dade_County@s:eng&spa . %snd:"sastre1"_853529_855387
+*KEV:	the@s:eng subdivision@s:eng was@s:eng Miami_Lakes@s:eng&spa pero it@s:eng was@s:eng unincorporated@s:eng Dade_County@s:eng&spa . %snd:"sastre1"_855366_859255
 *KEV:	[- eng] then we became a town . %snd:"sastre1"_859244_860666
 *KEV:	[- eng] they are not a town they are not a city . %snd:"sastre1"_860639_862311
-*KEV:	[- eng] they are just unincorporated Dade_County@s:spa&eng . %snd:"sastre1"_862293_864528
+*KEV:	they@s:eng are@s:eng just@s:eng unincorporated@s:eng Dade_County@s:eng&spa . %snd:"sastre1"_862293_864528
 *SOF:	[- eng] but do(n't) [/] don't they call that area a certain area and they don't they have a name . %snd:"sastre1"_864521_869676
-*KEV:	[- eng] +< that's Carol_City@s:spa&eng . %snd:"sastre1"_868736_869862
-*SOF:	[- eng] Carol_City@s:spa&eng right ? %snd:"sastre1"_869847_871013
-*KEV:	Carol_City@s:spa&eng pero +/ . %snd:"sastre1"_871002_871803
-*SOF:	+< ok@s:spa&eng . %snd:"sastre1"_871002_871896
-*KEV:	[- eng] Carol_City@s:spa&eng is not a city # or a town . %snd:"sastre1"_871904_874725
+*KEV:	+< that's@s:eng Carol_City@s:eng&spa . %snd:"sastre1"_868736_869862
+*SOF:	Carol_City@s:eng&spa right@s:eng ? %snd:"sastre1"_869847_871013
+*KEV:	Carol_City@s:eng&spa pero +/ . %snd:"sastre1"_871002_871803
+*SOF:	+< ok@s:eng&spa . %snd:"sastre1"_871002_871896
+*KEV:	Carol_City@s:eng&spa is@s:eng not@s:eng a@s:eng city@s:eng # or@s:eng a@s:eng town@s:eng . %snd:"sastre1"_871904_874725
 *KEV:	[- eng] it's a subdivision . %snd:"sastre1"_874674_876049
-*SOF:	[- eng] ok@s:spa&eng like we were . %snd:"sastre1"_876018_877226
-*KEV:	como Miami@s:spa&eng like@s:eng we@s:eng were@s:eng . %snd:"sastre1"_876018_877760
-*SOF:	ah@s:spa&eng ok@s:spa&eng . %snd:"sastre1"_877741_879581
+*SOF:	ok@s:eng&spa like@s:eng we@s:eng were@s:eng . %snd:"sastre1"_876018_877226
+*KEV:	como Miami@s:eng&spa like@s:eng we@s:eng were@s:eng . %snd:"sastre1"_876018_877760
+*SOF:	ah@s:eng&spa ok@s:eng&spa . %snd:"sastre1"_877741_879581
 *KEV:	[- eng] right . %snd:"sastre1"_877741_879581
 *KEV:	tú sabes . %snd:"sastre1"_879558_881375
 *KEV:	pero cuando se refiere . %snd:"sastre1"_881359_883141
 *SOF:	+< just@s:eng like@s:eng after@s:eng that@s:eng palmero [?] . %snd:"sastre1"_881504_883832
-*SOF:	[- eng] that's not # Miami_Lakes@s:spa&eng . %snd:"sastre1"_883821_885423
-*SOF:	Navarro@s:spa&eng . %snd:"sastre1"_885411_886682
-*SOF:	er@s:spa&eng los Burger_Kings@s:spa&eng and@s:eng McDonalds@s:spa&eng todo eso pa(ra) allá es . %snd:"sastre1"_886671_889833
+*SOF:	that's@s:eng not@s:eng # Miami_Lakes@s:eng&spa . %snd:"sastre1"_883821_885423
+*SOF:	Navarro@s:eng&spa . %snd:"sastre1"_885411_886682
+*SOF:	er@s:eng&spa los Burger_Kings@s:eng&spa and@s:eng McDonalds@s:eng&spa todo eso pa(ra) allá es . %snd:"sastre1"_886671_889833
 *KEV:	+< no . %snd:"sastre1"_886671_889833
-*KEV:	[- eng] unincorporated Dade_County@s:spa&eng . %snd:"sastre1"_889793_891169
-*SOF:	[- eng] is Miami_Gardens@s:spa&eng . %snd:"sastre1"_891179_892753
-*KEV:	no no no Miami_Gardens@s:spa&eng doesn't@s:eng come@s:eng across@s:eng fifty@s:eng seventh@s:eng avenue@s:eng . %snd:"sastre1"_892727_898004
+*KEV:	unincorporated@s:eng Dade_County@s:eng&spa . %snd:"sastre1"_889793_891169
+*SOF:	is@s:eng Miami_Gardens@s:eng&spa . %snd:"sastre1"_891179_892753
+*KEV:	no no no Miami_Gardens@s:eng&spa doesn't@s:eng come@s:eng across@s:eng fifty@s:eng seventh@s:eng avenue@s:eng . %snd:"sastre1"_892727_898004
 *SOF:	+< tampoco . %snd:"sastre1"_892727_898004
 *KEV:	[- eng] that's sixty seventh avenue . %snd:"sastre1"_897989_900079
-*KEV:	if@s:eng you@s:eng are@s:eng gonna@s:eng call@s:eng that@s:eng anything@s:eng eso es la zona de Palms_Springs_North@s:spa&eng . %snd:"sastre1"_900073_903696
-*SOF:	ok@s:spa&eng . %snd:"sastre1"_903664_905405
-*KEV:	eso es lo que le llaman que no es Palms_Springs_North@s:spa&eng because@s:eng Palms_Springs_North@s:spa&eng empieza en la setenta y nueve que es el xxx para allá . %snd:"sastre1"_905376_912731
+*KEV:	if@s:eng you@s:eng are@s:eng gonna@s:eng call@s:eng that@s:eng anything@s:eng eso es la zona de Palms_Springs_North@s:eng&spa . %snd:"sastre1"_900073_903696
+*SOF:	ok@s:eng&spa . %snd:"sastre1"_903664_905405
+*KEV:	eso es lo que le llaman que no es Palms_Springs_North@s:eng&spa because@s:eng Palms_Springs_North@s:eng&spa empieza en la setenta y nueve que es el xxx para allá . %snd:"sastre1"_905376_912731
 *KEV:	así que esto es un pequeño pocket@s:eng que hay ahí . %snd:"sastre1"_912693_915752
 *SOF:	que . %snd:"sastre1"_915721_917585
 *KEV:	que: +/ . %snd:"sastre1"_917573_918299
-*SOF:	+< y entonces por eso le dicen Miami_Lakes@s:spa&eng . %snd:"sastre1"_917852_919860
-*KEV:	+< er@s:spa&eng le llaman [//] le dicen Miami_Lakes because@s:eng <es la> [//] es el pueblo # o la ciudad más cerca a donde está # le dicen Miami_Lakes@s:spa&eng . %snd:"sastre1"_917852_926336
+*SOF:	+< y entonces por eso le dicen Miami_Lakes@s:eng&spa . %snd:"sastre1"_917852_919860
+*KEV:	+< er@s:eng&spa le llaman [//] le dicen Miami_Lakes because@s:eng <es la> [//] es el pueblo # o la ciudad más cerca a donde está # le dicen Miami_Lakes@s:eng&spa . %snd:"sastre1"_917852_926336
 *KEV:	tú sabes ? %snd:"sastre1"_926316_928051
 *SOF:	pero fíjate una cosa . %snd:"sastre1"_928028_928884
-*SOF:	siendo nosotros Miami_Lakes@s:spa&eng y siendo incorporados tú pones +.. . %snd:"sastre1"_928872_932425
+*SOF:	siendo nosotros Miami_Lakes@s:eng&spa y siendo incorporados tú pones +.. . %snd:"sastre1"_928872_932425
 *SOF:	three@s:eng three@s:eng zero@s:eng one@s:eng four@s:eng y sigues saliendo en Hyaleah@s:eng . %snd:"sastre1"_932408_936256
 *KEV:	+< sales a Hyaleah@s:eng [/] sales a Hyaleah@s:eng . %snd:"sastre1"_932408_936256
 *KEV:	[- eng] yeah . %snd:"sastre1"_936229_936432
@@ -492,39 +497,39 @@
 *KEV:	we@s:eng are@s:eng getting@s:eng our@s:eng own@s:eng zip@s:eng code@s:eng tres tres cero cuatro . %snd:"sastre1"_938716_940824
 *KEV:	tres tres u(no) [//] cero uno cuatro . %snd:"sastre1"_940784_942815
 *SOF:	no porque tres tres uno cuatro coge mitad de Hyaleah@s:eng entonces +/ . %snd:"sastre1"_942796_947284
-*KEV:	+< bueno pero supuestamente el cambio viene en que # er@s:spa&eng tres tres cero uno cuatro va a ser Miami_Lakes@s:spa&eng . %snd:"sastre1"_946481_953324
+*KEV:	+< bueno pero supuestamente el cambio viene en que # er@s:eng&spa tres tres cero uno cuatro va a ser Miami_Lakes@s:eng&spa . %snd:"sastre1"_946481_953324
 *SOF:	y cuándo ? %snd:"sastre1"_953318_954253
 *KEV:	no sé . %snd:"sastre1"_954241_955129
 *KEV:	pero eso lo dijo +.. . %snd:"sastre1"_955104_956474
-*SOF:	[- eng] (be)cause I keep telling like if you call a credit card you call somebody and you give them an address and you tell them Miami_Lakes@s:spa&eng they are like no madam and ok@s:spa&eng Hyaleah@s:spa&eng . %snd:"sastre1"_956465_964986
-*KEV:	+< er@s:spa&eng mmhm@s:spa&eng . %snd:"sastre1"_0_0
+*SOF:	(be)cause@s:eng I@s:eng keep@s:eng telling@s:eng like@s:eng if@s:eng you@s:eng call@s:eng a@s:eng credit@s:eng card@s:eng you@s:eng call@s:eng somebody@s:eng and@s:eng you@s:eng give@s:eng them@s:eng an@s:eng address@s:eng and@s:eng you@s:eng tell@s:eng them@s:eng Miami_Lakes@s:eng&spa they@s:eng are@s:eng like@s:eng no@s:eng madam@s:eng and@s:eng ok@s:eng&spa Hyaleah@s:eng&spa . %snd:"sastre1"_956465_964986
+*KEV:	+< er@s:eng&spa mmhm@s:eng&spa . %snd:"sastre1"_0_0
 *KEV:	[- eng] right . %snd:"sastre1"_965004_965625
 *SOF:	[- eng] because if not they don't know where to put you know they don't know where to send you the stuff . %snd:"sastre1"_965584_968725
 *KEV:	+< sí . %snd:"sastre1"_967135_967953
-*KEV:	sí pero fíjate # eso no es una cosa que tiene que hacer el town@s:eng of@s:eng Miami_Lakes@s:spa&eng . %snd:"sastre1"_968724_973275
+*KEV:	sí pero fíjate # eso no es una cosa que tiene que hacer el town@s:eng of@s:eng Miami_Lakes@s:eng&spa . %snd:"sastre1"_968724_973275
 *KEV:	eso es una cosa que la tiene que hacer el gobierno federal en la parte de [//] del [/] del post@s:eng office@s:eng [/] del correo . %snd:"sastre1"_973239_979050
-*SOF:	mmhm@s:spa&eng . %snd:"sastre1"_979049_979838
+*SOF:	mmhm@s:eng&spa . %snd:"sastre1"_979049_979838
 *KEV:	ellos son los que tienen que hacer esos cambios . %snd:"sastre1"_979784_981572
 *KEV:	y supuestamente they@s:eng are@s:eng in@s:eng the@s:eng process@s:eng de hacer ese cambio . %snd:"sastre1"_981558_984931
-*KEV:	de cambiar # del correo de que tres tres cero uno cuatro va a ser # solamente # Miami_Lakes@s:spa&eng todo lo que es Miami_Lakes@s:spa&eng lo que está dentro de [/] # de el town@s:eng de Miami_Lakes@s:spa&eng que incluye del lado de allá pal metro Royal_Oaks@s:spa&eng ahora es Miami_Lakes@s:spa&eng . %snd:"sastre1"_984916_1004658
-*SOF:	+< ok@s:spa&eng . %snd:"sastre1"_0_0
+*KEV:	de cambiar # del correo de que tres tres cero uno cuatro va a ser # solamente # Miami_Lakes@s:eng&spa todo lo que es Miami_Lakes@s:eng&spa lo que está dentro de [/] # de el town@s:eng de Miami_Lakes@s:eng&spa que incluye del lado de allá pal metro Royal_Oaks@s:eng&spa ahora es Miami_Lakes@s:eng&spa . %snd:"sastre1"_984916_1004658
+*SOF:	+< ok@s:eng&spa . %snd:"sastre1"_0_0
 *SOF:	[- eng] right . %snd:"sastre1"_1004724_1005258
 *KEV:	y eso ahora no es tres tres cero uno cuatro eso es tres tres uno cero cin(co) uno quince . %snd:"sastre1"_1005244_1011224
 *SOF:	correcto . %snd:"sastre1"_1011202_1012055
 *KEV:	+< es otro zip@s:eng code@s:eng . %snd:"sastre1"_1011799_1012937
-*KEV:	entonces ese zip@s:eng code@s:eng lo van a cambiar también a que sea tres tres cero uno cuatro porque va a ser Miam(i)@s:spa&eng lo que está dentro de la ciudad de Miami_Lakes@s:spa&eng . %snd:"sastre1"_1012935_1020405
+*KEV:	entonces ese zip@s:eng code@s:eng lo van a cambiar también a que sea tres tres cero uno cuatro porque va a ser Miam(i)@s:eng&spa lo que está dentro de la ciudad de Miami_Lakes@s:eng&spa . %snd:"sastre1"_1012935_1020405
 *KEV:	<es eso> [?] . %snd:"sastre1"_1020393_1020811
 *KEV:	eso fue lo que yo oí y lo que dijeron . %snd:"sastre1"_1020806_1022466
 *KEV:	si lo hacen o no lo hacen . %snd:"sastre1"_1022442_1023899
 *SOF:	pero va a ser tremendo rollo pa(ra) la gente . %snd:"sastre1"_1023888_1025699
 *KEV:	+< sí . %snd:"sastre1"_1025327_1025728
 *SOF:	&=coughs . %snd:"sastre1"_1025705_1027325
-*KEV:	er:@s:spa&eng pero bueno . %snd:"sastre1"_1027319_1030796
-*SOF:	hoy me llegaron las [/] las planillas para el W@s:spa&eng ten@s:eng forty@s:eng . %snd:"sastre1"_1030787_1037227
+*KEV:	er:@s:eng&spa pero bueno . %snd:"sastre1"_1027319_1030796
+*SOF:	hoy me llegaron las [/] las planillas para el W@s:eng&spa ten@s:eng forty@s:eng . %snd:"sastre1"_1030787_1037227
 *SOF:	sabes es la ten@s:eng forty@s:eng . %snd:"sastre1"_1037217_1038877
 *KEV:	xxx . %snd:"sastre1"_1038953_1039249
 *SOF:	la que tienen que hacer ahora la [//] los viejitos que están retirados . %snd:"sastre1"_1039220_1042140
-*KEV:	ah@s:spa&eng sí . %snd:"sastre1"_1042119_1043907
+*KEV:	ah@s:eng&spa sí . %snd:"sastre1"_1042119_1043907
 *SOF:	+< para que sepan . %snd:"sastre1"_1042119_1043907
 *KEV:	sí . %snd:"sastre1"_1043860_1045068
 *SOF:	para que puedan # entonces mandarles los trescientos dólares . %snd:"sastre1"_1045048_1048508
@@ -532,22 +537,22 @@
 *KEV:	sí son las ten@s:eng forty@s:eng or@s:eng ten@s:eng ninety@s:eng nine@s:eng ? %snd:"sastre1"_1048479_1051451
 *SOF:	[- eng] ten forty . %snd:"sastre1"_1051410_1052653
 *SOF:	yo la tengo ahí en la casa . %snd:"sastre1"_1052635_1054098
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1054092_1054667
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1054092_1054667
 *KEV:	ya a mi hermano se lo hizo mi padre . %snd:"sastre1"_1054674_1057443
 *SOF:	ya se lo hicieron ? %snd:"sastre1"_1057443_1058319
 *KEV:	sí porque ellos normalmente no hacen income@s:eng taxes@s:eng porque están retirados . %snd:"sastre1"_1058296_1061146
 *SOF:	+< porque tiene que +/ . %snd:"sastre1"_1060113_1060908
 *SOF:	correcto pero arriba hay que ponerle un nombre . %snd:"sastre1"_1060902_1062934
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1062945_1064437
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1062945_1064437
 *KEV:	sí . %snd:"sastre1"_1064389_1064906
 *SOF:	+< tienes que ponerle algo arriba de la planilla pa(ra) que sepan que es para eso . %snd:"sastre1"_1064662_1067773
 *KEV:	exacto . %snd:"sastre1"_1067756_1068412
 *SOF:	<ya se lo puso> [//] ya se lo hizo ? %snd:"sastre1"_1068382_1070304
-*KEV:	mmhm@s:spa&eng ella se lo está haciendo xxx ese es el campo de ella . %snd:"sastre1"_1068527_1072335
-*SOF:	oh@s:spa&eng ok@s:spa&eng . %snd:"sastre1"_1072330_1073172
+*KEV:	mmhm@s:eng&spa ella se lo está haciendo xxx ese es el campo de ella . %snd:"sastre1"_1068527_1072335
+*SOF:	oh@s:eng&spa ok@s:eng&spa . %snd:"sastre1"_1072330_1073172
 *KEV:	ella es an@s:eng accountant@s:eng . %snd:"sastre1"_1073160_1074617
 *KEV:	y ella es la que le hace +/ . %snd:"sastre1"_1074588_1076022
-*SOF:	+< no porque yo te dij(e) porque como la prima de Manuel@s:spa&eng trabaja para el I_R_S@s:eng . %snd:"sastre1"_1074632_1078423
+*SOF:	+< no porque yo te dij(e) porque como la prima de Manuel@s:eng&spa trabaja para el I_R_S@s:eng . %snd:"sastre1"_1074632_1078423
 *SOF:	ell(a) [/] ella nos mandó las planillas y nos mandó las copias de cómo llenárselo . %snd:"sastre1"_1078415_1081915
 *SOF:	porque yo tengo las dos viejitas mías que ya ellas no hacen +/ . %snd:"sastre1"_1081858_1084883
 *KEV:	si acaso hazme [/] hazme cuando tengas un chance@s:eng hazme una copia . %snd:"sastre1"_1083536_1087448
@@ -555,7 +560,7 @@
 *SOF:	yo tengo ahí ella me él él me dio una copia que ahora yo tengo que hacérsela pero yo te la voy a hacer una copia esa . %snd:"sastre1"_1090621_1095410
 *KEV:	+< xxx . %snd:"sastre1"_0_0
 *KEV:	esa exacto . %snd:"sastre1"_1095377_1096225
-*SOF:	ok@s:spa&eng . %snd:"sastre1"_1096196_1096741
+*SOF:	ok@s:eng&spa . %snd:"sastre1"_1096196_1096741
 *SOF:	yo te la hago mañana en el trabajo . %snd:"sastre1"_1096730_1098430
 *KEV:	+< xxx porque yo sé que xxx le hace xxx . %snd:"sastre1"_1096730_1099684
 *SOF:	+< pero yo sé que hay que ponerle algo arriba # en la planilla . %snd:"sastre1"_1099340_1102710
@@ -563,33 +568,33 @@
 *SOF:	tiene un nombre ahora se me olvidó pero tienes que ponerle eso arriba <para que> [//] porque si no . %snd:"sastre1"_1104382_1108463
 *KEV:	sí . %snd:"sastre1"_1108436_1110177
 *KEV:	es igual que cuando uno manda los cheques al I_R_S@s:eng . %snd:"sastre1"_1110162_1112339
-*SOF:	mmhm@s:spa&eng . %snd:"sastre1"_1112327_1112774
+*SOF:	mmhm@s:eng&spa . %snd:"sastre1"_1112327_1112774
 *KEV:	hay que poner el ten@s:eng ninety@s:eng nine@s:eng xxx con el número de social@s:eng security@s:eng y toda esa cosa . %snd:"sastre1"_1112751_1117917
 *KEV:	que si no no lo acept(an) no no es que no lo acepten si no no te lo acreditan los [/] los xxx tienen que acreditar . %snd:"sastre1"_1117897_1123408
 *SOF:	+< adonde tienen que acreditarlo . %snd:"sastre1"_1122006_1123478
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1123460_1126682
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1123460_1126682
 *KEV:	ya creo que falta poco para que se acaben los treinta minutos no ? %snd:"sastre1"_1126684_1129218
 *SOF:	bueno yo no sé llevamos hablando tiempo . %snd:"sastre1"_1129216_1132043
 *KEV:	+< no sé # casi casi la media hora ya . %snd:"sastre1"_1130036_1133095
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1133083_1134430
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1133083_1134430
 *SOF:	y ya se está haciendo de noche ya mañana hay que ir a trabajar . %snd:"sastre1"_1134406_1137320
-*KEV:	+< mmhm@s:spa&eng sí . %snd:"sastre1"_1134406_1137320
+*KEV:	+< mmhm@s:eng&spa sí . %snd:"sastre1"_1134406_1137320
 *KEV:	hay que cocinar . %snd:"sastre1"_1137299_1138989
 *SOF:	no yo ya cociné . %snd:"sastre1"_1138971_1141333
 *KEV:	+< ya cocinaste nosotros comimos nosotros fuimos a Bass@s:eng Pro@s:eng shop@s:eng . %snd:"sastre1"_1138971_1142924
 *SOF:	+< sí . %snd:"sastre1"_1138971_1142924
 *SOF:	[- eng] where ? %snd:"sastre1"_1142907_1144028
 *KEV:	[- eng] Bass Pro shop . %snd:"sastre1"_1144010_1144782
-*SOF:	ah@s:spa&eng ok@s:spa&eng . %snd:"sastre1"_1144777_1145241
-*KEV:	allá en Grifeny@s:spa&eng xxx ninety@s:eng five@s:eng . %snd:"sastre1"_1145229_1147633
+*SOF:	ah@s:eng&spa ok@s:eng&spa . %snd:"sastre1"_1144777_1145241
+*KEV:	allá en Grifeny@s:eng&spa xxx ninety@s:eng five@s:eng . %snd:"sastre1"_1145229_1147633
 *KEV:	eso que es cuestión de casería y toda esa cosa . %snd:"sastre1"_1147613_1150434
-*SOF:	+< uhhuh@s:spa&eng yo he estado ahí sí . %snd:"sastre1"_1147613_1150440
-*KEV:	y cuando salimos y fuimos a: [/] a xxx county@s:eng a ver los [/] <los muros> [/] los campers@s:spa&eng . %snd:"sastre1"_1150410_1157852
-*SOF:	mmhm@s:spa&eng . %snd:"sastre1"_1157806_1158323
+*SOF:	+< uhhuh@s:eng&spa yo he estado ahí sí . %snd:"sastre1"_1147613_1150440
+*KEV:	y cuando salimos y fuimos a: [/] a xxx county@s:eng a ver los [/] <los muros> [/] los campers@s:eng&spa . %snd:"sastre1"_1150410_1157852
+*SOF:	mmhm@s:eng&spa . %snd:"sastre1"_1157806_1158323
 *KEV:	porque andamos pa(ra) [/] pa(ra) el futuro buscando uno más grande . %snd:"sastre1"_1158311_1160941
 *KEV:	y de ahí salimos . %snd:"sastre1"_1160940_1163041
-*KEV:	y nos metimos un # barbecue@s:eng place@s:eng que hay er:@s:spa&eng # university@s:eng and@s:eng Pince@s:spa&eng boulevard@s:eng . %snd:"sastre1"_1163033_1172020
-*SOF:	ok@s:spa&eng . %snd:"sastre1"_1171984_1172942
+*KEV:	y nos metimos un # barbecue@s:eng place@s:eng que hay er:@s:eng&spa # university@s:eng and@s:eng Pince@s:eng&spa boulevard@s:eng . %snd:"sastre1"_1163033_1172020
+*SOF:	ok@s:eng&spa . %snd:"sastre1"_1171984_1172942
 *SOF:	[- eng] I know where that is . %snd:"sastre1"_1173006_1173894
 *KEV:	+< allá traen una cosita chiquitica . %snd:"sastre1"_1173006_1174747
 *KEV:	pero cocinan tan rico . %snd:"sastre1"_1174730_1176071
@@ -599,8 +604,8 @@
 *KEV:	[- eng] +< yeah yeah the whole barbecue smoked barbecue so . %snd:"sastre1"_1179172_1182620
 *SOF:	[- eng] +< yeah . %snd:"sastre1"_1179172_1182620
 *KEV:	[- eng] it's delicious . %snd:"sastre1"_1182592_1183903
-*SOF:	[- eng] oh@s:spa&eng that's good . %snd:"sastre1"_1183855_1184604
-*KEV:	+< y we@s:eng were@s:eng there@s:eng and@s:eng Pepita@s:spa&eng asked@s:eng er@s:spa&eng we@s:eng asked@s:eng her@s:eng what@s:eng she@s:eng wanted@s:eng for@s:eng dinner@s:eng . %snd:"sastre1"_1184271_1188544
+*SOF:	oh@s:eng&spa that's@s:eng good@s:eng . %snd:"sastre1"_1183855_1184604
+*KEV:	+< y we@s:eng were@s:eng there@s:eng and@s:eng Pepita@s:eng&spa asked@s:eng er@s:eng&spa we@s:eng asked@s:eng her@s:eng what@s:eng she@s:eng wanted@s:eng for@s:eng dinner@s:eng . %snd:"sastre1"_1184271_1188544
 *KEV:	[- eng] she said well bring me some ribs . %snd:"sastre1"_1188487_1190054
 *KEV:	[- eng] so we brought her some ribs so . %snd:"sastre1"_1190031_1192492
 *SOF:	[- eng] that's funny . %snd:"sastre1"_1192516_1193648
@@ -609,72 +614,73 @@
 *KEV:	[- eng] and I said I thought you were gonna wait for dinner . %snd:"sastre1"_1197531_1199475
 *KEV:	me dice no@s:eng no@s:eng I'm@s:eng hungry@s:eng I'm@s:eng gonna@s:eng eat@s:eng now@s:eng . %snd:"sastre1"_1199487_1201489
 *KEV:	[- eng] so she ate xxx so . %snd:"sastre1"_1201489_1203562
-*KEV:	ya hoy Pepa@s:spa&eng no tenía que cocinar . %snd:"sastre1"_1203545_1205113
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1205087_1207746
-*SOF:	[- eng] I had [//] I went this morning I Jennie@s:spa&eng xxx breakfast and then we haven't eaten anything all day . %snd:"sastre1"_1207721_1212342
-*KEV:	[- eng] Jennie@s:spa&eng is the little one . %snd:"sastre1"_1212133_1213143
-*SOF:	[- eng] yeah Maria@s:spa&eng is working tonight . %snd:"sastre1"_1213196_1216238
-*KEV:	[- eng] +< mmhm@s:spa&eng yeah . %snd:"sastre1"_1213196_1216238
+*KEV:	ya hoy Pepa@s:eng&spa no tenía que cocinar . %snd:"sastre1"_1203545_1205113
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1205087_1207746
+*SOF:	I@s:eng had@s:eng [//] I@s:eng went@s:eng this@s:eng morning@s:eng I@s:eng Jennie@s:eng&spa xxx breakfast@s:eng and@s:eng then@s:eng we@s:eng haven't@s:eng eaten@s:eng anything@s:eng all@s:eng day@s:eng . %snd:"sastre1"_1207721_1212342
+*KEV:	Jennie@s:eng&spa is@s:eng the@s:eng little@s:eng one@s:eng . %snd:"sastre1"_1212133_1213143
+*SOF:	yeah@s:eng Maria@s:eng&spa is@s:eng working@s:eng tonight@s:eng . %snd:"sastre1"_1213196_1216238
+*KEV:	+< mmhm@s:eng&spa yeah@s:eng . %snd:"sastre1"_1213196_1216238
 *SOF:	&=cough . %snd:"sastre1"_1216226_1216772
-*SOF:	[- eng] and she is off already for er@s:spa&eng +.. . %snd:"sastre1"_1216757_1219561
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1216757_1219561
+*SOF:	and@s:eng she@s:eng is@s:eng off@s:eng already@s:eng for@s:eng er@s:eng&spa +.. . %snd:"sastre1"_1216757_1219561
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1216757_1219561
 *SOF:	[- eng] the schools are off for easter . %snd:"sastre1"_1219555_1222277
 *KEV:	sí . %snd:"sastre1"_1222256_1223562
 *SOF:	[- eng] +< the universities . %snd:"sastre1"_1222895_1223887
 *KEV:	[- eng] yeah . %snd:"sastre1"_1223841_1224961
-*SOF:	Pepita@s:spa&eng no estaba ? %snd:"sastre1"_1224921_1226482
+*SOF:	Pepita@s:eng&spa no estaba ? %snd:"sastre1"_1224921_1226482
 *KEV:	todavía ahora acaban estos días . %snd:"sastre1"_1226436_1228584
-*SOF:	ella ahora empezó Je(nnie)@s:spa&eng Jennie@s:spa&eng allá . %snd:"sastre1"_1228565_1231386
+*SOF:	ella ahora empezó Je(nnie)@s:eng&spa Jennie@s:eng&spa allá . %snd:"sastre1"_1228565_1231386
 *KEV:	ya empezó el spring@s:eng break@s:eng . %snd:"sastre1"_1231381_1232872
 *SOF:	[- eng] yeah . %snd:"sastre1"_1232856_1234110
-*KEV:	sí yo no sé qué día empieza Pepita@s:spa&eng pero F_I_U@s:eng está er@s:spa&eng . %snd:"sastre1"_1234104_1237837
-*SOF:	[- eng] look yo@3 [//] I found that [/] that [/] that Saint Thomas started too early . %snd:"sastre1"_1237820_1242371
+*KEV:	sí yo no sé qué día empieza Pepita@s:eng&spa pero F_I_U@s:eng está er@s:eng&spa . %snd:"sastre1"_1234104_1237837
+*SOF:	look@s:eng yo [//] I@s:eng found@s:eng that@s:eng [/] that@s:eng [/] that@s:eng Saint@s:eng Thomas@s:eng started@s:eng too@s:eng early@s:eng . %snd:"sastre1"_1237820_1242371
 *KEV:	[- eng] they tried to stag . %snd:"sastre1"_1242363_1245933
 *KEV:	tú sabes . %snd:"sastre1"_1245858_1246682
 *KEV:	[- eng] so not all the kids are out at the same time . %snd:"sastre1"_1246677_1249150
 *SOF:	[- eng] +< at the same time yeah because it would be atrocious for Miami +.. . %snd:"sastre1"_1248610_1251588
-*KEV:	[- eng] mmhm@s:spa&eng yeah . %snd:"sastre1"_1248610_1251588
+*KEV:	mmhm@s:eng&spa yeah@s:eng . %snd:"sastre1"_1248610_1251588
 *SOF:	[- eng] beach . %snd:"sastre1"_1251520_1252432
 *KEV:	[- eng] yeah . %snd:"sastre1"_1252414_1253471
 *SOF:	&=laugh . %snd:"sastre1"_1252414_1253471
 *KEV:	[- eng] and we get a lot of kids from the outside . %snd:"sastre1"_1253441_1255769
 *SOF:	[- eng] yeah . %snd:"sastre1"_1255763_1256587
-*KEV:	[- eng] that come from # northern states er@s:spa&eng . %snd:"sastre1"_1256538_1259759
+*KEV:	that@s:eng come@s:eng from@s:eng # northern@s:eng states@s:eng er@s:eng&spa . %snd:"sastre1"_1256538_1259759
 *SOF:	[- eng] you know traffic is gonna get bad all these days now . %snd:"sastre1"_1259702_1262088
 *KEV:	[- eng] +< yeah . %snd:"sastre1"_1259702_1262088
-*KEV:	[- eng] although # before it used to be Fort_Lauderdale@s:spa&eng Miami@s:spa&eng where all the kids came down to . %snd:"sastre1"_1262065_1266336
+*KEV:	although@s:eng # before@s:eng it@s:eng used@s:eng to@s:eng be@s:eng Fort_Lauderdale@s:eng&spa Miami@s:eng&spa where@s:eng all@s:eng the@s:eng kids@s:eng came@s:eng down@s:eng to@s:eng . %snd:"sastre1"_1262065_1266336
 *KEV:	[- eng] now they are spread all over the place . %snd:"sastre1"_1266305_1268337
 *SOF:	[- eng] yeah . %snd:"sastre1"_1268284_1268743
-*KEV:	[- eng] they go to Jacksonville@s:spa&eng they go to Panama_City@s:spa&eng . %snd:"sastre1"_1268702_1271500
+*KEV:	they@s:eng go@s:eng to@s:eng Jacksonville@s:eng&spa they@s:eng go@s:eng to@s:eng Panama_City@s:eng&spa . %snd:"sastre1"_1268702_1271500
 *KEV:	tú sabes different@s:eng places@s:eng . %snd:"sastre1"_1271593_1273480
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1273442_1276490
-*SOF:	[- eng] the Keys@s:spa&eng a lot of them like to go down there too . %snd:"sastre1"_1276446_1279110
-*KEV:	[- eng] +< the Keys@s:spa&eng [/] the Keys@s:spa&eng . %snd:"sastre1"_1278095_1280335
-*KEV:	lo que pasa que the@s:eng Keys@s:spa&eng er@s:spa&eng . %snd:"sastre1"_1280314_1283245
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1273442_1276490
+*SOF:	the@s:eng Keys@s:eng&spa a@s:eng lot@s:eng of@s:eng them@s:eng like@s:eng to@s:eng go@s:eng down@s:eng there@s:eng too@s:eng . %snd:"sastre1"_1276446_1279110
+*KEV:	+< the@s:eng Keys@s:eng&spa [/] the@s:eng Keys@s:eng&spa . %snd:"sastre1"_1278095_1280335
+*KEV:	lo que pasa que the@s:eng Keys@s:eng&spa er@s:eng&spa . %snd:"sastre1"_1280314_1283245
 *SOF:	[- eng] very expensive for them . %snd:"sastre1"_1283233_1284533
-*KEV:	+< for@s:eng er@s:spa&eng er@s:spa&eng er@s:spa&eng # college@s:eng kids@s:eng es imposible . %snd:"sastre1"_1283726_1286100
-*SOF:	pero let@s:eng me@s:eng tell@s:eng you@s:eng Miami_Beach@s:spa&eng is@s:eng getting@s:eng to@s:eng be@s:eng the@s:eng same@s:eng way@s:eng . %snd:"sastre1"_1288176_1291009
+*KEV:	+< for@s:eng er@s:eng&spa er@s:eng&spa er@s:eng&spa # college@s:eng kids@s:eng es imposible . %snd:"sastre1"_1283726_1286100
+*SOF:	pero let@s:eng me@s:eng tell@s:eng you@s:eng Miami_Beach@s:eng&spa is@s:eng getting@s:eng to@s:eng be@s:eng the@s:eng same@s:eng way@s:eng . %snd:"sastre1"_1288176_1291009
 *KEV:	[- eng] yeah . %snd:"sastre1"_1290997_1291497
-*SOF:	[- eng] before the kids used to come to Miami_Beach@s:spa&eng and hang out but . %snd:"sastre1"_1291026_1293952
+*SOF:	before@s:eng the@s:eng kids@s:eng used@s:eng to@s:eng come@s:eng to@s:eng Miami_Beach@s:eng&spa and@s:eng hang@s:eng out@s:eng but@s:eng . %snd:"sastre1"_1291026_1293952
 *KEV:	[- eng] +< yeah . %snd:"sastre1"_1292897_1293924
 *KEV:	ya pero . %snd:"sastre1"_1293901_1295852
 *SOF:	[- eng] +< first of all they are not renting it to the kids any_more you got to have an adult that would rent the place . %snd:"sastre1"_1293901_1299603
 *KEV:	[- eng] +< right . %snd:"sastre1"_1293901_1299603
 *SOF:	[- eng] and we are talking about # almost two hundred dollars a night minimum # to find [?] anywhere which before for fifty something dollars you can rent out at the beach spend the weekend . %snd:"sastre1"_1299597_1308864
-*KEV:	[- eng] +< er@s:spa&eng yeah . %snd:"sastre1"_0_0
+*KEV:	+< er@s:eng&spa yeah@s:eng . %snd:"sastre1"_0_0
 *KEV:	[- eng] yeah . %snd:"sastre1"_1308818_1309950
 *SOF:	[- eng] yeah . %snd:"sastre1"_1309903_1310989
-*KEV:	pero everything@s:eng else@s:eng # it's@s:eng cheaper@s:eng at@s:eng the@s:eng beach@s:eng than@s:eng in@s:eng the@s:eng Keys@s:spa&eng . %snd:"sastre1"_1310975_1315236
+*KEV:	pero everything@s:eng else@s:eng # it's@s:eng cheaper@s:eng at@s:eng the@s:eng beach@s:eng than@s:eng in@s:eng the@s:eng Keys@s:eng&spa . %snd:"sastre1"_1310975_1315236
 *SOF:	[- eng] yeah . %snd:"sastre1"_1315070_1315744
 *KEV:	[- eng] like restaurants transportation you know . %snd:"sastre1"_1315564_1318408
-*SOF:	[- eng] oh@s:spa&eng yeah . %snd:"sastre1"_0_0
-*KEV:	[- eng] ah@s:spa&eng # in [/] in Miami_Beach@s:spa&eng er@s:spa&eng they go to Burger_King@s:spa&eng they go to McDonalds@s:spa&eng in the Keys@s:spa&eng you don't find that mu(ch) that # too often . %snd:"sastre1"_1318925_1329559
-*SOF:	[- eng] oh@s:spa&eng yeah . %snd:"sastre1"_1318925_1329559
+*SOF:	oh@s:eng&spa yeah@s:eng . %snd:"sastre1"_0_0
+*KEV:	ah@s:eng&spa # in@s:eng [/] in@s:eng Miami_Beach@s:eng&spa er@s:eng&spa they@s:eng go@s:eng to@s:eng Burger_King@s:eng&spa they@s:eng go@s:eng to@s:eng McDonalds@s:eng&spa in@s:eng the@s:eng Keys@s:eng&spa you@s:eng don't@s:eng find@s:eng that@s:eng mu(ch)@s:eng that@s:eng # too@s:eng often@s:eng . %snd:"sastre1"_1318925_1329559
+*SOF:	oh@s:eng&spa yeah@s:eng . %snd:"sastre1"_1318925_1329559
 *KEV:	so@s:eng if@s:eng they@s:eng have@s:eng to@s:eng go@s:eng to@s:eng regular@s:eng restaurants@s:eng es caro . %snd:"sastre1"_1329536_1333182
-*KEV:	tú sabes algunos de los restaurancitos esos um@s:spa&eng er@s:spa&eng # in@s:eng the@s:eng Keys@s:spa&eng er@s:spa&eng # no son nada del otro mundo pero <te cobran> [/] te cobran más que un Burger_King@s:spa&eng o un MacDonalds@s:spa&eng so@s:eng for@s:eng kids@s:eng is@s:eng not@s:eng # bien bien práctico . %snd:"sastre1"_1333179_1350025
+*KEV:	tú sabes algunos de los restaurancitos esos um@s:eng&spa er@s:eng&spa # in@s:eng the@s:eng Keys@s:eng&spa er@s:eng&spa # no son nada del otro mundo pero <te cobran> [/] te cobran más que un Burger_King@s:eng&spa o un MacDonalds@s:eng&spa so@s:eng for@s:eng kids@s:eng is@s:eng not@s:eng # bien bien práctico . %snd:"sastre1"_1333179_1350025
 *SOF:	[- eng] yeah . %snd:"sastre1"_1350009_1350392
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1350352_1350735
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1350352_1350735
 *SOF:	&=cough . %snd:"sastre1"_1350705_1354414
+%com:	background noise.
 *KEV:	xxx estoy mirando el reloj . %snd:"sastre1"_1354390_1358475
 *SOF:	&=laugh . %snd:"sastre1"_1358445_1359020
 *KEV:	yo creo que hemos hablado bastante . %snd:"sastre1"_1359008_1360674
@@ -682,15 +688,15 @@
 *SOF:	+< xxx grabando a la gente cuando te hacen algo . %snd:"sastre1"_1364287_1367683
 *KEV:	sí . %snd:"sastre1"_1367627_1368097
 *SOF:	[- eng] +< hey here you go . %snd:"sastre1"_1367778_1369044
-*KEV:	er@s:spa&eng los otros días # sacó Office_Depot@s:spa&eng # unas tarjeticas # en venta . %snd:"sastre1"_1369008_1375801
+*KEV:	er@s:eng&spa los otros días # sacó Office_Depot@s:eng&spa # unas tarjeticas # en venta . %snd:"sastre1"_1369008_1375801
 *KEV:	las de esas de one@s:eng gig@s:eng two@s:eng gigs@s:eng . %snd:"sastre1"_1375774_1378282
 *KEV:	yo fui y compré una pa(ra) mi cámara . %snd:"sastre1"_1378270_1380952
-*KEV:	pero yo uso la regular la S_T@s:spa&eng . %snd:"sastre1"_1380929_1383158
-*KEV:	Pepita@s:spa&eng # en la cámara de ella u(sa) [/] usa una que se llama dualpro@s:spa&eng o una cosa así . %snd:"sastre1"_1383135_1388778
-*SOF:	mmhm@s:spa&eng . %snd:"sastre1"_1388753_1389176
-*KEV:	que esa nunca la habían puesto en venta pero por fin Office_Depot@s:spa&eng las puso en venta . %snd:"sastre1"_1389169_1392466
+*KEV:	pero yo uso la regular la S_T@s:eng&spa . %snd:"sastre1"_1380929_1383158
+*KEV:	Pepita@s:eng&spa # en la cámara de ella u(sa) [/] usa una que se llama dualpro@s:eng&spa o una cosa así . %snd:"sastre1"_1383135_1388778
+*SOF:	mmhm@s:eng&spa . %snd:"sastre1"_1388753_1389176
+*KEV:	que esa nunca la habían puesto en venta pero por fin Office_Depot@s:eng&spa las puso en venta . %snd:"sastre1"_1389169_1392466
 *KEV:	y ese día tenían una cosita de estas en venta también . %snd:"sastre1"_1392440_1395093
-*KEV:	un Sandisk@s:spa&eng que es un M_(P_three)@s:eng [/] M_P_three@s:eng player@s:eng con [/] con un recording@s:eng [?] un radiecito F_M todo una piececita . %snd:"sastre1"_1395075_1404773
+*KEV:	un Sandisk@s:eng&spa que es un M_(P_three)@s:eng [/] M_P_three@s:eng player@s:eng con [/] con un recording@s:eng [?] un radiecito F_M todo una piececita . %snd:"sastre1"_1395075_1404773
 *KEV:	estaba bueno . %snd:"sastre1"_1404738_1405737
 *KEV:	pero cuando llegué na(da) más que tenían el [/] el de muestra . %snd:"sastre1"_1405711_1408491
 *KEV:	no tenían ninguno allí . %snd:"sastre1"_1408474_1409681
@@ -703,80 +709,80 @@
 *SOF:	&=laugh . %snd:"sastre1"_1418911_1419863
 *KEV:	bueno . %snd:"sastre1"_1419857_1420751
 *SOF:	[- eng] +< they are teaching so properly that they are afraid that they might be recorded or might say something that they shouldn't say and they could +/ . %snd:"sastre1"_1420241_1429048
-*KEV:	[- eng] +< that's [/] that's er@s:spa&eng . %snd:"sastre1"_1425728_1429037
+*KEV:	+< that's@s:eng [/] that's@s:eng er@s:eng&spa . %snd:"sastre1"_1425728_1429037
 *SOF:	[- eng] you know banish them . %snd:"sastre1"_1429030_1430336
 *KEV:	+< tú sabes opens@s:eng the@s:eng door@s:eng for@s:eng a@s:eng lawsuit@s:eng si pasa cualquier cosa . %snd:"sastre1"_1429570_1432913
 *SOF:	[- eng] +< yeah . %snd:"sastre1"_1431990_1432913
 *KEV:	tienen al maestro grabado un maestro que diga cualquier disparate en la clase sin querer o queriendo tú sabes lo tienen grabado . %snd:"sastre1"_1432900_1439541
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1439511_1440248
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1439511_1440248
 *SOF:	pero this@s:eng country@s:eng has@s:eng gotten@s:eng . %snd:"sastre1"_1439511_1441606
 *KEV:	es todo lawsuit@s:eng todo lawsuit@s:eng . %snd:"sastre1"_1441577_1443655
 *SOF:	xxx . %snd:"sastre1"_1443614_1445071
 *KEV:	todo es un problema todo . %snd:"sastre1"_1445069_1446962
-*SOF:	+< just@s:eng [/] like@s:eng the@s:eng lady@s:eng that@s:eng [/] that@s:eng chocó a Myriam@s:spa&eng because@s:eng ella fue la que lo [//] la chocó you@s:eng know@s:eng . %snd:"sastre1"_1445598_1450845
-*KEV:	+< mmhm@s:spa&eng mmhm@s:spa&eng . %snd:"sastre1"_1449517_1451374
+*SOF:	+< just@s:eng [/] like@s:eng the@s:eng lady@s:eng that@s:eng [/] that@s:eng chocó a Myriam@s:eng&spa because@s:eng ella fue la que lo [//] la chocó you@s:eng know@s:eng . %snd:"sastre1"_1445598_1450845
+*KEV:	+< mmhm@s:eng&spa mmhm@s:eng&spa . %snd:"sastre1"_1449517_1451374
 *SOF:	[- eng] the lady is already her back hurts this and that everything hurts and I'm like . %snd:"sastre1"_1450985_1456363
-*KEV:	[- eng] +< oh@s:spa&eng for sure mmhm@s:spa&eng . %snd:"sastre1"_1450985_1456665
+*KEV:	+< oh@s:eng&spa for@s:eng sure@s:eng mmhm@s:eng&spa . %snd:"sastre1"_1450985_1456665
 *SOF:	[- eng] the one who should be hurting is my kid . %snd:"sastre1"_1456624_1459200
-*KEV:	mmhm@s:spa&eng que fue la que le dieron # de lado . %snd:"sastre1"_1458695_1461348
+*KEV:	mmhm@s:eng&spa que fue la que le dieron # de lado . %snd:"sastre1"_1458695_1461348
 *SOF:	no que le dieron <por la ven(tana)> [//] por la puerta le desbarató la puerta . %snd:"sastre1"_1460535_1464499
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_0_0
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_0_0
 *SOF:	el axel@s:eng de la [/] de la goma de alante se la partió con eso yo te digo el golpe tan grande que le dio esa mujer . %snd:"sastre1"_1464484_1470235
 *KEV:	increíble # increíble . %snd:"sastre1"_1470166_1470729
-*SOF:	[- eng] she's just got one of these nineteen ninety five Toyotas@s:spa&eng that are like . %snd:"sastre1"_1472673_1476293
-*KEV:	+< mmhm@s:spa&eng duro . %snd:"sastre1"_1475899_1477089
-*SOF:	[- eng] remember those Toyotas@s:spa&eng really heavy ? %snd:"sastre1"_1477066_1479690
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_0_0
+*SOF:	she's@s:eng just@s:eng got@s:eng one@s:eng of@s:eng these@s:eng nineteen@s:eng ninety@s:eng five@s:eng Toyotas@s:eng&spa that@s:eng are@s:eng like@s:eng . %snd:"sastre1"_1472673_1476293
+*KEV:	+< mmhm@s:eng&spa duro . %snd:"sastre1"_1475899_1477089
+*SOF:	remember@s:eng those@s:eng Toyotas@s:eng&spa really@s:eng heavy@s:eng ? %snd:"sastre1"_1477066_1479690
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_0_0
 *SOF:	[- eng] <and the> [/] and the bumper used to be a different color that they used to . %snd:"sastre1"_1479652_1482938
-*KEV:	+< mmhm@s:spa&eng mmhm@s:spa&eng . %snd:"sastre1"_1479652_1482926
+*KEV:	+< mmhm@s:eng&spa mmhm@s:eng&spa . %snd:"sastre1"_1479652_1482926
 *KEV:	pero tipo S_U_V@s:eng o +.. . %snd:"sastre1"_1482897_1484714
 *SOF:	no no it@s:eng was@s:eng a@s:eng car@s:eng . %snd:"sastre1"_1484702_1486089
 *KEV:	+< un carrito . %snd:"sastre1"_1485352_1486124
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1486119_1486787
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1486119_1486787
 *SOF:	[- eng] Thank God . %snd:"sastre1"_1486769_1487901
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1487872_1488580
-*SOF:	[- eng] imagine if you xxx for a little PT_Cruiser@s:spa&eng . %snd:"sastre1"_1488556_1492416
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1487872_1488580
+*SOF:	imagine@s:eng if@s:eng you@s:eng xxx for@s:eng a@s:eng little@s:eng PT_Cruiser@s:eng&spa . %snd:"sastre1"_1488556_1492416
 *KEV:	imagínate . %snd:"sastre1"_1492373_1493348
 *KEV:	imagínate . %snd:"sastre1"_1492940_1494222
 *SOF:	+< la hubiera matado . %snd:"sastre1"_1492373_1493348
-*SOF:	porque yo no tenía airbags@s:spa&eng en el PT_Cruiser@s:spa&eng . %snd:"sastre1"_1494199_1496469
+*SOF:	porque yo no tenía airbags@s:eng&spa en el PT_Cruiser@s:eng&spa . %snd:"sastre1"_1494199_1496469
 *KEV:	no . %snd:"sastre1"_1496446_1496840
-*KEV:	los PT_Cruisers@s:spa&eng no vienen con airbag@s:spa&eng ? %snd:"sastre1"_1496808_1499409
+*KEV:	los PT_Cruisers@s:eng&spa no vienen con airbag@s:eng&spa ? %snd:"sastre1"_1496808_1499409
 *SOF:	[- eng] yes but what happened was my [/] my husband being such a small person wanted to buy her a car a used car didn't want her to have a new car like I told him . %snd:"sastre1"_1499391_1509317
 *SOF:	get@s:eng the@s:eng kid@s:eng a@s:eng good@s:eng car@s:eng when@s:eng we@s:eng ended@s:eng up@s:eng finding@s:eng out@s:eng when@s:eng we@s:eng had@s:eng already@s:eng paid@s:eng everything@s:eng for@s:eng the@s:eng car@s:eng [?] that@s:eng car@s:eng had@s:eng been@s:eng chocado de alante completamente . %snd:"sastre1"_1509299_1517960
 *SOF:	fíjate que tiene el sticker@s:eng . %snd:"sastre1"_1517924_1519776
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1519759_1520130
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1519759_1520130
 *SOF:	pero parece que it@s:eng wasn't@s:eng in@s:eng the@s:eng system@s:eng yet@s:eng because@s:eng it@s:eng had@s:eng just@s:eng happened@s:eng . %snd:"sastre1"_1520110_1524377
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1524361_1524663
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1524361_1524663
 *SOF:	[- eng] so they fixed the car . %snd:"sastre1"_1524657_1526575
 *SOF:	and@s:eng they@s:eng sold@s:eng it@s:eng to@s:eng us@s:eng thinking@s:eng that@s:eng [//] que no nada [/] nada tenía el carro . %snd:"sastre1"_1526558_1529501
-*SOF:	[- eng] when we went to trade in the car # for the Honda@s:spa&eng the guy told me that he couldn't take that car . %snd:"sastre1"_1529442_1535041
+*SOF:	when@s:eng we@s:eng went@s:eng to@s:eng trade@s:eng in@s:eng the@s:eng car@s:eng # for@s:eng the@s:eng Honda@s:eng&spa the@s:eng guy@s:eng told@s:eng me@s:eng that@s:eng he@s:eng couldn't@s:eng take@s:eng that@s:eng car@s:eng . %snd:"sastre1"_1529442_1535041
 *SOF:	[- eng] and we say why can't you take this car ? %snd:"sastre1"_1535030_1536684
 *SOF:	[- eng] because that car is no good . %snd:"sastre1"_1536657_1538317
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1538306_1539513
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1538306_1539513
 *SOF:	[- eng] +< it's been crashed from the front . %snd:"sastre1"_1539380_1541110
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1541099_1542312
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1541099_1542312
 *SOF:	[- eng] and they put a special sticker when you open up the door of the car on the side right there . %snd:"sastre1"_1542281_1549403
 *SOF:	[- eng] they put a sticker when a [/] a [/] a car has been crashed from the front . %snd:"sastre1"_1549396_1553297
 *SOF:	[- eng] because of xxx . %snd:"sastre1"_1553244_1555137
 *KEV:	+< como un rebuilt@s:eng . %snd:"sastre1"_1553244_1555137
 *SOF:	[- eng] yes . %snd:"sastre1"_1555137_1556698
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1556648_1557304
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1556648_1557304
 *SOF:	[- eng] and <they wouldn't> [/] they wouldn't take the car for nothing . %snd:"sastre1"_1557281_1560706
 *KEV:	ya tú sabes [?] . %snd:"sastre1"_1560682_1561320
 *SOF:	no ni lo querían . %snd:"sastre1"_1561326_1562232
 *SOF:	[- eng] they said no we don't want this . %snd:"sastre1"_1562220_1563463
 *SOF:	[- eng] this is the liability for us . %snd:"sastre1"_1563425_1565074
-*KEV:	+< mmhm@s:spa&eng . %snd:"sastre1"_1563425_1565074
+*KEV:	+< mmhm@s:eng&spa . %snd:"sastre1"_1563425_1565074
 *SOF:	[- eng] you try to sell it the best way you can . %snd:"sastre1"_1565044_1567935
 *SOF:	[- eng] and I told xxx let's sue the guy who sold you the car . %snd:"sastre1"_1567910_1570633
 *SOF:	[- eng] xxx no no no no I don't wanna worry . %snd:"sastre1"_1570602_1572884
 *KEV:	+< sí . %snd:"sastre1"_1570602_1572884
 *SOF:	[- eng] you know I don't wanna deal with that . %snd:"sastre1"_1572872_1574079
 *KEV:	sí . %snd:"sastre1"_1574056_1574741
-*KEV:	+< oh@s:spa&eng ok@s:spa&eng . %snd:"sastre1"_1574056_1574741
-*SOF:	<but@s:eng thank@s:eng God@s:eng> [?] . %snd:"sastre1"_1574719_1576320
-*KEV:	mmhm@s:spa&eng mmhm@s:spa&eng . %snd:"sastre1"_1576308_1577911
+*KEV:	+< oh@s:eng&spa ok@s:eng&spa . %snd:"sastre1"_1574056_1574741
+*SOF:	[- eng] <but thank God> [?] . %snd:"sastre1"_1574719_1576320
+*KEV:	mmhm@s:eng&spa mmhm@s:eng&spa . %snd:"sastre1"_1576308_1577911
 *SOF:	[- eng] hello . %snd:"sastre1"_1577841_1580291
 *KEV:	[- eng] are we +/ . %snd:"sastre1"_1580278_1581009
 *SOF:	[- eng] I don't know if we are almost over [=! laughs] . %snd:"sastre1"_1581009_1585287
@@ -787,45 +793,45 @@
 *KEV:	[- eng] +< keep on talking . %snd:"sastre1"_1591896_1594113
 *KEV:	[- eng] four more minutes five more minutes . %snd:"sastre1"_1594094_1596805
 *SOF:	[- eng] +< we got five more minutes [=! laughs] . %snd:"sastre1"_1594094_1596805
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1596803_1597982
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1596803_1597982
 *SOF:	&=laugh . %snd:"sastre1"_1596803_1597982
-*SOF:	[- eng] we are tired talking to each other we wanna watch the news and the tv@s:spa&eng right now . %snd:"sastre1"_1597969_1603263
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1603228_1604174
+*SOF:	we@s:eng are@s:eng tired@s:eng talking@s:eng to@s:eng each@s:eng other@s:eng we@s:eng wanna@s:eng watch@s:eng the@s:eng news@s:eng and@s:eng the@s:eng tv@s:eng&spa right@s:eng now@s:eng . %snd:"sastre1"_1597969_1603263
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1603228_1604174
 *SOF:	&=laugh . %snd:"sastre1"_1603228_1606348
-*KEV:	pues sí lo de Chili's@s:spa&eng está impresionante no verdad ? %snd:"sastre1"_1606301_1608559
-*KEV:	el tiroteo ese ahí en Chili's@s:spa&eng . %snd:"sastre1"_1608553_1610347
+*KEV:	pues sí lo de Chili's@s:eng&spa está impresionante no verdad ? %snd:"sastre1"_1606301_1608559
+*KEV:	el tiroteo ese ahí en Chili's@s:eng&spa . %snd:"sastre1"_1608553_1610347
 *SOF:	[- eng] yes . %snd:"sastre1"_1608553_1610347
 *KEV:	y los otros días el tiroteo en el colegio xxx . %snd:"sastre1"_1610325_1614934
 *SOF:	[- eng] yeah . %snd:"sastre1"_1614905_1615247
-*KEV:	y ayer o anteayer el [/] el riot@s:eng en el Edison@s:spa&eng . %snd:"sastre1"_1615232_1619452
+*KEV:	y ayer o anteayer el [/] el riot@s:eng en el Edison@s:eng&spa . %snd:"sastre1"_1615232_1619452
 *SOF:	+< xxx . %snd:"sastre1"_1615232_1619452
-*SOF:	Edison@s:spa&eng . %snd:"sastre1"_1619493_1620004
+*SOF:	Edison@s:eng&spa . %snd:"sastre1"_1619493_1620004
 *KEV:	+< en [/] en el otro . %snd:"sastre1"_1619861_1620923
 *KEV:	esto está calientica la calle . %snd:"sastre1"_1620913_1624111
 *KEV:	y dónde fue otro tamb(ién) [//] lugar aquí también que tirotearon ? %snd:"sastre1"_1624099_1628546
 *KEV:	los otros días aquí pegaditos nosotros . %snd:"sastre1"_1628548_1631114
 *SOF:	no yo pero no fue four@s:eng forty@s:eng one@s:eng ahí en la four@s:eng forty@s:eng one@s:eng yo creo que fue un poquito más pa(ra) allá . %snd:"sastre1"_1631108_1635688
-*KEV:	no pero er@s:spa&eng estuvo Chili's@s:spa&eng . %snd:"sastre1"_1635014_1636797
-*KEV:	en Chili's@s:spa&eng habían robado y habían tiroteado a alguien hace unos días atrás . %snd:"sastre1"_1636768_1642270
+*KEV:	no pero er@s:eng&spa estuvo Chili's@s:eng&spa . %snd:"sastre1"_1635014_1636797
+*KEV:	en Chili's@s:eng&spa habían robado y habían tiroteado a alguien hace unos días atrás . %snd:"sastre1"_1636768_1642270
 *KEV:	y ahora se formó un tiroteo de nuevo . %snd:"sastre1"_1642250_1644021
 *KEV:	pero había otro lugar más que había habido un [/] un robo un tiroteo . %snd:"sastre1"_1644015_1647660
 *KEV:	la calle está # que mete miedo . %snd:"sastre1"_1647628_1650432
 *SOF:	claro . %snd:"sastre1"_1650426_1651198
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1651182_1651733
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1651182_1651733
 *SOF:	la gente está desesperada . %snd:"sastre1"_1651739_1652929
 *KEV:	sí . %snd:"sastre1"_1652906_1655257
 *KEV:	la gente estaba desesperada pa(ra) tratar de resolverlo # a cualquier costo . %snd:"sastre1"_1655225_1659092
 *SOF:	xxx . %snd:"sastre1"_1659070_1660190
-*KEV:	mmhm@s:spa&eng mmhm@s:spa&eng . %snd:"sastre1"_1660190_1662123
+*KEV:	mmhm@s:eng&spa mmhm@s:eng&spa . %snd:"sastre1"_1660190_1662123
 *SOF:	&=cough . %snd:"sastre1"_1662123_1663900
 *KEV:	estos muchachitos se han pasado todo el día # xxx ahí pescando . %snd:"sastre1"_1663886_1667328
 *KEV:	y compran xxx . %snd:"sastre1"_1667322_1669571
 *SOF:	ay at@s:eng least@s:eng they@s:eng do@s:eng . %snd:"sastre1"_1669531_1671063
 *KEV:	[- eng] yeah . %snd:"sastre1"_1671046_1671412
-*SOF:	[- eng] they are doing something better than watching er@s:spa&eng tv@s:spa&eng and computers all day . %snd:"sastre1"_1671397_1675263
+*SOF:	they@s:eng are@s:eng doing@s:eng something@s:eng better@s:eng than@s:eng watching@s:eng er@s:eng&spa tv@s:eng&spa and@s:eng computers@s:eng all@s:eng day@s:eng . %snd:"sastre1"_1671397_1675263
 *KEV:	[- eng] +< yeah yeah . %snd:"sastre1"_1671397_1675263
 *KEV:	[- eng] no they'll be catch(ing) [/] catching fish because you see them you know bringing up fish every once in a while . %snd:"sastre1"_1675248_1681285
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1681274_1682702
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1681274_1682702
 *KEV:	pero ya le está cogiendo la noche y ya se van . %snd:"sastre1"_1682678_1685337
 *SOF:	[- eng] +< and are they planning on doing something on the lake like cleaning xxx ? %snd:"sastre1"_1684356_1687601
 *SOF:	[- eng] have you heard anything ? %snd:"sastre1"_1687607_1688437
@@ -838,18 +844,19 @@
 *KEV:	[- eng] the part of the lake is the # water management district . %snd:"sastre1"_1704746_1711527
 *KEV:	pero then@s:eng when@s:eng you@s:eng come@s:eng from@s:eng like@s:eng the@s:eng thirteen@s:eng feet@s:eng . %snd:"sastre1"_1711534_1715282
 *KEV:	that@s:eng [/] that@s:eng strip@s:eng there@s:eng el canal +/ . %snd:"sastre1"_1715305_1717970
-*SOF:	+< mmhm@s:spa&eng . %snd:"sastre1"_1715305_1717984
+*SOF:	+< mmhm@s:eng&spa . %snd:"sastre1"_1715305_1717984
 *KEV:	[- eng] is a water management . %snd:"sastre1"_1717962_1719552
-*KEV:	[- eng] but then when you come into the lake that's Miami_Lakes@s:spa&eng . %snd:"sastre1"_1719515_1722882
-*KEV:	[- eng] is the residence of Miami_Lakes@s:spa&eng in that so since it's such a mix they don't do anything . %snd:"sastre1"_1722854_1728915
+*KEV:	but@s:eng then@s:eng when@s:eng you@s:eng come@s:eng into@s:eng the@s:eng lake@s:eng that's@s:eng Miami_Lakes@s:eng&spa . %snd:"sastre1"_1719515_1722882
+*KEV:	is@s:eng the@s:eng residence@s:eng of@s:eng Miami_Lakes@s:eng&spa in@s:eng that@s:eng so@s:eng since@s:eng it's@s:eng such@s:eng a@s:eng mix@s:eng they@s:eng don't@s:eng do@s:eng anything@s:eng . %snd:"sastre1"_1722854_1728915
 *KEV:	[- eng] I had a +... %snd:"sastre1"_1728904_1730314
 *KEV:	[- eng] when we first moved here not when we first moved here . %snd:"sastre1"_1730284_1733395
-*KEV:	cuando fueron las elecciones de [/] de aquí en Miami_Lakes@s:spa&eng que se formó el primer viaje . %snd:"sastre1"_1733377_1739110
-*SOF:	mmhm@s:spa&eng . %snd:"sastre1"_1739070_1739488
+*KEV:	cuando fueron las elecciones de [/] de aquí en Miami_Lakes@s:eng&spa que se formó el primer viaje . %snd:"sastre1"_1733377_1739110
+*SOF:	mmhm@s:eng&spa . %snd:"sastre1"_1739070_1739488
 *KEV:	uno <de los> [/] de los comisionados que corrió . %snd:"sastre1"_1739473_1742851
-*SOF:	mmhm@s:spa&eng . %snd:"sastre1"_1742846_1743548
+*SOF:	mmhm@s:eng&spa . %snd:"sastre1"_1742846_1743548
 *KEV:	uno de los muchachitos jóvenes vino por aquí . %snd:"sastre1"_1743546_1746239
 *KEV:	y <le digo> [?] listen@s:eng look@s:eng this@s:eng is@s:eng a@s:eng good@s:eng thing@s:eng for@s:eng you@s:eng to@s:eng look@s:eng at@s:eng to@s:eng do@s:eng . %snd:"sastre1"_1746242_1751595
+%com:	phone ringing, SOF picks up the phone, and phone conversation starts.
 *SOF:	[- eng] excuse me hello . %snd:"sastre1"_1751542_1754160
 *SOF:	[- eng] I'm in the xxx I got five more minutes . %snd:"sastre1"_1754168_1759079
 *SOF:	[- eng] talking . %snd:"sastre1"_1759073_1761847
@@ -860,10 +867,10 @@
 *SOF:	&=laugh no déjanos acabar de hablar que nos quedan five@s:eng more@s:eng minutes@s:eng and@s:eng they@s:eng are@s:eng recording@s:eng us@s:eng bye@s:eng . %snd:"sastre1"_1772968_1777652
 *KEV:	+< we@s:eng have@s:eng # usamos [/] usamos este xxx como guinea_pig@s:eng . %snd:"sastre1"_1775493_1780304
 *SOF:	&=moan . %snd:"sastre1"_1780274_1781597
-*KEV:	er:@s:spa&eng . %snd:"sastre1"_1781568_1782619
+*KEV:	er:@s:eng&spa . %snd:"sastre1"_1781568_1782619
 *KEV:	qué te estaba diciendo ? %snd:"sastre1"_1782615_1786504
-*SOF:	oh@s:spa&eng lo del muchachito que vino aquí . %snd:"sastre1"_1786446_1788966
-*KEV:	ah@s:spa&eng sí el que estaba corriendo pa(ra) (a)cá xxx tú ves tú eso . %snd:"sastre1"_1788977_1792095
+*SOF:	oh@s:eng&spa lo del muchachito que vino aquí . %snd:"sastre1"_1786446_1788966
+*KEV:	ah@s:eng&spa sí el que estaba corriendo pa(ra) (a)cá xxx tú ves tú eso . %snd:"sastre1"_1788977_1792095
 *KEV:	le digo esa basura no es basura de nosotros . %snd:"sastre1"_1792091_1795603
 *KEV:	esa basura es cuando el condado # o el water@s:eng management@s:eng district@s:eng viene y limpia el pedazo de ellos . %snd:"sastre1"_1795581_1801993
 *KEV:	ellos vienen con las palas . %snd:"sastre1"_1802004_1803850
@@ -888,7 +895,7 @@
 *KEV:	una un lugar que ponen . %snd:"sastre1"_1837805_1839401
 *SOF:	+< ahí sí yo veo . %snd:"sastre1"_1837805_1839436
 *KEV:	eso bueno . %snd:"sastre1"_1839430_1840104
-*SOF:	+< mmhm@s:spa&eng . %snd:"sastre1"_1839430_1840104
+*SOF:	+< mmhm@s:eng&spa . %snd:"sastre1"_1839430_1840104
 *KEV:	esos vienen hasta aquí . %snd:"sastre1"_1840069_1841398
 *SOF:	no de verdad <yo no> [/] yo no me había fijado nunca . %snd:"sastre1"_1841372_1843700
 *KEV:	ellos caminan por xxx caminando . %snd:"sastre1"_1841372_1843787
@@ -904,46 +911,46 @@
 *KEV:	y cuando el aire sopla de allá o de aquí . %snd:"sastre1"_1868101_1870179
 *KEV:	toda esa hierba muerta xxx . %snd:"sastre1"_1870139_1873429
 *SOF:	+< va cayendo pa(ra) acá . %snd:"sastre1"_1872326_1873533
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1873533_1873887
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1873533_1873887
 *KEV:	y yo le echo ahí cosas . %snd:"sastre1"_1873892_1875904
 *KEV:	y fumigó y eso pa(ra) mantener la hierba lo menos que no crezca mucho pero con todo y eso . %snd:"sastre1"_1875883_1881482
-*KEV:	er@s:spa&eng te encuentras que [/] # que los lily_pads@s:eng crecen . %snd:"sastre1"_1881451_1888648
+*KEV:	er@s:eng&spa te encuentras que [/] # que los lily_pads@s:eng crecen . %snd:"sastre1"_1881451_1888648
 *KEV:	y [/] y se mete la basura ahí . %snd:"sastre1"_1888614_1891784
 *KEV:	y vaya . %snd:"sastre1"_1891761_1893212
 *KEV:	le echas hoy y a los dos o tres meses ya están de nuevo floreciendo y creciendo . %snd:"sastre1"_1893172_1899997
 *KEV:	[- eng] so . %snd:"sastre1"_1900007_1900848
 *SOF:	y la señora de al lado tiene ahora <un hij(o)> [//] un nieto no . %snd:"sastre1"_1900821_1904553
 *KEV:	+< un nieto . %snd:"sastre1"_1903829_1904578
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1904538_1905235
-*SOF:	ah@s:spa&eng sí . %snd:"sastre1"_1905235_1906024
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1904538_1905235
+*SOF:	ah@s:eng&spa sí . %snd:"sastre1"_1905235_1906024
 *KEV:	sí el nieto está viviendo con ella . %snd:"sastre1"_1906001_1907748
 *SOF:	qué bueno así no está solita . %snd:"sastre1"_1907718_1909431
-*KEV:	tú sabes que yo pensaba que los hijos de Lucía@s:spa&eng las [/] las hijas de los hijos vivían fuera de Miami@s:spa&eng . %snd:"sastre1"_1909401_1914080
-*KEV:	pero este [/] este vive en Core_Gables@s:spa&eng . %snd:"sastre1"_1914046_1916333
+*KEV:	tú sabes que yo pensaba que los hijos de Lucía@s:eng&spa las [/] las hijas de los hijos vivían fuera de Miami@s:eng&spa . %snd:"sastre1"_1909401_1914080
+*KEV:	pero este [/] este vive en Core_Gables@s:eng&spa . %snd:"sastre1"_1914046_1916333
 *SOF:	[- eng] really ? %snd:"sastre1"_1916316_1917494
-*KEV:	+< <el hijo de ella> [/] el hijo de ella que es el papá del nieto vive en Core_Gables@s:spa&eng . %snd:"sastre1"_1916687_1921198
+*KEV:	+< <el hijo de ella> [/] el hijo de ella que es el papá del nieto vive en Core_Gables@s:eng&spa . %snd:"sastre1"_1916687_1921198
 *SOF:	xxx . %snd:"sastre1"_1921192_1922144
 *KEV:	porque como yo nunca los veía por aquí ni na(da) . %snd:"sastre1"_1922152_1924823
 *SOF:	[- eng] he must have gotten in a fight . %snd:"sastre1"_1922152_1924823
 *SOF:	I'm@s:eng gonna@s:eng go@s:eng live@s:eng with@s:eng my@s:eng grandma@s:eng porque siempre dicen así . %snd:"sastre1"_1924805_1928381
 *KEV:	+< es posible . %snd:"sastre1"_1924805_1928375
 *KEV:	es posible tú no te acuerdas hace como dos o tres años atrás cuando primero se mudó ahí que tenía un carrito que lo chocó . %snd:"sastre1"_1928383_1931523
-*SOF:	mmhm@s:spa&eng . %snd:"sastre1"_1934939_1935368
-*KEV:	que Lucía@s:spa&eng lo tuvo tapado ahí mucho tiempo . %snd:"sastre1"_1935351_1937290
-*SOF:	mmhm@s:spa&eng . %snd:"sastre1"_1937278_1938108
-*KEV:	er@s:spa&eng le [/] le taparon le chocaron el carro . %snd:"sastre1"_1938070_1941477
+*SOF:	mmhm@s:eng&spa . %snd:"sastre1"_1934939_1935368
+*KEV:	que Lucía@s:eng&spa lo tuvo tapado ahí mucho tiempo . %snd:"sastre1"_1935351_1937290
+*SOF:	mmhm@s:eng&spa . %snd:"sastre1"_1937278_1938108
+*KEV:	er@s:eng&spa le [/] le taparon le chocaron el carro . %snd:"sastre1"_1938070_1941477
 *KEV:	y parece que el padre estaba bravo con ellos y no se lo arregló ni na(da) . %snd:"sastre1"_1941460_1944403
-*KEV:	y estaba parado ahí en casa de Lucía@s:spa&eng todo ese tiempo . %snd:"sastre1"_1944400_1946740
+*KEV:	y estaba parado ahí en casa de Lucía@s:eng&spa todo ese tiempo . %snd:"sastre1"_1944400_1946740
 *KEV:	hasta que después de una forma o otra resolvieron . %snd:"sastre1"_1946709_1949873
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1949890_1952027
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1949890_1952027
 *KEV:	viste qué rica está la tarde ? %snd:"sastre1"_1951998_1953478
 *SOF:	[- eng] yeah . %snd:"sastre1"_1953455_1955266
 *KEV:	ha bajado ahora está [//] debe estar a setenta y pico grados . %snd:"sastre1"_1955228_1957596
-*KEV:	está super@s:spa&eng rica . %snd:"sastre1"_1957567_1958420
+*KEV:	está super@s:eng&spa rica . %snd:"sastre1"_1957567_1958420
 *KEV:	ya [/] <ya nos> [/] ya nos están torturando . %snd:"sastre1"_1958414_1964373
 *KEV:	ya estos últimos cuatro minutos son [=! laugh] . %snd:"sastre1"_1964356_1968477
 *SOF:	no y yo que estoy haciendo maternidad y maternidad es lo más # pesado . %snd:"sastre1"_1967630_1972303
-*KEV:	+< y er@s:spa&eng er@s:spa&eng las clases son en español ? %snd:"sastre1"_1971176_1973928
+*KEV:	+< y er@s:eng&spa er@s:eng&spa las clases son en español ? %snd:"sastre1"_1971176_1973928
 *SOF:	ay sí escribir es en español pero los libros son en inglés . %snd:"sastre1"_1973914_1977647
 *SOF:	so tú me ves a mí ahí . %snd:"sastre1"_1977561_1978780
 *SOF:	y entonces tengo que ponerme . %snd:"sastre1"_1978779_1980242
@@ -955,14 +962,14 @@
 *SOF:	uno está acostumbrado a leer en inglés y a escribir en inglés . %snd:"sastre1"_1984984_1987266
 *KEV:	sí . %snd:"sastre1"_1987289_1987608
 *SOF:	+< entonces tienes que escribirlo en español . %snd:"sastre1"_1987329_1988978
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1988955_1989605
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1988955_1989605
 *KEV:	hay que . %snd:"sastre1"_1989580_1991240
 *SOF:	+< lo he dejado y lo he dejado . %snd:"sastre1"_1989580_1991269
 *SOF:	y tengo que hacer dos trabajos pa(ra) el cuatro y tengo examen el cuatro . %snd:"sastre1"_1991263_1994328
-*KEV:	mmhm@s:spa&eng . %snd:"sastre1"_1994321_1995035
+*KEV:	mmhm@s:eng&spa . %snd:"sastre1"_1994321_1995035
 *SOF:	y lo he dejado tanto tiempo que no he acabado . %snd:"sastre1"_1995012_1997177
 *KEV:	+< sí . %snd:"sastre1"_1996469_1997200
-*KEV:	er@s:spa&eng tú sabes que te voy a conseguir una copia . %snd:"sastre1"_1997148_1999017
+*KEV:	er@s:eng&spa tú sabes que te voy a conseguir una copia . %snd:"sastre1"_1997148_1999017
 *KEV:	yo tengo un diccionario inglés español . %snd:"sastre1"_1998982_2001298
 *KEV:	que es un C_D@s:eng que van en la computadora . %snd:"sastre1"_2001303_2003056
 *KEV:	tú no nunca has usado eso . %snd:"sastre1"_2003010_2005198

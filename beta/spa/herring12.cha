@@ -13,16 +13,15 @@
 @Time Duration:	00:33:06
 @Comment:	Filename: herring12.CHA; Soundfile: herring12.wav
 @Comment:	Language markers: @s:eng = English, @s:spa = Spanish @s:eng&spa = Undetermined, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English
-@Warning:	UNFINISHED TRANSCRIPT
 *MIG:	cuándo vamos a salir ? %snd:"herring12"_151_1422
 *TIM:	no sé un día de estos . %snd:"herring12"_1399_2670
 *TIM:	pero xxx este fin de semana . %snd:"herring12"_2688_5857
 *MIG:	cómo ? %snd:"herring12"_5832_6726
 *TIM:	que a la calle xxx solo xxx hoy . %snd:"herring12"_6715_9999
 *MIG:	por qué ? %snd:"herring12"_9976_10777
-*TIM:	ay bueno porque es el cumpleaños de la Estrella@s:spa&eng en la noche . %snd:"herring12"_10788_14659
-*MIG:	qué Estrella@s:spa&eng ? %snd:"herring12"_14622_15371
-*TIM:	la prima de Toni@s:spa&eng y lo va a celebrar en xxx . %snd:"herring12"_15347_18354
+*TIM:	ay bueno porque es el cumpleaños de la Estrella@s:eng&spa en la noche . %snd:"herring12"_10788_14659
+*MIG:	qué Estrella@s:eng&spa ? %snd:"herring12"_14622_15371
+*TIM:	la prima de Toni@s:eng&spa y lo va a celebrar en xxx . %snd:"herring12"_15347_18354
 *MIG:	vas a ir . %snd:"herring12"_18348_19103
 *TIM:	yo quería ir . %snd:"herring12"_19086_21008
 *TIM:	pero allá imaginate nos caen todas no jodás no me levanté ni para ir a clases . %snd:"herring12"_21019_25065
@@ -40,9 +39,9 @@
 *MIG:	me hubiera dicho chavalo jodido andate a clase . %snd:"herring12"_52581_54537
 *MIG:	no me deja quedarme mi mamá . %snd:"herring12"_54447_58341
 *TIM:	xxx . %snd:"herring12"_58319_60373
-*MIG:	ah@s:spa&eng . %snd:"herring12"_60362_61262
+*MIG:	ah@s:eng&spa . %snd:"herring12"_60362_61262
 *TIM:	te volvés a dormir conmigo . %snd:"herring12"_61236_63372
-*MIG:	mmhm@s:spa&eng mmhm@s:spa&eng . %snd:"herring12"_63422_65193
+*MIG:	mmhm@s:eng&spa mmhm@s:eng&spa . %snd:"herring12"_63422_65193
 *MIG:	pues sí pero like@s:eng my@s:eng mom@s:eng no hace eso . %snd:"herring12"_65157_67647
 *MIG:	a mí mama me dice wake@s:eng up@s:eng y andate a la verga . %snd:"herring12"_67640_71391
 *MIG:	nada de que te vas a quedar durmiendo conmigo ni aunque te quedes conmigo le digo levantate and@s:eng go@s:eng to@s:eng class@s:eng . %snd:"herring12"_71355_76309
@@ -58,11 +57,11 @@
 *TIM:	voy a llegar en la mañana como a las nueve . %snd:"herring12"_107258_109110
 *MIG:	y no vas a trabajar . %snd:"herring12"_109069_110184
 *TIM:	venís a almorzar . %snd:"herring12"_110143_112349
-*MIG:	ah@s:spa&eng . %snd:"herring12"_112349_112923
+*MIG:	ah@s:eng&spa . %snd:"herring12"_112349_112923
 *TIM:	+< <creo que no> [/] creo que no . %snd:"herring12"_112540_113887
 *MIG:	por qué ? %snd:"herring12"_113853_115467
 *TIM:	porque no tengo que trabajar xxx . %snd:"herring12"_115420_117574
-*MIG:	mmhm@s:spa&eng . %snd:"herring12"_117520_118217
+*MIG:	mmhm@s:eng&spa . %snd:"herring12"_117520_118217
 *MIG:	ah ya no estás <en el> [/] <en el> [/] en el aeropuerto ? %snd:"herring12"_118205_120138
 *TIM:	como no pues pero # mi mamá dice que [/] que realmente yo no tengo que trabajar . %snd:"herring12"_120135_126016
 *MIG:	bueno sí idiay si te van a estar dando todo . %snd:"herring12"_126015_128575
@@ -76,14 +75,14 @@
 *MIG:	(o) sea si . %snd:"herring12"_147622_148648
 *TIM:	+< pero bueno vamos a ver . %snd:"herring12"_148340_149600
 *MIG:	[- eng] yeah . %snd:"herring12"_149545_149847
-*TIM:	de todos modos voy a agarrar un part_time@s:spa&eng para el fin de semana xxx +/ . %snd:"herring12"_149841_152610
-*MIG:	no huevón un partimecito@s:eng3 ahí idiay realitos extras ahí no [/] no te estorban para nada . %snd:"herring12"_152591_158459
-*TIM:	mmhm@s:spa&eng lo voy a vender ahí a la calle ocho . %snd:"herring12"_158423_161216
+*TIM:	de todos modos voy a agarrar un part_time@s:eng&spa para el fin de semana xxx +/ . %snd:"herring12"_149841_152610
+*MIG:	no huevón un partimecito@s:eng+spa ahí idiay realitos extras ahí no [/] no te estorban para nada . %snd:"herring12"_152591_158459
+*TIM:	mmhm@s:eng&spa lo voy a vender ahí a la calle ocho . %snd:"herring12"_158423_161216
 *MIG:	qué estúpida que sos ahí [/] ahí es muy barato estúpida . %snd:"herring12"_161214_164378
 *TIM:	ah es muy barato ? %snd:"herring12"_164313_165352
 *MIG:	sí . %snd:"herring12"_165294_166153
 *MIG:	andate a otro . %snd:"herring12"_166152_167568
-*TIM:	sí xxx me voy a meterme ahí a <aeropostale@s:spa&eng> [?] allí <con una> [/] con una amiga que tengo . %snd:"herring12"_167626_173180
+*TIM:	sí xxx me voy a meterme ahí a <aeropostale@s:eng&spa> [?] allí <con una> [/] con una amiga que tengo . %snd:"herring12"_167626_173180
 %com:	aeropostale is an american clothing store
 *MIG:	qué amiga ? %snd:"herring12"_173180_174822
 *TIM:	una niña de pelo largo . %snd:"herring12"_174804_177613
@@ -96,30 +95,30 @@
 *MIG:	[- eng] I'm like . %snd:"herring12"_189020_189908
 *MIG:	yo qué maje de pelo largo verdad bróder todas las majes que trabajan ahí tienen pelo largo . %snd:"herring12"_189890_194219
 *MIG:	qué estúpido que soy . %snd:"herring12"_194207_195577
-*TIM:	se llama se llama Marta@s:spa&eng Martita@s:spa&eng . %snd:"herring12"_195462_197691
-*MIG:	qué estúpida Mar(ta)@s:spa&eng [//] la Marta@s:spa&eng . %snd:"herring12"_197666_199657
+*TIM:	se llama se llama Marta@s:eng&spa Martita@s:eng&spa . %snd:"herring12"_195462_197691
+*MIG:	qué estúpida Mar(ta)@s:eng&spa [//] la Marta@s:eng&spa . %snd:"herring12"_197666_199657
 *MIG:	andá aplicá están contratando ahorita . %snd:"herring12"_199621_202634
 *TIM:	qué cagada creo que queda lejísimo(s) esa verga . %snd:"herring12"_202580_206081
 *MIG:	ah . %snd:"herring12"_206098_206847
-*TIM:	me queda super@s:spa&eng lejo(s) . %snd:"herring12"_206791_209565
+*TIM:	me queda super@s:eng&spa lejo(s) . %snd:"herring12"_206791_209565
 *MIG:	bueno eso sí . %snd:"herring12"_209513_210552
 *MIG:	pero idiay aplic(á) [/] aplicá en un mall@s:eng que te quede cerca . %snd:"herring12"_210503_213698
 *MIG:	qué mall@s:eng te queda más cerca ? %snd:"herring12"_213680_214917
-*TIM:	no jodás loc(o) Southland@s:spa&eng mall@s:eng o el Dadeland@s:spa&eng mall@s:eng . %snd:"herring12"_214895_219173
-*MIG:	idiay ándate al Dadeland@s:spa&eng [/] Dadeland@s:spa&eng no Dadeland@s:spa&eng no tiene Aeros@s:spa&eng . %snd:"herring12"_219136_223048
+*TIM:	no jodás loc(o) Southland@s:eng&spa mall@s:eng o el Dadeland@s:eng&spa mall@s:eng . %snd:"herring12"_214895_219173
+*MIG:	idiay ándate al Dadeland@s:eng&spa [/] Dadeland@s:eng&spa no Dadeland@s:eng&spa no tiene Aeros@s:eng&spa . %snd:"herring12"_219136_223048
 %com:	aeros is short for aeropostale .
-*MIG:	sí Dadeland@s:spa&eng tiene Aeropostale@s:spa&eng bróder andá aplicá ahí . %snd:"herring12"_223010_226162
+*MIG:	sí Dadeland@s:eng&spa tiene Aeropostale@s:eng&spa bróder andá aplicá ahí . %snd:"herring12"_223010_226162
 *TIM:	+< sí tiene . %snd:"herring12"_223428_226157
-*MIG:	ah@s:spa&eng ? %snd:"herring12"_226139_227039
+*MIG:	ah@s:eng&spa ? %snd:"herring12"_226139_227039
 *TIM:	sí tiene . %snd:"herring12"_227007_228638
 *MIG:	qué ? %snd:"herring12"_228617_229204
 *TIM:	sí tiene . %snd:"herring12"_229152_230034
 *MIG:	sí sí tiene andá aplicá ahí estúpido . %snd:"herring12"_230019_231859
 *TIM:	sí vamos a ver . %snd:"herring12"_231815_234145
-*TIM:	también tengo ganas de [/] de que me contraten en una tienda de así como que de a cachimba tipo no sé tipo Express@s:spa&eng una verga así . %snd:"herring12"_234106_241297
+*TIM:	también tengo ganas de [/] de que me contraten en una tienda de así como que de a cachimba tipo no sé tipo Express@s:eng&spa una verga así . %snd:"herring12"_234106_241297
 %com:	Express is an American clothing store. #
 *MIG:	bueno entonces aplicá ahí pendejo . %snd:"herring12"_241194_242994
-*MIG:	like@s:eng honestly@s:eng [/] honestly@s:eng yo no te recomiendo Aeros@s:spa&eng . %snd:"herring12"_242960_246931
+*MIG:	like@s:eng honestly@s:eng [/] honestly@s:eng yo no te recomiendo Aeros@s:eng&spa . %snd:"herring12"_242960_246931
 *TIM:	+< xxx . %snd:"herring12"_242960_246931
 *MIG:	por(que) [/] porque pagan una mierda loco . %snd:"herring12"_246918_250198
 *TIM:	cuán(to) cuánto pagan pues ? %snd:"herring12"_250166_252158
@@ -130,29 +129,29 @@
 *TIM:	xxx . %snd:"herring12"_261540_263641
 *MIG:	sí . %snd:"herring12"_263612_264279
 *TIM:	y ahora qué vas a hacer ? %snd:"herring12"_264262_265882
-*MIG:	o sea yo sigo con mi trabajo en Univisión@s:spa&eng . %snd:"herring12"_265854_268286
-*MIG:	y <había aplic(ado)> [//] apliqué al [/] al Marriot@s:spa&eng porque este maje de Ryan@s:spa&eng me dijo +" . %snd:"herring12"_268223_272999
+*MIG:	o sea yo sigo con mi trabajo en Univisión@s:eng&spa . %snd:"herring12"_265854_268286
+*MIG:	y <había aplic(ado)> [//] apliqué al [/] al Marriot@s:eng&spa porque este maje de Ryan@s:eng&spa me dijo +" . %snd:"herring12"_268223_272999
 *MIG:	+" aplicá que te van a llamar que no sé qué que +.. . %snd:"herring12"_272997_275203
 *MIG:	me dijo te llaman en estos días . %snd:"herring12"_274926_276459
 *MIG:	y el maje me ha estado preguntando ya te llamaron ya te llamaron ? %snd:"herring12"_276447_278758
 *MIG:	y luego no ni verga no me han llamado nada le digo . %snd:"herring12"_278752_281372
 *MIG:	(en)tonces lo voy a llamar +.. . %snd:"herring12"_281372_282893
 *MIG:	en un rato lo voy a llamar para preguntarle que ahorita me recordaste . %snd:"herring12"_282844_286634
-*MIG:	y apliqué [/] apliqué en Bestbuy@s:spa&eng dicen <que ahí> [/] que ahí es bueno . %snd:"herring12"_286602_290067
+*MIG:	y apliqué [/] apliqué en Bestbuy@s:eng&spa dicen <que ahí> [/] que ahí es bueno . %snd:"herring12"_286602_290067
 *MIG:	entonces like@s:eng voy [/] voy a aplicar ahí en [/] en varios lugares para [/] para ver qué onda like@s:eng . %snd:"herring12"_290060_295540
 *MIG:	por [/] por el momento pues no voy a quedarme sin hacer nada porque esta semana que viene grabamos así que voy a estar trabajando aunque tengo spring_break@s:eng pues no [/] no voy a clase gracias a Dios . %snd:"herring12"_295516_304646
 *MIG:	entonces lo [//] <me lo voy a aho(rrar)> [//] todo eso me lo voy a ahorrar en gasolina porque ese viaje hasta allá le cuerea . %snd:"herring12"_304632_310130
 *MIG:	le . %snd:"herring12"_310119_312430
 *TIM:	+< dónde es tu universidad ? %snd:"herring12"_312128_312975
-*MIG:	ah@s:spa&eng ? %snd:"herring12"_312970_313643
+*MIG:	ah@s:eng&spa ? %snd:"herring12"_312970_313643
 *TIM:	dónde es tu universidad ? %snd:"herring12"_313614_314984
-*MIG:	en Miramar@s:spa&eng casi Fort_Lauderdale@s:spa&eng . %snd:"herring12"_314955_316799
+*MIG:	en Miramar@s:eng&spa casi Fort_Lauderdale@s:eng&spa . %snd:"herring12"_314955_316799
 *TIM:	y por qué vos ? %snd:"herring12"_316764_318453
 *MIG:	porque ahí queda idiay qué quieres que haga . %snd:"herring12"_318453_320293
 *MIG:	ahí la construyeron hermano . %snd:"herring12"_320299_322116
 *TIM:	no había una más cerca ? %snd:"herring12"_322109_323891
 *MIG:	no . %snd:"herring12"_323880_324866
-*MIG:	está Johnson_and_Wales@s:spa&eng que está en Miami_Beach@s:spa&eng pero +.. . %snd:"herring12"_324837_327600
+*MIG:	está Johnson_and_Wales@s:eng&spa que está en Miami_Beach@s:eng&spa pero +.. . %snd:"herring12"_324837_327600
 *MIG:	claro es de que yo me precipité loco . %snd:"herring12"_327530_330932
 *MIG:	<me precipité> [/] me precipité yo debería haber esperado más [//] un poquito más para [/] para ver otras cosas y otras universidades pero bueno . %snd:"herring12"_330849_338094
 *MIG:	[- eng] it is what it is . %snd:"herring12"_338065_339099
@@ -173,19 +172,19 @@
 *TIM:	xxx . %snd:"herring12"_374033_375868
 *MIG:	<fui a> [/] <fui a> [/] fui a discoteca el sábado . %snd:"herring12"_375854_378849
 *TIM:	aquí xxx pues . %snd:"herring12"_378999_380787
-*MIG:	ah@s:spa&eng ? %snd:"herring12"_380773_381296
+*MIG:	ah@s:eng&spa ? %snd:"herring12"_380773_381296
 *TIM:	con quién ? %snd:"herring12"_381290_382585
-*MIG:	con el maje de Ernesto@s:spa&eng ay yo creo que vos no lo conocistes el maje [/] el maje que era enamorado de Pedro . %snd:"herring12"_382563_388342
+*MIG:	con el maje de Ernesto@s:eng&spa ay yo creo que vos no lo conocistes el maje [/] el maje que era enamorado de Pedro . %snd:"herring12"_382563_388342
 *MIG:	entonces +/ . %snd:"herring12"_388333_390945
 *TIM:	+< no no sé quién es . %snd:"herring12"_388333_390945
 *MIG:	no no lo conociste . %snd:"herring12"_390938_391849
-*MIG:	entonces el maje me llamó like@s:eng iba a ir con Manolo@s:spa&eng . %snd:"herring12"_391838_394746
+*MIG:	entonces el maje me llamó like@s:eng iba a ir con Manolo@s:eng&spa . %snd:"herring12"_391838_394746
 *MIG:	pero de repente pues el maje no pudo . %snd:"herring12"_394711_396708
 *MIG:	(en)tonces yo me quedé con la +.. . %snd:"herring12"_396696_397672
 *MIG:	porque <ya me había> [/] ya me había (en)totorotado hija de la gran puta dije yo . %snd:"herring12"_397654_400963
 %com:	"entotorotado" means "excited about doing something" .
 *MIG:	<quiero ir> [/] quiero ir but@s:eng like@s:eng I@s:eng don't@s:eng wanna@s:eng go@s:eng by@s:eng myself@s:eng . %snd:"herring12"_400911_403837
-*TIM:	mmhm@s:spa&eng . %snd:"herring12"_403788_404148
+*TIM:	mmhm@s:eng&spa . %snd:"herring12"_403788_404148
 *MIG:	y entonces el maje de la nada like@s:eng <he@s:eng never@s:eng calls@s:eng me@s:eng> [//] el maje casi nunca me llama like@s:eng de repente por allá chateamos de vez en cuando . %snd:"herring12"_404148_410842
 *MIG:	pero like@s:eng de la nada el maje me <ha estado> [//] hemos estado hablando pos últimamente . %snd:"herring12"_410814_414158
 *MIG:	y like@s:eng me llama el sábado . %snd:"herring12"_414135_416051
@@ -206,10 +205,10 @@
 *MIG:	like@s:eng es bonito loc(o) [?] llegan sus culos bróder . %snd:"herring12"_452065_454573
 *MIG:	y lo más de a verga es de que like@s:eng a nosotros nos gustaba ir por [/] por estar viendo los culos y eso . %snd:"herring12"_454482_459741
 *MIG:	pero [/] pero [/] pero li(ke)@s:eng [/] like@s:eng [/] like@s:eng los sábados por ejemplo pues pero xxx . %snd:"herring12"_459720_463708
-*MIG:	creo que el [//] la [/] la primera vez que yo fui creo que fue un viernes porque creo que los viernes es noche latina pues <esa vez> [//] ese día habían puesto reggaetón@s:eng3 . %snd:"herring12"_463684_470811
-*MIG:	pero los sábados sólo ponen así <música elect(rónica)> [//] música música er@s:spa&eng dance@s:eng no sé una música toda rara loco que [/] que o sea bailarla un rato me entendés está de a verga pero es toda la noche que la ponen entonces nosotros nos poníamos de un bate . %snd:"herring12"_470786_486191
+*MIG:	creo que el [//] la [/] la primera vez que yo fui creo que fue un viernes porque creo que los viernes es noche latina pues <esa vez> [//] ese día habían puesto reggaetón@s:eng+spa . %snd:"herring12"_463684_470811
+*MIG:	pero los sábados sólo ponen así <música elect(rónica)> [//] música música er@s:eng&spa dance@s:eng no sé una música toda rara loco que [/] que o sea bailarla un rato me entendés está de a verga pero es toda la noche que la ponen entonces nosotros nos poníamos de un bate . %snd:"herring12"_470786_486191
 *MIG:	entonces abrieron <como un> [/] como un no sé un lounge@s:eng al lad(o) o sea ahí mismo adentro pues . %snd:"herring12"_486102_494490
-*MIG:	y [/] y ya ponen [/] ponen más música más variada pues de repente hip_hop@s:spa&eng reggaetón@s:spa&eng entonces la están variando entonces es más de a verga . %snd:"herring12"_494447_501707
+*MIG:	y [/] y ya ponen [/] ponen más música más variada pues de repente hip_hop@s:eng&spa reggaetón@s:eng&spa entonces la están variando entonces es más de a verga . %snd:"herring12"_494447_501707
 *TIM:	ya . %snd:"herring12"_501676_502953
 *MIG:	ves entonces no estás como que con la misma música toda la noche . %snd:"herring12"_502941_506041
 *TIM:	y averiguaste qué días abre ? %snd:"herring12"_505996_508486
@@ -221,7 +220,7 @@
 *MIG:	yo debería de conseguir el número para +.. . %snd:"herring12"_528532_530710
 *MIG:	[- eng] it must have a webpage . %snd:"herring12"_530634_532120
 *MIG:	creo [/] creo que tienen una [/] una página de internet verdad para preguntar o sea para [/] para darme cuenta me entendés . %snd:"herring12"_532103_537817
-*TIM:	mmhm@s:spa&eng . %snd:"herring12"_537964_539375
+*TIM:	mmhm@s:eng&spa . %snd:"herring12"_537964_539375
 *MIG:	porque [/] porque <esa ver(ga)> [/] esa verga loco no [/] <no creo que só(lo)> [/] no creo que sólo abran los domingos loco . %snd:"herring12"_539380_544702
 *MIG:	porque [/] porque o sea maje . %snd:"herring12"_544664_547940
 *MIG:	<te das> [/] te das cuenta de la cantidad de reales que pierden un viernes si no abren loco . %snd:"herring12"_547911_552333
@@ -230,18 +229,18 @@
 *TIM:	xxx . %snd:"herring12"_559299_559943
 *MIG:	si si estuvieran construyendo cerrarían el sábado también o [/] o pues lo cerrarían así temporalmente . %snd:"herring12"_559934_565048
 *TIM:	qué raro y cuánto te cobran la entrada ? %snd:"herring12"_564997_567725
-*MIG:	ah@s:spa&eng ? %snd:"herring12"_567690_568700
+*MIG:	ah@s:eng&spa ? %snd:"herring12"_567690_568700
 *TIM:	+< xxx . %snd:"herring12"_568667_570077
 *MIG:	pues siempre me cobraban diez pero el sábado que fui me cobraron quince . %snd:"herring12"_568685_572348
-*TIM:	oh@s:spa&eng . %snd:"herring12"_572334_573942
+*TIM:	oh@s:eng&spa . %snd:"herring12"_572334_573942
 *MIG:	menos mal que llevé o sea yo [/] yo llevaba como veinte dólares cash@s:eng y yo dije seis dólares de parqueo dije yo diez la entrada y pues <el vuelto> [/] el vuelto no sé tal vez me compro algo de tomar . %snd:"herring12"_573959_582993
 *MIG:	completitos loco . %snd:"herring12"_582992_584769
 *MIG:	a la yo me quedé como que a la gran puta si no hubiera traído . %snd:"herring12"_584772_587866
 *MIG:	y lo que más me enturca es que no agarran tarjetas loco . %snd:"herring12"_587848_590797
-*MIG:	like@s:eng o sea estamos en [/] en Florida@s:spa&eng loco . %snd:"herring12"_590797_594889
-*MIG:	estamos en Miami@s:spa&eng loco . %snd:"herring12"_594865_595938
+*MIG:	like@s:eng o sea estamos en [/] en Florida@s:eng&spa loco . %snd:"herring12"_590797_594889
+*MIG:	estamos en Miami@s:eng&spa loco . %snd:"herring12"_594865_595938
 *MIG:	y no aceptan tarjeta bro(der) . %snd:"herring12"_595925_597266
-*MIG:	y ahí en Nicaragua@s:spa&eng en todo en en Hipa@s:spa&eng bróder aceptan tarjeta loco . %snd:"herring12"_597243_600815
+*MIG:	y ahí en Nicaragua@s:eng&spa en todo en en Hipa@s:eng&spa bróder aceptan tarjeta loco . %snd:"herring12"_597243_600815
 %com:	Hipa is a disco bar in Managua.
 *MIG:	yo pago siempre pago mi entrada con la tarjeta . %snd:"herring12"_600814_603328
 *TIM:	es que aquí ni en ningún bar ni ninguna discoteca te la agarra . %snd:"herring12"_603280_605933
@@ -250,12 +249,12 @@
 *MIG:	ah huevo es cierto pero igual el [/] el [/] el [//] en discoteca el A_T_M@s:eng está [/] <está en los ba(ños)> [//] está por los baños loco está dentro . %snd:"herring12"_613918_620756
 *TIM:	pero te cobra un turcazo de reales . %snd:"herring12"_620698_622875
 *MIG:	loco la otra vez (o) sea una de las primeras veces que fui +.. . %snd:"herring12"_622867_626797
-*MIG:	la [//] ok@s:spa&eng la segunda vez que fui yo estaba seguro que la primera vez me habían cobrado con tarjeta . %snd:"herring12"_626726_631919
+*MIG:	la [//] ok@s:eng&spa la segunda vez que fui yo estaba seguro que la primera vez me habían cobrado con tarjeta . %snd:"herring12"_626726_631919
 *MIG:	entonces yo me voy confiado loco y voy a pagar con mi tarjeta . %snd:"herring12"_631915_635288
 *MIG:	y el maje no que no aceptamos tarjeta . %snd:"herring12"_635254_637507
 *MIG:	y yo a la gran puta what@s:eng do@s:eng I@s:eng do@s:eng le digo . %snd:"herring12"_637462_639621
 *MIG:	(en)tonces tenemos un A_T_M@s:eng ahí adentro me dice el maje . %snd:"herring12"_639579_642330
-*MIG:	y yo bueno ok@s:spa&eng pues me voy a ir pues lo(co) voy a ir al A_T_M@s:eng . %snd:"herring12"_642265_645080
+*MIG:	y yo bueno ok@s:eng&spa pues me voy a ir pues lo(co) voy a ir al A_T_M@s:eng . %snd:"herring12"_642265_645080
 *MIG:	(en)tonces el maje se quedó con mi I_D@s:eng y eso pues para +.. . %snd:"herring12"_645068_647954
 *MIG:	[- eng] <I had to come back> [/] I had to come back . %snd:"herring12"_647913_649695
 *MIG:	entonces regreso voy y [/] y saco en el A_T_M@s:eng . %snd:"herring12"_649692_653105
@@ -272,7 +271,7 @@
 *TIM:	+< es que ahí dice esta mierda te cobra un fee@s:eng xxx . %snd:"herring12"_680459_682943
 *MIG:	+< <acordate que l(as)> [/] acordate que las rubias somos tontas estúpid(o) . %snd:"herring12"_682935_686176
 *TIM:	las rubias son tontas [=! laugh] . %snd:"herring12"_686141_688184
-*MIG:	+< sí eh@s:spa&eng . %snd:"herring12"_688153_689918
+*MIG:	+< sí eh@s:eng&spa . %snd:"herring12"_688153_689918
 *MIG:	<yo no> [//] yo además que yo no leo a mí me leen . %snd:"herring12"_689899_693185
 *TIM:	a mí me leen . %snd:"herring12"_693182_695742
 *TIM:	qué idiota . %snd:"herring12"_695720_696835
@@ -295,7 +294,7 @@
 *TIM:	cómo [?] yo nunca he ido a esa mierda vos sabés . %snd:"herring12"_714583_717740
 *MIG:	qué estúpido que sos . %snd:"herring12"_717733_719225
 *TIM:	pero ésta es la feria nicaragüense <o la> [/] o la feria xxx . %snd:"herring12"_719225_722890
-*MIG:	+< qué estúpido ésa es Exponica@s:spa&eng estúpido . %snd:"herring12"_720986_723209
+*MIG:	+< qué estúpido ésa es Exponica@s:eng&spa estúpido . %snd:"herring12"_720986_723209
 %com:	Exponica is a Nicaraguan exposition fair.
 *TIM:	[- eng] oh yeah yeah yeah . %snd:"herring12"_723189_724240
 *MIG:	y eso es como en septiembre noviembre por ahí . %snd:"herring12"_724228_726968
@@ -321,7 +320,7 @@
 *MIG:	vos sabés que # me enturca que pagué # el brazalete . %snd:"herring12"_758938_762252
 *MIG:	que creo que no me acuerdo cuánto valía . %snd:"herring12"_762222_764015
 *MIG:	el brazalete es para que lo andés y te montés en [/] en [/] en o sea te montás en todo pues . %snd:"herring12"_763998_768143
-*MIG:	en vez de andar comprando like@s:eng los [/] los tickets@s:spa&eng y eso porque hay gente pues que hace la fila para estar comprando tickets@s:spa&eng y tickets@s:spa&eng . %snd:"herring12"_768098_773871
+*MIG:	en vez de andar comprando like@s:eng los [/] los tickets@s:eng&spa y eso porque hay gente pues que hace la fila para estar comprando tickets@s:eng&spa y tickets@s:eng&spa . %snd:"herring12"_768098_773871
 *MIG:	(en)tonces yo dije idiay compremos el brazalete y vale turca . %snd:"herring12"_773884_776426
 *MIG:	y para nada lo compré sólo me monté como en dos o tres cosas . %snd:"herring12"_776416_779145
 *MIG:	porque yo like@s:eng # I@s:eng don't@s:eng ride@s:eng those@s:eng things@s:eng me entendés . %snd:"herring12"_779116_782249
@@ -335,7 +334,7 @@
 *MIG:	ya es que ya lo sabés pues . %snd:"herring12"_797787_800855
 *MIG:	es que como yo tengo aire en el cerebro . %snd:"herring12"_800827_802661
 *TIM:	+< xxx . %snd:"herring12"_801495_803666
-*TIM:	ah@s:spa&eng ? %snd:"herring12"_803645_803999
+*TIM:	ah@s:eng&spa ? %snd:"herring12"_803645_803999
 *MIG:	como yo tengo aire en el cerebro . %snd:"herring12"_803987_805787
 *TIM:	aire en el cerebro ? %snd:"herring12"_805752_807145
 *MIG:	sí l(oco) o sea en [/] en la cabeza perdón porque no tengo cerebro yo tengo aire . %snd:"herring12"_807128_810890
@@ -347,7 +346,7 @@
 *TIM:	qué pasó ? %snd:"herring12"_820426_821326
 *MIG:	ya [/] ya salió el primer hombre embarazado . %snd:"herring12"_821320_823717
 *TIM:	&=laugh cómo es eso [?] ? %snd:"herring12"_823702_826900
-*MIG:	ah@s:spa&eng ? %snd:"herring12"_826889_827666
+*MIG:	ah@s:eng&spa ? %snd:"herring12"_826889_827666
 *TIM:	cómo es eso ? %snd:"herring12"_827661_828572
 *MIG:	ya salió el primer hombre embarazado . %snd:"herring12"_828553_830434
 *TIM:	no entiendo . %snd:"herring12"_830438_832586
@@ -364,7 +363,7 @@
 *MIG:	&=laugh no mira pues # es como que # era mujer y se operó . %snd:"herring12"_861825_868537
 *TIM:	ah ya sé . %snd:"herring12"_868513_869749
 *MIG:	entonces se pero se pues se [/] se quitó el bicho y se puso una turca . %snd:"herring12"_869645_873928
-*TIM:	mmhm@s:spa&eng . %snd:"herring12"_874214_874562
+*TIM:	mmhm@s:eng&spa . %snd:"herring12"_874214_874562
 *MIG:	cómo te quitan el bicho lo(co) te quitan el hoyo . %snd:"herring12"_874562_876681
 *TIM:	te cierran el hoyo . %snd:"herring12"_876646_879737
 *TIM:	el clítoris es la cabeza y +.. . %snd:"herring12"_879700_882051
@@ -389,25 +388,25 @@
 *MIG:	por Dios se me va a llevar el cuchitril loco . %snd:"herring12"_921188_923353
 %com:	"cuchitril" is a despective way to refer to a place of abode.
 *TIM:	xxx oíme la verga es que al comienzo todos son como niñas . %snd:"herring12"_923300_927608
-*MIG:	mmhm@s:spa&eng . %snd:"herring12"_927562_928322
+*MIG:	mmhm@s:eng&spa . %snd:"herring12"_927562_928322
 *TIM:	el [/] el hombre y la niña son igualitas la cosa que tenemos ahí . %snd:"herring12"_928299_931422
-*MIG:	mmhm@s:spa&eng . %snd:"herring12"_931386_931827
-*TIM:	pero um@s:spa&eng la [/] la cabeza del hombre es el clítoris de la mujer me entendés ? %snd:"herring12"_931815_937204
+*MIG:	mmhm@s:eng&spa . %snd:"herring12"_931386_931827
+*TIM:	pero um@s:eng&spa la [/] la cabeza del hombre es el clítoris de la mujer me entendés ? %snd:"herring12"_931815_937204
 *MIG:	ya . %snd:"herring12"_937166_937753
 *TIM:	los labios de la mujer # son los huevitos del hombre . %snd:"herring12"_937741_941230
 *MIG:	los huevitos ? %snd:"herring12"_941195_942106
 *TIM:	sí los huevitos . %snd:"herring12"_942083_943877
 *MIG:	o sea los testículos ? %snd:"herring12"_943858_944984
-*TIM:	aha@s:spa&eng . %snd:"herring12"_944946_945718
-*MIG:	mmhm@s:spa&eng . %snd:"herring12"_945706_946827
+*TIM:	aha@s:eng&spa . %snd:"herring12"_944946_945718
+*MIG:	mmhm@s:eng&spa . %snd:"herring12"_945706_946827
 *TIM:	más o menos se parecen se parecen en puta maje cómo se viene formando . %snd:"herring12"_946800_950794
-*MIG:	mmhm@s:spa&eng . %snd:"herring12"_950752_951849
+*MIG:	mmhm@s:eng&spa . %snd:"herring12"_950752_951849
 *TIM:	y . %snd:"herring12"_951608_951986
 *MIG:	+< o sea que al principio todos tenemos bicho . %snd:"herring12"_951951_953592
-*TIM:	sí el otro día lo miré pues ahí en una película como lo hacen ahí en Nip_Tuck@s:spa&eng que estaban explicando unos majes . %snd:"herring12"_953586_959960
+*TIM:	sí el otro día lo miré pues ahí en una película como lo hacen ahí en Nip_Tuck@s:eng&spa que estaban explicando unos majes . %snd:"herring12"_953586_959960
 %com:	Nip_Tuck is a TV series in the USA.
-*MIG:	mmhm@s:spa&eng . %snd:"herring12"_959943_960813
-*MIG:	eso es una eso Nip_Tuck@s:spa&eng no es una película estúpido es una serie . %snd:"herring12"_960798_963956
+*MIG:	mmhm@s:eng&spa . %snd:"herring12"_959943_960813
+*MIG:	eso es una eso Nip_Tuck@s:eng&spa no es una película estúpido es una serie . %snd:"herring12"_960798_963956
 *TIM:	una serie pues . %snd:"herring12"_963857_965801
 *TIM:	entonces pues sí eso fue lo que miré . %snd:"herring12"_965789_970776
 *TIM:	pero qué de a verga maje yo quisiera quedar embarazad(o) . %snd:"herring12"_970764_974265
@@ -426,9 +425,9 @@
 %com:	third person speaks
 *MIG:	sí sí así vi . %snd:"herring12"_992995_995120
 %com:	third person speaks
-*MIG:	ah ok@s:spa&eng gracias oyó . %snd:"herring12"_995101_997684
+*MIG:	ah ok@s:eng&spa gracias oyó . %snd:"herring12"_995101_997684
 %com:	third person speaks
-*MIG:	bye@s:spa&eng . %snd:"herring12"_997664_998244
+*MIG:	bye@s:eng&spa . %snd:"herring12"_997664_998244
 *MIG:	aló . %snd:"herring12"_998238_999109
 *TIM:	xxx . %snd:"herring12"_999089_1000372
 *MIG:	mi vecina estúpida . %snd:"herring12"_1000355_1001615
@@ -438,7 +437,7 @@
 *MIG:	hablá aha@s:eng aha@s:eng . %snd:"herring12"_1007719_1015716
 %com:	speakers in background
 *TIM:	aha entonces . %snd:"herring12"_1015725_1017368
-*MIG:	+< ah pues sí entonces estaba viendo las noticias en [/] en [/] en Primer_Impacto@s:spa&eng . %snd:"herring12"_1016433_1020235
+*MIG:	+< ah pues sí entonces estaba viendo las noticias en [/] en [/] en Primer_Impacto@s:eng&spa . %snd:"herring12"_1016433_1020235
 *MIG:	y entonces # es [//] o sea era mujer antes . %snd:"herring12"_1020220_1024863
 *MIG:	y [/] y se operó pues y se hizo hombre . %snd:"herring12"_1024813_1027106
 *MIG:	entonces le pusieron la turca y todo . %snd:"herring12"_1027036_1028540
@@ -447,7 +446,7 @@
 *MIG:	sí se casó pues se casó con [/] con otra maje pues y entonces parece <que la> [/] que la mujer con la que se casó pues no podía quedar embarazada . %snd:"herring12"_1038229_1045845
 *MIG:	entonces el gran amor que le tiene entonces le dijo pues yo voy a quedar embarazado por vos . %snd:"herring12"_1045798_1050552
 *MIG:	entonces # <lo embarazaron> [//] sabes se embarazó . %snd:"herring12"_1050525_1055448
-*TIM:	+< mmhm@s:spa&eng . %snd:"herring12"_1050525_1055430
+*TIM:	+< mmhm@s:eng&spa . %snd:"herring12"_1050525_1055430
 *MIG:	parece pues obviamente fue inseminación artificial y eso . %snd:"herring12"_1055415_1058143
 *MIG:	ves porque no le íbamos a meter una turca por el hoyo de la turca . %snd:"herring12"_1058113_1061706
 *TIM:	y después para sacarle el chavalo . %snd:"herring12"_1061710_1065113
@@ -470,41 +469,41 @@
 *MIG:	porque uno de mis sueños ya lo cumplí que pues ir al concierto bróder . %snd:"herring12"_1090968_1094401
 *MIG:	eso fue lo más de a verga . %snd:"herring12"_1094393_1095995
 *MIG:	pero eso era como que un sueño vos sabés de esos sueños materiales . %snd:"herring12"_1095978_1099908
-*TIM:	mmhm@s:spa&eng . %snd:"herring12"_1099868_1101163
+*TIM:	mmhm@s:eng&spa . %snd:"herring12"_1099868_1101163
 *MIG:	pero mi sueño no sé mi sueño como así como persona como ser humano o sea realizarme va a ser eso ser papá loco . %snd:"herring12"_1101146_1108733
 *MIG:	quiero tener un hijo . %snd:"herring12"_1108688_1111294
-*MIG:	y [/] y ponerle Yurandier@s:spa&eng Eliécer@s:spa&eng [?] . %snd:"herring12"_1111264_1113992
-*TIM:	uh@s:spa&eng ? %snd:"herring12"_1113975_1114869
-*MIG:	yo [/] yo le voy a poner Yurandier@s:spa&eng Eliécer@s:spa&eng [?] . %snd:"herring12"_1114838_1116701
-*TIM:	Yurandier@s:spa&eng &=laugh . %snd:"herring12"_1116689_1118105
+*MIG:	y [/] y ponerle Yurandier@s:eng&spa Eliécer@s:eng&spa [?] . %snd:"herring12"_1111264_1113992
+*TIM:	uh@s:eng&spa ? %snd:"herring12"_1113975_1114869
+*MIG:	yo [/] yo le voy a poner Yurandier@s:eng&spa Eliécer@s:eng&spa [?] . %snd:"herring12"_1114838_1116701
+*TIM:	Yurandier@s:eng&spa &=laugh . %snd:"herring12"_1116689_1118105
 *MIG:	sí es un o sea es un nombre fino qué te pasa ? %snd:"herring12"_1118088_1120328
 *MIG:	fino de barriada de viaje . %snd:"herring12"_1120286_1122597
 *TIM:	qué nombre más # turqueado no jodás . %snd:"herring12"_1122196_1126115
-*MIG:	+< mmhm@s:spa&eng un nombre cual es un nombre de realeza . %snd:"herring12"_1124518_1128800
-*TIM:	Yurandier@s:spa&eng Eliécer@s:spa&eng &=laugh . %snd:"herring12"_1128843_1131751
+*MIG:	+< mmhm@s:eng&spa un nombre cual es un nombre de realeza . %snd:"herring12"_1124518_1128800
+*TIM:	Yurandier@s:eng&spa Eliécer@s:eng&spa &=laugh . %snd:"herring12"_1128843_1131751
 *MIG:	+< claro . %snd:"herring12"_1128843_1131751
-*MIG:	puro reparto Schick@s:spa&eng imaginate Yurandier@s:spa&eng Eliécer@s:spa&eng . %snd:"herring12"_1131749_1135191
+*MIG:	puro reparto Schick@s:eng&spa imaginate Yurandier@s:eng&spa Eliécer@s:eng&spa . %snd:"herring12"_1131749_1135191
 %com:	Reparto Schick is a poor neighbourgood in Managua (Nicaragua).
 *TIM:	a la gran puta qué nombrecito . %snd:"herring12"_1135168_1137565
 *MIG:	sí l(oco) . %snd:"herring12"_1137560_1138506
 *TIM:	+< xxx . %snd:"herring12"_1137560_1138496
-*MIG:	o si no # Kelvin@s:spa&eng Josué@s:spa&eng le puedo poner . %snd:"herring12"_1138469_1142278
-*TIM:	Kelvin@s:spa&eng Josué@s:spa&eng . %snd:"herring12"_1142239_1143714
+*MIG:	o si no # Kelvin@s:eng&spa Josué@s:eng&spa le puedo poner . %snd:"herring12"_1138469_1142278
+*TIM:	Kelvin@s:eng&spa Josué@s:eng&spa . %snd:"herring12"_1142239_1143714
 *TIM:	<oh che> [?] . %snd:"herring12"_1143708_1144915
 *MIG:	+< sí . %snd:"herring12"_1143708_1144915
-*MIG:	Kevin@s:spa&eng Brian@s:spa&eng también . %snd:"herring12"_1144892_1146721
-*TIM:	Kevin@s:spa&eng Brian@s:spa&eng . %snd:"herring12"_1146708_1148862
+*MIG:	Kevin@s:eng&spa Brian@s:eng&spa también . %snd:"herring12"_1144892_1146721
+*TIM:	Kevin@s:eng&spa Brian@s:eng&spa . %snd:"herring12"_1146708_1148862
 *MIG:	sí . %snd:"herring12"_1148838_1149569
 *MIG:	vos sabés de que la otra vez estaba viendo un programa pues allá en Nicaragua creo . %snd:"herring12"_1149534_1153127
 *MIG:	no me acuerdo si era Margarita o algo así un programa de esos . %snd:"herring12"_1153139_1155645
 *MIG:	entonces la cosa es de que se fueron como para la Costa o algo así . %snd:"herring12"_1155605_1158257
 %com:	"Costa" is short for "Costa Atlántica" (the Caribbean autonomous regions in Nicaragua).
-*TIM:	mmhm@s:spa&eng . %snd:"herring12"_1158169_1159005
+*TIM:	mmhm@s:eng&spa . %snd:"herring12"_1158169_1159005
 *MIG:	y entonces vos sabés que ahí hablan inglés y eso . %snd:"herring12"_1158988_1161548
 *MIG:	y entonces loco la gente le pone a los hijos nombres de [/] de lugares . %snd:"herring12"_1161527_1166605
 *TIM:	+< xxx . %snd:"herring12"_1166077_1166709
-*MIG:	loco ahí [/] ahí vivía un maje que se llamaba Washington_D_C@s:spa&eng . %snd:"herring12"_1166633_1169518
-*TIM:	mmhm@s:spa&eng . %snd:"herring12"_1169512_1170835
+*MIG:	loco ahí [/] ahí vivía un maje que se llamaba Washington_D_C@s:eng&spa . %snd:"herring12"_1166633_1169518
+*TIM:	mmhm@s:eng&spa . %snd:"herring12"_1169512_1170835
 *MIG:	loco yo me estaba cagando de las risas con unos nombres que salían bróder . %snd:"herring12"_1170794_1175049
 *MIG:	sí sí se ponen unos nombres y los majes se pueden poner los apellidos también . %snd:"herring12"_1175037_1178550
 *MIG:	a huevo loco . %snd:"herring12"_1178539_1179858
@@ -514,27 +513,27 @@
 *MIG:	cómo así ? %snd:"herring12"_1184623_1185651
 *TIM:	sí los majes yo no sé ellos pueden escoger sus apellidos no sé cómo puta . %snd:"herring12"_1185626_1189424
 *MIG:	qué raro entonces ahí nadie es familia entonces . %snd:"herring12"_1189390_1191294
-*TIM:	ellos podrían escoger sus apellidos o no sé entonces tienen apellidos como O'Brian@s:spa&eng como +/ . %snd:"herring12"_1191321_1198813
+*TIM:	ellos podrían escoger sus apellidos o no sé entonces tienen apellidos como O'Brian@s:eng&spa como +/ . %snd:"herring12"_1191321_1198813
 *MIG:	+< a huevo . %snd:"herring12"_1197937_1198889
 *TIM:	xxx . %snd:"herring12"_1199136_1200064
 *MIG:	+< imaginate . %snd:"herring12"_1199136_1200064
 *TIM:	tienen unos apellidos no jodás todos raros todos . %snd:"herring12"_1200034_1202745
-*MIG:	imaginate por ahí debe de haber una Oprah_Winfrey@s:spa&eng por ahí loc(o) . %snd:"herring12"_1202668_1205727
+*MIG:	imaginate por ahí debe de haber una Oprah_Winfrey@s:eng&spa por ahí loc(o) . %snd:"herring12"_1202668_1205727
 *TIM:	xxx . %snd:"herring12"_1205702_1207026
-*MIG:	una Victoria_Beckham@s:spa&eng . %snd:"herring12"_1206991_1208291
+*MIG:	una Victoria_Beckham@s:eng&spa . %snd:"herring12"_1206991_1208291
 *TIM:	no ya eso no pues no creo xxx parece negra . %snd:"herring12"_1208265_1212473
 *MIG:	claro que sí bróder si se ponen art(istas) [//] nombres de artistas así y todo . %snd:"herring12"_1212461_1215809
 *MIG:	había un maje que [/] que se llamaba no sé loco no me acuerdo . %snd:"herring12"_1215873_1220254
 *MIG:	yo me acuerdo que # hace años teníamos un chofer que el maje tenía una hija que estaba embarazada . %snd:"herring12"_1220218_1227027
 *MIG:	entonces ya nace el niño y cómo se llama le digo . %snd:"herring12"_1226901_1229937
 *MIG:	(en)tonces me dice no es que mi hija le +// . %snd:"herring12"_1229917_1231910
-*MIG:	era para el tiempo de los Backstreet_Boys@s:spa&eng . %snd:"herring12"_1231904_1233390
-*MIG:	y me dice no es que a mi hija le gustan los Backstreet_Boys@s:spa&eng y le puso Kevin@s:spa&eng Brian@s:spa&eng dice . %snd:"herring12"_1233364_1237109
+*MIG:	era para el tiempo de los Backstreet_Boys@s:eng&spa . %snd:"herring12"_1231904_1233390
+*MIG:	y me dice no es que a mi hija le gustan los Backstreet_Boys@s:eng&spa y le puso Kevin@s:eng&spa Brian@s:eng&spa dice . %snd:"herring12"_1233364_1237109
 *MIG:	y yo &ih a la gran puta huevón . %snd:"herring12"_1237239_1239579
 *TIM:	+< xxx . %snd:"herring12"_1238725_1240486
-*MIG:	+< Kevin@s:spa&eng Brian@s:spa&eng no hombre . %snd:"herring12"_1240028_1241728
-*MIG:	imaginate le gustan los Backstreet_Boys@s:spa&eng y N_Sync@s:spa&eng y le puso Nick@s:spa&eng Justin@s:spa&eng . %snd:"herring12"_1241687_1246480
-*TIM:	Nick@s:spa&eng Justin@s:spa&eng fíjate . %snd:"herring12"_1246535_1248654
+*MIG:	+< Kevin@s:eng&spa Brian@s:eng&spa no hombre . %snd:"herring12"_1240028_1241728
+*MIG:	imaginate le gustan los Backstreet_Boys@s:eng&spa y N_Sync@s:eng&spa y le puso Nick@s:eng&spa Justin@s:eng&spa . %snd:"herring12"_1241687_1246480
+*TIM:	Nick@s:eng&spa Justin@s:eng&spa fíjate . %snd:"herring12"_1246535_1248654
 *MIG:	+< imaginate . %snd:"herring12"_1248166_1249252
 *TIM:	&=laughs . %snd:"herring12"_1249256_1250028
 *MIG:	tuanis de viaje . %snd:"herring12"_1249985_1252203
@@ -554,8 +553,8 @@
 *TIM:	te llamo xxx . %snd:"herring12"_1275014_1276604
 *MIG:	no estúpida no . %snd:"herring12"_1276578_1278482
 *TIM:	ay maje maje es que ahí viene mi mamá subiendo las escaleras para turquearme . %snd:"herring12"_1278455_1281897
-*MIG:	ok@s:spa&eng pero no me colgués te espero pero no me colgués . %snd:"herring12"_1281926_1284219
-*TIM:	huh@s:spa&eng no dale que me voy a bañar . %snd:"herring12"_1284194_1287276
+*MIG:	ok@s:eng&spa pero no me colgués te espero pero no me colgués . %snd:"herring12"_1281926_1284219
+*TIM:	huh@s:eng&spa no dale que me voy a bañar . %snd:"herring12"_1284194_1287276
 *MIG:	no estúpida dame cinco minutos más platiquemos . %snd:"herring12"_1287263_1290206
 *MIG:	qué te iba a decir ? %snd:"herring12"_1290190_1294271
 *TIM:	aha . %snd:"herring12"_1294254_1295252
@@ -570,14 +569,14 @@
 *MIG:	qué le dijiste ? %snd:"herring12"_1310938_1311925
 *TIM:	nada que me iba para Nueva_Orleáns y que no sé qué . %snd:"herring12"_1311906_1315052
 *TIM:	y que [/] <que me diera un fin de> [//] que iba a ocupar un fin de semana . %snd:"herring12"_1315028_1319109
-*TIM:	(en)tonces me dijo que ok@s:spa&eng . %snd:"herring12"_1319063_1320450
+*TIM:	(en)tonces me dijo que ok@s:eng&spa . %snd:"herring12"_1319063_1320450
 *TIM:	al siguiente [/] siguiente fin de semana me dice mejor no mirá que nos vamos a quedar aquí . %snd:"herring12"_1320444_1324890
 *TIM:	entonces le digo no que mis papás dicen que un fin de semana es muy poquito para conocer Nueva_Orleáns ah sí tenés razón avisame cuando estés en la ciudad loco me pone el maje . %snd:"herring12"_1324860_1334063
 *MIG:	(hi)jo (d)e puta mínimo [/] mínimo lo llamás y él te dice sí hijo de puta de qué de a verga vaya a la verga te va a decir . %snd:"herring12"_1334042_1340589
 *TIM:	xxx . %snd:"herring12"_1340537_1347489
 *MIG:	+< qué ? %snd:"herring12"_1346769_1347460
 *TIM:	quiero ir al concierto de música electrónica . %snd:"herring12"_1347431_1351558
-*MIG:	ah sí así me dijo la Olga@s:spa&eng . %snd:"herring12"_1351513_1353846
+*MIG:	ah sí así me dijo la Olga@s:eng&spa . %snd:"herring12"_1351513_1353846
 *TIM:	a ver querés ir ? %snd:"herring12"_1353817_1356110
 *MIG:	estás loco bróder ? %snd:"herring12"_1356085_1357304
 *MIG:	a estar oliendo monte bróder . %snd:"herring12"_1357287_1358941
@@ -585,7 +584,7 @@
 *TIM:	+< xxx . %snd:"herring12"_1358895_1362105
 *TIM:	es que es un turcazo de locas xxx . %snd:"herring12"_1362099_1364485
 *MIG:	ah ? %snd:"herring12"_1364479_1364944
-*TIM:	vienen casi todas las locas del [//] de Miami@s:spa&eng . %snd:"herring12"_1364924_1368314
+*TIM:	vienen casi todas las locas del [//] de Miami@s:eng&spa . %snd:"herring12"_1364924_1368314
 *MIG:	ah pues con razón vas . %snd:"herring12"_1368308_1369562
 *TIM:	ah no hom(bre) . %snd:"herring12"_1369581_1370864
 *MIG:	&=laughs . %snd:"herring12"_1370829_1371647
@@ -602,33 +601,33 @@
 *MIG:	no me lo voy encontrando en discoteca el sábado loco . %snd:"herring12"_1399251_1402031
 *MIG:	a la puta bróder si es que es +.. . %snd:"herring12"_1401989_1404497
 *TIM:	+< aha . %snd:"herring12"_1401989_1404497
-*MIG:	casi tan loca como Carlos@s:spa&eng bróder . %snd:"herring12"_1404485_1407022
+*MIG:	casi tan loca como Carlos@s:eng&spa bróder . %snd:"herring12"_1404485_1407022
 *TIM:	de verdad ? %snd:"herring12"_1407017_1407911
 *MIG:	tal vez un poquito menos . %snd:"herring12"_1407894_1408666
-*MIG:	no lo que pasa es de que Carlos@s:spa&eng es así de naturaleza . %snd:"herring12"_1408643_1411695
+*MIG:	no lo que pasa es de que Carlos@s:eng&spa es así de naturaleza . %snd:"herring12"_1408643_1411695
 *MIG:	este maje o sea él caminó . %snd:"herring12"_1411672_1414006
 *TIM:	+< es como qué ? %snd:"herring12"_1411672_1413994
-*MIG:	Carlos@s:spa&eng es así de naturaleza creo yo . %snd:"herring12"_1413990_1416318
-*MIG:	Carlos@s:spa&eng . %snd:"herring12"_1416293_1417703
+*MIG:	Carlos@s:eng&spa es así de naturaleza creo yo . %snd:"herring12"_1413990_1416318
+*MIG:	Carlos@s:eng&spa . %snd:"herring12"_1416293_1417703
 *TIM:	+< aha &=laugh . %snd:"herring12"_1416293_1417703
-*MIG:	<Carlos@s:spa&eng es> [/] Carlos@s:spa&eng es [/] es loca de naturaleza . %snd:"herring12"_1417669_1419793
+*MIG:	<Carlos@s:eng&spa es> [/] Carlos@s:eng&spa es [/] es loca de naturaleza . %snd:"herring12"_1417669_1419793
 *MIG:	o sea este maje era como que andaba vestido todo o sea oímelo de camisola . %snd:"herring12"_1419747_1424974
 *MIG:	o sea una camisola blanca con una corbata azul . %snd:"herring12"_1424950_1428538
-*TIM:	+< mmhm@s:spa&eng . %snd:"herring12"_1424950_1428538
+*TIM:	+< mmhm@s:eng&spa . %snd:"herring12"_1424950_1428538
 *TIM:	a la gran pu(ta) . %snd:"herring12"_1428514_1430679
-*MIG:	o sea loc(o) o sea pero era una [/] una camisola de esas Fruit_of_the_loom@s:spa&eng loco esas camisolas Haines@s:spa&eng lo(co) . %snd:"herring12"_1430650_1436967
-*TIM:	aha@s:spa&eng aha@s:spa&eng aha@s:spa&eng . %snd:"herring12"_1436935_1439356
+*MIG:	o sea loc(o) o sea pero era una [/] una camisola de esas Fruit_of_the_loom@s:eng&spa loco esas camisolas Haines@s:eng&spa lo(co) . %snd:"herring12"_1430650_1436967
+*TIM:	aha@s:eng&spa aha@s:eng&spa aha@s:eng&spa . %snd:"herring12"_1436935_1439356
 *MIG:	+< y [/] y después un jeans@s:eng la gorra azul digo la [/] la corbata azul y una boina azul verdad o sea una boina militar azul . %snd:"herring12"_1436935_1445755
 %com:	'jeans' is tagged as English [?]
-*TIM:	mmhm@s:spa&eng . %snd:"herring12"_1445514_1446710
+*TIM:	mmhm@s:eng&spa . %snd:"herring12"_1445514_1446710
 *TIM:	&=laughs . %snd:"herring12"_1446658_1448539
 *MIG:	+< loco . %snd:"herring12"_1446658_1448539
 *MIG:	las cejas casi tan mariconas como las tuyas . %snd:"herring12"_1448528_1451889
 *TIM:	estúpido . %snd:"herring12"_1451874_1454097
 *MIG:	&=laughs . %snd:"herring12"_1454091_1454997
-*MIG:	y unas uñas más largas que Ivy_Queen@s:spa&eng loco . %snd:"herring12"_1454962_1457232
+*MIG:	y unas uñas más largas que Ivy_Queen@s:eng&spa loco . %snd:"herring12"_1454962_1457232
 *TIM:	a [/] a la gran puta . %snd:"herring12"_1457197_1459658
-*MIG:	mmhm@s:spa&eng no o sea . %snd:"herring12"_1459624_1460750
+*MIG:	mmhm@s:eng&spa no o sea . %snd:"herring12"_1459624_1460750
 *TIM:	+< &=laugh . %snd:"herring12"_1459624_1460757
 *MIG:	es que loc(o) [//] en las uñas me fijé hasta hoy porque aho(ra) [//] hoy estuve con o sea no estuve con él sino que est(aba) [//] había un [/] un evento en la universidad . %snd:"herring12"_1460669_1467457
 *MIG:	y entonces el maje estaba platicando con una [/] una amiga mía y yo estaba ahí . %snd:"herring12"_1467480_1471445
@@ -642,10 +641,10 @@
 *MIG:	+, yo como que este maje es loca digo yo le voy a empezar a hablar . %snd:"herring12"_1493651_1496339
 *MIG:	pero no sé el maje y yo [/] yo trato como que tal vez no de meterle conversación . %snd:"herring12"_1496268_1500288
 *MIG:	pero por ejemplo hoy que estaba hablando con mi amiga yo también me puse a hablar con mi amiga y el maje seguía ahí . %snd:"herring12"_1500283_1505664
-*MIG:	y entonces yo lo miraba al maje como para incluirlo en la conversa(ción) como para decirle ok@s:spa&eng like@s:eng I'm@s:eng talking@s:eng to@s:eng you@s:eng me entendés o sea we're@s:eng talking@s:eng to@s:eng [/] to@s:eng both@s:eng of@s:eng them@s:eng entonces . %snd:"herring12"_1505572_1514690
+*MIG:	y entonces yo lo miraba al maje como para incluirlo en la conversa(ción) como para decirle ok@s:eng&spa like@s:eng I'm@s:eng talking@s:eng to@s:eng you@s:eng me entendés o sea we're@s:eng talking@s:eng to@s:eng [/] to@s:eng both@s:eng of@s:eng them@s:eng entonces . %snd:"herring12"_1505572_1514690
 *MIG:	pero el maje como que no me ponía en mente . %snd:"herring12"_1514683_1516155
 *MIG:	así que su madre tampoc(o) &ummm o sea todavía es que me gustara . %snd:"herring12"_1516143_1519208
-*TIM:	mmhm@s:spa&eng sí . %snd:"herring12"_1519220_1520886
+*TIM:	mmhm@s:eng&spa sí . %snd:"herring12"_1519220_1520886
 *MIG:	sí pero yo estoy tratando de que sea mi amiga . %snd:"herring12"_1520860_1523374
 *TIM:	y vos de buena gente . %snd:"herring12"_1523293_1524947
 *MIG:	sí . %snd:"herring12"_1524912_1525626
@@ -656,23 +655,23 @@
 *MIG:	qué te +.. . %snd:"herring12"_1535182_1535588
 *TIM:	+< qué dañino . %snd:"herring12"_1535259_1536228
 *MIG:	qué te iba a decir ? %snd:"herring12"_1535960_1537179
-*MIG:	y no has hablado con [/] con Alberto@s:spa&eng ? %snd:"herring12"_1537182_1539284
+*MIG:	y no has hablado con [/] con Alberto@s:eng&spa ? %snd:"herring12"_1537182_1539284
 *TIM:	no últimamente no he hablado . %snd:"herring12"_1539283_1542127
 *TIM:	bueno # desde que me vine # fue como que # creo que unas [/] unos tres cuatro días de que me vine nunca se volvió a conectar loco entonces no [/] no mejor no hablé con él porque +.. . %snd:"herring12"_1542134_1554333
 *MIG:	desde que te vinistes de dónde de New_Orleans@s:eng ? %snd:"herring12"_1554337_1556351
-*TIM:	mmhm@s:spa&eng . %snd:"herring12"_1556295_1557363
+*TIM:	mmhm@s:eng&spa . %snd:"herring12"_1556295_1557363
 *MIG:	el maje se rapó . %snd:"herring12"_1557384_1558435
 *TIM:	sí hombre . %snd:"herring12"_1558404_1560093
 *MIG:	<se mira> [/] se mira bien . %snd:"herring12"_1560080_1561421
 *TIM:	sí . %snd:"herring12"_1561409_1563191
 *MIG:	<y anda> [/] y anda la [/] la barbita y todo se mira bien . %snd:"herring12"_1563126_1565645
 *TIM:	+< sí sí sí . %snd:"herring12"_1565239_1566493
-*MIG:	<y yo> [?] estúpido huh@s:spa&eng . %snd:"herring12"_1566492_1568622
+*MIG:	<y yo> [?] estúpido huh@s:eng&spa . %snd:"herring12"_1566492_1568622
 *TIM:	se mira culo . %snd:"herring12"_1568577_1570098
 *MIG:	(es)toy ahuevado loco . %snd:"herring12"_1570163_1571806
 *TIM:	por qué ? %snd:"herring12"_1571784_1572788
-*MIG:	te conté que corté con mi ex@s:spa&eng no pues con [/] con el que andaba no . %snd:"herring12"_1572701_1576190
-*TIM:	mmhm@s:spa&eng . %snd:"herring12"_1576155_1577688
+*MIG:	te conté que corté con mi ex@s:eng&spa no pues con [/] con el que andaba no . %snd:"herring12"_1572701_1576190
+*TIM:	mmhm@s:eng&spa . %snd:"herring12"_1576155_1577688
 *MIG:	sabés lo que me dijo hoy bróder . %snd:"herring12"_1577667_1579508
 *TIM:	qué te dijo ? %snd:"herring12"_1579459_1580596
 *MIG:	que nunca me amó loco . %snd:"herring12"_1580590_1582367
@@ -711,7 +710,7 @@
 *MIG:	loco vos sabés que es eso loco que [/] que me pase otra vez eso . %snd:"herring12"_1652883_1656616
 *TIM:	no yo me imagino que se siente horrible que te digan eso . %snd:"herring12"_1656597_1661087
 *MIG:	+< no espantoso loc(o) . %snd:"herring12"_1660416_1661577
-*MIG:	<por lo menos> [/] por lo menos este maje <sólo estuvo> [//] todo sólo estaba conmigo me entendés este maje de Alberto@s:spa&eng pues . %snd:"herring12"_1661531_1667109
+*MIG:	<por lo menos> [/] por lo menos este maje <sólo estuvo> [//] todo sólo estaba conmigo me entendés este maje de Alberto@s:eng&spa pues . %snd:"herring12"_1661531_1667109
 *MIG:	estaba con vos al mismo tiempo que estaba conmigo . %snd:"herring12"_1667095_1669906
 *MIG:	y supuestamente me decía que me amaba cuando en realidad te amaba a vos . %snd:"herring12"_1669901_1672797
 *TIM:	<las decepciones> [?] . %snd:"herring12"_1672623_1675543
@@ -722,7 +721,7 @@
 *MIG:	pero [/] pero que me diga eso bróder puta me [/] me [/] me duele en puta loco me duele muchísimo muchísimo . %snd:"herring12"_1686485_1694260
 *MIG:	o sea me [/] me hiere como persona me entendés . %snd:"herring12"_1694219_1697390
 *TIM:	pobrecito . %snd:"herring12"_1697382_1699431
-*MIG:	me sien(to) o sea me siento super@s:spa&eng ahuevado loco porque +.. . %snd:"herring12"_1699374_1701748
+*MIG:	me sien(to) o sea me siento super@s:eng&spa ahuevado loco porque +.. . %snd:"herring12"_1699374_1701748
 *MIG:	no sé <me en(tendés)> [?] o sea a(l) [/] al principio cuando cortamos cuando recién cortamos pues yo le dije al maje como que +" . %snd:"herring12"_1702583_1709306
 *MIG:	todavía me amás ? %snd:"herring12"_1709282_1711571
 *MIG:	le digo . %snd:"herring12"_1711568_1712131
@@ -739,7 +738,7 @@
 *MIG:	decía yo +" . %snd:"herring12"_1720878_1721174
 *MIG:	+" qué rápido dejó de amarme . %snd:"herring12"_1721169_1722672
 *MIG:	dije yo +" . %snd:"herring12"_1722678_1723270
-*MIG:	y [/] y o sea me [/] me empecé a sentir super@s:spa&eng mal porque [/] porque dije +" . %snd:"herring12"_1723287_1727687
+*MIG:	y [/] y o sea me [/] me empecé a sentir super@s:eng&spa mal porque [/] porque dije +" . %snd:"herring12"_1723287_1727687
 *MIG:	+" a la gran [/] a la gran puta qué [/] qué fácil que es olvidarme a mí . %snd:"herring12"_1727687_1730705
 *MIG:	+" qué fácil que es superarme . %snd:"herring12"_1730699_1731965
 *MIG:	+" y dejarme de amar . %snd:"herring12"_1731959_1732720
@@ -767,32 +766,32 @@
 *MIG:	loco y que me lo diga con esa frialdad me entendés . %snd:"herring12"_1765064_1768071
 *MIG:	o sea es que +/ . %snd:"herring12"_1768047_1769324
 *TIM:	+< frío frío . %snd:"herring12"_1769005_1769812
-*MIG:	sí y sabés qué el maje ahora está viviendo con Pedro@s:spa&eng . %snd:"herring12"_1769925_1773327
+*MIG:	sí y sabés qué el maje ahora está viviendo con Pedro@s:eng&spa . %snd:"herring12"_1769925_1773327
 *TIM:	cómo ? %snd:"herring12"_1773308_1774457
-*MIG:	está viviendo con Pedro@s:spa&eng . %snd:"herring12"_1774451_1776059
+*MIG:	está viviendo con Pedro@s:eng&spa . %snd:"herring12"_1774451_1776059
 *TIM:	qué # andan jalando ? %snd:"herring12"_1776047_1778247
 %com:	"jalar" is to date someone.
 *MIG:	no no callate . %snd:"herring12"_1778270_1779548
-*MIG:	o sea al principio el plan era como que nos íbamos a ir a porque yo me iba a regresar a Nicaragua@s:spa&eng a vivir . %snd:"herring12"_1779542_1784859
+*MIG:	o sea al principio el plan era como que nos íbamos a ir a porque yo me iba a regresar a Nicaragua@s:eng&spa a vivir . %snd:"herring12"_1779542_1784859
 *MIG:	entonces nos íbamos a ir a vivir los tres juntos . %snd:"herring12"_1784865_1786757
 *MIG:	así como roommates@s:eng me entendés para que like@s:eng saliera cheaper@s:eng me entendés . %snd:"herring12"_1786769_1790679
 *MIG:	saliera más barato alquilar un lugar . %snd:"herring12"_1790422_1793476
-*TIM:	mmhm@s:spa&eng . %snd:"herring12"_1793159_1793861
+*TIM:	mmhm@s:eng&spa . %snd:"herring12"_1793159_1793861
 *MIG:	y entonces como que yo les dije +" . %snd:"herring12"_1793838_1795037
 *MIG:	+" vayan adelantando ustedes pues vayan pasándose y eso . %snd:"herring12"_1795031_1797574
 *MIG:	y like@s:eng a los majes les gustó la idea pues . %snd:"herring12"_1797574_1799391
 *MIG:	y entonces like@s:eng los majes están viviendo juntos pues ahora . %snd:"herring12"_1799280_1803146
 *MIG:	y ya [/] ya son roommates@s:eng y eso . %snd:"herring12"_1803139_1804823
 *MIG:	y # # [/] y no sé loco . %snd:"herring12"_1804950_1807568
-*MIG:	ayer [/] ayer me peleé con Pedro@s:spa&eng por Victor@s:spa&eng y +.. . %snd:"herring12"_1807585_1810482
+*MIG:	ayer [/] ayer me peleé con Pedro@s:eng&spa por Victor@s:eng&spa y +.. . %snd:"herring12"_1807585_1810482
 *TIM:	y por qué se pelearon ? %snd:"herring12"_1810884_1812457
-*MIG:	porque sí porque el [/] el maje de Pedro@s:spa&eng me empezó a decir como que Victor@s:spa&eng le empezó a contar pues de que le gusta un maje ahí que no sé qué . %snd:"herring12"_1812411_1818936
+*MIG:	porque sí porque el [/] el maje de Pedro@s:eng&spa me empezó a decir como que Victor@s:eng&spa le empezó a contar pues de que le gusta un maje ahí que no sé qué . %snd:"herring12"_1812411_1818936
 *MIG:	y entonces yo como que +" . %snd:"herring12"_1818939_1819583
 *MIG:	+" contame contame . %snd:"herring12"_1819578_1820413
 *MIG:	y el maje me decía no que no sé qué no puedo contarte que no sé cuanto . %snd:"herring12"_1820415_1823657
 *MIG:	y yo +" . %snd:"herring12"_1823372_1824068
-*MIG:	+" puta Pedro@s:spa&eng vos nunca me habías dicho antes no puedo contarte . %snd:"herring12"_1824016_1827318
-*MIG:	o sea porque Pedro@s:spa&eng y yo nos contamos absolutamente todo like@s:eng absolutely@s:eng everything@s:eng me entendés ? %snd:"herring12"_0_0
+*MIG:	+" puta Pedro@s:eng&spa vos nunca me habías dicho antes no puedo contarte . %snd:"herring12"_1824016_1827318
+*MIG:	o sea porque Pedro@s:eng&spa y yo nos contamos absolutamente todo like@s:eng absolutely@s:eng everything@s:eng me entendés ? %snd:"herring12"_0_0
 *MIG:	like@s:eng cada detalle incluso our@s:eng sex@s:eng lives@s:eng me entendés nuestras vidas sexuales . %snd:"herring12"_1832506_1837434
 *MIG:	hablábamos como que nos contábamos detalles me entendés . %snd:"herring12"_1837423_1840908
 *MIG:	y le preguntaba como que +" . %snd:"herring12"_1840887_1842100
@@ -803,10 +802,10 @@
 *MIG:	y entonces y nos contábamos así sin [//] vale verga me entendés . %snd:"herring12"_1845178_1848510
 *MIG:	y entonces el maje +" . %snd:"herring12"_1848423_1849010
 *MIG:	+" no que no sé . %snd:"herring12"_1848998_1850176
-*MIG:	entonces siento como que el maje ahora <se está volvi(endo)> [//] se va a volver íntimo de [/] de [/] de [/] de mi ex@s:spa&eng loco . %snd:"herring12"_1850053_1854645
+*MIG:	entonces siento como que el maje ahora <se está volvi(endo)> [//] se va a volver íntimo de [/] de [/] de [/] de mi ex@s:eng&spa loco . %snd:"herring12"_1850053_1854645
 *MIG:	y [/] y yo me voy a quedar # mordiendo el leño loco . %snd:"herring12"_1854639_1859115
 *MIG:	y entonces le dije como que +" . %snd:"herring12"_1859088_1861570
-*MIG:	+" ok@s:spa&eng pues . %snd:"herring12"_1861541_1862122
+*MIG:	+" ok@s:eng&spa pues . %snd:"herring12"_1861541_1862122
 *MIG:	le digo +" . %snd:"herring12"_1862128_1862348
 *MIG:	+" no me digas nada . %snd:"herring12"_1862348_1863213
 *MIG:	+" ya está pues . %snd:"herring12"_1863196_1863800
@@ -829,7 +828,7 @@
 *MIG:	le digo +" . %snd:"herring12"_1874490_1874868
 *MIG:	y lo bloqueé bróder . %snd:"herring12"_1874694_1875710
 *MIG:	me [/] me [/] me [/] hizo sentir mal loco . %snd:"herring12"_1875593_1878211
-*MIG:	porque el maje me empezó a decir cosas como que olvidá a Víctor@s:spa&eng ya me dice olvidálo ya . %snd:"herring12"_1878165_1882909
+*MIG:	porque el maje me empezó a decir cosas como que olvidá a Víctor@s:eng&spa ya me dice olvidálo ya . %snd:"herring12"_1878165_1882909
 *MIG:	ya # este +.. . %snd:"herring12"_1882872_1885335
 *MIG:	ya no es +// . %snd:"herring12"_1885334_1886071
 *MIG:	yo no le +// . %snd:"herring12"_1886025_1886681
@@ -848,7 +847,7 @@
 *MIG:	+" es por algo . %snd:"herring12"_1898737_1899562
 *MIG:	entonces me +// . %snd:"herring12"_1899570_1900696
 *MIG:	hasta o sea le tuve que [/] que decir y decir y [/] y hasta que lo convencí que me contara . %snd:"herring12"_1900674_1906158
-*MIG:	y <yo nunca había trat(ado)> [//] yo nunca había tenido que convencer a Julio@s:spa&eng para que me contara algo . %snd:"herring12"_1906143_1910723
+*MIG:	y <yo nunca había trat(ado)> [//] yo nunca había tenido que convencer a Julio@s:eng&spa para que me contara algo . %snd:"herring12"_1906143_1910723
 *MIG:	like@s:eng él me contaba las cosas right@s:eng away@s:eng me entendés . %snd:"herring12"_1910703_1913042
 *MIG:	entonces +/ . %snd:"herring12"_1913236_1914914
 *TIM:	+< pero es que mirá maje es que es su roommate@s:eng se siente con pena tal vez [?] . %snd:"herring12"_1914165_1918037
@@ -866,7 +865,7 @@
 *MIG:	pero # [/] pero o sea yo le dije como que+" . %snd:"herring12"_1933103_1935964
 *MIG:	+" no no te preocupés . %snd:"herring12"_1935947_1936853
 *MIG:	+" no le voy a decir . %snd:"herring12"_1936853_1937375
-*MIG:	like@s:eng Pedro@s:spa&eng sabe de que cuando nosotros nos decimos no digas nada nosotros no decimos nada me entendés . %snd:"herring12"_1937367_1942874
+*MIG:	like@s:eng Pedro@s:eng&spa sabe de que cuando nosotros nos decimos no digas nada nosotros no decimos nada me entendés . %snd:"herring12"_1937367_1942874
 *MIG:	o sea y que me lo haya dicho así tantas veces . %snd:"herring12"_1942950_1945800
 *MIG:	pero no le digas nada cuidadito le vas a decir que no sé qué . %snd:"herring12"_1945789_1948534
 *MIG:	o sea me hizo sentir tan tan tan mal like@s:eng he@s:eng didn't@s:eng trust@s:eng me@s:eng anymore@s:eng me entendés . %snd:"herring12"_1948522_1952812
@@ -876,13 +875,13 @@
 *TIM:	&tsk no hombre . %snd:"herring12"_1959027_1960867
 *MIG:	no sé bróder . %snd:"herring12"_1960836_1961520
 *MIG:	<me sien(to)> [/] <me sien(to)> [/] me siento todo ahuevado like@s:eng toda esta situación # # está # . %snd:"herring12"_1961497_1965806
-*MIG:	like@s:eng por ej(emplo) este maje de Manolo@s:spa&eng bróder ayer fuimos a cenar . %snd:"herring12"_1965799_1969252
-*TIM:	mmhm@s:spa&eng . %snd:"herring12"_1970571_1971326
+*MIG:	like@s:eng por ej(emplo) este maje de Manolo@s:eng&spa bróder ayer fuimos a cenar . %snd:"herring12"_1965799_1969252
+*TIM:	mmhm@s:eng&spa . %snd:"herring12"_1970571_1971326
 *MIG:	y [/] y pues fuimos a cenar y todo de a verga me entendés . %snd:"herring12"_1971309_1973791
 *MIG:	pero like@s:eng plan broderes me entendés . %snd:"herring12"_1973501_1975759
 *MIG:	and@s:eng I@s:eng really@s:eng like@s:eng him@s:eng me entendés . %snd:"herring12"_1975701_1977222
 *MIG:	el maje me gusta . %snd:"herring12"_1977205_1978319
 *MIG:	y [/] y todo o sea el maje me gusta físicamente . %snd:"herring12"_1978205_1980820
 *MIG:	y como persona porque es una persona de a cachimba el maje loco . %snd:"herring12"_1980808_1983461
-*MIG:	pero el maje todavía está pensando en su ex@s:spa&eng loco . %snd:"herring12"_1983607_1986980
+*MIG:	pero el maje todavía está pensando en su ex@s:eng&spa loco . %snd:"herring12"_1983607_1986980
 @End
