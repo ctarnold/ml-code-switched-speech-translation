@@ -82,8 +82,8 @@
 *TIM:	ah es muy barato ? %snd:"herring12"_164313_165352
 *MIG:	sí . %snd:"herring12"_165294_166153
 *MIG:	andate a otro . %snd:"herring12"_166152_167568
-*TIM:	sí xxx me voy a meterme ahí a <aeropostale@s:eng&spa> [?] allí <con una> [/] con una amiga que tengo . %snd:"herring12"_167626_173180
-%com:	aeropostale is an american clothing store
+*TIM:	sí xxx me voy a meterme ahí a <Aeropostale@s:eng&spa> [?] allí <con una> [/] con una amiga que tengo . %snd:"herring12"_167626_173180
+%com:	Aeropostale is an american clothing store
 *MIG:	qué amiga ? %snd:"herring12"_173180_174822
 *TIM:	una niña de pelo largo . %snd:"herring12"_174804_177613
 *MIG:	qué amiga estúpida # la conozco ? %snd:"herring12"_177612_180375
@@ -139,7 +139,7 @@
 *MIG:	en un rato lo voy a llamar para preguntarle que ahorita me recordaste . %snd:"herring12"_282844_286634
 *MIG:	y apliqué [/] apliqué en Bestbuy@s:eng&spa dicen <que ahí> [/] que ahí es bueno . %snd:"herring12"_286602_290067
 *MIG:	entonces like@s:eng voy [/] voy a aplicar ahí en [/] en varios lugares para [/] para ver qué onda like@s:eng . %snd:"herring12"_290060_295540
-*MIG:	por [/] por el momento pues no voy a quedarme sin hacer nada porque esta semana que viene grabamos así que voy a estar trabajando aunque tengo spring_break@s:eng pues no [/] no voy a clase gracias a Dios . %snd:"herring12"_295516_304646
+*MIG:	por [/] por el momento pues no voy a quedarme sin hacer nada porque esta semana que viene grabamos así que voy a estar trabajando aunque tengo spring break@s:eng pues no [/] no voy a clase gracias a Dios . %snd:"herring12"_295516_304646
 *MIG:	entonces lo [//] <me lo voy a aho(rrar)> [//] todo eso me lo voy a ahorrar en gasolina porque ese viaje hasta allá le cuerea . %snd:"herring12"_304632_310130
 *MIG:	le . %snd:"herring12"_310119_312430
 *TIM:	+< dónde es tu universidad ? %snd:"herring12"_312128_312975
@@ -868,7 +868,7 @@
 *MIG:	like@s:eng Pedro@s:eng&spa sabe de que cuando nosotros nos decimos no digas nada nosotros no decimos nada me entendés . %snd:"herring12"_1937367_1942874
 *MIG:	o sea y que me lo haya dicho así tantas veces . %snd:"herring12"_1942950_1945800
 *MIG:	pero no le digas nada cuidadito le vas a decir que no sé qué . %snd:"herring12"_1945789_1948534
-*MIG:	o sea me hizo sentir tan tan tan mal like@s:eng he@s:eng didn't@s:eng trust@s:eng me@s:eng anymore@s:eng me entendés . %snd:"herring12"_1948522_1952812
+*MIG:	o sea me hizo sentir tan tan tan mal like@s:eng he@s:eng didn't@s:eng trust@s:eng me@s:eng any_more@s:eng me entendés . %snd:"herring12"_1948522_1952812
 *MIG:	me [/] <me hi(zo)> [/] <me hi(zo)> [/] me hizo sentir bien por la verga loco . %snd:"herring12"_1952788_1955169
 *MIG:	entonces lo bloqueé . %snd:"herring12"_1955158_1956052
 *MIG:	y no sé me siento como resentido con él loco . %snd:"herring12"_1956040_1959325
