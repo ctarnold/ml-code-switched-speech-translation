@@ -14,7 +14,7 @@
 @Comment:	Filename: herring10.CHA; Soundfile: herring10.wav
 @Comment:	Language markers:  @s:spa = Spanish, = Spanish @s:eng&spa = Undetermined, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English
 *PAI:	oh <now that I> [/] now that I remember antes@s:spa de@s:spa que@s:spa se@s:spa me@s:spa olvide@s:spa . %snd:"herring10"_6_2949
-*PAI:	this lady@s:spa from@s:spa the@s:spa school@s:spa . %snd:"herring10"_2926_4882
+*PAI:	this lady from the school . %snd:"herring10"_2926_4882
 *SAR:	mmhm . %snd:"herring10"_4870_5364
 *PAI:	<she told me> [/] she told me that she bought the subway passes (.) for the whole year . %snd:"herring10"_5204_9424
 *SAR:	subway passes to where to New_York ? %snd:"herring10"_9384_11073
@@ -72,19 +72,19 @@
 *SAR:	[- spa] ahora me mandaron un +.. . %snd:"herring10"_118898_120639
 *SAR:	tú@s:spa por@s:spa fin@s:spa did you book (.) the hotel (.) for september ? %snd:"herring10"_120728_123781
 *PAI:	+< no . %snd:"herring10"_122806_124002
-*SAR:	porque@s:spa me@s:spa mandaron@s:spa ahora@s:spa un@s:spa special el@s:spa western@s:eng&spa de time_square@s:eng&spa in one_seventy_nine . %snd:"herring10"_123985_129227
-*SAR:	but they only have one day in september . %snd:"herring10"_129215_131717
+*SAR:	porque@s:spa me@s:spa mandaron@s:spa ahora@s:spa un@s:spa special el@s:spa western@s:eng&spa de Times_Square@s:eng&spa in one seventy nine . %snd:"herring10"_123985_129227
+*SAR:	but they only have one day in September . %snd:"herring10"_129215_131717
 *PAI:	one day ? %snd:"herring10"_131715_134768
 *SAR:	+< one day . %snd:"herring10"_131715_134768
-*SAR:	Paige@s:eng&spa yo@s:spa no@s:spa sabía@s:spa que@s:spa xxx estaban@s:spa recording también . %snd:"herring10"_134794_141069
+*SAR:	Paige@s:eng&spa yo@s:spa no@s:spa sabía@s:spa que@s:spa xxx estaban@s:spa recording también@s:spa . %snd:"herring10"_134794_141069
 %com:	you can hear other conversation in background
 *PAI:	+< eh@s:eng&spa . %snd:"herring10"_140438_141152
 *SAR:	que@s:spa María@s:spa está@s:spa recording también@s:spa . %snd:"herring10"_141127_142963
 *PAI:	+< María@s:eng&spa is on all day . %snd:"herring10"_142875_144326
 *SAR:	yeah I saw her with that thing . %snd:"herring10"_144301_145590
-*SAR:	I thought it was her i_pod . %snd:"herring10"_145561_146455
+*SAR:	I thought it was her I_Pod . %snd:"herring10"_145561_146455
 *SAR:	and I go +"/ . %snd:"herring10"_146449_146780
-*SAR:	+" what kind of i_pod is that ? %snd:"herring10"_146774_147720
+*SAR:	+" what kind of I_Pod is that ? %snd:"herring10"_146774_147720
 *SAR:	and then mi(ré)@s:spa [/] miré@s:spa bien@s:spa . %snd:"herring10"_147714_148935
 *SAR:	[- spa] y dije +"/ . %snd:"herring10"_148929_149318
 *SAR:	[- spa] +" no ella debe estar haciendo otra cosa . %snd:"herring10"_149318_150659
@@ -112,11 +112,11 @@
 *PAI:	and I did some shopping . %snd:"herring10"_211028_212589
 *PAI:	y@s:spa (.) I didn't wanna cook . %snd:"herring10"_212589_215491
 *SAR:	ok@s:eng&spa . %snd:"herring10"_215481_217582
-*PAI:	+< so I made xxx that's turkey and stuffing (.) and macarroni and cheese . %snd:"herring10"_216532_224605
+*PAI:	+< so I made xxx that's turkey and stuffing (.) and macaroni and cheese . %snd:"herring10"_216532_224605
 *SAR:	yo@s:spa no@s:spa sé@s:spa por@s:spa qué@s:spa tú@s:spa comes@s:spa macarroni and cheese si@s:spa tú@s:spa sabes@s:spa que@s:spa te@s:spa va@s:spa a@s:spa caer@s:spa mal@s:spa . %snd:"herring10"_224569_229004
 *SAR:	[- spa] siempre te cae mal . %snd:"herring10"_228991_230837
 *PAI:	no no no something something happened something that chicken . %snd:"herring10"_230803_235651
-*SAR:	chicken but what's wrong with the ckicken ? %snd:"herring10"_235654_237906
+*SAR:	chicken but what's wrong with the chicken ? %snd:"herring10"_235654_237906
 *PAI:	+< the [/] the turkey I don't know me@s:spa dio@s:spa un@s:spa asco@s:spa . %snd:"herring10"_236456_238772
 *SAR:	+< but what kind of turkey was it ? %snd:"herring10"_238556_240240
 *PAI:	desmenuzado@s:spa con@s:spa stuffing todo@s:spa mezclado@s:spa . %snd:"herring10"_240216_242817
@@ -136,7 +136,7 @@
 *SAR:	xxx found that thing <for the> [/] for the wine thing expensive . %snd:"herring10"_266552_271748
 *PAI:	fifty dollars . %snd:"herring10"_271754_273060
 *SAR:	fifty dollars . %snd:"herring10"_273025_274018
-*PAI:	xxx for two hours it's twenty_five bucks an hour . %snd:"herring10"_273973_276719
+*PAI:	xxx for two hours it's twenty five bucks an hour . %snd:"herring10"_273973_276719
 *PAI:	unless you drink like a fish it's [/] it's good to go . %snd:"herring10"_276689_279173
 *SAR:	he's like xxx I would wanna go . %snd:"herring10"_279137_281703
 *SAR:	pero@s:spa there's a whole bunch of restaurants participating . %snd:"herring10"_281696_284668
@@ -153,12 +153,12 @@
 *SAR:	there's gonna be wine right obviously . %snd:"herring10"_306712_308552
 *PAI:	mmhm . %snd:"herring10"_308552_309422
 *SAR:	but it's gonna be xxx . %snd:"herring10"_309401_311967
-*PAI:	[- spa] por cicuenta pesos ? %snd:"herring10"_311972_313041
+*PAI:	[- spa] por cincuenta pesos ? %snd:"herring10"_311972_313041
 *SAR:	+< exactly from [/] from this place wild oats or something right ? %snd:"herring10"_312803_316494
 *PAI:	+< oh@s:eng&spa no . %snd:"herring10"_313406_314376
 *SAR:	[- spa] (es)pérate . %snd:"herring10"_316467_317959
 *SAR:	but then I'm saying fifty dollars ! %snd:"herring10"_317947_320437
-*SAR:	and are you gonna get hors d'oeuvres ? %snd:"herring10"_320415_322708
+*SAR:	and are you gonna get hors_d'oeuvres ? %snd:"herring10"_320415_322708
 *SAR:	but then I went into the restaurant section . %snd:"herring10"_322702_325297
 *SAR:	and it has all the restaurants participating . %snd:"herring10"_325268_328072
 *SAR:	so I'm like bueno@s:spa is each restaurant gonna have like a booth that you can sample their food porque@s:spa está@s:spa Flemmings@s:eng&spa ahí@s:spa . %snd:"herring10"_328055_335467
@@ -294,7 +294,7 @@
 *SAR:	&=laugh . %snd:"herring10"_563415_565766
 *PAI:	oh my goodness . %snd:"herring10"_565739_566761
 *PAI:	what is that ? %snd:"herring10"_566742_568924
-*SAR:	nice to even to have your attention now xxx you dirty sneaky inmoral [=! laugh] . %snd:"herring10"_568884_573247
+*SAR:	nice to even to have your attention now xxx you dirty sneaky immoral [=! laugh] . %snd:"herring10"_568884_573247
 *PAI:	unfaithful xxx doubts . %snd:"herring10"_573004_575036
 *SAR:	+< oh my god what ? %snd:"herring10"_574101_575106
 *OSE:	www . %snd:"herring10"_575100_576911
@@ -340,7 +340,7 @@
 *SAR:	+< &=laugh . %snd:"herring10"_648732_649940
 *SAR:	[- spa] y esto ? %snd:"herring10"_649923_652861
 *OSE:	www . %snd:"herring10"_649923_652861
-*PAI:	ay@s:spa dios@s:spa mio@s:spa how embarrasing ! %snd:"herring10"_652821_655863
+*PAI:	ay@s:spa dios@s:spa mio@s:spa how embarrassing ! %snd:"herring10"_652821_655863
 *SAR:	+< oh my god . %snd:"herring10"_652943_655462
 *SAR:	did you find it ? %snd:"herring10"_655855_658897
 *OSE:	www . %snd:"herring10"_658869_660738
@@ -431,7 +431,7 @@
 *PAI:	it will be +.. . %snd:"herring10"_842629_843831
 *SAR:	+< may . %snd:"herring10"_842629_843831
 *PAI:	may . %snd:"herring10"_843960_844883
-*PAI:	nineth . %snd:"herring10"_844866_846915
+*PAI:	ninth . %snd:"herring10"_844866_846915
 *SAR:	+< nineth . %snd:"herring10"_844866_846915
 *PAI:	two thousand and eight . %snd:"herring10"_846909_849446
 *PAI:	and then you put what you want . %snd:"herring10"_849406_852599
@@ -585,8 +585,8 @@
 *PAI:	that doesn't sound right . %snd:"herring10"_1167772_1170703
 *PAI:	it can't be three hundred days from now . %snd:"herring10"_1170666_1174579
 *PAI:	it's +.. . %snd:"herring10"_1174609_1178471
-*PAI:	right now we're in march . %snd:"herring10"_1178471_1179905
-*PAI:	april may june july august . %snd:"herring10"_1179883_1183157
+*PAI:	right now we're in March . %snd:"herring10"_1178471_1179905
+*PAI:	April May June July August . %snd:"herring10"_1179883_1183157
 *PAI:	[- spa] uno dos tres cuatro cinco . %snd:"herring10"_1183169_1185715
 *PAI:	no that's wrong . %snd:"herring10"_1185691_1188669
 *SAR:	six times thirty . %snd:"herring10"_1188639_1191083
@@ -727,7 +727,7 @@
 *SAR:	cualquiera@s:spa porque@s:spa now we don't know which one's which . %snd:"herring10"_1486912_1489252
 *SAR:	we don't know which one's true and which one's not . %snd:"herring10"_1489220_1491321
 *SAR:	they have material girls material girls . %snd:"herring10"_1491314_1496473
-*PAI:	ma(material) material [=! singing] . %snd:"herring10"_1496447_1498229
+*PAI:	ma(terial) material [=! singing] . %snd:"herring10"_1496447_1498229
 *SAR:	but that's Madonna@s:eng&spa . %snd:"herring10"_1498345_1499338
 *PAI:	+< that's Madonna@s:eng&spa . %snd:"herring10"_1498838_1500162
 *SAR:	go back and try the other one . %snd:"herring10"_1500156_1502165
@@ -745,7 +745,7 @@
 *SAR:	you can go into top artist . %snd:"herring10"_1534425_1537652
 *SAR:	and search on the top . %snd:"herring10"_1537645_1539601
 *SAR:	and see . %snd:"herring10"_1539624_1542316
-*SAR:	but she's not a top artist anymore . %snd:"herring10"_1542294_1544274
+*SAR:	but she's not a top artist any_more . %snd:"herring10"_1542294_1544274
 *PAI:	+< xxx . %snd:"herring10"_1543452_1544566
 *SAR:	or you can do a +.. . %snd:"herring10"_1544552_1547582
 *PAI:	[- spa] no se puede ni mover esto . %snd:"herring10"_1547545_1559229
@@ -815,7 +815,7 @@
 *PAI:	[- spa] qué lindo ! %snd:"herring10"_1667453_1668550
 *PAI:	I know like everybody who keeps coming to me and telling me are you teasing me [=! laughing] . %snd:"herring10"_1668527_1672244
 *SAR:	+< you see [=! laughing] . %snd:"herring10"_1670085_1672169
-*PAI:	like I have forty_three days (.) for my first one and a_hundred_and_sixty_two +.. . %snd:"herring10"_1672218_1681450
+*PAI:	like I have forty three days (.) for my first one and a hundred and sixty two +.. . %snd:"herring10"_1672218_1681450
 *SAR:	tienes@s:spa que@s:spa quitar@s:spa todo@s:spa eso@s:spa de@s:spa Hannah_Montana@s:eng&spa ya@s:spa . %snd:"herring10"_1681379_1683875
 *PAI:	ay@s:spa I know . %snd:"herring10"_1683862_1684976
 *SAR:	dale@s:spa go into +.. . %snd:"herring10"_1684936_1685899
