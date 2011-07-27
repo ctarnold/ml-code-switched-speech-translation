@@ -53,7 +53,7 @@
 *JES:	yes . %snd:"herring6"_81600_82645
 *JES:	there's a chat . %snd:"herring6"_82637_85069
 *NIC:	what day is the chat ? %snd:"herring6"_85071_85843
-*JES:	april nineth . %snd:"herring6"_85826_89234
+*JES:	april ninth . %snd:"herring6"_85826_89234
 *NIC:	ok@s:eng&spa # alright . %snd:"herring6"_89224_91993
 *NIC:	&=clear_throat . %snd:"herring6"_91983_92517
 *NIC:	well listen today # at noon # I'm gonna meet Roberto@s:eng&spa # at the parish . %snd:"herring6"_93248_99082
@@ -83,7 +83,7 @@
 *JES:	+< I've never noticed which colour it is . %snd:"herring6"_145028_147036
 *JES:	that's what's important . %snd:"herring6"_149136_150518
 *NIC:	you know ? %snd:"herring6"_150500_150999
-*NIC:	and ah@s:eng&spa # so i'm hoping that that'll [/] that'll do well . %snd:"herring6"_152098_155320
+*NIC:	and ah@s:eng&spa # so I'm hoping that that'll [/] that'll do well . %snd:"herring6"_152098_155320
 *JES:	oh@s:eng&spa you didn't tell me . %snd:"herring6"_155009_155572
 *JES:	how did it go yesterday ? %snd:"herring6"_155560_156472
 *NIC:	where ? %snd:"herring6"_156473_157553
@@ -137,7 +137,7 @@
 *NIC:	+" she was the vi(ce) [/] she was the principal at ah@s:eng&spa Little Flower # um@s:eng&spa when I was there teaching C_C_D . %snd:"herring6"_219522_225896
 *NIC:	+" and she's just such a wonderful person . %snd:"herring6"_225892_227984
 *NIC:	+" and she's just so nice . %snd:"herring6"_227647_228860
-*NIC:	and all this other stuff nananananana@s:eng&spa . %snd:"herring6"_228855_230696
+*NIC:	and all this other stuff na@s:eng&spa na@s:eng&spa na@s:eng&spa na@s:eng&spa na@s:eng&spa na@s:eng&spa . %snd:"herring6"_228855_230696
 *JES:	you need to bring him by # to win her over . %snd:"herring6"_228951_232254
 *NIC:	and I told him +"/ . %snd:"herring6"_232255_232830
 *NIC:	+" you know you would have been good for the [/] for Father Derrik's@s:eng&spa+eng position . %snd:"herring6"_232749_235953
@@ -192,9 +192,9 @@
 *NIC:	and as usual . %snd:"herring6"_357566_358988
 *JES:	+< I put it next to your side of the bed ! %snd:"herring6"_357885_360073
 *NIC:	as usual every time Easter comes . %snd:"herring6"_360055_361814
-*NIC:	and I have to do all this staff <in the> [/] in the parish . %snd:"herring6"_361842_363671
+*NIC:	and I have to do all this stuff <in the> [/] in the parish . %snd:"herring6"_361842_363671
 *NIC:	I get sick . %snd:"herring6"_363659_364344
-*JES:	gordo@s:eng&spa is sick too . %snd:"herring6"_364328_367045
+*JES:	Gordo@s:eng&spa is sick too . %snd:"herring6"_364328_367045
 *NIC:	[- spa] me dio una entrada de patadas anoche . %snd:"herring6"_366994_370094
 *NIC:	I don't know how many times he kicked me in the bed . %snd:"herring6"_370055_373670
 *JES:	no@s:eng&spa . %snd:"herring6"_373641_377072
@@ -207,7 +207,7 @@
 *NIC:	I was waking up at three and at four and at five . %snd:"herring6"_387547_390153
 *JES:	I slept pretty well &=clears_throat . %snd:"herring6"_390121_393587
 *NIC:	yeah I know you did . %snd:"herring6"_393577_394093
-*NIC:	you were snoaring . %snd:"herring6"_394082_394558
+*NIC:	you were snoring . %snd:"herring6"_394082_394558
 *JES:	yeah I must have slept well . %snd:"herring6"_396360_397805
 *NIC:	and quite loud I might add . %snd:"herring6"_397795_398985
 *NIC:	and Paco was snoaring really loud too . %snd:"herring6"_400857_402542
@@ -221,7 +221,7 @@
 *NIC:	the one that has that problem . %snd:"herring6"_429058_431072
 *JES:	+< yes . %snd:"herring6"_429958_430567
 *JES:	and um@s:eng&spa # and I go # um@s:eng&spa +"/ . %snd:"herring6"_432119_436528
-*JES:	[- spa] +" I wanna +// . %snd:"herring6"_436511_437010
+*JES:	+" I wanna +// . %snd:"herring6"_436511_437010
 *NIC:	she goes to me +"/ . %snd:"herring6"_436999_437521
 *JES:	+" I wanna speak to you before I talk to her because I want the union to be ok@s:eng&spa with this . %snd:"herring6"_437521_442854
 *JES:	and uh@s:eng&spa and I go +"/ . %snd:"herring6"_442843_444289
@@ -292,7 +292,7 @@
 *JES:	entonces@s:spa estamos@s:spa you know # stuck with her . %snd:"herring6"_624735_630242
 *JES:	entonces@s:spa she um@s:eng&spa she goes to me +"/ . %snd:"herring6"_630229_633200
 *JES:	+" no but <I need> [///] I looked up her [/] her stuff . %snd:"herring6"_633194_635807
-*JES:	+" and she is k through six pre_k and k through six elementary . %snd:"herring6"_635778_640074
+*JES:	+" and she is K through six pre_K and K through six elementary . %snd:"herring6"_635778_640074
 *JES:	well perfect . %snd:"herring6"_640056_641287
 *JES:	and she is emotionally +/ . %snd:"herring6"_641315_643410
 *NIC:	<put her> [/] put her with six grades six grades . %snd:"herring6"_641913_644952
@@ -359,7 +359,7 @@
 *JES:	[- spa] entonces por eso la otra no podía . %snd:"herring6"_825012_829204
 *JES:	E_S_E@s:eng&spa is really really really difficult . %snd:"herring6"_829160_833012
 *NIC:	mmhm@s:eng&spa # mmhm@s:eng&spa . %snd:"herring6"_833021_835703
-*JES:	+< y más cuando [///] when you have you know kids that are the violent ones los que xxx +.. . %snd:"herring6"_835233_843668
+*JES:	+< y@s:spa más@s:spa cuando@s:spa [///] when you have you know kids that are the violent ones los@s:spa que@s:spa xxx +.. . %snd:"herring6"_835233_843668
 *JES:	ah@s:eng&spa entonces@s:spa la@s:spa cosa@s:spa pasó@s:spa que@s:spa ayer@s:spa durante@s:spa +.. . %snd:"herring6"_843633_851335
 *JES:	[- spa] ella tenía una reunión . %snd:"herring6"_851311_853210
 *JES:	like a C_S_T@s:eng&spa <it's like a> [/] it's [/] it's a xxx child study team . %snd:"herring6"_853188_858504
@@ -536,7 +536,7 @@
 *JES:	[- spa] +< espérate . %snd:"herring6"_1358110_1359160
 *JES:	that's not the worse . %snd:"herring6"_1359142_1360390
 *JES:	[- spa] y se robaba cosas . %snd:"herring6"_1360373_1362472
-*JES:	ella@s:spa yo la cogí una vez@s:spa going through my desk y@s:spa mirando@s:spa cosas@s:spa . %snd:"herring6"_1362455_1367619
+*JES:	ella@s:spa yo@s:spa la@s:spa cogí@s:spa una@s:spa vez@s:spa going through my desk y@s:spa mirando@s:spa cosas@s:spa . %snd:"herring6"_1362455_1367619
 *NIC:	+< oh that's the one that you caught going through your desk over here ? %snd:"herring6"_1366743_1368757
 *JES:	yeah no not here . %snd:"herring6"_1368684_1370350
 *NIC:	at [/] at [/] at the other one . %snd:"herring6"_1370341_1371670
@@ -628,13 +628,13 @@
 *NIC:	I have no idea . %snd:"herring6"_1590949_1591918
 *JES:	what ethical +// . %snd:"herring6"_1591741_1593174
 *JES:	come on you've [/] you must have done it something like that person coming +/ . %snd:"herring6"_1593174_1598123
-*NIC:	+< what ethical dilema do I have in my place of business ? %snd:"herring6"_1595987_1598193
+*NIC:	+< what ethical dilemma do I have in my place of business ? %snd:"herring6"_1595987_1598193
 *NIC:	let me see . %snd:"herring6"_1598146_1598576
 *NIC:	I hate my boss . %snd:"herring6"_1598529_1599185
 *NIC:	I think she's a hypocrite . %snd:"herring6"_1602196_1603299
-*NIC:	ah@s:eng&spa my ethical dilema ? %snd:"herring6"_1605857_1607146
+*NIC:	ah@s:eng&spa my ethical dilemma ? %snd:"herring6"_1605857_1607146
 *NIC:	the fact that I'm # choosing to work with her closer now # in my new position . %snd:"herring6"_1607129_1612059
-*NIC:	that's my ethical dilema . %snd:"herring6"_1613514_1614478
+*NIC:	that's my ethical dilemma . %snd:"herring6"_1613514_1614478
 %com:	silence
 *NIC:	I don't know how I'm going to work that out . %snd:"herring6"_1619695_1622365
 *JES:	isn't there something you done in Saint_Thomas@s:eng&spa about ethics ? %snd:"herring6"_1622364_1627499
