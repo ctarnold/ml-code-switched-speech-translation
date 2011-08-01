@@ -13,11 +13,11 @@
 @Comment:	Filename: sastre11.CHA; Soundfile: sastre11.wav
 @Comment:	Language markers: @s:eng = English, @s:spa = Spanish @s:eng&spa = Undetermined, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng&spa+eng = word with first morpheme(s) undetermined, second morpheme(s) English.
 *JAC:	para@s:spa todo@s:spa lo@s:spa que@s:spa tiene@s:spa que@s:spa ver@s:spa con@s:spa psychology tú@s:spa no@s:spa puedes@s:spa empezar@s:spa sin@s:spa masters@s:eng&spa . %snd:"sastre11"_1333_4409
-*JAC:	en@s:spa todas@s:spa las@s:spa escuelas@s:spa todos@s:spa los@s:spa councellors . %snd:"sastre11"_4468_6877
-*ISA:	+< y@s:spa ella@s:spa no@s:spa tiene@s:spa máster@s:eng&spa todavía@s:spa ? %snd:"sastre11"_5324_6723
+*JAC:	en@s:spa todas@s:spa las@s:spa escuelas@s:spa todos@s:spa los@s:spa counsellors . %snd:"sastre11"_4468_6877
+*ISA:	+< y@s:spa ella@s:spa no@s:spa tiene@s:spa master@s:eng&spa todavía@s:spa ? %snd:"sastre11"_5324_6723
 *JAC:	she has the bachelor . %snd:"sastre11"_7683_10307
 *ISA:	[- spa] ya . %snd:"sastre11"_10307_11503
-*JAC:	pero@s:spa en@s:spa todas@s:spa las@s:spa escuelas@s:spa si@s:spa tú@s:spa quieres@s:spa ir@s:spa de@s:spa school councellor you have to have a masters@s:eng&spa in psychology (.) en [/] en@s:spa behavioural education or one of these things like that . %snd:"sastre11"_11575_21276
+*JAC:	pero@s:spa en@s:spa todas@s:spa las@s:spa escuelas@s:spa si@s:spa tú@s:spa quieres@s:spa ir@s:spa de@s:spa school counsellor you have to have a masters@s:eng&spa in psychology (.) en [/] en@s:spa behavioural education or one of these things like that . %snd:"sastre11"_11575_21276
 *ISA:	[- spa] <y no lo va> [/] no lo va a sacar ? %snd:"sastre11"_21004_22483
 *JAC:	+< but it has to be a masters@s:eng&spa . %snd:"sastre11"_21252_22622
 *JAC:	yeah . %snd:"sastre11"_22582_23835
@@ -59,7 +59,7 @@
 *JAC:	laid tile . %snd:"sastre11"_101234_102383
 *JAC:	put the baseboards . %snd:"sastre11"_102336_103672
 *JAC:	and put all the muebles@s:spa . %snd:"sastre11"_103706_106086
-*ISA:	ah@s:eng&spa ya lo tienen allí ? %snd:"sastre11"_106555_107612
+*ISA:	ah@s:eng&spa ya@s:spa lo@s:spa tienen@s:spa allí@s:spa ? %snd:"sastre11"_106555_107612
 *JAC:	yeah the whole thing ya@s:spa está@s:spa puesto@s:spa . %snd:"sastre11"_107507_110387
 *ISA:	[- spa] +< ah yo pensé que ahora iban a empezar a comprarlos . %snd:"sastre11"_109808_112264
 *JAC:	no I closed march third or march fourth . %snd:"sastre11"_112287_115015
@@ -70,9 +70,9 @@
 *JAC:	the and then her grandfather painted . %snd:"sastre11"_124246_127282
 *JAC:	her grandfather started painting right after that . %snd:"sastre11"_127713_130006
 *JAC:	and he's almost done . %snd:"sastre11"_129989_132352
-*JAC:	and then we started to installing the furniture friday . %snd:"sastre11"_132351_134987
-*JAC:	friday they started to deliver it . %snd:"sastre11"_135002_136447
-*JAC:	but friday we had a big day like six people did deliveries . %snd:"sastre11"_136378_139594
+*JAC:	and then we started to installing the furniture Friday . %snd:"sastre11"_132351_134987
+*JAC:	Friday they started to deliver it . %snd:"sastre11"_135002_136447
+*JAC:	but Friday we had a big day like six people did deliveries . %snd:"sastre11"_136378_139594
 *JAC:	so I was like one after the other . %snd:"sastre11"_139432_141847
 *ISA:	+< &am . %snd:"sastre11"_140953_141679
 *JAC:	[- spa] y todo el mundo entrando . %snd:"sastre11"_142078_143813
@@ -88,7 +88,7 @@
 *JAC:	that's all wood . %snd:"sastre11"_159169_161293
 *JAC:	and the guy who made that . %snd:"sastre11"_161167_163030
 *JAC:	he made it from scratch by hand the whole thing . %snd:"sastre11"_162990_165712
-*JAC:	is this brazilian guy that's a woodworker . %snd:"sastre11"_165713_169208
+*JAC:	is this Brazilian guy that's a woodworker . %snd:"sastre11"_165713_169208
 *JAC:	he and [/] and (.) he's just gifted . %snd:"sastre11"_168982_172639
 *JAC:	that's what he does . %snd:"sastre11"_172651_173516
 *ISA:	yeah . %snd:"sastre11"_173388_173667
@@ -152,7 +152,7 @@
 *JAC:	it's awesome . %snd:"sastre11"_293185_294265
 *ISA:	[- spa] está bueno . %snd:"sastre11"_295722_296634
 *JAC:	+< and it's on the twenty seventh floor . %snd:"sastre11"_295814_298031
-*ISA:	&=laugh imagínate . %snd:"sastre11"_298089_299784
+*ISA:	[- spa] &=laugh imagínate . %snd:"sastre11"_298089_299784
 *JAC:	so you're like &fun everything's right there . %snd:"sastre11"_299742_302262
 *JAC:	when [///] what we see like if you drew a line straight out it would be the hard rock in Bay_side@s:eng&spa . %snd:"sastre11"_302206_308266
 *JAC:	that's like a line straight off from our balcony . %snd:"sastre11"_308625_311469
@@ -173,7 +173,7 @@
 *JAC:	it's very small . %snd:"sastre11"_345483_346859
 *JAC:	it's very small . %snd:"sastre11"_347010_348066
 *ISA:	+< small ? %snd:"sastre11"_347666_348269
-*JAC:	ver very small . %snd:"sastre11"_348043_349750
+*JAC:	ver(y) very small . %snd:"sastre11"_348043_349750
 *ISA:	[- spa] y eso ? %snd:"sastre11"_349663_350580
 *ISA:	[- spa] tienes dos [/] dos cuartos . %snd:"sastre11"_351648_353186
 *JAC:	it has two bedrooms . %snd:"sastre11"_353447_355363
@@ -248,7 +248,7 @@
 *JAC:	+< the perfect +// . %snd:"sastre11"_508960_509697
 *ISA:	+< ella@s:spa se@s:spa puso@s:spa con@s:spa un@s:spa suerte@s:spa Jack@s:eng&spa porque@s:spa imagínate@s:spa +// . %snd:"sastre11"_509811_514167
 *JAC:	+< the perfect time . %snd:"sastre11"_512954_513958
-*JAC:	if she would not have sold that (.) the preasure everybody would be under right know the stress that everybody would be carrying . %snd:"sastre11"_514061_521918
+*JAC:	if she would not have sold that (.) the pressure everybody would be under right now the stress that everybody would be carrying . %snd:"sastre11"_514061_521918
 *ISA:	[- spa] no y después tu tío se quedó sin trabajo . %snd:"sastre11"_521893_524581
 *ISA:	[- spa] y oye +.. . %snd:"sastre11"_524501_525877
 *JAC:	no thank god thank god he has a great job now . %snd:"sastre11"_525819_528182
@@ -296,7 +296,7 @@
 *JAC:	they told me . %snd:"sastre11"_628600_630243
 *ISA:	[- spa] setecientos mil dólares . %snd:"sastre11"_630267_632043
 *ISA:	[- spa] quién le va a dar eso ? %snd:"sastre11"_632003_633315
-*ISA:	setecientos@s:spa o ochocientos@s:spa creo@s:spa que@s:spa están@s:spa pidiendo@s:spa por@s:spa la@s:spa casa@s:spa . %snd:"sastre11"_633295_636435
+*ISA:	[- spa] setecientos o ochocientos creo que están pidiendo por la casa . %snd:"sastre11"_633295_636435
 *ISA:	[- spa] cómo está la situación ahora ? %snd:"sastre11"_637269_639521
 *ISA:	no@s:spa creo@s:spa Jack@s:eng&spa que@s:spa +... %snd:"sastre11"_639618_641679
 *JAC:	the &di you know what though ? %snd:"sastre11"_642261_643700
@@ -353,7 +353,7 @@
 *ISA:	[- spa] qué linda . %snd:"sastre11"_748043_748681
 *ISA:	[- spa] pero óyeme . %snd:"sastre11"_748664_749296
 *JAC:	if I can do anything in the world right now I would take care of her all the time . %snd:"sastre11"_749282_755511
-*ISA:	&=laugh y que +// . %snd:"sastre11"_755919_758891
+*ISA:	[- spa] &=laugh y que +// . %snd:"sastre11"_755919_758891
 *JAC:	+< that's what I would do . %snd:"sastre11"_756308_757272
 *JAC:	<if I had> [/] if I had a million dollars . %snd:"sastre11"_757356_759829
 *ISA:	[- spa] ven acá y quién va a pagar lo del condominio [=! laugh] ? %snd:"sastre11"_759829_763736
@@ -484,7 +484,7 @@
 *JAC:	and then at night it uses electricity . %snd:"sastre11"_1075095_1077657
 *ISA:	[- spa] +< sí . %snd:"sastre11"_1075109_1075585
 *JAC:	right ? %snd:"sastre11"_1077677_1078095
-*JAC:	pero@s:spa your [///] people in Germany know that they passed the lasw that's good for twenty years that every like kilowatt that you put back is twenty cents or twenty five cents or something fixed . %snd:"sastre11"_1078095_1089912
+*JAC:	pero@s:spa your [///] people in Germany know that they passed the law that's good for twenty years that every like kilowatt that you put back is twenty cents or twenty five cents or something fixed . %snd:"sastre11"_1078095_1089912
 *JAC:	so now farmers are building fields . %snd:"sastre11"_1090599_1093786
 *JAC:	[- spa] como tú te das cuenta donde viven los abuelos . %snd:"sastre11"_1093845_1096661
 *JAC:	[- spa] +< y [/] y tenía uno por la finca . %snd:"sastre11"_1096915_1098400
@@ -529,7 +529,7 @@
 *JAC:	and what one person does affects the other one . %snd:"sastre11"_1207749_1210634
 *ISA:	[- spa] claro que sí . %snd:"sastre11"_1210652_1211511
 *JAC:	and everybody's (.) gotta realize we have such direct impact . %snd:"sastre11"_1211398_1215177
-*JAC:	we're not often little islands anymore . %snd:"sastre11"_1215087_1217374
+*JAC:	we're not often little islands any_more . %snd:"sastre11"_1215087_1217374
 *JAC:	it's not like that . %snd:"sastre11"_1217356_1218343
 *JAC:	even if you're you know ninety miles it's nothing . %snd:"sastre11"_1218296_1221867
 *JAC:	a hundred miles you know a hundred thousands miles xxx you know . %snd:"sastre11"_1221928_1225266
@@ -583,7 +583,7 @@
 *JAC:	you know I remember when everybody used to remember all the telephone numbers . %snd:"sastre11"_1353043_1357286
 *ISA:	I know . %snd:"sastre11"_1358965_1359725
 *JAC:	right ? %snd:"sastre11"_1359539_1360166
-*JAC:	or you had a little black book o la@s:spa cosita@s:spa donde@s:spa tú@s:spa le@s:spa movías@s:spa para@s:spa la@s:spa letra@s:spa &puk y &pin . %snd:"sastre11"_1360079_1365619
+*JAC:	or you had a little black book o@s:spa la@s:spa cosita@s:spa donde@s:spa tú@s:spa le@s:spa movías@s:spa para@s:spa la@s:spa letra@s:spa &puk y@s:spa &pin . %snd:"sastre11"_1360079_1365619
 *ISA:	+< &=laugh . %snd:"sastre11"_1364394_1366536
 *JAC:	[- spa] salía todo . %snd:"sastre11"_1365590_1366559
 *ISA:	+< &=laugh . %snd:"sastre11"_1365590_1366559
@@ -594,7 +594,7 @@
 *JAC:	[- spa] todo . %snd:"sastre11"_1370258_1370937
 *JAC:	but that stuff now is in that little device . %snd:"sastre11"_1370810_1373300
 *JAC:	but now you look at Mary's@s:eng&spa . %snd:"sastre11"_1373324_1375327
-*JAC:	the iphone@s:eng&spa . %snd:"sastre11"_1375251_1376534
+*JAC:	the I_Phone@s:eng&spa . %snd:"sastre11"_1375251_1376534
 *JAC:	it has a camera (.) that is full of megapixels . %snd:"sastre11"_1376986_1381415
 *JAC:	when we went to the island I bought a camera for like a thousand dollars (.) that was great . %snd:"sastre11"_1382820_1388989
 *JAC:	a Sony@s:eng&spa camera several years ago . %snd:"sastre11"_1388901_1391026
@@ -606,7 +606,7 @@
 *JAC:	and it's this big . %snd:"sastre11"_1402712_1403873
 *JAC:	it's microscopic . %snd:"sastre11"_1403844_1404987
 *JAC:	it's a speakerphone . %snd:"sastre11"_1404970_1406392
-*JAC:	it has the &ai the ipod@s:eng&spa it's in the phone . %snd:"sastre11"_1406350_1409851
+*JAC:	it has the &ai the I_Pod@s:eng&spa it's in the phone . %snd:"sastre11"_1406350_1409851
 *JAC:	so she has eight gigabytes of music which is at least a few hundred songs maybe a few thousands songs . %snd:"sastre11"_1410250_1416095
 *ISA:	Jack@s:eng&spa pero@s:spa es@s:spa que@s:spa a@s:spa mí@s:spa me@s:spa compran@s:spa un@s:spa teléfono@s:spa de@s:spa esos@s:spa y@s:spa yo@s:spa no@s:spa sé@s:spa ni@s:spa que@s:spa voy@s:spa a@s:spa hacer@s:spa con@s:spa él@s:spa . %snd:"sastre11"_1416090_1419951
 *JAC:	no no no I haven't [/] I haven't even started . %snd:"sastre11"_1419870_1422146
@@ -628,13 +628,13 @@
 *JAC:	[- spa] es tan pequeño . %snd:"sastre11"_1450754_1451764
 *ISA:	yeah . %snd:"sastre11"_1451671_1452809
 *JAC:	so they develop the technology that a I have to show you this on the phone . %snd:"sastre11"_1452898_1456149
-*JAC:	then when you look at the web page tú coges tus dedos . %snd:"sastre11"_1456870_1460028
-*JAC:	y@s:spa si@s:spa tú@s:spa lo@s:spa observaras@s:spa así@s:spa (.) it@s:spa zooms you in . %snd:"sastre11"_1460109_1464411
+*JAC:	then when you look at the web page tú@s:spa coges@s:spa tus@s:spa dedos@s:spa . %snd:"sastre11"_1456870_1460028
+*JAC:	y@s:spa si@s:spa tú@s:spa lo@s:spa observaras@s:spa así@s:spa (.) it zooms you in . %snd:"sastre11"_1460109_1464411
 *ISA:	&guau . %snd:"sastre11"_1465140_1465836
 *JAC:	and if you do this it zooms you out . %snd:"sastre11"_1466446_1468907
 *JAC:	and you can move around the page . %snd:"sastre11"_1468856_1471068
 *JAC:	so you zoom in . %snd:"sastre11"_1471014_1472070
-*JAC:	and if you touch like the link like on the internet@s:eng&spa if you touch the hyperlink te entra xxx . %snd:"sastre11"_1472075_1477474
+*JAC:	and if you touch like the link like on the internet@s:eng&spa if you touch the hyperlink te@s:spa entra@s:spa xxx . %snd:"sastre11"_1472075_1477474
 *JAC:	[- spa] pero todo es con tu dedo . %snd:"sastre11"_1477549_1479243
 *JAC:	it's incredible . %snd:"sastre11"_1479904_1480543
 *JAC:	it's so natural . %snd:"sastre11"_1480537_1481965
@@ -671,9 +671,9 @@
 *ISA:	xxx . %snd:"sastre11"_1531925_1532639
 *JAC:	it's amazing . %snd:"sastre11"_1534407_1535893
 *JAC:	[- spa] tú sabes ahora . %snd:"sastre11"_1536111_1536860
-*JAC:	tú@s:spa usas@s:spa google@s:eng&spa ? %snd:"sastre11"_1536854_1538003
+*JAC:	tú@s:spa usas@s:spa Google@s:eng&spa ? %snd:"sastre11"_1536854_1538003
 *ISA:	[- spa] sí . %snd:"sastre11"_1538021_1538944
-*JAC:	te@s:spa vas@s:spa a@s:spa google@s:eng&spa tú@s:spa . %snd:"sastre11"_1538984_1540250
+*JAC:	te@s:spa vas@s:spa a@s:spa Google@s:eng&spa tú@s:spa . %snd:"sastre11"_1538984_1540250
 *JAC:	type una@s:spa palabra@s:spa . %snd:"sastre11"_1540215_1541736
 *JAC:	[- spa] y te lo lleva . %snd:"sastre11"_1541643_1543199
 *JAC:	ahora@s:spa hay@s:spa algo@s:spa (.) que@s:spa está@s:spa en@s:spa lo@s:spa que@s:spa es@s:spa beta@s:eng&spa . %snd:"sastre11"_1543337_1547383
@@ -683,7 +683,7 @@
 *JAC:	[- spa] +, que ha &sa salido (.) al público . %snd:"sastre11"_1549508_1550913
 *JAC:	es@s:spa que@s:spa creo@s:spa que@s:spa quedan@s:spa como@s:spa novecientos@s:spa oportunidades@s:spa para@s:spa beta@s:eng&spa testers . %snd:"sastre11"_1551966_1557289
 *JAC:	se@s:spa llama@s:spa search me dot com . %snd:"sastre11"_1557296_1560516
-*JAC:	que@s:spa es@s:spa igualito@s:spa al@s:spa google@s:eng&spa . %snd:"sastre11"_1560969_1562210
+*JAC:	que@s:spa es@s:spa igualito@s:spa al@s:spa Google@s:eng&spa . %snd:"sastre11"_1560969_1562210
 *JAC:	+< en@s:spa vez@s:spa de@s:spa entregártelo@s:spa en una@s:spa and you can move around the page . %snd:"sastre11"_1468856_1471068
 *JAC:	[- spa] pero hace algo muy diferente . %snd:"sastre11"_1562105_1564154
 *JAC:	so you zoom in . %snd:"sastre11"_1471014_1472070
@@ -726,9 +726,9 @@
 *ISA:	+< xxx . %snd:"sastre11"_1531925_1532639
 *JAC:	it's amazing . %snd:"sastre11"_1534407_1535893
 *JAC:	[- spa] tú sabes ahora . %snd:"sastre11"_1536111_1536860
-*JAC:	tú@s:spa usas@s:spa google@s:eng&spa ? %snd:"sastre11"_1536854_1538003
+*JAC:	tú@s:spa usas@s:spa Google@s:eng&spa ? %snd:"sastre11"_1536854_1538003
 *ISA:	[- spa] sí . %snd:"sastre11"_1538021_1538944
-*JAC:	te@s:spa vas@s:spa a@s:spa google@s:eng&spa tú@s:spa . %snd:"sastre11"_1538984_1540250
+*JAC:	te@s:spa vas@s:spa a@s:spa Google@s:eng&spa tú@s:spa . %snd:"sastre11"_1538984_1540250
 *JAC:	type una@s:spa palabra@s:spa . %snd:"sastre11"_1540215_1541736
 *JAC:	[- spa] y te lo lleva . %snd:"sastre11"_1541643_1543199
 *JAC:	ahora@s:spa hay@s:spa algo@s:spa (.) que@s:spa está@s:spa en@s:spa lo@s:spa que@s:spa es@s:spa beta@s:eng&spa . %snd:"sastre11"_1543337_1547383
@@ -737,8 +737,8 @@
 *ISA:	xxx . %snd:"sastre11"_1549026_1549595
 *JAC:	[- spa] +, que ha &sa salido (.) al público . %snd:"sastre11"_1549508_1550913
 *JAC:	es@s:spa que@s:spa creo@s:spa que@s:spa quedan@s:spa como@s:spa novecientos@s:spa oportunidades@s:spa para@s:spa beta@s:eng&spa testers . %snd:"sastre11"_1551966_1557289
-*JAC:	se@s:spa llama@s:spa searchme dot com . %snd:"sastre11"_1557296_1560516
-*JAC:	que@s:spa es@s:spa igualito@s:spa al@s:spa google@s:eng&spa . %snd:"sastre11"_1560969_1562210
+*JAC:	se@s:spa llama@s:spa Searchme_dot_com . %snd:"sastre11"_1557296_1560516
+*JAC:	que@s:spa es@s:spa igualito@s:spa al@s:spa Google@s:eng&spa . %snd:"sastre11"_1560969_1562210
 *JAC:	[- spa] pero hace algo muy diferente . %snd:"sastre11"_1562105_1564154
 *JAC:	[- spa] cuando tú pones los [/] las palabras . %snd:"sastre11"_1564089_1566017
 *JAC:	y@s:spa tú@s:spa haces@s:spa search . %snd:"sastre11"_1566005_1567375
@@ -746,10 +746,10 @@
 *JAC:	te@s:spa do@s:spa la@s:spa [//] te@s:spa lo@s:spa [/] te@s:spa lo@s:spa da@s:spa en@s:spa previews of the website . %snd:"sastre11"_1573199_1578679
 *JAC:	so you actually see the website . %snd:"sastre11"_1579109_1581286
 *JAC:	and then you hit to the error on the keyboard . %snd:"sastre11"_1581332_1584762
-*JAC:	[- spa] y te lo lleva al próximo web site . %snd:"sastre11"_1584725_1586438
-*JAC:	the next error &pum al@s:spa próximo@s:spa web site . %snd:"sastre11"_1586421_1588523
-*JAC:	the next error &pum al@s:spa próximo@s:spa web site . %snd:"sastre11"_1588511_1590252
-*JAC:	so you can see everything (.) like if you were flipping through a cataloge you're seeing already the front of the web page . %snd:"sastre11"_1590339_1596180
+*JAC:	y@s:spa te@s:spa lo@s:spa lleva@s:spa al próximo website . %snd:"sastre11"_1584725_1586438
+*JAC:	the next error &pum al@s:spa próximo@s:spa website . %snd:"sastre11"_1586421_1588523
+*JAC:	the next error &pum al@s:spa próximo@s:spa website . %snd:"sastre11"_1588511_1590252
+*JAC:	so you can see everything (.) like if you were flipping through a catalogue you're seeing already the front of the web page . %snd:"sastre11"_1590339_1596180
 *JAC:	so when you're looking for something if you can see the visuals +// . %snd:"sastre11"_1596045_1599000
 *ISA:	[- spa] claro xxx +/ . %snd:"sastre11"_1599058_1599888
 *JAC:	+< oh that's exactly what I'm looking for &pum and you're there . %snd:"sastre11"_1599282_1602121
@@ -758,7 +758,7 @@
 *JAC:	y@s:spa te@s:spa abren@s:spa todas@s:spa las@s:spa palabras@s:spa at the bottom . %snd:"sastre11"_1615433_1617192
 *JAC:	and you can scroll through the box on the bottom . %snd:"sastre11"_1617144_1619309
 *ISA:	xxx . %snd:"sastre11"_1619842_1620684
-*JAC:	&i it's search_me_dot_com and it's really really good . %snd:"sastre11"_1621290_1623333
+*JAC:	&i it's Searchme_dot_com and it's really really good . %snd:"sastre11"_1621290_1623333
 *ISA:	+< pero@s:spa eso@s:spa lo@s:spa están@s:spa (.) testing ahora@s:spa . %snd:"sastre11"_1622481_1624890
 *JAC:	+< yeah they're testing they're testing . %snd:"sastre11"_1624029_1625294
 *JAC:	and it's an interesting engine . %snd:"sastre11"_1625265_1626252
@@ -826,7 +826,7 @@
 *JAC:	oh my god . %snd:"sastre11"_1775610_1776690
 *ISA:	[- spa] el cumpleaños de tu papá es la semana que viene . %snd:"sastre11"_1776680_1778257
 *JAC:	+< I know I know . %snd:"sastre11"_1777904_1779646
-*JAC:	es que +.. . %snd:"sastre11"_1780168_1781434
+*JAC:	[- spa] es que +.. . %snd:"sastre11"_1780168_1781434
 %com:	long pause .
 *ISA:	[- spa] no para comprar . %snd:"sastre11"_1783110_1784027
 *ISA:	[- spa] yo se la compro . %snd:"sastre11"_1784021_1785275
@@ -848,7 +848,7 @@
 *ISA:	[- spa] +< se dañó ? %snd:"sastre11"_1825231_1825910
 *JAC:	+< so I it over there . %snd:"sastre11"_1827518_1828214
 *JAC:	and they fixed it right away . %snd:"sastre11"_1828203_1829358
-*JAC:	and they are people that i'm doing business with too . %snd:"sastre11"_1829195_1831488
+*JAC:	and they are people that I'm doing business with too . %snd:"sastre11"_1829195_1831488
 *JAC:	and <they're xxx> [//] they're a Toshiba@s:eng&spa repair shop . %snd:"sastre11"_1831464_1834105
 *JAC:	and they fix like +.. . %snd:"sastre11"_1835435_1836283
 *JAC:	they're one of the only laptop@s:eng&spa repair shops in all of Miami@s:eng&spa . %snd:"sastre11"_1836329_1839441
@@ -946,7 +946,7 @@
 *JAC:	no it's more than what he needs . %snd:"sastre11"_2020796_2023182
 *ISA:	[- spa] esa computadora está buenísima . %snd:"sastre11"_2022677_2024860
 *JAC:	it's more than what he needs absolutely . %snd:"sastre11"_2023941_2026268
-*ISA:	lo@s:spa único@s:spa que@s:spa tiene@s:spa es@s:spa eso que@s:spa no@s:spa le@s:spa está@s:spa cargando@s:spa la@s:spa (.) la@s:spa [/] la@s:spa batería@s:spa . %snd:"sastre11"_2026641_2032218
+*ISA:	[- spa] lo único que tiene es eso que no le está cargando la (.) la [/] la batería . %snd:"sastre11"_2026641_2032218
 *ISA:	[- spa] parece que tiene un contacto ahí que no +// . %snd:"sastre11"_2034315_2036829
 *ISA:	[- spa] tú sabes que no coge bien . %snd:"sastre11"_2036806_2038402
 *JAC:	uhuh . %snd:"sastre11"_2038303_2039133
@@ -960,7 +960,7 @@
 *JAC:	+< she's out . %snd:"sastre11"_2059517_2060870
 *JAC:	+< no . %snd:"sastre11"_2059653_2060268
 *JAC:	she's out . %snd:"sastre11"_2061352_2062083
-*JAC:	and then I think on thursday she goes to Arizona@s:eng&spa . %snd:"sastre11"_2062689_2065597
+*JAC:	and then I think on Thursday she goes to Arizona@s:eng&spa . %snd:"sastre11"_2062689_2065597
 *JAC:	so . %snd:"sastre11"_2066947_2067911
 *JAC:	she's travelling . %snd:"sastre11"_2070215_2071022
 *ISA:	&=laughing . %snd:"sastre11"_2071535_2072214
@@ -983,7 +983,7 @@
 *JAC:	nobody has to pretend [=! laughing] . %snd:"sastre11"_2104701_2105949
 *JAC:	this is the best there is . %snd:"sastre11"_2105920_2107191
 *ISA:	[- spa] no &a [/] no cómo . %snd:"sastre11"_2107852_2109036
-*ISA:	es@s:spa no@s:spa es@s:spa perfecto@s:spa pero +.. . %snd:"sastre11"_2109036_2110743
+*ISA:	[- spa] es no es perfecto pero +.. . %snd:"sastre11"_2109036_2110743
 *JAC:	&ug . %snd:"sastre11"_2110401_2111359
 *ISA:	[- spa] pero pero yo creo que uno de los mejores oíste [=! laughing ] ? %snd:"sastre11"_2111921_2114934
 *JAC:	it's [/] it's [/] it's a disaster . %snd:"sastre11"_2115052_2117490
@@ -1043,7 +1043,7 @@
 *JAC:	[- spa] no no no no no olvídate . %snd:"sastre11"_2225912_2227258
 *JAC:	que@s:spa ponga@s:spa a@s:spa Hillary@s:eng&spa de@s:spa vicepresidente@s:spa . %snd:"sastre11"_2227910_2230610
 *ISA:	&=laughing . %snd:"sastre11"_2229545_2234497
-*JAC:	[- spa] entonces nadie l xxx porque nadie quiere a ella [=! laughing ] . %snd:"sastre11"_2231215_2234500
+*JAC:	[- spa] entonces nadie xxx porque nadie quiere a ella [=! laughing ] . %snd:"sastre11"_2231215_2234500
 *JAC:	[- spa] ella es peor todavía . %snd:"sastre11"_2234530_2235894
 *JAC:	[- spa] nadie lo mata porque peor quedarse con ella [=! laughing ] . %snd:"sastre11"_2235893_2239028
 *ISA:	[- spa] esa mujer sí trae +.. . %snd:"sastre11"_2239065_2240487
