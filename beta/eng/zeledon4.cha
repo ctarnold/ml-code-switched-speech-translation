@@ -12,7 +12,7 @@
 @Time Duration:	00:21:48
 @Comment:	Filename: zeledon4.CHA; Soundfile: zeledon4.wav
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English
-*HEN:	el tema (.) es <de lo que> [//] <de lo> [//] del mani(cure) [/] manicure y pedicure que los hombres se hacen . %snd:"zeledon4"_6_9917
+*HEN:	el@s:spa tema@s:spa (.) es@s:spa <de@s:spa lo@s:spa que@s:spa> [//] <de@s:spa lo@s:spa> [//] del@s:spa mani(cure) [/] manicure y@s:spa pedicure que@s:spa los@s:spa hombres@s:spa se@s:spa hacen@s:spa . %snd:"zeledon4"_6_9917
 *HEN:	[- spa] qué piensa usted de eso ? %snd:"zeledon4"_9901_13181
 *ETH:	er@s:eng&spa (.) <I think> [/] (.) <I think it's a little> [//] I think <it's nice> [/] it's nice to [/] <to be> [//] to have manicures and pedicures . %snd:"zeledon4"_13168_24899
 *ETH:	it's er +.. . %snd:"zeledon4"_24882_27662
@@ -22,7 +22,7 @@
 *ETH:	[- spa] yo creo que a [/] a ti te gusta no ? %snd:"zeledon4"_32086_34930
 *HEN:	[- spa] no a mí no me gusta . %snd:"zeledon4"_34881_36640
 *HEN:	[- spa] yo estoy preguntándote . %snd:"zeledon4"_36645_37789
-*HEN:	[- spa] pero si tú dices que [/] que [/] que a tí te gusta y te parece nice yo [/] yo respeto tu [/] tu +/ . %snd:"zeledon4"_37769_45775
+*HEN:	pero@s:spa si@s:spa tú@s:spa dices@s:spa que@s:spa [/] que@s:spa [/] que@s:spa a@s:spa tí@s:spa te@s:spa gusta@s:spa y@s:spa te@s:spa parece@s:spa nice yo@s:spa [/] yo@s:spa respeto@s:spa tu@s:spa [/] tu@s:spa +/ . %snd:"zeledon4"_37769_45775
 *ETH:	[- spa] +< no <para otra persona> [/] (.) para otra persona . %snd:"zeledon4"_42751_45793
 *HEN:	[- spa] +, yo respeto tu forma de pensar . %snd:"zeledon4"_45789_48128
 *ETH:	+< <not for me> [/] not for me . %snd:"zeledon4"_45789_48128
@@ -35,17 +35,17 @@
 *HEN:	oh no I'm not . %snd:"zeledon4"_62408_64771
 *ETH:	[- spa] +< tú no crees ? %snd:"zeledon4"_64132_65665
 *HEN:	[- spa] no . %snd:"zeledon4"_65298_65664
-*HEN:	yo creo que me lo hago simplemente para (.) if I have a party or something like that . %snd:"zeledon4"_65665_70642
+*HEN:	yo@s:spa creo@s:spa que@s:spa me@s:spa lo@s:spa hago@s:spa simplemente@s:spa para@s:spa (.) if I have a party or something like that . %snd:"zeledon4"_65665_70642
 *ETH:	if you have a party . %snd:"zeledon4"_70578_71420
 *HEN:	if I have a party you know I want to look nice that's it . %snd:"zeledon4"_71394_74233
-*HEN:	pero no porque necesito you know (.) hacérmelo siempre . %snd:"zeledon4"_74183_79405
-*ETH:	+< mmhm@s:eng&spa mmhm@s:eng&spa <yo nunca lo he hecho> [/] yo nunca lo he hecho . %snd:"zeledon4"_74183_79410
+*HEN:	pero@s:spa no@s:spa porque@s:spa necesito@s:spa you know (.) hacérmelo@s:spa siempre@s:spa . %snd:"zeledon4"_74183_79405
+*ETH:	+< mmhm@s:eng&spa mmhm@s:eng&spa <yo@s:spa nunca@s:spa lo@s:spa he@s:spa hecho@s:spa> [/] yo@s:spa nunca@s:spa lo@s:spa he@s:spa hecho@s:spa . %snd:"zeledon4"_74183_79410
 *HEN:	ah@s:eng&spa ? %snd:"zeledon4"_79400_79754
 *ETH:	[- spa] fiestas sin fiestas nunca lo he hecho yo . %snd:"zeledon4"_79760_81856
 *HEN:	[- spa] no ? %snd:"zeledon4"_81844_82215
 *ETH:	no I'm sorry . %snd:"zeledon4"_82198_82958
-*HEN:	[- spa] +< pero ahora mismo tú me estabas diciendo que te gustaba y te parecía xxx nice . %snd:"zeledon4"_82674_87410
-*ETH:	+< mira er@s:eng&spa <para otros>[/] para otros no para mí . %snd:"zeledon4"_82674_87404
+*HEN:	+< pero@s:spa ahora@s:spa mismo@s:spa tú@s:spa me@s:spa estabas@s:spa diciendo@s:spa que@s:spa te@s:spa gustaba@s:spa y@s:spa te@s:spa parecía@s:spa xxx nice . %snd:"zeledon4"_82674_87410
+*ETH:	+< mira@s:spa er@s:eng&spa <para@s:spa otros@s:spa>[/] para@s:spa otros@s:spa no@s:spa para@s:spa mí@s:spa . %snd:"zeledon4"_82674_87404
 *ETH:	[- spa] a mí <no me importa> [/] no me importa . %snd:"zeledon4"_87330_89559
 *HEN:	[- spa] +< o sea que +.. . %snd:"zeledon4"_87330_89571
 *ETH:	I don't care if somebody else does it . %snd:"zeledon4"_89557_91566
@@ -64,43 +64,43 @@
 *ETH:	[- spa] siempre . %snd:"zeledon4"_107908_108936
 *HEN:	oh my god . %snd:"zeledon4"_108930_110079
 *ETH:	yeah . %snd:"zeledon4"_110073_110358
-*HEN:	[- spa] y e(se) [/] ese tipo de nervios why is that ? %snd:"zeledon4"_110340_113151
+*HEN:	y@s:spa e(se)@s:spa [/] ese@s:spa tipo@s:spa de@s:spa nervios@s:spa why is that ? %snd:"zeledon4"_110340_113151
 *ETH:	er@s:eng&spa (.) could be anything . %snd:"zeledon4"_113081_115797
 *ETH:	could be life . %snd:"zeledon4"_115780_116825
 *ETH:	could be about business . %snd:"zeledon4"_116807_117881
 *ETH:	it could be about my children . %snd:"zeledon4"_117869_119558
 *HEN:	something about it related to your nails also ? %snd:"zeledon4"_119538_122284
-*ETH:	no (.) my nails no nada . %snd:"zeledon4"_122243_124838
+*ETH:	no (.) my nails no nada@s:spa . %snd:"zeledon4"_122243_124838
 *HEN:	ah@s:eng&spa ? %snd:"zeledon4"_124788_125154
-*ETH:	nada it has nothing to do with my nails . %snd:"zeledon4"_125125_127488
-*HEN:	oh@s:eng&spa parece que te preocupa mucho lo de las uñas . %snd:"zeledon4"_0_0
+*ETH:	nada@s:spa it has nothing to do with my nails . %snd:"zeledon4"_125125_127488
+*HEN:	oh@s:eng&spa parece@s:spa que@s:spa te@s:spa preocupa@s:spa mucho@s:spa lo@s:spa de@s:spa las@s:spa uñas@s:spa . %snd:"zeledon4"_0_0
 *ETH:	[- spa] no yo sí no . %snd:"zeledon4"_130379_131702
 *ETH:	[- spa] y usted cómo te vistes ? %snd:"zeledon4"_131691_135215
-*HEN:	[- spa] &= cough . %snd:"zeledon4"_135169_136359
+*HEN:	[- spa] &=cough . %snd:"zeledon4"_135169_136359
 *HEN:	[- spa] perdón . %snd:"zeledon4"_136312_137659
 *HEN:	[- spa] yo me visto normal . %snd:"zeledon4"_137659_139006
 *ETH:	mmhm@s:eng&spa . %snd:"zeledon4"_138975_139806
 *ETH:	[- spa] como militar y todo . %snd:"zeledon4"_139776_142336
 *HEN:	[- spa] eso no tiene nada nada que ver con las uñas . %snd:"zeledon4"_142298_144928
 *ETH:	+< xxx . %snd:"zeledon4"_142298_144939
-*ETH:	no@s:eng&spa but it it has to do with the metrosexual thing . %snd:"zeledon4"_144927_148247
-*HEN:	no no porque (.) Castro@s:eng&spa vive [//] viste así . %snd:"zeledon4"_148259_151991
-*ETH:	viejo (.) you know what I feel about Castro@s:eng&spa too right ? %snd:"zeledon4"_151978_155073
-*HEN:	[- spa] +< &= laugh xxx . %snd:"zeledon4"_155015_156704
+*ETH:	no but it it has to do with the metrosexual thing . %snd:"zeledon4"_144927_148247
+*HEN:	no no porque@s:spa (.) Castro@s:eng&spa vive@s:spa [//] viste@s:spa así@s:spa . %snd:"zeledon4"_148259_151991
+*ETH:	viejo@s:spa (.) you know what I feel about Castro@s:eng&spa too right ? %snd:"zeledon4"_151978_155073
+*HEN:	+< &=laugh xxx . %snd:"zeledon4"_155015_156704
 *ETH:	+< &=laugh . %snd:"zeledon4"_155015_155978
 *ETH:	not that I care because +/ . %snd:"zeledon4"_156692_159543
 *HEN:	+< that [//] that's why you [/] you get to one Cubans so +/ . %snd:"zeledon4"_156692_160155
-*ETH:	[- spa] but I'm nice so I don't care . %snd:"zeledon4"_160120_161885
-*HEN:	[- spa] +< &= laugh . %snd:"zeledon4"_160144_162001
+*ETH:	but I'm nice so I don't care . %snd:"zeledon4"_160120_161885
+*HEN:	+< &=laugh . %snd:"zeledon4"_160144_162001
 *ETH:	but I don't care . %snd:"zeledon4"_161961_162930
-*HEN:	[- spa] +< &= laugh . %snd:"zeledon4"_161961_162930
+*HEN:	+< &=laugh . %snd:"zeledon4"_161961_162930
 *ETH:	no but +/ . %snd:"zeledon4"_164330_165247
 *ETH:	+< but that the village people also wore +/ . %snd:"zeledon4"_164330_166571
 *HEN:	what ? %snd:"zeledon4"_166542_166780
 *ETH:	+, clothes like that (.) like . %snd:"zeledon4"_166543_168080
 *HEN:	+< this ? %snd:"zeledon4"_167854_168126
 *ETH:	yeah there was a guy that was military . %snd:"zeledon4"_168097_170129
-*ETH:	there was a police_man . %snd:"zeledon4"_170088_171586
+*ETH:	there was a policeman . %snd:"zeledon4"_170088_171586
 *ETH:	and I've seen him dressed like that a couple of times . %snd:"zeledon4"_171584_173679
 *HEN:	you have moustache yeah . %snd:"zeledon4"_173685_174869
 *HEN:	<I see you> [/] I see you . %snd:"zeledon4"_174939_176216
@@ -116,16 +116,16 @@
 *ETH:	yeah but <mine is> [/] mine is very trimmed . %snd:"zeledon4"_183897_186161
 *ETH:	[- spa] el mío es bien +.. . %snd:"zeledon4"_186219_188077
 *HEN:	[- spa] ah ? %snd:"zeledon4"_188071_188535
-*ETH:	it's manicure &= laughs . %snd:"zeledon4"_188535_191467
-*HEN:	[- spa] +< &= laughs . %snd:"zeledon4"_190515_192256
+*ETH:	it's manicure &=laughs . %snd:"zeledon4"_188535_191467
+*HEN:	+< &=laughs . %snd:"zeledon4"_190515_192256
 *ETH:	what the (.) yeah I know . %snd:"zeledon4"_192262_194421
 *HEN:	[- spa] so xxx a ti te gustaría ir a [/] a Cuba con las uñas bien cortadas . %snd:"zeledon4"_194502_199247
 *ETH:	+< xxx . %snd:"zeledon4"_194502_199247
 *ETH:	[- spa] a Cuba ? %snd:"zeledon4"_199233_200110
 *ETH:	I'm not Cuban so I wouldn't know . %snd:"zeledon4"_200162_201660
 *HEN:	but your wife is Cuban . %snd:"zeledon4"_201650_203060
-*ETH:	no she doens't wanna go to Cuba . %snd:"zeledon4"_202927_204285
-*HEN:	now que [/] que Fidel que se va a morir . %snd:"zeledon4"_203964_206342
+*ETH:	no she doesn't wanna go to Cuba . %snd:"zeledon4"_202927_204285
+*HEN:	now que@s:spa [/] que@s:spa Fidel@s:eng&spa que@s:spa se@s:spa va@s:spa a@s:spa morir@s:spa . %snd:"zeledon4"_203964_206342
 *HEN:	now he is gonna be dead so probably they are gonna open the tourist xxx . %snd:"zeledon4"_206359_211373
 *ETH:	[- spa] no y el hermano de él el hermano todavía está no no . %snd:"zeledon4"_206717_211001
 *ETH:	I'm not going there . %snd:"zeledon4"_211028_212694
@@ -134,10 +134,10 @@
 *HEN:	so it doesn't call your attention ? %snd:"zeledon4"_213619_215622
 *ETH:	[- spa] no . %snd:"zeledon4"_215593_216278
 *ETH:	[- spa] para nada . %snd:"zeledon4"_216289_217491
-*ETH:	maybe para visitar a la familia de ella pero +.. . %snd:"zeledon4"_217491_219989
-*HEN:	con el manicure hecho . %snd:"zeledon4"_219994_221277
-*ETH:	con el manicure hecho está bien . %snd:"zeledon4"_221295_222937
-*HEN:	so al comienzo <tú estabas diciendo> [//] you [/] you said to me that you are never gonna do it now you have said that +.. . %snd:"zeledon4"_223042_229119
+*ETH:	maybe para@s:spa visitar@s:spa a@s:spa la@s:spa familia@s:spa de@s:spa ella@s:spa pero@s:spa +.. . %snd:"zeledon4"_217491_219989
+*HEN:	con@s:spa el@s:spa manicure hecho@s:spa . %snd:"zeledon4"_219994_221277
+*ETH:	con@s:spa el@s:spa manicure hecho@s:spa está@s:spa bien@s:spa . %snd:"zeledon4"_221295_222937
+*HEN:	so al@s:spa comienzo@s:spa <tú@s:spa estabas@s:spa diciendo@s:spa> [//] you [/] you said to me that you are never gonna do it now you have said that +.. . %snd:"zeledon4"_223042_229119
 *ETH:	+< &=laughs . %snd:"zeledon4"_223042_229119
 *ETH:	well if I have to I have to . %snd:"zeledon4"_229143_230739
 *HEN:	+< &=laughs . %snd:"zeledon4"_229143_230739
@@ -150,7 +150,7 @@
 *HEN:	that [/] that's bad xxx . %snd:"zeledon4"_238217_241011
 *ETH:	+< &ss yeah sometimes I have friends . %snd:"zeledon4"_238217_241011
 *ETH:	and then sometimes I change my mind . %snd:"zeledon4"_241017_242137
-*ETH:	and then they are not my friends anymore . %snd:"zeledon4"_242160_243263
+*ETH:	and then they are not my friends any_more . %snd:"zeledon4"_242160_243263
 *ETH:	depending on the conversation xxx . %snd:"zeledon4"_243251_244952
 *HEN:	+< what about your friend Nick@s:eng&spa xxx ? %snd:"zeledon4"_244439_245831
 *HEN:	your friend Nick@s:eng&spa does the manicure also ? %snd:"zeledon4"_245831_248037
@@ -163,19 +163,19 @@
 *HEN:	what about pedicure ? %snd:"zeledon4"_250693_252017
 *ETH:	[- spa] no sé posiblemente . %snd:"zeledon4"_252047_253539
 *HEN:	[- spa] +< aha . %snd:"zeledon4"_252047_253514
-*HEN:	[- spa] &= laughing . %snd:"zeledon4"_253537_254954
+*HEN:	&=laughing . %snd:"zeledon4"_253537_254954
 *HEN:	that's weird man . %snd:"zeledon4"_255017_256080
 *HEN:	I can't imagine that guy you know with a pedicure . %snd:"zeledon4"_256049_258943
 *ETH:	no [?] . %snd:"zeledon4"_258959_259665
 *HEN:	huh@s:eng&spa ? %snd:"zeledon4"_259729_260309
 *ETH:	I don't think so . %snd:"zeledon4"_260315_261209
 *ETH:	I don't think so . %snd:"zeledon4"_261224_262403
-*HEN:	why [/] why you are like a so I don't know like a la defensiva ? %snd:"zeledon4"_262403_268960
+*HEN:	why [/] why you are like a so I don't know like a la@s:spa defensiva@s:spa ? %snd:"zeledon4"_262403_268960
 *ETH:	I'm not defensive . %snd:"zeledon4"_268993_270595
 *HEN:	+< xxx . %snd:"zeledon4"_269864_271808
 *ETH:	I just have certain friends (.) that are a little strange . %snd:"zeledon4"_271599_275322
-*HEN:	[- spa] +< &= laughing . %snd:"zeledon4"_271599_276402
-*ETH:	and (.) tú sabes . %snd:"zeledon4"_275663_276562
+*HEN:	+< &=laughing . %snd:"zeledon4"_271599_276402
+*ETH:	and (.) tú@s:spa sabes@s:spa . %snd:"zeledon4"_275663_276562
 *HEN:	like Nick@s:eng&spa or +.. . %snd:"zeledon4"_276568_277897
 *ETH:	no like other people . %snd:"zeledon4"_277164_278493
 *ETH:	I won't mention names . %snd:"zeledon4"_278501_279523
@@ -183,16 +183,16 @@
 *HEN:	+< what about xxx what about Mary@s:eng&spa ? %snd:"zeledon4"_279528_281229
 *HEN:	I mean what about Mary@s:eng&spa ? %snd:"zeledon4"_281221_282369
 *ETH:	Mary@s:eng&spa let's not even discuss Mary@s:eng&spa . %snd:"zeledon4"_281428_284807
-*HEN:	[- spa] &= laughs . %snd:"zeledon4"_284820_286684
+*HEN:	&=laughs . %snd:"zeledon4"_284820_286684
 *ETH:	what does Mary@s:eng&spa have to do with manicure ? %snd:"zeledon4"_286660_288164
 *HEN:	xxx . %snd:"zeledon4"_288181_289603
 *HEN:	Philip@s:eng&spa . %snd:"zeledon4"_289621_290271
-*ETH:	noPhilip@s:eng&spa yo no conozco . %snd:"zeledon4"_290286_291668
-*HEN:	[- spa] +< &= laughs . %snd:"zeledon4"_290286_291668
+*ETH:	no Philip@s:eng&spa yo@s:spa no@s:spa conozco@s:spa . %snd:"zeledon4"_290286_291668
+*HEN:	+< &=laughs . %snd:"zeledon4"_290286_291668
 *HEN:	xxx . %snd:"zeledon4"_291639_292440
 *ETH:	[- spa] ni lo conozco . %snd:"zeledon4"_292475_293549
 *ETH:	[- spa] yo xxx una vez yo lo vi . %snd:"zeledon4"_293552_295607
-*HEN:	[- spa] +< &= laughs . %snd:"zeledon4"_293552_296948
+*HEN:	+< &=laughs . %snd:"zeledon4"_293552_296948
 *HEN:	yeah? %snd:"zeledon4"_296971_297604
 *ETH:	yeah that's it . %snd:"zeledon4"_297505_298422
 *ETH:	[- spa] quién más ? %snd:"zeledon4"_298509_299154
@@ -202,8 +202,8 @@
 *HEN:	and Philip@s:eng&spa xxx . %snd:"zeledon4"_304285_305626
 *ETH:	xxx . %snd:"zeledon4"_305423_307559
 *ETH:	I have no hard feelings for xxx . %snd:"zeledon4"_307592_308944
-*HEN:	cómo se llamaba el [/] el [/] el [/] el [/] el [/] el jefe del car dealership ? %snd:"zeledon4"_308323_313207
-*ETH:	el jefe del car dealership cuál ? %snd:"zeledon4"_313189_316719
+*HEN:	cómo@s:spa se@s:spa llamaba@s:spa el@s:spa [/] el@s:spa [/] el@s:spa [/] el@s:spa [/] el@s:spa [/] el@s:spa jefe@s:spa del@s:spa car dealership ? %snd:"zeledon4"_308323_313207
+*ETH:	el@s:spa jefe@s:spa del@s:spa car dealership cuál@s:spa ? %snd:"zeledon4"_313189_316719
 *HEN:	[- spa] el el que le íbamos a hacer lo de la casa . %snd:"zeledon4"_316742_319522
 *ETH:	[- spa] ahora no me doy cuenta . %snd:"zeledon4"_319512_323982
 *ETH:	xxx . %snd:"zeledon4"_323965_325793
@@ -212,13 +212,13 @@
 *ETH:	[- spa] cómo se llamaba eh +.. . %snd:"zeledon4"_327072_328750
 *HEN:	xxx . %snd:"zeledon4"_328755_330114
 *ETH:	Troski@s:eng&spa . %snd:"zeledon4"_330125_330820
-*HEN:	Troski@s:eng&spa qué piensas tú de Troski@s:eng&spa ? %snd:"zeledon4"_330837_332666
+*HEN:	Troski@s:eng&spa qué@s:spa piensas@s:spa tú@s:spa de@s:spa Troski@s:eng&spa ? %snd:"zeledon4"_330837_332666
 *ETH:	[- spa] +< <ése sí> [/] ése sí xxx ése es un +.. . %snd:"zeledon4"_331445_333751
 *HEN:	[- spa] maricón . %snd:"zeledon4"_333186_334237
 *ETH:	[- spa] eso es lo que yo iba a decir pero [=! laughing] . %snd:"zeledon4"_334235_336882
-*HEN:	[- spa] +< &= laughing . %snd:"zeledon4"_334235_336882
+*HEN:	+< &=laughing . %snd:"zeledon4"_334235_336882
 *ETH:	[- spa] vamos a dejar eso . %snd:"zeledon4"_337158_337960
-*ETH:	[- spa] &= laughing . %snd:"zeledon4"_338012_338645
+*ETH:	&=laughing . %snd:"zeledon4"_338012_338645
 *HEN:	[- spa] él se hacía mucho las uñas las +.. . %snd:"zeledon4"_338662_340665
 *HEN:	[- spa] él se hacía xxx . %snd:"zeledon4"_340614_342303
 *ETH:	[- spa] +< sí él es medio +.. . %snd:"zeledon4"_340615_341837
@@ -236,13 +236,13 @@
 *ETH:	I [/] I don't care . %snd:"zeledon4"_359636_360687
 *HEN:	uh@s:eng&spa . %snd:"zeledon4"_360692_361122
 *ETH:	I don't care . %snd:"zeledon4"_361145_362045
-*HEN:	so si ahora mismo la señora que está ahí te viene y te dice +"/ . %snd:"zeledon4"_362101_365156
-*HEN:	+" mire quiero hacerle las uñas a usted y el pedicure . %snd:"zeledon4"_365160_368200
+*HEN:	[- spa] so si ahora mismo la señora que está ahí te viene y te dice +"/ . %snd:"zeledon4"_362101_365156
+*HEN:	+" mire@s:spa quiero@s:spa hacerle@s:spa las@s:spa uñas@s:spa a@s:spa usted@s:spa y@s:spa el@s:spa pedicure . %snd:"zeledon4"_365160_368200
 *ETH:	[- spa] +< está bien . %snd:"zeledon4"_365160_368200
 *HEN:	[- spa] usted se lo hace ? %snd:"zeledon4"_368183_369704
-*ETH:	el pedicure no . %snd:"zeledon4"_368506_369783
+*ETH:	el@s:spa pedicure no . %snd:"zeledon4"_368506_369783
 *HEN:	uh@s:eng&spa . %snd:"zeledon4"_369792_370431
-*ETH:	[- spa] &= laughing el pedicure no . %snd:"zeledon4"_370460_371662
+*ETH:	&=laughing el@s:spa pedicure no . %snd:"zeledon4"_370460_371662
 *HEN:	[- spa] pero si son uñas de todos modos . %snd:"zeledon4"_371325_372875
 *ETH:	+< yeah I know yeah but give me a break . %snd:"zeledon4"_371326_373122
 *ETH:	[- spa] eso no me importa tampoco . %snd:"zeledon4"_373169_374458
@@ -261,15 +261,15 @@
 *ETH:	[- spa] es diferente . %snd:"zeledon4"_385674_386370
 *HEN:	[- spa] <te gusta> [/] te gusta la sensación de morderte las uñas ? %snd:"zeledon4"_386351_389358
 *ETH:	[- spa] +< xxx diferente . %snd:"zeledon4"_386424_389292
-*ETH:	&= laughing no not at all . %snd:"zeledon4"_389292_392032
+*ETH:	&=laughing no not at all . %snd:"zeledon4"_389292_392032
 *HEN:	[- spa] entonces te comerías las uñas de los pies también . %snd:"zeledon4"_392007_394149
 *ETH:	[- spa] no . %snd:"zeledon4"_394160_394921
 *ETH:	[- spa] no . %snd:"zeledon4"_394897_397190
 *HEN:	[- spa] +< no . %snd:"zeledon4"_394897_397156
 *ETH:	I can't reach that far . %snd:"zeledon4"_396803_398626
-*HEN:	[- spa] &= laughs . %snd:"zeledon4"_398632_402962
-*ETH:	[- spa] +< &= laughs . %snd:"zeledon4"_398632_402962
-*HEN:	wow@s:eng&spa so qué vas a hacer ahora de noche ? %snd:"zeledon4"_403022_404653
+*HEN:	&=laughs . %snd:"zeledon4"_398632_402962
+*ETH:	+< &=laughs . %snd:"zeledon4"_398632_402962
+*HEN:	wow@s:eng&spa so@s:spa qué@s:spa vas@s:spa a@s:spa hacer@s:spa ahora@s:spa de@s:spa noche@s:spa ? %snd:"zeledon4"_403022_404653
 *HEN:	[- spa] adónde te vas ? %snd:"zeledon4"_404674_405214
 *ETH:	I have to go pick up my daughter . %snd:"zeledon4"_405235_406454
 *ETH:	she's at church . %snd:"zeledon4"_406472_407685
@@ -279,7 +279,7 @@
 *ETH:	+< xxx . %snd:"zeledon4"_412779_415651
 *ETH:	after that I'm gonna turn off my phone so that you can't reach me . %snd:"zeledon4"_415651_419830
 *ETH:	and er@s:eng&spa chill out at home . %snd:"zeledon4"_419811_422243
-*HEN:	oh@s:eng&spa yeah hay un lugar por aquí que es lo de los bolos . %snd:"zeledon4"_422243_425180
+*HEN:	oh@s:eng&spa yeah hay@s:spa un@s:spa lugar@s:spa por@s:spa aquí@s:spa que@s:spa es@s:spa lo@s:spa de@s:spa los@s:spa bolos@s:spa . %snd:"zeledon4"_422243_425180
 *ETH:	[- spa] los qué ? %snd:"zeledon4"_425196_426745
 *HEN:	[- spa] los bolos como para jugar a bolos . %snd:"zeledon4"_426770_429452
 *ETH:	[- spa] bolos . %snd:"zeledon4"_429452_431159
@@ -311,8 +311,8 @@
 *ETH:	they [///] you can rent shoes there . %snd:"zeledon4"_464950_466459
 *HEN:	so how much are these shoes ? %snd:"zeledon4"_466488_468142
 *ETH:	shoes are probably another dollar in change . %snd:"zeledon4"_468148_470261
-*HEN:	so puedo usar los tuyos . %snd:"zeledon4"_470267_471532
-*ETH:	er@s:eng&spa no@s:eng&spa . %snd:"zeledon4"_471484_473074
+*HEN:	[- spa] so puedo usar los tuyos . %snd:"zeledon4"_470267_471532
+*ETH:	er@s:eng&spa no . %snd:"zeledon4"_471484_473074
 *HEN:	+< xxx . %snd:"zeledon4"_471484_473074
 *ETH:	your [/] your feet are too small . %snd:"zeledon4"_473092_474856
 *HEN:	uh@s:eng&spa . %snd:"zeledon4"_474860_475615
@@ -320,7 +320,7 @@
 *HEN:	I don't think so . %snd:"zeledon4"_476942_478266
 *ETH:	yeah . %snd:"zeledon4"_478260_478753
 *ETH:	yeah they are too small . %snd:"zeledon4"_478753_480036
-*HEN:	qué size are you ? %snd:"zeledon4"_480024_481180
+*HEN:	qué@s:spa size are you ? %snd:"zeledon4"_480024_481180
 *ETH:	ten and a half . %snd:"zeledon4"_481259_482019
 *HEN:	+< xxx . %snd:"zeledon4"_481299_482106
 *HEN:	ten and a half . %snd:"zeledon4"_482083_483441
@@ -328,7 +328,7 @@
 *HEN:	I'm ten and a half too . %snd:"zeledon4"_484815_486493
 *ETH:	wow@s:eng&spa . %snd:"zeledon4"_486382_487317
 *HEN:	I didn't know that . %snd:"zeledon4"_487342_488567
-*ETH:	[- spa] &= laughing . %snd:"zeledon4"_488584_489246
+*ETH:	&=laughing . %snd:"zeledon4"_488584_489246
 *HEN:	seriously I didn't know that you are ten and a half . %snd:"zeledon4"_489258_491955
 *ETH:	depending on the day . %snd:"zeledon4"_491974_493083
 *ETH:	<sometimes I> [/] sometimes I'm a ten . %snd:"zeledon4"_493089_495236
@@ -336,7 +336,7 @@
 *ETH:	no right now depending on the shoe it's a ten or a ten and a half . %snd:"zeledon4"_495265_498828
 *ETH:	depending on the shoe . %snd:"zeledon4"_498835_500501
 *ETH:	some shoes I have to get a little bit bigger [?] . %snd:"zeledon4"_500623_503638
-*HEN:	[- spa] I'm selling xxx shoes right now . %snd:"zeledon4"_502415_504098
+*HEN:	I'm selling xxx shoes right now . %snd:"zeledon4"_502415_504098
 *ETH:	yeah well . %snd:"zeledon4"_504086_504766
 *HEN:	are you planning to buy some ? %snd:"zeledon4"_504767_506706
 *ETH:	+< no . %snd:"zeledon4"_506004_506863
@@ -357,7 +357,7 @@
 *ETH:	[- spa] y tú tienes por ahí xxx [=! laughing] . %snd:"zeledon4"_526411_528094
 *HEN:	[- spa] +< no ! %snd:"zeledon4"_526411_528094
 *HEN:	[- spa] no no no no no no . %snd:"zeledon4"_528096_529652
-*ETH:	[- spa] +< &= laughing . %snd:"zeledon4"_528096_529652
+*ETH:	+< &=laughing . %snd:"zeledon4"_528096_529652
 *HEN:	[- spa] no es ningún [///] nada de ese tipo de zapatos . %snd:"zeledon4"_529634_532113
 *HEN:	[- spa] son zapatos de ahora que [/] que tengo demasiados zapatos ahí . %snd:"zeledon4"_532121_534768
 *ETH:	[- spa] pues ? %snd:"zeledon4"_534539_534986
@@ -365,18 +365,18 @@
 *HEN:	[- spa] me gustaría venderlos . %snd:"zeledon4"_535679_537246
 *ETH:	[- spa] +< y esto me interesa esto . %snd:"zeledon4"_535679_537246
 *HEN:	[- spa] qué cosa ? %snd:"zeledon4"_537256_538080
-*ETH:	un [/] un [/] un rack de estos para [/] para vino . %snd:"zeledon4"_538125_541074
-*HEN:	[- spa] +< &= coughs . %snd:"zeledon4"_538125_541027
+*ETH:	un@s:spa [/] un@s:spa [/] un@s:spa rack de@s:spa estos@s:spa para@s:spa [/] para@s:spa vino@s:spa . %snd:"zeledon4"_538125_541074
+*HEN:	[- spa] +< &=coughs . %snd:"zeledon4"_538125_541027
 *ETH:	[- spa] porque yo veo aquí que tienes tres o cuatro botellas solamente . %snd:"zeledon4"_541023_543885
 *HEN:	+< xxx . %snd:"zeledon4"_541023_543895
 *ETH:	[- spa] y tú coges como ciento cincuenta no ? %snd:"zeledon4"_543930_548357
-*HEN:	[- spa] +< bueno la [/] la &ma [/] la mayoría de la gente está trayendo what they xxx regalar todos mis amigos . %snd:"zeledon4"_543930_551871
+*HEN:	+< bueno@s:spa la@s:spa [/] la@s:spa &ma [/] la@s:spa mayoría@s:spa de@s:spa la@s:spa gente@s:spa está@s:spa trayendo@s:spa what they xxx regalar@s:spa todos@s:spa mis@s:spa amigos@s:spa . %snd:"zeledon4"_543930_551871
 *ETH:	[- spa] ah exactamente lo que tú dijiste . %snd:"zeledon4"_551871_553995
 *HEN:	+< yeah . %snd:"zeledon4"_551871_553995
 *ETH:	[- spa] todos tus amigos . %snd:"zeledon4"_553970_555131
 *HEN:	[- spa] tú eres amigo mío . %snd:"zeledon4"_555131_555990
 *ETH:	[- spa] ay yo no sabía . %snd:"zeledon4"_556023_557492
-*ETH:	[- spa] I didn't know . %snd:"zeledon4"_557474_558571
+*ETH:	I didn't know . %snd:"zeledon4"_557474_558571
 *HEN:	[- spa] para [/] para ponerlas ahí las botellas . %snd:"zeledon4"_558594_560963
 *HEN:	[- spa] es más yo creo que xxx salen las botellas a tres noventa y nueve las botellas . %snd:"zeledon4"_560984_565626
 *ETH:	[- spa] yo [/] yo espero hasta que que esté más tú sabes que estén en sale . %snd:"zeledon4"_565645_569993
@@ -408,7 +408,7 @@
 *ETH:	no . %snd:"zeledon4"_602805_603171
 *ETH:	it's xxx . %snd:"zeledon4"_603161_603852
 *ETH:	that's you are talking about in a barrel not in a bottle . %snd:"zeledon4"_603892_607503
-*HEN:	[- spa] +< &= laughing . %snd:"zeledon4"_603892_607503
+*HEN:	+< &=laughing . %snd:"zeledon4"_603892_607503
 *ETH:	big difference . %snd:"zeledon4"_607474_608414
 *HEN:	so what about those places that they have this ? %snd:"zeledon4"_608403_610661
 *ETH:	[- spa] +< mira vamos a abrir +/ . %snd:"zeledon4"_608403_610574
@@ -433,7 +433,7 @@
 *HEN:	I know what you mean . %snd:"zeledon4"_641965_643132
 *ETH:	[- spa] se está abriendo solo . %snd:"zeledon4"_642163_643434
 *ETH:	[- spa] vamos a abrirlo . %snd:"zeledon4"_643382_644438
-*ETH:	[- spa] come on . %snd:"zeledon4"_644459_645376
+*ETH:	come on . %snd:"zeledon4"_644459_645376
 *HEN:	we are not drinking wine right now . %snd:"zeledon4"_645388_647031
 *HEN:	<we are> [/] we are doing light . %snd:"zeledon4"_647027_648710
 *ETH:	+< but that's fine . %snd:"zeledon4"_647588_648923
@@ -463,7 +463,7 @@
 *HEN:	no xxx . %snd:"zeledon4"_671736_672502
 *ETH:	yes . %snd:"zeledon4"_672496_673222
 *HEN:	but from this year probably . %snd:"zeledon4"_673263_675259
-*ETH:	[- spa] &= laughing . %snd:"zeledon4"_675269_676175
+*ETH:	&=laughing . %snd:"zeledon4"_675269_676175
 *HEN:	+< xxx . %snd:"zeledon4"_675269_677330
 *HEN:	that +/ . %snd:"zeledon4"_677333_678187
 *ETH:	+< in ninety two it was a dollar ninety nine . %snd:"zeledon4"_677647_679208
@@ -513,7 +513,7 @@
 *HEN:	yeah . %snd:"zeledon4"_746525_747163
 *HEN:	[- spa] todo xxx mira . %snd:"zeledon4"_747161_748589
 *ETH:	+< you have asthma ? %snd:"zeledon4"_747747_749123
-*HEN:	mira listen . %snd:"zeledon4"_749133_750520
+*HEN:	mira@s:spa listen . %snd:"zeledon4"_749133_750520
 *ETH:	I'm gonna ask my wife . %snd:"zeledon4"_749133_750543
 *ETH:	is that what it is ? %snd:"zeledon4"_750584_751391
 *HEN:	listen . %snd:"zeledon4"_751391_752424
@@ -539,11 +539,11 @@
 *HEN:	[- spa] y xxx voy a ir a conseguir . %snd:"zeledon4"_790315_791523
 *ETH:	[- spa] mmhm . %snd:"zeledon4"_791511_792179
 *HEN:	xxx . %snd:"zeledon4"_792237_793310
-*HEN:	you know yo tengo que ir . %snd:"zeledon4"_793322_795342
+*HEN:	you know yo@s:spa tengo@s:spa que@s:spa ir@s:spa . %snd:"zeledon4"_793322_795342
 *HEN:	[- spa] y tratar de conseguir . %snd:"zeledon4"_795356_798517
 *ETH:	[- spa] +< y tratar [=! laughing] . %snd:"zeledon4"_795356_798517
 *HEN:	[- spa] eso yo traté de conseguirlo también . %snd:"zeledon4"_801787_804185
-*ETH:	[- spa] +< &= laughing . %snd:"zeledon4"_802154_804580
+*ETH:	+< &=laughing . %snd:"zeledon4"_802154_804580
 *HEN:	[- spa] no se me hizo +/ . %snd:"zeledon4"_804603_805480
 *ETH:	[- spa] +< qué hiciste para conseguirlo ? %snd:"zeledon4"_805002_806139
 *HEN:	[- spa] no se me hizo f'ácil . %snd:"zeledon4"_805948_806819
@@ -552,28 +552,28 @@
 *ETH:	[- spa] mmhm mmhm ok . %snd:"zeledon4"_811379_814078
 *ETH:	[- spa] y no tiene más ? %snd:"zeledon4"_814107_815489
 *HEN:	[- spa] y qué [/] qué consigo yo si yo te consigo uno de esos ? %snd:"zeledon4"_815477_818618
-*ETH:	[- spa] +< &= laughing . %snd:"zeledon4"_815477_818668
-*ETH:	[- spa] I'll get you new binoculars . %snd:"zeledon4"_818662_820984
-*HEN:	[- spa] qué tan fuerte son los binoculars ? %snd:"zeledon4"_821024_825155
-*ETH:	[- spa] +< I'll get you new binoculars . %snd:"zeledon4"_824091_825357
-*HEN:	[- spa] hey pero qué tan fuertes son los binoculars ? %snd:"zeledon4"_825324_827733
-*ETH:	[- spa] yeah well don't worry about it . %snd:"zeledon4"_827725_828874
-*ETH:	[- spa] I'll get you really strong ones . %snd:"zeledon4"_828880_830383
+*ETH:	+< &=laughing . %snd:"zeledon4"_815477_818668
+*ETH:	I'll get you new binoculars . %snd:"zeledon4"_818662_820984
+*HEN:	qué@s:spa tan@s:spa fuerte@s:spa son@s:spa los@s:spa binoculars ? %snd:"zeledon4"_821024_825155
+*ETH:	+< I'll get you new binoculars . %snd:"zeledon4"_824091_825357
+*HEN:	hey pero@s:spa qué@s:spa tan@s:spa fuertes@s:spa son@s:spa los@s:spa binoculars ? %snd:"zeledon4"_825324_827733
+*ETH:	yeah well don't worry about it . %snd:"zeledon4"_827725_828874
+*ETH:	I'll get you really strong ones . %snd:"zeledon4"_828880_830383
 *HEN:	[- spa] +< no no no no no . %snd:"zeledon4"_829426_830749
-*HEN:	<porque tú me puedes> [/] you can xxx you know . %snd:"zeledon4"_830732_833663
+*HEN:	<porque@s:spa tú@s:spa me@s:spa puedes@s:spa> [/] you can xxx you know . %snd:"zeledon4"_830732_833663
 *ETH:	oh I don't know . %snd:"zeledon4"_833651_834534
 *HEN:	you [/] you can tell me . %snd:"zeledon4"_834255_835805
 *ETH:	+< <I don't know> [/] I don't know what the strength is . %snd:"zeledon4"_834836_838011
 *HEN:	+< let me you know what . %snd:"zeledon4"_836734_838051
 *HEN:	[- spa] me interesa . %snd:"zeledon4"_838045_839665
 *ETH:	xxx so that you can do your bird watching . %snd:"zeledon4"_838434_839984
-*HEN:	yeah &= laughing . %snd:"zeledon4"_840017_843593
-*ETH:	[- spa] +< &= laughing . %snd:"zeledon4"_840017_843593
+*HEN:	yeah &=laughing . %snd:"zeledon4"_840017_843593
+*ETH:	+< &=laughing . %snd:"zeledon4"_840017_843593
 *ETH:	you know there's a lot of nice birds over here by the water over here . %snd:"zeledon4"_843632_846203
 *HEN:	[- spa] +< ver me interesa so déjame +.. . %snd:"zeledon4"_845211_848738
 *HEN:	[- spa] yo [/] yo te voy a chequear . %snd:"zeledon4"_848725_850658
 *HEN:	[- spa] ok ? %snd:"zeledon4"_850692_851575
-*HEN:	[- spa] but si me dice la tipa +" . %snd:"zeledon4"_851576_853237
+*HEN:	but si@s:spa me@s:spa dice@s:spa la@s:spa tipa@s:spa +" . %snd:"zeledon4"_851576_853237
 *HEN:	[- spa] +" oh te la vendo en treinta . %snd:"zeledon4"_853231_854502
 *HEN:	[- spa] +" oh te la vendo en cincuenta . %snd:"zeledon4"_854519_856035
 *ETH:	[- spa] +< no . %snd:"zeledon4"_855605_856127
@@ -583,7 +583,7 @@
 *ETH:	[- spa] y me lo regalas . %snd:"zeledon4"_858774_859721
 *ETH:	[- spa] como un amigo . %snd:"zeledon4"_859707_861100
 *ETH:	[- spa] mira yo vine aquí hoy para arreglarte el [/] el [/] el +.. . %snd:"zeledon4"_861123_863534
-*ETH:	[- spa] cuántas veces yo he arreglado el [/] el disposal ? %snd:"zeledon4"_863550_865291
+*ETH:	cuántas@s:spa veces@s:spa yo@s:spa he@s:spa arreglado@s:spa el@s:spa [/] el@s:spa disposal ? %snd:"zeledon4"_863550_865291
 *HEN:	[- spa] +< eso fue para atraerte . %snd:"zeledon4"_864765_866489
 *ETH:	[- spa] no no no espera . %snd:"zeledon4"_865680_866463
 *HEN:	[- spa] eso fue para atraete para +.. . %snd:"zeledon4"_866492_868199
@@ -594,13 +594,13 @@
 *HEN:	[- spa] eso fue para xxx . %snd:"zeledon4"_872396_873481
 *ETH:	[- spa] no no pues . %snd:"zeledon4"_873052_874317
 *ETH:	[- spa] pues me voy ahora mismo . %snd:"zeledon4"_874334_875176
-*HEN:	[- spa] &= laughing . %snd:"zeledon4"_875217_877016
+*HEN:	&=laughing . %snd:"zeledon4"_875217_877016
 *ETH:	[- spa] +< vamos a dejar esto . %snd:"zeledon4"_875786_876650
 *ETH:	[- spa] +< me voy ahora mismo . %snd:"zeledon4"_876668_877661
 *HEN:	[- spa] no pero si tu hubieras venido para eso no hubiera xxx [=! laughing] . %snd:"zeledon4"_877275_882030
 *ETH:	[- spa] +< no pero xxx . %snd:"zeledon4"_880515_883668
 *ETH:	[- spa] pero cuántas veces ah pero te tengo que cobrar por eso ? %snd:"zeledon4"_883705_886846
-*HEN:	[- spa] +< &= laughing . %snd:"zeledon4"_883705_886846
+*HEN:	+< &=laughing . %snd:"zeledon4"_883705_886846
 *HEN:	[- spa] no . %snd:"zeledon4"_886828_887896
 *ETH:	[- spa] por el tiempo . %snd:"zeledon4"_887908_889040
 *HEN:	[- spa] no porque eso de ahí es por los chicos porque eso se pudre y se daña los [/] los niños . %snd:"zeledon4"_889050_894702
@@ -644,7 +644,7 @@
 *ETH:	the xxx . %snd:"zeledon4"_945335_947407
 *ETH:	it's in my garage . %snd:"zeledon4"_947401_948452
 *ETH:	I hung it up . %snd:"zeledon4"_948446_952004
-*HEN:	es que tú tienes botellas de [/] de [/] de wine así botadas en el piso ? %snd:"zeledon4"_951985_956070
+*HEN:	es@s:spa que@s:spa tú@s:spa tienes@s:spa botellas@s:spa de@s:spa [/] de@s:spa [/] de@s:spa wine así@s:spa botadas@s:spa en@s:spa el@s:spa piso@s:spa ? %snd:"zeledon4"_951985_956070
 *ETH:	[- spa] no . %snd:"zeledon4"_956033_956578
 *ETH:	[- spa] ahora mismo no . %snd:"zeledon4"_956594_957824
 *ETH:	[- spa] en la cocina pero +.. . %snd:"zeledon4"_957819_959583
@@ -682,17 +682,17 @@
 *HEN:	[- spa] a Magda le gustó . %snd:"zeledon4"_1009474_1010896
 *ETH:	+< no I don't care . %snd:"zeledon4"_1010668_1011550
 *ETH:	[- spa] quién es Magda ? %snd:"zeledon4"_1011539_1012317
-*HEN:	[- spa] &= laughing . %snd:"zeledon4"_1012311_1014435
+*HEN:	&=laughing . %snd:"zeledon4"_1012311_1014435
 *ETH:	[- spa] +< oh la amiga de Mayra . %snd:"zeledon4"_1012311_1014435
 *HEN:	[- spa] sí . %snd:"zeledon4"_1014460_1015145
 *ETH:	[- spa] +< ok . %snd:"zeledon4"_1014460_1015145
 *HEN:	[- spa] Magda es diseñadora y eso . %snd:"zeledon4"_1015170_1017678
-*ETH:	sí oh yeah . %snd:"zeledon4"_1017665_1019551
+*ETH:	sí@s:spa oh yeah . %snd:"zeledon4"_1017665_1019551
 *ETH:	what did she design ? %snd:"zeledon4"_1019538_1020803
 *HEN:	+< yeah . %snd:"zeledon4"_1019538_1020803
 *HEN:	well she [/] she's been designing a lot of things . %snd:"zeledon4"_1020849_1024257
 *ETH:	like ? %snd:"zeledon4"_1024280_1024994
-*ETH:	[- spa] &= laughing . %snd:"zeledon4"_1025007_1029018
+*ETH:	&=laughing . %snd:"zeledon4"_1025007_1029018
 *HEN:	you have to see her house man . %snd:"zeledon4"_1025007_1029018
 *ETH:	xxx who did she design for herself or for other people ? %snd:"zeledon4"_1028983_1032159
 *HEN:	+< xxx . %snd:"zeledon4"_1028983_1032188
@@ -742,7 +742,7 @@
 *HEN:	[- spa] ah ? %snd:"zeledon4"_1109405_1109765
 *ETH:	[- spa] no no tiene que ser de ese tamaño . %snd:"zeledon4"_1109486_1110891
 *ETH:	[- spa] puede ser más chico . %snd:"zeledon4"_1110951_1113174
-*HEN:	[- spa] +< cough . %snd:"zeledon4"_1110951_1113104
+*HEN:	+< &=cough . %snd:"zeledon4"_1110951_1113104
 *HEN:	[- spa] ok yo voy a hacer una llamada . %snd:"zeledon4"_1113106_1116804
 *ETH:	+< xxx . %snd:"zeledon4"_1113106_1116694
 *HEN:	[- spa] está bien . %snd:"zeledon4"_1116750_1118033
@@ -753,7 +753,7 @@
 *HEN:	[- spa] entonces yo esta vez quiero +// . %snd:"zeledon4"_1122363_1125025
 *HEN:	[- spa] voy a tratar [=! laughing] . %snd:"zeledon4"_1125048_1127647
 *HEN:	[- spa] voy a trater porque <no es> [/] no es fácil . %snd:"zeledon4"_1127680_1131348
-*ETH:	+< en [/] en you know <en xxx> [/] en exxx hay camisetas que te dan . %snd:"zeledon4"_1130358_1134247
+*ETH:	+< en@s:spa [/] en@s:spa you know <en@s:spa xxx> [/] en@s:spa xxx hay@s:spa camisetas@s:spa que@s:spa te@s:spa dan@s:spa . %snd:"zeledon4"_1130358_1134247
 *HEN:	[- spa] +< eso no es fácil . %snd:"zeledon4"_1131257_1134171
 *ETH:	[- spa] no nada nada . %snd:"zeledon4"_1134181_1135493
 *HEN:	[- spa] no esos no &re . %snd:"zeledon4"_1134703_1135411
@@ -763,26 +763,26 @@
 *HEN:	[- spa] las camisas . %snd:"zeledon4"_1140088_1141330
 *HEN:	[- spa] no en serio . %snd:"zeledon4"_1141359_1143403
 *ETH:	no I don't like xxx that much . %snd:"zeledon4"_1143426_1145933
-*ETH:	<I just need> [/] I just need t_shirts for basketball . %snd:"zeledon4"_1145904_1148418
+*ETH:	<I just need> [/] I just need T_shirts for basketball . %snd:"zeledon4"_1145904_1148418
 *HEN:	[- spa] yo no puedo creer . %snd:"zeledon4"_1148414_1150028
 *HEN:	[- spa] pero entonces pasa por xxx . %snd:"zeledon4"_1150016_1151648
 *HEN:	[- spa] al tipo le gusta ayudar mucho <a la> [/] <a la> [/] <a la> [/] <a la> [/] <a la> [/] <a la> [/] a la comunidad . %snd:"zeledon4"_1151677_1159122
 *HEN:	[- spa] pasa por ahí . %snd:"zeledon4"_1159134_1160417
-*HEN:	[- spa] y xxx que tienes un equipo [=! yawning] (.) de basket . %snd:"zeledon4"_1160438_1166320
-*ETH:	[- spa] &= laughing . %snd:"zeledon4"_1166325_1166709
+*HEN:	y@s:spa xxx que@s:spa tienes@s:spa un@s:spa equipo@s:spa [=! yawning] (.) de@s:spa basket . %snd:"zeledon4"_1160438_1166320
+*ETH:	&=laughing . %snd:"zeledon4"_1166325_1166709
 *HEN:	[- spa] y que te xxx en las camisetas . %snd:"zeledon4"_1166720_1168932
 *HEN:	[- spa] yo no creo que ellos te vayan a decir que no . %snd:"zeledon4"_1168937_1171950
 *ETH:	no it's not worth it . %snd:"zeledon4"_1171939_1172943
 *HEN:	[- spa] mmhm . %snd:"zeledon4"_1172948_1174092
 *ETH:	don't worry about it . %snd:"zeledon4"_1174104_1174794
 *ETH:	don't worry about it . %snd:"zeledon4"_1174800_1175555
-*ETH:	<I'll go to> [/] I'll go some place like Target or something get some t_shirts . %snd:"zeledon4"_1175561_1179175
+*ETH:	<I'll go to> [/] I'll go some place like Target or something get some T_shirts . %snd:"zeledon4"_1175561_1179175
 *ETH:	that's all . %snd:"zeledon4"_1179146_1180266
 *ETH:	it's no big deal . %snd:"zeledon4"_1180247_1181129
 *HEN:	so you are gonna pay in Target ? %snd:"zeledon4"_1181112_1182807
 *ETH:	yeah . %snd:"zeledon4"_1182818_1183608
 *HEN:	you'll rather to pay in Target xxx . %snd:"zeledon4"_1183652_1186113
-*ETH:	+< yeah if somebody gives me the t_shirt that's different . %snd:"zeledon4"_1184877_1187640
+*ETH:	+< yeah if somebody gives me the T_shirt that's different . %snd:"zeledon4"_1184877_1187640
 *HEN:	you don't rather to pay <the rack> [/] the [/] the wine rack . %snd:"zeledon4"_1186276_1189759
 *ETH:	+< no the wine rack no . %snd:"zeledon4"_1186276_1189718
 *ETH:	xxx because they don't sell those wine racks . %snd:"zeledon4"_1189707_1191924
@@ -797,7 +797,7 @@
 *ETH:	I would like to have it this week . %snd:"zeledon4"_1211241_1213645
 *ETH:	but I really don't need it . %snd:"zeledon4"_1213652_1216607
 *HEN:	&eee . %snd:"zeledon4"_1216611_1221077
-*HEN:	tú necesitarías un [/] un pedicure ? %snd:"zeledon4"_1221309_1227442
+*HEN:	tú@s:spa necesitarías@s:spa un@s:spa [/] un@s:spa pedicure ? %snd:"zeledon4"_1221309_1227442
 *ETH:	[- spa] no . %snd:"zeledon4"_1227492_1228746
 *ETH:	let's not get back into that . %snd:"zeledon4"_1228735_1231173
 *HEN:	[- spa] por qué ? %snd:"zeledon4"_1231165_1232204
@@ -810,7 +810,7 @@
 *HEN:	[- spa] como quieras . %snd:"zeledon4"_1249352_1250722
 *ETH:	[- spa] que cómo cinco minutos más ? %snd:"zeledon4"_1249849_1252421
 *HEN:	[- spa] te vas ya ? %snd:"zeledon4"_1252415_1254876
-*ETH:	well [?] depende . %snd:"zeledon4"_1254871_1256299
+*ETH:	well [?] depende@s:spa . %snd:"zeledon4"_1254871_1256299
 *HEN:	[- spa] y después de Felisa qué vas a ir a hacer ? %snd:"zeledon4"_1256285_1258235
 *ETH:	[- spa] a mi casa . %snd:"zeledon4"_1258276_1259663
 *HEN:	[- spa] qué vas a hacer allá ? %snd:"zeledon4"_1259686_1261231
@@ -829,7 +829,7 @@
 *ETH:	I have to clean that every month . %snd:"zeledon4"_1281846_1283298
 *ETH:	every couple of months . %snd:"zeledon4"_1283292_1284720
 *ETH:	otherwise it would look disgusting . %snd:"zeledon4"_1284731_1287071
-*HEN:	voy a hacer una llamada <sobre el> [/] sobre el rack de vino . %snd:"zeledon4"_1287115_1292271
+*HEN:	voy@s:spa a@s:spa hacer@s:spa una@s:spa llamada@s:spa <sobre@s:spa el@s:spa> [/] sobre@s:spa el@s:spa rack de@s:spa vino@s:spa . %snd:"zeledon4"_1287115_1292271
 *ETH:	right . %snd:"zeledon4"_1292370_1293032
 *HEN:	[- spa] te voy a dejar saber si [/] si tienen uno disponible igualito o uno de los de marca de los que tú dices . %snd:"zeledon4"_1293069_1305020
 *HEN:	[- spa] está bien . %snd:"zeledon4"_1305031_1305763
