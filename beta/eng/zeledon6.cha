@@ -11,26 +11,26 @@
 @Coder:	M. Carmen Parafita Couto, Fraibet Aveledo, Prifysgol Bangor University
 @Time Duration:	00:30:25
 @Comment:	Filename: zeledon6.CHA; Soundfile: zeledon6.wav
-@Comment:	Language markers:  @s = Spanish, @s:eng&spa = Undetermined, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng&spa+eng = word with first morpheme(s) undetermined, second morpheme(s) English.
+@Comment:	Language markers:  @s:spa = Spanish, @s:eng&spa = Undetermined, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng&spa+eng = word with first morpheme(s) undetermined, second morpheme(s) English.
 *ABI:	no but seriously there's a lot of mosquitos here all of a sudden . %snd:"zeledon6"_23_1962
-*ABI:	look at all the cigarrettes . %snd:"zeledon6"_1968_3448
+*ABI:	look at all the cigarettes . %snd:"zeledon6"_1968_3448
 *ABI:	wow@s:eng&spa . %snd:"zeledon6"_3433_5412
 *ELL:	+< &= gasp . %snd:"zeledon6"_3433_5412
 *ABI:	ok@s:eng&spa so (.) what else could we talk about ? %snd:"zeledon6"_5397_7406
-*ELL:	+< la@s gente@s fuma@s . %snd:"zeledon6"_7278_8410
+*ELL:	[- spa] +< la gente fuma . %snd:"zeledon6"_7278_8410
 *ABI:	+< <we should> [/] we [/] we should keep a [/] a steady conversation going on . %snd:"zeledon6"_7360_10909
 *ABI:	work how was work today ? %snd:"zeledon6"_10862_12168
-*ABI:	cómo@s fue@s +/ . %snd:"zeledon6"_12161_13392
+*ABI:	[- spa] cómo fue +/ . %snd:"zeledon6"_12161_13392
 *ELL:	+< you were working with me [=! laugh] . %snd:"zeledon6"_13020_15246
 *ABI:	+< I know but you are far away from me . %snd:"zeledon6"_14779_16602
-*ELL:	I know pero@s Laura@s:eng&spa [/] Laura@s:eng&spa . %snd:"zeledon6"_15503_18423
-*ABI:	+< <tú@s estabas@s en@s otra@s> [/] tú@s estabas@s en@s otro@s +.. . %snd:"zeledon6"_16594_18298
+*ELL:	I know pero@s:spa Laura@s:eng&spa [/] Laura@s:eng&spa . %snd:"zeledon6"_15503_18423
+*ABI:	[- spa] +< <tú estabas en otra> [/] tú estabas en otro +.. . %snd:"zeledon6"_16594_18298
 *ELL:	&= moan . %snd:"zeledon6"_18269_18774
-*ABI:	+< mira@s te@s lo@s mataste@s encima@s . %snd:"zeledon6"_18269_19842
+*ABI:	[- spa] +< mira te lo mataste encima . %snd:"zeledon6"_18269_19842
 *ELL:	ahah@s:eng&spa . %snd:"zeledon6"_19852_20903
 *ABI:	+< yeah . %snd:"zeledon6"_19852_20903
-*ELL:	Laura@s:eng&spa (.) cuando@s pasa@s parece@s el@s [/] el@s [/] el@s estómago@s se@s le@s está@s cayendo@s . %snd:"zeledon6"_20892_24450
-*ABI:	por@s qué@s ? %snd:"zeledon6"_24346_25327
+*ELL:	Laura@s:eng&spa (.) cuando@s:spa pasa@s:spa parece@s:spa el@s:spa [/] el@s:spa [/] el@s:spa estómago@s:spa se@s:spa le@s:spa está@s:spa cayendo@s:spa . %snd:"zeledon6"_20892_24450
+*ABI:	[- spa] por qué ? %snd:"zeledon6"_24346_25327
 *ELL:	because her shirt never covers her stomach bro(ther) . %snd:"zeledon6"_25298_28252
 *ELL:	is so annoying . %snd:"zeledon6"_28376_29415
 *ABI:	where you able to do (.) the [/] the job for Jaime@s:eng&spa ? %snd:"zeledon6"_29419_33984
@@ -43,24 +43,24 @@
 *ELL:	is that your teacher ? %snd:"zeledon6"_41744_44135
 *ABI:	oh yeah . %snd:"zeledon6"_44136_46244
 *ABI:	do you +// . %snd:"zeledon6"_46236_47095
-*ELL:	+< se@s va@s ? %snd:"zeledon6"_46236_47095
+*ELL:	[- spa] +< se va ? %snd:"zeledon6"_46236_47095
 *ABI:	no I guess she was gonna meet up with another student . %snd:"zeledon6"_47113_49766
 *ELL:	bye . %snd:"zeledon6"_49737_51432
 *ELL:	&=laugh . %snd:"zeledon6"_51392_53314
 *ABI:	um +.. . %snd:"zeledon6"_53319_54713
-*ELL:	ay@s let's go there . %snd:"zeledon6"_53319_54713
+*ELL:	ay@s:spa let's go there . %snd:"zeledon6"_53319_54713
 *ELL:	because the reason that this is here is (be)cause of the grass . %snd:"zeledon6"_54684_57755
 *ABI:	+< no but +.. . %snd:"zeledon6"_54684_57691
 *ABI:	ok let's move a little bit . %snd:"zeledon6"_57665_59232
 *ELL:	yeah . %snd:"zeledon6"_59249_59702
 *ELL:	don't drop it . %snd:"zeledon6"_59693_61551
-*ELL:	entonces@s (.) xxx is working now . %snd:"zeledon6"_61528_68570
+*ELL:	entonces@s:spa (.) xxx is working now . %snd:"zeledon6"_61528_68570
 *ABI:	but why don't we sit in one of those things ? %snd:"zeledon6"_68554_71369
 *ELL:	because if we are around grass it's gonna be mosquitoes . %snd:"zeledon6"_71318_74215
-*ELL:	<she told me> [/] she [/] ella@s lo@s dijo@s que@s <si@s se@s> [/] si@s se@s vacía@s una@s mesa@s que@s podemos@s ir@s pa(ra)@s allá@s . %snd:"zeledon6"_74160_79258
+*ELL:	<she told me> [/] she [/] ella@s:spa lo@s:spa dijo@s:spa que@s:spa <si@s:spa se@s:spa> [/] si@s:spa se@s:spa vacía@s:spa una@s:spa mesa@s:spa que@s:spa podemos@s:spa ir@s:spa pa(ra)@s:spa allá@s:spa . %snd:"zeledon6"_74160_79258
 *ABI:	+< but the [?] . %snd:"zeledon6"_75630_77447
 *ABI:	ok@s:eng&spa . %snd:"zeledon6"_79243_80102
-*ELL:	el@s lío@s es@s no@s sentarnos@s en@s la@s misma@s mesa@s . %snd:"zeledon6"_80075_82478
+*ELL:	[- spa] el lío es no sentarnos en la misma mesa . %snd:"zeledon6"_80075_82478
 *ABI:	+< look at the xxx . %snd:"zeledon6"_80075_82446
 *ELL:	it's another [?] xxx ? %snd:"zeledon6"_82427_84006
 *ABI:	mmhm . %snd:"zeledon6"_83959_84609
@@ -74,7 +74,7 @@
 *ELL:	anyway . %snd:"zeledon6"_92466_93911
 *ABI:	with anything ? %snd:"zeledon6"_93956_94942
 *ELL:	I think xxx . %snd:"zeledon6"_94939_96947
-*ABI:	no@s y@s todo@s [//] no she doesn't at all . %snd:"zeledon6"_96930_99333
+*ABI:	no@s:spa y@s:spa todo@s:spa [//] no she doesn't at all . %snd:"zeledon6"_96930_99333
 *ABI:	her hair . %snd:"zeledon6"_99339_100268
 *ELL:	+< xxx . %snd:"zeledon6"_99339_100366
 *ELL:	turn [/] let's just turn around . %snd:"zeledon6"_100349_101725
@@ -88,8 +88,8 @@
 *ABI:	Emilio@s:eng&spa is a very +.. . %snd:"zeledon6"_114659_117748
 *ELL:	complicated . %snd:"zeledon6"_117748_118711
 *ABI:	+< long complicated +// . %snd:"zeledon6"_118369_120157
-*ELL:	+< mira@s pa(ra)@s esto@s . %snd:"zeledon6"_118871_119842
-*ELL:	los@s mosquitos@s nos@s están@s siguiendo@s . %snd:"zeledon6"_119797_121028
+*ELL:	[- spa] +< mira pa(ra) esto . %snd:"zeledon6"_118871_119842
+*ELL:	[- spa] los mosquitos nos están siguiendo . %snd:"zeledon6"_119797_121028
 *ELL:	&=moan . %snd:"zeledon6"_120982_121388
 *ABI:	there's mosquitoes everywhere . %snd:"zeledon6"_121382_123106
 *ABI:	I'm [/] I'm wondering if inside there's just mosquitoes like actually inside the building . %snd:"zeledon6"_123103_129647
@@ -122,18 +122,18 @@
 *ELL:	I don't know how Selena@s:eng&spa alw(ays) [/] always governs Laura@s:eng&spa ? %snd:"zeledon6"_169807_173638
 *ABI:	she does ? %snd:"zeledon6"_173563_174352
 *ELL:	she wan(ts) yeah she went to xxx Selena@s:eng&spa . %snd:"zeledon6"_173563_176953
-*ELL:	y@s she [/] she tells me +" . %snd:"zeledon6"_176936_179037
-*ELL:	+" <dile@s a@s Lau(ra)@s:eng&spa> [//] dile@s a@s Selena@s:spa+eng que@s vaya@s a@s almorzar@s . %snd:"zeledon6"_179025_181480
-*ABI:	que@s vaya@s a@s almorzar@s ? %snd:"zeledon6"_181453_182469
+*ELL:	y@s:spa she [/] she tells me +" . %snd:"zeledon6"_176936_179037
+*ELL:	+" <dile@s:spa a@s:spa Lau(ra)@s:eng&spa> [//] dile@s:spa a@s:spa Selena@s:eng&spa que@s:spa vaya@s:spa a@s:spa almorzar@s:spa . %snd:"zeledon6"_179025_181480
+*ABI:	[- spa] que vaya a almorzar ? %snd:"zeledon6"_181453_182469
 *ELL:	yeah so I called her . %snd:"zeledon6"_182438_184423
-*ABI:	+< pero@s Selena@s:eng&spa was eating or ella@s [/] ella@s no@s estaba@s comiendo@s ? %snd:"zeledon6"_183256_185910
+*ABI:	+< pero@s:spa Selena@s:eng&spa was eating or ella@s:spa [/] ella@s:spa no@s:spa estaba@s:spa comiendo@s:spa ? %snd:"zeledon6"_183256_185910
 *ELL:	+< Selena@s:eng&spa was eating right ? %snd:"zeledon6"_185004_186479
 *ELL:	and then she got out of the lunch . %snd:"zeledon6"_186410_187624
 *ELL:	and she was like +" . %snd:"zeledon6"_187607_188275
-*ELL:	+" y@s ahora@s que@s [/] que@s Selena@s:eng&spa coma@s . %snd:"zeledon6"_188246_189732
-*ELL:	+" dile@s que@s venga@s a@s comer@s . %snd:"zeledon6"_189656_190713
-*ELL:	like como@s si@s fuera@s una@s madre@s . %snd:"zeledon6"_190655_192739
-*ABI:	por@s qué@s ? %snd:"zeledon6"_192737_194264
+*ELL:	+" y@s:spa ahora@s:spa que@s:spa [/] que@s:spa Selena@s:eng&spa coma@s:spa . %snd:"zeledon6"_188246_189732
+*ELL:	[- spa] +" dile que venga a comer . %snd:"zeledon6"_189656_190713
+*ELL:	like como@s:spa si@s:spa fuera@s:spa una@s:spa madre@s:spa . %snd:"zeledon6"_190655_192739
+*ABI:	[- spa] por qué ? %snd:"zeledon6"_192737_194264
 *ELL:	I don't know man . %snd:"zeledon6"_194246_195233
 *ELL:	she I [/] I don't like that lady . %snd:"zeledon6"_195088_196336
 *ELL:	that lady like she is always like +// . %snd:"zeledon6"_196332_198445
@@ -143,7 +143,7 @@
 *ABI:	ok . %snd:"zeledon6"_200965_202690
 *ABI:	um <before yes(terday)> [/] before yesterday Iria@s:eng&spa gave me a job to do . %snd:"zeledon6"_202695_208303
 *ELL:	mmhm . %snd:"zeledon6"_208291_208965
-*ABI:	so then I I xxx terminé@s el@s trabajo@s para@s ahí@s sí@s . %snd:"zeledon6"_208955_211659
+*ABI:	so then I I xxx terminé@s:spa el@s:spa trabajo@s:spa para@s:spa ahí@s:spa sí@s:spa . %snd:"zeledon6"_208955_211659
 *ELL:	+< &= sniff . %snd:"zeledon6"_211119_211972
 *ABI:	and then <the next thi(ng)> [/] the next step that I had to do was um divide the patients by their case manager . %snd:"zeledon6"_211955_218455
 *ELL:	mmhm . %snd:"zeledon6"_218386_219088
@@ -151,117 +151,117 @@
 *ABI:	and there was a stack of patients for +.. . %snd:"zeledon6"_222420_224984
 *ELL:	Selena@s:eng&spa . %snd:"zeledon6"_224972_225361
 *ABI:	Selena@s:eng&spa right . %snd:"zeledon6"_225349_226139
-*ABI:	so then lo@s que@s Iria@s:eng&spa me dijo@s que@s haga@s era@s coger@s los@s [/] los@s files de@s [/] de@s Selena@s:eng&spa y@s entregárselos@s a@s su@s case manager (.) a@s Selena@s:eng&spa para@s que@s ella@s los@s file in . %snd:"zeledon6"_226115_236096
+*ABI:	so then lo@s:spa que@s:spa Iria@s:eng&spa me dijo@s:spa que@s:spa haga@s:spa era@s:spa coger@s:spa los@s:spa [/] los@s:spa files de@s:spa [/] de@s:spa Selena@s:eng&spa y@s:spa entregárselos@s:spa a@s:spa su@s:spa case manager (.) a@s:spa Selena@s:eng&spa para@s:spa que@s:spa ella@s:spa los@s:spa file in . %snd:"zeledon6"_226115_236096
 *ABI:	right ? %snd:"zeledon6"_236048_236826
 *ABI:	so and I go to Selena@s:eng&spa . %snd:"zeledon6"_236809_237891
 *ABI:	but the thing was that they were active patients right ? %snd:"zeledon6"_237880_241206
-*ABI:	so then active patients (.) she wanted to follow them@s into their xxx . %snd:"zeledon6"_241189_244886
+*ABI:	so then active patients (.) she wanted to follow them into their xxx . %snd:"zeledon6"_241189_244886
 *ABI:	so I um whether it was built or not built right . %snd:"zeledon6"_244740_250023
 *ABI:	so then all the ones that I had finished were all built . %snd:"zeledon6"_250026_252650
 *ABI:	and they were active . %snd:"zeledon6"_252610_253393
 *ABI:	and they were all built . %snd:"zeledon6"_253353_254189
 *ABI:	so then I went to Selena@s:eng&spa . %snd:"zeledon6"_254189_256191
-*ABI:	y@s yo@s le@s dije@s +" . %snd:"zeledon6"_256250_256894
-*ABI:	+" Selena@s:eng&spa ya estos pacientes están [/] están xxx . %snd:"zeledon6"_256900_260614
-*ABI:	+" <pero@s Iria@s:eng&spa quiere@s> [//] Iria@s:eng&spa me@s [/] me@s pidió@s que@s los@s filees+es en@s su@s xxx . %snd:"zeledon6"_260585_265407
-*ABI:	no@s mentira@s . %snd:"zeledon6"_265293_267249
-*ABI:	habían@s dos@s que@s tenían@s problemas@s . %snd:"zeledon6"_267240_268999
+*ABI:	[- spa] y yo le dije +" . %snd:"zeledon6"_256250_256894
+*ABI:	+" Selena@s:eng&spa ya@s:spa estos@s:spa pacientes@s:spa están@s:spa [/] están@s:spa xxx . %snd:"zeledon6"_256900_260614
+*ABI:	+" <pero@s:spa Iria@s:eng&spa quiere@s:spa> [//] Iria@s:eng&spa me@s:spa [/] me@s:spa pidió@s:spa que@s:spa los@s:spa filees@s:spa+eng en@s:spa su@s:spa xxx . %snd:"zeledon6"_260585_265407
+*ABI:	[- spa] no mentira . %snd:"zeledon6"_265293_267249
+*ABI:	[- spa] habían dos que tenían problemas . %snd:"zeledon6"_267240_268999
 *ABI:	verdad ? %snd:"zeledon6"_268987_269562
 *ELL:	mmhm . %snd:"zeledon6"_269568_270230
-*ABI:	so <yo@s le@s dije@s> [/] yo@s le@s dije@s +" . %snd:"zeledon6"_270225_271461
-*ABI:	+" Selena@s:eng&spa estos@s dos@s tienen@s problemas@s . %snd:"zeledon6"_271438_272999
+*ABI:	so <yo@s:spa le@s:spa dije@s:spa> [/] yo@s:spa le@s:spa dije@s:spa +" . %snd:"zeledon6"_270225_271461
+*ABI:	+" Selena@s:eng&spa estos@s:spa dos@s:spa tienen@s:spa problemas@s:spa . %snd:"zeledon6"_271438_272999
 *ABI:	and I didn't even write on the post_it (.) the problem . %snd:"zeledon6"_272996_275800
 *ABI:	Iria@s:eng&spa wrote it (.) with her handwriting . %snd:"zeledon6"_275740_277562
 *ABI:	and it was simple . %snd:"zeledon6"_277506_279154
 *ABI:	it was a simple simple problem . %snd:"zeledon6"_279160_280571
 *ABI:	<it was> [//] um one of them was to call the nurse and verify that there was a sharp container (.) in the house . %snd:"zeledon6"_280547_287033
-*ABI:	and the other one was um to call the nurse and verify that it was that his [//] her son was still <the hou(se)> [//] the care(giver) [/] caregiver or something like that . %snd:"zeledon6"_287051_296465
+*ABI:	and the other one was um to call the nurse and verify that it was that his [//] her son was still <the hou(se)> [//] the care(giver) [/] care giver or something like that . %snd:"zeledon6"_287051_296465
 *ABI:	very simple . %snd:"zeledon6"_296330_297596
-*ELL:	que@s se@s puede@s hacer@s en@s cinco@s minutos@s . %snd:"zeledon6"_297584_298774
+*ELL:	[- spa] que se puede hacer en cinco minutos . %snd:"zeledon6"_297584_298774
 *ABI:	yeah that you could do it in five minutes . %snd:"zeledon6"_298763_300005
 *ABI:	I understood what Selena@s:eng&spa was telling me . %snd:"zeledon6"_299978_301812
 *ABI:	but that's not my problem because I'm just telling her what Iria@s:eng&spa is telling me to do . %snd:"zeledon6"_301800_305376
-*ABI:	so whatever Selena@s:eng&spa xxx esto@s eran@s como@s diez@s pacientes@s . %snd:"zeledon6"_305354_308709
+*ABI:	so whatever Selena@s:eng&spa xxx esto@s:spa eran@s:spa como@s:spa diez@s:spa pacientes@s:spa . %snd:"zeledon6"_305354_308709
 *ABI:	and out of them [///] all those ten two of them had problems . %snd:"zeledon6"_308692_310840
-*ABI:	y@s le@s dije@s +" . %snd:"zeledon6"_310880_311188
-*ABI:	+" Selena@s:eng&spa estos@s dos@s pacientes@s (.) tienen@s problemas@s . %snd:"zeledon6"_311161_315472
-*ABI:	+" est(e)@s [/] el@s poster@s está@s ahí@s mismo@s explicándote@s el@s problema@s para@s que@s tú@s lo@s puedas@s hacer@s . %snd:"zeledon6"_315443_319069
-*ABI:	entonces@s ella@s me@s mira@s . %snd:"zeledon6"_319040_320393
+*ABI:	[- spa] y le dije +" . %snd:"zeledon6"_310880_311188
+*ABI:	+" Selena@s:eng&spa estos@s:spa dos@s:spa pacientes@s:spa (.) tienen@s:spa problemas@s:spa . %snd:"zeledon6"_311161_315472
+*ABI:	[- spa] +" est(e) [/] el póster está ahí mismo explicándote el problema para que tú lo puedas hacer . %snd:"zeledon6"_315443_319069
+*ABI:	[- spa] entonces ella me mira . %snd:"zeledon6"_319040_320393
 *ABI:	and she goes +" . %snd:"zeledon6"_320388_321474
-*ABI:	+" eh@s y@s por@s qué@s . %snd:"zeledon6"_321458_323484
-*ABI:	+" yo@s no@s entiendo@s por@s qué@s la@s persona@s que@s revisó@s esto@s no@s [/] no@s lo@s hizo@s de@s una@s vez@s . %snd:"zeledon6"_323449_328250
-*ABI:	no@s llamó@s <a@s la@s> [/] al@s que@s resolvió@s el@s problema@s . %snd:"zeledon6"_328243_331029
-*ELL:	mientras@s que@s no@s sea@s ella@s la@s que@s resolvió@s el@s problema@s . %snd:"zeledon6"_331007_333091
+*ABI:	[- spa] +" eh y por qué . %snd:"zeledon6"_321458_323484
+*ABI:	[- spa] +" yo no entiendo por qué la persona que revisó esto no [/] no lo hizo de una vez . %snd:"zeledon6"_323449_328250
+*ABI:	[- spa] no llamó <a la> [/] al que resolvió el problema . %snd:"zeledon6"_328243_331029
+*ELL:	[- spa] mientras que no sea ella la que resolvió el problema . %snd:"zeledon6"_331007_333091
 *ABI:	xxx . %snd:"zeledon6"_333004_333398
 *ABI:	and she goes +" . %snd:"zeledon6"_333381_333665
-*ABI:	+" yo@s no@s entiendo@s por@s qué@s la@s persona@s <que@s tenía@s este@s> [/] <que@s tenía@s este@s> [///] eh@s:eng&spa que@s que@s revisó@s esto@s <no@s me@s ayu(dó)@s> [///] <no@s lo@s rev(isó)@s> [///] no@s lo@s hizo@s . %snd:"zeledon6"_333654_338879
-*ABI:	no@s [/] no@s aregló@s el@s problema@s . %snd:"zeledon6"_338822_340532
-*ABI:	and then it's funny because I should have just been like bueno@s xxx hizo@s eso@s y@s no@s le@s da@s la@s gana@s de@s [/] de@s [/] de@s revisar@s eso@s porque@s ya@s te@s está@s pagando@s a@s ti@s un@s salario@s y@s quiere@s que@s tú@s xxx tú@s eres@s el@s case manager y@s quiere@s que@s el@s case manager lo@s revise@s . %snd:"zeledon6"_340516_350860
+*ABI:	+" yo@s:spa no@s:spa entiendo@s:spa por@s:spa qué@s:spa la@s:spa persona@s:spa <que@s:spa tenía@s:spa este@s:spa> [/] <que@s:spa tenía@s:spa este@s:spa> [///] eh@s:eng&spa que@s:spa que@s:spa revisó@s:spa esto@s:spa <no@s:spa me@s:spa ayu(dó)@s:spa> [///] <no@s:spa lo@s:spa rev(isó)@s:spa> [///] no@s:spa lo@s:spa hizo@s:spa . %snd:"zeledon6"_333654_338879
+*ABI:	[- spa] no [/] no aregló el problema . %snd:"zeledon6"_338822_340532
+*ABI:	and then it's funny because I should have just been like bueno@s:spa xxx hizo@s:spa eso@s:spa y@s:spa no@s:spa le@s:spa da@s:spa la@s:spa gana@s:spa de@s:spa [/] de@s:spa [/] de@s:spa revisar@s:spa eso@s:spa porque@s:spa ya@s:spa te@s:spa está@s:spa pagando@s:spa a@s:spa ti@s:spa un@s:spa salario@s:spa y@s:spa quiere@s:spa que@s:spa tú@s:spa xxx tú@s:spa eres@s:spa el@s:spa case manager y@s:spa quiere@s:spa que@s:spa el@s:spa case manager lo@s:spa revise@s:spa . %snd:"zeledon6"_340516_350860
 *ELL:	+< xxx . %snd:"zeledon6"_350329_351658
 *ABI:	yeah like (be)cause it's true . %snd:"zeledon6"_351631_352641
-*ABI:	I mean yo@s le@s revisé@s xxx . %snd:"zeledon6"_352600_355480
+*ABI:	I mean yo@s:spa le@s:spa revisé@s:spa xxx . %snd:"zeledon6"_352600_355480
 *ABI:	like if Iria@s:eng&spa is telling you +/ . %snd:"zeledon6"_355349_358178
 *ELL:	Iria@s:eng&spa told you +"/ . %snd:"zeledon6"_357385_358175
-*ELL:	+" revisa@s esto@s . %snd:"zeledon6"_358186_359126
-*ELL:	no@s resuelve@s esto@s no@s revi(sa)@s [//] &reci revise@s . %snd:"zeledon6"_359125_362027
-*ABI:	+< xxx exactly because there's a reason that they are the case managers so they could resolver@s los@s problemas@s xxx . %snd:"zeledon6"_359200_365302
+*ELL:	[- spa] +" revisa esto . %snd:"zeledon6"_358186_359126
+*ELL:	[- spa] no resuelve esto no revi(sa) [//] &reci revise . %snd:"zeledon6"_359125_362027
+*ABI:	+< xxx exactly because there's a reason that they are the case managers so they could resolver@s:spa los@s:spa problemas@s:spa xxx . %snd:"zeledon6"_359200_365302
 *ABI:	and not only that . %snd:"zeledon6"_365252_366570
 *ABI:	like if she says she doesn't feel like doing it she doesn't feel like doing it . %snd:"zeledon6"_366553_368718
 *ABI:	she is paying Selena@s:eng&spa a [/] a salary of a case manager so she could solve those problems . %snd:"zeledon6"_368695_373234
 *ABI:	so the reason she's the case manager for the patient . %snd:"zeledon6"_373176_375109
 *ELL:	right . %snd:"zeledon6"_375086_375655
-*ABI:	so ella@s yo@s la@s miro@s . %snd:"zeledon6"_375599_377032
-*ABI:	y@s yo@s le@s dije@s +"/ . %snd:"zeledon6"_377015_377520
-*ABI:	+" no@s sé@s Selena@s:eng&spa . %snd:"zeledon6"_377502_378390
-*ABI:	porque@s the thing is with Selena@s:eng&spa (.) I've already learned to just have patience with her . %snd:"zeledon6"_378390_382199
+*ABI:	so ella@s:spa yo@s:spa la@s:spa miro@s:spa . %snd:"zeledon6"_375599_377032
+*ABI:	[- spa] y yo le dije +"/ . %snd:"zeledon6"_377015_377520
+*ABI:	+" no@s:spa sé@s:spa Selena@s:eng&spa . %snd:"zeledon6"_377502_378390
+*ABI:	porque@s:spa the thing is with Selena@s:eng&spa (.) I've already learned to just have patience with her . %snd:"zeledon6"_378390_382199
 *ABI:	I'm not gonna bitch at her . %snd:"zeledon6"_382129_384051
-*ELL:	+< oh yeah no you can't talk to her if you don't have pacience . %snd:"zeledon6"_382738_385577
+*ELL:	+< oh yeah no you can't talk to her if you don't have patience . %snd:"zeledon6"_382738_385577
 *ABI:	+< I'm not gonna talk back to her . %snd:"zeledon6"_383998_385815
 *ABI:	I'm not gonna talk back to her . %snd:"zeledon6"_385806_387159
 *ABI:	and I'm not gonna bitch at her because there's just no point . %snd:"zeledon6"_387159_388848
 *ABI:	so I go to her um +// . %snd:"zeledon6"_388800_390807
 *ABI:	I looked at her . %snd:"zeledon6"_390778_392078
-*ABI:	yo@s le@s dije@s +"/ . %snd:"zeledon6"_392055_392299
-*ABI:	+" no@s sé@s eh@s no@s sé@s Selena@s:eng&spa esto@s me@s lo@s dio@s +/ . %snd:"zeledon6"_392287_395227
+*ABI:	[- spa] yo le dije +"/ . %snd:"zeledon6"_392055_392299
+*ABI:	+" no@s:spa sé@s:spa eh@s:spa no@s:spa sé@s:spa Selena@s:eng&spa esto@s:spa me@s:spa lo@s:spa dio@s:spa +/ . %snd:"zeledon6"_392287_395227
 *ELL:	+< Selena@s:eng&spa . %snd:"zeledon6"_393254_394299
 *ABI:	xxx all these mosquitoes ! %snd:"zeledon6"_395175_396870
-*ABI:	<esto@s me@s lo@s dio@s> [/] esto@s me@s lo@s dio@s Iria@s:eng&spa . %snd:"zeledon6"_396860_399923
-*ABI:	y@s e(lla)@s [/] ella@s me@s lo@s pasó@s para@s ti@s . %snd:"zeledon6"_399889_401706
-*ABI:	entonces@s ella@s lo@s cogió@s . %snd:"zeledon6"_401701_403396
+*ABI:	<esto@s:spa me@s:spa lo@s:spa dio@s:spa> [/] esto@s:spa me@s:spa lo@s:spa dio@s:spa Iria@s:eng&spa . %snd:"zeledon6"_396860_399923
+*ABI:	[- spa] y e(lla) [/] ella me lo pasó para ti . %snd:"zeledon6"_399889_401706
+*ABI:	[- spa] entonces ella lo cogió . %snd:"zeledon6"_401701_403396
 *ABI:	like she got it from my hand . %snd:"zeledon6"_403399_404486
 *ABI:	and she goes . %snd:"zeledon6"_404480_404933
 *ABI:	she put it to the side [//] completely to the side . %snd:"zeledon6"_404927_406514
 *ABI:	and she goes +"/ . %snd:"zeledon6"_406473_407042
-*ABI:	+" bueno@s I'm not gonna stop when xxx . %snd:"zeledon6"_407020_408882
+*ABI:	+" bueno@s:spa I'm not gonna stop when xxx . %snd:"zeledon6"_407020_408882
 *ELL:	+< xxx . %snd:"zeledon6"_407021_409557
-*ABI:	bueno@s I'm not gonna stop what I'm doing right now (.) to solve this . %snd:"zeledon6"_408899_412150
+*ABI:	bueno@s:spa I'm not gonna stop what I'm doing right now (.) to solve this . %snd:"zeledon6"_408899_412150
 *ABI:	so <this is gonna be> [/] this is gonna be later on whenever I have a chance . %snd:"zeledon6"_412121_414557
-*ABI:	y@s yo@s le@s dije@s +" . %snd:"zeledon6"_414540_414894
-*ABI:	+" no@s no@s no@s sin@s apuro@s Selena@s:eng&spa . %snd:"zeledon6"_414888_416554
-*ABI:	tú@s haz@s eso@s mañana@s por@s la@s mañana@s <when you want> [/] <when you> [/] <when you> [/] when you are más@s calmada@s whenever you want . %snd:"zeledon6"_416558_420674
+*ABI:	[- spa] y yo le dije +" . %snd:"zeledon6"_414540_414894
+*ABI:	+" no@s:spa no@s:spa no@s:spa sin@s:spa apuro@s:spa Selena@s:eng&spa . %snd:"zeledon6"_414888_416554
+*ABI:	tú@s:spa haz@s:spa eso@s:spa mañana@s:spa por@s:spa la@s:spa mañana@s:spa <when you want> [/] <when you> [/] <when you> [/] when you are más@s:spa calmada@s:spa whenever you want . %snd:"zeledon6"_416558_420674
 *ELL:	you're good already . %snd:"zeledon6"_420540_421457
 *ABI:	yeah . %snd:"zeledon6"_421425_421924
 *ABI:	and then I gave her the other eight patients . %snd:"zeledon6"_421922_423925
 *ABI:	and then I go to her xxx . %snd:"zeledon6"_423909_426034
 *ABI:	and then she goes +"/ . %snd:"zeledon6"_425935_426852
 *ELL:	+< ah@s:eng&spa . %snd:"zeledon6"_426283_426905
-*ABI:	+" mal@s trabajo@s . %snd:"zeledon6"_426870_428443
-*ABI:	+" no@s no@s no@s no@s no@s pero@s yo@s no@s entiend(o)@s . %snd:"zeledon6"_428437_429660
+*ABI:	[- spa] +" mal trabajo . %snd:"zeledon6"_426870_428443
+*ABI:	[- spa] +" no no no no no pero yo no entiend(o) . %snd:"zeledon6"_428437_429660
 *ABI:	and I'm like +// . %snd:"zeledon6"_429655_430038
 *ABI:	like I looked at her . %snd:"zeledon6"_430003_430684
 *ABI:	and I'm like +"/ . %snd:"zeledon6"_430684_431004
-*ABI:	+" Selena@s:eng&spa si@s tú@s quieres@s se@s lo@s das@s a@s Pedro@s:eng&spa . %snd:"zeledon6"_430998_432843
+*ABI:	+" Selena@s:eng&spa si@s:spa tú@s:spa quieres@s:spa se@s:spa lo@s:spa das@s:spa a@s:spa Pedro@s:eng&spa . %snd:"zeledon6"_430998_432843
 *ABI:	you know her assistant . %snd:"zeledon6"_432809_433807
 *ABI:	and I was like +"/ . %snd:"zeledon6"_433790_434162
-*ABI:	+" se@s lo@s puede@s dar@s a@s Pedro@s:eng&spa . %snd:"zeledon6"_434179_435287
-*ABI:	+" y@s que@s él@s te@s lo@s filee@s:eng+spa . %snd:"zeledon6"_435284_437008
+*ABI:	+" se@s:spa lo@s:spa puede@s:spa dar@s:spa a@s:spa Pedro@s:eng&spa . %snd:"zeledon6"_434179_435287
+*ABI:	[- spa] +" y que él te lo filee@s:eng+spa . %snd:"zeledon6"_435284_437008
 *ABI:	and then she just turned around . %snd:"zeledon6"_436881_438233
 *ABI:	and she goes +"/ . %snd:"zeledon6"_438221_438546
-*ABI:	+" here Pedro@s:eng&spa veame@s esto@s . %snd:"zeledon6"_438523_440164
-*ELL:	ay@s . %snd:"zeledon6"_440135_440902
-*ABI:	+< <y@s él@s dijo@s> [/] y@s él@s dijo@s . %snd:"zeledon6"_440257_441372
-*ABI:	entonces@s le@s dijo@s así@s Selena@s:eng&spa +"/ . %snd:"zeledon6"_441407_442527
-*ABI:	+" yo@s te@s lo@s hago@s ahora@s . %snd:"zeledon6"_442533_443775
+*ABI:	+" here Pedro@s:eng&spa veame@s:spa esto@s:spa . %snd:"zeledon6"_438523_440164
+*ELL:	[- spa] ay . %snd:"zeledon6"_440135_440902
+*ABI:	[- spa] +< <y él dijo> [/] y él dijo . %snd:"zeledon6"_440257_441372
+*ABI:	entonces@s:spa le@s:spa dijo@s:spa así@s:spa Selena@s:eng&spa +"/ . %snd:"zeledon6"_441407_442527
+*ABI:	[- spa] +" yo te lo hago ahora . %snd:"zeledon6"_442533_443775
 *ABI:	+" or I'll do it for you first thing in the morning . %snd:"zeledon6"_443748_445629
 *ABI:	you know to put it to the side . %snd:"zeledon6"_445611_446707
 *ELL:	mmhm . %snd:"zeledon6"_446394_446887
@@ -271,12 +271,12 @@
 *ABI:	and Clara@s:eng&spa had one patient with one problem . %snd:"zeledon6"_452203_454195
 *ABI:	and I go up to her . %snd:"zeledon6"_454137_455768
 *ABI:	and I'm like +"/ . %snd:"zeledon6"_455798_456367
-*ABI:	+" Clara@s:eng&spa um (.) estos@s eran@s los@s pacientes@s tuyos@s ? %snd:"zeledon6"_456332_460050
-*ABI:	+" y@s éste@s [/] éste@s de@s a(de)lante@s tiene@s algún@s problema@s . %snd:"zeledon6"_460022_462222
+*ABI:	+" Clara@s:eng&spa um (.) estos@s:spa eran@s:spa los@s:spa pacientes@s:spa tuyos@s:spa ? %snd:"zeledon6"_456332_460050
+*ABI:	[- spa] +" y éste [/] éste de a(de)lante tiene algún problema . %snd:"zeledon6"_460022_462222
 *ABI:	and she is like +"/ . %snd:"zeledon6"_462201_463078
-*ABI:	+" a@s ver@s ya@s lo@s leyó@s ? %snd:"zeledon6"_463043_464129
+*ABI:	[- spa] +" a ver ya lo leyó ? %snd:"zeledon6"_463043_464129
 *ABI:	she goes +"/ . %snd:"zeledon6"_464094_464372
-*ABI:	+" ah@s:eng&spa ok@s:eng&spa eso@s es@s facilito@s . %snd:"zeledon6"_464367_465533
+*ABI:	+" ah@s:eng&spa ok@s:eng&spa eso@s:spa es@s:spa facilito@s:spa . %snd:"zeledon6"_464367_465533
 *ABI:	like she handled it with such patience . %snd:"zeledon6"_465521_467390
 *ABI:	xxx the thing is +// . %snd:"zeledon6"_467368_468482
 *ABI:	I think she saw me +.. . %snd:"zeledon6"_468488_470758
@@ -293,23 +293,23 @@
 *ABI:	do you get me ? %snd:"zeledon6"_483524_484505
 *ABI:	so she looks at me . %snd:"zeledon6"_484545_485393
 *ABI:	and she goes +"/ . %snd:"zeledon6"_485387_485759
-*ABI:	+" hay@s uno@s solamente@s . %snd:"zeledon6"_485741_487007
-*ABI:	qué@s bueno@s qué@s bueno@s qué@s bueno@s . %snd:"zeledon6"_486971_488214
+*ABI:	[- spa] +" hay uno solamente . %snd:"zeledon6"_485741_487007
+*ABI:	[- spa] qué bueno qué bueno qué bueno . %snd:"zeledon6"_486971_488214
 *ABI:	and she like clapped her hand . %snd:"zeledon6"_488214_489055
 *ABI:	and then she goes +"/ . %snd:"zeledon6"_489044_489404
-*ABI:	+" qué@s bueno@s qué@s bueno@s . %snd:"zeledon6"_489409_490321
+*ABI:	[- spa] +" qué bueno qué bueno . %snd:"zeledon6"_489409_490321
 *ABI:	and I just laughed . %snd:"zeledon6"_490279_491080
 *ABI:	and she was like +"/ . %snd:"zeledon6"_491091_491376
-*ABI:	+" yeah bueno@s . %snd:"zeledon6"_491368_491844
+*ABI:	+" yeah bueno@s:spa . %snd:"zeledon6"_491368_491844
 *ABI:	um and here is the other +/ . %snd:"zeledon6"_491838_492993
-*ABI:	and [//] y@s entonces@s esto(s)@s esto(s)@s otros@s no@s tienen@s problemas@s . %snd:"zeledon6"_493005_495811
-*ABI:	pero@s xxx Iria@s:eng&spa quiere@s que@s tú@s lo@s filees@s:eng+spa en@s los@s xxx . %snd:"zeledon6"_495800_499611
+*ABI:	and [//] y@s:spa entonces@s:spa esto(s)@s:spa esto(s)@s:spa otros@s:spa no@s:spa tienen@s:spa problemas@s:spa . %snd:"zeledon6"_493005_495811
+*ABI:	pero@s:spa xxx Iria@s:eng&spa quiere@s:spa que@s:spa tú@s:spa lo@s:spa filees@s:eng+spa en@s:spa los@s:spa xxx . %snd:"zeledon6"_495800_499611
 *ABI:	and she goes +"/ . %snd:"zeledon6"_499572_499984
-*ABI:	+" ok@s:eng&spa mamita@s . %snd:"zeledon6"_499989_500535
+*ABI:	+" ok@s:eng&spa mamita@s:spa . %snd:"zeledon6"_499989_500535
 *ABI:	+" xxx I'll do it right now . %snd:"zeledon6"_500483_501446
 *ABI:	+" it's no problem . %snd:"zeledon6"_501419_502243
 *ABI:	and then like (.) today I had given her +.. . %snd:"zeledon6"_502197_505444
-*ABI:	because I &re [//] terminé@s de@s revisar@s like two more patients . %snd:"zeledon6"_505434_507988
+*ABI:	because I &re [//] terminé@s:spa de@s:spa revisar@s:spa like two more patients . %snd:"zeledon6"_505434_507988
 *ABI:	I finished (.) reviewing two more patients . %snd:"zeledon6"_507931_511044
 *ABI:	and I gave her (.) the rest . %snd:"zeledon6"_511044_512940
 *ABI:	oh my god people keep calling my cell phone ! %snd:"zeledon6"_512953_514991
@@ -318,7 +318,7 @@
 %com:	phone rings.
 *ABI:	bye . %snd:"zeledon6"_521876_525655
 *ABI:	so then um +.. . %snd:"zeledon6"_525645_528397
-*ELL:	+< no@s le@s digas@s que@s estás@s conmigo@s que@s quiere@s venir@s pa(ra)@s acá@s &= laugh . %snd:"zeledon6"_527606_530492
+*ELL:	+< no@s:spa le@s:spa digas@s:spa que@s:spa estás@s:spa conmigo@s:spa que@s:spa quiere@s:spa venir@s:spa pa(ra)@s:spa acá@s:spa &= laugh . %snd:"zeledon6"_527606_530492
 *ABI:	+< no@s:eng&spa . %snd:"zeledon6"_529888_530555
 *ABI:	no I [/] I don't know . %snd:"zeledon6"_530538_531735
 *ABI:	she [/] she picked up the phone . %snd:"zeledon6"_531723_532623
@@ -326,45 +326,45 @@
 *ABI:	+" you have to call me . %snd:"zeledon6"_532843_533673
 *ABI:	and I was like +"/ . %snd:"zeledon6"_533678_534503
 *ABI:	+" let me ask if it was an emergency . %snd:"zeledon6"_534485_536157
-*ABI:	entonces@s um (.) she [/] she handled it completely fine . %snd:"zeledon6"_536159_540843
+*ABI:	entonces@s:spa um (.) she [/] she handled it completely fine . %snd:"zeledon6"_536159_540843
 *ABI:	and then I gave her a xxx . %snd:"zeledon6"_540797_541691
 *ABI:	I gave her (.) some things to do today (.) to Clara@s:eng&spa . %snd:"zeledon6"_541679_544397
 *ABI:	and she said +"/ . %snd:"zeledon6"_544387_545327
-*ABI:	+" sí@s mamita@s <dame@s a@s mi@s to(do)@s> [/] dame@s a@s mí@s todo@s lo@s que@s tiene@s que@s ver@s con@s mis@s pacientes@s que@s yo@s prefiero@s tenerlos@s en@s el@s xxx . %snd:"zeledon6"_545336_549790
-*ABI:	+" <y@s yo@s> [/] y@s yo@s tenerlo@s aquí@s todo@s . %snd:"zeledon6"_549714_551392
+*ABI:	[- spa] +" sí mamita <dame a mi to(do)> [/] dame a mí todo lo que tiene que ver con mis pacientes que yo prefiero tenerlos en el xxx . %snd:"zeledon6"_545336_549790
+*ABI:	[- spa] +" <y yo> [/] y yo tenerlo aquí todo . %snd:"zeledon6"_549714_551392
 *ABI:	like Clara@s:eng&spa handled everything so perfectly and smooth . %snd:"zeledon6"_551390_554506
 *ELL:	yeah but every time +"/ . %snd:"zeledon6"_554424_555510
-*ELL:	siempre@s me@s pasa@s lo@s mismo@s . %snd:"zeledon6"_555512_556749
+*ELL:	[- spa] siempre me pasa lo mismo . %snd:"zeledon6"_555512_556749
 *ELL:	<if I give something> [//] if I xxx +// . %snd:"zeledon6"_556702_558074
 *ABI:	Abigail@s:eng&spa is it an emergency ? %snd:"zeledon6"_557726_559177
 *ABI:	then what happened ? %snd:"zeledon6"_559176_562071
-*ABI:	bueno@s xxx . %snd:"zeledon6"_562070_564472
+*ABI:	[- spa] bueno xxx . %snd:"zeledon6"_562070_564472
 *ELL:	and everytime I give +"/ . %snd:"zeledon6"_564440_568545
 %com:	background noise .
 *ELL:	+, Clara@s:eng&spa something . %snd:"zeledon6"_568539_569659
 *ELL:	she is always like +"/ . %snd:"zeledon6"_569625_570199
-*ELL:	+" ah@s:eng&spa ok@s:eng&spa ok@s:eng&spa <ya@s lo@s escribo@s aquí@s> [/] ya@s lo@s escribo@s aquí@s . %snd:"zeledon6"_570188_572167
+*ELL:	+" ah@s:eng&spa ok@s:eng&spa ok@s:eng&spa <ya@s:spa lo@s:spa escribo@s:spa aquí@s:spa> [/] ya@s:spa lo@s:spa escribo@s:spa aquí@s:spa . %snd:"zeledon6"_570188_572167
 *ELL:	+" thank you Ella@s:eng&spa . %snd:"zeledon6"_572127_572928
-*ELL:	ay@s xxx estoy@s ahogada@s . %snd:"zeledon6"_572944_576201
-*ABI:	+< xxx problemas@s xxx . %snd:"zeledon6"_572944_576195
-*ELL:	xxx a@s hablar@s . %snd:"zeledon6"_576172_576625
-*ELL:	y@s te@s preocupa@s por@s sus@s problemas@s . %snd:"zeledon6"_576602_578070
+*ELL:	[- spa] ay xxx estoy ahogada . %snd:"zeledon6"_572944_576201
+*ABI:	[- spa] +< xxx problemas xxx . %snd:"zeledon6"_572944_576195
+*ELL:	[- spa] xxx a hablar . %snd:"zeledon6"_576172_576625
+*ELL:	[- spa] y te preocupa por sus problemas . %snd:"zeledon6"_576602_578070
 *ELL:	xxx . %snd:"zeledon6"_578146_579225
-*ABI:	+< y@s estoy@s ahogada@s . %snd:"zeledon6"_578146_580206
-*ELL:	+< xxx tengo@s que@s hacer@s eso@s . %snd:"zeledon6"_578831_581314
-*ABI:	+< pero@s if he is the ca(se) +/ . %snd:"zeledon6"_581301_582317
-*ELL:	+< xxx él@s [/] él@s no@s trabaja@s . %snd:"zeledon6"_581423_583124
-*ABI:	pero@s she is the case manager for those patients . %snd:"zeledon6"_583083_585119
+*ABI:	[- spa] +< y estoy ahogada . %snd:"zeledon6"_578146_580206
+*ELL:	[- spa] +< xxx tengo que hacer eso . %snd:"zeledon6"_578831_581314
+*ABI:	+< pero@s:spa if he is the ca(se) +/ . %snd:"zeledon6"_581301_582317
+*ELL:	[- spa] +< xxx él [/] él no trabaja . %snd:"zeledon6"_581423_583124
+*ABI:	pero@s:spa she is the case manager for those patients . %snd:"zeledon6"_583083_585119
 *ABI:	she is the case manager for those patients . %snd:"zeledon6"_585117_586980
 *ELL:	+< for those patients . %snd:"zeledon6"_585935_587003
 *ABI:	that's what she has her salary for . %snd:"zeledon6"_586959_588108
 *ABI:	that's what she's getting paid for so she needs to do her job . %snd:"zeledon6"_588038_590465
-*ABI:	just because she gets atareada@s just a little bit too much . %snd:"zeledon6"_590446_593596
+*ABI:	just because she gets atareada@s:spa just a little bit too much . %snd:"zeledon6"_590446_593596
 *ABI:	she like she does oh@s:eng&spa a little bit more work than [/] than normal . %snd:"zeledon6"_593542_595967
 *ABI:	she already like <she gets at> [//] she is I don't know she's [/] she's learned to not be as rude . %snd:"zeledon6"_595941_600438
 *ABI:	but she's pretty rude . %snd:"zeledon6"_600397_601692
 *ELL:	I get she likes things her way . %snd:"zeledon6"_601691_604512
-*ELL:	and <se@s hun(de)@s> [/] se@s hunde@s en@s un@s vaso@s de@s agua@s si@s [//] if [/] if it's not her way . %snd:"zeledon6"_604505_608696
+*ELL:	and <se@s:spa hun(de)@s:spa> [/] se@s:spa hunde@s:spa en@s:spa un@s:spa vaso@s:spa de@s:spa agua@s:spa si@s:spa [//] if [/] if it's not her way . %snd:"zeledon6"_604505_608696
 *ABI:	yeah she's very rude . %snd:"zeledon6"_608633_611769
 *ELL:	she has to learn how to treat people because like everybody everybody after I hear Selena@s:eng&spa scream they come out through [/] through the xxx . %snd:"zeledon6"_611752_620121
 *ABI:	+< did you see what happened today in the morning ? %snd:"zeledon6"_619622_621596
@@ -373,44 +373,44 @@
 *ABI:	you remember in the morning when you and me were sitting in the front ? %snd:"zeledon6"_622828_624870
 *ELL:	+< &= sniff . %snd:"zeledon6"_622828_624823
 *ABI:	and an xxx goes +"/ . %snd:"zeledon6"_624885_626348
-*ABI:	+" puedo@s [///] <tengo@s que@s oir@s> [///] tengo@s que@s ver@s a@s xxx . %snd:"zeledon6"_626343_628497
-*ABI:	+" puedo@s entrar@s ? %snd:"zeledon6"_628480_629066
+*ABI:	[- spa] +" puedo [///] <tengo que oir> [///] tengo que ver a xxx . %snd:"zeledon6"_626343_628497
+*ABI:	[- spa] +" puedo entrar ? %snd:"zeledon6"_628480_629066
 *ABI:	remember that lady ? %snd:"zeledon6"_629054_630343
 *ELL:	+< oh@s:eng&spa yeah . %snd:"zeledon6"_629673_630289
 *ELL:	yeah the law lady . %snd:"zeledon6"_630272_631218
 *ABI:	+< she went in +// . %snd:"zeledon6"_630789_631456
-*ABI:	bueno@s she went in . %snd:"zeledon6"_631445_632292
+*ABI:	bueno@s:spa she went in . %snd:"zeledon6"_631445_632292
 *ABI:	and then like five minutes I went in also because I had to give something to Rosa@s:eng&spa [/] to xxx . %snd:"zeledon6"_632352_636979
 *ABI:	so I went in . %snd:"zeledon6"_636986_637584
 *ABI:	and I gave something to xxx whatever . %snd:"zeledon6"_637607_638768
 *ABI:	and they were talking . %snd:"zeledon6"_638776_639507
 *ABI:	but they were talking kind of loud . %snd:"zeledon6"_639560_640645
-*ABI:	and then like two minutes later I go back into for a fax . %snd:"zeledon6"_640664_643323
+*ABI:	and then like two minutes later I go back into for a fax@s:eng&spa . %snd:"zeledon6"_640664_643323
 *ABI:	and Maria@s:eng&spa and xxx were at it . %snd:"zeledon6"_643342_646082
 *ABI:	like they are screaming at each other . %snd:"zeledon6"_646554_648170
 *ELL:	so Marta@s:eng&spa and Maria@s:eng&spa have been at it . %snd:"zeledon6"_647965_649872
-*ELL:	el@s gato@s and Maria@s:eng&spa have been at it . %snd:"zeledon6"_649855_651330
+*ELL:	el@s:spa gato@s:spa and Maria@s:eng&spa have been at it . %snd:"zeledon6"_649855_651330
 *ELL:	Martin@s:eng&spa and Maria@s:eng&spa have been at it . %snd:"zeledon6"_651337_652922
 *ELL:	everybody has been at it with Maria@s:eng&spa because she just doesn't know how to handle situations . %snd:"zeledon6"_652908_656556
 *ABI:	including me <when that time> [/] when that time that she +.. . %snd:"zeledon6"_656571_659355
-*ELL:	oh@s:eng&spa yeah Maria@s:eng&spa and I had never been at it because from the beginning I knew that with that lady you have to have a little bit more than paciencia@s than everybody else . %snd:"zeledon6"_659386_667484
+*ELL:	oh@s:eng&spa yeah Maria@s:eng&spa and I had never been at it because from the beginning I knew that with that lady you have to have a little bit more than paciencia@s:spa than everybody else . %snd:"zeledon6"_659386_667484
 *ABI:	+< she's rude . %snd:"zeledon6"_660802_661794
 *ABI:	she's rude . %snd:"zeledon6"_667476_669595
 *ABI:	I think she's very rude . %snd:"zeledon6"_669594_671307
 *ELL:	I think she just never learned people skills . %snd:"zeledon6"_671307_673884
 *ABI:	people skills ? %snd:"zeledon6"_673913_675602
-*ELL:	yeah (be)cause when somebody cuando@s +.. . %snd:"zeledon6"_675683_677680
+*ELL:	yeah (be)cause when somebody cuando@s:spa +.. . %snd:"zeledon6"_675683_677680
 *ABI:	+< exactly . %snd:"zeledon6"_677396_677953
 *ABI:	it's about no matter how mad you are you hold in your anger . %snd:"zeledon6"_677953_682042
-*ABI:	and you have some sort of modales@s . %snd:"zeledon6"_682007_684385
+*ABI:	and you have some sort of modales@s:spa . %snd:"zeledon6"_682007_684385
 *ABI:	do you get me ? %snd:"zeledon6"_684396_685389
-*ABI:	you have modales like you xxx office . %snd:"zeledon6"_685414_688810
+*ABI:	you have modales@s:spa like you xxx office . %snd:"zeledon6"_685414_688810
 *ABI:	xxx your coworkers . %snd:"zeledon6"_688808_689905
 *ABI:	xxx screaming at people . %snd:"zeledon6"_689934_691838
-*ELL:	+< exactly tú@s tienes@s que@s convivir@s con@s la@s misma@s gente@s so why would you get in a fight with them or whatever ? %snd:"zeledon6"_690066_694737
+*ELL:	+< exactly tú@s:spa tienes@s:spa que@s:spa convivir@s:spa con@s:spa la@s:spa misma@s:spa gente@s:spa so why would you get in a fight with them or whatever ? %snd:"zeledon6"_690066_694737
 *ABI:	+< exactly before [/] before [/] before you scream you could just talk . %snd:"zeledon6"_690066_696488
 *ELL:	and it's not that xxx . %snd:"zeledon6"_696517_697730
-*ELL:	remember when Annie@s:eng&spa was her (.) asistente@s . %snd:"zeledon6"_697736_700389
+*ELL:	remember when Annie@s:eng&spa was her (.) asistente@s:spa . %snd:"zeledon6"_697736_700389
 *ABI:	but do you think these people xxx . %snd:"zeledon6"_700412_701971
 *ABI:	everything's +// . %snd:"zeledon6"_701988_702401
 *ABI:	xxx . %snd:"zeledon6"_702418_703811
@@ -429,12 +429,12 @@
 *ELL:	let's go in the class then . %snd:"zeledon6"_717858_719007
 *ELL:	um +.. . %snd:"zeledon6"_718996_719750
 *ABI:	+< I think she's not in the class . %snd:"zeledon6"_718996_720313
-*ELL:	tú@s te@s acuerdas@s when Annie@s:eng&spa was Maria's@s:eng&spa+eng case manager assistant ? %snd:"zeledon6"_720081_723610
+*ELL:	tú@s:spa te@s:spa acuerdas@s:spa when Annie@s:eng&spa was Maria's@s:eng&spa+eng case manager assistant ? %snd:"zeledon6"_720081_723610
 *ABI:	yeah . %snd:"zeledon6"_723585_724148
 *ELL:	that Maria@s:eng&spa was screaming every five seconds . %snd:"zeledon6"_723968_725686
 *ABI:	+< to [/] to [/] to Annie@s:eng&spa ? %snd:"zeledon6"_725681_727596
-*ELL:	+< yeah pero@s now she doesn't scream as much because she's talking to Jose@s:eng&spa . %snd:"zeledon6"_726278_730313
-*ELL:	she knows que@s se@s tiene@s que@s aguantar@s la@s lengua@s because Jose's@s:eng&spa+eng a grown man . %snd:"zeledon6"_730307_733180
+*ELL:	+< yeah pero@s:spa now she doesn't scream as much because she's talking to Jose@s:eng&spa . %snd:"zeledon6"_726278_730313
+*ELL:	she knows que@s:spa se@s:spa tiene@s:spa que@s:spa aguantar@s:spa la@s:spa lengua@s:spa because Jose's@s:eng&spa+eng a grown man . %snd:"zeledon6"_730307_733180
 *ABI:	of course . %snd:"zeledon6"_733190_734165
 *ELL:	+< do you get me ? %snd:"zeledon6"_733190_734142
 *ELL:	but it's not even +/ . %snd:"zeledon6"_734136_734960
@@ -452,8 +452,8 @@
 *ABI:	from nine to five that person is your coworker . %snd:"zeledon6"_749451_751703
 *ELL:	and it's not even that . %snd:"zeledon6"_751682_753145
 *ABI:	+< <they are not your> [//] they are not anything . %snd:"zeledon6"_752140_754178
-*ELL:	regardless it's like if [//] si@s yo@s fuera@s Annie@s:eng&spa I would look at her and be like +"/ . %snd:"zeledon6"_754174_758112
-*ELL:	+" tú@s crees@s que@s me@s puedas@s hablar@s a@s mí@s como@s si@s fuera@s persona@s please . %snd:"zeledon6"_758112_761798
+*ELL:	regardless it's like if [//] si@s:spa yo@s:spa fuera@s:spa Annie@s:eng&spa I would look at her and be like +"/ . %snd:"zeledon6"_754174_758112
+*ELL:	+" tú@s:spa crees@s:spa que@s:spa me@s:spa puedas@s:spa hablar@s:spa a@s:spa mí@s:spa como@s:spa si@s:spa fuera@s:spa persona@s:spa please . %snd:"zeledon6"_758112_761798
 *ELL:	honestly . %snd:"zeledon6"_761776_764267
 *ABI:	+< xxx er um but there's a lot of mosquitoes outside . %snd:"zeledon6"_763210_768059
 *ELL:	I know like we're getting bitten . %snd:"zeledon6"_768088_769893
@@ -475,8 +475,8 @@
 *ELL:	yeah . %snd:"zeledon6"_790579_791485
 *ABI:	+< yeah . %snd:"zeledon6"_790579_791485
 *ABI:	uhuh so <what were> [/] what were we saying ? %snd:"zeledon6"_791525_794608
-*ELL:	no that when Annie@s:eng&spa was her [/] her assistant her case manaager que Maria@s:eng&spa every five minutes +"/ . %snd:"zeledon6"_794618_801518
-*ELL:	+" ay@s Marie@s:eng&spa &=screaming . %snd:"zeledon6"_801537_803354
+*ELL:	no that when Annie@s:eng&spa was her [/] her assistant her case manager que@s:spa Maria@s:eng&spa every five minutes +"/ . %snd:"zeledon6"_794618_801518
+*ELL:	+" ay@s:spa Marie@s:eng&spa &=screaming . %snd:"zeledon6"_801537_803354
 *ABI:	+< she [/] she always . %snd:"zeledon6"_802953_804474
 *ELL:	+< she always screams . %snd:"zeledon6"_802953_804584
 *ELL:	and it's just like you have to learn how to talk to people . %snd:"zeledon6"_804538_807107
@@ -485,25 +485,25 @@
 *ABI:	+< I feel bad now . %snd:"zeledon6"_810442_811962
 *ABI:	whatever . %snd:"zeledon6"_812057_812701
 *ELL:	if I was in Marie's@s:eng&spa+eng shoes I would look at her and be like +"/ . %snd:"zeledon6"_812736_814588
-*ELL:	+" Maria@s:eng&spa tú@s crees@s que@s tú@s me@s puedas@s hablar@s a@s mí@s como@s una@s persona@s por@s favor@s ? %snd:"zeledon6"_814605_817314
-*ELL:	no@s tiene@s que@s gritarme@s . %snd:"zeledon6"_817302_819984
-*ABI:	+< because they are a persona@s . %snd:"zeledon6"_817651_819125
+*ELL:	+" Maria@s:eng&spa tú@s:spa crees@s:spa que@s:spa tú@s:spa me@s:spa puedas@s:spa hablar@s:spa a@s:spa mí@s:spa como@s:spa una@s:spa persona@s:spa por@s:spa favor@s:spa ? %snd:"zeledon6"_814605_817314
+*ELL:	[- spa] no tiene que gritarme . %snd:"zeledon6"_817302_819984
+*ABI:	+< because they are a persona@s:spa . %snd:"zeledon6"_817651_819125
 *ELL:	exactly . %snd:"zeledon6"_819177_820025
 *ELL:	like the one time that Maria@s:eng&spa has +// . %snd:"zeledon6"_820040_822081
 *ABI:	+< you can sit here . %snd:"zeledon6"_821553_822645
 *ELL:	you've never heard Maria@s:eng&spa scream at me . %snd:"zeledon6"_822662_824533
-*ELL:	and the one time that Maria@s:eng&spa screamed at me was porque@s she was trying to [/] to printear@s:eng+spa un@s xxx order . %snd:"zeledon6"_824510_831497
-*ELL:	y@s yo@s estaba@s faxeando@s:eng+spa . %snd:"zeledon6"_831375_832623
+*ELL:	and the one time that Maria@s:eng&spa screamed at me was porque@s:spa she was trying to [/] to printear@s:eng+spa un@s:spa xxx order . %snd:"zeledon6"_824510_831497
+*ELL:	[- spa] y yo estaba faxeando@s:eng+spa . %snd:"zeledon6"_831375_832623
 *ELL:	so she's like +/ . %snd:"zeledon6"_832629_833534
 *ABI:	+< ah . %snd:"zeledon6"_832629_833534
-*ELL:	so she was like ay@s . %snd:"zeledon6"_833546_835560
+*ELL:	so she was like ay@s:spa . %snd:"zeledon6"_833546_835560
 *ABI:	+< ah oh yeah she does that all the time . %snd:"zeledon6"_833546_835560
-*ELL:	+" ay@s yo@s tengo@s que@s printear+es aquí . %snd:"zeledon6"_835568_837373
+*ELL:	[- spa] +" ay@s:spa yo@s:spa tengo@s:spa que@s:spa printear@s:eng+spa . %snd:"zeledon6"_835568_837373
 *ELL:	and I was like +"/ . %snd:"zeledon6"_837352_837950
-*ELL:	+" sí@s sí@s esperate@s un@s momentito@s . %snd:"zeledon6"_837942_838963
-*ELL:	+" déjame@s mandar@s este@s fax@s . %snd:"zeledon6"_838967_840227
-*ABI:	terminar@s de@s [/] de@s mandar@s este@s fax@s exactly@s . %snd:"zeledon6"_839314_841781
-*ELL:	yeah@s and then she was like +"/ . %snd:"zeledon6"_841134_842621
+*ELL:	[- spa] +" sí sí esperate un momentito . %snd:"zeledon6"_837942_838963
+*ELL:	+" déjame@s:spa mandar@s:spa este@s:spa fax@s:eng&spa . %snd:"zeledon6"_838967_840227
+*ABI:	terminar@s:spa de@s:spa [/] de@s:spa mandar@s:spa este@s:spa fax@s:eng&spa exactly . %snd:"zeledon6"_839314_841781
+*ELL:	yeah@s:spa and then she was like +"/ . %snd:"zeledon6"_841134_842621
 *ELL:	+" no no no no no no . %snd:"zeledon6"_842634_844137
 *ELL:	and I'm like +"/ . %snd:"zeledon6"_844184_844985
 *ELL:	+" Maria@s:eng&spa ! %snd:"zeledon6"_844996_845623
@@ -513,29 +513,29 @@
 *ELL:	I looked at her . %snd:"zeledon6"_847756_848313
 *ELL:	and I was like +"/ . %snd:"zeledon6"_848290_848667
 *ELL:	+" Maria@s:eng&spa . %snd:"zeledon6"_848678_850025
-*ABI:	esto@s es@s un@s momento@s . %snd:"zeledon6"_850037_850728
-*ABI:	es@s dos@s minutos@s más@s . %snd:"zeledon6"_850680_852125
+*ABI:	[- spa] esto es un momento . %snd:"zeledon6"_850037_850728
+*ABI:	[- spa] es dos minutos más . %snd:"zeledon6"_850680_852125
 *ELL:	+< no no no no . %snd:"zeledon6"_850680_852205
 *ELL:	I was like +"/ . %snd:"zeledon6"_852208_853021
-*ELL:	Maria@s:eng&spa tú@s sabes@s que@s yo@s te@s entiendo@s más@s cuando@s tú@3 me@s estás@s hablando@s . %snd:"zeledon6"_853033_856243
-*ELL:	cuando@s tú@s me@s gritas@s no@s sé@s qué@s me@s pasa@s en@s la@s mente@s que@s te@s bloqueo@s completamente@s . %snd:"zeledon6"_856250_859605
+*ELL:	Maria@s:eng&spa tú@s:spa sabes@s:spa que@s:spa yo@s:spa te@s:spa entiendo@s:spa más@s:spa cuando@s:spa tú@s:spa me@s:spa estás@s:spa hablando@s:spa . %snd:"zeledon6"_853033_856243
+*ELL:	[- spa] cuando tú me gritas no sé qué me pasa en la mente que te bloqueo completamente . %snd:"zeledon6"_856250_859605
 *ABI:	you told her that ? %snd:"zeledon6"_859623_860209
 *ELL:	yeah . %snd:"zeledon6"_860271_860764
 *ABI:	what did she say to you ? %snd:"zeledon6"_860735_862109
 *ELL:	no that she was just like +/ . %snd:"zeledon6"_0_0
-*ELL:	bueno@s que@s cuando@s termine@s . %snd:"zeledon6"_863498_864764
-*ABI:	mira@s you brought a mosquito with you . %snd:"zeledon6"_864781_866209
+*ELL:	[- spa] bueno que cuando termine . %snd:"zeledon6"_863498_864764
+*ABI:	mira@s:spa you brought a mosquito with you . %snd:"zeledon6"_864781_866209
 *ELL:	I know . %snd:"zeledon6"_866232_867527
 *ELL:	I'm allergic to mosquitoes . %snd:"zeledon6"_867550_868775
-*ELL:	I'm gonna have grey manchas@s all over myself right now . %snd:"zeledon6"_868806_871180
+*ELL:	I'm gonna have grey manchas@s:spa all over myself right now . %snd:"zeledon6"_868806_871180
 *ABI:	um +.. . %snd:"zeledon6"_871157_872416
 *ELL:	and then that's it . %snd:"zeledon6"_872461_873720
 *ELL:	and you've never ever ever heard Maria@s:eng&spa screaming . %snd:"zeledon6"_873715_876379
-*ABI:	she's gotten better because Maria@s:eng&spa antes@s it was with everyone . %snd:"zeledon6"_876377_880343
+*ABI:	she's gotten better because Maria@s:eng&spa antes@s:spa it was with everyone . %snd:"zeledon6"_876377_880343
 *ABI:	Maria@s:eng&spa had a problem with everyone at work . %snd:"zeledon6"_880355_882590
-*ELL:	este@s mosquito@s +.. . %snd:"zeledon6"_882590_884819
-*ABI:	está@s detrás@s de@s ti@s . %snd:"zeledon6"_884860_885875
-*ELL:	quiere@s ser@s mi@s hermano@s . %snd:"zeledon6"_885887_888841
+*ELL:	[- spa] este mosquito +.. . %snd:"zeledon6"_882590_884819
+*ABI:	[- spa] está detrás de ti . %snd:"zeledon6"_884860_885875
+*ELL:	[- spa] quiere ser mi hermano . %snd:"zeledon6"_885887_888841
 *ABI:	+< you know you're dressed in black . %snd:"zeledon6"_885887_887448
 *ABI:	black attracts more mosquitoes . %snd:"zeledon6"_887429_889077
 *ABI:	&dra black attracts mosquitoes . %snd:"zeledon6"_889100_891115
@@ -546,33 +546,33 @@
 *ABI:	you are black . %snd:"zeledon6"_897380_898837
 *ELL:	I know I have one here now xxx . %snd:"zeledon6"_898814_901542
 *ELL:	I have one everywhere see . %snd:"zeledon6"_901553_903765
-*ELL:	soy@s alérgica@s . %snd:"zeledon6"_903769_906335
+*ELL:	[- spa] soy alérgica . %snd:"zeledon6"_903769_906335
 *ELL:	in Cuba@s:eng&spa it was really bad . %snd:"zeledon6"_906347_907943
 *ELL:	when I used to live in Cuba@s:eng&spa when I was a little girl . %snd:"zeledon6"_907926_910451
 *ABI:	mmhm . %snd:"zeledon6"_910406_911097
-*ELL:	ronchas@s <all over> [/] <all over> [/] all over my legs xxx . %snd:"zeledon6"_910812_914222
-*ABI:	but in Cuba@s:eng&spa and [/] and [/] and those countries there's a lot more mosquitoes because todo@s es@s [/] there's not [//] there [//] places are not A_C@s:eng&spa . %snd:"zeledon6"_914204_920644
+*ELL:	ronchas@s:spa <all over> [/] <all over> [/] all over my legs xxx . %snd:"zeledon6"_910812_914222
+*ABI:	but in Cuba@s:eng&spa and [/] and [/] and those countries there's a lot more mosquitoes because todo@s:spa es@s:spa [/] there's not [//] there [//] places are not A_C@s:eng&spa . %snd:"zeledon6"_914204_920644
 *ABI:	everything is with the windows open . %snd:"zeledon6"_920632_921990
 *ABI:	and then all mosquitoes come in . %snd:"zeledon6"_922008_923552
 *ELL:	yeah . %snd:"zeledon6"_923567_924867
-*ABI:	did you have a mosquitero@s (.) in your bedroom ? %snd:"zeledon6"_924856_927213
-*ELL:	+< yeah I had a mosquitero@s in my bedroom . %snd:"zeledon6"_926545_928670
+*ABI:	did you have a mosquitero@s:spa (.) in your bedroom ? %snd:"zeledon6"_924856_927213
+*ELL:	+< yeah I had a mosquitero@s:spa in my bedroom . %snd:"zeledon6"_926545_928670
 *ABI:	in your bedroom ? %snd:"zeledon6"_927990_928948
 *ELL:	yeah . %snd:"zeledon6"_928873_929598
-*ELL:	I wanted to walk around the mosquitero@s twenty four seven . %snd:"zeledon6"_929573_932162
+*ELL:	I wanted to walk around the mosquitero@s:spa twenty four seven . %snd:"zeledon6"_929573_932162
 *ABI:	+< did that get hot ? %snd:"zeledon6"_929573_932214
 *ABI:	did that get hot ? %snd:"zeledon6"_932249_933073
 *ELL:	yeah nights in Cuba@s:eng&spa are hot . %snd:"zeledon6"_933073_934484
 *ELL:	unless [/] unless you open a window . %snd:"zeledon6"_934478_936335
 *ELL:	and you let more mosquitoes come in . %snd:"zeledon6"_936312_937578
 *ELL:	but you still get air . %snd:"zeledon6"_937607_938803
-*ABI:	but with the mosquitero@s do you +.. . %snd:"zeledon6"_938825_941246
+*ABI:	but with the mosquitero@s:spa do you +.. . %snd:"zeledon6"_938825_941246
 *ELL:	not really . %snd:"zeledon6"_941304_941676
 *ABI:	does the air go through ? %snd:"zeledon6"_941676_942721
 *ELL:	not really . %snd:"zeledon6"_942718_943792
 *ELL:	I don't [/] I don't +.. . %snd:"zeledon6"_943862_945441
 *ELL:	xxx . %snd:"zeledon6"_945487_946271
-*ABI:	+< does it get any hotter with the mosquitero@s or it doesn't get hotter with the mosquitero@s ? %snd:"zeledon6"_945487_948676
+*ABI:	+< does it get any hotter with the mosquitero@s:spa or it doesn't get hotter with the mosquitero@s:spa ? %snd:"zeledon6"_945487_948676
 *ELL:	+< no it doesn't . %snd:"zeledon6"_948084_948949
 *ELL:	it doesn't because it has holes . %snd:"zeledon6"_948991_950036
 *ELL:	the air goes through . %snd:"zeledon6"_950065_950971
@@ -581,35 +581,35 @@
 *ABI:	yes it's <not as> [/] not as um powerful . %snd:"zeledon6"_954163_956369
 *ELL:	I wanna go to Cuba@s:eng&spa . %snd:"zeledon6"_956445_959736
 *ABI:	what did you like best about Cuba@s:eng&spa ? %snd:"zeledon6"_959817_961762
-*ELL:	&= laughing I have to tell you one thing . %snd:"zeledon6"_961771_967164
+*ELL:	&=laughing I have to tell you one thing . %snd:"zeledon6"_961771_967164
 *ABI:	ok . %snd:"zeledon6"_967280_967605
 *ELL:	the people the conversation +.. . %snd:"zeledon6"_967448_970438
 *ABI:	+< everything what did you like about Cuba@s:eng&spa ? %snd:"zeledon6"_967878_970728
 *ELL:	and my whole family is there +.. . %snd:"zeledon6"_970821_972910
-*ELL:	la@s comida@s . %snd:"zeledon6"_972891_974499
-*ABI:	la@s comida@s you have here too . %snd:"zeledon6"_974545_975939
-*ELL:	ya@s pero@s nadie@s cocina@s como@s mis@s abuelas@s . %snd:"zeledon6"_975923_978611
-*ELL:	nobody [/] nobody [/] nobody in this earth has been able to compare to my abuela@s . %snd:"zeledon6"_978614_984044
-*ELL:	special(lly) +// . %snd:"zeledon6"_984060_985610
+*ELL:	[- spa] la comida . %snd:"zeledon6"_972891_974499
+*ABI:	la@s:spa comida@s:spa you have here too . %snd:"zeledon6"_974545_975939
+*ELL:	[- spa] ya pero nadie cocina como mis abuelas . %snd:"zeledon6"_975923_978611
+*ELL:	nobody [/] nobody [/] nobody in this earth has been able to compare to my abuela@s:spa . %snd:"zeledon6"_978614_984044
+*ELL:	(e)special(ly) +// . %snd:"zeledon6"_984060_985610
 *ABI:	+< your mom's mom ? %snd:"zeledon6"_984060_985610
-*ELL:	my mom's mom she used to cook the best harina@s . %snd:"zeledon6"_985609_988953
-*ABI:	I don't like harina@s . %snd:"zeledon6"_989005_990102
+*ELL:	my mom's mom she used to cook the best harina@s:spa . %snd:"zeledon6"_985609_988953
+*ABI:	I don't like harina@s:spa . %snd:"zeledon6"_989005_990102
 *ELL:	no but you would have liked hers . %snd:"zeledon6"_990157_992142
-*ABI:	I don't like harina@s . %snd:"zeledon6"_992161_992910
+*ABI:	I don't like harina@s:spa . %snd:"zeledon6"_992161_992910
 *ELL:	but you would like +// . %snd:"zeledon6"_992933_994100
-*ABI:	my mom makes really really really good harina@s . %snd:"zeledon6"_993005_994886
-*ABI:	but my mom's harina@s is sweet . %snd:"zeledon6"_994884_996440
-*ABI:	it's not the harina like for food . %snd:"zeledon6"_996471_998452
-*ABI:	my mom's harina@s is awesome . %snd:"zeledon6"_998450_999965
-*ABI:	you sould try it . %snd:"zeledon6"_999901_1000714
+*ABI:	my mom makes really really really good harina@s:spa . %snd:"zeledon6"_993005_994886
+*ABI:	but my mom's harina@s:spa is sweet . %snd:"zeledon6"_994884_996440
+*ABI:	it's not the harina@s:spa like for food . %snd:"zeledon6"_996471_998452
+*ABI:	my mom's harina@s:spa is awesome . %snd:"zeledon6"_998450_999965
+*ABI:	you should try it . %snd:"zeledon6"_999901_1000714
 *ABI:	but it's sweet sweet sweet sweet sweet . %snd:"zeledon6"_1000743_1002409
 *ABI:	eh what is not . %snd:"zeledon6"_1002472_1003233
-*ABI:	maybe it's not harina because it's called cream of wheat . %snd:"zeledon6"_1003285_1006605
-*ABI:	it's like um avena@s . %snd:"zeledon6"_1006609_1009900
-*ABI:	no it's harina@s . %snd:"zeledon6"_1009906_1011079
-*ABI:	it's not avena@s . %snd:"zeledon6"_1011096_1011532
-*ABI:	it's harina@s . %snd:"zeledon6"_1011555_1012344
-*ABI:	it's harina@s but +// . %snd:"zeledon6"_1012414_1013557
+*ABI:	maybe it's not harina@s:spa because it's called cream of wheat . %snd:"zeledon6"_1003285_1006605
+*ABI:	it's like um avena@s:spa . %snd:"zeledon6"_1006609_1009900
+*ABI:	no it's harina@s:spa . %snd:"zeledon6"_1009906_1011079
+*ABI:	it's not avena@s:spa . %snd:"zeledon6"_1011096_1011532
+*ABI:	it's harina@s:spa . %snd:"zeledon6"_1011555_1012344
+*ABI:	it's harina@s:spa but +// . %snd:"zeledon6"_1012414_1013557
 *ELL:	+< grits . %snd:"zeledon6"_1012414_1013557
 *ABI:	no it's not the grits because the grits are kind of like +/ . %snd:"zeledon6"_1013581_1017162
 *ELL:	++ are whiter . %snd:"zeledon6"_1016140_1017214
@@ -617,34 +617,34 @@
 *ABI:	this one's xxx . %snd:"zeledon6"_1017938_1019430
 *ABI:	on the outside of the [///] (.) it's a red (.) box . %snd:"zeledon6"_1019439_1022127
 *ABI:	and it says cream of wheat . %snd:"zeledon6"_1022113_1024052
-*ELL:	oh my god a mosquito@s bit me on my scar . %snd:"zeledon6"_1024073_1026918
+*ELL:	oh my god a mosquito@s:spa bit me on my scar . %snd:"zeledon6"_1024073_1026918
 *ABI:	+< on the outside . %snd:"zeledon6"_1024073_1026918
 *ABI:	&axau . %snd:"zeledon6"_1026908_1028133
 *ELL:	I can't scratch it . %snd:"zeledon6"_1028179_1029439
 *ABI:	no <don't scratch it> [/] don't scratch it . %snd:"zeledon6"_1029439_1031631
-*ELL:	dónde@s va@s esto@s ? %snd:"zeledon6"_1031660_1034144
+*ELL:	[- spa] dónde va esto ? %snd:"zeledon6"_1031660_1034144
 *ABI:	um it's called cream of wheat . %snd:"zeledon6"_1034177_1035628
 *ABI:	but it's sweet . %snd:"zeledon6"_1035611_1037329
 *ABI:	because my [//] well my mommy is like that . %snd:"zeledon6"_1037356_1039783
 *ABI:	my mom doesn't put +/ . %snd:"zeledon6"_1039800_1041358
 *ELL:	+< got it . %snd:"zeledon6"_1039800_1041358
-*ELL:	ya@s lo@s maté@s . %snd:"zeledon6"_1041365_1042660
+*ELL:	[- spa] ya lo maté . %snd:"zeledon6"_1041365_1042660
 *ABI:	my mom . %snd:"zeledon6"_1042716_1043192
 *ELL:	+< &= cough . %snd:"zeledon6"_1042716_1043192
 *ABI:	my mom doesn't put salt in it . %snd:"zeledon6"_1043225_1045175
 *ABI:	it's [///] she does it with sweet . %snd:"zeledon6"_1045210_1046501
 *ABI:	she does it with (.) milk . %snd:"zeledon6"_1046454_1047882
-*ABI:	milk azúcar@s y@s ya@s . %snd:"zeledon6"_1047901_1052423
+*ABI:	milk azúcar@s:spa y@s:spa ya@s:spa . %snd:"zeledon6"_1047901_1052423
 *ELL:	and that's it . %snd:"zeledon6"_1052411_1052986
-*ABI:	azúcar@s y@s mmhm . %snd:"zeledon6"_1053007_1054157
+*ABI:	azúcar@s:spa y@s:spa mmhm . %snd:"zeledon6"_1053007_1054157
 *ELL:	+< you can have +// . %snd:"zeledon6"_1053156_1054126
-*ELL:	you can put milk azúcar@s . %snd:"zeledon6"_1055652_1058085
+*ELL:	you can put milk azúcar@s:spa . %snd:"zeledon6"_1055652_1058085
 *ELL:	and drink it . %snd:"zeledon6"_1058089_1059453
 *ELL:	it's the same thing . %snd:"zeledon6"_1059474_1060269
 *ABI:	+< well it's not a drink . %snd:"zeledon6"_1059828_1061302
-*ABI:	it's kind of like a maizena@s . %snd:"zeledon6"_1061323_1063123
+*ABI:	it's kind of like a maizena@s:spa . %snd:"zeledon6"_1061323_1063123
 *ELL:	+< but . %snd:"zeledon6"_1061995_1063208
-*ABI:	well you [/] you [/] you tried maizena@s right ? %snd:"zeledon6"_1063214_1065530
+*ABI:	well you [/] you [/] you tried maizena@s:spa right ? %snd:"zeledon6"_1063214_1065530
 *ELL:	+< yeah <with a spoon> [/] with a spoon . %snd:"zeledon6"_1063214_1065971
 *ABI:	with a spoon yeah . %snd:"zeledon6"_1065557_1066724
 *ELL:	+< yeah . %snd:"zeledon6"_1065557_1066724
@@ -653,17 +653,17 @@
 *ELL:	(be)cause I like to slurp the milk . %snd:"zeledon6"_1069741_1071894
 *ABI:	no . %snd:"zeledon6"_1071915_1072716
 *ABI:	and +.. . %snd:"zeledon6"_1072745_1074034
-*ABI:	the maizena@s thing is really good too . %snd:"zeledon6"_1074044_1075837
-*ABI:	I remember I introduced Emilio@s to the maizena@s . %snd:"zeledon6"_1075837_1078055
+*ABI:	the maizena@s:spa thing is really good too . %snd:"zeledon6"_1074044_1075837
+*ABI:	I remember I introduced Emilio@s:spa to the maizena@s:spa . %snd:"zeledon6"_1075837_1078055
 *ABI:	I was at his house one day +.. . %snd:"zeledon6"_1078057_1079665
-*ABI:	and them um there was maizena@s at his house . %snd:"zeledon6"_1079699_1082186
-*ABI:	there was maizena@s at his house . %snd:"zeledon6"_1082197_1083207
+*ABI:	and them um there was maizena@s:spa at his house . %snd:"zeledon6"_1079699_1082186
+*ABI:	there was maizena@s:spa at his house . %snd:"zeledon6"_1082197_1083207
 *ABI:	that was when I was always there . %snd:"zeledon6"_1083207_1085013
-*ABI:	there was maizena@s at his house . %snd:"zeledon6"_1085105_1086156
+*ABI:	there was maizena@s:spa at his house . %snd:"zeledon6"_1085105_1086156
 *ABI:	and we were having lunch . %snd:"zeledon6"_1086191_1086864
 *ABI:	and I go to him +// . %snd:"zeledon6"_1086876_1087927
 *ABI:	we didn't know what to eat . %snd:"zeledon6"_1087981_1089118
-*ABI:	no mentira it was dinner . %snd:"zeledon6"_1089176_1090465
+*ABI:	no@s:spa mentira@s:spa it was dinner . %snd:"zeledon6"_1089176_1090465
 *ABI:	<Iria@s:eng&spa had> [///] Iria@s:eng&spa I don't think she cooked that day . %snd:"zeledon6"_1090448_1093135
 *ABI:	so then +.. . %snd:"zeledon6"_1093127_1094375
 *ELL:	she cooked . %snd:"zeledon6"_1094375_1094747
@@ -677,7 +677,7 @@
 *ABI:	and xxx said +" . %snd:"zeledon6"_1100983_1101302
 *ABI:	+" what ? %snd:"zeledon6"_1101314_1101941
 *ABI:	and I was like +" . %snd:"zeledon6"_1101952_1102597
-*ABI:	+" it's maizena@s . %snd:"zeledon6"_1102641_1103309
+*ABI:	+" it's maizena@s:spa . %snd:"zeledon6"_1102641_1103309
 *ABI:	it's actually pretty good . %snd:"zeledon6"_1103309_1104063
 *ABI:	and he goes +"/ . %snd:"zeledon6"_1104075_1104452
 *ABI:	+" ok whatever just go for it . %snd:"zeledon6"_1104458_1105375
@@ -688,11 +688,11 @@
 *ELL:	<and the> [/] and the +... %snd:"zeledon6"_0_0
 *ABI:	+< xxx do you wanna make it . %snd:"zeledon6"_1109293_1110129
 *ABI:	xxx (be)cause the thing is I make it sweet . %snd:"zeledon6"_1110170_1112097
-*ABI:	did you ever try my maizena@s ? %snd:"zeledon6"_1112132_1113386
+*ABI:	did you ever try my maizena@s:spa ? %snd:"zeledon6"_1112132_1113386
 *ELL:	no I haven't tried it . %snd:"zeledon6"_1113403_1114593
 *ABI:	oh it's really good but I learnt from my mom . %snd:"zeledon6"_1114568_1116327
-*ELL:	+< xxx doesn't like my harina@s . %snd:"zeledon6"_1115880_1117273
-*ABI:	is your harina@s anything like your mom's harina@s ? %snd:"zeledon6"_1117265_1120470
+*ELL:	+< xxx doesn't like my harina@s:spa . %snd:"zeledon6"_1115880_1117273
+*ABI:	is your harina@s:spa anything like your mom's harina@s:spa ? %snd:"zeledon6"_1117265_1120470
 *ELL:	yeah . %snd:"zeledon6"_1120504_1121212
 *ABI:	then I don't like it either . %snd:"zeledon6"_1121212_1122449
 *ABI:	I don't like xxx . %snd:"zeledon6"_1122503_1124581
@@ -704,18 +704,18 @@
 *ABI:	I don't like it . %snd:"zeledon6"_1128623_1129825
 *ELL:	I like it . %snd:"zeledon6"_1129796_1130504
 *ELL:	I like it a lot . %snd:"zeledon6"_1130428_1131200
-*ELL:	and in fact my mom hasn't made it in (.) tres@s meses@s . %snd:"zeledon6"_1131202_1134923
-*ABI:	like I like wheat like the american@s stuff . %snd:"zeledon6"_1134946_1137674
+*ELL:	and in fact my mom hasn't made it in (.) tres@s:spa meses@s:spa . %snd:"zeledon6"_1131202_1134923
+*ABI:	like I like wheat like the American stuff . %snd:"zeledon6"_1134946_1137674
 *ABI:	that's not bad . %snd:"zeledon6"_1137730_1138758
 *ABI:	but I still put sugar in it . %snd:"zeledon6"_1138752_1139977
 *ELL:	that's why you like it because you can put sugar in it [=! laughing] . %snd:"zeledon6"_1140000_1143311
-*ABI:	+< &= laughing . %snd:"zeledon6"_1140000_1143311
+*ABI:	+< &=laughing . %snd:"zeledon6"_1140000_1143311
 *ELL:	no but mine you can eat it . %snd:"zeledon6"_1143270_1144408
 *ELL:	mine you can put sugar . %snd:"zeledon6"_1144402_1145511
 *ELL:	you could spread sugar on the top or milk xxx . %snd:"zeledon6"_1145516_1148049
 *ABI:	no my [/] my mom puts +// . %snd:"zeledon6"_1147730_1148955
 *ABI:	ok look . %snd:"zeledon6"_1148975_1149520
-*ABI:	well either both of them maizena@s and harina@s . %snd:"zeledon6"_1149538_1151778
+*ABI:	well either both of them maizena@s:spa and harina@s:spa . %snd:"zeledon6"_1149538_1151778
 *ABI:	what she does is she put(s) cinnamon on top . %snd:"zeledon6"_1151858_1154406
 *ELL:	oh . %snd:"zeledon6"_1154437_1155540
 *ABI:	oh my god that's delicious . %snd:"zeledon6"_1155586_1156838
@@ -753,11 +753,11 @@
 *ELL:	&= gasp . %snd:"zeledon6"_1197985_1198617
 *ELL:	give it to me . %snd:"zeledon6"_1198664_1199018
 *ELL:	and I'll return it . %snd:"zeledon6"_1199006_1199895
-*ABI:	it's in the Blockbuster@s:eng&spa on one_forty_seven and Coral_way . %snd:"zeledon6"_1199916_1203445
+*ABI:	it's in the Blockbuster@s:eng&spa on one forty seven and Coral_Way . %snd:"zeledon6"_1199916_1203445
 *ELL:	the one by Porkys@s:eng&spa . %snd:"zeledon6"_1203559_1204813
 *ABI:	no . %snd:"zeledon6"_1204801_1205538
-*ELL:	oh no Coral_way . %snd:"zeledon6"_1205533_1206676
-*ABI:	Coral_way well Coral_way and one_forty_seven by xxx . %snd:"zeledon6"_1206728_1210374
+*ELL:	oh no Coral_Way . %snd:"zeledon6"_1205533_1206676
+*ABI:	Coral_Way well Coral_Way and one forty seven by xxx . %snd:"zeledon6"_1206728_1210374
 *ABI:	by my house . %snd:"zeledon6"_1210368_1211842
 *ELL:	xxx . %snd:"zeledon6"_1211863_1215240
 *ELL:	I'll tell them it's a return . %snd:"zeledon6"_1215246_1216952
@@ -781,7 +781,7 @@
 *ELL:	the xxx that he xxx that xxx . %snd:"zeledon6"_1238752_1240494
 *ABI:	kind of well that and then what Annie@s:eng&spa commented to me yesterday . %snd:"zeledon6"_1240476_1243696
 *ABI:	what Annie@s:eng&spa said . %snd:"zeledon6"_1243702_1244526
-*ELL:	qué ? %snd:"zeledon6"_1244520_1244909
+*ELL:	[- spa] qué ? %snd:"zeledon6"_1244520_1244909
 *ABI:	that Sergi@s:eng&spa had told her . %snd:"zeledon6"_1244681_1245790
 *ELL:	what ? %snd:"zeledon6"_1245850_1247394
 *ABI:	what [/] what Annie@s:eng&spa told me xxx to her . %snd:"zeledon6"_1247382_1249704
@@ -790,11 +790,11 @@
 *ABI:	yeah . %snd:"zeledon6"_1251863_1252618
 *ABI:	that part is just a bitch . %snd:"zeledon6"_1252658_1254104
 *ABI:	but and then +/ . %snd:"zeledon6"_1254262_1256056
-*ELL:	entonces@s tú@s le@s vas@s a@s decir@s +/ . %snd:"zeledon6"_1256044_1257246
-*ABI:	no@s no@s . %snd:"zeledon6"_1257211_1259145
-*ELL:	+< yo@s oí@s que@s esto@s esto@s esto@s y@s esto@s . %snd:"zeledon6"_1257211_1260745
+*ELL:	[- spa] entonces tú le vas a decir +/ . %snd:"zeledon6"_1256044_1257246
+*ABI:	[- spa] no no . %snd:"zeledon6"_1257211_1259145
+*ELL:	[- spa] +< yo oí que esto esto esto y esto . %snd:"zeledon6"_1257211_1260745
 *ELL:	and now I'm mad at you . %snd:"zeledon6"_1260733_1262347
-*ABI:	&= laughing . %snd:"zeledon6"_1262391_1263564
+*ABI:	&=laughing . %snd:"zeledon6"_1262391_1263564
 *ELL:	why are you gonna present that to him ? %snd:"zeledon6"_1263558_1265740
 *ABI:	+< why was that ? %snd:"zeledon6"_1263558_1265746
 *ELL:	why are you gonna present that to him ? %snd:"zeledon6"_1265765_1267263
@@ -805,15 +805,15 @@
 *ABI:	why were you saying that ? %snd:"zeledon6"_1270533_1271671
 *ELL:	and don't let his last memories of you be fighting . %snd:"zeledon6"_1272410_1275086
 *ELL:	too late . %snd:"zeledon6"_1275140_1276910
-*ELL:	&= laughing . %snd:"zeledon6"_1276951_1278571
-*ABI:	+< &= laughin . %snd:"zeledon6"_1276951_1278571
+*ELL:	&=laughing . %snd:"zeledon6"_1276951_1278571
+*ABI:	+< &=laughing . %snd:"zeledon6"_1276951_1278571
 *ABI:	too late it was three years of fighting . %snd:"zeledon6"_1278582_1280260
 *ELL:	yeah but still like +.. . %snd:"zeledon6"_1280225_1282977
 *ELL:	leave it as a mature breakup that you are just like forget it forget it forget it . %snd:"zeledon6"_1282965_1286740
 *ELL:	and that's it . %snd:"zeledon6"_1286721_1287203
-*ELL:	nada@s de &lalala . %snd:"zeledon6"_1287216_1289138
+*ELL:	nada@s:spa de &lalala . %snd:"zeledon6"_1287216_1289138
 *ELL:	because then that's all I'm gonna remember . %snd:"zeledon6"_1289220_1290689
-*ELL:	oh my god my ex_girlfriend &ululalulu . %snd:"zeledon6"_1290672_1293296
+*ELL:	oh my god my ex girlfriend &ululalulu . %snd:"zeledon6"_1290672_1293296
 *ELL:	like that . %snd:"zeledon6"_1293253_1294344
 *ABI:	yeah that's true . %snd:"zeledon6"_1294356_1295650
 *ABI:	well I'll leave it at that for now then . %snd:"zeledon6"_1295699_1298682
@@ -822,17 +822,17 @@
 *ABI:	he called me this weekend . %snd:"zeledon6"_1302583_1304022
 *ELL:	really ? %snd:"zeledon6"_1304046_1305261
 *ABI:	really . %snd:"zeledon6"_1305307_1306172
-*ELL:	qué@s quería@s saber@s [=! laughing] ? %snd:"zeledon6"_1306213_1307867
-*ABI:	friday . %snd:"zeledon6"_1307850_1308488
+*ELL:	[- spa] qué quería saber [=! laughing] ? %snd:"zeledon6"_1306213_1307867
+*ABI:	Friday . %snd:"zeledon6"_1307850_1308488
 *ABI:	he called me xxx . %snd:"zeledon6"_1308506_1309667
 *ABI:	he was home early . %snd:"zeledon6"_1309725_1310793
 *ABI:	because it was +/ . %snd:"zeledon6"_1310829_1311288
 *ABI:	ok did I tell you ? %snd:"zeledon6"_1311317_1312484
 *ABI:	ok well I was already sleeping . %snd:"zeledon6"_1312478_1315102
-*ABI:	but it was like twelve_thirty on Friday . %snd:"zeledon6"_1315137_1316859
+*ABI:	but it was like twelve thirty on Friday . %snd:"zeledon6"_1315137_1316859
 *ABI:	like twelve_thirty . %snd:"zeledon6"_1316916_1317967
 *ABI:	and he had sent me a text message . %snd:"zeledon6"_1318031_1320144
-*ABI:	but no@s lo@s vi@s . %snd:"zeledon6"_1320175_1322015
+*ABI:	but no@s:spa lo@s:spa vi@s:spa . %snd:"zeledon6"_1320175_1322015
 *ABI:	I mean I was sleeping . %snd:"zeledon6"_1322102_1323414
 *ABI:	so you know it didn't wake me up . %snd:"zeledon6"_1323400_1325066
 *ABI:	and then um like um like yeah like ten minutes after the text message he called me . %snd:"zeledon6"_1325008_1330035
@@ -900,17 +900,17 @@
 *ABI:	+< <he just> [/] he just resends it . %snd:"zeledon6"_1386730_1388287
 *ELL:	+" I can't sleep talk to me . %snd:"zeledon6"_1388275_1389802
 *ABI:	and he was home because I heard the Tv@s:eng&spa in the background . %snd:"zeledon6"_1389827_1395674
-*ELL:	so puede@s ser@s el@s televisor@s de@s Patty@s:eng&spa . %snd:"zeledon6"_1395674_1398042
+*ELL:	so puede@s:spa ser@s:spa el@s:spa televisor@s:spa de@s:spa Patty@s:eng&spa . %snd:"zeledon6"_1395674_1398042
 *ABI:	he's not gonna be talking to me in front of Patty@s:eng&spa [=! laughing] . %snd:"zeledon6"_1398046_1401510
-*ELL:	+< &= laughing . %snd:"zeledon6"_1398046_1401510
+*ELL:	+< &=laughing . %snd:"zeledon6"_1398046_1401510
 *ELL:	I know . %snd:"zeledon6"_1401552_1402457
-*ELL:	me@s a@s lo@s &me Patty@s:eng&spa estaba@s durmiendo@s . %snd:"zeledon6"_1402469_1404820
-*ABI:	<Patty@s:eng&spa estaba@s> [/] Patty@s:eng&spa sí@s estaba@s dormida@s . %snd:"zeledon6"_1404770_1406993
-*ELL:	Patty@s:eng&spa estaba@s durmiéndose@s . %snd:"zeledon6"_1407070_1408318
-*ELL:	se@s [/] se@s despertó@s . %snd:"zeledon6"_1408266_1409328
-*ELL:	creo@s que@s cuando@s tú@s estabas@s dormida@s que@s él@s se@s despierta@s y@s llama@s a@s Patty@s:eng&spa . %snd:"zeledon6"_1409365_1412002
+*ELL:	me@s:spa a@s:spa lo@s:spa &me Patty@s:eng&spa estaba@s:spa durmiendo@s:spa . %snd:"zeledon6"_1402469_1404820
+*ABI:	<Patty@s:eng&spa estaba@s:spa> [/] Patty@s:eng&spa sí@s:spa estaba@s:spa dormida@s:spa . %snd:"zeledon6"_1404770_1406993
+*ELL:	Patty@s:eng&spa estaba@s:spa durmiéndose@s:spa . %snd:"zeledon6"_1407070_1408318
+*ELL:	[- spa] se [/] se despertó . %snd:"zeledon6"_1408266_1409328
+*ELL:	creo@s:spa que@s:spa cuando@s:spa tú@s:spa estabas@s:spa dormida@s:spa que@s:spa él@s:spa se@s:spa despierta@s:spa y@s:spa llama@s:spa a@s:spa Patty@s:eng&spa . %snd:"zeledon6"_1409365_1412002
 *ABI:	+< xxx . %snd:"zeledon6"_1409365_1412002
-*ELL:	ahora@s está@s haciendo@s al@s revés@s . %snd:"zeledon6"_1411931_1414763
+*ELL:	[- spa] ahora está haciendo al revés . %snd:"zeledon6"_1411931_1414763
 *ABI:	+< oh he never called me Patty@s:eng&spa . %snd:"zeledon6"_1411931_1414777
 *ABI:	or Patty@s:eng&spa was sleeping in his house . %snd:"zeledon6"_1414789_1417174
 *ABI:	she was sleeping . %snd:"zeledon6"_1417155_1418809
@@ -934,14 +934,14 @@
 *ABI:	is that a +// . %snd:"zeledon6"_1447598_1448597
 *ABI:	that's not that I think I used . %snd:"zeledon6"_1448626_1450477
 *ELL:	+< do you know how +// . %snd:"zeledon6"_1449293_1449850
-*ELL:	do you have enought recovery time ? %snd:"zeledon6"_1449850_1451145
+*ELL:	do you have enough recovery time ? %snd:"zeledon6"_1449850_1451145
 *ELL:	or something like that . %snd:"zeledon6"_1451166_1452199
 *ABI:	or well your foot be +.. . %snd:"zeledon6"_1452205_1455055
 *ELL:	healed ? %snd:"zeledon6"_1455080_1455864
 *ABI:	healed . %snd:"zeledon6"_1455916_1456648
 *ELL:	yeah that's what it is . %snd:"zeledon6"_1456653_1458000
 *ABI:	thank you . %snd:"zeledon6"_1458004_1458544
-*ELL:	+< yeah beacause May xxx . %snd:"zeledon6"_1458005_1461713
+*ELL:	+< yeah because May xxx . %snd:"zeledon6"_1458005_1461713
 *ABI:	January February March April May . %snd:"zeledon6"_1461808_1463399
 *ELL:	+< June July . %snd:"zeledon6"_1463283_1464020
 *ABI:	June July . %snd:"zeledon6"_1464029_1464807
@@ -973,11 +973,11 @@
 *ELL:	I wanna wear high heels . %snd:"zeledon6"_1501562_1503495
 *ABI:	I know . %snd:"zeledon6"_1503524_1503971
 *ABI:	but I think you should xxx off for the high heels . %snd:"zeledon6"_1504000_1505933
-*ELL:	quiero@s bailar@s . %snd:"zeledon6"_1505927_1508801
-*ABI:	entonces@s um +.. . %snd:"zeledon6"_1508888_1511899
+*ELL:	[- spa] quiero bailar . %snd:"zeledon6"_1505927_1508801
+*ABI:	entonces@s:spa um +.. . %snd:"zeledon6"_1508888_1511899
 *ELL:	neat books fast cheap end of all . %snd:"zeledon6"_1511922_1514877
 *ELL:	everyone's books dot com . %snd:"zeledon6"_1514898_1516987
-*ELL:	eso@s fue@s en@s Miami_Dade@s:eng&spa también@s . %snd:"zeledon6"_1517022_1519348
+*ELL:	eso@s:spa fue@s:spa en@s:spa Miami_Dade@s:eng&spa también@s:spa . %snd:"zeledon6"_1517022_1519348
 *ABI:	&=laughing . %snd:"zeledon6"_1519344_1520696
 *ABI:	possibly yeah . %snd:"zeledon6"_1520752_1521553
 *ABI:	yeah that could just be any . %snd:"zeledon6"_1521544_1523924
@@ -999,7 +999,7 @@
 *ABI:	do you get me ? %snd:"zeledon6"_1557800_1558613
 *ABI:	so let's say you are taking four classes . %snd:"zeledon6"_1558665_1560465
 *ABI:	um so four times three each one being three credits that's twelve credits . %snd:"zeledon6"_1560468_1566355
-*ABI:	times about a hundred that's about <a hundred> [/] a thousand two hundred más o menos . %snd:"zeledon6"_1566351_1570667
+*ABI:	times about a hundred that's about <a hundred> [/] a thousand two hundred más@s:spa o@s:spa menos@s:spa . %snd:"zeledon6"_1566351_1570667
 *ABI:	and then you have to then pay all the fees . %snd:"zeledon6"_1570617_1574216
 *ABI:	the parking fee the xxx fee . %snd:"zeledon6"_1574220_1577999
 *ELL:	I don't have that fee yet . %snd:"zeledon6"_1576156_1578206
@@ -1029,14 +1029,14 @@
 *ABI:	um +.. . %snd:"zeledon6"_1621044_1622066
 *ELL:	that's how it is . %snd:"zeledon6"_1622165_1623587
 *ABI:	but I was gonna tell you the [/] the thing here er ok . %snd:"zeledon6"_1623619_1627971
-*ABI:	Miami_Dade@s:eng&spa is setenta@s dólares@s por@s crédito@s right ? %snd:"zeledon6"_1628243_1631521
+*ABI:	Miami_Dade@s:eng&spa is setenta@s:spa dólares@s:spa por@s:spa crédito@s:spa right ? %snd:"zeledon6"_1628243_1631521
 *ELL:	I think so . %snd:"zeledon6"_1631418_1632823
 *ABI:	yeah and here it's just a hundred . %snd:"zeledon6"_1632476_1635489
 *ELL:	well . %snd:"zeledon6"_1635158_1636557
 *ABI:	so it's about thirty ? %snd:"zeledon6"_1636416_1638001
 *ABI:	times twelve how much is that ? %snd:"zeledon6"_1637977_1639783
 *ELL:	+< but that's what I'm saying . %snd:"zeledon6"_1638297_1639231
-*ELL:	por@s qué@s tú@s no@s fuiste@s al@s Miami_Dade@s:eng&spa two years before coming here ? %snd:"zeledon6"_1639227_1642175
+*ELL:	por@s:spa qué@s:spa tú@s:spa no@s:spa fuiste@s:spa al@s:spa Miami_Dade@s:eng&spa two years before coming here ? %snd:"zeledon6"_1639227_1642175
 *ABI:	+< I don't know I just came straight over here . %snd:"zeledon6"_1641723_1643865
 *ELL:	<I'm gonna do my> [/] I'm gonna xxx +// . %snd:"zeledon6"_1643851_1645784
 *ABI:	+< finish . %snd:"zeledon6"_1646323_1646875
@@ -1050,7 +1050,7 @@
 *ELL:	I'm gonna have to come to this school . %snd:"zeledon6"_1654430_1655748
 *ABI:	+< he [/] he guided me through it . %snd:"zeledon6"_1654819_1656671
 *ELL:	+< the school +.. . %snd:"zeledon6"_1655498_1656392
-*ELL:	the school parece@s a little bit more confusing than Miami_Dade@s:eng&spa . %snd:"zeledon6"_1656831_1660198
+*ELL:	the school parece@s:spa a little bit more confusing than Miami_Dade@s:eng&spa . %snd:"zeledon6"_1656831_1660198
 *ABI:	no you get the hang of it . %snd:"zeledon6"_1660198_1661516
 *ELL:	I know I'll get the hang of it (be)cause when I first saw Miami_Dade@s:eng&spa I was +"/ . %snd:"zeledon6"_1661772_1664286
 *ELL:	+" oh my god this is so confusing . %snd:"zeledon6"_1664175_1665626
@@ -1065,7 +1065,7 @@
 *ABI:	the buildings are too like gray . %snd:"zeledon6"_1674195_1676645
 *ELL:	only outside . %snd:"zeledon6"_1677091_1678211
 *ABI:	+< <this is> [/] <this is just> [/] this is a small class though to be honest . %snd:"zeledon6"_1677398_1679966
-*ABI:	english classes are put in a really small class . %snd:"zeledon6"_1681421_1683377
+*ABI:	English classes are put in a really small class . %snd:"zeledon6"_1681421_1683377
 *ABI:	most of our +// . %snd:"zeledon6"_1683373_1684459
 *ABI:	all my other classes I ever had even my math class which is right in this building but towards the other end they're all big classes like auditorium like +.. . %snd:"zeledon6"_1684393_1693893
 *ABI:	even if it's just for a hundred students . %snd:"zeledon6"_1694323_1695751
@@ -1074,19 +1074,19 @@
 *ABI:	you get me . %snd:"zeledon6"_1698131_1698636
 *ABI:	that you go up and then +.. . %snd:"zeledon6"_1698578_1699542
 *ABI:	that's how all my classes are . %snd:"zeledon6"_1699441_1701362
-*ABI:	the only classes that have been really small always have been my english classes . %snd:"zeledon6"_1700880_1704061
-*ELL:	bueno@s . %snd:"zeledon6"_1704088_1704988
+*ABI:	the only classes that have been really small always have been my English classes . %snd:"zeledon6"_1700880_1704061
+*ELL:	[- spa] bueno . %snd:"zeledon6"_1704088_1704988
 *ABI:	all the other ones are like those types . %snd:"zeledon6"_1704941_1707554
-*ELL:	+< so (.) the reason I like Miami_Dade@s:eng&spa es@s porque@s +/ . %snd:"zeledon6"_1706159_1708284
+*ELL:	+< so (.) the reason I like Miami_Dade@s:eng&spa es@s:spa porque@s:spa +/ . %snd:"zeledon6"_1706159_1708284
 *ABI:	+< I just don't like how the building looks . %snd:"zeledon6"_1707465_1708986
 *ABI:	F_I_U@s:eng&spa have a lot of arts . %snd:"zeledon6"_1709021_1710565
 *ABI:	and like the buildings look prettier and like . %snd:"zeledon6"_1710675_1712835
-*ELL:	ah I'm a@s mí@s no@s me@s importa@s eso@s . %snd:"zeledon6"_1712780_1714852
+*ELL:	ah I'm a@s:spa mí@s:spa no@s:spa me@s:spa importa@s:spa eso@s:spa . %snd:"zeledon6"_1712780_1714852
 *ELL:	huh I don't look at it . %snd:"zeledon6"_1714824_1716293
 *ELL:	and [/] and Miami_Dade@s:eng&spa has like +/ . %snd:"zeledon6"_1716177_1718383
 *ABI:	+< but it gives you more xxx environment . %snd:"zeledon6"_1717924_1719764
 *ELL:	+< &mia Miami_Dade@s:eng&spa has like arts stuff too . %snd:"zeledon6"_1718992_1722655
-*ELL:	pero@s what I like is on the side of the building (.) has a really big four or three or two . %snd:"zeledon6"_1722728_1729949
+*ELL:	pero@s:spa what I like is on the side of the building (.) has a really big four or three or two . %snd:"zeledon6"_1722728_1729949
 *ABI:	oh it's one of those . %snd:"zeledon6"_1728637_1730024
 *ELL:	it's one of those where where ever you need to go +/ . %snd:"zeledon6"_1730002_1732736
 *ABI:	+< yeah it's building four . %snd:"zeledon6"_1730844_1732893
@@ -1097,11 +1097,11 @@
 *ABI:	+< yeah xxx . %snd:"zeledon6"_1739411_1740897
 *ABI:	yeah exactly . %snd:"zeledon6"_1740880_1741582
 *ELL:	that's the way it's split up . %snd:"zeledon6"_1741501_1742598
-*ELL:	so para@s mí@s que@s you@s soy@s un@s poquito@s ah@s retrasada@s . %snd:"zeledon6"_1742587_1745640
-*ABI:	acelerada@s . %snd:"zeledon6"_1745626_1747159
+*ELL:	so para@s:spa mí@s:spa que@s:spa you soy@s:spa un@s:spa poquito@s:spa ah@s:spa retrasada@s:spa . %snd:"zeledon6"_1742587_1745640
+*ABI:	[- spa] acelerada . %snd:"zeledon6"_1745626_1747159
 *ELL:	+< &=laugh . %snd:"zeledon6"_1746195_1748389
 *ELL:	em that's easy . %snd:"zeledon6"_1748358_1749757
-*ELL:	porque@s if it's building four entonces@s eh parking here . %snd:"zeledon6"_1749788_1752331
+*ELL:	porque@s:spa if it's building four entonces@s:spa eh parking here . %snd:"zeledon6"_1749788_1752331
 *ELL:	building three and parking here . %snd:"zeledon6"_1752374_1754011
 *ELL:	and in between each building parking there's xxx a little parking in cases there's not space . %snd:"zeledon6"_1754110_1758597
 *ELL:	and +/ . %snd:"zeledon6"_1758563_1759835
@@ -1123,7 +1123,7 @@
 *ABI:	just don't bother xxx looking for parking right xxx . %snd:"zeledon6"_1790730_1792843
 *ABI:	xxx fifth floor . %snd:"zeledon6"_1792565_1793668
 *ABI:	xxx can use the elevator . %snd:"zeledon6"_1793639_1795537
-*ELL:	no no no for me is (.) leaving in like lo@s que@s tenía@s que@s esperar@s era@s cinco@s minutos@s . %snd:"zeledon6"_1795552_1801113
+*ELL:	no no no for me is (.) leaving in like lo@s:spa que@s:spa tenía@s:spa que@s:spa esperar@s:spa era@s:spa cinco@s:spa minutos@s:spa . %snd:"zeledon6"_1795552_1801113
 *ELL:	and somebody left . %snd:"zeledon6"_1800992_1802528
 *ELL:	somebody always left . %snd:"zeledon6"_1802464_1803938
 *ELL:	and all I have to do xxx . %snd:"zeledon6"_1804031_1805901
@@ -1134,10 +1134,10 @@
 *ABI:	like this [/] this building here is the Chemistry@s:eng&spa and physic . %snd:"zeledon6"_0_0
 *ELL:	+< ah no . %snd:"zeledon6"_1812013_1812918
 *ABI:	but <when you> [//] when you've +/ . %snd:"zeledon6"_1814700_1817046
-*ELL:	this is a Chemistry@s:eng&spa and physics building with an [/] an english class inside of it ? %snd:"zeledon6"_1816091_1819864
+*ELL:	this is a Chemistry@s:eng&spa and physics building with an [/] an English class inside of it ? %snd:"zeledon6"_1816091_1819864
 *ABI:	yeah . %snd:"zeledon6"_1819771_1820363
 *ELL:	&=laugh . %snd:"zeledon6"_1820579_1822031
 *ABI:	+< &=laugh yeah . %snd:"zeledon6"_1820713_1821810
-*ABI:	cause they're using it as an english class you know ? %snd:"zeledon6"_1821986_1823844
+*ABI:	cause they're using it as an English class you know ? %snd:"zeledon6"_1821986_1823844
 *ABI:	this is obviously a lot of other things . %snd:"zeledon6"_1823681_1825986
 @End
