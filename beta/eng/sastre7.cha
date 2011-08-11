@@ -11,1064 +11,1064 @@
 @Coder:	M. Carmen Parafita Couto and Diana M. Carter, Prifysgol Bangor University
 @Time Duration:	00:29:58
 @Comment:	Filename: sastre7.CHA; Soundfile: sastre7.wav
-@Comment:	Language markers:  @s:eng = English, @s:spa = Spanish, @s:eng&spa = Undetermined, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English
-*JAD:	and you are good to xxx . %snd:"sastre7"_33_715
-*JUL:	how do I know if it is doubled ? %snd:"sastre7"_681_2111
-*JAD:	you can see it # in the thing . %snd:"sastre7"_2053_3923
-*JUL:	oh I don't know if it's doubled . %snd:"sastre7"_3889_5213
-*JUL:	I don't see nothing . %snd:"sastre7"_5207_6165
-*JAD:	because you are blind . %snd:"sastre7"_6114_8413
-*JUL:	yeah so . %snd:"sastre7"_8413_10334
-*JAD:	[- spa] ciega . %snd:"sastre7"_10224_10950
-*JUL:	[- spa] y qué ? %snd:"sastre7"_10922_12223
-*JAD:	and then um +.. . %snd:"sastre7"_12199_15479
-*JAD:	yeah but I'm sure you are still gonna do the hair thing . %snd:"sastre7"_15439_18075
-*JUL:	yeah but I'm gonna look like a retard . %snd:"sastre7"_18029_21524
+@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+*JAD:	and you are good to xxx . 33_715
+*JUL:	how do I know if it is doubled ? 681_2111
+*JAD:	you can see it # in the thing . 2053_3923
+*JUL:	oh I don't know if it's doubled . 3889_5213
+*JUL:	I don't see nothing . 5207_6165
+*JAD:	because you are blind . 6114_8413
+*JUL:	yeah so . 8413_10334
+*JAD:	[- spa] ciega . 10224_10950
+*JUL:	[- spa] y qué ? 10922_12223
+*JAD:	and then um +... 12199_15479
+*JAD:	yeah but I'm sure you are still gonna do the hair thing . 15439_18075
+*JUL:	yeah but I'm gonna look like a retard . 18029_21524
 %com:	background noise
-*JAD:	why ? %snd:"sastre7"_21483_22116
-*JUL:	is it cute ? %snd:"sastre7"_22102_23286
-*JAD:	if anything you look the cutest . %snd:"sastre7"_23269_24418
-*JUL:	ah you are gay [=! laughs] . %snd:"sastre7"_24379_27989
-*JAD:	+< ah:@s:eng&spa . %snd:"sastre7"_26056_28024
-*JUL:	you know . %snd:"sastre7"_27996_31346
+*JAD:	why ? 21483_22116
+*JUL:	is it cute ? 22102_23286
+*JAD:	if anything you look the cutest . 23269_24418
+*JUL:	ah you are gay [=! laughs] . 24379_27989
+*JAD:	+< ah:@s:eng&spa . 26056_28024
+*JUL:	you know . 27996_31346
 %com:	background noise
-*JUL:	I think I don't know what this is . %snd:"sastre7"_31334_33587
-*JAD:	water stupid . %snd:"sastre7"_33595_34733
-*JUL:	+< is that water ? %snd:"sastre7"_33595_34733
-*JAD:	yeah . %snd:"sastre7"_34687_35105
-*JUL:	give me some water . %snd:"sastre7"_34951_36199
-*JAD:	water ? %snd:"sastre7"_36211_36832
-*JUL:	water . %snd:"sastre7"_36832_37459
+*JUL:	I think I don't know what this is . 31334_33587
+*JAD:	water stupid . 33595_34733
+*JUL:	+< is that water ? 33595_34733
+*JAD:	yeah . 34687_35105
+*JUL:	give me some water . 34951_36199
+*JAD:	water ? 36211_36832
+*JUL:	water . 36832_37459
 %com:	mimicking British English pronunciation
-*JUL:	I'm from England . %snd:"sastre7"_37447_38591
-*JAD:	aha . %snd:"sastre7"_38583_40685
+*JUL:	I'm from England . 37447_38591
+*JAD:	aha . 38583_40685
 %com:	backgraound noise
-*JAD:	Harry_Potter@s:eng&spa . %snd:"sastre7"_40656_41741
-*JUL:	Harry_Potter@s:eng&spa ! %snd:"sastre7"_41730_43082
-*JAD:	&=laughs . %snd:"sastre7"_42882_43840
-*JUL:	back to Hogwarts@s:eng&spa . %snd:"sastre7"_43319_45287
-*JAD:	Hogwarts@s:eng&spa . %snd:"sastre7"_45261_46329
-*JUL:	&=laughs . %snd:"sastre7"_46329_47775
-*JAD:	I'm Emma@s:eng&spa . %snd:"sastre7"_47757_48709
-*JAD:	nice to meet you . %snd:"sastre7"_48681_49760
-*JUL:	Emma_Watson@s:eng&spa her name is Hermione@s:eng&spa stupid . %snd:"sastre7"_49755_52831
-*JAD:	I'm just saying I'm Emma@s:eng&spa . %snd:"sastre7"_52917_54531
-*JAD:	not not xxx <I'm not on Har(ry)@s:eng&spa> [/] I'm not on Harry_Potter@s:eng&spa anymore . %snd:"sastre7"_54495_60149
-*JUL:	+< oh I thought you were talking about Hermione@s:eng&spa . %snd:"sastre7"_55877_59923
-*JUL:	hello Emma@s:eng&spa . %snd:"sastre7"_59896_62711
-*JAD:	hello poppet . %snd:"sastre7"_62683_65284
-*JUL:	poppet that's [/] that's frikkin' um +.. . %snd:"sastre7"_65260_67495
-*JAD:	+< laugh . %snd:"sastre7"_65260_67455
-*JAD:	Manuela@s:eng&spa works like with the cop . %snd:"sastre7"_67421_68843
-*JAD:	and since she has that counting card . %snd:"sastre7"_68826_70770
-*JAD:	she has like the radio there like the cop radio . %snd:"sastre7"_70749_73286
-*JUL:	ahah . %snd:"sastre7"_73251_73971
-*JAD:	and I was sending her to get on it and go +"/ . %snd:"sastre7"_73836_75810
-*JAD:	+" hello poppet . %snd:"sastre7"_75785_77097
-*JAD:	&=laughs . %snd:"sastre7"_77028_77760
-*JUL:	+< &=laughs hello [=! laughs] . %snd:"sastre7"_77092_79414
-*JAD:	&arr . %snd:"sastre7"_79391_80453
-*JAD:	well she says she can get in trouble . %snd:"sastre7"_80441_82148
-*JUL:	xxx [=! laughs] . %snd:"sastre7"_82107_83285
-*JAD:	does it matter ? %snd:"sastre7"_83279_83970
-*JUL:	xxx . %snd:"sastre7"_83784_84185
-*JAD:	you go +"/ . %snd:"sastre7"_84173_84533
-*JAD:	+" hello poppet . %snd:"sastre7"_84527_85694
-*JUL:	hello . %snd:"sastre7"_85663_86899
-*JUL:	hello . %snd:"sastre7"_86882_88284
-*JAD:	+< &=laugh . %snd:"sastre7"_86882_88284
-*JAD:	what the hell ? %snd:"sastre7"_88237_89230
-*JUL:	xxx . %snd:"sastre7"_88833_91039
-*JAD:	hello poppet . %snd:"sastre7"_91051_92640
-*JUL:	&=laughs xxx people next door xxx colour . %snd:"sastre7"_92658_96013
-*JAD:	yes it's colour . %snd:"sastre7"_96007_97459
-*JAD:	yeah there are people . %snd:"sastre7"_97505_98561
-*JUL:	that's what . %snd:"sastre7"_98480_98782
-*JUL:	is that minutes ? %snd:"sastre7"_98794_99519
-*JAD:	minutes and seconds . %snd:"sastre7"_99519_101690
-*JUL:	what are you doing ? %snd:"sastre7"_101696_102915
-*JAD:	tearing it up so I can start . %snd:"sastre7"_102910_104843
-*JAD:	did you develop ? %snd:"sastre7"_104812_110252
-*JUL:	xxx develop . %snd:"sastre7"_110235_112493
-*JAD:	did you do a strip ? %snd:"sastre7"_112499_113701
-*JUL:	no not even that . %snd:"sastre7"_113681_116677
-*JAD:	or you have it on like loud . %snd:"sastre7"_116619_117942
-*JUL:	+< what is that ? %snd:"sastre7"_116619_117942
-*JUL:	water . %snd:"sastre7"_117913_118964
-*JAD:	that's hypochlorine [?] . %snd:"sastre7"_118970_120287
-*JUL:	I thought you said it stunk . %snd:"sastre7"_120239_122677
-*JAD:	what ? %snd:"sastre7"_122645_123156
-*JUL:	I thought you said it smelled bad . %snd:"sastre7"_123130_124930
-*JAD:	you don't smell it ? %snd:"sastre7"_124918_125945
-*JUL:	I don't smell nothin' dog . %snd:"sastre7"_125894_127485
-*JUL:	xxx if it's gonna give me a headache . %snd:"sastre7"_127473_129650
-*JAD:	no it smells like water . %snd:"sastre7"_129420_130633
-*JAD:	xxx stupid . %snd:"sastre7"_130624_133773
-*JUL:	&=cough . %snd:"sastre7"_133671_134734
-*JUL:	xxx <test for exhaustion> [?] due to silver saturation . %snd:"sastre7"_134719_139814
-*JAD:	so xxx doesn't want you to play mellow . %snd:"sastre7"_138479_141135
-*JAD:	I didn't know that . %snd:"sastre7"_141135_141896
-*JAD:	I thought he [/] he didn't care . %snd:"sastre7"_141896_143744
-*JUL:	+< no he [/] he of course no because next year um xxx is only I think xxx is playing sax next year . %snd:"sastre7"_142432_149522
-*JAD:	why did she do that ? %snd:"sastre7"_149440_150577
-*JUL:	+< xxx . %snd:"sastre7"_150525_150920
-*JAD:	is she even good ? %snd:"sastre7"_150554_151425
-*JUL:	I don't know xxx . %snd:"sastre7"_151402_153854
-*JUL:	she couldn't care less . %snd:"sastre7"_153784_154759
-*JUL:	she is good at it . %snd:"sastre7"_154747_155995
-*JUL:	better than me . %snd:"sastre7"_155983_157196
-*JAD:	+< you say you are good . %snd:"sastre7"_155983_157196
-*JAD:	I'm proud of you . %snd:"sastre7"_157196_158201
-*JUL:	I am good . %snd:"sastre7"_158164_159633
-*JAD:	I didn't know . %snd:"sastre7"_159569_160370
-*JAD:	I haven't heard you . %snd:"sastre7"_160364_161160
-*JUL:	xxx . %snd:"sastre7"_161136_162448
-*JAD:	yeah I know . %snd:"sastre7"_162433_162851
-*JAD:	you don't show me . %snd:"sastre7"_162816_163908
-*JUL:	I just can't play the xxx . %snd:"sastre7"_163894_165177
-*JUL:	but um other than that +.. . %snd:"sastre7"_165162_167762
-*JAD:	you have good tone ? %snd:"sastre7"_166404_167774
-*JUL:	yes I sound xxx . %snd:"sastre7"_167730_169855
+*JAD:	Harry_Potter@s:eng&spa . 40656_41741
+*JUL:	Harry_Potter@s:eng&spa ! 41730_43082
+*JAD:	&=laughs . 42882_43840
+*JUL:	back to Hogwarts@s:eng&spa . 43319_45287
+*JAD:	Hogwarts@s:eng&spa . 45261_46329
+*JUL:	&=laughs . 46329_47775
+*JAD:	I'm Emma@s:eng&spa . 47757_48709
+*JAD:	nice to meet you . 48681_49760
+*JUL:	Emma_Watson@s:eng&spa her name is Hermione@s:eng&spa stupid . 49755_52831
+*JAD:	I'm just saying I'm Emma@s:eng&spa . 52917_54531
+*JAD:	not not xxx <I'm not on Har(ry)@s:eng&spa> [/] I'm not on Harry_Potter@s:eng&spa anymore . 54495_60149
+*JUL:	+< oh I thought you were talking about Hermione@s:eng&spa . 55877_59923
+*JUL:	hello Emma@s:eng&spa . 59896_62711
+*JAD:	hello poppet . 62683_65284
+*JUL:	poppet that's [/] that's frikkin' um +... 65260_67495
+*JAD:	+< laugh . 65260_67455
+*JAD:	Manuela@s:eng&spa works like with the cop . 67421_68843
+*JAD:	and since she has that counting card . 68826_70770
+*JAD:	she has like the radio there like the cop radio . 70749_73286
+*JUL:	ahah . 73251_73971
+*JAD:	and I was sending her to get on it and go +"/. 73836_75810
+*JAD:	+" hello poppet . 75785_77097
+*JAD:	&=laughs . 77028_77760
+*JUL:	+< &=laughs hello [=! laughs] . 77092_79414
+*JAD:	&arr . 79391_80453
+*JAD:	well she says she can get in trouble . 80441_82148
+*JUL:	xxx [=! laughs] . 82107_83285
+*JAD:	does it matter ? 83279_83970
+*JUL:	xxx . 83784_84185
+*JAD:	you go +"/. 84173_84533
+*JAD:	+" hello poppet . 84527_85694
+*JUL:	hello . 85663_86899
+*JUL:	hello . 86882_88284
+*JAD:	+< &=laugh . 86882_88284
+*JAD:	what the hell ? 88237_89230
+*JUL:	xxx . 88833_91039
+*JAD:	hello poppet . 91051_92640
+*JUL:	&=laughs xxx people next door xxx colour . 92658_96013
+*JAD:	yes it's colour . 96007_97459
+*JAD:	yeah there are people . 97505_98561
+*JUL:	that's what . 98480_98782
+*JUL:	is that minutes ? 98794_99519
+*JAD:	minutes and seconds . 99519_101690
+*JUL:	what are you doing ? 101696_102915
+*JAD:	tearing it up so I can start . 102910_104843
+*JAD:	did you develop ? 104812_110252
+*JUL:	xxx develop . 110235_112493
+*JAD:	did you do a strip ? 112499_113701
+*JUL:	no not even that . 113681_116677
+*JAD:	or you have it on like loud . 116619_117942
+*JUL:	+< what is that ? 116619_117942
+*JUL:	water . 117913_118964
+*JAD:	that's hypochlorine [?] . 118970_120287
+*JUL:	I thought you said it stunk . 120239_122677
+*JAD:	what ? 122645_123156
+*JUL:	I thought you said it smelled bad . 123130_124930
+*JAD:	you don't smell it ? 124918_125945
+*JUL:	I don't smell nothin' dog . 125894_127485
+*JUL:	xxx if it's gonna give me a headache . 127473_129650
+*JAD:	no it smells like water . 129420_130633
+*JAD:	xxx stupid . 130624_133773
+*JUL:	&=cough . 133671_134734
+*JUL:	xxx <test for exhaustion> [?] due to silver saturation . 134719_139814
+*JAD:	so xxx doesn't want you to play mellow . 138479_141135
+*JAD:	I didn't know that . 141135_141896
+*JAD:	I thought he [/] he didn't care . 141896_143744
+*JUL:	+< no he [/] he of course no because next year um xxx is only I think xxx is playing sax next year . 142432_149522
+*JAD:	why did she do that ? 149440_150577
+*JUL:	+< xxx . 150525_150920
+*JAD:	is she even good ? 150554_151425
+*JUL:	I don't know xxx . 151402_153854
+*JUL:	she couldn't care less . 153784_154759
+*JUL:	she is good at it . 154747_155995
+*JUL:	better than me . 155983_157196
+*JAD:	+< you say you are good . 155983_157196
+*JAD:	I'm proud of you . 157196_158201
+*JUL:	I am good . 158164_159633
+*JAD:	I didn't know . 159569_160370
+*JAD:	I haven't heard you . 160364_161160
+*JUL:	xxx . 161136_162448
+*JAD:	yeah I know . 162433_162851
+*JAD:	you don't show me . 162816_163908
+*JUL:	I just can't play the xxx . 163894_165177
+*JUL:	but um other than that +... 165162_167762
+*JAD:	you have good tone ? 166404_167774
+*JUL:	yes I sound xxx . 167730_169855
 %com:	background noise
-*JAD:	do you have good tone for real ? %snd:"sastre7"_169784_171456
-*JUL:	yeah bro kill me . %snd:"sastre7"_170545_172252
-*JUL:	&= laughs . %snd:"sastre7"_172238_173283
-*JAD:	+< oh but at [/] at the beginning right when you started playing didn't it hurt like <the vibrating> [//] the +.. . %snd:"sastre7"_172801_178593
-*JAD:	ok you know when you are playing it vibrates . %snd:"sastre7"_178581_180863
-*JUL:	mmhm@s:eng&spa but you know I don't feel it vibrating . %snd:"sastre7"_180692_182602
-*JAD:	bro I feel it and my shit starts to tickle . %snd:"sastre7"_182189_184540
-*JUL:	+< maybe because you are not used to it . %snd:"sastre7"_182189_184540
-*JUL:	but I remember I +/ . %snd:"sastre7"_184478_186336
-*JAD:	I'm like &prrrr oh my god . %snd:"sastre7"_184478_186324
-*JUL:	wait what are you playing what the [/] the clarinet no? %snd:"sastre7"_186275_189398
-*JAD:	+< the [/] the clarinet yeah . %snd:"sastre7"_186275_189352
-*JAD:	no [?] . %snd:"sastre7"_189360_192916
-*JUL:	+< xxx just to me . %snd:"sastre7"_189360_192869
-*JUL:	the metal it felt weird . %snd:"sastre7"_192820_195090
-*JAD:	it's gonna hurt you're gonna see . %snd:"sastre7"_195023_197130
-*JAD:	you are gonna get that stupid +// . %snd:"sastre7"_197131_199105
-*JUL:	circle . %snd:"sastre7"_198646_199070
-*JAD:	yeah . %snd:"sastre7"_199145_199645
-*JAD:	they take I don't know like . %snd:"sastre7"_199626_202569
-*JUL:	+< permanent circle I don't want a circle . %snd:"sastre7"_199626_202587
-*JAD:	it looks like you like I don't know +.. . %snd:"sastre7"_202648_205342
-*JAD:	like you imprint it . %snd:"sastre7"_205359_207646
-*JUL:	[- spa] el círculo . %snd:"sastre7"_207640_208737
-*JAD:	+< yeah like the d(amn) [/] damn thing . %snd:"sastre7"_207867_210810
-*JUL:	is that a specific way that you are supposed to shake it ? %snd:"sastre7"_210740_216179
-*JAD:	no you just have to agitate it . %snd:"sastre7"_216168_217801
-*JAD:	and then do it like in eights like um . %snd:"sastre7"_217796_220695
-*JUL:	+< right . %snd:"sastre7"_220272_220753
-*JAD:	figure eight yeah . %snd:"sastre7"_220720_221718
-*JUL:	yeah [?] . %snd:"sastre7"_221695_222902
-*JUL:	that's really good . %snd:"sastre7"_222902_224359
-*JAD:	+< oh that's nice . %snd:"sastre7"_222902_224296
-*JUL:	except <the love> [/] the love . %snd:"sastre7"_224301_226476
-*JAD:	+< no it's [/] it's +// . %snd:"sastre7"_225756_227834
-*JUL:	like that . %snd:"sastre7"_227794_228902
-*JUL:	xxx the light . %snd:"sastre7"_227811_228763
-*JUL:	yeah . %snd:"sastre7"_228740_229140
-*JUL:	oh my god . %snd:"sastre7"_229140_231282
+*JAD:	do you have good tone for real ? 169784_171456
+*JUL:	yeah bro kill me . 170545_172252
+*JUL:	&= laughs . 172238_173283
+*JAD:	+< oh but at [/] at the beginning right when you started playing didn't it hurt like <the vibrating> [//] the +... 172801_178593
+*JAD:	ok you know when you are playing it vibrates . 178581_180863
+*JUL:	mmhm@s:eng&spa but you know I don't feel it vibrating . 180692_182602
+*JAD:	bro I feel it and my shit starts to tickle . 182189_184540
+*JUL:	+< maybe because you are not used to it . 182189_184540
+*JUL:	but I remember I +/. 184478_186336
+*JAD:	I'm like &prrrr oh my god . 184478_186324
+*JUL:	wait what are you playing what the [/] the clarinet no? 186275_189398
+*JAD:	+< the [/] the clarinet yeah . 186275_189352
+*JAD:	no [?] . 189360_192916
+*JUL:	+< xxx just to me . 189360_192869
+*JUL:	the metal it felt weird . 192820_195090
+*JAD:	it's gonna hurt you're gonna see . 195023_197130
+*JAD:	you are gonna get that stupid +//. 197131_199105
+*JUL:	circle . 198646_199070
+*JAD:	yeah . 199145_199645
+*JAD:	they take I don't know like . 199626_202569
+*JUL:	+< permanent circle I don't want a circle . 199626_202587
+*JAD:	it looks like you like I don't know +... 202648_205342
+*JAD:	like you imprint it . 205359_207646
+*JUL:	[- spa] el círculo . 207640_208737
+*JAD:	+< yeah like the d(amn) [/] damn thing . 207867_210810
+*JUL:	is that a specific way that you are supposed to shake it ? 210740_216179
+*JAD:	no you just have to agitate it . 216168_217801
+*JAD:	and then do it like in eights like um . 217796_220695
+*JUL:	+< right . 220272_220753
+*JAD:	figure eight yeah . 220720_221718
+*JUL:	yeah [?] . 221695_222902
+*JUL:	that's really good . 222902_224359
+*JAD:	+< oh that's nice . 222902_224296
+*JUL:	except <the love> [/] the love . 224301_226476
+*JAD:	+< no it's [/] it's +//. 225756_227834
+*JUL:	like that . 227794_228902
+*JUL:	xxx the light . 227811_228763
+*JUL:	yeah . 228740_229140
+*JUL:	oh my god . 229140_231282
 %com:	background noise
-*JUL:	I like . %snd:"sastre7"_231261_232422
-*JAD:	+< xxx . %snd:"sastre7"_231261_232428
-*JAD:	it looks really nice . %snd:"sastre7"_232428_233589
-*JUL:	you need to rinse it with water ? %snd:"sastre7"_233583_235118
-*JAD:	yeah . %snd:"sastre7"_235112_235583
-*JAD:	[- spa] no te gusta ? %snd:"sastre7"_235559_236378
-*JUL:	yeah yeah I'm saying xxx . %snd:"sastre7"_236359_238402
-*JAD:	not you are going &eh like I don't like it . %snd:"sastre7"_237821_239656
-*JUL:	+< xxx like that . %snd:"sastre7"_237821_239667
-*JUL:	yeah . %snd:"sastre7"_239640_241527
-*JUL:	looks nice . %snd:"sastre7"_241480_242508
-*JAD:	I was telling her how like you know the mellow you get that stupid ring here . %snd:"sastre7"_242491_246290
-*JUL:	&= laugh . %snd:"sastre7"_246270_247698
-*JAD:	+< they make fun of me all the time . %snd:"sastre7"_246270_247698
-*JAD:	like man you are really sticking that in . %snd:"sastre7"_248621_251199
-*JAD:	like I was like pushing it in . %snd:"sastre7"_251098_253466
-*JUL:	+< &=gasp . %snd:"sastre7"_251098_253466
-*JAD:	they are like why do you do that so hard ? %snd:"sastre7"_253428_255362
-*JAD:	and then I go well +// . %snd:"sastre7"_255321_256912
-*JUL:	+< and <a picture> [/] a picture of you xxx . %snd:"sastre7"_256175_258380
-*JAD:	+< it doesn't come out on like . %snd:"sastre7"_256906_258398
-*JAD:	I don't know . %snd:"sastre7"_258357_259361
-*JAD:	<I have a> [/] I have a mellow picture when I was in +// . %snd:"sastre7"_259318_263805
-*JUL:	I know . %snd:"sastre7"_263794_264136
-*JUL:	I saw you like reading . %snd:"sastre7"_264130_265744
-*JAD:	now where ? %snd:"sastre7"_265728_267754
-*JUL:	+< but . %snd:"sastre7"_267417_268502
-*JUL:	in your house . %snd:"sastre7"_268506_269714
-*JAD:	+< oh I wasn't reading . %snd:"sastre7"_269023_271583
+*JUL:	I like . 231261_232422
+*JAD:	+< xxx . 231261_232428
+*JAD:	it looks really nice . 232428_233589
+*JUL:	you need to rinse it with water ? 233583_235118
+*JAD:	yeah . 235112_235583
+*JAD:	[- spa] no te gusta ? 235559_236378
+*JUL:	yeah yeah I'm saying xxx . 236359_238402
+*JAD:	not you are going &eh like I don't like it . 237821_239656
+*JUL:	+< xxx like that . 237821_239667
+*JUL:	yeah . 239640_241527
+*JUL:	looks nice . 241480_242508
+*JAD:	I was telling her how like you know the mellow you get that stupid ring here . 242491_246290
+*JUL:	&= laugh . 246270_247698
+*JAD:	+< they make fun of me all the time . 246270_247698
+*JAD:	like man you are really sticking that in . 248621_251199
+*JAD:	like I was like pushing it in . 251098_253466
+*JUL:	+< &=gasp . 251098_253466
+*JAD:	they are like why do you do that so hard ? 253428_255362
+*JAD:	and then I go well +//. 255321_256912
+*JUL:	+< and <a picture> [/] a picture of you xxx . 256175_258380
+*JAD:	+< it doesn't come out on like . 256906_258398
+*JAD:	I don't know . 258357_259361
+*JAD:	<I have a> [/] I have a mellow picture when I was in +//. 259318_263805
+*JUL:	I know . 263794_264136
+*JUL:	I saw you like reading . 264130_265744
+*JAD:	now where ? 265728_267754
+*JUL:	+< but . 267417_268502
+*JUL:	in your house . 268506_269714
+*JAD:	+< oh I wasn't reading . 269023_271583
 %com:	background noise
-*JUL:	xxx . %snd:"sastre7"_271563_274146
-*JAD:	+< xxx . %snd:"sastre7"_271563_274192
-*JUL:	oh I xxx . %snd:"sastre7"_274169_275739
-*JUL:	I'm thinking of xxx . %snd:"sastre7"_275745_276459
-*JUL:	the one at um@s:eng&spa xxx . %snd:"sastre7"_276459_278278
-*JAD:	yeah . %snd:"sastre7"_278255_278807
-*JUL:	yeah that's what I'm talking about . %snd:"sastre7"_278783_280182
-*JAD:	you have to get yourself one of those pictures . %snd:"sastre7"_280170_281871
-*JUL:	I know . %snd:"sastre7"_281894_282353
-*JAD:	I think that's bad but +// . %snd:"sastre7"_282293_283582
-*JUL:	what ? %snd:"sastre7"_283576_284505
-*JAD:	+, getting like a picture . %snd:"sastre7"_284500_285690
-*JUL:	what do you mean that's bad ? %snd:"sastre7"_285656_286776
-*JAD:	bad ass . %snd:"sastre7"_286758_287298
-*JUL:	oh . %snd:"sastre7"_287304_288012
-*JAD:	I'm like bad butt . %snd:"sastre7"_288000_289893
-*JUL:	+< xxx . %snd:"sastre7"_288000_289893
-*JUL:	why is it bad [=! laughs] ? %snd:"sastre7"_289881_291141
-*JAD:	it's bad butt yo . %snd:"sastre7"_291138_294517
-*JUL:	+< what is that ? %snd:"sastre7"_292822_294395
-*JAD:	it's the hypochlorine . %snd:"sastre7"_294350_295685
-*JUL:	+< and you xxx [//] pour back in there ? %snd:"sastre7"_295387_296467
-*JAD:	yup because it's bad for the environment . %snd:"sastre7"_296496_298985
-*JUL:	it is ? %snd:"sastre7"_298950_299809
-*JAD:	yeah . %snd:"sastre7"_299769_300738
-*JAD:	oh my god speaking of environment . %snd:"sastre7"_300967_303068
-*JAD:	do you know how to say environment in Spanish ? %snd:"sastre7"_303039_304938
-*JAD:	every time I'm talking to my grandma +// . %snd:"sastre7"_304911_306780
-*JUL:	+< environment ? %snd:"sastre7"_305392_306751
-*JAD:	+, I'm like +"/ . %snd:"sastre7"_306710_307447
-*JUL:	[- spa] +" sí abuela el enviromento@s:eng+spa . %snd:"sastre7"_307441_310181
-*JAD:	+< environ(ment) I don't know [=! laugh] . %snd:"sastre7"_307441_310199
-*JUL:	[- spa] el enviromento@s:eng+spa . %snd:"sastre7"_310166_312012
-*JUL:	environment la@s:spa +.. . %snd:"sastre7"_310874_312023
-*JUL:	la@s:spa comu(nidad)@s:spa [//] I don't know community . %snd:"sastre7"_312012_314200
-*JAD:	no guy community . %snd:"sastre7"_314116_316008
-*JUL:	+< I know xxx I know . %snd:"sastre7"_314116_315991
-*JUL:	I like . %snd:"sastre7"_315852_316484
-*JUL:	shut up . %snd:"sastre7"_316496_316943
-*JUL:	I'm like +"/ . %snd:"sastre7"_316925_317216
-*JUL:	+" shut up uh . %snd:"sastre7"_317222_317999
-*JUL:	no I don't know xxx . %snd:"sastre7"_317994_319852
+*JUL:	xxx . 271563_274146
+*JAD:	+< xxx . 271563_274192
+*JUL:	oh I xxx . 274169_275739
+*JUL:	I'm thinking of xxx . 275745_276459
+*JUL:	the one at um@s:eng&spa xxx . 276459_278278
+*JAD:	yeah . 278255_278807
+*JUL:	yeah that's what I'm talking about . 278783_280182
+*JAD:	you have to get yourself one of those pictures . 280170_281871
+*JUL:	I know . 281894_282353
+*JAD:	I think that's bad but +//. 282293_283582
+*JUL:	what ? 283576_284505
+*JAD:	+, getting like a picture . 284500_285690
+*JUL:	what do you mean that's bad ? 285656_286776
+*JAD:	bad ass . 286758_287298
+*JUL:	oh . 287304_288012
+*JAD:	I'm like bad butt . 288000_289893
+*JUL:	+< xxx . 288000_289893
+*JUL:	why is it bad [=! laughs] ? 289881_291141
+*JAD:	it's bad butt yo . 291138_294517
+*JUL:	+< what is that ? 292822_294395
+*JAD:	it's the hypochlorine . 294350_295685
+*JUL:	+< and you xxx [//] pour back in there ? 295387_296467
+*JAD:	yup because it's bad for the environment . 296496_298985
+*JUL:	it is ? 298950_299809
+*JAD:	yeah . 299769_300738
+*JAD:	oh my god speaking of environment . 300967_303068
+*JAD:	do you know how to say environment in Spanish ? 303039_304938
+*JAD:	every time I'm talking to my grandma +//. 304911_306780
+*JUL:	+< environment ? 305392_306751
+*JAD:	+, I'm like +"/. 306710_307447
+*JUL:	[- spa] +" sí abuela el enviromento@s:eng+spa . 307441_310181
+*JAD:	+< environ(ment) I don't know [=! laugh] . 307441_310199
+*JUL:	[- spa] el enviromento@s:eng+spa . 310166_312012
+*JUL:	environment la@s:spa +... 310874_312023
+*JUL:	la@s:spa comu(nidad)@s:spa [//] I don't know community . 312012_314200
+*JAD:	no guy community . 314116_316008
+*JUL:	+< I know xxx I know . 314116_315991
+*JUL:	I like . 315852_316484
+*JUL:	shut up . 316496_316943
+*JUL:	I'm like +"/. 316925_317216
+*JUL:	+" shut up uh . 317222_317999
+*JUL:	no I don't know xxx . 317994_319852
 %com:	background noise .
-*JUL:	xxx . %snd:"sastre7"_319770_321280
-*JAD:	I really don't know . %snd:"sastre7"_321274_322243
-*JUL:	the environment . %snd:"sastre7"_322221_327479
-*JAD:	enviromento@s:eng+spa . %snd:"sastre7"_327462_328675
-*JUL:	xxx . %snd:"sastre7"_328657_332198
-*JAD:	+< I'm serious . %snd:"sastre7"_328657_332198
-*JAD:	I don't know how to say it for real . %snd:"sastre7"_332489_334050
-*JUL:	+< environment(al) no . %snd:"sastre7"_333603_335176
-*JAD:	was that it ? %snd:"sastre7"_334995_336696
-*JUL:	+< enviromento@s:eng+spa ! %snd:"sastre7"_334995_336696
-*JAD:	and then abuela@s:spa . %snd:"sastre7"_336689_337954
-*JAD:	no I'm serious . %snd:"sastre7"_337943_338587
-*JAD:	when I'm talking to abuela@s:spa . %snd:"sastre7"_338564_339812
-*JAD:	she's like +"/ . %snd:"sastre7"_339781_340455
-*JAD:	+" oh el@s:spa environment . %snd:"sastre7"_340437_341343
-*JAD:	and I go +"/ . %snd:"sastre7"_341256_341755
-*JAD:	+" abuela@s:spa el@s:spa environment [=! coughs] environmental . %snd:"sastre7"_341738_345243
-*JUL:	[- spa] +< qué es eso niña ? %snd:"sastre7"_343444_345243
-*JAD:	and then I go +"/ . %snd:"sastre7"_345155_346055
-*JAD:	+" you know what I'm talking about ? %snd:"sastre7"_346032_346792
-*JAD:	she is like +"/ . %snd:"sastre7"_346748_346980
-*JAD:	[- spa] +" sí sí . %snd:"sastre7"_346975_348083
-*JAD:	sí@s:spa no you don't . %snd:"sastre7"_348066_349488
-*JAD:	you don't know . %snd:"sastre7"_349499_350498
-*JUL:	I should ask my mamma mommy . %snd:"sastre7"_350475_352808
-*JAD:	your mom doesn't even know . %snd:"sastre7"_352802_354219
-*JUL:	true . %snd:"sastre7"_354201_354968
-*JAD:	ah ! %snd:"sastre7"_354950_356181
-*JUL:	+< yeah but . %snd:"sastre7"_354950_356146
-*JUL:	&lele I fucked up a lot ! %snd:"sastre7"_356115_358065
-*JAD:	you did ? %snd:"sastre7"_358064_359283
-*JAD:	I don't think it reached . %snd:"sastre7"_359278_360700
-*JAD:	do you see what I am saying ? %snd:"sastre7"_360624_362093
-*JUL:	xxx . %snd:"sastre7"_362085_363896
-*JAD:	no I don't think it reached like # the developer didn't reach . %snd:"sastre7"_363878_369461
-*JUL:	what does that mean ? %snd:"sastre7"_369402_370905
-*JAD:	that I didn't put enough liquid . %snd:"sastre7"_370853_373227
-*JAD:	the second one's perfect . %snd:"sastre7"_373233_374521
-*JAD:	look at that . %snd:"sastre7"_374504_375398
-*JAD:	perfect chaos [?] . %snd:"sastre7"_375364_378139
-*JAD:	fuck bro . %snd:"sastre7"_378137_379014
-*JAD:	I hope xxx my whale ones . %snd:"sastre7"_378985_380744
-*JUL:	your whale . %snd:"sastre7"_380719_382077
-*JAD:	I took a lot of whale pictures . %snd:"sastre7"_382060_383494
-*JAD:	man damn ! %snd:"sastre7"_383494_386499
-*JAD:	I have never messed up this much . %snd:"sastre7"_386469_388622
-*JUL:	+< xxx . %snd:"sastre7"_386469_388622
-*JUL:	<and it> [/] and it won't print at all . %snd:"sastre7"_388610_390398
-*JAD:	no oh my god . %snd:"sastre7"_390378_393808
-*JUL:	can you see ? %snd:"sastre7"_393791_394743
-*JAD:	+< xxx . %snd:"sastre7"_393791_394743
-*JAD:	some pictures came out like +// . %snd:"sastre7"_394737_396362
-*JAD:	look you see this picture . %snd:"sastre7"_396357_397355
-*JUL:	what is that ? %snd:"sastre7"_397348_398399
-*JAD:	+< it's messed up right there . %snd:"sastre7"_397348_398399
-*JAD:	can you see the xxx ? %snd:"sastre7"_398387_401925
-*JUL:	xxx . %snd:"sastre7"_401913_405095
-*JAD:	+< I [/] I don't know what that is . %snd:"sastre7"_401913_405095
-*JAD:	oh these are my Free_Willy pictures . %snd:"sastre7"_405088_408449
-*JUL:	that's your whale ? %snd:"sastre7"_405088_408408
-*JAD:	&t . %snd:"sastre7"_408412_411268
-*JUL:	how long this is taking ? %snd:"sastre7"_411258_412617
-*JUL:	xxx fifteen minutes . %snd:"sastre7"_412634_413940
-*JAD:	+< fuck bro . %snd:"sastre7"_412634_413934
-*JAD:	damn and Free_Willy is black and white dog . %snd:"sastre7"_413929_417188
-*JUL:	&=coughs . %snd:"sastre7"_417148_419743
-*JUL:	[- spa] se le salió la nenería [=! laughs] . %snd:"sastre7"_419720_422108
-*JAD:	I'm depressed . %snd:"sastre7"_422085_426276
-*JUL:	is ok . %snd:"sastre7"_426276_428429
-*JAD:	I'm really depressed . %snd:"sastre7"_428424_429677
-*JAD:	I hope in the middle it's not bad . %snd:"sastre7"_429644_433789
-*JAD:	even in the middle ? %snd:"sastre7"_433727_439254
-*JUL:	mmhm@s:eng&spa . %snd:"sastre7"_439240_439693
-*JAD:	even in the middle ? %snd:"sastre7"_439670_440831
-*JUL:	xxx . %snd:"sastre7"_440807_444435
-*JAD:	put it back into it . %snd:"sastre7"_444395_445277
-*JAD:	and I can take an hour earlier . %snd:"sastre7"_445259_446786
-*JAD:	I'm gonna xxx in fifteen minutes . %snd:"sastre7"_446750_449356
-*JAD:	how depressing . %snd:"sastre7"_449339_452931
-*JUL:	xxx . %snd:"sastre7"_452935_455013
-*JAD:	+< I'm really sad . %snd:"sastre7"_452935_455013
-*JAD:	I'm really sad . %snd:"sastre7"_454831_456422
-*JUL:	who am I ? %snd:"sastre7"_456399_459044
-*JAD:	you . %snd:"sastre7"_459012_462269
+*JUL:	xxx . 319770_321280
+*JAD:	I really don't know . 321274_322243
+*JUL:	the environment . 322221_327479
+*JAD:	enviromento@s:eng+spa . 327462_328675
+*JUL:	xxx . 328657_332198
+*JAD:	+< I'm serious . 328657_332198
+*JAD:	I don't know how to say it for real . 332489_334050
+*JUL:	+< environment(al) no . 333603_335176
+*JAD:	was that it ? 334995_336696
+*JUL:	+< enviromento@s:eng+spa ! 334995_336696
+*JAD:	and then abuela@s:spa . 336689_337954
+*JAD:	no I'm serious . 337943_338587
+*JAD:	when I'm talking to abuela@s:spa . 338564_339812
+*JAD:	she's like +"/. 339781_340455
+*JAD:	+" oh el@s:spa environment . 340437_341343
+*JAD:	and I go +"/. 341256_341755
+*JAD:	+" abuela@s:spa el@s:spa environment [=! coughs] environmental . 341738_345243
+*JUL:	[- spa] +< qué es eso niña ? 343444_345243
+*JAD:	and then I go +"/. 345155_346055
+*JAD:	+" you know what I'm talking about ? 346032_346792
+*JAD:	she is like +"/. 346748_346980
+*JAD:	[- spa] +" sí sí . 346975_348083
+*JAD:	sí@s:spa no you don't . 348066_349488
+*JAD:	you don't know . 349499_350498
+*JUL:	I should ask my mamma mommy . 350475_352808
+*JAD:	your mom doesn't even know . 352802_354219
+*JUL:	true . 354201_354968
+*JAD:	ah ! 354950_356181
+*JUL:	+< yeah but . 354950_356146
+*JUL:	&lele I fucked up a lot ! 356115_358065
+*JAD:	you did ? 358064_359283
+*JAD:	I don't think it reached . 359278_360700
+*JAD:	do you see what I am saying ? 360624_362093
+*JUL:	xxx . 362085_363896
+*JAD:	no I don't think it reached like # the developer didn't reach . 363878_369461
+*JUL:	what does that mean ? 369402_370905
+*JAD:	that I didn't put enough liquid . 370853_373227
+*JAD:	the second one's perfect . 373233_374521
+*JAD:	look at that . 374504_375398
+*JAD:	perfect chaos [?] . 375364_378139
+*JAD:	fuck bro . 378137_379014
+*JAD:	I hope xxx my whale ones . 378985_380744
+*JUL:	your whale . 380719_382077
+*JAD:	I took a lot of whale pictures . 382060_383494
+*JAD:	man damn ! 383494_386499
+*JAD:	I have never messed up this much . 386469_388622
+*JUL:	+< xxx . 386469_388622
+*JUL:	<and it> [/] and it won't print at all . 388610_390398
+*JAD:	no oh my god . 390378_393808
+*JUL:	can you see ? 393791_394743
+*JAD:	+< xxx . 393791_394743
+*JAD:	some pictures came out like +//. 394737_396362
+*JAD:	look you see this picture . 396357_397355
+*JUL:	what is that ? 397348_398399
+*JAD:	+< it's messed up right there . 397348_398399
+*JAD:	can you see the xxx ? 398387_401925
+*JUL:	xxx . 401913_405095
+*JAD:	+< I [/] I don't know what that is . 401913_405095
+*JAD:	oh these are my Free_Willy pictures . 405088_408449
+*JUL:	that's your whale ? 405088_408408
+*JAD:	&t . 408412_411268
+*JUL:	how long this is taking ? 411258_412617
+*JUL:	xxx fifteen minutes . 412634_413940
+*JAD:	+< fuck bro . 412634_413934
+*JAD:	damn and Free_Willy is black and white dog . 413929_417188
+*JUL:	&=coughs . 417148_419743
+*JUL:	[- spa] se le salió la nenería [=! laughs] . 419720_422108
+*JAD:	I'm depressed . 422085_426276
+*JUL:	is ok . 426276_428429
+*JAD:	I'm really depressed . 428424_429677
+*JAD:	I hope in the middle it's not bad . 429644_433789
+*JAD:	even in the middle ? 433727_439254
+*JUL:	mmhm@s:eng&spa . 439240_439693
+*JAD:	even in the middle ? 439670_440831
+*JUL:	xxx . 440807_444435
+*JAD:	put it back into it . 444395_445277
+*JAD:	and I can take an hour earlier . 445259_446786
+*JAD:	I'm gonna xxx in fifteen minutes . 446750_449356
+*JAD:	how depressing . 449339_452931
+*JUL:	xxx . 452935_455013
+*JAD:	+< I'm really sad . 452935_455013
+*JAD:	I'm really sad . 454831_456422
+*JUL:	who am I ? 456399_459044
+*JAD:	you . 459012_462269
 %com:	background noise .
-*JAD:	fuck Free Willy . %snd:"sastre7"_462247_465643
-*JUL:	it's Shamu@s:eng&spa . %snd:"sastre7"_465636_467064
-*JAD:	Free Willy . %snd:"sastre7"_467064_468742
-*JUL:	+< no it's +.. . %snd:"sastre7"_467064_469165
-*JUL:	Shamu@s:eng&spa is from Sea World &eh . %snd:"sastre7"_469154_470460
-*JAD:	oh but in [/] in the roll that I'm taking now I have some Shamu@s:eng&spa pictures . %snd:"sastre7"_470441_474330
-*JAD:	yeah it's Shamu@s:eng&spa . %snd:"sastre7"_474294_477394
-*JUL:	and the um +// . %snd:"sastre7"_476509_478117
-*JAD:	xxx . %snd:"sastre7"_478111_480168
-*JUL:	she likes +// . %snd:"sastre7"_480174_480836
-*JUL:	she is gonna be a veterinarian remember ? %snd:"sastre7"_480824_484116
-*JAD:	+< I wanna go to see um the Miami_sea_aquarium . %snd:"sastre7"_480824_484057
-*JUL:	wait to see what there is to see in Miami_sea_aquarium [=! sings] . %snd:"sastre7"_484013_491524
-*JAD:	+< in Miami_sea_aquarium [=! sings] . %snd:"sastre7"_484013_491507
-*JAD:	let's harmonize . %snd:"sastre7"_491495_493678
-*JUL:	oh [=! sings] . %snd:"sastre7"_493655_499414
-*JAD:	+< oh [=! sings] . %snd:"sastre7"_493655_499414
-*JAD:	your turn . %snd:"sastre7"_499365_501095
-*JUL:	go go oh let's do a three part harmony . %snd:"sastre7"_501030_503588
-*JUL:	go go go . %snd:"sastre7"_503541_504633
-*JAD:	go . %snd:"sastre7"_503541_504633
-*JAD:	go go you set the note then go go . %snd:"sastre7"_504622_507994
-*JUL:	+< do@s:eng&spa mi@s:eng&spa sol@s:eng&spa . %snd:"sastre7"_506032_508018
-*JUL:	go . %snd:"sastre7"_508023_509272
-*JAD:	go you have to hold it out though . %snd:"sastre7"_509222_510980
-*JUL:	I'm not gonna hold it out . %snd:"sastre7"_509222_510969
-*JUL:	come on we can do it . %snd:"sastre7"_510962_512471
-*JUL:	do@s:eng&spa mi@s:eng&spa sol@s:eng&spa . %snd:"sastre7"_512454_515284
-*JAD:	go . %snd:"sastre7"_515247_516141
-*JUL:	[- spa] tú eres cantante . %snd:"sastre7"_516153_517616
-*JAD:	go go la@s:eng&spa go . %snd:"sastre7"_517597_519263
-*JUL:	la@s:eng&spa . %snd:"sastre7"_519210_520778
-*JAD:	la@s:eng&spa . %snd:"sastre7"_520746_523359
-*JUL:	larara@s:eng&spa [=! sings] . %snd:"sastre7"_523297_526095
-*JUL:	la@s:eng&spa [=! laughs] . %snd:"sastre7"_526064_527434
-*JAD:	ah@s:eng&spa [=! laughs] . %snd:"sastre7"_527394_529565
-*JUL:	+< ah@s:eng&spa [=! laughs] . %snd:"sastre7"_527394_529565
-*JAD:	hi mister can you hear me ? %snd:"sastre7"_529543_535131
-*JUL:	&=laughs . %snd:"sastre7"_535108_540999
-*JAD:	+< &=laughs . %snd:"sastre7"_535108_540999
-*JAD:	if you are like +// . %snd:"sastre7"_540939_542018
-*JUL:	+< man that shit was spicy bro . %snd:"sastre7"_540939_542841
-*JAD:	xxx . %snd:"sastre7"_542835_543833
-*JUL:	the nachos@s:eng&spa from the +// . %snd:"sastre7"_543827_545666
-*JUL:	xxx the cheese from la@s:spa quesadilla@s:spa . %snd:"sastre7"_545678_548940
-*JAD:	do you wanna go back there some day ? %snd:"sastre7"_548906_552093
-*JUL:	eh@s:eng&spa ? %snd:"sastre7"_552029_552522
-*JAD:	you wanna go back there ? %snd:"sastre7"_552493_553370
-*JUL:	and that ? %snd:"sastre7"_553363_555308
-*JAD:	no that stays there . %snd:"sastre7"_555290_556469
-*JUL:	what happens if it's more than fifteen minutes . %snd:"sastre7"_555871_557345
-*JAD:	no I'll come back . %snd:"sastre7"_557323_558710
-*JUL:	ok yeah xxx . %snd:"sastre7"_558698_560626
-*JAD:	+< we gotta take this one . %snd:"sastre7"_559476_560748
-*JUL:	oh what a xxx . %snd:"sastre7"_560719_562929
-*JUL:	I wanna see some thing here . %snd:"sastre7"_562900_565187
-*JAD:	+< can you hear me talking ? %snd:"sastre7"_565054_565803
-*JUL:	I don't know . %snd:"sastre7"_565734_566297
-*JUL:	let's find out . %snd:"sastre7"_566274_567029
-*JUL:	here . %snd:"sastre7"_567023_567754
-*JAD:	+< &=laughs . %snd:"sastre7"_567023_567754
-*JUL:	right xxx . %snd:"sastre7"_567748_569559
-*JUL:	hello . %snd:"sastre7"_569527_570270
-*JUL:	&=laughs . %snd:"sastre7"_570258_571704
-*JAD:	hello . %snd:"sastre7"_571686_572650
-*JUL:	xxx . %snd:"sastre7"_572633_572876
-*JAD:	+< xxx wow I'm confused . %snd:"sastre7"_572633_574345
-*JUL:	I have to burp . %snd:"sastre7"_574337_576189
-*JUL:	he looks like J_C@s:eng&spa from N_Sync@s:eng&spa . %snd:"sastre7"_576060_579218
-*JAD:	yeah he does . %snd:"sastre7"_579135_580041
-*JAD:	I used to love +.. . %snd:"sastre7"_580029_582036
-*JUL:	I used to think he is ugly . %snd:"sastre7"_582001_583365
-*JUL:	I used to like Justin@s:eng&spa . %snd:"sastre7"_583359_584950
-*JAD:	+< J_C@s:eng&spa . %snd:"sastre7"_583359_584950
-*JUL:	oh I thought Justin@s:eng&spa was gay . %snd:"sastre7"_584961_586801
-*JAD:	no way that's Lance@s:eng&spa . %snd:"sastre7"_586777_588931
-*JUL:	oh I know that but +.. . %snd:"sastre7"_588894_591547
-*JUL:	the other day I saw him come out on T_M_C@s:eng&spa . %snd:"sastre7"_591521_593982
-*JUL:	and ah +.. . %snd:"sastre7"_593946_594596
-*JUL:	they are like +"/ . %snd:"sastre7"_594573_594898
-*JUL:	+" oh second gazing . %snd:"sastre7"_594840_595763
-*JUL:	+" he saw you come out in a pink beetle . %snd:"sastre7"_595740_598334
-*JUL:	it's kind of funny . %snd:"sastre7"_598329_599658
-*JAD:	+< ah that's not gay bro . %snd:"sastre7"_598714_600171
-*JUL:	no ? %snd:"sastre7"_600142_600832
-*JUL:	no ? %snd:"sastre7"_600827_601639
-*JAD:	the # I don't know . %snd:"sastre7"_601575_603549
-*JUL:	not at all xxx [=! sings] . %snd:"sastre7"_603502_606270
-*JUL:	let's dance . %snd:"sastre7"_606241_607646
-*JAD:	let's dance . %snd:"sastre7"_607629_609649
-*JUL:	<what is> [/] what is that ? %snd:"sastre7"_609615_613922
-*JUL:	xxx . %snd:"sastre7"_613887_615739
-*JUL:	xxx . %snd:"sastre7"_615704_617575
-*JAD:	+< so what has mister Jim@s:eng&spa told you though . %snd:"sastre7"_615704_617575
-*JUL:	about what ? %snd:"sastre7"_617491_618466
-*JAD:	I don't know . %snd:"sastre7"_618460_618954
-*JAD:	about how he feels and xxx . %snd:"sastre7"_618942_621349
-*JAD:	and then what he thinks about +/ . %snd:"sastre7"_621326_622591
-*JUL:	+< he says he is kind of stressed out . %snd:"sastre7"_622166_623600
-*JUL:	but it's about it . %snd:"sastre7"_623583_624877
-*JAD:	for real ? %snd:"sastre7"_624872_625313
-*JUL:	yeah . %snd:"sastre7"_625290_625934
-*JUL:	he's tired . %snd:"sastre7"_625894_626538
-*JUL:	I think he # should take a little # break . %snd:"sastre7"_626521_629388
-*JAD:	+< xxx . %snd:"sastre7"_626521_629313
-*JUL:	like just # a day . %snd:"sastre7"_629281_631394
-*JAD:	mmhm@s:eng&spa I think he should retire . %snd:"sastre7"_629281_631394
-*JUL:	no . %snd:"sastre7"_631357_632686
-*JUL:	not until I graduate . %snd:"sastre7"_632653_634182
-*JAD:	that's true xxx . %snd:"sastre7"_634152_635441
-*JUL:	why not ? %snd:"sastre7"_635426_636286
-*JAD:	what grade are you ? %snd:"sastre7"_635641_636756
-*JUL:	tenth . %snd:"sastre7"_636762_637667
-*JUL:	yeah we [//] he retires a year that I graduate . %snd:"sastre7"_637659_640103
-*JUL:	oh thank you . %snd:"sastre7"_640086_641125
-*JUL:	thank you . %snd:"sastre7"_641107_641902
-*JAD:	oh you're welcome . %snd:"sastre7"_641879_642657
-*JUL:	thank you thank you [=! sings] . %snd:"sastre7"_642640_645973
-*JUL:	&=laughs . %snd:"sastre7"_645912_647120
-*JAD:	+< &=laughs . %snd:"sastre7"_645912_647120
-*JUL:	I'm tired . %snd:"sastre7"_647114_647729
-*JUL:	I'm sorry . %snd:"sastre7"_647700_648391
-*JUL:	xxx my head hurts . %snd:"sastre7"_648372_656052
-*JAD:	yeah mine too . %snd:"sastre7"_656043_656513
-*JUL:	he is coming into the dark into the light and the dark and the light . %snd:"sastre7"_656495_659322
-*JAD:	it's really dark in here . %snd:"sastre7"_656495_659317
-*JUL:	xxx affect the # picture . %snd:"sastre7"_659305_663432
-*JUL:	why not ? %snd:"sastre7"_663392_665209
-*JAD:	because it's dim enough . %snd:"sastre7"_665180_666760
-*JAD:	if it's dim enough you are good . %snd:"sastre7"_666727_669983
-*JUL:	and why do people write on the walls ? %snd:"sastre7"_669950_671198
-*JUL:	that's very immature . %snd:"sastre7"_671187_672731
-*JAD:	yeah because you're so mature ! %snd:"sastre7"_672720_675077
-*JUL:	I [/] I don't write on walls . %snd:"sastre7"_675051_676990
-*JAD:	I guess it doesn't matter here . %snd:"sastre7"_676899_679105
-*JUL:	&=sneezes . %snd:"sastre7"_679036_681499
-*JUL:	what is that there ? %snd:"sastre7"_681516_686506
+*JAD:	fuck Free Willy . 462247_465643
+*JUL:	it's Shamu@s:eng&spa . 465636_467064
+*JAD:	Free Willy . 467064_468742
+*JUL:	+< no it's +... 467064_469165
+*JUL:	Shamu@s:eng&spa is from Sea World &eh . 469154_470460
+*JAD:	oh but in [/] in the roll that I'm taking now I have some Shamu@s:eng&spa pictures . 470441_474330
+*JAD:	yeah it's Shamu@s:eng&spa . 474294_477394
+*JUL:	and the um +//. 476509_478117
+*JAD:	xxx . 478111_480168
+*JUL:	she likes +//. 480174_480836
+*JUL:	she is gonna be a veterinarian remember ? 480824_484116
+*JAD:	+< I wanna go to see um the Miami_sea_aquarium . 480824_484057
+*JUL:	wait to see what there is to see in Miami_sea_aquarium [=! sings] . 484013_491524
+*JAD:	+< in Miami_sea_aquarium [=! sings] . 484013_491507
+*JAD:	let's harmonize . 491495_493678
+*JUL:	oh [=! sings] . 493655_499414
+*JAD:	+< oh [=! sings] . 493655_499414
+*JAD:	your turn . 499365_501095
+*JUL:	go go oh let's do a three part harmony . 501030_503588
+*JUL:	go go go . 503541_504633
+*JAD:	go . 503541_504633
+*JAD:	go go you set the note then go go . 504622_507994
+*JUL:	+< do@s:eng&spa mi@s:eng&spa sol@s:eng&spa . 506032_508018
+*JUL:	go . 508023_509272
+*JAD:	go you have to hold it out though . 509222_510980
+*JUL:	I'm not gonna hold it out . 509222_510969
+*JUL:	come on we can do it . 510962_512471
+*JUL:	do@s:eng&spa mi@s:eng&spa sol@s:eng&spa . 512454_515284
+*JAD:	go . 515247_516141
+*JUL:	[- spa] tú eres cantante . 516153_517616
+*JAD:	go go la@s:eng&spa go . 517597_519263
+*JUL:	la@s:eng&spa . 519210_520778
+*JAD:	la@s:eng&spa . 520746_523359
+*JUL:	larara@s:eng&spa [=! sings] . 523297_526095
+*JUL:	la@s:eng&spa [=! laughs] . 526064_527434
+*JAD:	ah@s:eng&spa [=! laughs] . 527394_529565
+*JUL:	+< ah@s:eng&spa [=! laughs] . 527394_529565
+*JAD:	hi mister can you hear me ? 529543_535131
+*JUL:	&=laughs . 535108_540999
+*JAD:	+< &=laughs . 535108_540999
+*JAD:	if you are like +//. 540939_542018
+*JUL:	+< man that shit was spicy bro . 540939_542841
+*JAD:	xxx . 542835_543833
+*JUL:	the nachos@s:eng&spa from the +//. 543827_545666
+*JUL:	xxx the cheese from la@s:spa quesadilla@s:spa . 545678_548940
+*JAD:	do you wanna go back there some day ? 548906_552093
+*JUL:	eh@s:eng&spa ? 552029_552522
+*JAD:	you wanna go back there ? 552493_553370
+*JUL:	and that ? 553363_555308
+*JAD:	no that stays there . 555290_556469
+*JUL:	what happens if it's more than fifteen minutes . 555871_557345
+*JAD:	no I'll come back . 557323_558710
+*JUL:	ok yeah xxx . 558698_560626
+*JAD:	+< we gotta take this one . 559476_560748
+*JUL:	oh what a xxx . 560719_562929
+*JUL:	I wanna see some thing here . 562900_565187
+*JAD:	+< can you hear me talking ? 565054_565803
+*JUL:	I don't know . 565734_566297
+*JUL:	let's find out . 566274_567029
+*JUL:	here . 567023_567754
+*JAD:	+< &=laughs . 567023_567754
+*JUL:	right xxx . 567748_569559
+*JUL:	hello . 569527_570270
+*JUL:	&=laughs . 570258_571704
+*JAD:	hello . 571686_572650
+*JUL:	xxx . 572633_572876
+*JAD:	+< xxx wow I'm confused . 572633_574345
+*JUL:	I have to burp . 574337_576189
+*JUL:	he looks like J_C@s:eng&spa from N_Sync@s:eng&spa . 576060_579218
+*JAD:	yeah he does . 579135_580041
+*JAD:	I used to love +... 580029_582036
+*JUL:	I used to think he is ugly . 582001_583365
+*JUL:	I used to like Justin@s:eng&spa . 583359_584950
+*JAD:	+< J_C@s:eng&spa . 583359_584950
+*JUL:	oh I thought Justin@s:eng&spa was gay . 584961_586801
+*JAD:	no way that's Lance@s:eng&spa . 586777_588931
+*JUL:	oh I know that but +... 588894_591547
+*JUL:	the other day I saw him come out on T_M_C@s:eng&spa . 591521_593982
+*JUL:	and ah +... 593946_594596
+*JUL:	they are like +"/. 594573_594898
+*JUL:	+" oh second gazing . 594840_595763
+*JUL:	+" he saw you come out in a pink beetle . 595740_598334
+*JUL:	it's kind of funny . 598329_599658
+*JAD:	+< ah that's not gay bro . 598714_600171
+*JUL:	no ? 600142_600832
+*JUL:	no ? 600827_601639
+*JAD:	the # I don't know . 601575_603549
+*JUL:	not at all xxx [=! sings] . 603502_606270
+*JUL:	let's dance . 606241_607646
+*JAD:	let's dance . 607629_609649
+*JUL:	<what is> [/] what is that ? 609615_613922
+*JUL:	xxx . 613887_615739
+*JUL:	xxx . 615704_617575
+*JAD:	+< so what has mister Jim@s:eng&spa told you though . 615704_617575
+*JUL:	about what ? 617491_618466
+*JAD:	I don't know . 618460_618954
+*JAD:	about how he feels and xxx . 618942_621349
+*JAD:	and then what he thinks about +/. 621326_622591
+*JUL:	+< he says he is kind of stressed out . 622166_623600
+*JUL:	but it's about it . 623583_624877
+*JAD:	for real ? 624872_625313
+*JUL:	yeah . 625290_625934
+*JUL:	he's tired . 625894_626538
+*JUL:	I think he # should take a little # break . 626521_629388
+*JAD:	+< xxx . 626521_629313
+*JUL:	like just # a day . 629281_631394
+*JAD:	mmhm@s:eng&spa I think he should retire . 629281_631394
+*JUL:	no . 631357_632686
+*JUL:	not until I graduate . 632653_634182
+*JAD:	that's true xxx . 634152_635441
+*JUL:	why not ? 635426_636286
+*JAD:	what grade are you ? 635641_636756
+*JUL:	tenth . 636762_637667
+*JUL:	yeah we [//] he retires a year that I graduate . 637659_640103
+*JUL:	oh thank you . 640086_641125
+*JUL:	thank you . 641107_641902
+*JAD:	oh you're welcome . 641879_642657
+*JUL:	thank you thank you [=! sings] . 642640_645973
+*JUL:	&=laughs . 645912_647120
+*JAD:	+< &=laughs . 645912_647120
+*JUL:	I'm tired . 647114_647729
+*JUL:	I'm sorry . 647700_648391
+*JUL:	xxx my head hurts . 648372_656052
+*JAD:	yeah mine too . 656043_656513
+*JUL:	he is coming into the dark into the light and the dark and the light . 656495_659322
+*JAD:	it's really dark in here . 656495_659317
+*JUL:	xxx affect the # picture . 659305_663432
+*JUL:	why not ? 663392_665209
+*JAD:	because it's dim enough . 665180_666760
+*JAD:	if it's dim enough you are good . 666727_669983
+*JUL:	and why do people write on the walls ? 669950_671198
+*JUL:	that's very immature . 671187_672731
+*JAD:	yeah because you're so mature ! 672720_675077
+*JUL:	I [/] I don't write on walls . 675051_676990
+*JAD:	I guess it doesn't matter here . 676899_679105
+*JUL:	&=sneezes . 679036_681499
+*JUL:	what is that there ? 681516_686506
 %com:	background noise
-*JAD:	it's a wash bath # where you wash your pictures . %snd:"sastre7"_686481_689677
-*JUL:	I thought you just had to put in the water . %snd:"sastre7"_689631_691761
-*JAD:	well yeah that's there so it settles . %snd:"sastre7"_691618_695263
-*JUL:	+< xxx . %snd:"sastre7"_691618_695153
-*JAD:	and then you gotta # stick it in there . %snd:"sastre7"_695234_697794
-*JAD:	so then there's no chemicals . %snd:"sastre7"_697935_699734
-*JAD:	(be)cause you know when people come in . %snd:"sastre7"_699728_702149
-*JAD:	and they touch all that shit . %snd:"sastre7"_702143_703240
-*JAD:	then they come here and then +.. . %snd:"sastre7"_703169_704428
-*JUL:	xxx . %snd:"sastre7"_704417_708315
-*JUL:	I had it . %snd:"sastre7"_708274_710242
-*JAD:	what are you gonna do later today ? %snd:"sastre7"_710196_712303
-*JUL:	sleep . %snd:"sastre7"_712020_713686
-*JUL:	xxx . %snd:"sastre7"_713660_718333
-*JUL:	I mean she's gonna help me . %snd:"sastre7"_718287_719738
-*JAD:	+< no she xxx . %snd:"sastre7"_718287_719651
-*JUL:	oh yeah xxx around the house . %snd:"sastre7"_719617_724493
-*JUL:	look a seal # and a seahorse . %snd:"sastre7"_724682_728113
-*JAD:	+< &=sings . %snd:"sastre7"_727190_730405
-*JUL:	+< oh no that's a hamster . %snd:"sastre7"_728136_729570
-*JAD:	it is ? %snd:"sastre7"_730388_731833
-*JUL:	xxx is a seahorse . %snd:"sastre7"_731756_733544
-*JAD:	yeah . %snd:"sastre7"_733504_734067
-*JUL:	a xxx . %snd:"sastre7"_734067_735460
-*JAD:	that doesn't look like a hamster . %snd:"sastre7"_735423_736915
-*JUL:	what is it [=! laughs] ? %snd:"sastre7"_736896_738219
-*JAD:	I don't know [=! laughs] . %snd:"sastre7"_738190_738887
-*JUL:	&=coughs . %snd:"sastre7"_738850_745053
+*JAD:	it's a wash bath # where you wash your pictures . 686481_689677
+*JUL:	I thought you just had to put in the water . 689631_691761
+*JAD:	well yeah that's there so it settles . 691618_695263
+*JUL:	+< xxx . 691618_695153
+*JAD:	and then you gotta # stick it in there . 695234_697794
+*JAD:	so then there's no chemicals . 697935_699734
+*JAD:	(be)cause you know when people come in . 699728_702149
+*JAD:	and they touch all that shit . 702143_703240
+*JAD:	then they come here and then +... 703169_704428
+*JUL:	xxx . 704417_708315
+*JUL:	I had it . 708274_710242
+*JAD:	what are you gonna do later today ? 710196_712303
+*JUL:	sleep . 712020_713686
+*JUL:	xxx . 713660_718333
+*JUL:	I mean she's gonna help me . 718287_719738
+*JAD:	+< no she xxx . 718287_719651
+*JUL:	oh yeah xxx around the house . 719617_724493
+*JUL:	look a seal # and a seahorse . 724682_728113
+*JAD:	+< &=sings . 727190_730405
+*JUL:	+< oh no that's a hamster . 728136_729570
+*JAD:	it is ? 730388_731833
+*JUL:	xxx is a seahorse . 731756_733544
+*JAD:	yeah . 733504_734067
+*JUL:	a xxx . 734067_735460
+*JAD:	that doesn't look like a hamster . 735423_736915
+*JUL:	what is it [=! laughs] ? 736896_738219
+*JAD:	I don't know [=! laughs] . 738190_738887
+*JUL:	&=coughs . 738850_745053
 %com:	background noise
-*JAD:	+< look they show you there how to switch the chemicals . %snd:"sastre7"_744821_747061
-*JAD:	the developer is one liter to ten liters . %snd:"sastre7"_747061_749442
-*JUL:	xxx . %snd:"sastre7"_749431_752617
-*JUL:	I don't know . %snd:"sastre7"_752595_754261
-*JAD:	+< full bunch of water . %snd:"sastre7"_752595_754330
-*JUL:	good question . %snd:"sastre7"_754348_754980
-*JUL:	xxx . %snd:"sastre7"_754882_757686
-*JAD:	mmhm@s:eng&spa . %snd:"sastre7"_757646_758104
-*JAD:	let's see what happens . %snd:"sastre7"_758102_762659
-*JAD:	I wanna have one of these two . %snd:"sastre7"_762664_764713
-*JUL:	+< xxx guy . %snd:"sastre7"_762664_764730
-*JAD:	march . %snd:"sastre7"_764725_768898
-*JUL:	twenty what ? %snd:"sastre7"_768891_769553
-*JAD:	twenty five . %snd:"sastre7"_769535_770226
-*JAD:	it's a Tuesday . %snd:"sastre7"_770180_771515
-*JUL:	oh ok . %snd:"sastre7"_771504_772891
-*JUL:	that's [/] that's fine . %snd:"sastre7"_772868_773954
-*JUL:	we are gonna go for sure right ? %snd:"sastre7"_773942_775003
-*JUL:	oh man I wanna go . %snd:"sastre7"_775003_776437
-*JAD:	I think I got your brother into it because I told Juan@s:eng&spa . %snd:"sastre7"_776459_779762
-*JUL:	+< Juan@s:eng&spa . %snd:"sastre7"_778508_779681
-*JAD:	you know that with him . %snd:"sastre7"_779675_780603
-*JUL:	oh he could be my date . %snd:"sastre7"_780592_782339
-*JAD:	+< xxx he wants to do +.. . %snd:"sastre7"_780632_783204
-*JAD:	John@s:eng&spa ? %snd:"sastre7"_783188_783855
-*JUL:	+< yeah yeah yeah . %snd:"sastre7"_783379_784668
-*JUL:	I feel like he +/ . %snd:"sastre7"_784506_785400
-*JAD:	+< he's really nice . %snd:"sastre7"_785052_786120
-*JUL:	+< his sister is going out with Jonathan@s:eng&spa . %snd:"sastre7"_785604_787438
-*JAD:	yeah I know . %snd:"sastre7"_787421_788808
-*JUL:	+< curious oh I think I told you . %snd:"sastre7"_787421_788791
-*JAD:	but we were talking about la@s:spa santería@s:spa . %snd:"sastre7"_788729_790215
-*JAD:	and how # todo@s:spa # like it's weird . %snd:"sastre7"_790174_793181
-*JUL:	+< yeah he is xxx . %snd:"sastre7"_790174_793256
-*JAD:	yeah they are . %snd:"sastre7"_793247_794466
-*JAD:	i(sn't) [/] isn't it awkward like I don't know . %snd:"sastre7"_794420_796184
-*JAD:	I went into their house right . %snd:"sastre7"_796175_797563
-*JAD:	and my dad <and his> [//] and her dad was talking . %snd:"sastre7"_797557_799676
-*JUL:	+< and he xxx . %snd:"sastre7"_797557_799685
-*JAD:	and there was everything is all over the floor and everything . %snd:"sastre7"_799627_801723
-*JAD:	and my dad almost kicked it . %snd:"sastre7"_801683_803296
-*JAD:	and he said +"/ . %snd:"sastre7"_803262_803848
-*JAD:	[- spa] +" ay perdón ay . %snd:"sastre7"_803726_806675
-*JUL:	+< &=laughs . %snd:"sastre7"_803726_806675
-*JUL:	dude my mom <I think> [/] I think xxx . %snd:"sastre7"_806634_808832
-*JUL:	we went to +// . %snd:"sastre7"_808809_809692
-*JUL:	ok I used to have birds right . %snd:"sastre7"_809680_811392
-*JUL:	and we needed to buy bird food . %snd:"sastre7"_811375_812751
-*JUL:	so my cousin Denise@s:eng&spa oh can you take us really fast to buy bird food ? %snd:"sastre7"_812740_816173
-*JUL:	so we see this thing it says ketchup . %snd:"sastre7"_816156_818524
-*JAD:	+< xxx . %snd:"sastre7"_816156_818501
-*JUL:	<you know> [?] so I throw out while we go in . %snd:"sastre7"_818515_820494
-*JUL:	and it's a freaking botánica@s:spa . %snd:"sastre7"_820442_821752
-*JUL:	we xxx going . %snd:"sastre7"_821740_822524
-*JUL:	and we are like +"/ . %snd:"sastre7"_822518_823932
-*JUL:	+" oh my xxx sal@s:spa de@s:spa aquí@s:spa sal@s:spa de@s:spa aquí@s:spa . %snd:"sastre7"_823938_826655
-*JUL:	oh shit . %snd:"sastre7"_826649_827642
-*JUL:	we turned around . %snd:"sastre7"_827567_828414
-*JUL:	we walked out . %snd:"sastre7"_828397_829755
-*JAD:	no it was bad xxx . %snd:"sastre7"_828397_829732
-*JAD:	I went with um Jorge@s:eng&spa the other day . %snd:"sastre7"_829698_831817
-*JAD:	and then we went . %snd:"sastre7"_831764_832600
-*JAD:	and the lady . %snd:"sastre7"_832589_833506
-*JUL:	I'm trying to borrow one like the real . %snd:"sastre7"_833494_835709
-*JAD:	+< ok there's dogs and everything in there . %snd:"sastre7"_833494_835686
-*JUL:	because it's a pet shop as well . %snd:"sastre7"_835604_837235
-*JAD:	+< dogs who killed them . %snd:"sastre7"_835604_837177
-*JUL:	but then she's freaking smoking like her cigarette . %snd:"sastre7"_837151_840872
-*JUL:	and I'm like oh my god . %snd:"sastre7"_840853_842670
-*JAD:	don't the(y) [/] they [/] they like sacrifice the animals ? %snd:"sastre7"_840853_842943
-*JUL:	I know . %snd:"sastre7"_842920_843657
-*JUL:	and then um is it one side is a pet shop and the other side is a botánica@s:spa de@s:spa Joe@s:eng&spa Joe@s:eng&spa . %snd:"sastre7"_843649_847791
-*JAD:	I was like . %snd:"sastre7"_847774_849200
-*JUL:	+< but I wanna [/] wanna go to one . %snd:"sastre7"_847774_849961
-*JUL:	like . %snd:"sastre7"_849966_850841
-*JAD:	xxx . %snd:"sastre7"_850800_852785
-*JUL:	yeah . %snd:"sastre7"_852814_853929
-*JUL:	I don't know . %snd:"sastre7"_853876_854840
-*JUL:	see what they sell . %snd:"sastre7"_854834_856808
-*JAD:	+< it's pretty funny though . %snd:"sastre7"_854834_856808
+*JAD:	+< look they show you there how to switch the chemicals . 744821_747061
+*JAD:	the developer is one liter to ten liters . 747061_749442
+*JUL:	xxx . 749431_752617
+*JUL:	I don't know . 752595_754261
+*JAD:	+< full bunch of water . 752595_754330
+*JUL:	good question . 754348_754980
+*JUL:	xxx . 754882_757686
+*JAD:	mmhm@s:eng&spa . 757646_758104
+*JAD:	let's see what happens . 758102_762659
+*JAD:	I wanna have one of these two . 762664_764713
+*JUL:	+< xxx guy . 762664_764730
+*JAD:	march . 764725_768898
+*JUL:	twenty what ? 768891_769553
+*JAD:	twenty five . 769535_770226
+*JAD:	it's a Tuesday . 770180_771515
+*JUL:	oh ok . 771504_772891
+*JUL:	that's [/] that's fine . 772868_773954
+*JUL:	we are gonna go for sure right ? 773942_775003
+*JUL:	oh man I wanna go . 775003_776437
+*JAD:	I think I got your brother into it because I told Juan@s:eng&spa . 776459_779762
+*JUL:	+< Juan@s:eng&spa . 778508_779681
+*JAD:	you know that with him . 779675_780603
+*JUL:	oh he could be my date . 780592_782339
+*JAD:	+< xxx he wants to do +... 780632_783204
+*JAD:	John@s:eng&spa ? 783188_783855
+*JUL:	+< yeah yeah yeah . 783379_784668
+*JUL:	I feel like he +/. 784506_785400
+*JAD:	+< he's really nice . 785052_786120
+*JUL:	+< his sister is going out with Jonathan@s:eng&spa . 785604_787438
+*JAD:	yeah I know . 787421_788808
+*JUL:	+< curious oh I think I told you . 787421_788791
+*JAD:	but we were talking about la@s:spa santería@s:spa . 788729_790215
+*JAD:	and how # todo@s:spa # like it's weird . 790174_793181
+*JUL:	+< yeah he is xxx . 790174_793256
+*JAD:	yeah they are . 793247_794466
+*JAD:	i(sn't) [/] isn't it awkward like I don't know . 794420_796184
+*JAD:	I went into their house right . 796175_797563
+*JAD:	and my dad <and his> [//] and her dad was talking . 797557_799676
+*JUL:	+< and he xxx . 797557_799685
+*JAD:	and there was everything is all over the floor and everything . 799627_801723
+*JAD:	and my dad almost kicked it . 801683_803296
+*JAD:	and he said +"/. 803262_803848
+*JAD:	[- spa] +" ay perdón ay . 803726_806675
+*JUL:	+< &=laughs . 803726_806675
+*JUL:	dude my mom <I think> [/] I think xxx . 806634_808832
+*JUL:	we went to +//. 808809_809692
+*JUL:	ok I used to have birds right . 809680_811392
+*JUL:	and we needed to buy bird food . 811375_812751
+*JUL:	so my cousin Denise@s:eng&spa oh can you take us really fast to buy bird food ? 812740_816173
+*JUL:	so we see this thing it says ketchup . 816156_818524
+*JAD:	+< xxx . 816156_818501
+*JUL:	<you know> [?] so I throw out while we go in . 818515_820494
+*JUL:	and it's a freaking botánica@s:spa . 820442_821752
+*JUL:	we xxx going . 821740_822524
+*JUL:	and we are like +"/. 822518_823932
+*JUL:	+" oh my xxx sal@s:spa de@s:spa aquí@s:spa sal@s:spa de@s:spa aquí@s:spa . 823938_826655
+*JUL:	oh shit . 826649_827642
+*JUL:	we turned around . 827567_828414
+*JUL:	we walked out . 828397_829755
+*JAD:	no it was bad xxx . 828397_829732
+*JAD:	I went with um Jorge@s:eng&spa the other day . 829698_831817
+*JAD:	and then we went . 831764_832600
+*JAD:	and the lady . 832589_833506
+*JUL:	I'm trying to borrow one like the real . 833494_835709
+*JAD:	+< ok there's dogs and everything in there . 833494_835686
+*JUL:	because it's a pet shop as well . 835604_837235
+*JAD:	+< dogs who killed them . 835604_837177
+*JUL:	but then she's freaking smoking like her cigarette . 837151_840872
+*JUL:	and I'm like oh my god . 840853_842670
+*JAD:	don't the(y) [/] they [/] they like sacrifice the animals ? 840853_842943
+*JUL:	I know . 842920_843657
+*JUL:	and then um is it one side is a pet shop and the other side is a botánica@s:spa de@s:spa Joe@s:eng&spa Joe@s:eng&spa . 843649_847791
+*JAD:	I was like . 847774_849200
+*JUL:	+< but I wanna [/] wanna go to one . 847774_849961
+*JUL:	like . 849966_850841
+*JAD:	xxx . 850800_852785
+*JUL:	yeah . 852814_853929
+*JUL:	I don't know . 853876_854840
+*JUL:	see what they sell . 854834_856808
+*JAD:	+< it's pretty funny though . 854834_856808
 %com:	other people speaking in background
-*JUL:	ay@s:spa mamá@s:spa ay@s:spa María@s:eng&spa . %snd:"sastre7"_856799_859806
-*JAD:	[- spa] &=laughs Dios mío ! %snd:"sastre7"_856799_859806
-*JUL:	&=laughs . %snd:"sastre7"_859853_861286
-*JUL:	&=sings . %snd:"sastre7"_861276_865137
-*JAD:	&=sings . %snd:"sastre7"_865108_866483
-*JUL:	oh my head is like # pounding . %snd:"sastre7"_866498_868204
-*JUL:	it hurts right here in the front &=sings . %snd:"sastre7"_868216_871362
-*JAD:	+< singing . %snd:"sastre7"_868216_871362
-*JUL:	oh no no no xxx &=laughs . %snd:"sastre7"_871270_873691
-*JAD:	+< no &=laughs . %snd:"sastre7"_871270_873685
-*JUL:	&=sings &=laughs . %snd:"sastre7"_873660_878988
-*JAD:	+< &=sings &=laughs . %snd:"sastre7"_873660_878988
-*JAD:	xxx . %snd:"sastre7"_878962_882915
-*JUL:	mmhm@s:eng&spa . %snd:"sastre7"_882902_884719
-*JAD:	oh I'm like all in your way . %snd:"sastre7"_884688_885953
-*JUL:	+< where's Mac@s:eng&spa ? %snd:"sastre7"_885408_886093
-*JAD:	sleeping lucky oh +.. . %snd:"sastre7"_886023_889906
+*JUL:	ay@s:spa mamá@s:spa ay@s:spa María@s:eng&spa . 856799_859806
+*JAD:	[- spa] &=laughs Dios mío ! 856799_859806
+*JUL:	&=laughs . 859853_861286
+*JUL:	&=sings . 861276_865137
+*JAD:	&=sings . 865108_866483
+*JUL:	oh my head is like # pounding . 866498_868204
+*JUL:	it hurts right here in the front &=sings . 868216_871362
+*JAD:	+< singing . 868216_871362
+*JUL:	oh no no no xxx &=laughs . 871270_873691
+*JAD:	+< no &=laughs . 871270_873685
+*JUL:	&=sings &=laughs . 873660_878988
+*JAD:	+< &=sings &=laughs . 873660_878988
+*JAD:	xxx . 878962_882915
+*JUL:	mmhm@s:eng&spa . 882902_884719
+*JAD:	oh I'm like all in your way . 884688_885953
+*JUL:	+< where's Mac@s:eng&spa ? 885408_886093
+*JAD:	sleeping lucky oh +... 886023_889906
 %com:	another speaker in background
-*JUL:	+< fine . %snd:"sastre7"_886023_889883
-*JAD:	he was working a twenty four hour shift right ? %snd:"sastre7"_889851_892632
-*JUL:	+< mmhm@s:eng&spa . %snd:"sastre7"_889851_892649
-*JAD:	are there a lot of people that work with him ? %snd:"sastre7"_892562_894745
-*JUL:	+< it sucks . %snd:"sastre7"_892562_894733
-*JAD:	like has he made friends ? %snd:"sastre7"_894704_896069
+*JUL:	+< fine . 886023_889883
+*JAD:	he was working a twenty four hour shift right ? 889851_892632
+*JUL:	+< mmhm@s:eng&spa . 889851_892649
+*JAD:	are there a lot of people that work with him ? 892562_894745
+*JUL:	+< it sucks . 892562_894733
+*JAD:	like has he made friends ? 894704_896069
 %com:	another speaker in background
-*JUL:	&=laughs . %snd:"sastre7"_899395_900161
-*JAD:	for real ? %snd:"sastre7"_900115_901317
-*JUL:	<what does> [/] what does that do ? %snd:"sastre7"_901294_902809
-*JUL:	what does that do that you are xxx it up there ? %snd:"sastre7"_0_0
+*JUL:	&=laughs . 899395_900161
+*JAD:	for real ? 900115_901317
+*JUL:	<what does> [/] what does that do ? 901294_902809
+*JUL:	what does that do that you are xxx it up there ? 0_0
 %com:	other people in background
-*JAD:	+< Robert@s:eng&spa E(lsa)@s:eng&spa Elsa's@s:eng&spa Robert@s:eng&spa ? %snd:"sastre7"_904106_906834
+*JAD:	+< Robert@s:eng&spa E(lsa)@s:eng&spa Elsa's@s:eng&spa Robert@s:eng&spa ? 904106_906834
 %com:	another speaker in background
-*JAD:	how are they doing ? %snd:"sastre7"_908507_909186
-*JUL:	that [/] that Elsa@s:eng&spa went to this chick's fifteenth . %snd:"sastre7"_909161_912633
+*JAD:	how are they doing ? 908507_909186
+*JUL:	that [/] that Elsa@s:eng&spa went to this chick's fifteenth . 909161_912633
 %com:	another speaker in background
-*JUL:	I know . %snd:"sastre7"_913262_913500
-*JUL:	I saw her in your pictures . %snd:"sastre7"_913477_914789
-*JUL:	she's gotten fatter . %snd:"sastre7"_914789_916542
+*JUL:	I know . 913262_913500
+*JUL:	I saw her in your pictures . 913477_914789
+*JUL:	she's gotten fatter . 914789_916542
 %com:	another speaker in background
-*JUL:	my brother go to whose engagement party ? %snd:"sastre7"_921818_924500
+*JUL:	my brother go to whose engagement party ? 921818_924500
 %com:	another speaker in background
-*JAD:	obviously ok . %snd:"sastre7"_932311_934982
-*JUL:	+< I'm assuming that's his sister . %snd:"sastre7"_932311_934964
-*JAD:	wow that was a bad one . %snd:"sastre7"_934927_938143
-*JUL:	house . %snd:"sastre7"_938150_938696
-*JAD:	[- spa] estás mal ? %snd:"sastre7"_938696_939874
-*JAD:	Matt@s:eng&spa didn't go ? %snd:"sastre7"_939851_940884
+*JAD:	obviously ok . 932311_934982
+*JUL:	+< I'm assuming that's his sister . 932311_934964
+*JAD:	wow that was a bad one . 934927_938143
+*JUL:	house . 938150_938696
+*JAD:	[- spa] estás mal ? 938696_939874
+*JAD:	Matt@s:eng&spa didn't go ? 939851_940884
 %com:	another speaker in background
-*JAD:	because <you didn't> [/] they didn't invite you for real finally ? %snd:"sastre7"_942932_945521
-*JAD:	they didn't even end up ? %snd:"sastre7"_945497_946519
-*JAD:	they didn't send a guest ? %snd:"sastre7"_946467_947593
+*JAD:	because <you didn't> [/] they didn't invite you for real finally ? 942932_945521
+*JAD:	they didn't even end up ? 945497_946519
+*JAD:	they didn't send a guest ? 946467_947593
 %com:	another speaker in background
-*JAD:	and did Matt@s:eng&spa throw a fit ? %snd:"sastre7"_948428_950315
+*JAD:	and did Matt@s:eng&spa throw a fit ? 948428_950315
 %com:	another speaker in background
-*JAD:	+< right . %snd:"sastre7"_950287_951959
-*JAD:	he was ? %snd:"sastre7"_951942_952627
-*JAD:	so when you told him no did he throw a fit ? %snd:"sastre7"_952619_954784
+*JAD:	+< right . 950287_951959
+*JAD:	he was ? 951942_952627
+*JAD:	so when you told him no did he throw a fit ? 952619_954784
 %com:	another speaker in background
-*JUL:	when is it ? %snd:"sastre7"_958102_958827
-*JUL:	when are they getting married ? %snd:"sastre7"_958822_959762
+*JUL:	when is it ? 958102_958827
+*JUL:	when are they getting married ? 958822_959762
 %com:	another speaker in background
-*JUL:	oh I xxx . %snd:"sastre7"_963845_964721
-*JAD:	but <I thought> [/] I thought xxx in good terms . %snd:"sastre7"_964692_967945
+*JUL:	oh I xxx . 963845_964721
+*JAD:	but <I thought> [/] I thought xxx in good terms . 964692_967945
 %com:	another speaker in background
-*JUL:	Sally@s:eng&spa [/] Sally@s:eng&spa told me that she's a bitch like +// . %snd:"sastre7"_972990_975301
-*JAD:	yeah Sally@s:eng&spa hates xxx . %snd:"sastre7"_975277_976607
-*JUL:	+< and he would say +.. . %snd:"sastre7"_975863_977482
+*JUL:	Sally@s:eng&spa [/] Sally@s:eng&spa told me that she's a bitch like +//. 972990_975301
+*JAD:	yeah Sally@s:eng&spa hates xxx . 975277_976607
+*JUL:	+< and he would say +... 975863_977482
 %com:	another speaker in background
-*JUL:	yeah but you would tell me he goes bro like . %snd:"sastre7"_980853_982466
-*JUL:	my sister is a bitch . %snd:"sastre7"_982437_984185
-*JUL:	and I go well yeah you say like messing around . %snd:"sastre7"_984134_986007
-*JUL:	<and I say it to my sister> [?] . %snd:"sastre7"_986030_987144
-*JAD:	+< no but he's like . %snd:"sastre7"_986030_987853
-*JUL:	+< my sister is a bit +// . %snd:"sastre7"_987115_988120
-*JUL:	well like he's like no no no like for real . %snd:"sastre7"_988093_990264
-*JUL:	oh shit I don't want to meet her . %snd:"sastre7"_990252_992730
-*JAD:	+< xxx . %snd:"sastre7"_990252_992730
-*JUL:	&=coughs keep me away from her . %snd:"sastre7"_992735_994163
-*JAD:	she hated me like # with a passion . %snd:"sastre7"_994140_996148
+*JUL:	yeah but you would tell me he goes bro like . 980853_982466
+*JUL:	my sister is a bitch . 982437_984185
+*JUL:	and I go well yeah you say like messing around . 984134_986007
+*JUL:	<and I say it to my sister> [?] . 986030_987144
+*JAD:	+< no but he's like . 986030_987853
+*JUL:	+< my sister is a bit +//. 987115_988120
+*JUL:	well like he's like no no no like for real . 988093_990264
+*JUL:	oh shit I don't want to meet her . 990252_992730
+*JAD:	+< xxx . 990252_992730
+*JUL:	&=coughs keep me away from her . 992735_994163
+*JAD:	she hated me like # with a passion . 994140_996148
 %com:	another speaker in background
-*JUL:	yeah . %snd:"sastre7"_999514_1000239
-*JAD:	yeah . %snd:"sastre7"_1000209_1000604
-*JUL:	that's stupid . %snd:"sastre7"_1000523_1001353
-*JAD:	it is . %snd:"sastre7"_1001341_1002090
+*JUL:	yeah . 999514_1000239
+*JAD:	yeah . 1000209_1000604
+*JUL:	that's stupid . 1000523_1001353
+*JAD:	it is . 1001341_1002090
 %com:	another speaker in background
-*JAD:	whatever it was high school . %snd:"sastre7"_1003251_1004958
+*JAD:	whatever it was high school . 1003251_1004958
 %com:	another speaker in background
-*JAD:	that was funny but still . %snd:"sastre7"_1005010_1006566
+*JAD:	that was funny but still . 1005010_1006566
 %com:	another speaker in background
-*JUL:	and she went to Eileen's@s:eng&spa+eng fifteenth . %snd:"sastre7"_1013046_1015078
-*JAD:	I wonder why they got freaking married . %snd:"sastre7"_1015044_1016838
-*JAD:	like why they're gonna get married . %snd:"sastre7"_1016773_1019513
-*JUL:	does he go to school xxx high school ? %snd:"sastre7"_1019495_1021740
-*JAD:	yeah . %snd:"sastre7"_1021726_1022034
-*JUL:	yeah . %snd:"sastre7"_1022022_1022278
+*JUL:	and she went to Eileen's@s:eng&spa+eng fifteenth . 1013046_1015078
+*JAD:	I wonder why they got freaking married . 1015044_1016838
+*JAD:	like why they're gonna get married . 1016773_1019513
+*JUL:	does he go to school xxx high school ? 1019495_1021740
+*JAD:	yeah . 1021726_1022034
+*JUL:	yeah . 1022022_1022278
 %com:	another speaker in background
-*JAD:	and they like her and him were together once right ? %snd:"sastre7"_1024691_1030107
-*JAD:	and they broke up ? %snd:"sastre7"_1030069_1031190
-*JAD:	they were never together . %snd:"sastre7"_1031190_1032354
-*JAD:	that's right . %snd:"sastre7"_1032279_1032575
-*JAD:	it was Gina@s:eng&spa xxx . %snd:"sastre7"_1032540_1034160
-*JAD:	Gina@s:eng&spa was her best friend xxx best friend . %snd:"sastre7"_1034149_1037200
-*JAD:	and Gina@s:eng&spa and Robert@s:eng&spa were like oh oh my God I wanna marry you shit like that . %snd:"sastre7"_1037200_1042211
+*JAD:	and they like her and him were together once right ? 1024691_1030107
+*JAD:	and they broke up ? 1030069_1031190
+*JAD:	they were never together . 1031190_1032354
+*JAD:	that's right . 1032279_1032575
+*JAD:	it was Gina@s:eng&spa xxx . 1032540_1034160
+*JAD:	Gina@s:eng&spa was her best friend xxx best friend . 1034149_1037200
+*JAD:	and Gina@s:eng&spa and Robert@s:eng&spa were like oh oh my God I wanna marry you shit like that . 1037200_1042211
 %com:	another speaker in background
-*JAD:	+< forever . %snd:"sastre7"_1042109_1043926
-*JAD:	and then Elsita@s:eng&spa had her own boyfriend # Isaac@s:eng&spa . %snd:"sastre7"_1044280_1047620
-*JAD:	they were pa(ra)@s:spa arriba@s:spa and pa(ra)@s:spa abajo@s:spa juntos@s:spa . %snd:"sastre7"_1047593_1049532
-*JAD:	whatever all the time yeah . %snd:"sastre7"_1049497_1051232
-*JUL:	+< xxx . %snd:"sastre7"_1049497_1051144
-*JAD:	and like whatever um Elsita@s:eng&spa whenever [//] when they graduated Isaac@s:eng&spa went to the army nowhere to be found kind of thing . %snd:"sastre7"_1051103_1059928
-*JAD:	and um whatever . %snd:"sastre7"_1059915_1062144
-*JAD:	we went . %snd:"sastre7"_1062100_1063531
-*JAD:	and # I found out through her that Elsita@s:eng&spa got with Robert@s:eng&spa . %snd:"sastre7"_1063519_1069040
-*JUL:	+< that they had gotten together . %snd:"sastre7"_1067560_1068988
-*JAD:	and I was like that's messed up . %snd:"sastre7"_1068952_1071019
-*JUL:	+< damn . %snd:"sastre7"_1068952_1071002
-*JAD:	so they don't talk any_more right . %snd:"sastre7"_1070990_1072331
-*JAD:	Elsita@s:eng&spa and +.. . %snd:"sastre7"_1072308_1073870
+*JAD:	+< forever . 1042109_1043926
+*JAD:	and then Elsita@s:eng&spa had her own boyfriend # Isaac@s:eng&spa . 1044280_1047620
+*JAD:	they were pa(ra)@s:spa arriba@s:spa and pa(ra)@s:spa abajo@s:spa juntos@s:spa . 1047593_1049532
+*JAD:	whatever all the time yeah . 1049497_1051232
+*JUL:	+< xxx . 1049497_1051144
+*JAD:	and like whatever um Elsita@s:eng&spa whenever [//] when they graduated Isaac@s:eng&spa went to the army nowhere to be found kind of thing . 1051103_1059928
+*JAD:	and um whatever . 1059915_1062144
+*JAD:	we went . 1062100_1063531
+*JAD:	and # I found out through her that Elsita@s:eng&spa got with Robert@s:eng&spa . 1063519_1069040
+*JUL:	+< that they had gotten together . 1067560_1068988
+*JAD:	and I was like that's messed up . 1068952_1071019
+*JUL:	+< damn . 1068952_1071002
+*JAD:	so they don't talk any_more right . 1070990_1072331
+*JAD:	Elsita@s:eng&spa and +... 1072308_1073870
 %com:	another speaker in background
-*JAD:	and xxx . %snd:"sastre7"_1074757_1075210
-*JUL:	xxx . %snd:"sastre7"_1075169_1075674
-*JAD:	&=laughs . %snd:"sastre7"_1075669_1076923
-*JUL:	+< Jenny@s:eng&spa still is best friends with um with Elsa@s:eng&spa . %snd:"sastre7"_1076563_1079374
+*JAD:	and xxx . 1074757_1075210
+*JUL:	xxx . 1075169_1075674
+*JAD:	&=laughs . 1075669_1076923
+*JUL:	+< Jenny@s:eng&spa still is best friends with um with Elsa@s:eng&spa . 1076563_1079374
 %com:	another speaker in background
-*JUL:	yeah they went on a cruise (be)cause [//] for her twenty first birthday . %snd:"sastre7"_1079339_1082277
+*JUL:	yeah they went on a cruise (be)cause [//] for her twenty first birthday . 1079339_1082277
 %com:	another speaker in background
-*JUL:	because I remember the day of the fifteenth no . %snd:"sastre7"_1083475_1086093
-*JUL:	the week after the fifteen xxx let's go to the movies . %snd:"sastre7"_1086037_1089311
-*JUL:	oh my god ok whatever I went to the movies . %snd:"sastre7"_1089299_1090989
-*JUL:	and Jenny@s:eng&spa had picked us up . %snd:"sastre7"_1090989_1092231
-*JUL:	she xxx by my house . %snd:"sastre7"_1092222_1094347
-*JAD:	did she still have the P_T_Cruiser@s:eng&spa ? %snd:"sastre7"_1093435_1095244
-*JUL:	I don't know . %snd:"sastre7"_1095220_1096127
-*JUL:	she picked me up in her mom's car which is like an [/] an [/] an explorer or some shit like that . %snd:"sastre7"_1096110_1100891
-*JUL:	an expedition I don't what the hell . %snd:"sastre7"_1100872_1102312
-*JUL:	I don't remember . %snd:"sastre7"_1102289_1103514
-*JUL:	but whatever she picked us up . %snd:"sastre7"_1103485_1104745
-*JUL:	then when we got there she was like oh she was packing . %snd:"sastre7"_1104722_1107665
-*JUL:	and she was leaving the next day . %snd:"sastre7"_1107668_1109032
-*JAD:	wow . %snd:"sastre7"_1108990_1110377
-*JUL:	and I go where are you going xxx . %snd:"sastre7"_1110353_1111601
-*JUL:	oh Elsa@s:eng&spa . %snd:"sastre7"_1111584_1113087
-*JAD:	that's it ? %snd:"sastre7"_1113020_1114210
-*JUL:	and um a group of friends . %snd:"sastre7"_1114199_1116468
-*JAD:	ah@s:eng&spa . %snd:"sastre7"_1116429_1119523
+*JUL:	because I remember the day of the fifteenth no . 1083475_1086093
+*JUL:	the week after the fifteen xxx let's go to the movies . 1086037_1089311
+*JUL:	oh my god ok whatever I went to the movies . 1089299_1090989
+*JUL:	and Jenny@s:eng&spa had picked us up . 1090989_1092231
+*JUL:	she xxx by my house . 1092222_1094347
+*JAD:	did she still have the P_T_Cruiser@s:eng&spa ? 1093435_1095244
+*JUL:	I don't know . 1095220_1096127
+*JUL:	she picked me up in her mom's car which is like an [/] an [/] an explorer or some shit like that . 1096110_1100891
+*JUL:	an expedition I don't what the hell . 1100872_1102312
+*JUL:	I don't remember . 1102289_1103514
+*JUL:	but whatever she picked us up . 1103485_1104745
+*JUL:	then when we got there she was like oh she was packing . 1104722_1107665
+*JUL:	and she was leaving the next day . 1107668_1109032
+*JAD:	wow . 1108990_1110377
+*JUL:	and I go where are you going xxx . 1110353_1111601
+*JUL:	oh Elsa@s:eng&spa . 1111584_1113087
+*JAD:	that's it ? 1113020_1114210
+*JUL:	and um a group of friends . 1114199_1116468
+*JAD:	ah@s:eng&spa . 1116429_1119523
 %com:	another speaker in background
-*JAD:	I don't know . %snd:"sastre7"_1121132_1121585
-*JAD:	they're weird . %snd:"sastre7"_1121579_1122589
-*JAD:	but that's why I never really liked all O four and all those people like O three and O four . %snd:"sastre7"_1122566_1125441
-*JAD:	like I know you guys are kickass at band . %snd:"sastre7"_1126844_1129205
-*JAD:	but I never hang out with none of you guys . %snd:"sastre7"_1129176_1131376
+*JAD:	I don't know . 1121132_1121585
+*JAD:	they're weird . 1121579_1122589
+*JAD:	but that's why I never really liked all O four and all those people like O three and O four . 1122566_1125441
+*JAD:	like I know you guys are kickass at band . 1126844_1129205
+*JAD:	but I never hang out with none of you guys . 1129176_1131376
 %com:	another speaker in background
-*JAD:	I only hang out with you . %snd:"sastre7"_1131403_1133360
+*JAD:	I only hang out with you . 1131403_1133360
 %com:	another speaker in background
-*JAD:	but like +.. . %snd:"sastre7"_1133439_1133869
-*JUL:	+< all three &=laughs . %snd:"sastre7"_1133873_1134656
-*JUL:	that's Amy@s:eng&spa [=! laughs] . %snd:"sastre7"_1134639_1135864
-*JAD:	yeah . %snd:"sastre7"_1135544_1135858
-*JAD:	but like it's just band people that were the headaches because I knew [//] I know o_four people that were raw as shit like not in band . %snd:"sastre7"_1136453_1142501
-*JAD:	and they didn't talk shit . %snd:"sastre7"_1142489_1143401
-*JAD:	it's just band . %snd:"sastre7"_1143401_1144713
-*JAD:	band is like it's a vicious cycle of shit talking # for everyone . %snd:"sastre7"_1144707_1147668
-*JUL:	stupid . %snd:"sastre7"_1147666_1150702
-*JUL:	it's like Hector@s:eng&spa is dumbass . %snd:"sastre7"_1150092_1152786
-*JAD:	does he talk a lot ? %snd:"sastre7"_1152739_1153558
-*JUL:	oh my god no@s:spa se@s:spa calla@s:spa bro . %snd:"sastre7"_1153546_1156175
-*JUL:	but like he's +.. . %snd:"sastre7"_1156150_1157419
-*JUL:	and then <he xxx> [//] he talks so much shit . %snd:"sastre7"_1157390_1159766
-*JUL:	oh@s:eng&spa my God . %snd:"sastre7"_1159765_1160717
+*JAD:	but like +... 1133439_1133869
+*JUL:	+< all three &=laughs . 1133873_1134656
+*JUL:	that's Amy@s:eng&spa [=! laughs] . 1134639_1135864
+*JAD:	yeah . 1135544_1135858
+*JAD:	but like it's just band people that were the headaches because I knew [//] I know o_four people that were raw as shit like not in band . 1136453_1142501
+*JAD:	and they didn't talk shit . 1142489_1143401
+*JAD:	it's just band . 1143401_1144713
+*JAD:	band is like it's a vicious cycle of shit talking # for everyone . 1144707_1147668
+*JUL:	stupid . 1147666_1150702
+*JUL:	it's like Hector@s:eng&spa is dumbass . 1150092_1152786
+*JAD:	does he talk a lot ? 1152739_1153558
+*JUL:	oh my god no@s:spa se@s:spa calla@s:spa bro . 1153546_1156175
+*JUL:	but like he's +... 1156150_1157419
+*JUL:	and then <he xxx> [//] he talks so much shit . 1157390_1159766
+*JUL:	oh@s:eng&spa my God . 1159765_1160717
 %com:	background speaker
-*JUL:	yes . %snd:"sastre7"_1161275_1162047
-*JAD:	drum major Hector@s:eng&spa ? %snd:"sastre7"_1162904_1164478
-*JAD:	he's not a drum major . %snd:"sastre7"_1165531_1166466
-*JUL:	+< xxx yes he is . %snd:"sastre7"_1165822_1166838
-*JUL:	he's alternate . %snd:"sastre7"_1166832_1167981
+*JUL:	yes . 1161275_1162047
+*JAD:	drum major Hector@s:eng&spa ? 1162904_1164478
+*JAD:	he's not a drum major . 1165531_1166466
+*JUL:	+< xxx yes he is . 1165822_1166838
+*JUL:	he's alternate . 1166832_1167981
 %com:	background speaker
-*JAD:	oh@s:eng&spa that's right . %snd:"sastre7"_1167965_1169410
-*JUL:	+< yeah . %snd:"sastre7"_1167965_1169410
-*JUL:	he's alternate . %snd:"sastre7"_1168930_1170463
-*JAD:	it was John@s:eng&spa who quit because he couldn't take it . %snd:"sastre7"_1169343_1172564
-*JUL:	+< but mister Jones@s:eng&spa +// . %snd:"sastre7"_1170347_1171589
-*JUL:	he &wu . %snd:"sastre7"_1171583_1172286
+*JAD:	oh@s:eng&spa that's right . 1167965_1169410
+*JUL:	+< yeah . 1167965_1169410
+*JUL:	he's alternate . 1168930_1170463
+*JAD:	it was John@s:eng&spa who quit because he couldn't take it . 1169343_1172564
+*JUL:	+< but mister Jones@s:eng&spa +//. 1170347_1171589
+*JUL:	he &wu . 1171583_1172286
 %com:	background speaker
-*JAD:	he went back ? %snd:"sastre7"_1172291_1173690
-*JUL:	he didn't quit drum majoring . %snd:"sastre7"_1174855_1176451
-*JUL:	he just said he was +/ . %snd:"sastre7"_1176447_1178223
+*JAD:	he went back ? 1172291_1173690
+*JUL:	he didn't quit drum majoring . 1174855_1176451
+*JUL:	he just said he was +/. 1176447_1178223
 %com:	background speaker
-*JUL:	on the podium . %snd:"sastre7"_1178213_1179020
-*JAD:	right . %snd:"sastre7"_1178213_1179020
-*JUL:	he said he was just gonna march . %snd:"sastre7"_1179014_1180221
-*JAD:	and then he went back on the podium ? %snd:"sastre7"_1180212_1182035
-*JUL:	no he he stayed marching # and then Hector@s:eng&spa xxx Hector@s:eng&spa +/ . %snd:"sastre7"_1182035_1185902
-*JAD:	+< oh@s:eng&spa that's right he's a pussy that's right . %snd:"sastre7"_1182599_1185583
+*JUL:	on the podium . 1178213_1179020
+*JAD:	right . 1178213_1179020
+*JUL:	he said he was just gonna march . 1179014_1180221
+*JAD:	and then he went back on the podium ? 1180212_1182035
+*JUL:	no he he stayed marching # and then Hector@s:eng&spa xxx Hector@s:eng&spa +/. 1182035_1185902
+*JAD:	+< oh@s:eng&spa that's right he's a pussy that's right . 1182599_1185583
 %com:	background speaker
-*JUL:	I don't think it was necessary for Hector@s:eng&spa or John@s:eng&spa . %snd:"sastre7"_1196531_1198819
-*JUL:	Jaime@s:eng&spa controlled everything by himself . %snd:"sastre7"_1198801_1200456
-*JAD:	seriously . %snd:"sastre7"_1200676_1201454
-*JAD:	+< I don't know . %snd:"sastre7"_1203776_1204623
-*JUL:	well Hector@s:eng&spa [/] Hector@s:eng&spa talks shit bro my God shut up . %snd:"sastre7"_1203776_1208937
-*JUL:	and then he swears that he's hot shit nigger &=laughs better recognize . %snd:"sastre7"_1208910_1212823
-*JAD:	+< he does . %snd:"sastre7"_1211215_1212794
-*JAD:	he does . %snd:"sastre7"_1212896_1213785
-*JAD:	he really does . %snd:"sastre7"_1213779_1214853
-*JUL:	his girlfriend do you know his girlfriend Janet@s:eng&spa that girl . %snd:"sastre7"_1214837_1217321
-*JUL:	she looks like a boy like a guy . %snd:"sastre7"_1217335_1221085
-*JAD:	+< Janet@s:eng&spa ? %snd:"sastre7"_1217362_1218389
-*JUL:	she's ugly . %snd:"sastre7"_1221064_1222597
-*JAD:	I don't know who you're talking about . %snd:"sastre7"_1222446_1224216
-*JUL:	oh@s:eng&spa Hector@s:eng&spa got a tattoo here . %snd:"sastre7"_1224197_1226008
-*JAD:	Hector@s:eng&spa always gets a friggin' different girlfriend everywhere . %snd:"sastre7"_1226002_1229056
-*JUL:	yeah I know . %snd:"sastre7"_1228551_1229654
-*JAD:	go so he got a tattoo what ? %snd:"sastre7"_1229652_1231561
-*JUL:	+< right he had a tattoo +// . %snd:"sastre7"_1230255_1231637
-*JUL:	do you know Hymn@s:eng&spa the band Hymn@s:eng&spa ? %snd:"sastre7"_1231556_1232769
-*JAD:	oh@s:eng&spa yeah he likes them a lot . %snd:"sastre7"_1232735_1234157
-*JUL:	yeah he got that a yeah . %snd:"sastre7"_1234147_1236179
-*JAD:	+< has a ring and everything . %snd:"sastre7"_1234147_1236168
-*JUL:	yeah well he got <a tattoo> [//] the same tattoo from the [/] the lead singer I think that [/] that has it . %snd:"sastre7"_1235652_1240674
-*JUL:	xxx the same tattoo xxx retard . %snd:"sastre7"_1240633_1243140
-*JUL:	cuando@s:spa cumplas@s:spa los@s:spa cuarenta@s:spa años@s:spa what the hell are gonna tell your kids ? %snd:"sastre7"_1243137_1245743
-*JAD:	xxx see that . %snd:"sastre7"_1245743_1248045
+*JUL:	I don't think it was necessary for Hector@s:eng&spa or John@s:eng&spa . 1196531_1198819
+*JUL:	Jaime@s:eng&spa controlled everything by himself . 1198801_1200456
+*JAD:	seriously . 1200676_1201454
+*JAD:	+< I don't know . 1203776_1204623
+*JUL:	well Hector@s:eng&spa [/] Hector@s:eng&spa talks shit bro my God shut up . 1203776_1208937
+*JUL:	and then he swears that he's hot shit nigger &=laughs better recognize . 1208910_1212823
+*JAD:	+< he does . 1211215_1212794
+*JAD:	he does . 1212896_1213785
+*JAD:	he really does . 1213779_1214853
+*JUL:	his girlfriend do you know his girlfriend Janet@s:eng&spa that girl . 1214837_1217321
+*JUL:	she looks like a boy like a guy . 1217335_1221085
+*JAD:	+< Janet@s:eng&spa ? 1217362_1218389
+*JUL:	she's ugly . 1221064_1222597
+*JAD:	I don't know who you're talking about . 1222446_1224216
+*JUL:	oh@s:eng&spa Hector@s:eng&spa got a tattoo here . 1224197_1226008
+*JAD:	Hector@s:eng&spa always gets a friggin' different girlfriend everywhere . 1226002_1229056
+*JUL:	yeah I know . 1228551_1229654
+*JAD:	go so he got a tattoo what ? 1229652_1231561
+*JUL:	+< right he had a tattoo +//. 1230255_1231637
+*JUL:	do you know Hymn@s:eng&spa the band Hymn@s:eng&spa ? 1231556_1232769
+*JAD:	oh@s:eng&spa yeah he likes them a lot . 1232735_1234157
+*JUL:	yeah he got that a yeah . 1234147_1236179
+*JAD:	+< has a ring and everything . 1234147_1236168
+*JUL:	yeah well he got <a tattoo> [//] the same tattoo from the [/] the lead singer I think that [/] that has it . 1235652_1240674
+*JUL:	xxx the same tattoo xxx retard . 1240633_1243140
+*JUL:	cuando@s:spa cumplas@s:spa los@s:spa cuarenta@s:spa años@s:spa what the hell are gonna tell your kids ? 1243137_1245743
+*JAD:	xxx see that . 1245743_1248045
 %com:	other speaker in background
-*JAD:	wait he got it on the stomach or below like +/ . %snd:"sastre7"_1248004_1249822
-*JUL:	like here . %snd:"sastre7"_1249689_1250490
-*JAD:	yeah but that's for his wife . %snd:"sastre7"_1250476_1252729
-*JUL:	no no you can see it . %snd:"sastre7"_1252833_1254292
-*JAD:	oh@s:eng&spa # whatever . %snd:"sastre7"_1254032_1256569
-*JAD:	he's weird . %snd:"sastre7"_1256558_1258271
-*JUL:	+< is that your backyard too ? %snd:"sastre7"_1256558_1258271
-*JAD:	he has those little dreads still right ? %snd:"sastre7"_1258354_1261274
-*JUL:	that nasty shit he used to tell us that he hadn't wash his hair for six months . %snd:"sastre7"_1261248_1264284
-*JUL:	I was like &=pretends_to_vomit . %snd:"sastre7"_1264290_1265143
-*JUL:	yeah gross nasty [=! laughs] . %snd:"sastre7"_1265133_1267368
-*JAD:	+< &=laughs . %snd:"sastre7"_1266067_1266590
-*JAD:	but I think he left school . %snd:"sastre7"_1267706_1268684
-*JUL:	[- spa] +< y después ? %snd:"sastre7"_1267706_1268684
-*JAD:	I don't know it's like . %snd:"sastre7"_1268678_1269276
-*JUL:	oh@s:eng&spa my goodness . %snd:"sastre7"_1269270_1270251
-*JUL:	+< I'm like oh@s:eng&spa I should put this here &=laughs . %snd:"sastre7"_1270212_1273021
-*JAD:	like a culture rush . %snd:"sastre7"_1270245_1271441
-*JAD:	is it fine Nele@s:eng&spa ? %snd:"sastre7"_1273000_1274248
+*JAD:	wait he got it on the stomach or below like +/. 1248004_1249822
+*JUL:	like here . 1249689_1250490
+*JAD:	yeah but that's for his wife . 1250476_1252729
+*JUL:	no no you can see it . 1252833_1254292
+*JAD:	oh@s:eng&spa # whatever . 1254032_1256569
+*JAD:	he's weird . 1256558_1258271
+*JUL:	+< is that your backyard too ? 1256558_1258271
+*JAD:	he has those little dreads still right ? 1258354_1261274
+*JUL:	that nasty shit he used to tell us that he hadn't wash his hair for six months . 1261248_1264284
+*JUL:	I was like &=pretends_to_vomit . 1264290_1265143
+*JUL:	yeah gross nasty [=! laughs] . 1265133_1267368
+*JAD:	+< &=laughs . 1266067_1266590
+*JAD:	but I think he left school . 1267706_1268684
+*JUL:	[- spa] +< y después ? 1267706_1268684
+*JAD:	I don't know it's like . 1268678_1269276
+*JUL:	oh@s:eng&spa my goodness . 1269270_1270251
+*JUL:	+< I'm like oh@s:eng&spa I should put this here &=laughs . 1270212_1273021
+*JAD:	like a culture rush . 1270245_1271441
+*JAD:	is it fine Nele@s:eng&spa ? 1273000_1274248
 %com:	background speaker
-*JUL:	yeah it's fine . %snd:"sastre7"_1275404_1276472
-*JAD:	ah ? %snd:"sastre7"_1276615_1277144
-*JUL:	I just pulled it a little bit here . %snd:"sastre7"_1276627_1278647
-*JUL:	but um oh and then xxx he would come like with a big_ass afro . %snd:"sastre7"_1278706_1283184
-*JUL:	[- spa] xxx cuando se la quitó para lavarse el pelo . %snd:"sastre7"_1283133_1284962
-*JUL:	and then like two days later he would put it back in the +.. . %snd:"sastre7"_1284939_1287377
-*JUL:	and um . %snd:"sastre7"_1287379_1290810
-*JAD:	what are you doing ? %snd:"sastre7"_1290820_1291447
+*JUL:	yeah it's fine . 1275404_1276472
+*JAD:	ah ? 1276615_1277144
+*JUL:	I just pulled it a little bit here . 1276627_1278647
+*JUL:	but um oh and then xxx he would come like with a big_ass afro . 1278706_1283184
+*JUL:	[- spa] xxx cuando se la quitó para lavarse el pelo . 1283133_1284962
+*JUL:	and then like two days later he would put it back in the +... 1284939_1287377
+*JUL:	and um . 1287379_1290810
+*JAD:	what are you doing ? 1290820_1291447
 %com:	background speaker
-*JUL:	oh@s:eng&spa how'd you do that ? %snd:"sastre7"_1294776_1296217
-*JAD:	pick up I don't know . %snd:"sastre7"_1296211_1297389
-*JUL:	&=laughs . %snd:"sastre7"_1297373_1298755
-*JAD:	well how much have we been talking for ? %snd:"sastre7"_1298755_1301050
+*JUL:	oh@s:eng&spa how'd you do that ? 1294776_1296217
+*JAD:	pick up I don't know . 1296211_1297389
+*JUL:	&=laughs . 1297373_1298755
+*JAD:	well how much have we been talking for ? 1298755_1301050
 %com:	background speaker
-*JUL:	wow that's a long time . %snd:"sastre7"_1302940_1304820
-*JAD:	+< I should go check the [/] the film now . %snd:"sastre7"_1304356_1305860
-*JUL:	oh@s:eng&spa shit xxx I think it's been in more than like . %snd:"sastre7"_1305854_1308438
-*JAD:	wait . %snd:"sastre7"_1308440_1309066
-*JUL:	what are you doing oh ? %snd:"sastre7"_1308915_1310129
-*JAD:	it was on the fourth . %snd:"sastre7"_1310024_1310779
-*JUL:	[- spa] <hay lugares en mi corazón> [=! sings] . %snd:"sastre7"_1310756_1314917
-*JAD:	+< I'm depressed . %snd:"sastre7"_1313965_1314789
-*JUL:	[- spa] <que he querido ocultar> [=! sings] . %snd:"sastre7"_1314787_1317341
-*JAD:	+< I can't believe xxx your freaking pictures . %snd:"sastre7"_1314787_1317643
-*JUL:	[- spa] <de tu luz y santidad> [=! sings] . %snd:"sastre7"_1317628_1320937
-*JUL:	[- spa] <como tesoros muy dentro de mí> [=! sings] . %snd:"sastre7"_1320930_1328259
-*JAD:	+< ay@s:eng&spa . %snd:"sastre7"_1320930_1328259
-*JUL:	all over that . %snd:"sastre7"_1328246_1329477
-*JAD:	+< oh yeah they've been over . %snd:"sastre7"_1328740_1329773
-*JUL:	+< it's been way more than what five ten minutes fifteen minutes . %snd:"sastre7"_1329633_1333813
-*JUL:	[- spa] <que no los puede de> [=! sings] . %snd:"sastre7"_1333779_1342323
-*JAD:	what the hell ? %snd:"sastre7"_1342276_1343658
-*JUL:	&=laughs turn off . %snd:"sastre7"_1343617_1344784
-*JAD:	yeah I was like what ? %snd:"sastre7"_1344783_1346762
+*JUL:	wow that's a long time . 1302940_1304820
+*JAD:	+< I should go check the [/] the film now . 1304356_1305860
+*JUL:	oh@s:eng&spa shit xxx I think it's been in more than like . 1305854_1308438
+*JAD:	wait . 1308440_1309066
+*JUL:	what are you doing oh ? 1308915_1310129
+*JAD:	it was on the fourth . 1310024_1310779
+*JUL:	[- spa] <hay lugares en mi corazón> [=! sings] . 1310756_1314917
+*JAD:	+< I'm depressed . 1313965_1314789
+*JUL:	[- spa] <que he querido ocultar> [=! sings] . 1314787_1317341
+*JAD:	+< I can't believe xxx your freaking pictures . 1314787_1317643
+*JUL:	[- spa] <de tu luz y santidad> [=! sings] . 1317628_1320937
+*JUL:	[- spa] <como tesoros muy dentro de mí> [=! sings] . 1320930_1328259
+*JAD:	+< ay@s:eng&spa . 1320930_1328259
+*JUL:	all over that . 1328246_1329477
+*JAD:	+< oh yeah they've been over . 1328740_1329773
+*JUL:	+< it's been way more than what five ten minutes fifteen minutes . 1329633_1333813
+*JUL:	[- spa] <que no los puede de> [=! sings] . 1333779_1342323
+*JAD:	what the hell ? 1342276_1343658
+*JUL:	&=laughs turn off . 1343617_1344784
+*JAD:	yeah I was like what ? 1344783_1346762
 %com:	background noise
-*JUL:	is it ready like for sure for sure ? %snd:"sastre7"_1352044_1353826
-*JUL:	no . %snd:"sastre7"_1353809_1354012
-*JUL:	now I'm xxx . %snd:"sastre7"_1355355_1357364
-*JUL:	just kidding . %snd:"sastre7"_1357434_1357834
-*JUL:	I didn't see that &=laughs . %snd:"sastre7"_1357825_1358864
-*JAD:	xxx [=! laughs] . %snd:"sastre7"_1358870_1359874
-*JUL:	&=laughs . %snd:"sastre7"_1359997_1360490
-*JAD:	xxx . %snd:"sastre7"_1360496_1361641
-*JUL:	shoulda got flow low low [=! sings] . %snd:"sastre7"_1361641_1363388
-*JUL:	oh shit I gotta tie my shoe . %snd:"sastre7"_1363377_1364451
-*JUL:	I didn't go to practice yesterday or today . %snd:"sastre7"_1371454_1373567
-*JAD:	what are you guys practicing for though ? %snd:"sastre7"_1374585_1376652
-*JUL:	for Fiesta@s:eng&spa Bowl@s:eng&spa hello Fiesta@s:eng&spa Bowl@s:eng&spa is in like three weeks . %snd:"sastre7"_1376630_1379463
-*JUL:	and states is a week after Fiesta@s:eng&spa Bowl@s:eng&spa when we get back that Wednesday . %snd:"sastre7"_1380424_1383733
-*JAD:	where's states at ? %snd:"sastre7"_1383729_1385036
-*JUL:	xxx . %snd:"sastre7"_1387082_1388086
-*JAD:	oh@s:eng&spa it's not far . %snd:"sastre7"_1388069_1389955
-*JUL:	no it's in Penbrook@s:eng&spa . %snd:"sastre7"_1389945_1391141
-*JAD:	oh@s:eng&spa I miss like with a passion band I really do . %snd:"sastre7"_1391130_1395997
-*JUL:	mhmmm@s:eng&spa [=! sings] . %snd:"sastre7"_1398166_1400192
-*JAD:	you'll probably miss it too . %snd:"sastre7"_1400187_1401859
-*JUL:	nah@s:eng&spa not for another two years . %snd:"sastre7"_1401831_1403683
-*JAD:	yeah that's true . %snd:"sastre7"_1403679_1405200
-*JAD:	xxx it's so funny how I got tired of it and then I miss it like you know . %snd:"sastre7"_1405201_1409393
-*JUL:	oh@s:eng&spa shit . %snd:"sastre7"_1411168_1411615
-*JUL:	I'm like oops shit . %snd:"sastre7"_1411603_1412857
-*JUL:	what are you doing drying the roll ? %snd:"sastre7"_1412857_1414954
-*JAD:	put it in Photoflow and then we have to put it like we'll clip it now . %snd:"sastre7"_1414816_1419177
-*JUL:	+< what's +//? %snd:"sastre7"_1416165_1416507
-*JUL:	oh@s:eng&spa . %snd:"sastre7"_1416507_1416757
-*JAD:	I'll show you . %snd:"sastre7"_1419144_1420677
-*JUL:	how long do we leave it in there for ? %snd:"sastre7"_1420666_1422298
-*JAD:	a minute and then it's almost over . %snd:"sastre7"_1422310_1424301
-*JUL:	xxx it's wet with photo_flow . %snd:"sastre7"_1429416_1432464
-*JAD:	I'm so upset . %snd:"sastre7"_1432448_1434590
-*JAD:	I've never done bad like that . %snd:"sastre7"_1434579_1436721
-*JUL:	(be)cause I'm here . %snd:"sastre7"_1436729_1437484
-*JAD:	no I don't think so . %snd:"sastre7"_1437479_1440028
-*JUL:	&=laughs . %snd:"sastre7"_1440012_1442363
-*JUL:	can you take it out ? %snd:"sastre7"_1447240_1447803
-*JUL:	no . %snd:"sastre7"_1447872_1448058
-*JAD:	yeah . %snd:"sastre7"_1448052_1448755
-*JUL:	yeah ? %snd:"sastre7"_1448732_1449846
-*JAD:	you go like this . %snd:"sastre7"_1449649_1450607
-*JAD:	xxx you see look my grandfather's face I finished that one yesterday . %snd:"sastre7"_1452252_1456235
-*JAD:	I fucked up this one too bro . %snd:"sastre7"_1456111_1457998
-*JUL:	these are the pictures that [/] that I took of you . %snd:"sastre7"_1457272_1460209
-*JAD:	+< of me wow . %snd:"sastre7"_1458781_1460186
-*JAD:	look at your brother . %snd:"sastre7"_1460176_1461564
-*JAD:	I fucked up also # fuck # I fucked that picture up of you man . %snd:"sastre7"_1461570_1466755
-*JUL:	oh@s:eng&spa that's me . %snd:"sastre7"_1463661_1464555
-*JUL:	this one's an old one . %snd:"sastre7"_1466574_1469229
-*JAD:	my God@s:eng&spa . %snd:"sastre7"_1470850_1471947
-*JUL:	and what comes out there like when you [//] if you were to print it ? %snd:"sastre7"_1471947_1474590
-*JAD:	+< it's just like . %snd:"sastre7"_1473923_1474973
-*JUL:	you'll see . %snd:"sastre7"_1474892_1475693
-*JUL:	nothing basically . %snd:"sastre7"_1475688_1477685
-*JUL:	[- spa] xxx se demora . %snd:"sastre7"_1477661_1479827
-*JAD:	yeah it's a forty five minute process . %snd:"sastre7"_1479798_1481562
-*JUL:	xxx and then to # freaking develop them . %snd:"sastre7"_1481479_1484216
-*JUL:	and then to develop them . %snd:"sastre7"_1484202_1487203
-*JAD:	huh@s:eng&spa . %snd:"sastre7"_1484208_1485264
-*JAD:	oh@s:eng&spa it depends on how long it takes . %snd:"sastre7"_1486224_1489998
-*JUL:	+< it's forever ? %snd:"sastre7"_1487218_1488355
-*JAD:	you can start looking at this one . %snd:"sastre7"_1491175_1494280
-*JAD:	oh@s:eng&spa look I started taking pictures of the whale here . %snd:"sastre7"_1494271_1496686
-*JAD:	see ? %snd:"sastre7"_1496773_1497238
-*JAD:	we are good here . %snd:"sastre7"_1496773_1498376
-*JUL:	&i whale . %snd:"sastre7"_1498343_1502351
-*JUL:	&=laughs . %snd:"sastre7"_1499725_1502288
-*JAD:	+< &=laughs . %snd:"sastre7"_1499725_1502288
-*JUL:	[- spa] qué redillo [?] ! %snd:"sastre7"_1502272_1503933
-*JAD:	ok@s:eng&spa we're good for this one . %snd:"sastre7"_1503927_1505483
-*JUL:	go . %snd:"sastre7"_1505481_1506108
-*JUL:	go . %snd:"sastre7"_1506091_1508262
-*JAD:	yeah . %snd:"sastre7"_1508256_1509429
-*JUL:	&sss xxx . %snd:"sastre7"_1509411_1513199
-*JAD:	ok@s:eng&spa . %snd:"sastre7"_1513181_1514917
-*JAD:	xxx let me get up . %snd:"sastre7"_1514873_1516545
-*JUL:	xxx . %snd:"sastre7"_1516562_1519476
-*JUL:	[- spa] <que no los puede ver> [=! sings] . %snd:"sastre7"_1519409_1522747
-*JAD:	+< now let's see what comes out here . %snd:"sastre7"_1519409_1522776
-*JAD:	you know like it gets me so sad . %snd:"sastre7"_1522760_1524786
-*JUL:	+< xxx . %snd:"sastre7"_1522760_1524728
-*JAD:	because it's like a waste . %snd:"sastre7"_1524711_1525715
-*JAD:	you see how it's still like +.. . %snd:"sastre7"_1525703_1527090
-*JUL:	yeah . %snd:"sastre7"_1527044_1527398
-*JUL:	so what would you have to do ? %snd:"sastre7"_1528379_1529308
-*JAD:	xxx . %snd:"sastre7"_1528379_1529308
-*JUL:	you would have to leave more liquid in there ? %snd:"sastre7"_1529308_1530840
-*JAD:	no these are gone forever . %snd:"sastre7"_1530826_1533229
-*JUL:	obviously but I'm saying . %snd:"sastre7"_1533214_1534584
-*JAD:	oh no . %snd:"sastre7"_1534572_1535606
-*JUL:	+< now (be)cause it's exposed right ? %snd:"sastre7"_1534984_1536244
-*JAD:	no it's because +.. . %snd:"sastre7"_1536238_1537768
-*JUL:	you didn't put enough liquid ? %snd:"sastre7"_1537762_1538656
-*JAD:	oh@s:eng&spa yeah I think it's because I messed [/] # I messed the liquid up . %snd:"sastre7"_1538656_1542426
-*JAD:	we'll see what comes out . %snd:"sastre7"_1542457_1544337
-*JAD:	yeah this is all from Sea World . %snd:"sastre7"_1546169_1547516
-*JAD:	look at least I got the horse picture out . %snd:"sastre7"_1547504_1549286
-*JAD:	oh my god . %snd:"sastre7"_1549272_1550415
-*JUL:	there's horses in Sea World ? %snd:"sastre7"_1550427_1551727
-*JAD:	there was like a parade and shit . %snd:"sastre7"_1551727_1554689
-*JUL:	oh@s:eng&spa look those pictures are good . %snd:"sastre7"_1554683_1555752
-*JAD:	oh@s:eng&spa look it was just like here . %snd:"sastre7"_1555738_1558763
-*JAD:	they're good here . %snd:"sastre7"_1560135_1561181
-*JUL:	and what is that ? %snd:"sastre7"_1561170_1563045
-*JAD:	&=sighs let's see . %snd:"sastre7"_1563036_1565369
-*JAD:	this is a thirty six exposure isn't it long . %snd:"sastre7"_1565363_1567288
-*JUL:	yeah it is long . %snd:"sastre7"_1567282_1568849
-*JAD:	are these still good here ? %snd:"sastre7"_1570332_1571290
-*JUL:	yeah . %snd:"sastre7"_1571290_1571557
-*JAD:	this is the one I got in quick as fuck . %snd:"sastre7"_1573272_1575356
-*JAD:	but at the end I didn't care that much . %snd:"sastre7"_1575339_1577133
-*JUL:	well that [/] that [/] that's cool . %snd:"sastre7"_1579924_1582055
-*JAD:	ok@s:eng&spa this right here is +/ . %snd:"sastre7"_1582040_1584106
-*JUL:	I'm like ok@s:eng&spa that's cool . %snd:"sastre7"_1582040_1584100
-*JAD:	ok@s:eng&spa let's do it like this # ok@s:eng&spa . %snd:"sastre7"_1585577_1590499
-*JUL:	the box . %snd:"sastre7"_1587516_1588177
-*JUL:	&=groans . %snd:"sastre7"_1590463_1591740
-*JAD:	fuck the picture fuck the picture . %snd:"sastre7"_1591938_1594231
-*JAD:	look that's a whale picture right there . %snd:"sastre7"_1594237_1596167
-*JAD:	this is the horse . %snd:"sastre7"_1596151_1599007
-*JAD:	and I was playing some game there . %snd:"sastre7"_1599002_1600958
-*JAD:	and # ah@s:eng&spa this is the my grandfather's birthday party . %snd:"sastre7"_1600943_1606785
-*JUL:	xxx I see people . %snd:"sastre7"_1606769_1607930
-*JAD:	my family . %snd:"sastre7"_1607915_1609122
-*JUL:	Jorge@s:eng&spa . %snd:"sastre7"_1609058_1609557
-*JAD:	Jorge@s:eng&spa . %snd:"sastre7"_1609557_1610254
-*JUL:	and the skateboarder that looks like Jack@s:eng&spa Suk@s:eng&spa . %snd:"sastre7"_1610249_1612357
-*JAD:	skateboarders . %snd:"sastre7"_1611532_1612548
-*JUL:	is that Jack's@s:eng&spa . %snd:"sastre7"_1612188_1613146
-*JAD:	no that's um@s:eng&spa Paulo@s:eng&spa and his friend . %snd:"sastre7"_1612815_1614858
-*JUL:	is that your cute cousin ? %snd:"sastre7"_1614870_1616350
-*JAD:	yeah and a xxx bag . %snd:"sastre7"_1616357_1618800
-*JAD:	oh@s:eng&spa Jorge's@s:eng&spa+eng bed here . %snd:"sastre7"_1618789_1621229
-*JAD:	and that's at school . %snd:"sastre7"_1625709_1627696
-*JAD:	yeah I fucked up a lot of my whale pictures yeah . %snd:"sastre7"_1627690_1630953
-*JUL:	yeah but there's still some in the other +/ . %snd:"sastre7"_1630496_1632580
-*JAD:	these are all the whale but on the other one I took some whales . %snd:"sastre7"_1631409_1634311
-*JAD:	there's two [/] two black . %snd:"sastre7"_1634302_1637239
-*JUL:	+< xxx oh@s:eng&spa that's cool . %snd:"sastre7"_1634905_1636728
+*JUL:	is it ready like for sure for sure ? 1352044_1353826
+*JUL:	no . 1353809_1354012
+*JUL:	now I'm xxx . 1355355_1357364
+*JUL:	just kidding . 1357434_1357834
+*JUL:	I didn't see that &=laughs . 1357825_1358864
+*JAD:	xxx [=! laughs] . 1358870_1359874
+*JUL:	&=laughs . 1359997_1360490
+*JAD:	xxx . 1360496_1361641
+*JUL:	shoulda got flow low low [=! sings] . 1361641_1363388
+*JUL:	oh shit I gotta tie my shoe . 1363377_1364451
+*JUL:	I didn't go to practice yesterday or today . 1371454_1373567
+*JAD:	what are you guys practicing for though ? 1374585_1376652
+*JUL:	for Fiesta@s:eng&spa Bowl@s:eng&spa hello Fiesta@s:eng&spa Bowl@s:eng&spa is in like three weeks . 1376630_1379463
+*JUL:	and states is a week after Fiesta@s:eng&spa Bowl@s:eng&spa when we get back that Wednesday . 1380424_1383733
+*JAD:	where's states at ? 1383729_1385036
+*JUL:	xxx . 1387082_1388086
+*JAD:	oh@s:eng&spa it's not far . 1388069_1389955
+*JUL:	no it's in Penbrook@s:eng&spa . 1389945_1391141
+*JAD:	oh@s:eng&spa I miss like with a passion band I really do . 1391130_1395997
+*JUL:	mhmmm@s:eng&spa [=! sings] . 1398166_1400192
+*JAD:	you'll probably miss it too . 1400187_1401859
+*JUL:	nah@s:eng&spa not for another two years . 1401831_1403683
+*JAD:	yeah that's true . 1403679_1405200
+*JAD:	xxx it's so funny how I got tired of it and then I miss it like you know . 1405201_1409393
+*JUL:	oh@s:eng&spa shit . 1411168_1411615
+*JUL:	I'm like oops shit . 1411603_1412857
+*JUL:	what are you doing drying the roll ? 1412857_1414954
+*JAD:	put it in Photoflow and then we have to put it like we'll clip it now . 1414816_1419177
+*JUL:	+< what's +//? 1416165_1416507
+*JUL:	oh@s:eng&spa . 1416507_1416757
+*JAD:	I'll show you . 1419144_1420677
+*JUL:	how long do we leave it in there for ? 1420666_1422298
+*JAD:	a minute and then it's almost over . 1422310_1424301
+*JUL:	xxx it's wet with photo_flow . 1429416_1432464
+*JAD:	I'm so upset . 1432448_1434590
+*JAD:	I've never done bad like that . 1434579_1436721
+*JUL:	(be)cause I'm here . 1436729_1437484
+*JAD:	no I don't think so . 1437479_1440028
+*JUL:	&=laughs . 1440012_1442363
+*JUL:	can you take it out ? 1447240_1447803
+*JUL:	no . 1447872_1448058
+*JAD:	yeah . 1448052_1448755
+*JUL:	yeah ? 1448732_1449846
+*JAD:	you go like this . 1449649_1450607
+*JAD:	xxx you see look my grandfather's face I finished that one yesterday . 1452252_1456235
+*JAD:	I fucked up this one too bro . 1456111_1457998
+*JUL:	these are the pictures that [/] that I took of you . 1457272_1460209
+*JAD:	+< of me wow . 1458781_1460186
+*JAD:	look at your brother . 1460176_1461564
+*JAD:	I fucked up also # fuck # I fucked that picture up of you man . 1461570_1466755
+*JUL:	oh@s:eng&spa that's me . 1463661_1464555
+*JUL:	this one's an old one . 1466574_1469229
+*JAD:	my God@s:eng&spa . 1470850_1471947
+*JUL:	and what comes out there like when you [//] if you were to print it ? 1471947_1474590
+*JAD:	+< it's just like . 1473923_1474973
+*JUL:	you'll see . 1474892_1475693
+*JUL:	nothing basically . 1475688_1477685
+*JUL:	[- spa] xxx se demora . 1477661_1479827
+*JAD:	yeah it's a forty five minute process . 1479798_1481562
+*JUL:	xxx and then to # freaking develop them . 1481479_1484216
+*JUL:	and then to develop them . 1484202_1487203
+*JAD:	huh@s:eng&spa . 1484208_1485264
+*JAD:	oh@s:eng&spa it depends on how long it takes . 1486224_1489998
+*JUL:	+< it's forever ? 1487218_1488355
+*JAD:	you can start looking at this one . 1491175_1494280
+*JAD:	oh@s:eng&spa look I started taking pictures of the whale here . 1494271_1496686
+*JAD:	see ? 1496773_1497238
+*JAD:	we are good here . 1496773_1498376
+*JUL:	&i whale . 1498343_1502351
+*JUL:	&=laughs . 1499725_1502288
+*JAD:	+< &=laughs . 1499725_1502288
+*JUL:	[- spa] qué redillo [?] ! 1502272_1503933
+*JAD:	ok@s:eng&spa we're good for this one . 1503927_1505483
+*JUL:	go . 1505481_1506108
+*JUL:	go . 1506091_1508262
+*JAD:	yeah . 1508256_1509429
+*JUL:	&sss xxx . 1509411_1513199
+*JAD:	ok@s:eng&spa . 1513181_1514917
+*JAD:	xxx let me get up . 1514873_1516545
+*JUL:	xxx . 1516562_1519476
+*JUL:	[- spa] <que no los puede ver> [=! sings] . 1519409_1522747
+*JAD:	+< now let's see what comes out here . 1519409_1522776
+*JAD:	you know like it gets me so sad . 1522760_1524786
+*JUL:	+< xxx . 1522760_1524728
+*JAD:	because it's like a waste . 1524711_1525715
+*JAD:	you see how it's still like +... 1525703_1527090
+*JUL:	yeah . 1527044_1527398
+*JUL:	so what would you have to do ? 1528379_1529308
+*JAD:	xxx . 1528379_1529308
+*JUL:	you would have to leave more liquid in there ? 1529308_1530840
+*JAD:	no these are gone forever . 1530826_1533229
+*JUL:	obviously but I'm saying . 1533214_1534584
+*JAD:	oh no . 1534572_1535606
+*JUL:	+< now (be)cause it's exposed right ? 1534984_1536244
+*JAD:	no it's because +... 1536238_1537768
+*JUL:	you didn't put enough liquid ? 1537762_1538656
+*JAD:	oh@s:eng&spa yeah I think it's because I messed [/] # I messed the liquid up . 1538656_1542426
+*JAD:	we'll see what comes out . 1542457_1544337
+*JAD:	yeah this is all from Sea World . 1546169_1547516
+*JAD:	look at least I got the horse picture out . 1547504_1549286
+*JAD:	oh my god . 1549272_1550415
+*JUL:	there's horses in Sea World ? 1550427_1551727
+*JAD:	there was like a parade and shit . 1551727_1554689
+*JUL:	oh@s:eng&spa look those pictures are good . 1554683_1555752
+*JAD:	oh@s:eng&spa look it was just like here . 1555738_1558763
+*JAD:	they're good here . 1560135_1561181
+*JUL:	and what is that ? 1561170_1563045
+*JAD:	&=sighs let's see . 1563036_1565369
+*JAD:	this is a thirty six exposure isn't it long . 1565363_1567288
+*JUL:	yeah it is long . 1567282_1568849
+*JAD:	are these still good here ? 1570332_1571290
+*JUL:	yeah . 1571290_1571557
+*JAD:	this is the one I got in quick as fuck . 1573272_1575356
+*JAD:	but at the end I didn't care that much . 1575339_1577133
+*JUL:	well that [/] that [/] that's cool . 1579924_1582055
+*JAD:	ok@s:eng&spa this right here is +/. 1582040_1584106
+*JUL:	I'm like ok@s:eng&spa that's cool . 1582040_1584100
+*JAD:	ok@s:eng&spa let's do it like this # ok@s:eng&spa . 1585577_1590499
+*JUL:	the box . 1587516_1588177
+*JUL:	&=groans . 1590463_1591740
+*JAD:	fuck the picture fuck the picture . 1591938_1594231
+*JAD:	look that's a whale picture right there . 1594237_1596167
+*JAD:	this is the horse . 1596151_1599007
+*JAD:	and I was playing some game there . 1599002_1600958
+*JAD:	and # ah@s:eng&spa this is the my grandfather's birthday party . 1600943_1606785
+*JUL:	xxx I see people . 1606769_1607930
+*JAD:	my family . 1607915_1609122
+*JUL:	Jorge@s:eng&spa . 1609058_1609557
+*JAD:	Jorge@s:eng&spa . 1609557_1610254
+*JUL:	and the skateboarder that looks like Jack@s:eng&spa Suk@s:eng&spa . 1610249_1612357
+*JAD:	skateboarders . 1611532_1612548
+*JUL:	is that Jack's@s:eng&spa . 1612188_1613146
+*JAD:	no that's um@s:eng&spa Paulo@s:eng&spa and his friend . 1612815_1614858
+*JUL:	is that your cute cousin ? 1614870_1616350
+*JAD:	yeah and a xxx bag . 1616357_1618800
+*JAD:	oh@s:eng&spa Jorge's@s:eng&spa+eng bed here . 1618789_1621229
+*JAD:	and that's at school . 1625709_1627696
+*JAD:	yeah I fucked up a lot of my whale pictures yeah . 1627690_1630953
+*JUL:	yeah but there's still some in the other +/. 1630496_1632580
+*JAD:	these are all the whale but on the other one I took some whales . 1631409_1634311
+*JAD:	there's two [/] two black . 1634302_1637239
+*JUL:	+< xxx oh@s:eng&spa that's cool . 1634905_1636728
 %com:	background speaker
-*JAD:	oh@s:eng&spa I think +.. . %snd:"sastre7"_1641122_1641888
-*JAD:	that's a different [/] that's a different negative . %snd:"sastre7"_1645080_1646984
-*JUL:	+< that's your back yard ? %snd:"sastre7"_1646038_1646932
-*JAD:	why do you have that negative there ? %snd:"sastre7"_1650533_1651456
+*JAD:	oh@s:eng&spa I think +... 1641122_1641888
+*JAD:	that's a different [/] that's a different negative . 1645080_1646984
+*JUL:	+< that's your back yard ? 1646038_1646932
+*JAD:	why do you have that negative there ? 1650533_1651456
 %com:	background speaker
-*JUL:	+< it smells like chemical . %snd:"sastre7"_1655274_1656789
-*JAD:	oh@s:eng&spa shit . %snd:"sastre7"_1655344_1656667
-*JAD:	how [/] how is that happening ? %snd:"sastre7"_1656773_1659711
-*JAD:	xxx Becky's@s:eng&spa+eng there Cathy's@s:eng&spa+eng there . %snd:"sastre7"_1659690_1662128
-*JUL:	maybe is that thing is broken . %snd:"sastre7"_1660311_1661676
-*JAD:	that's Cathy@s:eng&spa right there . %snd:"sastre7"_1662844_1664057
-*JUL:	maybe it's the machine . %snd:"sastre7"_1664057_1665160
+*JUL:	+< it smells like chemical . 1655274_1656789
+*JAD:	oh@s:eng&spa shit . 1655344_1656667
+*JAD:	how [/] how is that happening ? 1656773_1659711
+*JAD:	xxx Becky's@s:eng&spa+eng there Cathy's@s:eng&spa+eng there . 1659690_1662128
+*JUL:	maybe is that thing is broken . 1660311_1661676
+*JAD:	that's Cathy@s:eng&spa right there . 1662844_1664057
+*JUL:	maybe it's the machine . 1664057_1665160
 %com:	background speaker
-*JUL:	go you're fine . %snd:"sastre7"_1667724_1669123
-*JAD:	look at a thirty six exposure (be)cause xxx like all different . %snd:"sastre7"_1669123_1674199
-*JUL:	you've never had that one before ? %snd:"sastre7"_1674189_1675228
-*JAD:	no I never had a thirty six . %snd:"sastre7"_1675213_1677436
+*JUL:	go you're fine . 1667724_1669123
+*JAD:	look at a thirty six exposure (be)cause xxx like all different . 1669123_1674199
+*JUL:	you've never had that one before ? 1674189_1675228
+*JAD:	no I never had a thirty six . 1675213_1677436
 %com:	background speaker
-*JAD:	yup . %snd:"sastre7"_1677442_1677703
-*JUL:	oh@s:eng&spa is that it's supposed to be longer &=laughs ? %snd:"sastre7"_1677705_1681590
-*JAD:	yeah . %snd:"sastre7"_1681195_1682455
-*JUL:	and what do you do you turn on the heater ? %snd:"sastre7"_1682457_1684599
-*JAD:	the fan yeah . %snd:"sastre7"_1684543_1687016
+*JAD:	yup . 1677442_1677703
+*JUL:	oh@s:eng&spa is that it's supposed to be longer &=laughs ? 1677705_1681590
+*JAD:	yeah . 1681195_1682455
+*JUL:	and what do you do you turn on the heater ? 1682457_1684599
+*JAD:	the fan yeah . 1684543_1687016
 %com:	background speaker
-*JUL:	looks cool . %snd:"sastre7"_1688272_1689084
-*JAD:	the xxx . %snd:"sastre7"_1688929_1689602
-*JAD:	+< it looks pretty contrasting though . %snd:"sastre7"_1689567_1692348
-*JUL:	damn xxx what is that a little lake ? %snd:"sastre7"_1689591_1691826
-*JUL:	that person is out of the pool . %snd:"sastre7"_1692335_1693333
-*JUL:	like coño@s:spa se@s:spa bañó@s:spa en@s:spa la@s:spa piscina@s:spa . %snd:"sastre7"_1693322_1694657
-*JAD:	do you like contrasting ? %snd:"sastre7"_1694639_1695911
+*JUL:	looks cool . 1688272_1689084
+*JAD:	the xxx . 1688929_1689602
+*JAD:	+< it looks pretty contrasting though . 1689567_1692348
+*JUL:	damn xxx what is that a little lake ? 1689591_1691826
+*JUL:	that person is out of the pool . 1692335_1693333
+*JUL:	like coño@s:spa se@s:spa bañó@s:spa en@s:spa la@s:spa piscina@s:spa . 1693322_1694657
+*JAD:	do you like contrasting ? 1694639_1695911
 %com:	another speaker in background
-*JAD:	yeah it's too contrasting . %snd:"sastre7"_1697655_1698665
-*JAD:	bring down the [/] the filter . %snd:"sastre7"_1699104_1700892
-*JUL:	and how do you do that shit ? %snd:"sastre7"_1700889_1701853
-*JAD:	go [/] go now so you can see . %snd:"sastre7"_1701847_1703914
-*JAD:	mami@s:eng&spa they don't to find the gaseo@s:spa [?] aquí@s:spa . %snd:"sastre7"_1703918_1707157
-*JUL:	wait wait stop . %snd:"sastre7"_1706901_1707801
-*JAD:	wait I'm gonna +.. . %snd:"sastre7"_1707774_1709370
-*JUL:	+< maybe we can fix this . %snd:"sastre7"_1707774_1709667
-*JAD:	put it here and then +.. . %snd:"sastre7"_1709653_1710477
-*JUL:	+< let's fix it . %snd:"sastre7"_1710176_1711116
-*JAD:	I need to clean it first . %snd:"sastre7"_1711102_1712576
-*JUL:	and what do you do with this shit? %snd:"sastre7"_1714206_1716395
-*JUL:	gimme I wanna print out a picture from here . %snd:"sastre7"_1716247_1718076
-*JUL:	but the film is all retarded . %snd:"sastre7"_1723282_1724751
+*JAD:	yeah it's too contrasting . 1697655_1698665
+*JAD:	bring down the [/] the filter . 1699104_1700892
+*JUL:	and how do you do that shit ? 1700889_1701853
+*JAD:	go [/] go now so you can see . 1701847_1703914
+*JAD:	mami@s:eng&spa they don't to find the gaseo@s:spa [?] aquí@s:spa . 1703918_1707157
+*JUL:	wait wait stop . 1706901_1707801
+*JAD:	wait I'm gonna +... 1707774_1709370
+*JUL:	+< maybe we can fix this . 1707774_1709667
+*JAD:	put it here and then +... 1709653_1710477
+*JUL:	+< let's fix it . 1710176_1711116
+*JAD:	I need to clean it first . 1711102_1712576
+*JUL:	and what do you do with this shit? 1714206_1716395
+*JUL:	gimme I wanna print out a picture from here . 1716247_1718076
+*JUL:	but the film is all retarded . 1723282_1724751
 %com:	background noise and silence
-*JAD:	which one ? %snd:"sastre7"_1727299_1729836
-*JUL:	here what is this ? %snd:"sastre7"_1729824_1731031
-*JAD:	+< you can print from there if you want . %snd:"sastre7"_1730950_1731925
-*JAD:	that's someone else's work . %snd:"sastre7"_1731922_1733019
-*JUL:	I know [=! laughs] . %snd:"sastre7"_1733019_1734418
-*JUL:	well I wanna know what this is . %snd:"sastre7"_1735605_1737237
-*JUL:	xxx porn pictures . %snd:"sastre7"_1740468_1742186
+*JAD:	which one ? 1727299_1729836
+*JUL:	here what is this ? 1729824_1731031
+*JAD:	+< you can print from there if you want . 1730950_1731925
+*JAD:	that's someone else's work . 1731922_1733019
+*JUL:	I know [=! laughs] . 1733019_1734418
+*JUL:	well I wanna know what this is . 1735605_1737237
+*JUL:	xxx porn pictures . 1740468_1742186
 %com:	background noise and silence
-*JAD:	I still have a headache . %snd:"sastre7"_1749682_1750576
-*JAD:	how about you ? %snd:"sastre7"_1750564_1751087
-*JUL:	no it's gone away . %snd:"sastre7"_1751081_1752201
-*JAD:	yeah ? %snd:"sastre7"_1752197_1753166
-*JUL:	yeah . %snd:"sastre7"_1753161_1753846
-*JUL:	I think it's coming into the light # like from the darkness to the light . %snd:"sastre7"_1755131_1758214
+*JAD:	I still have a headache . 1749682_1750576
+*JAD:	how about you ? 1750564_1751087
+*JUL:	no it's gone away . 1751081_1752201
+*JAD:	yeah ? 1752197_1753166
+*JUL:	yeah . 1753161_1753846
+*JUL:	I think it's coming into the light # like from the darkness to the light . 1755131_1758214
 %com:	background noise and silence
-*JUL:	no so this is what they do at [/] at [/] at Navarro@s:eng&spa # &heh . %snd:"sastre7"_1767786_1772652
-*JAD:	what that this is what they do at Navarro@s:eng&spa ? %snd:"sastre7"_1772649_1774251
-*JUL:	yeah . %snd:"sastre7"_1773914_1774588
-*JAD:	I think that they if they have a machine . %snd:"sastre7"_1774583_1776742
-*JUL:	oh@s:eng&spa [/] oh@s:eng&spa wait you're right . %snd:"sastre7"_1776737_1778805
-*JAD:	because I don't think . %snd:"sastre7"_1778278_1780272
-*JAD:	xxx little [/] little marielitos@s:spa will [//] van@s:spa a@s:spa estar@s:spa ahí@s:spa developing . %snd:"sastre7"_1780266_1789551
-*JUL:	+< &=laughs Manolo@s:eng&spa . %snd:"sastre7"_1780266_1789517
-*JAD:	[- spa] tienes que hacer esto Manolo . %snd:"sastre7"_1789464_1792262
-*JUL:	Manolo@s:eng&spa es@s:spa flow watch . %snd:"sastre7"_1792251_1794439
-*JAD:	es@s:spa flow watch . %snd:"sastre7"_1794419_1795226
-*JAD:	[- spa] se te olvidó hijo . %snd:"sastre7"_1795174_1797217
-*JUL:	+< &=laughs . %snd:"sastre7"_1795174_1798151
+*JUL:	no so this is what they do at [/] at [/] at Navarro@s:eng&spa # &heh . 1767786_1772652
+*JAD:	what that this is what they do at Navarro@s:eng&spa ? 1772649_1774251
+*JUL:	yeah . 1773914_1774588
+*JAD:	I think that they if they have a machine . 1774583_1776742
+*JUL:	oh@s:eng&spa [/] oh@s:eng&spa wait you're right . 1776737_1778805
+*JAD:	because I don't think . 1778278_1780272
+*JAD:	xxx little [/] little marielitos@s:spa will [//] van@s:spa a@s:spa estar@s:spa ahí@s:spa developing . 1780266_1789551
+*JUL:	+< &=laughs Manolo@s:eng&spa . 1780266_1789517
+*JAD:	[- spa] tienes que hacer esto Manolo . 1789464_1792262
+*JUL:	Manolo@s:eng&spa es@s:spa flow watch . 1792251_1794439
+*JAD:	es@s:spa flow watch . 1794419_1795226
+*JAD:	[- spa] se te olvidó hijo . 1795174_1797217
+*JUL:	+< &=laughs . 1795174_1798151
 @End

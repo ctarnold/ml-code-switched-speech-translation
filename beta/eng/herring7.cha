@@ -12,734 +12,734 @@
 @Coder:	Jon Russell Herring, Prifysgol Bangor University
 @Time Duration:	00:24:53
 @Comment:	Filename: herring7.CHA; Soundfile: herring7.wav
-@Comment:	Language markers: @s:eng = English, @s:spa = Spanish @s:eng&spa = Undetermined, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English@s:eng&spa+eng = word with first morpheme(s) undetermined, second morpheme(s) English .
+@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	Proofread
-*SEB:	so # uh@s:eng&spa the book is [/] is like you've read the book you don't wanna watch the movie . %snd:"herring7"_1225_7060
-*SEB:	+< like the end . %snd:"herring7"_7099_8184
-*RIC:	but I like the movie . %snd:"herring7"_7272_8184
-*SEB:	but <if you> [//] <when you> [/] when you read the boo(k) <you don't wanna> [//] you [/] you say wha(t) [//] why they [/] they don't do tha(t) in the movie you know . %snd:"herring7"_9108_14919
-*RIC:	+< yeah . %snd:"herring7"_14669_14919
-*SEB:	and at the end <they put> [/] they put like ah # como@s:spa una@s:spa inyección@s:spa . %snd:"herring7"_15161_20070
-*SEB:	se@s:spa la@s:spa ponen@s:spa and like +// . %snd:"herring7"_20707_21446
-*SEB:	[- spa] él &pʌ [/] podía escoger o una inyección o # <unas pastillas> [//] tomarse unas pastillas o salir pa(ra) la calle y fajarse contra todo el mundo . %snd:"herring7"_21470_29326
-*SEB:	he was like [/] like a murder(er) . %snd:"herring7"_29517_31240
-*SEB:	for them <it wa(s)> [/] he was like a murder(er) . %snd:"herring7"_31249_33211
-*RIC:	a murder ? %snd:"herring7"_33210_33755
-*SEB:	yeah como@s:spa un@s:spa asesino@s:spa # porque@s:spa ya@s:spa ellos@s:spa tenían@s:spa su@s:spa # comun(idad)@s:spa [/] comunidad@s:spa ahí@s:spa . %snd:"herring7"_33705_39196
-*RIC:	yeah . %snd:"herring7"_39162_39626
-*SEB:	you know . %snd:"herring7"_39574_39986
-*RIC:	they were like living like norm(al) +// . %snd:"herring7"_39925_41312
-*RIC:	yeah but they're crazy they kill people like . %snd:"herring7"_41370_43660
-*SEB:	no they don't kill people . %snd:"herring7"_43775_45400
-*SEB:	they don't kill +// . %snd:"herring7"_45518_46070
-*SEB:	[- spa] ellos no mataban a su propia gente . %snd:"herring7"_46093_47457
-*SEB:	[- spa] ellos mataban a la gente como nosotros . %snd:"herring7"_47759_50173
-*RIC:	pero@s:spa exactly <that's like> [//] that's killing people . %snd:"herring7"_50177_53406
-*RIC:	because there were still some survivors left . %snd:"herring7"_53721_56069
-*SEB:	you know but +.. . %snd:"herring7"_58409_59098
-*SEB:	I don't know . %snd:"herring7"_59109_59531
-*RIC:	I know they [/] they adapted . %snd:"herring7"_59525_61214
-*RIC:	[- spa] adaptaron a [/] a la vida de ellos . %snd:"herring7"_61174_63490
-*SEB:	+< yeah . %snd:"herring7"_61244_61766
-*RIC:	I got it . %snd:"herring7"_63519_64343
-*RIC:	&ǀ I wanna see it # I wanna see it . %snd:"herring7"_65216_67120
-*SEB:	have you see(n) the [/] the first one ? %snd:"herring7"_67020_68506
-*SEB:	<the one that> [/] the one that came <on the> [/] <on the movie> [/] on the movie theater . %snd:"herring7"_69231_71884
-*RIC:	+< the movie # yeah yeah . %snd:"herring7"_69458_71849
-*RIC:	I wanna buy it . %snd:"herring7"_71867_72615
-*SEB:	tha(t) [//] the special edition is the one that comes with the # . %snd:"herring7"_73462_76062
-*RIC:	yeah . %snd:"herring7"_76091_76329
-*SEB:	it's like twenty something [/] twenty something bucks . %snd:"herring7"_76424_79036
-*RIC:	I wanna see it . %snd:"herring7"_79238_80045
-*RIC:	so yeah . %snd:"herring7"_81246_81861
-*SEB:	+< an(d) . %snd:"herring7"_81246_81861
-*SEB:	a(nd) <in the> [/] <in the> [/] in the book . %snd:"herring7"_82442_84264
-*RIC:	hmm . %snd:"herring7"_84386_85118
-*SEB:	<they drink the> [//] he drink the pills . %snd:"herring7"_85112_86795
-*SEB:	ah i(t)'s like # like you know xxx como@s:spa que@s:spa te@s:spa enfocan@s:spa que@s:spa se@s:spa [/] se@s:spa fue@s:spa como@s:spa que@s:spa se@s:spa va@s:spa yendo@s:spa así@s:spa you know # . %snd:"herring7"_87052_94867
-*SEB:	but in the book there is a gir(l) # that betrayed him # que@s:spa se@s:spa hace@s:spa pasar@s:spa por@s:spa humano@s:spa . %snd:"herring7"_95536_102317
-*SEB:	[- spa] y no es humano es de los [/] los demás tipos . %snd:"herring7"_102350_104733
-*RIC:	oh really ? %snd:"herring7"_104720_105337
-*SEB:	yeah . %snd:"herring7"_105337_105673
-*RIC:	oh but . %snd:"herring7"_105997_106759
-*SEB:	<that's the> [/] that's the cool part that they don't show you <in the> [/] <in the> [/] in the movie . %snd:"herring7"_106782_110254
-*RIC:	yeah but they can't do that in the movie . %snd:"herring7"_110254_112136
-*SEB:	why ? %snd:"herring7"_112136_112495
-*RIC:	+< because all [/] <all the monsters look like> [//] they look like zombies . %snd:"herring7"_112229_116150
-*SEB:	yeah . %snd:"herring7"_116268_116828
-*RIC:	+< and the other people look like normal people . %snd:"herring7"_116366_118089
-*RIC:	so # like there's no way que@s:spa ella@s:spa se@s:spa puede@s:spa pasar@s:spa como@s:spa humano@s:spa si@s:spa se@s:spa parece@s:spa como@s:spa un@s:spa zombie . %snd:"herring7"_118106_123139
-*SEB:	[- spa] +< pero ella se estaba curando <en la &mu> [//] en la película ella se estaba curando . %snd:"herring7"_122553_126152
-*RIC:	we(ll) [/-] remember he had that girl on the bed ? %snd:"herring7"_126193_128335
-*SEB:	<that one> [/] that one se@s:spa estaba@s:spa curando@s:spa . %snd:"herring7"_128389_130129
-*SEB:	on the second ending they show you like the girl is [/] <is like curing> [//] is like healthing # um:@s:eng&spa . %snd:"herring7"_130121_138035
-*SEB:	cuando@s:spa se@s:spa la@s:spa va@s:spa a@s:spa entregar@s:spa le@s:spa da@s:spa un@s:spa shot y@s:spa se@s:spa convierte@s:spa de@s:spa nuevo@s:spa &=gasp . %snd:"herring7"_137978_141546
-*SEB:	dude y(ou) [/] you [/] you saw that the [/] &la [/] the [/] the girl was breathing like # like a lo(t) . %snd:"herring7"_141603_145736
-*RIC:	yeah . %snd:"herring7"_145725_146152
-*SEB:	[- spa] ella después en el xxx final estaba como más pasiva . %snd:"herring7"_146299_149664
-*SEB:	y@s:spa <le@s:spa da@s:spa al(go)@s:spa> [//] el@s:spa tipo@s:spa le@s:spa da@s:spa un@s:spa shot de@s:spa [/] de@s:spa otra@s:spa no@s:spa sé@s:spa qué@s:spa de@s:spa la(s)@s:spa que@s:spa tenía@s:spa él@s:spa # . %snd:"herring7"_149843_154506
-*SEB:	[- spa] y [/] y se pone monstruo de nuevo . %snd:"herring7"_154579_157165
-*RIC:	yeah . %snd:"herring7"_157222_157553
-*SEB:	entonces@s:spa they close the door and that's i(t) . %snd:"herring7"_157760_159728
-*RIC:	damn . %snd:"herring7"_160756_161946
-*SEB:	but . %snd:"herring7"_162520_163621
-*RIC:	+< I wanna see it . %snd:"herring7"_162632_163371
-*RIC:	look at that ]/[ look at that over there . %snd:"herring7"_163767_165171
-*SEB:	yeah . %snd:"herring7"_166396_167666
-*RIC:	oh my god bro . %snd:"herring7"_168460_170202
-*SEB:	so # none of [/] none of [/] none of the endings is [/] is like relative to [/] # to the movie [//] to the book . %snd:"herring7"_170146_177471
-*RIC:	+< right +// . %snd:"herring7"_177491_177972
-*RIC:	yeah I heard that there's [/] <there's a different> [//] there's different versions of the movie and the book +// . %snd:"herring7"_177971_183479
-*RIC:	there's a old movie like I_Am_Legend@s:eng&spa is a remake . %snd:"herring7"_183479_185935
-*SEB:	yeah it's like they [/] they got like three movies . %snd:"herring7"_185923_187978
-*RIC:	yeah . %snd:"herring7"_188000_188366
-*SEB:	but I don't know <why they> [/] why they can't do the movie by the book . %snd:"herring7"_188784_191710
-*SEB:	<they already> [/] they already got the book . %snd:"herring7"_191547_193312
-*RIC:	sometimes they gotta change stuff you know . %snd:"herring7"_193450_195290
-*RIC:	sometimes it [/] it can't all be the same . %snd:"herring7"_195534_197689
-*SEB:	ah . %snd:"herring7"_199397_200061
-*RIC:	+< so you have to work at twelve ? %snd:"herring7"_199544_200891
-*SEB:	yeah . %snd:"herring7"_200882_201465
-*RIC:	damn # why so early ? %snd:"herring7"_201587_203319
-*SEB:	+< (be)cause they [/] (be)cause they got a lot of clothes in . %snd:"herring7"_202555_204936
-*RIC:	twelve till what ? %snd:"herring7"_204804_205863
-*SEB:	till six my xxx . %snd:"herring7"_206142_207702
-*RIC:	ah . %snd:"herring7"_207862_208206
-*SEB:	+< I [/] I start like at twelve um I'm working with . %snd:"herring7"_207870_209323
-*RIC:	+< so you're doing more hours ? %snd:"herring7"_209258_210309
-*SEB:	yeah # but just for today . %snd:"herring7"_210582_213463
-*RIC:	more hours for you bro . %snd:"herring7"_214128_215417
-*SEB:	yeah # I wish <they &g> [/] <they &g> [/] they give me at twelve every day . %snd:"herring7"_215392_219739
-*RIC:	Tom [/] Tom was telling me something about this show called Qué_Pasa_U_S_A@s:eng&spa . %snd:"herring7"_219788_223802
-*RIC:	have you seen it ? %snd:"herring7"_223863_224651
-*SEB:	which one ? %snd:"herring7"_224577_225242
-*RIC:	Qué_Pasa_U_S_A@s:eng&spa . %snd:"herring7"_225242_226679
-*SEB:	I dunno . %snd:"herring7"_226638_227844
-*RIC:	&ǀ bro el@s:spa programa@s:spa ese@s:spa en@s:spa [/] en@s:spa el@s:spa canal@s:spa dos@s:spa que@s:spa la@s:spa gente@s:spa es@s:spa una@s:spa familia@s:spa . %snd:"herring7"_227910_232484
-*RIC:	[- spa] y hablan inglés y español . %snd:"herring7"_232501_234137
-*SEB:	I have seen it . %snd:"herring7"_235340_236054
-*SEB:	you seen that show ? %snd:"herring7"_236041_236738
-*SEB:	yeah but I [/] I wanna see more but I don't [/] I don't know what channel it's in . %snd:"herring7"_236889_240769
-*RIC:	[- spa] es un programa viejo . %snd:"herring7"_240676_241692
-*SEB:	+< ese@s:spa en@s:spa el@s:spa yeah I know . %snd:"herring7"_240885_242383
-*RIC:	yeah . %snd:"herring7"_242484_242768
-*SEB:	it's like [/] it's like Cubans or something like that . %snd:"herring7"_242780_245798
-*RIC:	+< uhhuh@s:eng&spa you Cubans . %snd:"herring7"_244428_245433
-*RIC:	yeah an(d) they speak Spanish and English . %snd:"herring7"_246902_248952
-*SEB:	it's [/] it's in channel two ? %snd:"herring7"_248876_250287
-*RIC:	I dunno if [//] they give it like in the morning and like # in the afternoon . %snd:"herring7"_251192_255678
-*SEB:	I'll check it out in the [/] in the online . %snd:"herring7"_255608_257373
-*RIC:	yeah check it out . %snd:"herring7"_257363_258175
-*SEB:	Qué_Pasa_U_S_A@s:eng&spa se@s:spa llama@s:spa ? %snd:"herring7"_258257_259456
-*RIC:	+< Qué_Pasa_U_S_(A)@s:eng&spa +.. . %snd:"herring7"_259185_260022
-*RIC:	er he was telling me que@s:spa quiere@s:spa grabar@s:spa el@s:spa programa@s:spa ese@s:spa . %snd:"herring7"_260711_263667
-*SEB:	who this guy ? %snd:"herring7"_263669_265040
-*RIC:	+< yeah . %snd:"herring7"_264523_265007
-*SEB:	he talk in Spanish ? %snd:"herring7"_265318_267214
-*RIC:	a little bit he does . %snd:"herring7"_267575_268494
-*SEB:	oh yeah ? %snd:"herring7"_268470_268971
-*RIC:	yeah . %snd:"herring7"_268980_269883
-*SEB:	&yo [//] you [//] have you seen the [/] # the Heroes@s:eng&spa yet ? %snd:"herring7"_270072_272986
-*RIC:	&ǀ I'm (gon)na see it today . %snd:"herring7"_273006_274401
-*RIC:	when I go home now <I'm gonna go> [/] I'm gonna go see like two episodes . %snd:"herring7"_274359_276961
-*SEB:	+< yeah ? %snd:"herring7"_275395_275879
-*RIC:	how was it ? %snd:"herring7"_276994_278168
-*SEB:	and the chapter nine bro it's awesome . %snd:"herring7"_278238_279905
-*RIC:	you saw it ? %snd:"herring7"_279874_280408
-*SEB:	yeah . %snd:"herring7"_280334_280851
-*RIC:	you saw it last night ? %snd:"herring7"_280843_281680
-*SEB:	no no I [/] I just got stuck on the chapter nine . %snd:"herring7"_281772_284111
-*RIC:	oh . %snd:"herring7"_284038_284571
-*SEB:	I gotta see ten and eleven but +.. . %snd:"herring7"_284333_286172
-*RIC:	eleven is the last one . %snd:"herring7"_286434_287920
-*SEB:	I don't know that's [/] that's why (be)cause in the eleven is when they got the strike [/] the strike thing . %snd:"herring7"_287756_292225
-*SEB:	strike [//] strikes writer ? %snd:"herring7"_292714_295308
-*RIC:	+< yeah I think [/] I think that it just ended like right there like it ended (be)cause of the strike . %snd:"herring7"_293034_299338
-*RIC:	and now like they're gonna start it again +/ . %snd:"herring7"_299371_300919
-*SEB:	+< the [//] they yeah <that's what I> [//] that's what I'm thinking but # there is +/ . %snd:"herring7"_300303_303989
-*RIC:	+< sorry . %snd:"herring7"_303910_304258
-*SEB:	+, like seven [/] seven pictures you know the [/] the seven pictures that they found ? %snd:"herring7"_304434_309266
-*SEB:	and they just got like # four of them right four of them . %snd:"herring7"_309277_315333
-*RIC:	what [/] what do you mean pictures ? %snd:"herring7"_315494_317022
-*SEB:	don't . %snd:"herring7"_315517_316202
-*SEB:	Isaac@s:eng&spa Méndez@s:eng&spa <&w the &w> [//] the [/] the painter . %snd:"herring7"_316899_320505
-*RIC:	nah oh yeah yeah . %snd:"herring7"_320468_322052
-*SEB:	él@s:spa pintó@s:spa seven pictures antes@s:spa de@s:spa morirse@s:spa . %snd:"herring7"_321682_325266
-*RIC:	+< ok@s:eng&spa . %snd:"herring7"_323289_323738
-*SEB:	and they found the pictures . %snd:"herring7"_325019_326794
-*SEB:	one of the pictures is the [/] is the guy of the Claire@s:eng&spa . %snd:"herring7"_326997_329985
-*SEB:	you saw that part ? %snd:"herring7"_330008_331143
-*RIC:	the guy of the what ? %snd:"herring7"_331143_331873
-*SEB:	+< that he's like # ah como@s:spa muerto@s:spa que@s:spa se@s:spa ve@s:spa como@s:spa muerto@s:spa con@s:spa un@s:spa tiro@s:spa en@s:spa el@s:spa glass . %snd:"herring7"_331660_336783
-*RIC:	oh yeah yeah yeah . %snd:"herring7"_335267_336716
-*SEB:	that's the one . %snd:"herring7"_336634_337757
-*SEB:	the other one is the +/ . %snd:"herring7"_337735_339240
-*RIC:	damn I don't like that one . %snd:"herring7"_338892_340398
-*SEB:	which one ? %snd:"herring7"_340488_341173
-*RIC:	I don't want him to die . %snd:"herring7"_341142_342240
-*SEB:	no <you gonna &s> [//] you [/] <you gonna> [//] they gonna show you at the end of the chapter nine you gonna see . %snd:"herring7"_342139_346296
-*SEB:	damn it can happen bro . %snd:"herring7"_347027_349487
-*RIC:	+< damn I gotta see it bro . %snd:"herring7"_348355_350611
-*SEB:	+< you gotta see it cos # tha(t) [//] it happens something # that you see # you see something that +/ . %snd:"herring7"_349798_356281
-*RIC:	+< you wanna tell me but don't don't don't tell me . %snd:"herring7"_356158_358326
-*SEB:	+, <I don't> [/] I wanna tell you but I don't wanna tell you . %snd:"herring7"_357102_359236
-*RIC:	+< yeah yeah don't tell me don't tell me . %snd:"herring7"_358607_360102
-*SEB:	you gonna see something that # they [/] they can do <with them> [//] with their abilities # I mean with their [/] with that special ability . %snd:"herring7"_359998_367694
-*SEB:	that they can put it to another peoples . %snd:"herring7"_367339_370698
-*SEB:	you know you're gonna see what happens in the chapter nine . %snd:"herring7"_371631_373799
-*SEB:	tha(t) it [//] then you're gonna say why [//] what the f(uck) happened here . %snd:"herring7"_373799_376361
-*RIC:	wow . %snd:"herring7"_376358_377080
-*RIC:	I dunno bro . %snd:"herring7"_378090_379059
-*RIC:	I used to come to this movie theater so much . %snd:"herring7"_379157_381234
-*SEB:	huh@s:eng&spa ? %snd:"herring7"_381584_382446
-*RIC:	is this the [/] the movies you come to ? %snd:"herring7"_382963_384711
-*SEB:	no the uh@s:eng&spa Dolphin@s:eng&spa I go to the Dolphin@s:eng&spa . %snd:"herring7"_384752_387781
-*SEB:	(be)cause this one uh@s:eng&spa close like earlier [/] earlier . %snd:"herring7"_387157_390835
-*RIC:	yeah it close earli(er) +// . %snd:"herring7"_390882_391631
-*RIC:	it open +/ . %snd:"herring7"_391625_392403
-*SEB:	that one is shorter ? %snd:"herring7"_392230_393478
-*RIC:	+< shorter yeah . %snd:"herring7"_393379_394208
-*SEB:	+< yeah I wan(t) +// . %snd:"herring7"_394167_394643
-*SEB:	actu(ally) I saw +/ . %snd:"herring7"_394654_394921
-*RIC:	+< that's the one I wanna see . %snd:"herring7"_394930_395964
-*SEB:	+, <I saw the> [/] I saw the &ǀ xxx yesterday . %snd:"herring7"_394946_399165
-*RIC:	mmhm . %snd:"herring7"_398743_399228
-*SEB:	oh it's awesome bro . %snd:"herring7"_399211_400319
-*RIC:	yeah I wanna see it . %snd:"herring7"_400336_401567
-*SEB:	it looks like <it works> [//] he works . %snd:"herring7"_401669_404361
-*SEB:	<that movie works> [///] this guy uh@s:eng&spa # I remember the face # . %snd:"herring7"_404657_410025
-*SEB:	but it looks like one [/] one Spanish guy # working on the movie . %snd:"herring7"_412928_417566
-*RIC:	you know who's in that movie ? %snd:"herring7"_417532_418771
-*RIC:	Ando@s:eng&spa # you know Ando@s:eng&spa ? %snd:"herring7"_418862_420733
-*SEB:	oh yeah . %snd:"herring7"_420725_422670
-*SEB:	Ando@s:eng&spa from Heroes . %snd:"herring7"_422022_423680
-*SEB:	I thought that was a Spanish guy but it was Ando@s:eng&spa the one that I saw . %snd:"herring7"_423744_427762
-*RIC:	yeah . %snd:"herring7"_427501_427872
-*SEB:	I saw it but it &l +// . %snd:"herring7"_428312_428968
-*SEB:	you know like el@s:spa perfil@s:spa ? %snd:"herring7"_429043_430146
-*RIC:	yeah . %snd:"herring7"_430030_430552
-*SEB:	y@s:spa dije@s:spa that's Ando@s:eng&spa ! %snd:"herring7"_430570_432369
-*RIC:	&=laugh . %snd:"herring7"_432392_433176
-*SEB:	but # they didn't put it again so # you know xxx I was like # that isn't Ando@s:eng&spa then . %snd:"herring7"_433199_439387
-*RIC:	yeah . %snd:"herring7"_439741_440299
-*SEB:	[- spa] él es modelo creo . %snd:"herring7"_440815_442447
-*RIC:	really ? %snd:"herring7"_442441_442928
-*RIC:	yeah . %snd:"herring7"_442870_443277
-*SEB:	go to go to Wikipedia@s:eng&spa # la@s:spa enciclopedia@s:spa online . %snd:"herring7"_443359_448955
-*RIC:	yeah Wikipedia@s:eng&spa . %snd:"herring7"_448892_449795
-*SEB:	y@s:spa pon@s:spa el@s:spa [/] el@s:spa [/] # el@s:spa profile there . %snd:"herring7"_449803_454203
-*SEB:	sale@s:spa él@s:spa sale@s:spa # Micah@s:eng&spa # &s &s . %snd:"herring7"_454308_459217
-*RIC:	Micah@s:eng&spa ? %snd:"herring7"_459242_459652
-*SEB:	[- spa] +< el chama [/] chamaquito . %snd:"herring7"_459652_460219
-*RIC:	+< oh yeah yeah . %snd:"herring7"_460161_461335
-*SEB:	sale@s:spa # D_L@s:eng&spa . %snd:"herring7"_460514_461713
-*SEB:	[- spa] sale # &ʘ +// . %snd:"herring7"_463068_465866
-*SEB:	[- spa] quién más sale ? %snd:"herring7"_465900_466911
-*SEB:	sale@s:spa # Nathan@s:eng&spa . %snd:"herring7"_466911_468012
-*RIC:	Nathan@s:eng&spa ? %snd:"herring7"_468610_469160
-*SEB:	+< Nathan@s:eng&spa Per@s:eng&spa +// . %snd:"herring7"_468684_469251
-*SEB:	yeah Nathan@s:eng&spa Pe@s:eng&spa [/] Petrelli@s:eng&spa . %snd:"herring7"_469375_470785
-*SEB:	sale@s:spa Peter@s:eng&spa también@s:spa . %snd:"herring7"_470693_472745
-*SEB:	[- spa] sale # el tipo este el hindú . %snd:"herring7"_472828_475939
-*RIC:	they're all models ? %snd:"herring7"_475799_477121
-*SEB:	[- spa] no . %snd:"herring7"_477096_477777
-*RIC:	oh . %snd:"herring7"_477794_478220
-*SEB:	tha(t) [/] that guy Ando@s:eng&spa . %snd:"herring7"_478270_480667
-*SEB:	eh@s:eng&spa el@s:spa hindú@s:spa no@s:spa me@s:spa acuerdo@s:spa que@s:spa era@s:spa e(s)@s:spa él@s:spa es@s:spa from Chicago@s:eng&spa . %snd:"herring7"_480626_484361
-*RIC:	Suresh@s:eng&spa ? %snd:"herring7"_484278_484869
-*SEB:	Suresh@s:eng&spa yeah . %snd:"herring7"_484809_486951
-*RIC:	Mohinder@s:eng&spa . %snd:"herring7"_486958_487754
-*SEB:	and you('re) gonna see what happened with Suresh@s:eng&spa too . %snd:"herring7"_488472_490573
-*SEB:	yeah you're gonna say that <I can't> [//] it can't happen I don't know what [//] how [/] how he's changed you know . %snd:"herring7"_490581_495366
-*RIC:	damn . %snd:"herring7"_495354_495865
-*SEB:	what point he's changed ? %snd:"herring7"_495755_497264
-*RIC:	the cheerleader pisses me off bro . %snd:"herring7"_497676_499807
-*SEB:	yeah . %snd:"herring7"_499783_500474
-*RIC:	she pisses me off . %snd:"herring7"_500549_501338
-*RIC:	[- spa] siempre está en los mismos esa . %snd:"herring7"_501514_502807
-*SEB:	+< yeah everything [/] everything is the same # I wanna help people I wanna help people I wanna help people whee get out . %snd:"herring7"_502582_508503
-*RIC:	yeah exactly . %snd:"herring7"_508369_509301
-*RIC:	I don't wanna . %snd:"herring7"_509567_510398
-*SEB:	+< yeah . %snd:"herring7"_510455_510983
-*RIC:	+< yeah . %snd:"herring7"_510691_511252
-*SEB:	and <you saw> [/] you saw her [/] her boyfriend ? %snd:"herring7"_511945_514057
-*RIC:	yeah he's pissing me off even more ! %snd:"herring7"_514349_516765
-*SEB:	+< &=laugh . %snd:"herring7"_517462_518866
-*RIC:	stupid Superman@s:eng&spa guy . %snd:"herring7"_519020_520851
-*RIC:	thinks he's Superman@s:eng&spa and shit . %snd:"herring7"_521705_523581
-*SEB:	+< yeah I can fly you can heal I can fly you can heal that's it . %snd:"herring7"_523933_527427
-*RIC:	yeah . %snd:"herring7"_527585_528270
-*SEB:	bro the only interest [//] <interesting part> [//] the interesting part that they do # was when this girl the [/] the cheerleader thi(s) [/] this girl ? %snd:"herring7"_528416_537113
-*RIC:	oh yeah yeah . %snd:"herring7"_537158_538641
-*SEB:	+< you saw that part que@s:spa él@s:spa la@s:spa deja@s:spa caer@s:spa y@s:spa ella@s:spa se@s:spa cae@s:spa y@s:spa . %snd:"herring7"_537270_540697
-*SEB:	did you see that part ? %snd:"herring7"_541102_543529
-*RIC:	oh when they were on the mountain ? %snd:"herring7"_543686_545450
-*RIC:	wait what part was that ? %snd:"herring7"_546839_547806
-*SEB:	no@s:spa no@s:spa no@s:spa no@s:spa <hay@s:spa un@s:spa> [//] hay@s:spa una@s:spa parte@s:spa que@s:spa [/] que@s:spa la@s:spa [/] la@s:spa pesada@s:spa la@s:spa cheerleader pesada@s:spa está@s:spa tomando@s:spa +.. . %snd:"herring7"_547787_552466
-*SEB:	you [/] you didn't see that part ? %snd:"herring7"_552762_554033
-*RIC:	well <is that> [/] is that episode six # or seven ? %snd:"herring7"_553956_556192
-*SEB:	<I don't> [/] I don't really remember . %snd:"herring7"_557643_559524
-*RIC:	+< six seven or eight ? %snd:"herring7"_558537_559420
-*RIC:	(be)cau(se) I haven't seen six I'm gonna see six today . %snd:"herring7"_559458_562436
-*SEB:	[- spa] hay una parte que ella está tomando . %snd:"herring7"_562407_564224
-*SEB:	[- spa] y ellos quieren # como [/] como asustarla como algo un escarmiento . %snd:"herring7"_564300_568932
-*SEB:	[- spa] y entonces # ellos planean algo . %snd:"herring7"_568949_571353
-*SEB:	[- spa] y él se pone una máscara . %snd:"herring7"_571987_573601
-*SEB:	[- spa] y él la sube y la deja caer . %snd:"herring7"_573473_576091
-*SEB:	[- spa] y espera parecer un fantasma a ella tú sabes como pa(ra) asustarla . %snd:"herring7"_576103_579000
-*RIC:	+< oh I haven't seen it . %snd:"herring7"_578460_579899
-*SEB:	y@s:spa ella@s:spa le@s:spa dice@s:spa que@s:spa él@s:spa él@s:spa viene@s:spa la@s:spa policía@s:spa y@s:spa después@s:spa viene@s:spa Claire@s:eng&spa y@s:spa Claire@s:eng&spa está@s:spa normal@s:spa y@s:spa después@s:spa viene@s:spa el@s:spa muchacho@s:spa y@s:spa como@s:spa que@s:spa xxx parecer@s:spa la@s:spa como@s:spa que@s:spa ella@s:spa está@s:spa loca@s:spa . %snd:"herring7"_579359_586701
-*RIC:	oh yeah yeah no I haven't seen it &=laugh . %snd:"herring7"_586533_589087
-*RIC:	I'll see it . %snd:"herring7"_589352_589857
-*SEB:	it [//] that's the only part that you know like it's like # funny . %snd:"herring7"_589780_592798
-*RIC:	+< yeah . %snd:"herring7"_592311_592705
-*SEB:	pero@s:spa # xxx you know # en@s:spa la@s:spa primera@s:spa parte@s:spa enseña@s:spa más@s:spa . %snd:"herring7"_594787_599030
-*RIC:	yeah and Claire@s:eng&spa <is not> [//] doesn't do [/] do anything . %snd:"herring7"_599293_602590
-*RIC:	she's just complaining all the time . %snd:"herring7"_602621_603997
-*SEB:	yeah en@s:spa la@s:spa primera@s:spa parte@s:spa enseña@s:spa más@s:spa +/ . %snd:"herring7"_604008_605860
-*RIC:	+< an(d) she's always mad at her father . %snd:"herring7"_605663_607265
-*SEB:	yeah . %snd:"herring7"_607217_607824
-*RIC:	+< and her father's just trying to like protect her . %snd:"herring7"_607359_609010
-*SEB:	[- spa] ajá . %snd:"herring7"_609078_609628
-*RIC:	+< and what pisses me off is she doesn't listen to him . %snd:"herring7"_609213_611168
-*RIC:	you know . %snd:"herring7"_611430_612082
-*SEB:	that [/] <that's what> [/] that's what happens th(e) [/] the things in the # chapter nine . %snd:"herring7"_612026_615689
-*RIC:	doesn't listen to him . %snd:"herring7"_615770_617127
-*SEB:	no . %snd:"herring7"_617127_617745
-*SEB:	an(d) . %snd:"herring7"_619913_620980
-*SEB:	Hiro@s:eng&spa sees the who killed the father . %snd:"herring7"_624103_626845
-*RIC:	he sees ? %snd:"herring7"_627227_627912
-*SEB:	+< yeah . %snd:"herring7"_627766_628418
-*RIC:	does Hiro@s:eng&spa come back ? %snd:"herring7"_628508_629721
-*RIC:	I wan(t) him to leave the past already . %snd:"herring7"_629710_631227
-*SEB:	yeah me too +/ . %snd:"herring7"_631335_632099
-*RIC:	I wan(t) (h)im to come back . %snd:"herring7"_632099_633200
-*SEB:	+, (be)cause he's er it [/] it's everything on the same [///] that's what I'm telling you [///] everything in the same role . %snd:"herring7"_632290_635526
-*RIC:	yeah . %snd:"herring7"_635562_636067
-*SEB:	like Hiro's@s:eng&spa over xxx he [/] he's over there <on the> [/] on the sixty o(n) [/] on the &s +.. . %snd:"herring7"_636000_641191
-*RIC:	fifteen forty or something ? %snd:"herring7"_641138_642824
-*SEB:	+< yeah something like that . %snd:"herring7"_642150_643857
-*SEB:	and <they don't do> [/] they don't do anything . %snd:"herring7"_643734_645610
-*RIC:	+< with Kensei@s:eng&spa but he's coming back . %snd:"herring7"_645284_646869
-*RIC:	did he come back already ? %snd:"herring7"_647958_648880
-*SEB:	yeah on chapter # eight he comes back . %snd:"herring7"_648677_653396
-*SEB:	at [/] at the end of the chapter eight # I think yeah . %snd:"herring7"_653549_657224
-*RIC:	I like what's going on with Peter@s:eng&spa though . %snd:"herring7"_657313_659302
-*SEB:	[- spa] ah ? %snd:"herring7"_659313_659651
-*RIC:	I like [//] well I'm interested in like the Peter@s:eng&spa story like what's going on with Peter@s:eng&spa . %snd:"herring7"_659572_663800
-*RIC:	(be)cause like <he saw> [/] he saw the picture . %snd:"herring7"_663946_665856
-*RIC:	he's like oh I gotta go . %snd:"herring7"_666014_666946
-*RIC:	and then the girl's father +/ . %snd:"herring7"_666980_668283
-*RIC:	+, got killed by the girl with the +// . %snd:"herring7"_668260_669507
-*SEB:	+< yeah . %snd:"herring7"_668316_668845
-*RIC:	that girl's hot by the way . %snd:"herring7"_669665_670957
-*SEB:	&au on [/] <on this> [/] on this season yeah the [/] the only one that [/] that <I wanna> [/] I wanna know is xxx you know . %snd:"herring7"_670965_677863
-*SEB:	that season # it was Hiro@s:eng&spa the one that <I wanted> [/] <I wa(nt)> [//] they [/] they [/] they [//] I want +/ . %snd:"herring7"_678104_683677
-*RIC:	+< yeah . %snd:"herring7"_683025_683474
-*SEB:	+, to be like you know like I want +/ . %snd:"herring7"_683654_686021
-*RIC:	+< you want . %snd:"herring7"_685890_686520
-*SEB:	+, to be seeing . %snd:"herring7"_686111_686954
-*RIC:	yeah . %snd:"herring7"_686864_687336
-*SEB:	(be)cause is the [/] the funny stuff the +/ . %snd:"herring7"_687830_689684
-*RIC:	+< yeah yeah . %snd:"herring7"_689538_690302
-*SEB:	[- spa] +, pero en ésta no está haciendo nada . %snd:"herring7"_690677_692677
-*RIC:	nah . %snd:"herring7"_692583_693752
-*SEB:	so # yeah it's what you're saying . %snd:"herring7"_693078_695550
-*RIC:	maybe next season or something . %snd:"herring7"_695482_696662
-*SEB:	+< &pi Peter@s:eng&spa is the only one that you're interested about like . %snd:"herring7"_695662_699954
-*RIC:	+< yeah . %snd:"herring7"_699167_699774
-*SEB:	Peter@s:eng&spa and Nathan@s:eng&spa porque@s:spa en@s:spa las@s:spa en@s:spa la@s:spa # &ǀ . %snd:"herring7"_700066_704448
-*RIC:	Nathan@s:eng&spa ? %snd:"herring7"_704347_704942
-*SEB:	[- spa] +< en cuando [/] cuando ellos viran del pasado . %snd:"herring7"_705122_707279
-*RIC:	+< oh yeah . %snd:"herring7"_705369_706212
-*SEB:	cua(ndo)@s:spa [/] cuando@s:spa ellos@s:spa te@s:spa ponen@s:spa la@s:spa parte@s:spa de@s:spa &tri four months ago . %snd:"herring7"_707493_710672
-*RIC:	oh no no no no no don't tell . %snd:"herring7"_710665_711930
-*SEB:	+< no no no no xxx I'm just gonna tell you this . %snd:"herring7"_711560_713489
-*RIC:	+< all right then . %snd:"herring7"_712644_713391
-*SEB:	four months ago &=cough tú@s:spa viste@s:spa que@s:spa Nathan@s:eng&spa se@s:spa ve@s:spa a@s:spa veces@s:spa con@s:spa la@s:spa cara@s:spa quema(da)@s:spa . %snd:"herring7"_713711_717708
-*RIC:	yeah . %snd:"herring7"_717778_718410
-*SEB:	[- spa] es <cuando sube> [/] <cuando él &su> [/] cuando ellos suben pa(ra) arriba +/ . %snd:"herring7"_719477_721702
-*RIC:	oh@s:eng&spa . %snd:"herring7"_721669_722260
-*SEB:	[- spa] +, él lo empieza a quemar . %snd:"herring7"_722358_723581
-*SEB:	[- spa] y entonces después tú [/] tú quieres saber cómo fue que se curó completo . %snd:"herring7"_725213_729022
-*RIC:	+< oh . %snd:"herring7"_729153_729490
-*SEB:	+< porque@s:spa después@s:spa está@s:spa completo@s:spa curado@s:spa you know . %snd:"herring7"_729260_731920
-*RIC:	+< yeah . %snd:"herring7"_730959_731435
-*RIC:	and they show you ? %snd:"herring7"_732040_732777
-*SEB:	yeah they show you +/ . %snd:"herring7"_733091_733834
-*RIC:	you know ? %snd:"herring7"_733898_734112
-*SEB:	+, what happen(s) yeah . %snd:"herring7"_734153_734960
-*RIC:	+< oh my god . %snd:"herring7"_735043_735954
-*SEB:	<on the> [/] on chapter nine . %snd:"herring7"_735549_736560
-*SEB:	but <that's what> [/] that's what +/ . %snd:"herring7"_737848_739152
-*RIC:	+< um and then Nicky@s:eng&spa [/] Nicky's@s:eng&spa in like the hospital . %snd:"herring7"_737995_741680
-*RIC:	the uh@s:eng&spa she's another stupid one siempre@s:spa lo@s:spa mismo@s:spa . %snd:"herring7"_741680_744736
-*SEB:	+< Nicky's always with +.. . %snd:"herring7"_741706_743594
-*SEB:	+< yeah and [/] <and the>[/] and the black guy too . %snd:"herring7"_743953_746212
-*RIC:	what black guy ? %snd:"herring7"_746841_747526
-*SEB:	<the black> [//] the [/] the husband . %snd:"herring7"_747537_748987
-*RIC:	he's dead ! %snd:"herring7"_749110_750369
-*SEB:	no . %snd:"herring7"_750526_752481
-*RIC:	+< D_L's@s:eng&spa dead . %snd:"herring7"_751290_752234
-*SEB:	no you gotta see that part too . %snd:"herring7"_752852_754425
-*RIC:	oh really ? %snd:"herring7"_754403_754987
-*SEB:	<he's &i> [//] he's dead but he isn't dead because Linderman@s:eng&spa . %snd:"herring7"_754717_757661
-*RIC:	he's dead (be)cause Linderman@s:eng&spa killed him . %snd:"herring7"_759444_761174
-*SEB:	no no he [/] he in [/] in [//] on # later on <on the> [/] on the chapter nine they gonna show you +/ . %snd:"herring7"_760638_766395
-*RIC:	oh my god . %snd:"herring7"_766357_767346
-*SEB:	+, who kills him . %snd:"herring7"_766908_767649
-*SEB:	he's dead # but Linderman@s:eng&spa is not [/] is not the one that killed him . %snd:"herring7"_768353_772589
-*SEB:	they go to a hospital # and [/] and lo@s:spa curan@s:spa you know lo@s:spa like +/ . %snd:"herring7"_773046_777889
-*RIC:	+< oh and then someone kills him ? %snd:"herring7"_777574_778900
-*SEB:	later on happens something with Jessica@s:eng&spa that he goes where Jessica is +/ . %snd:"herring7"_779225_783562
-*RIC:	+< don't tell me anything . %snd:"herring7"_783450_784663
-*SEB:	+, and [/] and something happen(s) . %snd:"herring7"_784068_785484
-*RIC:	+< you know who I like too ? %snd:"herring7"_784810_785850
-*RIC:	<I &l> [/] I like [//] look I like Peter@s:eng&spa Petrelli@s:eng&spa # Hiro@s:eng&spa this season not so much but I like Hiro@s:eng&spa and I like um # &ǀ &=noise the cop . %snd:"herring7"_785850_795232
-*SEB:	I don't like the cop . %snd:"herring7"_795686_796720
-*RIC:	<I like the cop> [/] I like the cop with Suresh@s:eng&spa taking care of the little girl trying to figure out like . %snd:"herring7"_796678_801847
-*SEB:	<they put> [/] <they put> [/] they put the cop and Suresh@s:eng&spa a lot but <they don't> [/] they don't do anything . %snd:"herring7"_801896_806379
-*SEB:	they just talk they just think . %snd:"herring7"_806402_808739
-*RIC:	+< well yeah don't you remember they [/] they went <to uh@s:eng&spa> [/] to go find the cop's father . %snd:"herring7"_808121_812709
-*RIC:	and <the &k> [//] the father like # he's the one that like with the power . %snd:"herring7"_812732_817462
-*SEB:	yeah . %snd:"herring7"_817364_818117
-*RIC:	that <he put them> [/] he put them both fighting against each other . %snd:"herring7"_818128_820611
-*SEB:	[- spa] +< ajá . %snd:"herring7"_820386_820802
-*RIC:	remember ? %snd:"herring7"_820690_821252
-*SEB:	yeah . %snd:"herring7"_821139_821488
-*RIC:	and they they didn't know . %snd:"herring7"_821431_822229
-*SEB:	<(be)cause they got > [///] he [/] he can put # something on the head of the people . %snd:"herring7"_822361_826148
-*RIC:	yeah . %snd:"herring7"_826170_826676
-*SEB:	he can controller [//] control the people . %snd:"herring7"_826597_831046
-*SEB:	but # . %snd:"herring7"_831184_832240
-*RIC:	do you like um the # <the girl > [//] the Honduranean girl with the brother that are with Syler@s:eng&spa ? %snd:"herring7"_832195_840273
-*SEB:	kind of . %snd:"herring7"_840285_840947
-*RIC:	you like them ? %snd:"herring7"_840947_841554
-*SEB:	er . %snd:"herring7"_841577_843667
-*RIC:	I like Syler@s:eng&spa . %snd:"herring7"_843757_844993
-*SEB:	yeah that guy is +.. . %snd:"herring7"_844993_846173
-*RIC:	+< I like Syler@s:eng&spa . %snd:"herring7"_845330_846353
-*RIC:	he's bad +/ . %snd:"herring7"_847042_847615
-*SEB:	+< that guy is awesome man . %snd:"herring7"_847154_848109
-*RIC:	+, you know but . %snd:"herring7"_848177_849019
-*SEB:	they haven't put Syler@s:eng&spa like later on . %snd:"herring7"_848604_851907
-*SEB:	they haven't put him +/ . %snd:"herring7"_853120_854222
-*RIC:	+< they haven't put him ? %snd:"herring7"_853671_854592
-*SEB:	+, on any other chapters . %snd:"herring7"_854075_855233
-*RIC:	really ? %snd:"herring7"_855199_855502
-*SEB:	no . %snd:"herring7"_855637_857985
-*SEB:	um # that [/] that's the thing about that I was telling you . %snd:"herring7"_859607_862124
-*RIC:	+< <I heard > [/] I heard with chapter eleven has a lot to do with Syler@s:eng&spa like +/ . %snd:"herring7"_861405_865326
-*SEB:	+< yeah . %snd:"herring7"_865011_865360
-*RIC:	+, he's in it a lot . %snd:"herring7"_865439_866225
-*SEB:	what I was telling you that # they just put everything in one chapter . %snd:"herring7"_867277_871682
-*SEB:	on chapter nine is everything . %snd:"herring7"_871131_873839
-*SEB:	if you see like &=noise # six seven # a(nd) eight # that's it . %snd:"herring7"_874719_882262
-*SEB:	you don't have to see the rest of the chapters (be)cause everything is [/] is like the same thing . %snd:"herring7"_882273_885576
-*RIC:	yeah . %snd:"herring7"_885632_886486
-*SEB:	you just gotta see six seven &=cough eight and nine . %snd:"herring7"_886466_890185
-*SEB:	that's it with [/] with those four chapters you gonna see everything what happened <on the > [/] on the rest of the [/] # the chapters . %snd:"herring7"_890297_896623
-*RIC:	oh really ? %snd:"herring7"_896612_897185
-*SEB:	yeah . %snd:"herring7"_897173_897735
-*SEB:	&=cough . %snd:"herring7"_898151_898589
-*RIC:	why (be)cause they show you the future # again ? %snd:"herring7"_899075_901345
-*SEB:	because &i chapter nine's is everything in chapter nine's is what happened &w +/ . %snd:"herring7"_901390_905379
-*RIC:	+< four months before like after the explosion ? %snd:"herring7"_905630_907326
-*SEB:	yeah . %snd:"herring7"_907259_907652
-*SEB:	you know <you gotta see> [/] you gotta see # like # two or three chapters before chapter nine . %snd:"herring7"_908826_914208
-*SEB:	(be)cause you [/] <you gonna> [//] you gotta see what happen(s) with Peter@s:eng&spa how he get(s) there what happen(s) with the girl that has got the [/] the flame &ans everything . %snd:"herring7"_914197_922035
-*RIC:	yeah . %snd:"herring7"_922035_922372
-*SEB:	yeah . %snd:"herring7"_922530_922990
-*RIC:	we'll see . %snd:"herring7"_924600_925454
-*RIC:	(h)ey have you heard about that raise that we're getting in August # the dollartwenty ? %snd:"herring7"_925488_929848
-*SEB:	oh . %snd:"herring7"_929945_930686
-*RIC:	supposedly with the [/] the [//] a new contract that went through . %snd:"herring7"_931649_934896
-*SEB:	oh yeah but . %snd:"herring7"_935064_936446
-*RIC:	+< and like +/ . %snd:"herring7"_935255_936064
-*SEB:	+< yeah yeah I did . %snd:"herring7"_936184_937240
-*RIC:	+, we're getting a raise on the twentieth . %snd:"herring7"_936997_938963
-*SEB:	what time you got there ? %snd:"herring7"_939042_939873
-*RIC:	eleven thirty four . %snd:"herring7"_940704_941570
-*SEB:	I [/] # I heard about it &la last year # that they're gonna change company . %snd:"herring7"_943183_948835
-*RIC:	yeah I supposedly we('re) [//] we're getting a dollar twenty raise in August . %snd:"herring7"_949056_952988
-*SEB:	+< we're gonna change uh@s:eng&spa +.. . %snd:"herring7"_949719_951044
-*SEB:	they gonna change union and stuff a(nd) [/] and <they gonna> [/] # they gonna raise twice a year . %snd:"herring7"_952939_958692
-*RIC:	I hope so . %snd:"herring7"_960400_961187
-*SEB:	yeah . %snd:"herring7"_961243_961894
-*RIC:	damn that'd be awesome . %snd:"herring7"_962037_963576
-*RIC:	<do you like> [/] do you like um # &ǀ [//] # do you like Erik@s:eng&spa ? %snd:"herring7"_963853_969033
-*SEB:	sometimes . %snd:"herring7"_970789_971396
-*RIC:	pa(ra)@s:spa mí@s:spa e(s)@s:spa un@s:spa pesa(d)o@s:spa a lot . %snd:"herring7"_971332_973714
-*SEB:	+< some [//] sometimes [/] sometimes . %snd:"herring7"_973343_975264
-*RIC:	+< most of the time pesa(d)o@s:spa but sometimes he could be cool . %snd:"herring7"_974197_976590
-*SEB:	yeah . %snd:"herring7"_976725_977253
-*RIC:	but I dunno # he gets a little pesa(d)o@s:spa sometimes . %snd:"herring7"_977339_980867
-*SEB:	sometimes # ay@s:spa [?] <they still> [/] they still putting Jumper@s:eng&spa there . %snd:"herring7"_980957_984350
+*SEB:	so # uh@s:eng&spa the book is [/] is like you've read the book you don't wanna watch the movie . 1225_7060
+*SEB:	+< like the end . 7099_8184
+*RIC:	but I like the movie . 7272_8184
+*SEB:	but <if you> [//] <when you> [/] when you read the boo(k) <you don't wanna> [//] you [/] you say wha(t) [//] why they [/] they don't do tha(t) in the movie you know . 9108_14919
+*RIC:	+< yeah . 14669_14919
+*SEB:	and at the end <they put> [/] they put like ah # como@s:spa una@s:spa inyección@s:spa . 15161_20070
+*SEB:	se@s:spa la@s:spa ponen@s:spa and like +//. 20707_21446
+*SEB:	[- spa] él &pʌ [/] podía escoger o una inyección o # <unas pastillas> [//] tomarse unas pastillas o salir pa(ra) la calle y fajarse contra todo el mundo . 21470_29326
+*SEB:	he was like [/] like a murder(er) . 29517_31240
+*SEB:	for them <it wa(s)> [/] he was like a murder(er) . 31249_33211
+*RIC:	a murder ? 33210_33755
+*SEB:	yeah como@s:spa un@s:spa asesino@s:spa # porque@s:spa ya@s:spa ellos@s:spa tenían@s:spa su@s:spa # comun(idad)@s:spa [/] comunidad@s:spa ahí@s:spa . 33705_39196
+*RIC:	yeah . 39162_39626
+*SEB:	you know . 39574_39986
+*RIC:	they were like living like norm(al) +//. 39925_41312
+*RIC:	yeah but they're crazy they kill people like . 41370_43660
+*SEB:	no they don't kill people . 43775_45400
+*SEB:	they don't kill +//. 45518_46070
+*SEB:	[- spa] ellos no mataban a su propia gente . 46093_47457
+*SEB:	[- spa] ellos mataban a la gente como nosotros . 47759_50173
+*RIC:	pero@s:spa exactly <that's like> [//] that's killing people . 50177_53406
+*RIC:	because there were still some survivors left . 53721_56069
+*SEB:	you know but +... 58409_59098
+*SEB:	I don't know . 59109_59531
+*RIC:	I know they [/] they adapted . 59525_61214
+*RIC:	[- spa] adaptaron a [/] a la vida de ellos . 61174_63490
+*SEB:	+< yeah . 61244_61766
+*RIC:	I got it . 63519_64343
+*RIC:	&ǀ I wanna see it # I wanna see it . 65216_67120
+*SEB:	have you see(n) the [/] the first one ? 67020_68506
+*SEB:	<the one that> [/] the one that came <on the> [/] <on the movie> [/] on the movie theater . 69231_71884
+*RIC:	+< the movie # yeah yeah . 69458_71849
+*RIC:	I wanna buy it . 71867_72615
+*SEB:	tha(t) [//] the special edition is the one that comes with the # . 73462_76062
+*RIC:	yeah . 76091_76329
+*SEB:	it's like twenty something [/] twenty something bucks . 76424_79036
+*RIC:	I wanna see it . 79238_80045
+*RIC:	so yeah . 81246_81861
+*SEB:	+< an(d) . 81246_81861
+*SEB:	a(nd) <in the> [/] <in the> [/] in the book . 82442_84264
+*RIC:	hmm . 84386_85118
+*SEB:	<they drink the> [//] he drink the pills . 85112_86795
+*SEB:	ah i(t)'s like # like you know xxx como@s:spa que@s:spa te@s:spa enfocan@s:spa que@s:spa se@s:spa [/] se@s:spa fue@s:spa como@s:spa que@s:spa se@s:spa va@s:spa yendo@s:spa así@s:spa you know # . 87052_94867
+*SEB:	but in the book there is a gir(l) # that betrayed him # que@s:spa se@s:spa hace@s:spa pasar@s:spa por@s:spa humano@s:spa . 95536_102317
+*SEB:	[- spa] y no es humano es de los [/] los demás tipos . 102350_104733
+*RIC:	oh really ? 104720_105337
+*SEB:	yeah . 105337_105673
+*RIC:	oh but . 105997_106759
+*SEB:	<that's the> [/] that's the cool part that they don't show you <in the> [/] <in the> [/] in the movie . 106782_110254
+*RIC:	yeah but they can't do that in the movie . 110254_112136
+*SEB:	why ? 112136_112495
+*RIC:	+< because all [/] <all the monsters look like> [//] they look like zombies . 112229_116150
+*SEB:	yeah . 116268_116828
+*RIC:	+< and the other people look like normal people . 116366_118089
+*RIC:	so # like there's no way que@s:spa ella@s:spa se@s:spa puede@s:spa pasar@s:spa como@s:spa humano@s:spa si@s:spa se@s:spa parece@s:spa como@s:spa un@s:spa zombie . 118106_123139
+*SEB:	[- spa] +< pero ella se estaba curando <en la &mu> [//] en la película ella se estaba curando . 122553_126152
+*RIC:	we(ll) [/-] remember he had that girl on the bed ? 126193_128335
+*SEB:	<that one> [/] that one se@s:spa estaba@s:spa curando@s:spa . 128389_130129
+*SEB:	on the second ending they show you like the girl is [/] <is like curing> [//] is like healthing # um:@s:eng&spa . 130121_138035
+*SEB:	cuando@s:spa se@s:spa la@s:spa va@s:spa a@s:spa entregar@s:spa le@s:spa da@s:spa un@s:spa shot y@s:spa se@s:spa convierte@s:spa de@s:spa nuevo@s:spa &=gasp . 137978_141546
+*SEB:	dude y(ou) [/] you [/] you saw that the [/] &la [/] the [/] the girl was breathing like # like a lo(t) . 141603_145736
+*RIC:	yeah . 145725_146152
+*SEB:	[- spa] ella después en el xxx final estaba como más pasiva . 146299_149664
+*SEB:	y@s:spa <le@s:spa da@s:spa al(go)@s:spa> [//] el@s:spa tipo@s:spa le@s:spa da@s:spa un@s:spa shot de@s:spa [/] de@s:spa otra@s:spa no@s:spa sé@s:spa qué@s:spa de@s:spa la(s)@s:spa que@s:spa tenía@s:spa él@s:spa # . 149843_154506
+*SEB:	[- spa] y [/] y se pone monstruo de nuevo . 154579_157165
+*RIC:	yeah . 157222_157553
+*SEB:	entonces@s:spa they close the door and that's i(t) . 157760_159728
+*RIC:	damn . 160756_161946
+*SEB:	but . 162520_163621
+*RIC:	+< I wanna see it . 162632_163371
+*RIC:	look at that ]/[ look at that over there . 163767_165171
+*SEB:	yeah . 166396_167666
+*RIC:	oh my god bro . 168460_170202
+*SEB:	so # none of [/] none of [/] none of the endings is [/] is like relative to [/] # to the movie [//] to the book . 170146_177471
+*RIC:	+< right +//. 177491_177972
+*RIC:	yeah I heard that there's [/] <there's a different> [//] there's different versions of the movie and the book +//. 177971_183479
+*RIC:	there's a old movie like I_Am_Legend@s:eng&spa is a remake . 183479_185935
+*SEB:	yeah it's like they [/] they got like three movies . 185923_187978
+*RIC:	yeah . 188000_188366
+*SEB:	but I don't know <why they> [/] why they can't do the movie by the book . 188784_191710
+*SEB:	<they already> [/] they already got the book . 191547_193312
+*RIC:	sometimes they gotta change stuff you know . 193450_195290
+*RIC:	sometimes it [/] it can't all be the same . 195534_197689
+*SEB:	ah . 199397_200061
+*RIC:	+< so you have to work at twelve ? 199544_200891
+*SEB:	yeah . 200882_201465
+*RIC:	damn # why so early ? 201587_203319
+*SEB:	+< (be)cause they [/] (be)cause they got a lot of clothes in . 202555_204936
+*RIC:	twelve till what ? 204804_205863
+*SEB:	till six my xxx . 206142_207702
+*RIC:	ah . 207862_208206
+*SEB:	+< I [/] I start like at twelve um I'm working with . 207870_209323
+*RIC:	+< so you're doing more hours ? 209258_210309
+*SEB:	yeah # but just for today . 210582_213463
+*RIC:	more hours for you bro . 214128_215417
+*SEB:	yeah # I wish <they &g> [/] <they &g> [/] they give me at twelve every day . 215392_219739
+*RIC:	Tom [/] Tom was telling me something about this show called Qué_Pasa_U_S_A@s:eng&spa . 219788_223802
+*RIC:	have you seen it ? 223863_224651
+*SEB:	which one ? 224577_225242
+*RIC:	Qué_Pasa_U_S_A@s:eng&spa . 225242_226679
+*SEB:	I dunno . 226638_227844
+*RIC:	&ǀ bro el@s:spa programa@s:spa ese@s:spa en@s:spa [/] en@s:spa el@s:spa canal@s:spa dos@s:spa que@s:spa la@s:spa gente@s:spa es@s:spa una@s:spa familia@s:spa . 227910_232484
+*RIC:	[- spa] y hablan inglés y español . 232501_234137
+*SEB:	I have seen it . 235340_236054
+*SEB:	you seen that show ? 236041_236738
+*SEB:	yeah but I [/] I wanna see more but I don't [/] I don't know what channel it's in . 236889_240769
+*RIC:	[- spa] es un programa viejo . 240676_241692
+*SEB:	+< ese@s:spa en@s:spa el@s:spa yeah I know . 240885_242383
+*RIC:	yeah . 242484_242768
+*SEB:	it's like [/] it's like Cubans or something like that . 242780_245798
+*RIC:	+< uhhuh@s:eng&spa you Cubans . 244428_245433
+*RIC:	yeah an(d) they speak Spanish and English . 246902_248952
+*SEB:	it's [/] it's in channel two ? 248876_250287
+*RIC:	I dunno if [//] they give it like in the morning and like # in the afternoon . 251192_255678
+*SEB:	I'll check it out in the [/] in the online . 255608_257373
+*RIC:	yeah check it out . 257363_258175
+*SEB:	Qué_Pasa_U_S_A@s:eng&spa se@s:spa llama@s:spa ? 258257_259456
+*RIC:	+< Qué_Pasa_U_S_(A)@s:eng&spa +... 259185_260022
+*RIC:	er he was telling me que@s:spa quiere@s:spa grabar@s:spa el@s:spa programa@s:spa ese@s:spa . 260711_263667
+*SEB:	who this guy ? 263669_265040
+*RIC:	+< yeah . 264523_265007
+*SEB:	he talk in Spanish ? 265318_267214
+*RIC:	a little bit he does . 267575_268494
+*SEB:	oh yeah ? 268470_268971
+*RIC:	yeah . 268980_269883
+*SEB:	&yo [//] you [//] have you seen the [/] # the Heroes@s:eng&spa yet ? 270072_272986
+*RIC:	&ǀ I'm (gon)na see it today . 273006_274401
+*RIC:	when I go home now <I'm gonna go> [/] I'm gonna go see like two episodes . 274359_276961
+*SEB:	+< yeah ? 275395_275879
+*RIC:	how was it ? 276994_278168
+*SEB:	and the chapter nine bro it's awesome . 278238_279905
+*RIC:	you saw it ? 279874_280408
+*SEB:	yeah . 280334_280851
+*RIC:	you saw it last night ? 280843_281680
+*SEB:	no no I [/] I just got stuck on the chapter nine . 281772_284111
+*RIC:	oh . 284038_284571
+*SEB:	I gotta see ten and eleven but +... 284333_286172
+*RIC:	eleven is the last one . 286434_287920
+*SEB:	I don't know that's [/] that's why (be)cause in the eleven is when they got the strike [/] the strike thing . 287756_292225
+*SEB:	strike [//] strikes writer ? 292714_295308
+*RIC:	+< yeah I think [/] I think that it just ended like right there like it ended (be)cause of the strike . 293034_299338
+*RIC:	and now like they're gonna start it again +/. 299371_300919
+*SEB:	+< the [//] they yeah <that's what I> [//] that's what I'm thinking but # there is +/. 300303_303989
+*RIC:	+< sorry . 303910_304258
+*SEB:	+, like seven [/] seven pictures you know the [/] the seven pictures that they found ? 304434_309266
+*SEB:	and they just got like # four of them right four of them . 309277_315333
+*RIC:	what [/] what do you mean pictures ? 315494_317022
+*SEB:	don't . 315517_316202
+*SEB:	Isaac@s:eng&spa Méndez@s:eng&spa <&w the &w> [//] the [/] the painter . 316899_320505
+*RIC:	nah oh yeah yeah . 320468_322052
+*SEB:	él@s:spa pintó@s:spa seven pictures antes@s:spa de@s:spa morirse@s:spa . 321682_325266
+*RIC:	+< ok@s:eng&spa . 323289_323738
+*SEB:	and they found the pictures . 325019_326794
+*SEB:	one of the pictures is the [/] is the guy of the Claire@s:eng&spa . 326997_329985
+*SEB:	you saw that part ? 330008_331143
+*RIC:	the guy of the what ? 331143_331873
+*SEB:	+< that he's like # ah como@s:spa muerto@s:spa que@s:spa se@s:spa ve@s:spa como@s:spa muerto@s:spa con@s:spa un@s:spa tiro@s:spa en@s:spa el@s:spa glass . 331660_336783
+*RIC:	oh yeah yeah yeah . 335267_336716
+*SEB:	that's the one . 336634_337757
+*SEB:	the other one is the +/. 337735_339240
+*RIC:	damn I don't like that one . 338892_340398
+*SEB:	which one ? 340488_341173
+*RIC:	I don't want him to die . 341142_342240
+*SEB:	no <you gonna &s> [//] you [/] <you gonna> [//] they gonna show you at the end of the chapter nine you gonna see . 342139_346296
+*SEB:	damn it can happen bro . 347027_349487
+*RIC:	+< damn I gotta see it bro . 348355_350611
+*SEB:	+< you gotta see it cos # tha(t) [//] it happens something # that you see # you see something that +/. 349798_356281
+*RIC:	+< you wanna tell me but don't don't don't tell me . 356158_358326
+*SEB:	+, <I don't> [/] I wanna tell you but I don't wanna tell you . 357102_359236
+*RIC:	+< yeah yeah don't tell me don't tell me . 358607_360102
+*SEB:	you gonna see something that # they [/] they can do <with them> [//] with their abilities # I mean with their [/] with that special ability . 359998_367694
+*SEB:	that they can put it to another peoples . 367339_370698
+*SEB:	you know you're gonna see what happens in the chapter nine . 371631_373799
+*SEB:	tha(t) it [//] then you're gonna say why [//] what the f(uck) happened here . 373799_376361
+*RIC:	wow . 376358_377080
+*RIC:	I dunno bro . 378090_379059
+*RIC:	I used to come to this movie theater so much . 379157_381234
+*SEB:	huh@s:eng&spa ? 381584_382446
+*RIC:	is this the [/] the movies you come to ? 382963_384711
+*SEB:	no the uh@s:eng&spa Dolphin@s:eng&spa I go to the Dolphin@s:eng&spa . 384752_387781
+*SEB:	(be)cause this one uh@s:eng&spa close like earlier [/] earlier . 387157_390835
+*RIC:	yeah it close earli(er) +//. 390882_391631
+*RIC:	it open +/. 391625_392403
+*SEB:	that one is shorter ? 392230_393478
+*RIC:	+< shorter yeah . 393379_394208
+*SEB:	+< yeah I wan(t) +//. 394167_394643
+*SEB:	actu(ally) I saw +/. 394654_394921
+*RIC:	+< that's the one I wanna see . 394930_395964
+*SEB:	+, <I saw the> [/] I saw the &ǀ xxx yesterday . 394946_399165
+*RIC:	mmhm . 398743_399228
+*SEB:	oh it's awesome bro . 399211_400319
+*RIC:	yeah I wanna see it . 400336_401567
+*SEB:	it looks like <it works> [//] he works . 401669_404361
+*SEB:	<that movie works> [///] this guy uh@s:eng&spa # I remember the face # . 404657_410025
+*SEB:	but it looks like one [/] one Spanish guy # working on the movie . 412928_417566
+*RIC:	you know who's in that movie ? 417532_418771
+*RIC:	Ando@s:eng&spa # you know Ando@s:eng&spa ? 418862_420733
+*SEB:	oh yeah . 420725_422670
+*SEB:	Ando@s:eng&spa from Heroes . 422022_423680
+*SEB:	I thought that was a Spanish guy but it was Ando@s:eng&spa the one that I saw . 423744_427762
+*RIC:	yeah . 427501_427872
+*SEB:	I saw it but it &l +//. 428312_428968
+*SEB:	you know like el@s:spa perfil@s:spa ? 429043_430146
+*RIC:	yeah . 430030_430552
+*SEB:	y@s:spa dije@s:spa that's Ando@s:eng&spa ! 430570_432369
+*RIC:	&=laugh . 432392_433176
+*SEB:	but # they didn't put it again so # you know xxx I was like # that isn't Ando@s:eng&spa then . 433199_439387
+*RIC:	yeah . 439741_440299
+*SEB:	[- spa] él es modelo creo . 440815_442447
+*RIC:	really ? 442441_442928
+*RIC:	yeah . 442870_443277
+*SEB:	go to go to Wikipedia@s:eng&spa # la@s:spa enciclopedia@s:spa online . 443359_448955
+*RIC:	yeah Wikipedia@s:eng&spa . 448892_449795
+*SEB:	y@s:spa pon@s:spa el@s:spa [/] el@s:spa [/] # el@s:spa profile there . 449803_454203
+*SEB:	sale@s:spa él@s:spa sale@s:spa # Micah@s:eng&spa # &s &s . 454308_459217
+*RIC:	Micah@s:eng&spa ? 459242_459652
+*SEB:	[- spa] +< el chama [/] chamaquito . 459652_460219
+*RIC:	+< oh yeah yeah . 460161_461335
+*SEB:	sale@s:spa # D_L@s:eng&spa . 460514_461713
+*SEB:	[- spa] sale # &ʘ +//. 463068_465866
+*SEB:	[- spa] quién más sale ? 465900_466911
+*SEB:	sale@s:spa # Nathan@s:eng&spa . 466911_468012
+*RIC:	Nathan@s:eng&spa ? 468610_469160
+*SEB:	+< Nathan@s:eng&spa Per@s:eng&spa +//. 468684_469251
+*SEB:	yeah Nathan@s:eng&spa Pe@s:eng&spa [/] Petrelli@s:eng&spa . 469375_470785
+*SEB:	sale@s:spa Peter@s:eng&spa también@s:spa . 470693_472745
+*SEB:	[- spa] sale # el tipo este el hindú . 472828_475939
+*RIC:	they're all models ? 475799_477121
+*SEB:	[- spa] no . 477096_477777
+*RIC:	oh . 477794_478220
+*SEB:	tha(t) [/] that guy Ando@s:eng&spa . 478270_480667
+*SEB:	eh@s:eng&spa el@s:spa hindú@s:spa no@s:spa me@s:spa acuerdo@s:spa que@s:spa era@s:spa e(s)@s:spa él@s:spa es@s:spa from Chicago@s:eng&spa . 480626_484361
+*RIC:	Suresh@s:eng&spa ? 484278_484869
+*SEB:	Suresh@s:eng&spa yeah . 484809_486951
+*RIC:	Mohinder@s:eng&spa . 486958_487754
+*SEB:	and you('re) gonna see what happened with Suresh@s:eng&spa too . 488472_490573
+*SEB:	yeah you're gonna say that <I can't> [//] it can't happen I don't know what [//] how [/] how he's changed you know . 490581_495366
+*RIC:	damn . 495354_495865
+*SEB:	what point he's changed ? 495755_497264
+*RIC:	the cheerleader pisses me off bro . 497676_499807
+*SEB:	yeah . 499783_500474
+*RIC:	she pisses me off . 500549_501338
+*RIC:	[- spa] siempre está en los mismos esa . 501514_502807
+*SEB:	+< yeah everything [/] everything is the same # I wanna help people I wanna help people I wanna help people whee get out . 502582_508503
+*RIC:	yeah exactly . 508369_509301
+*RIC:	I don't wanna . 509567_510398
+*SEB:	+< yeah . 510455_510983
+*RIC:	+< yeah . 510691_511252
+*SEB:	and <you saw> [/] you saw her [/] her boyfriend ? 511945_514057
+*RIC:	yeah he's pissing me off even more ! 514349_516765
+*SEB:	+< &=laugh . 517462_518866
+*RIC:	stupid Superman@s:eng&spa guy . 519020_520851
+*RIC:	thinks he's Superman@s:eng&spa and shit . 521705_523581
+*SEB:	+< yeah I can fly you can heal I can fly you can heal that's it . 523933_527427
+*RIC:	yeah . 527585_528270
+*SEB:	bro the only interest [//] <interesting part> [//] the interesting part that they do # was when this girl the [/] the cheerleader thi(s) [/] this girl ? 528416_537113
+*RIC:	oh yeah yeah . 537158_538641
+*SEB:	+< you saw that part que@s:spa él@s:spa la@s:spa deja@s:spa caer@s:spa y@s:spa ella@s:spa se@s:spa cae@s:spa y@s:spa . 537270_540697
+*SEB:	did you see that part ? 541102_543529
+*RIC:	oh when they were on the mountain ? 543686_545450
+*RIC:	wait what part was that ? 546839_547806
+*SEB:	no@s:spa no@s:spa no@s:spa no@s:spa <hay@s:spa un@s:spa> [//] hay@s:spa una@s:spa parte@s:spa que@s:spa [/] que@s:spa la@s:spa [/] la@s:spa pesada@s:spa la@s:spa cheerleader pesada@s:spa está@s:spa tomando@s:spa +... 547787_552466
+*SEB:	you [/] you didn't see that part ? 552762_554033
+*RIC:	well <is that> [/] is that episode six # or seven ? 553956_556192
+*SEB:	<I don't> [/] I don't really remember . 557643_559524
+*RIC:	+< six seven or eight ? 558537_559420
+*RIC:	(be)cau(se) I haven't seen six I'm gonna see six today . 559458_562436
+*SEB:	[- spa] hay una parte que ella está tomando . 562407_564224
+*SEB:	[- spa] y ellos quieren # como [/] como asustarla como algo un escarmiento . 564300_568932
+*SEB:	[- spa] y entonces # ellos planean algo . 568949_571353
+*SEB:	[- spa] y él se pone una máscara . 571987_573601
+*SEB:	[- spa] y él la sube y la deja caer . 573473_576091
+*SEB:	[- spa] y espera parecer un fantasma a ella tú sabes como pa(ra) asustarla . 576103_579000
+*RIC:	+< oh I haven't seen it . 578460_579899
+*SEB:	y@s:spa ella@s:spa le@s:spa dice@s:spa que@s:spa él@s:spa él@s:spa viene@s:spa la@s:spa policía@s:spa y@s:spa después@s:spa viene@s:spa Claire@s:eng&spa y@s:spa Claire@s:eng&spa está@s:spa normal@s:spa y@s:spa después@s:spa viene@s:spa el@s:spa muchacho@s:spa y@s:spa como@s:spa que@s:spa xxx parecer@s:spa la@s:spa como@s:spa que@s:spa ella@s:spa está@s:spa loca@s:spa . 579359_586701
+*RIC:	oh yeah yeah no I haven't seen it &=laugh . 586533_589087
+*RIC:	I'll see it . 589352_589857
+*SEB:	it [//] that's the only part that you know like it's like # funny . 589780_592798
+*RIC:	+< yeah . 592311_592705
+*SEB:	pero@s:spa # xxx you know # en@s:spa la@s:spa primera@s:spa parte@s:spa enseña@s:spa más@s:spa . 594787_599030
+*RIC:	yeah and Claire@s:eng&spa <is not> [//] doesn't do [/] do anything . 599293_602590
+*RIC:	she's just complaining all the time . 602621_603997
+*SEB:	yeah en@s:spa la@s:spa primera@s:spa parte@s:spa enseña@s:spa más@s:spa +/. 604008_605860
+*RIC:	+< an(d) she's always mad at her father . 605663_607265
+*SEB:	yeah . 607217_607824
+*RIC:	+< and her father's just trying to like protect her . 607359_609010
+*SEB:	[- spa] ajá . 609078_609628
+*RIC:	+< and what pisses me off is she doesn't listen to him . 609213_611168
+*RIC:	you know . 611430_612082
+*SEB:	that [/] <that's what> [/] that's what happens th(e) [/] the things in the # chapter nine . 612026_615689
+*RIC:	doesn't listen to him . 615770_617127
+*SEB:	no . 617127_617745
+*SEB:	an(d) . 619913_620980
+*SEB:	Hiro@s:eng&spa sees the who killed the father . 624103_626845
+*RIC:	he sees ? 627227_627912
+*SEB:	+< yeah . 627766_628418
+*RIC:	does Hiro@s:eng&spa come back ? 628508_629721
+*RIC:	I wan(t) him to leave the past already . 629710_631227
+*SEB:	yeah me too +/. 631335_632099
+*RIC:	I wan(t) (h)im to come back . 632099_633200
+*SEB:	+, (be)cause he's er it [/] it's everything on the same [///] that's what I'm telling you [///] everything in the same role . 632290_635526
+*RIC:	yeah . 635562_636067
+*SEB:	like Hiro's@s:eng&spa over xxx he [/] he's over there <on the> [/] on the sixty o(n) [/] on the &s +... 636000_641191
+*RIC:	fifteen forty or something ? 641138_642824
+*SEB:	+< yeah something like that . 642150_643857
+*SEB:	and <they don't do> [/] they don't do anything . 643734_645610
+*RIC:	+< with Kensei@s:eng&spa but he's coming back . 645284_646869
+*RIC:	did he come back already ? 647958_648880
+*SEB:	yeah on chapter # eight he comes back . 648677_653396
+*SEB:	at [/] at the end of the chapter eight # I think yeah . 653549_657224
+*RIC:	I like what's going on with Peter@s:eng&spa though . 657313_659302
+*SEB:	[- spa] ah ? 659313_659651
+*RIC:	I like [//] well I'm interested in like the Peter@s:eng&spa story like what's going on with Peter@s:eng&spa . 659572_663800
+*RIC:	(be)cause like <he saw> [/] he saw the picture . 663946_665856
+*RIC:	he's like oh I gotta go . 666014_666946
+*RIC:	and then the girl's father +/. 666980_668283
+*RIC:	+, got killed by the girl with the +//. 668260_669507
+*SEB:	+< yeah . 668316_668845
+*RIC:	that girl's hot by the way . 669665_670957
+*SEB:	&au on [/] <on this> [/] on this season yeah the [/] the only one that [/] that <I wanna> [/] I wanna know is xxx you know . 670965_677863
+*SEB:	that season # it was Hiro@s:eng&spa the one that <I wanted> [/] <I wa(nt)> [//] they [/] they [/] they [//] I want +/. 678104_683677
+*RIC:	+< yeah . 683025_683474
+*SEB:	+, to be like you know like I want +/. 683654_686021
+*RIC:	+< you want . 685890_686520
+*SEB:	+, to be seeing . 686111_686954
+*RIC:	yeah . 686864_687336
+*SEB:	(be)cause is the [/] the funny stuff the +/. 687830_689684
+*RIC:	+< yeah yeah . 689538_690302
+*SEB:	[- spa] +, pero en ésta no está haciendo nada . 690677_692677
+*RIC:	nah . 692583_693752
+*SEB:	so # yeah it's what you're saying . 693078_695550
+*RIC:	maybe next season or something . 695482_696662
+*SEB:	+< &pi Peter@s:eng&spa is the only one that you're interested about like . 695662_699954
+*RIC:	+< yeah . 699167_699774
+*SEB:	Peter@s:eng&spa and Nathan@s:eng&spa porque@s:spa en@s:spa las@s:spa en@s:spa la@s:spa # &ǀ . 700066_704448
+*RIC:	Nathan@s:eng&spa ? 704347_704942
+*SEB:	[- spa] +< en cuando [/] cuando ellos viran del pasado . 705122_707279
+*RIC:	+< oh yeah . 705369_706212
+*SEB:	cua(ndo)@s:spa [/] cuando@s:spa ellos@s:spa te@s:spa ponen@s:spa la@s:spa parte@s:spa de@s:spa &tri four months ago . 707493_710672
+*RIC:	oh no no no no no don't tell . 710665_711930
+*SEB:	+< no no no no xxx I'm just gonna tell you this . 711560_713489
+*RIC:	+< all right then . 712644_713391
+*SEB:	four months ago &=cough tú@s:spa viste@s:spa que@s:spa Nathan@s:eng&spa se@s:spa ve@s:spa a@s:spa veces@s:spa con@s:spa la@s:spa cara@s:spa quema(da)@s:spa . 713711_717708
+*RIC:	yeah . 717778_718410
+*SEB:	[- spa] es <cuando sube> [/] <cuando él &su> [/] cuando ellos suben pa(ra) arriba +/. 719477_721702
+*RIC:	oh@s:eng&spa . 721669_722260
+*SEB:	[- spa] +, él lo empieza a quemar . 722358_723581
+*SEB:	[- spa] y entonces después tú [/] tú quieres saber cómo fue que se curó completo . 725213_729022
+*RIC:	+< oh . 729153_729490
+*SEB:	+< porque@s:spa después@s:spa está@s:spa completo@s:spa curado@s:spa you know . 729260_731920
+*RIC:	+< yeah . 730959_731435
+*RIC:	and they show you ? 732040_732777
+*SEB:	yeah they show you +/. 733091_733834
+*RIC:	you know ? 733898_734112
+*SEB:	+, what happen(s) yeah . 734153_734960
+*RIC:	+< oh my god . 735043_735954
+*SEB:	<on the> [/] on chapter nine . 735549_736560
+*SEB:	but <that's what> [/] that's what +/. 737848_739152
+*RIC:	+< um and then Nicky@s:eng&spa [/] Nicky's@s:eng&spa in like the hospital . 737995_741680
+*RIC:	the uh@s:eng&spa she's another stupid one siempre@s:spa lo@s:spa mismo@s:spa . 741680_744736
+*SEB:	+< Nicky's always with +... 741706_743594
+*SEB:	+< yeah and [/] <and the>[/] and the black guy too . 743953_746212
+*RIC:	what black guy ? 746841_747526
+*SEB:	<the black> [//] the [/] the husband . 747537_748987
+*RIC:	he's dead ! 749110_750369
+*SEB:	no . 750526_752481
+*RIC:	+< D_L's@s:eng&spa dead . 751290_752234
+*SEB:	no you gotta see that part too . 752852_754425
+*RIC:	oh really ? 754403_754987
+*SEB:	<he's &i> [//] he's dead but he isn't dead because Linderman@s:eng&spa . 754717_757661
+*RIC:	he's dead (be)cause Linderman@s:eng&spa killed him . 759444_761174
+*SEB:	no no he [/] he in [/] in [//] on # later on <on the> [/] on the chapter nine they gonna show you +/. 760638_766395
+*RIC:	oh my god . 766357_767346
+*SEB:	+, who kills him . 766908_767649
+*SEB:	he's dead # but Linderman@s:eng&spa is not [/] is not the one that killed him . 768353_772589
+*SEB:	they go to a hospital # and [/] and lo@s:spa curan@s:spa you know lo@s:spa like +/. 773046_777889
+*RIC:	+< oh and then someone kills him ? 777574_778900
+*SEB:	later on happens something with Jessica@s:eng&spa that he goes where Jessica is +/. 779225_783562
+*RIC:	+< don't tell me anything . 783450_784663
+*SEB:	+, and [/] and something happen(s) . 784068_785484
+*RIC:	+< you know who I like too ? 784810_785850
+*RIC:	<I &l> [/] I like [//] look I like Peter@s:eng&spa Petrelli@s:eng&spa # Hiro@s:eng&spa this season not so much but I like Hiro@s:eng&spa and I like um # &ǀ &=noise the cop . 785850_795232
+*SEB:	I don't like the cop . 795686_796720
+*RIC:	<I like the cop> [/] I like the cop with Suresh@s:eng&spa taking care of the little girl trying to figure out like . 796678_801847
+*SEB:	<they put> [/] <they put> [/] they put the cop and Suresh@s:eng&spa a lot but <they don't> [/] they don't do anything . 801896_806379
+*SEB:	they just talk they just think . 806402_808739
+*RIC:	+< well yeah don't you remember they [/] they went <to uh@s:eng&spa> [/] to go find the cop's father . 808121_812709
+*RIC:	and <the &k> [//] the father like # he's the one that like with the power . 812732_817462
+*SEB:	yeah . 817364_818117
+*RIC:	that <he put them> [/] he put them both fighting against each other . 818128_820611
+*SEB:	[- spa] +< ajá . 820386_820802
+*RIC:	remember ? 820690_821252
+*SEB:	yeah . 821139_821488
+*RIC:	and they they didn't know . 821431_822229
+*SEB:	<(be)cause they got > [///] he [/] he can put # something on the head of the people . 822361_826148
+*RIC:	yeah . 826170_826676
+*SEB:	he can controller [//] control the people . 826597_831046
+*SEB:	but # . 831184_832240
+*RIC:	do you like um the # <the girl > [//] the Honduranean girl with the brother that are with Syler@s:eng&spa ? 832195_840273
+*SEB:	kind of . 840285_840947
+*RIC:	you like them ? 840947_841554
+*SEB:	er . 841577_843667
+*RIC:	I like Syler@s:eng&spa . 843757_844993
+*SEB:	yeah that guy is +... 844993_846173
+*RIC:	+< I like Syler@s:eng&spa . 845330_846353
+*RIC:	he's bad +/. 847042_847615
+*SEB:	+< that guy is awesome man . 847154_848109
+*RIC:	+, you know but . 848177_849019
+*SEB:	they haven't put Syler@s:eng&spa like later on . 848604_851907
+*SEB:	they haven't put him +/. 853120_854222
+*RIC:	+< they haven't put him ? 853671_854592
+*SEB:	+, on any other chapters . 854075_855233
+*RIC:	really ? 855199_855502
+*SEB:	no . 855637_857985
+*SEB:	um # that [/] that's the thing about that I was telling you . 859607_862124
+*RIC:	+< <I heard > [/] I heard with chapter eleven has a lot to do with Syler@s:eng&spa like +/. 861405_865326
+*SEB:	+< yeah . 865011_865360
+*RIC:	+, he's in it a lot . 865439_866225
+*SEB:	what I was telling you that # they just put everything in one chapter . 867277_871682
+*SEB:	on chapter nine is everything . 871131_873839
+*SEB:	if you see like &=noise # six seven # a(nd) eight # that's it . 874719_882262
+*SEB:	you don't have to see the rest of the chapters (be)cause everything is [/] is like the same thing . 882273_885576
+*RIC:	yeah . 885632_886486
+*SEB:	you just gotta see six seven &=cough eight and nine . 886466_890185
+*SEB:	that's it with [/] with those four chapters you gonna see everything what happened <on the > [/] on the rest of the [/] # the chapters . 890297_896623
+*RIC:	oh really ? 896612_897185
+*SEB:	yeah . 897173_897735
+*SEB:	&=cough . 898151_898589
+*RIC:	why (be)cause they show you the future # again ? 899075_901345
+*SEB:	because &i chapter nine's is everything in chapter nine's is what happened &w +/. 901390_905379
+*RIC:	+< four months before like after the explosion ? 905630_907326
+*SEB:	yeah . 907259_907652
+*SEB:	you know <you gotta see> [/] you gotta see # like # two or three chapters before chapter nine . 908826_914208
+*SEB:	(be)cause you [/] <you gonna> [//] you gotta see what happen(s) with Peter@s:eng&spa how he get(s) there what happen(s) with the girl that has got the [/] the flame &ans everything . 914197_922035
+*RIC:	yeah . 922035_922372
+*SEB:	yeah . 922530_922990
+*RIC:	we'll see . 924600_925454
+*RIC:	(h)ey have you heard about that raise that we're getting in August # the dollartwenty ? 925488_929848
+*SEB:	oh . 929945_930686
+*RIC:	supposedly with the [/] the [//] a new contract that went through . 931649_934896
+*SEB:	oh yeah but . 935064_936446
+*RIC:	+< and like +/. 935255_936064
+*SEB:	+< yeah yeah I did . 936184_937240
+*RIC:	+, we're getting a raise on the twentieth . 936997_938963
+*SEB:	what time you got there ? 939042_939873
+*RIC:	eleven thirty four . 940704_941570
+*SEB:	I [/] # I heard about it &la last year # that they're gonna change company . 943183_948835
+*RIC:	yeah I supposedly we('re) [//] we're getting a dollar twenty raise in August . 949056_952988
+*SEB:	+< we're gonna change uh@s:eng&spa +... 949719_951044
+*SEB:	they gonna change union and stuff a(nd) [/] and <they gonna> [/] # they gonna raise twice a year . 952939_958692
+*RIC:	I hope so . 960400_961187
+*SEB:	yeah . 961243_961894
+*RIC:	damn that'd be awesome . 962037_963576
+*RIC:	<do you like> [/] do you like um # &ǀ [//] # do you like Erik@s:eng&spa ? 963853_969033
+*SEB:	sometimes . 970789_971396
+*RIC:	pa(ra)@s:spa mí@s:spa e(s)@s:spa un@s:spa pesa(d)o@s:spa a lot . 971332_973714
+*SEB:	+< some [//] sometimes [/] sometimes . 973343_975264
+*RIC:	+< most of the time pesa(d)o@s:spa but sometimes he could be cool . 974197_976590
+*SEB:	yeah . 976725_977253
+*RIC:	but I dunno # he gets a little pesa(d)o@s:spa sometimes . 977339_980867
+*SEB:	sometimes # ay@s:spa [?] <they still> [/] they still putting Jumper@s:eng&spa there . 980957_984350
 %com:	"Jumper" was a sci-fi film showing at the multiplex cinema next to where the men are sitting.
-*RIC:	yeah you didn't see it ? %snd:"herring7"_985473_986574
-*SEB:	no . %snd:"herring7"_986664_987181
-*RIC:	it's good . %snd:"herring7"_987443_988365
-*SEB:	yeah ? %snd:"herring7"_988320_988825
-*SEB:	which one is <the other> [//] the other one that is [/] is the bottom ? %snd:"herring7"_988952_991436
-*SEB:	Step_Up_Two@s:eng&spa . %snd:"herring7"_993139_994465
+*RIC:	yeah you didn't see it ? 985473_986574
+*SEB:	no . 986664_987181
+*RIC:	it's good . 987443_988365
+*SEB:	yeah ? 988320_988825
+*SEB:	which one is <the other> [//] the other one that is [/] is the bottom ? 988952_991436
+*SEB:	Step_Up_Two@s:eng&spa . 993139_994465
 %com:	Another film released that month in the US.
-*SEB:	oh have you seen that one ? %snd:"herring7"_994533_995724
-*RIC:	you know which one's good ? %snd:"herring7"_995701_996690
-*RIC:	Vantage_Point@s:eng&spa . %snd:"herring7"_996656_997297
-*SEB:	oh yeah . %snd:"herring7"_997776_998507
-*RIC:	Vantage_Point@s:eng&spa yeah . %snd:"herring7"_998540_1000439
-*SEB:	+< I saw the trailer oh # awesome . %snd:"herring7"_998731_1000361
-*RIC:	you see the movie in the point of views of everyone . %snd:"herring7"_1000574_1003170
-*SEB:	yeah . %snd:"herring7"_1003226_1003922
-*RIC:	they show you the movie in the point of view of the [/] # the cop . %snd:"herring7"_1003327_1006720
-*RIC:	and then they go all the way back rewind . %snd:"herring7"_1006750_1008649
-*RIC:	show you everything that happened . %snd:"herring7"_1008682_1009892
-*SEB:	&=cough . %snd:"herring7"_1009263_1009802
-*RIC:	but in the point of view of a guy filming with a camera like it's awesome . %snd:"herring7"_1009847_1013173
-*SEB:	but everything # is happen with the cameras . %snd:"herring7"_1015251_1017993
-*SEB:	or everything happen with the point of view of +/ . %snd:"herring7"_1018004_1020161
-*RIC:	point of view normal . %snd:"herring7"_1020135_1021056
-*SEB:	yeah but <I saw> [/] I saw +/ . %snd:"herring7"_1021068_1023026
-*RIC:	+< but there's different people . %snd:"herring7"_1022521_1023779
-*SEB:	y(o)@s:spa [/] yo@s:spa vi@s:spa que@s:spa <el@s:spa el@s:spa> [/] # this guy had a camera like a &per like un@s:spa periodista@s:spa . %snd:"herring7"_1023768_1028734
-*RIC:	yeah . %snd:"herring7"_1028656_1029004
-*SEB:	[- spa] tenía una cámara . %snd:"herring7"_1028959_1029948
-*SEB:	[- spa] y le quitaron la cámara . %snd:"herring7"_1029925_1031611
-*SEB:	y@s:spa lo@s:spa chequeaban@s:spa el@s:spa video@s:eng&spa que@s:spa cogieron@s:spa +/ . %snd:"herring7"_1031824_1034353
-*RIC:	+< yeah yeah yeah . %snd:"herring7"_1033644_1035532
-*SEB:	but what you mean with the point of view of the cop ? %snd:"herring7"_1035577_1038229
-*SEB:	[- spa] ellos te hacen que tú digas lo que pasó . %snd:"herring7"_1038240_1040881
-*RIC:	no no like # they show the beginning of the movie and then the big explosion happens +/ . %snd:"herring7"_1040948_1046345
-*SEB:	[- spa] +< ajá . %snd:"herring7"_1046345_1046839
-*RIC:	+, no the [/] the president gets shot +/ . %snd:"herring7"_1046412_1048386
-*SEB:	+< yeah . %snd:"herring7"_1048229_1048600
-*RIC:	+, and then a big explosion happens . %snd:"herring7"_1048409_1050139
-*RIC:	and then like # they rewind . %snd:"herring7"_1050098_1053008
-*RIC:	and they # uh@s:eng&spa [//] # like <el@s:spa guardia@s:spa> [//] the [/] # the security of [//] the [/] the bodyguard of the +/ . %snd:"herring7"_1053031_1059704
-*SEB:	the president ? %snd:"herring7"_1059401_1060446
-*RIC:	+, of the president . %snd:"herring7"_1060704_1061637
-*RIC:	they show like everything that happened from his point of view like what he was seeing . %snd:"herring7"_1061626_1065277
-*RIC:	and then from another person . %snd:"herring7"_1065564_1067036
-*SEB:	mmhm . %snd:"herring7"_1067125_1067642
-*RIC:	you have to see it . %snd:"herring7"_1067294_1067901
-*RIC:	it's good it's good . %snd:"herring7"_1067878_1068845
-*RIC:	and then at the end # they put you the point of view of +/ . %snd:"herring7"_1069069_1072665
-*SEB:	+< you saw it already ? %snd:"herring7"_1072777_1073844
-*RIC:	+, of the killer . %snd:"herring7"_1072800_1073777
-*SEB:	you saw it already ? %snd:"herring7"_1074755_1076350
-*RIC:	+< yeah . %snd:"herring7"_1075036_1075620
-*SEB:	oh don't tell me don't tell me I wanna see it . %snd:"herring7"_1077309_1078714
-*RIC:	no watch it . %snd:"herring7"_1078714_1079815
-*SEB:	you saw this one um # xxx . %snd:"herring7"_1079691_1083006
-*RIC:	Ten_Thousand_B_C@s:eng&spa I wanna see . %snd:"herring7"_1082613_1084006
-*SEB:	&=noise &wa you know what I don't like tha(t) [/] on that movie ? %snd:"herring7"_1084894_1087523
-*RIC:	+< hmm . %snd:"herring7"_1087354_1087602
-*SEB:	they talk in English . %snd:"herring7"_1087602_1088849
-*RIC:	they talk English ? %snd:"herring7"_1089017_1090118
-*SEB:	at the point of that movie nobody can know any language . %snd:"herring7"_1091912_1095294
-*RIC:	are you sure ? %snd:"herring7"_1095396_1096115
-*SEB:	yeah ten thousand B_C . %snd:"herring7"_1096137_1097755
-*SEB:	it's when the people live in caves and stuff like that . %snd:"herring7"_1099501_1102321
-*SEB:	they don't live in +// . %snd:"herring7"_1102433_1103433
-*SEB:	they don't even live in caves . %snd:"herring7"_1103141_1104680
-*RIC:	you don't know . %snd:"herring7"_1108530_1109024
-*RIC:	maybe [/] # maybe they talk English and some +// . %snd:"herring7"_1109024_1111024
-*RIC:	maybe they did talk English ! %snd:"herring7"_1111777_1112890
-*SEB:	no no I don't think so . %snd:"herring7"_1113036_1116396
-*SEB:	I don't think so (be)cause +/ . %snd:"herring7"_1116374_1117430
-*RIC:	+< you wan(t) it to be like Apocalypto@s:eng&spa +/ . %snd:"herring7"_1117497_1119261
-*SEB:	+< yeah . %snd:"herring7"_1119643_1120149
-*RIC:	+, that they talk another language and +/ . %snd:"herring7"_1119688_1121531
-*SEB:	yeah . %snd:"herring7"_1121520_1122126
-*RIC:	Apocalypto@s:eng&spa was good . %snd:"herring7"_1122190_1123931
-*RIC:	I like that movie . %snd:"herring7"_1124152_1125208
-*SEB:	awesome that movie was awesome . %snd:"herring7"_1124568_1126354
-*SEB:	uh@s:eng&spa Untraceable@s:eng&spa you saw it Untraceable@s:eng&spa already ? %snd:"herring7"_1129135_1131686
-*SEB:	&=cough . %snd:"herring7"_1131839_1132255
-*RIC:	+< oh I didn't see it man . %snd:"herring7"_1131974_1133311
-*RIC:	I missed it . %snd:"herring7"_1133367_1134064
-*SEB:	I think that it [///] they took it off ? %snd:"herring7"_1134120_1136435
-*RIC:	yeah they took it off . %snd:"herring7"_1136446_1137457
-*SEB:	it's coming out on D_V_D then . %snd:"herring7"_1137581_1138704
-*RIC:	I saw The_Bank_Job@s:eng&spa . %snd:"herring7"_1138693_1140244
-*SEB:	you saw it ? %snd:"herring7"_1140300_1140985
-*SEB:	it's good ? %snd:"herring7"_1140873_1141626
-*RIC:	+< The_Bank_Job's@s:eng&spa good yeah . %snd:"herring7"_1141030_1142019
-*SEB:	I wanna see it . %snd:"herring7"_1142472_1143393
-*RIC:	I liked xxx . %snd:"herring7"_1143213_1144494
-*SEB:	have [//] I have seen the [/] the trailers . %snd:"herring7"_1144876_1146786
-*SEB:	and it's good . %snd:"herring7"_1146808_1147539
-*SEB:	what about The_Hu(l)k@s:eng&spa [//] Incredible_Hulk@s:eng&spa ? %snd:"herring7"_1149157_1152258
-*RIC:	you saw the trailer ? %snd:"herring7"_1152254_1153141
-*SEB:	yeah . %snd:"herring7"_1153141_1153624
-*RIC:	you saw it ? %snd:"herring7"_1153602_1154254
-*RIC:	what do you think good huh@s:eng&spa ? %snd:"herring7"_1154523_1155737
-*SEB:	but I don't like <the guy> [/] the guy on the movie I don't like him . %snd:"herring7"_1155759_1158703
-*RIC:	I like him . %snd:"herring7"_1158691_1159444
-*RIC:	I like him better than the other guy . %snd:"herring7"_1159534_1161107
-*SEB:	on that special movie # I don't like him . %snd:"herring7"_1161167_1163257
-*SEB:	(be)cause he's [//] that guy is too serious to be # in [/] on that [/] that type of movie . %snd:"herring7"_1163313_1167751
-*RIC:	+< you think ? %snd:"herring7"_1167230_1167927
-*RIC:	but everyone loves Edward@s:eng&spa Norton@s:eng&spa . %snd:"herring7"_1168219_1170916
-*SEB:	I like it how he works . %snd:"herring7"_1170960_1172309
-*RIC:	yeah . %snd:"herring7"_1172298_1172848
-*RIC:	but he's all # he's +.. . %snd:"herring7"_1173080_1175361
-*SEB:	[- spa] +< pero es &de [/] demasiado serio pa(ra) esa película . %snd:"herring7"_1173170_1174945
-*SEB:	<hay@s:spa como@s:spa poner@s:spa> [//] es@s:spa como@s:spa poner@s:spa en@s:spa esa@s:spa película@s:spa a@s:spa Anthony@s:eng&spa Hopkins@s:eng&spa . %snd:"herring7"_1174945_1177327
-*RIC:	Anthony@s:eng&spa Hopkins@s:eng&spa &ç ? %snd:"herring7"_1178615_1180031
-*SEB:	+< yeah ! %snd:"herring7"_1179537_1180582
-*RIC:	you could do it ! %snd:"herring7"_1180488_1181780
-*SEB:	nah son@s:spa [/] son@s:spa actores@s:spa +/ . %snd:"herring7"_1181859_1183690
-*RIC:	+< look if you're a good actor you could do anything . %snd:"herring7"_1182836_1185656
-*SEB:	[- spa] pero son muy serios para esa(s) película(s) . %snd:"herring7"_1185746_1187297
-*RIC:	look at The_Rock@s:eng&spa . %snd:"herring7"_1187274_1188151
-*RIC:	The_Rock@s:eng&spa did [/] started doing action movies and now they're putting him +/ . %snd:"herring7"_1188416_1191955
-*SEB:	+< which one was The_Rock@s:eng&spa ? %snd:"herring7"_1191450_1192933
-*RIC:	the [/] # uh@s:eng&spa el@s:spa actor@s:spa # The_Rock@s:eng&spa ? %snd:"herring7"_1193157_1196236
-*SEB:	oh . %snd:"herring7"_1197629_1199011
-*RIC:	he does comedy +// . %snd:"herring7"_1199206_1200352
-*RIC:	you know Vin@s:eng&spa Diesel@s:eng&spa ? %snd:"herring7"_1200352_1201217
-*SEB:	yeah . %snd:"herring7"_1201240_1201712
-*RIC:	he did a comedy . %snd:"herring7"_1201644_1202510
-*SEB:	yeah I know . %snd:"herring7"_1202465_1203060
-*RIC:	The_Pacifier@s:eng&spa . %snd:"herring7"_1203038_1203981
-*SEB:	no <the only one> [/] the only one that I don't like from him is th(e) [/] the +/ . %snd:"herring7"_1203993_1207521
-*RIC:	+< &=laugh that one that you said . %snd:"herring7"_1207603_1209288
-*SEB:	+, Strays@s:eng&spa I think it is the name of oh man . %snd:"herring7"_1209333_1211591
-*RIC:	+< Strays@s:eng&spa yeah . %snd:"herring7"_1210423_1211580
-*SEB:	it was like # &stupidʌs # stupid # stupi(d) you saw it ? %snd:"herring7"_1213295_1221147
-*SEB:	watch(ed) that movie ? %snd:"herring7"_1221093_1221789
-*RIC:	+< what Strays@s:eng&spa ? %snd:"herring7"_1221261_1222385
-*SEB:	Strays@s:eng&spa &=cough . %snd:"herring7"_1222295_1223374
-*RIC:	you [/] you told me it wasn't good . %snd:"herring7"_1222969_1224677
-*SEB:	<don't even> [/] don't even look +// . %snd:"herring7"_1224014_1225441
-*SEB:	an(d) he got [//] <they got> [/] they got like thousand [/] thousand movies on Blockbuster@s:eng&spa oye@s:spa . %snd:"herring7"_1225441_1229722
-*SEB:	like the same movie . %snd:"herring7"_1229823_1230800
-*RIC:	[- spa] ajá . %snd:"herring7"_1230811_1231160
-*SEB:	like thousand(s) . %snd:"herring7"_1231160_1231890
-*RIC:	of what ? %snd:"herring7"_1232096_1232759
-*SEB:	<of &tre> [//] of Strays@s:eng&spa yeah . %snd:"herring7"_1232635_1234545
-*RIC:	of [/] of that one ? %snd:"herring7"_1232905_1233972
-*SEB:	they got like a thousand &=mumble just one [/] one wall for him . %snd:"herring7"_1236069_1239743
-*RIC:	I [//] yesterday I saw Elizabeth_The_Golden_Age@s:eng&spa . %snd:"herring7"_1240129_1243522
-*SEB:	I got it at home . %snd:"herring7"_1243601_1244915
-*RIC:	I saw it . %snd:"herring7"_1244724_1245376
-*SEB:	is it good ? %snd:"herring7"_1245968_1246721
-*RIC:	it's good . %snd:"herring7"_1246676_1247215
-*SEB:	but I wanna +/ . %snd:"herring7"_1247631_1248642
-*RIC:	did you see the first one ? %snd:"herring7"_1247833_1248811
-*SEB:	no . %snd:"herring7"_1248811_1249327
-*RIC:	no ? %snd:"herring7"_1249339_1249631
-*SEB:	I wanna see the first one . %snd:"herring7"_1249653_1250620
-*RIC:	oh damn . %snd:"herring7"_1250642_1251339
-*SEB:	+< but they [/] they don't got it in Spanish and my [/] my girl doesn't [/] doesn't speak English . %snd:"herring7"_1250844_1254417
-*RIC:	<you should see> [/] you should see the first one . %snd:"herring7"_1254526_1256267
-*RIC:	I mean you don't have to see the first one to understand the second . %snd:"herring7"_1256279_1258627
-*SEB:	[- spa] ajá . %snd:"herring7"_1258661_1259065
-*RIC:	but you know it's good to see the first one . %snd:"herring7"_1259098_1260784
-*RIC:	but it's good . %snd:"herring7"_1260773_1261604
-*RIC:	part [/] part two has like more action . %snd:"herring7"_1261660_1264690
-*RIC:	part one has no action . %snd:"herring7"_1264769_1265847
-*SEB:	yeah I know . %snd:"herring7"_1265739_1266401
-*RIC:	+< the part two has like some action towards the end . %snd:"herring7"_1265851_1268390
-*SEB:	but <if you> [/] if you see part two before part one when you see part one I mean . %snd:"herring7"_1269667_1276487
-*SEB:	when you see part two # before you see part one when you see part one # gonna [//] you gonna know something tha(t) happen on part two that you don't wanna know ? %snd:"herring7"_1278053_1285592
-*RIC:	ah no not really . %snd:"herring7"_1286888_1289854
-*SEB:	no ? %snd:"herring7"_1289877_1290551
-*RIC:	no . %snd:"herring7"_1290585_1291068
-*RIC:	but see it . %snd:"herring7"_1291057_1291933
-*SEB:	<you can> [/] <you can> [/] you can see part two and skip [/] seeing part one ? %snd:"herring7"_1292056_1295113
-*RIC:	yeah yeah . %snd:"herring7"_1295135_1296026
-*SEB:	+< and nothing('s) gonna happen like +/ . %snd:"herring7"_1295509_1296689
-*RIC:	it's just in part one they show you like how she becomes the queen . %snd:"herring7"_1296667_1300049
-*RIC:	you know in part two she's already the queen . %snd:"herring7"_1300671_1303019
-*SEB:	+< yeah . %snd:"herring7"_1302322_1303064
-*SEB:	but they don't have it in [//] on Spanish subtitles or anything like that . %snd:"herring7"_1305558_1308367
-*RIC:	are you sure they don't have Spanish ? %snd:"herring7"_1308355_1309347
-*SEB:	no they don't have it . %snd:"herring7"_1309356_1310738
-*RIC:	damn and <you need> [/] you need subtitles (be)cause that movie is hard to understand . %snd:"herring7"_1310985_1315243
-*RIC:	but in part two # um the [//] in England they're [/] they're going to war against uh@s:eng&spa Spain . %snd:"herring7"_1315277_1320569
-*RIC:	so every time they show Spain eh@s:eng&spa they('re) [/] they're talking in Spanish . %snd:"herring7"_1321209_1324973
-*SEB:	on the first one ? %snd:"herring7"_1325130_1326232
-*RIC:	in the second one . %snd:"herring7"_1326220_1327085
-*SEB:	the second one ? %snd:"herring7"_1327142_1327906
-*RIC:	they talk a lot of Spanish in the second one . %snd:"herring7"_1328183_1330318
-*SEB:	<I &ha> [/] <I have seen> [/] I have seen the [//] # like part of the movies . %snd:"herring7"_1333733_1337385
-*SEB:	(be)cause <I wanna> [/] I wanna see like something what happen on you know like if it likes Perfume@s:eng&spa . %snd:"herring7"_1337299_1342063
-*SEB:	you saw Perfume@s:eng&spa right ? %snd:"herring7"_1342142_1342816
-*RIC:	yeah . %snd:"herring7"_1342895_1343479
-*SEB:	I wanna see [/] si@s:spa ellos@s:spa se@s:spa entiende(s)@s:spa como@s:spa Perfume@s:eng&spa o@s:spa si@s:spa era@s:spa como@s:spa un@s:spa tipo@s:spa de@s:spa comedy eso@s:spa . %snd:"herring7"_1343509_1348509
-*SEB:	yeah you know # &=cough . %snd:"herring7"_1349611_1351105
-*RIC:	I think it's more older than Perfume@s:eng&spa . %snd:"herring7"_1351195_1353801
-*RIC:	like the [//] la@s:spa época@s:spa . %snd:"herring7"_1354779_1356385
-*SEB:	ah@s:eng&spa . %snd:"herring7"_1356352_1356812
-*RIC:	era@s:spa más@s:spa vieja@s:spa que@s:spa Perfume@s:eng&spa yeah . %snd:"herring7"_1356621_1358655
-*SEB:	+< yeah ? %snd:"herring7"_1357722_1358116
-*SEB:	vi@s:spa la@s:spa &pa [///] ese@s:spa trabaja@s:spa ese@s:spa tipo@s:spa de@s:spa Shoot_'Em_Up@s:eng&spa ? %snd:"herring7"_1358887_1361775
-*RIC:	yeah yeah yeah Shoot_'Em_Up@s:eng&spa . %snd:"herring7"_1362325_1363370
-*SEB:	+< yeah that guy works there . %snd:"herring7"_1362718_1364550
-*RIC:	+< Clive@s:eng&spa Owen@s:eng&spa . %snd:"herring7"_1364257_1365246
-*SEB:	which one ? +/ . %snd:"herring7"_1366112_1367101
-*RIC:	+< <have you> [/] have you seen Bad_Boys_Two@s:eng&spa ? %snd:"herring7"_1366460_1368741
-*SEB:	yeah . %snd:"herring7"_1368794_1369479
-*RIC:	you know el@s:spa [/] <el@s:spa bad guy> [/] the bad guy in part two ? %snd:"herring7"_1369490_1372681
-*SEB:	&=mumble . %snd:"herring7"_1372445_1373411
-*RIC:	[- spa] el que tiene [//] el [/] el cubano que tiene pelo largo . %snd:"herring7"_1373052_1375512
-*SEB:	+< oh yeah . %snd:"herring7"_1375288_1375928
-*RIC:	[- spa] el malo . %snd:"herring7"_1375715_1376220
-*SEB:	[- spa] el que dice que le va a dar un millón de pesos a al que lo saque de la cárcel . %snd:"herring7"_1376231_1380007
-*RIC:	yeah yeah yeah &=laugh . %snd:"herring7"_1379872_1381884
-*RIC:	um@s:eng&spa el@s:spa es@s:spa el@s:spa malo@s:spa en@s:spa The_Golden_Age@s:eng&spa . %snd:"herring7"_1382131_1385018
-*SEB:	oh yeah ? %snd:"herring7"_1385625_1386445
-*RIC:	[- spa] +< el es rey de España el malo . %snd:"herring7"_1385883_1388164
-*SEB:	oh@s:eng&spa . %snd:"herring7"_1388273_1389666
-*RIC:	+< yeah . %snd:"herring7"_1389228_1389812
-*SEB:	[- spa] el [/] el flaco . %snd:"herring7"_1390082_1391171
-*RIC:	yeah . %snd:"herring7"_1391801_1392817
-*SEB:	[- spa] en [/] en esa no es en la que +/ . %snd:"herring7"_1394194_1396441
-*RIC:	that's why when the little girl's like daddy look at the dress . %snd:"herring7"_1395610_1398958
-*RIC:	and then he's like you're beautiful . %snd:"herring7"_1399272_1401295
-*RIC:	and <the guy> [/] the [//] his friend laughs . %snd:"herring7"_1401408_1403169
-*RIC:	and he's like no@s:spa hagas@s:spa caso@s:spa el@s:spa es@s:spa un@s:spa mamapinga@s:spa . %snd:"herring7"_1403380_1405874
-*SEB:	+< &=laugh . %snd:"herring7"_1405795_1407276
-*RIC:	huh@s:eng&spa . %snd:"herring7"_1406290_1406930
-*SEB:	en@s:spa esa@s:spa no@s:spa es@s:spa en@s:spa la@s:spa que@s:spa el@s:spa er@s:eng&spa [//] destruyen@s:spa toda@s:spa la@s:spa flo(ta)@s:spa a@s:spa España@s:spa ? %snd:"herring7"_1408595_1411381
-*RIC:	when what ? %snd:"herring7"_1412224_1412853
-*SEB:	[- spa] que le [?] destruyen toda la flota a España . %snd:"herring7"_1412842_1415066
-*RIC:	yeah . %snd:"herring7"_1415055_1415538
-*SEB:	[- spa] es en esa ? %snd:"herring7"_1415647_1416669
-*SEB:	que@s:spa creo@s:spa que@s:spa es@s:spa # la@s:spa uh@s:eng&spa [/] la@s:spa destrucción@s:spa más@s:spa grande@s:spa que@s:spa ha@s:spa tenido@s:spa España@s:spa de@s:spa [/] de@s:spa la@s:spa guerra@s:spa . %snd:"herring7"_1416834_1423665
-*SEB:	[- spa] esa no es la que queman la gente viva porque son católico(s) o algo de eso ? %snd:"herring7"_1423916_1426983
-*RIC:	yeah yeah that's it . %snd:"herring7"_1427036_1429092
-*SEB:	[- spa] que +/ . %snd:"herring7"_1429249_1429912
-*RIC:	+< but they [/] they don't show it . %snd:"herring7"_1429407_1430508
-*RIC:	but yeah they talk about it . %snd:"herring7"_1430496_1431541
-*SEB:	yeah . %snd:"herring7"_1431485_1432193
-*RIC:	eh@s:eng&spa eh@s:eng&spa esa@s:spa clase@s:spa de@s:spa películas@s:spa me@s:spa confunden@s:spa . %snd:"herring7"_1433953_1437043
-*RIC:	pero@s:spa like I watch them with my girlfriend and she explains . %snd:"herring7"_1437065_1440459
-*SEB:	yeah ? %snd:"herring7"_1440560_1440987
-*RIC:	+< what's going on yeah . %snd:"herring7"_1440863_1441796
-*SEB:	+< she knows about it ? %snd:"herring7"_1441638_1442649
-*RIC:	she's good with it . %snd:"herring7"_1443267_1444582
-*SEB:	I have seen the [//] # <this &dok> [/] es@s:spa u(n)@s:spa [/] es@s:spa un@s:spa era@s:spa un@s:spa documental@s:spa . %snd:"herring7"_1446267_1450706
-*SEB:	<de@s:spa lo@s:spa que@s:spa le@s:spa pasó@s:spa> [//] de@s:spa lo@s:spa que@s:spa pasó@s:spa en@s:spa realidad@s:spa con@s:spa [/] # con@s:spa this guy uh@s:eng&spa # el@s:spa que@s:spa adivina@s:spa el@s:spa futuro@s:spa . %snd:"herring7"_1451454_1459604
-*SEB:	Nostradamus@s:eng&spa . %snd:"herring7"_1459705_1461447
-*RIC:	who ? %snd:"herring7"_1461458_1461930
-*RIC:	Nostradamus@s:eng&spa . %snd:"herring7"_1461930_1462739
-*SEB:	+< Nostradamus@s:eng&spa . %snd:"herring7"_1462020_1462739
-*SEB:	that xxx ese@s:spa documental@s:spa estaba@s:spa duro@s:spa duro@s:spa . %snd:"herring7"_1464750_1467818
-*RIC:	Elizabeth@s:eng&spa goes to him # to find out like what's gonna happen in the future . %snd:"herring7"_1467806_1472379
-*SEB:	the what ? %snd:"herring7"_1472514_1473188
-*RIC:	Elizabeth@s:eng&spa . %snd:"herring7"_1473244_1473975
-*SEB:	[- spa] +< ajá . %snd:"herring7"_1473862_1474525
-*RIC:	she [/] ella@s:spa va@s:spa a@s:spa Nostradamus@s:eng&spa . %snd:"herring7"_1474660_1476244
-*SEB:	[- spa] oh sí ? %snd:"herring7"_1476256_1477728
-*RIC:	un@s:spa [//] no@s:spa [/] no@s:spa sé@s:spa si@s:spa es@s:spa Nostradamus@s:eng&spa pero@s:spa un@s:spa profeta@s:spa . %snd:"herring7"_1477814_1480960
-*SEB:	[- spa] ajá . %snd:"herring7"_1480814_1481600
-*RIC:	[- spa] +< pa(ra) que le diga lo que va a pasar en el futuro . %snd:"herring7"_1481229_1483342
-*SEB:	oh@s:eng&spa . %snd:"herring7"_1483420_1484285
-*SEB:	[- spa] <él le dice> [/] él le dice a un rey # <que es lo que> [//] lo que le va a pasar . %snd:"herring7"_1484626_1489030
-*SEB:	[- spa] y en realidad le pasa algo al rey . %snd:"herring7"_1489281_1490685
-*SEB:	[- spa] y entonces es cuando la gente se pone . %snd:"herring7"_1490652_1492348
-*RIC:	yeah . %snd:"herring7"_1492494_1492978
+*SEB:	oh have you seen that one ? 994533_995724
+*RIC:	you know which one's good ? 995701_996690
+*RIC:	Vantage_Point@s:eng&spa . 996656_997297
+*SEB:	oh yeah . 997776_998507
+*RIC:	Vantage_Point@s:eng&spa yeah . 998540_1000439
+*SEB:	+< I saw the trailer oh # awesome . 998731_1000361
+*RIC:	you see the movie in the point of views of everyone . 1000574_1003170
+*SEB:	yeah . 1003226_1003922
+*RIC:	they show you the movie in the point of view of the [/] # the cop . 1003327_1006720
+*RIC:	and then they go all the way back rewind . 1006750_1008649
+*RIC:	show you everything that happened . 1008682_1009892
+*SEB:	&=cough . 1009263_1009802
+*RIC:	but in the point of view of a guy filming with a camera like it's awesome . 1009847_1013173
+*SEB:	but everything # is happen with the cameras . 1015251_1017993
+*SEB:	or everything happen with the point of view of +/. 1018004_1020161
+*RIC:	point of view normal . 1020135_1021056
+*SEB:	yeah but <I saw> [/] I saw +/. 1021068_1023026
+*RIC:	+< but there's different people . 1022521_1023779
+*SEB:	y(o)@s:spa [/] yo@s:spa vi@s:spa que@s:spa <el@s:spa el@s:spa> [/] # this guy had a camera like a &per like un@s:spa periodista@s:spa . 1023768_1028734
+*RIC:	yeah . 1028656_1029004
+*SEB:	[- spa] tenía una cámara . 1028959_1029948
+*SEB:	[- spa] y le quitaron la cámara . 1029925_1031611
+*SEB:	y@s:spa lo@s:spa chequeaban@s:spa el@s:spa video@s:eng&spa que@s:spa cogieron@s:spa +/. 1031824_1034353
+*RIC:	+< yeah yeah yeah . 1033644_1035532
+*SEB:	but what you mean with the point of view of the cop ? 1035577_1038229
+*SEB:	[- spa] ellos te hacen que tú digas lo que pasó . 1038240_1040881
+*RIC:	no no like # they show the beginning of the movie and then the big explosion happens +/. 1040948_1046345
+*SEB:	[- spa] +< ajá . 1046345_1046839
+*RIC:	+, no the [/] the president gets shot +/. 1046412_1048386
+*SEB:	+< yeah . 1048229_1048600
+*RIC:	+, and then a big explosion happens . 1048409_1050139
+*RIC:	and then like # they rewind . 1050098_1053008
+*RIC:	and they # uh@s:eng&spa [//] # like <el@s:spa guardia@s:spa> [//] the [/] # the security of [//] the [/] the bodyguard of the +/. 1053031_1059704
+*SEB:	the president ? 1059401_1060446
+*RIC:	+, of the president . 1060704_1061637
+*RIC:	they show like everything that happened from his point of view like what he was seeing . 1061626_1065277
+*RIC:	and then from another person . 1065564_1067036
+*SEB:	mmhm . 1067125_1067642
+*RIC:	you have to see it . 1067294_1067901
+*RIC:	it's good it's good . 1067878_1068845
+*RIC:	and then at the end # they put you the point of view of +/. 1069069_1072665
+*SEB:	+< you saw it already ? 1072777_1073844
+*RIC:	+, of the killer . 1072800_1073777
+*SEB:	you saw it already ? 1074755_1076350
+*RIC:	+< yeah . 1075036_1075620
+*SEB:	oh don't tell me don't tell me I wanna see it . 1077309_1078714
+*RIC:	no watch it . 1078714_1079815
+*SEB:	you saw this one um # xxx . 1079691_1083006
+*RIC:	Ten_Thousand_B_C@s:eng&spa I wanna see . 1082613_1084006
+*SEB:	&=noise &wa you know what I don't like tha(t) [/] on that movie ? 1084894_1087523
+*RIC:	+< hmm . 1087354_1087602
+*SEB:	they talk in English . 1087602_1088849
+*RIC:	they talk English ? 1089017_1090118
+*SEB:	at the point of that movie nobody can know any language . 1091912_1095294
+*RIC:	are you sure ? 1095396_1096115
+*SEB:	yeah ten thousand B_C . 1096137_1097755
+*SEB:	it's when the people live in caves and stuff like that . 1099501_1102321
+*SEB:	they don't live in +//. 1102433_1103433
+*SEB:	they don't even live in caves . 1103141_1104680
+*RIC:	you don't know . 1108530_1109024
+*RIC:	maybe [/] # maybe they talk English and some +//. 1109024_1111024
+*RIC:	maybe they did talk English ! 1111777_1112890
+*SEB:	no no I don't think so . 1113036_1116396
+*SEB:	I don't think so (be)cause +/. 1116374_1117430
+*RIC:	+< you wan(t) it to be like Apocalypto@s:eng&spa +/. 1117497_1119261
+*SEB:	+< yeah . 1119643_1120149
+*RIC:	+, that they talk another language and +/. 1119688_1121531
+*SEB:	yeah . 1121520_1122126
+*RIC:	Apocalypto@s:eng&spa was good . 1122190_1123931
+*RIC:	I like that movie . 1124152_1125208
+*SEB:	awesome that movie was awesome . 1124568_1126354
+*SEB:	uh@s:eng&spa Untraceable@s:eng&spa you saw it Untraceable@s:eng&spa already ? 1129135_1131686
+*SEB:	&=cough . 1131839_1132255
+*RIC:	+< oh I didn't see it man . 1131974_1133311
+*RIC:	I missed it . 1133367_1134064
+*SEB:	I think that it [///] they took it off ? 1134120_1136435
+*RIC:	yeah they took it off . 1136446_1137457
+*SEB:	it's coming out on D_V_D then . 1137581_1138704
+*RIC:	I saw The_Bank_Job@s:eng&spa . 1138693_1140244
+*SEB:	you saw it ? 1140300_1140985
+*SEB:	it's good ? 1140873_1141626
+*RIC:	+< The_Bank_Job's@s:eng&spa good yeah . 1141030_1142019
+*SEB:	I wanna see it . 1142472_1143393
+*RIC:	I liked xxx . 1143213_1144494
+*SEB:	have [//] I have seen the [/] the trailers . 1144876_1146786
+*SEB:	and it's good . 1146808_1147539
+*SEB:	what about The_Hu(l)k@s:eng&spa [//] Incredible_Hulk@s:eng&spa ? 1149157_1152258
+*RIC:	you saw the trailer ? 1152254_1153141
+*SEB:	yeah . 1153141_1153624
+*RIC:	you saw it ? 1153602_1154254
+*RIC:	what do you think good huh@s:eng&spa ? 1154523_1155737
+*SEB:	but I don't like <the guy> [/] the guy on the movie I don't like him . 1155759_1158703
+*RIC:	I like him . 1158691_1159444
+*RIC:	I like him better than the other guy . 1159534_1161107
+*SEB:	on that special movie # I don't like him . 1161167_1163257
+*SEB:	(be)cause he's [//] that guy is too serious to be # in [/] on that [/] that type of movie . 1163313_1167751
+*RIC:	+< you think ? 1167230_1167927
+*RIC:	but everyone loves Edward@s:eng&spa Norton@s:eng&spa . 1168219_1170916
+*SEB:	I like it how he works . 1170960_1172309
+*RIC:	yeah . 1172298_1172848
+*RIC:	but he's all # he's +... 1173080_1175361
+*SEB:	[- spa] +< pero es &de [/] demasiado serio pa(ra) esa película . 1173170_1174945
+*SEB:	<hay@s:spa como@s:spa poner@s:spa> [//] es@s:spa como@s:spa poner@s:spa en@s:spa esa@s:spa película@s:spa a@s:spa Anthony@s:eng&spa Hopkins@s:eng&spa . 1174945_1177327
+*RIC:	Anthony@s:eng&spa Hopkins@s:eng&spa &ç ? 1178615_1180031
+*SEB:	+< yeah ! 1179537_1180582
+*RIC:	you could do it ! 1180488_1181780
+*SEB:	nah son@s:spa [/] son@s:spa actores@s:spa +/. 1181859_1183690
+*RIC:	+< look if you're a good actor you could do anything . 1182836_1185656
+*SEB:	[- spa] pero son muy serios para esa(s) película(s) . 1185746_1187297
+*RIC:	look at The_Rock@s:eng&spa . 1187274_1188151
+*RIC:	The_Rock@s:eng&spa did [/] started doing action movies and now they're putting him +/. 1188416_1191955
+*SEB:	+< which one was The_Rock@s:eng&spa ? 1191450_1192933
+*RIC:	the [/] # uh@s:eng&spa el@s:spa actor@s:spa # The_Rock@s:eng&spa ? 1193157_1196236
+*SEB:	oh . 1197629_1199011
+*RIC:	he does comedy +//. 1199206_1200352
+*RIC:	you know Vin@s:eng&spa Diesel@s:eng&spa ? 1200352_1201217
+*SEB:	yeah . 1201240_1201712
+*RIC:	he did a comedy . 1201644_1202510
+*SEB:	yeah I know . 1202465_1203060
+*RIC:	The_Pacifier@s:eng&spa . 1203038_1203981
+*SEB:	no <the only one> [/] the only one that I don't like from him is th(e) [/] the +/. 1203993_1207521
+*RIC:	+< &=laugh that one that you said . 1207603_1209288
+*SEB:	+, Strays@s:eng&spa I think it is the name of oh man . 1209333_1211591
+*RIC:	+< Strays@s:eng&spa yeah . 1210423_1211580
+*SEB:	it was like # &stupidʌs # stupid # stupi(d) you saw it ? 1213295_1221147
+*SEB:	watch(ed) that movie ? 1221093_1221789
+*RIC:	+< what Strays@s:eng&spa ? 1221261_1222385
+*SEB:	Strays@s:eng&spa &=cough . 1222295_1223374
+*RIC:	you [/] you told me it wasn't good . 1222969_1224677
+*SEB:	<don't even> [/] don't even look +//. 1224014_1225441
+*SEB:	an(d) he got [//] <they got> [/] they got like thousand [/] thousand movies on Blockbuster@s:eng&spa oye@s:spa . 1225441_1229722
+*SEB:	like the same movie . 1229823_1230800
+*RIC:	[- spa] ajá . 1230811_1231160
+*SEB:	like thousand(s) . 1231160_1231890
+*RIC:	of what ? 1232096_1232759
+*SEB:	<of &tre> [//] of Strays@s:eng&spa yeah . 1232635_1234545
+*RIC:	of [/] of that one ? 1232905_1233972
+*SEB:	they got like a thousand &=mumble just one [/] one wall for him . 1236069_1239743
+*RIC:	I [//] yesterday I saw Elizabeth_The_Golden_Age@s:eng&spa . 1240129_1243522
+*SEB:	I got it at home . 1243601_1244915
+*RIC:	I saw it . 1244724_1245376
+*SEB:	is it good ? 1245968_1246721
+*RIC:	it's good . 1246676_1247215
+*SEB:	but I wanna +/. 1247631_1248642
+*RIC:	did you see the first one ? 1247833_1248811
+*SEB:	no . 1248811_1249327
+*RIC:	no ? 1249339_1249631
+*SEB:	I wanna see the first one . 1249653_1250620
+*RIC:	oh damn . 1250642_1251339
+*SEB:	+< but they [/] they don't got it in Spanish and my [/] my girl doesn't [/] doesn't speak English . 1250844_1254417
+*RIC:	<you should see> [/] you should see the first one . 1254526_1256267
+*RIC:	I mean you don't have to see the first one to understand the second . 1256279_1258627
+*SEB:	[- spa] ajá . 1258661_1259065
+*RIC:	but you know it's good to see the first one . 1259098_1260784
+*RIC:	but it's good . 1260773_1261604
+*RIC:	part [/] part two has like more action . 1261660_1264690
+*RIC:	part one has no action . 1264769_1265847
+*SEB:	yeah I know . 1265739_1266401
+*RIC:	+< the part two has like some action towards the end . 1265851_1268390
+*SEB:	but <if you> [/] if you see part two before part one when you see part one I mean . 1269667_1276487
+*SEB:	when you see part two # before you see part one when you see part one # gonna [//] you gonna know something tha(t) happen on part two that you don't wanna know ? 1278053_1285592
+*RIC:	ah no not really . 1286888_1289854
+*SEB:	no ? 1289877_1290551
+*RIC:	no . 1290585_1291068
+*RIC:	but see it . 1291057_1291933
+*SEB:	<you can> [/] <you can> [/] you can see part two and skip [/] seeing part one ? 1292056_1295113
+*RIC:	yeah yeah . 1295135_1296026
+*SEB:	+< and nothing('s) gonna happen like +/. 1295509_1296689
+*RIC:	it's just in part one they show you like how she becomes the queen . 1296667_1300049
+*RIC:	you know in part two she's already the queen . 1300671_1303019
+*SEB:	+< yeah . 1302322_1303064
+*SEB:	but they don't have it in [//] on Spanish subtitles or anything like that . 1305558_1308367
+*RIC:	are you sure they don't have Spanish ? 1308355_1309347
+*SEB:	no they don't have it . 1309356_1310738
+*RIC:	damn and <you need> [/] you need subtitles (be)cause that movie is hard to understand . 1310985_1315243
+*RIC:	but in part two # um the [//] in England they're [/] they're going to war against uh@s:eng&spa Spain . 1315277_1320569
+*RIC:	so every time they show Spain eh@s:eng&spa they('re) [/] they're talking in Spanish . 1321209_1324973
+*SEB:	on the first one ? 1325130_1326232
+*RIC:	in the second one . 1326220_1327085
+*SEB:	the second one ? 1327142_1327906
+*RIC:	they talk a lot of Spanish in the second one . 1328183_1330318
+*SEB:	<I &ha> [/] <I have seen> [/] I have seen the [//] # like part of the movies . 1333733_1337385
+*SEB:	(be)cause <I wanna> [/] I wanna see like something what happen on you know like if it likes Perfume@s:eng&spa . 1337299_1342063
+*SEB:	you saw Perfume@s:eng&spa right ? 1342142_1342816
+*RIC:	yeah . 1342895_1343479
+*SEB:	I wanna see [/] si@s:spa ellos@s:spa se@s:spa entiende(s)@s:spa como@s:spa Perfume@s:eng&spa o@s:spa si@s:spa era@s:spa como@s:spa un@s:spa tipo@s:spa de@s:spa comedy eso@s:spa . 1343509_1348509
+*SEB:	yeah you know # &=cough . 1349611_1351105
+*RIC:	I think it's more older than Perfume@s:eng&spa . 1351195_1353801
+*RIC:	like the [//] la@s:spa época@s:spa . 1354779_1356385
+*SEB:	ah@s:eng&spa . 1356352_1356812
+*RIC:	era@s:spa más@s:spa vieja@s:spa que@s:spa Perfume@s:eng&spa yeah . 1356621_1358655
+*SEB:	+< yeah ? 1357722_1358116
+*SEB:	vi@s:spa la@s:spa &pa [///] ese@s:spa trabaja@s:spa ese@s:spa tipo@s:spa de@s:spa Shoot_'Em_Up@s:eng&spa ? 1358887_1361775
+*RIC:	yeah yeah yeah Shoot_'Em_Up@s:eng&spa . 1362325_1363370
+*SEB:	+< yeah that guy works there . 1362718_1364550
+*RIC:	+< Clive@s:eng&spa Owen@s:eng&spa . 1364257_1365246
+*SEB:	which one ? +/. 1366112_1367101
+*RIC:	+< <have you> [/] have you seen Bad_Boys_Two@s:eng&spa ? 1366460_1368741
+*SEB:	yeah . 1368794_1369479
+*RIC:	you know el@s:spa [/] <el@s:spa bad guy> [/] the bad guy in part two ? 1369490_1372681
+*SEB:	&=mumble . 1372445_1373411
+*RIC:	[- spa] el que tiene [//] el [/] el cubano que tiene pelo largo . 1373052_1375512
+*SEB:	+< oh yeah . 1375288_1375928
+*RIC:	[- spa] el malo . 1375715_1376220
+*SEB:	[- spa] el que dice que le va a dar un millón de pesos a al que lo saque de la cárcel . 1376231_1380007
+*RIC:	yeah yeah yeah &=laugh . 1379872_1381884
+*RIC:	um@s:eng&spa el@s:spa es@s:spa el@s:spa malo@s:spa en@s:spa The_Golden_Age@s:eng&spa . 1382131_1385018
+*SEB:	oh yeah ? 1385625_1386445
+*RIC:	[- spa] +< el es rey de España el malo . 1385883_1388164
+*SEB:	oh@s:eng&spa . 1388273_1389666
+*RIC:	+< yeah . 1389228_1389812
+*SEB:	[- spa] el [/] el flaco . 1390082_1391171
+*RIC:	yeah . 1391801_1392817
+*SEB:	[- spa] en [/] en esa no es en la que +/. 1394194_1396441
+*RIC:	that's why when the little girl's like daddy look at the dress . 1395610_1398958
+*RIC:	and then he's like you're beautiful . 1399272_1401295
+*RIC:	and <the guy> [/] the [//] his friend laughs . 1401408_1403169
+*RIC:	and he's like no@s:spa hagas@s:spa caso@s:spa el@s:spa es@s:spa un@s:spa mamapinga@s:spa . 1403380_1405874
+*SEB:	+< &=laugh . 1405795_1407276
+*RIC:	huh@s:eng&spa . 1406290_1406930
+*SEB:	en@s:spa esa@s:spa no@s:spa es@s:spa en@s:spa la@s:spa que@s:spa el@s:spa er@s:eng&spa [//] destruyen@s:spa toda@s:spa la@s:spa flo(ta)@s:spa a@s:spa España@s:spa ? 1408595_1411381
+*RIC:	when what ? 1412224_1412853
+*SEB:	[- spa] que le [?] destruyen toda la flota a España . 1412842_1415066
+*RIC:	yeah . 1415055_1415538
+*SEB:	[- spa] es en esa ? 1415647_1416669
+*SEB:	que@s:spa creo@s:spa que@s:spa es@s:spa # la@s:spa uh@s:eng&spa [/] la@s:spa destrucción@s:spa más@s:spa grande@s:spa que@s:spa ha@s:spa tenido@s:spa España@s:spa de@s:spa [/] de@s:spa la@s:spa guerra@s:spa . 1416834_1423665
+*SEB:	[- spa] esa no es la que queman la gente viva porque son católico(s) o algo de eso ? 1423916_1426983
+*RIC:	yeah yeah that's it . 1427036_1429092
+*SEB:	[- spa] que +/. 1429249_1429912
+*RIC:	+< but they [/] they don't show it . 1429407_1430508
+*RIC:	but yeah they talk about it . 1430496_1431541
+*SEB:	yeah . 1431485_1432193
+*RIC:	eh@s:eng&spa eh@s:eng&spa esa@s:spa clase@s:spa de@s:spa películas@s:spa me@s:spa confunden@s:spa . 1433953_1437043
+*RIC:	pero@s:spa like I watch them with my girlfriend and she explains . 1437065_1440459
+*SEB:	yeah ? 1440560_1440987
+*RIC:	+< what's going on yeah . 1440863_1441796
+*SEB:	+< she knows about it ? 1441638_1442649
+*RIC:	she's good with it . 1443267_1444582
+*SEB:	I have seen the [//] # <this &dok> [/] es@s:spa u(n)@s:spa [/] es@s:spa un@s:spa era@s:spa un@s:spa documental@s:spa . 1446267_1450706
+*SEB:	<de@s:spa lo@s:spa que@s:spa le@s:spa pasó@s:spa> [//] de@s:spa lo@s:spa que@s:spa pasó@s:spa en@s:spa realidad@s:spa con@s:spa [/] # con@s:spa this guy uh@s:eng&spa # el@s:spa que@s:spa adivina@s:spa el@s:spa futuro@s:spa . 1451454_1459604
+*SEB:	Nostradamus@s:eng&spa . 1459705_1461447
+*RIC:	who ? 1461458_1461930
+*RIC:	Nostradamus@s:eng&spa . 1461930_1462739
+*SEB:	+< Nostradamus@s:eng&spa . 1462020_1462739
+*SEB:	that xxx ese@s:spa documental@s:spa estaba@s:spa duro@s:spa duro@s:spa . 1464750_1467818
+*RIC:	Elizabeth@s:eng&spa goes to him # to find out like what's gonna happen in the future . 1467806_1472379
+*SEB:	the what ? 1472514_1473188
+*RIC:	Elizabeth@s:eng&spa . 1473244_1473975
+*SEB:	[- spa] +< ajá . 1473862_1474525
+*RIC:	she [/] ella@s:spa va@s:spa a@s:spa Nostradamus@s:eng&spa . 1474660_1476244
+*SEB:	[- spa] oh sí ? 1476256_1477728
+*RIC:	un@s:spa [//] no@s:spa [/] no@s:spa sé@s:spa si@s:spa es@s:spa Nostradamus@s:eng&spa pero@s:spa un@s:spa profeta@s:spa . 1477814_1480960
+*SEB:	[- spa] ajá . 1480814_1481600
+*RIC:	[- spa] +< pa(ra) que le diga lo que va a pasar en el futuro . 1481229_1483342
+*SEB:	oh@s:eng&spa . 1483420_1484285
+*SEB:	[- spa] <él le dice> [/] él le dice a un rey # <que es lo que> [//] lo que le va a pasar . 1484626_1489030
+*SEB:	[- spa] y en realidad le pasa algo al rey . 1489281_1490685
+*SEB:	[- spa] y entonces es cuando la gente se pone . 1490652_1492348
+*RIC:	yeah . 1492494_1492978
 @End
