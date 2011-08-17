@@ -12,17 +12,23 @@
 @Media:	zeledon9, audio
 @Comment:	Filename: zeledon9.CHA; Soundfile: zeledon9.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+%eng:	
 *GIL:	ah@s:eng&spa Jacky@s:eng&spa está@s:spa en@s:spa Colombia@s:spa para@s:spa navidad@s:spa un@s:spa año@s:spa . 6_5132
+%eng:	
 *GIL:	um yo@s:spa (.) fui@s:spa la@s:spa día@s:spa primero@s:spa un@s:spa poquito@s:spa días@s:spa de@s:spa navidad@s:spa . 5123_11219
+%eng:	
 *GIL:	&i and then um I stayed there for a week or like couple days or something like +... 11292_17105
 *GIL:	I came like a week before christmas you know . 17076_19191
 *CHA:	uhuh yes . 18802_19789
 *GIL:	and so I stayed for like a week and a half . 19216_21108
 *GIL:	and when I came back I opened all my presents and stuff . 21087_23571
 *CHA:	[- spa] chevere . 23545_25205
+%eng:	
 *CHA:	[- spa] y cómo [///] qué [/] qué te dieron ? 25193_26999
+%eng:	
 *CHA:	you know . 26976_27661
 *CHA:	[- spa] en Colombia qué te dieron de regalos para navidad ? 27645_30461
+%eng:	
 *GIL:	don't remember . 30451_32686
 *CHA:	you [//] of course you remember . 32677_34743
 *CHA:	you remember of course . 34716_36754
@@ -33,7 +39,9 @@
 *CHA:	it was so fun . 45289_46584
 *CHA:	my good childhood memories . 46567_48407
 *GIL:	so (.) when [//] (.) cuándo@s:spa tú@s:spa cogiste@s:spa tus@s:spa braces ? 51186_55365
+%eng:	
 *CHA:	yo@s:spa mis@s:spa braces me@s:spa lo@s:spa colocaron@s:spa hace@s:spa tres@s:spa semanas@s:spa . 55351_60752
+%eng:	
 *GIL:	cool . 60719_61178
 *CHA:	my dentist she said I had to take very good care of (th)em . 61178_64736
 *CHA:	and they hurt you know horribly . 64733_67247
@@ -41,11 +49,13 @@
 *GIL:	sometimes no soda no popcorn no gum no tootsie rolls I could go on and on . 70648_76095
 *CHA:	it's horrible . 76068_77583
 *CHA:	[- spa] pero te tienes que acostumbrar a eso . 77550_80998
+%eng:	
 *GIL:	yeah I'm gonna get my top braces on soon during the summer . 81001_84977
 *CHA:	oh . 84951_86216
 *CHA:	I &s [/] I [/] I'm sure you'll be fine you know . 86195_89255
 *GIL:	so what's your favourite colour ? 89249_91403
 *CHA:	my favourite colour is rosado@s:spa . 91377_94860
+%eng:	
 *CHA:	it's [/] it's um a very pretty colour . 94850_98404
 *CHA:	it would translate to pink . 98393_100465
 *CHA:	xxx what about yours ? 100453_102450
@@ -57,6 +67,7 @@
 *GIL:	I sing . 114156_115456
 *GIL:	and sometimes I go play golf . 115452_118216
 *CHA:	[- spa] muy chevere . 118201_119496
+%eng:	
 *CHA:	<my hobbies are> [///] I +/. 119490_121905
 *GIL:	and swimming . 120964_122096
 *CHA:	I [/] I love to play basketball . 122075_126546
@@ -65,37 +76,63 @@
 *CHA:	you know in the pool it's very very fun . 132759_135882
 *GIL:	I know . 135868_136263
 *GIL:	remember the other day when we [//] (.) cuando@s:spa nosotros@s:spa fuimos@s:spa a@s:spa la@s:spa piscina@s:spa aquí@s:spa ? 136245_141919
+%eng:	
 *GIL:	[- spa] y fue tan chevere . 141886_143413
+%eng:	
 *GIL:	[- spa] te acuerdas ? 143403_144280
+%eng:	
 *CHA:	+< just said +"/. 143409_144309
 *CHA:	[- spa] +" tan chevere . 144297_145864
+%eng:	
 *GIL:	[- spa] estamos haciendo como vueltas y todo eso en la piscina . 145850_149341
+%eng:	
 *CHA:	[- spa] estamos nadando mucho . 149288_151163
+%eng:	
 *GIL:	mmhm . 151169_151802
 *CHA:	[- spa] también nos [/] nos soliamos un poquito . 151776_153634
+%eng:	
 *CHA:	we got a great tan . 153628_155306
 *GIL:	hablamos@s:spa mucho@s:spa de@s:spa la@s:spa parque@s:spa de@s:spa café@s:spa Sergio@s:eng&spa Diana@s:eng&spa . 155298_159300
+%eng:	
 *GIL:	[- spa] y hablamos de las tías . 159109_161378
+%eng:	
 *CHA:	sí@s:spa let's talk about our aunts . 161364_163390
+%eng:	
 *CHA:	well (.) you're mom (.) my tía@s:spa Ana@s:eng&spa is so nice you know . 163378_170537
+%eng:	
 *GIL:	+< yo@s:spa &te &=stutter &kl (.) Ana@s:eng&spa Howell@s:eng&spa . 165904_169272
+%eng:	
 *GIL:	[- spa] que yo sé . 170516_171579
+%eng:	
 *GIL:	[- spa] ella es muy chevere . 171451_172490
+%eng:	
 *CHA:	she's very muy@s:spa chevere@s:spa . 172478_174522
+%eng:	
 *GIL:	[- spa] es muy linda . 174501_176004
+%eng:	
 *GIL:	e@s:spa mi@s:spa tía@s:spa Francesca@s:eng&spa (.) es@s:spa muy@s:spa linda@s:spa . 175896_178951
+%eng:	
 *GIL:	tiene@s:spa dos@s:spa niños@s:spa Sergio@s:eng&spa y@s:spa David@s:eng&spa . 178945_181523
+%eng:	
 *CHA:	xxx . 181474_182293
 *GIL:	+< David@s:eng&spa tiene@s:spa cuatro@s:spa años@s:spa . 181503_183785
+%eng:	
 *GIL:	y@s:spa Sergio@s:eng&spa tiene@s:spa (.) diecisiete@s:spa . 183770_186869
+%eng:	
 *CHA:	[- spa] +< diecisiete . 185035_186289
+%eng:	
 *CHA:	well +/. 186866_187887
 *GIL:	y@s:spa yo@s:spa tengo@s:spa mi@s:spa tía@s:spa Magdalena@s:eng&spa . 187564_189834
+%eng:	
 *CHA:	that's my mom . 189779_191590
 *GIL:	+< y@s:spa ella@s:spa tiene@s:spa (.) u(n) [//] dos@s:spa hijas@s:spa . 190382_192968
+%eng:	
 *GIL:	una@s:spa que@s:spa se@s:spa llama@s:spa Valerie@s:eng&spa que@s:spa es@s:spa cinco@s:spa años@s:spa y@s:spa que@s:spa está@s:spa en@s:spa kinder(garten)@s:eng&spa . 192954_197971
+%eng:	
 *GIL:	y@s:spa otra@s:spa que@s:spa se@s:spa llama@s:spa the lovely Chantal@s:eng&spa que@s:spa es@s:spa twelve . 197968_202736
+%eng:	
 *GIL:	y@s:spa está@s:spa en@s:spa (.) sixth grade . 202730_205367
+%eng:	
 *CHA:	yes sixth grade . 205358_207477
 *CHA:	well um let's talk about our uncles by marriage . 207473_212146
 *CHA:	well let's talk about uncle dad your dad . 212144_215302
@@ -103,15 +140,19 @@
 *GIL:	+< oh my dad . 215263_216424
 *GIL:	so it's like uncle slash dad right ? 219295_221327
 *CHA:	[- spa] sí . 221269_221698
+%eng:	
 *CHA:	[- spa] yo lo amo mucho . 221682_223836
+%eng:	
 *GIL:	I know he's like so cool . 223815_226027
 *CHA:	+< I love him very much . 224128_225742
 *CHA:	he's very very cool . 225610_227439
 *GIL:	remember yesterday when he took us like (.) shopping ? 227288_231051
 *CHA:	that was fun . 231042_232151
 *CHA:	[- spa] +" de compras . 232128_233138
+%eng:	
 *CHA:	as he would say in Spanish +". 233126_234798
 *GIL:	you know these old jeans estaban@s:spa tan@s:spa lindos@s:spa . 234771_238842
+%eng:	
 *CHA:	I love the jeans . 238842_240775
 *CHA:	let's talk about Andrew@s:eng&spa now . 240760_243257
 *CHA:	um he's [/] he's new in our family . 243249_247121
@@ -134,20 +175,27 @@
 *CHA:	I know . 266584_267148
 *CHA:	he is not afraid to sit down with you and laugh . 267130_269557
 *CHA:	[- spa] él es muy chistoso . 269553_271585
+%eng:	
 *CHA:	y@s:spa también@s:spa nació@s:spa en@s:spa Honduras@s:eng&spa which makes him much more funnier because they say a lot of good jokes . 271563_278149
+%eng:	
 *GIL:	so let's move on to you and me . 278145_280525
 *GIL:	you've been here (.) since (.) Thursday (.) last Thursday which was the nineteenth . 280516_289374
 *CHA:	+< yes . 284652_285552
 *CHA:	[- spa] el +... 287353_288473
+%eng:	
 *CHA:	el@s:spa diecinueve@s:spa exactly . 289351_291110
+%eng:	
 *GIL:	no it was the twentieth . 290803_292892
 *CHA:	yeah no it was the nineteenth . 292878_294126
 *GIL:	yeah the nineteenth . 294103_295572
 *GIL:	and um (.) you actually got there . 295551_298803
 *GIL:	and we started decorating for my easter party class . 298780_303361
 *CHA:	[- spa] sí el [/] el día de pascua . 303353_305378
+%eng:	
 *CHA:	así@s:spa no@s:spa para@s:spa celebrar@s:spa de@s:spa Jesus@s:spa y@s:spa también@s:spa del@s:spa easter bunny . 305275_309398
+%eng:	
 *GIL:	yeah &e yo@s:spa [///] fue@s:spa tan@s:spa chevere@s:spa . 309390_312722
+%eng:	
 *GIL:	like we had the party and everything . 312717_314429
 *GIL:	and we wrote this really funny letter to uncle dad slash dad . 314408_318525
 *GIL:	and can I tell them about it ? 318503_320402
@@ -180,6 +228,7 @@
 *CHA:	&=sigh . 363489_364273
 *GIL:	+" happy easter . 364273_365486
 *GIL:	+" dear tía@s:spa slash mommy . 365475_367303
+%eng:	
 *GIL:	+" happy easter . 367271_368240
 *GIL:	+" we love you . 368228_369198
 *GIL:	+" you have been very good with both of us . 369176_371353
@@ -191,21 +240,30 @@
 *GIL:	+" five dollars per joke L_O_L . 385555_388428
 *CHA:	+< &=laughs that is so funny you know . 386995_389647
 *CHA:	[- spa] &ela mucha creatividad en nuestras cabezas . 389638_393169
+%eng:	
 *CHA:	we have a lot of creativity . 393166_394699
 *GIL:	do you remember when we went ice skating today ? 394686_398238
 *CHA:	oh@s:eng&spa patinando@s:spa en@s:spa el@s:spa hielo@s:spa . 398229_400429
+%eng:	
 *CHA:	that was fun . 400418_402478
 *CHA:	that was really fun . 402470_403631
 *GIL:	yeah remember after the zamboni came it was like so glossy . 403626_407016
 *CHA:	[- spa] sí . 406996_407780
+%eng:	
 *CHA:	it was really fun you know . 407763_409498
 *GIL:	[- spa] yo sé . 409472_410029
+%eng:	
 *GIL:	[- spa] te acuerdas cuando llegamos a la casa ? 410012_412119
+%eng:	
 *GIL:	[- spa] y después mi papi (.) ponió (.) un huevos (.) con (.) plata adentro . 412102_419861
+%eng:	
 %com:	in the previous line GIL says ponió instead of puso
 *GIL:	[- spa] fue cuatro huevos . 419851_422094
+%eng:	
 *GIL:	[- spa] tres tenían un dolar . 422076_423719
+%eng:	
 *GIL:	[- spa] y solo una de la cuatro tenía diez adentro . 423699_425945
+%eng:	
 *CHA:	+< I know . 426418_427753
 *CHA:	I know . 427738_428574
 *CHA:	that was so fun you know hunting for money . 428562_432314
@@ -218,6 +276,7 @@
 *CHA:	um so well it's been really fun these couple days I've been here . 440426_445431
 *CHA:	I've been practicing my Spanish a lot . 445417_447675
 *CHA:	mucho@s:spa español@s:spa con@s:spa mi@s:spa tía@s:spa y@s:spa Juanjo@s:eng&spa and you . 447663_451949
+%eng:	
 *GIL:	+< yeah . 450916_452129
 *GIL:	we've been lately watching home videos of me . 451998_455284
 *GIL:	and I was about three or two and a half in one . 455275_459089
@@ -237,6 +296,7 @@
 *CHA:	very peaceful . 493974_495071
 *GIL:	+< you know . 494200_494885
 *CHA:	[- spa] mucha paz en la familia . 495042_497416
+%eng:	
 *GIL:	&=laughs . 496301_497137
 *GIL:	very peaceful . 497407_498382
 *GIL:	but we love them so much . 498382_500431
@@ -249,21 +309,28 @@
 *GIL:	and she's about to graduate kinder . 515348_517437
 *CHA:	she's [//] I know she's so big for her age . 517411_519936
 *CHA:	[- spa] es muy grande muy muy grande para su edad . 519717_523022
+%eng:	
 *GIL:	+< she's very talkative . 522169_523818
 *GIL:	they live in New_Jersey [=! laughs] . 523812_525606
 *CHA:	yeah in New_Jersey . 525584_526809
 *CHA:	xxx said mucha@s:spa gente@s:spa que@s:spa habla@s:spa español@s:spa allá@s:spa . 526804_530240
+%eng:	
 *GIL:	I know that's like so surprising . 530232_532978
 *CHA:	[- spa] +< mucha gente . 530400_531677
+%eng:	
 *CHA:	[- spa] yo sé . 532614_533392
+%eng:	
 *CHA:	I mean casi@s:spa todo@s:spa el@s:spa mundo@s:spa de@s:spa los@s:spa países@s:spa suramericanos@s:spa se@s:spa van@s:spa para@s:spa New_Jersey or New_York you know . 533387_540501
+%eng:	
 *GIL:	yeah I know remember when we +/. 540493_542884
 *CHA:	+< porque@s:spa there's a lot of chance of jobs . 540818_543773
+%eng:	
 *GIL:	remember when we went to New_York ? 542861_545264
 *GIL:	and like we went in all these awesome stores like the M_and_M store . 545233_549716
 *GIL:	it had like four floors . 549712_551848
 *CHA:	I know all chocolate . 551821_553644
 *CHA:	[- spa] mucho mucho chocolate . 553621_556401
+%eng:	
 *GIL:	there's this one floor that you had (.) a total view of Times_Square@s:eng&spa . 556387_563414
 *GIL:	serious . 563427_564042
 *CHA:	I know it was fun . 564031_566103
@@ -287,26 +354,37 @@
 *CHA:	how do you say hamburger in Spanish ? 602244_604218
 *CHA:	I'm just wondering . 604177_605193
 *GIL:	[- spa] hamburguesa . 605164_606076
+%eng:	
 *CHA:	that's muy@s:spa chevere@s:spa . 606079_608766
+%eng:	
 *CHA:	so why don't we talk about our grandfather . 608761_611361
 *GIL:	yeah we have (.) um a grandfather named abuelito@s:spa Alfredo@s:eng&spa . 611347_617212
+%eng:	
 *CHA:	+< (Al)fredo@s:eng&spa . 615858_616880
 *GIL:	he is very cool . 617199_620044
 *CHA:	+< yes muy@s:spa muy@s:spa chistoso@s:spa . 617449_620816
+%eng:	
 *GIL:	he's pretty much the only grandfather we have . 620818_624557
 *CHA:	[- spa] +< &h tú te sientas con él +... 620928_623285
+%eng:	
 *CHA:	[- spa] tú te sientas con él y te ríes por años y años . 624566_628463
+%eng:	
 *CHA:	[- spa] porque él es una persona muy muy chistosa . 628448_631844
+%eng:	
 *CHA:	very funny you know . 631824_633211
 *CHA:	he makes us laugh (un)til we drop . 633205_635986
 *GIL:	let's talk about our grandmothers . 635977_638160
 *GIL:	let's start with Marge@s:eng&spa Howell@s:eng&spa . 637867_640432
 *CHA:	Marge@s:eng&spa well she is ver(y) [///] let's start [///] she's a very good cook . 640406_645743
 *CHA:	[- spa] cocina super rico . 645741_648341
+%eng:	
 *GIL:	+< yes . 646501_647238
 *GIL:	[- spa] rico sí . 648339_649500
+%eng:	
 *GIL:	[- spa] &e nosotros [//] yo y ella estamos muy [//] (.) mucho tiempo con nosotros en la casa de ella haciendo chevere cosas . 649506_660649
+%eng:	
 *GIL:	y@s:spa <a@s:spa mí@s:spa me@s:spa> [//] a@s:spa nosotros@s:spa les@s:spa gusta@s:spa hacer@s:spa como@s:spa cakes and stuff . 660643_664930
+%eng:	
 *GIL:	it's awesome . 664825_665743
 *CHA:	I know you guys cook a lot you know since she's from the south of Texas@s:eng&spa . 665705_669704
 *GIL:	I know she makes the best cornbread . 669695_672185
@@ -319,6 +397,7 @@
 *GIL:	P_O_V . 676642_677849
 *CHA:	point of view . 677846_679472
 *GIL:	so let's move on to abuelito@s:spa [//] abuelita@s:spa Anita@s:eng&spa . 679458_684354
+%eng:	
 *CHA:	+< Anita@s:eng&spa . 683390_684394
 *CHA:	well she is dedicated to God one hundred and ten percent . 684338_690192
 *GIL:	+< she is like dedicated . 686279_688909
@@ -326,8 +405,11 @@
 *GIL:	you know ? 693302_693982
 *CHA:	no she is a great person . 693325_695885
 *CHA:	and te@s:spa enseña@s:spa mucho@s:spa . 695858_698546
+%eng:	
 *CHA:	[- spa] te enseña mucho de Dios (.) mucho mucho de Dios . 698530_702492
+%eng:	
 *GIL:	y@s:spa ella@s:spa le@s:spa encanta@s:spa ir@s:spa a@s:spa la@s:spa iglesia@s:spa las@s:spa cuatro@s:spa de@s:spa la@s:spa mañana@s:spa praying like literally praying praying . 702475_710643
+%eng:	
 *CHA:	+< four o'clock in the morning . 707059_709265
 *CHA:	you know her life is praying praying from three o'clock in the morning (un)til midnight . 709731_715790
 *CHA:	she's (.) very very amazing . 715786_718282
@@ -340,6 +422,7 @@
 *CHA:	so my first language was Spanish . 740702_743477
 *GIL:	yeah . 743456_744321
 *CHA:	[- spa] español (.) es mi prioridad en mis idiomas . 744327_748966
+%eng:	
 *CHA:	but you know I've immuned to English more than Spanish . 748941_754515
 *GIL:	over the years I had noticed that at first you were like blanked out on the English . 754482_759755
 *GIL:	and I'm like +... 759723_760600
@@ -360,6 +443,7 @@
 *GIL:	my home language is English . 795733_797619
 *GIL:	but I've [//] my first word was in Spanish . 797604_799897
 *GIL:	it was agua@s:spa . 799879_800994
+%eng:	
 *CHA:	I'm guessing that means water . 800986_803262
 *CHA:	translation . 803250_804997
 *GIL:	duh . 803726_805084
@@ -368,6 +452,7 @@
 *GIL:	um (.) he was born in Tyler@s:eng&spa Texas@s:eng&spa . 813344_817088
 *GIL:	he only spent a couple years though there though you know . 817080_820528
 *GIL:	[- spa] fue [/] fue muy [//] mucho calor . 820484_823172
+%eng:	
 *GIL:	he said and you know he said he had a good childhood there . 823133_826340
 *GIL:	but he spent most of his years here in Florida@s:eng&spa &h and Atlanta@s:eng&spa and California@s:eng&spa and a lot of different places you know . 826396_835143
 *CHA:	yes . 835135_835913
@@ -379,11 +464,14 @@
 *GIL:	and she had two sisters . 854209_856322
 *CHA:	+< yes I know . 854569_855590
 *CHA:	y@s:spa mamá@s:spa también@s:spa me@s:spa dijo@s:spa de@s:spa [/] <de@s:spa la@s:spa> [/] de@s:spa la@s:spa farm . 856318_860759
+%eng:	
 *CHA:	she [//] <ella@s:spa me@s:spa &di> [//] she told me it was big . 860732_863617
+%eng:	
 *CHA:	what did your mom tell you about the farm ? 863608_865669
 *GIL:	my mom told me that (.) &s they didn't have pools you know . 865663_869764
 *GIL:	so she'd just take a like a swim in the pond . 869744_872762
 *CHA:	in the pond en@s:spa el@s:spa lago@s:spa . 872730_875092
+%eng:	
 *CHA:	ugh that sounds stinky . 875077_876963
 *CHA:	I can't go swim in a pond . 876963_878554
 *GIL:	yeah so the rest of my mom's background is now she's remarried to Andrew@s:eng&spa as we talked about earlier . 878540_885839
@@ -403,19 +491,23 @@
 *CHA:	that's their main country . 924685_925823
 *GIL:	that's cool . 925817_926351
 *CHA:	[- spa] y hablamos mucho español . 926342_928234
+%eng:	
 *GIL:	cool . 928229_928519
 *CHA:	[- spa] en mi casa . 928357_930534
+%eng:	
 *CHA:	we speak Spanish . 930529_932558
 *CHA:	but since I go to school of course I have to speak most of my time in English . 932558_937011
 *GIL:	so (.) um let's see . 936968_940481
 *GIL:	what else can we talk about ? 940458_942501
 *GIL:	so (.) um (.) who is [//] what is your favourite number ? 942499_948938
 *CHA:	my favourite number is nueve@s:spa nine (be)cause that was the day I was born . 948900_954616
+%eng:	
 *CHA:	February ninth . 954598_956137
 *CHA:	so that's my favourite number . 956121_958507
 *CHA:	it's just very weird . 958481_960141
 *CHA:	but that's my favourite number . 960135_962260
 *CHA:	[- spa] mi favorito número . 962250_964224
+%eng:	
 %com:	silent pause
 *CHA:	so what about you ? 965800_967327
 *CHA:	tell me about your birthday . 967321_969022
@@ -427,6 +519,7 @@
 *CHA:	wow . 988138_988968
 *GIL:	+< like awesome . 988271_989351
 *CHA:	[- spa] tú fuiste el regalo de ella . 988889_990996
+%eng:	
 *CHA:	you were her birthday present . 991013_992685
 *GIL:	+< yeah I was her birthday present like four days late birthday present . 991724_995154
 *CHA:	that was great . 994523_996137
@@ -442,9 +535,11 @@
 *GIL:	but you know he still has little hairs sticking up . 1018634_1021618
 *CHA:	you know I saw that picture . 1021617_1023329
 *CHA:	[- spa] yo vi esa foto de él con pelo largo y mono . 1023318_1027819
+%eng:	
 *GIL:	+< yeah I know . 1025509_1026310
 *GIL:	I know like back +//. 1027784_1029081
 *GIL:	no no mono@s:spa . 1029058_1030062
+%eng:	
 *GIL:	no it wasn't blond . 1030062_1031635
 *CHA:	yes it was . 1031620_1032392
 *GIL:	no it wasn't ! 1032381_1033362
@@ -452,6 +547,7 @@
 *GIL:	+< it was orange . 1034755_1036154
 *CHA:	ok orange . 1036145_1038223
 *CHA:	[- spa] en la foto con él con el pelo largo y naranja . 1038202_1041325
+%eng:	
 *GIL:	yeah it was like down to his butt . 1039473_1041795
 *GIL:	I'm serious . 1041714_1042440
 *CHA:	wow . 1042413_1044875
@@ -467,12 +563,15 @@
 *GIL:	yeah cool . 1067969_1069542
 *CHA:	yes so <what about> [//] what did you think about that (.) uh rainstorm today ? 1069533_1077780
 *CHA:	[- spa] cómo cayó la lluvia . 1077752_1079766
+%eng:	
 *GIL:	I know that rainstorm totally wiped out . 1079734_1082346
 *CHA:	totally ruined our egg hunt . 1082301_1085332
 *GIL:	you know and then like um you know the movie Ten_thousand_b_c@s:eng&spa ? 1085322_1090839
 *GIL:	wasn't it awesome ? 1090801_1092374
 *CHA:	[- spa] pues súper chévere . 1092372_1094734
+%eng:	
 *GIL:	[- spa] +< chévere . 1093875_1094647
+%eng:	
 *CHA:	I know you know . 1094724_1096158
 *GIL:	jinx you owe me a soda . 1095711_1096895
 *CHA:	oh ok I'll give you that soda later . 1096874_1100671
@@ -509,7 +608,9 @@
 *CHA:	really ? 1168699_1170626
 *GIL:	yeah . 1170620_1171178
 *CHA:	[- spa] sí ? 1171168_1172091
+%eng:	
 *CHA:	también@s:spa hay@s:spa una@s:spa [/] una@s:spa tienda@s:spa &k en@s:spa Colombia@s:eng&spa que@s:spa se@s:spa llama@s:spa Azucar@s:eng&spa (.) which translates to sugar . 1172058_1179102
+%eng:	
 *CHA:	it's so cute there . 1179080_1181840
 *CHA:	I love that store . 1181834_1183361
 *CHA:	I love that store . 1183349_1187102
@@ -517,15 +618,21 @@
 *GIL:	it's awesome . 1187087_1189815
 *GIL:	&u look like you know um what is your favourite thing to do in Columbia@s:eng&spa ? 1189809_1195159
 *CHA:	oh my favourite thing to do mi@s:spa favorita@s:spa cosa@s:spa de@s:spa hacer@s:spa es@s:spa estar@s:spa con@s:spa mi@s:spa familia@s:spa . 1195157_1203635
+%eng:	
 *CHA:	[- spa] yo (.) adoro estar con mi familia . 1203621_1206935
+%eng:	
 %com:	GIL is whispering to someone in background
 *CHA:	ellos@s:spa son@s:spa lo@s:spa [/] lo@s:spa &ma [//] they're the best . 1206891_1210148
+%eng:	
 *CHA:	that's all I can say . 1210133_1212478
 *CHA:	I also love about Columbia@s:eng&spa is that it's beautiful climate . 1212470_1219011
 *CHA:	and there's great great [//] (.) there's a lot of fun things to do you know like el@s:spa parque@s:spa el@s:spa café@s:spa the rivers . 1219000_1230356
+%eng:	
 *CHA:	y@s:spa a@s:spa veces@s:spa también@s:spa Cartagena@s:eng&spa . 1230356_1232550
+%eng:	
 *GIL:	but the best thing about it [=! whispers] +... 1232531_1235329
 *CHA:	but the best thing I love to do is hang out with my abuelito@s:spa Alfredo@s:eng&spa . 1235327_1239106
+%eng:	
 *CHA:	he's like my dad you know . 1239091_1240873
 *CHA:	he raised me since I was a little girl . 1240844_1243015
 *CHA:	and I love him . 1242996_1244807
@@ -534,17 +641,23 @@
 *GIL:	and (.) what do you have to say about Anahí@s:eng&spa ? 1249039_1252853
 *CHA:	his girlfriend . 1252832_1254243
 *CHA:	la@s:spa [/] la@s:spa novia@s:spa de@s:spa abuelito@s:spa Alfredo@s:eng&spa . 1254231_1256681
+%eng:	
 *CHA:	well la@s:spa primera@s:spa cosa@s:spa (.) ella@s:spa es@s:spa muy@s:spa muy@s:spa linda@s:spa xxx . 1256661_1261905
+%eng:	
 *CHA:	she's super nice . 1261890_1264142
 *CHA:	and she has the cutest dog ever . 1264127_1267796
 *CHA:	it's so fluffy . 1267780_1270474
 *CHA:	she is so pretty . 1270459_1272276
 *CHA:	[- spa] es muy muy bella ella . 1272189_1274134
+%eng:	
 *CHA:	[- spa] muy bella . 1274125_1277857
+%eng:	
 %com:	GIL whispers in background
 *CHA:	she [//] and she's very [/] (..) she's very (.) pleasant to be around with . 1277848_1287746
 *CHA:	and she [///] Anahí@s:eng&spa ya@s:spa xxx con@s:spa mi@s:spa abuelito@s:spa Alfredo@s:eng&spa de@s:spa novios@s:spa . 1287738_1292242
+%eng:	
 *GIL:	yeah remember once when you [/] you and me went with my mom para@s:spa la@s:spa [//] para@s:spa un@s:spa parque@s:spa . 1292227_1298795
+%eng:	
 *GIL:	it was like so cool . 1298750_1299830
 *GIL:	and my mom you and me first went on this cool ride &u where you like sit down . 1299826_1305122
 *GIL:	and there's this little rope that you hold on to . 1305100_1307190
@@ -603,6 +716,7 @@
 *CHA:	she's very funny person . 1423340_1424809
 *GIL:	+< yeah . 1423491_1424106
 *CHA:	[- spa] muy muy chistosa . 1424791_1426399
+%eng:	
 *GIL:	+< yeah . 1425180_1425790
 *GIL:	um during the easter egg hunt at my school the last day before spring break +... 1426379_1430802
 *CHA:	mmhm . 1430221_1430721
@@ -612,6 +726,7 @@
 *CHA:	oh my gosh . 1438498_1440657
 *CHA:	kids are really funny in your school (.) really funny in your school . 1440651_1445020
 *CHA:	hablando@s:spa de@s:spa tu@s:spa colegio@s:spa (.) tu@s:spa colegio@s:spa is really big and really outdoors . 1444991_1451374
+%eng:	
 *CHA:	and <it's very> [/] it's very exposed to the outdoors . 1451365_1456586
 *GIL:	I know . 1456566_1457176
 *GIL:	you know the second floor when you're heading to the library and the fifth grade hallway and the administrated office ? 1457164_1463958
@@ -623,7 +738,9 @@
 *CHA:	um your school +... 1475862_1478106
 *GIL:	what's your favourite holiday ? 1478100_1480219
 *CHA:	christmas of course christmas navidad@s:spa . 1480206_1483439
+%eng:	
 *CHA:	pero@s:spa I prefer christmas in Columbia@s:eng&spa . 1483435_1487151
+%eng:	
 *CHA:	very exciting . 1487148_1490503
 *CHA:	very exciting . 1490482_1491783
 *CHA:	what about you ? 1491765_1492839
@@ -636,6 +753,7 @@
 *GIL:	he had about thirty five years to live I think . 1508707_1511917
 *CHA:	thirty three . 1511913_1513457
 *CHA:	[- spa] treinta y tres años . 1513454_1514905
+%eng:	
 *GIL:	he started his ministry at thirty and ended at thirty three . 1514766_1518895
 *CHA:	I know . 1518885_1519796
 *CHA:	well we've talked <a lot &ab> [/] a lot about you know our thoughts and our family . 1519791_1527516
@@ -647,6 +765,7 @@
 *CHA:	I love the Rug_rats@s:eng&spa . 1541531_1544532
 *CHA:	they are so cute . 1544500_1547083
 *CHA:	[- spa] son tan lindos . 1547089_1549068
+%eng:	
 *GIL:	I like Fairly_odd_parents@s:eng&spa . 1549048_1551997
 *CHA:	magical fairies ? 1551977_1553875
 *GIL:	yes . 1553869_1554374
@@ -658,7 +777,9 @@
 *CHA:	I like Judy@s:eng&spa Bloom@s:eng&spa . 1568603_1571366
 *CHA:	I love her books . 1571369_1574213
 *CHA:	[- spa] yo amo sus libros . 1574192_1576177
+%eng:	
 *CHA:	[- spa] pero me gustaría que ella escribiera más libros en español para yo puedo practicar mi español . 1576162_1582492
+%eng:	
 *CHA:	what about you ? 1582465_1584282
 *GIL:	Mark@s:eng&spa Twain@s:eng&spa . 1584259_1585797
 *CHA:	tell me about his books . 1585777_1587350
@@ -679,6 +800,7 @@
 *CHA:	+< wow . 1615685_1616329
 *GIL:	he got out from Mark@s:eng&spa Twain@s:eng&spa because he used to um work as someone who helped like xxx and stuff . 1616318_1623686
 *CHA:	[- spa] sí ? 1623689_1624078
+%eng:	
 *GIL:	and then they shouted out +". 1623823_1625576
 *GIL:	+" Mark@s:eng&spa Twain@s:eng&spa ! 1625559_1626453
 *GIL:	so he thought that was a very interesting new name . 1626443_1628411
@@ -690,6 +812,7 @@
 *GIL:	they didn't know how tall he was . 1650464_1652025
 *GIL:	so they just added feet . 1652010_1654123
 *CHA:	I know so when they were gonna make the statue he was just this little mini guy muy@s:spa muy@s:spa chiquito@s:spa como@s:spa una@s:spa nanito@s:spa . 1654108_1661280
+%eng:	
 *CHA:	he was so &sm little . 1661271_1663554
 *CHA:	it was funny you know . 1663542_1664970
 *CHA:	I learned about that in a book (.) in [/] in my social studies class . 1664950_1669576
@@ -705,6 +828,7 @@
 *CHA:	my mom and her husband and my sister are there . 1689600_1692578
 *CHA:	well I love spending time with you guys you know . 1692563_1696446
 *CHA:	me@s:spa fascina@s:spa estar@s:spa contigo@s:spa y@s:spa con@s:spa mi@s:spa tía@s:spa with George@s:eng&spa and uncle dad . 1696438_1702135
+%eng:	
 *GIL:	yeah so just like to wrap it all up (.) because we don't have much time left . 1702130_1707495
 *GIL:	um let's see . 1707486_1709425
 *GIL:	what is +//. 1709416_1711076
@@ -734,6 +858,7 @@
 *CHA:	yeah a lawyer too . 1770317_1771728
 *CHA:	but ah [/] (.) but you know international business I can talk Spanish with people . 1771710_1777375
 *CHA:	hablar@s:spa español@s:spa or different types of languages . 1777323_1780494
+%eng:	
 *CHA:	get to travel around . 1780478_1782783
 *CHA:	I wanna learn how to speak different languages . 1782767_1785658
 *CHA:	I have a lot of goals to accomplish in my life . 1785637_1788801
@@ -742,6 +867,7 @@
 *CHA:	well that's a very (.) very interesting thing of thinking ways . 1804522_1809853
 *GIL:	yeah . 1809845_1811505
 *CHA:	[- spa] entonces ya para cerrar la conversación (.) qué [//] (.) cómo tú te sientes (.) con tu familia ? 1811484_1821856
+%eng:	
 *GIL:	I feel very warm with them . 1821841_1824744
 *GIL:	um I just love it when we can just be together and bond just by ourselves . 1824741_1830106
 *GIL:	and you know I love bonding with my parents because we get a chance to chit chat and talk about what's going on with each other and (.) about stuff that just we get comfortable around . 1830099_1844915

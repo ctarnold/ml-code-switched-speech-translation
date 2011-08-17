@@ -13,6 +13,7 @@
 @Media:	sastre12, audio
 @Comment:	Filename: sastre12.CHA; Soundfile: sastre12.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+%eng:	
 *MAD:	he goes +"/. 17_830
 *MAD:	+" Sandra@s:eng&spa made an appointment because Robert@s:eng&spa Farmer's@s:eng&spa+eng having an issue . 697_4365
 *MAD:	he's having issues . 4371_6026
@@ -21,6 +22,7 @@
 *MAD:	he goes +"/. 6955_7693
 *MAD:	+" so I'm on my way to Beech@s:eng&spa . 7681_9318
 *MAD:	+" and si@s:spa la@s:spa inepta@s:spa pregunta@s:spa (.) I'm at Beech@s:eng&spa . 9324_13208
+%eng:	
 *MAD:	but I'm going to the doctors afterward . 13184_15187
 *MAD:	+" ok &=laugh no problem . 15169_17108
 *SAM:	+< &=grunt . 15691_16266
@@ -35,6 +37,7 @@
 *MAD:	+< I was like +"/. 28056_28457
 *MAD:	+" oh my god . 28283_29061
 *SAM:	+< well está@s:spa igual@s:spa que@s:spa Derek@s:eng&spa . 28457_29751
+%eng:	
 *MAD:	yeah that after they're a block away they call you ? 30910_33133
 *SAM:	+< oh my god . 31061_32407
 *SAM:	oh@s:eng&spa you should have seen Derek@s:eng&spa today . 33046_34445
@@ -74,17 +77,24 @@
 *MAD:	the red truck is the +/. 78734_80522
 *SAM:	++ the one that you think you saw . 80440_81723
 *MAD:	that I saw un@s:spa americano@s:spa . 81721_83337
+%eng:	
 *MAD:	I saw a gringo@s:spa driving it . 83328_85625
+%eng:	
 *SAM:	[- spa] ah bueno . 85335_86200
+%eng:	
 *SAM:	yo@s:spa sé@s:spa que@s:spa he [/] he told me . 86369_87930
+%eng:	
 *MAD:	+< well it looked like his . 87779_88929
 *SAM:	I didn't know . 87912_88650
 *MAD:	let's [/] let's put it that way (be)cause it is the old kind like Alvarito's@s:eng&spa+eng . 89653_92521
 *SAM:	+< yeah . 90096_90979
 *SAM:	+< xxx . 92469_93914
 *MAD:	[- spa] xxx uno amarillo así . 92486_94652
+%eng:	
 *MAD:	[- spa] y tú dices +"/. 94582_95018
+%eng:	
 *MAD:	[- spa] +" es este . 95012_95546
+%eng:	
 *SAM:	+< right . 95244_95964
 *MAD:	you know ? 95465_96196
 *MAD:	and I was like +... 96190_97020
@@ -109,8 +119,10 @@
 *SAM:	he started cursing . 117295_119019
 *SAM:	and the funny thing is +/. 119077_121510
 *SAM:	no &=cough (en)tonces@s:spa he comes in . 121475_123112
+%eng:	
 *SAM:	and he's pacing back and forth . 123112_124284
 *SAM:	[- spa] se metió pa(ra) la oficina . 124341_125531
+%eng:	
 *SAM:	I didn't know he was there . 125514_126965
 *SAM:	so Ellie@s:eng&spa calls . 126959_128027
 *SAM:	and I'm like +"/. 128010_129037
@@ -156,6 +168,7 @@
 *SAM:	he blew up . 176339_178974
 *SAM:	he took everything out . 179050_180060
 *SAM:	[- spa] empezó a gritar . 180054_181767
+%eng:	
 *MAD:	+< and he had gone in the +/. 181918_183566
 *SAM:	++ in the Cadillac@s:eng&spa . 183415_184129
 *MAD:	+, in the Cadillac@s:eng&spa . 184042_184722
@@ -164,6 +177,7 @@
 *SAM:	+< so she's using his . 186839_188911
 *MAD:	that S_u_v@s:eng&spa . 188859_189637
 *SAM:	yeah because como@s:spa Matt@s:eng&spa le@s:spa [/] le@s:spa chocó@s:spa <el@s:spa de@s:spa> [/] el@s:spa de@s:spa ella@s:spa . 189858_193062
+%eng:	
 *MAD:	oh I didn't know that . 194298_195059
 *SAM:	yeah when he had that bad accident <with the Yer@s:eng&spa> [//] with the Yera@s:eng&spa . 195083_199031
 *MAD:	+< oh yeah you told me . 197556_198619
@@ -184,10 +198,13 @@
 *SAM:	and now she's here so (.) sometimes he needs that car home . 217189_222576
 *SAM:	and he had a fit . 222428_223937
 *SAM:	[- spa] imagínate cómo fue . 223977_226578
+%eng:	
 *SAM:	look how funny que@s:spa I'm sitting there right ? 226580_228397
+%eng:	
 *SAM:	I come back in . 228423_229410
 *SAM:	I'm sitting at my computer . 229404_230716
 *SAM:	and he's in that waiting room because como@s:spa el@s:spa Marcos@s:eng&spa no@s:spa empezó@s:spa he's waiting for Billy@s:eng&spa . 230829_235026
+%eng:	
 *SAM:	and he was blowing up . 234887_236601
 *SAM:	and he started cursing again . 236547_238817
 *SAM:	all of a sudden I see Karen@s:eng&spa Neil@s:eng&spa didn't come in today . 238815_242071
@@ -263,6 +280,7 @@
 *MAD:	I know . 330513_331662
 *SAM:	+< oh my god . 330635_331738
 *SAM:	[- spa] pero qué de eso . 333707_335065
+%eng:	
 *SAM:	I was like +"/. 335003_335496
 *SAM:	+" oh god you know . 335473_336866
 *MAD:	are you kidding Trevor@s:eng&spa xxx today . 336920_338627
@@ -285,6 +303,7 @@
 *MAD:	and I go and sit in Miriam's@s:eng&spa+eng desk . 361658_362929
 *MAD:	so I can go ahead and [/] and put everything that came in and stuff . 362912_366418
 *MAD:	when I go back mentira@s:spa my computer was working . 366343_369698
+%eng:	
 *SAM:	aw@s:eng&spa they fixed it ? 369494_371120
 *MAD:	+< they fixed it on Friday when I wasn't there . 369750_372025
 *SAM:	oh@s:eng&spa . 371703_372382
@@ -294,6 +313,7 @@
 *MAD:	+" thank you Rachel@s:eng&spa . 375290_376004
 *MAD:	and I go over +/. 376024_377045
 *MAD:	cuando@s:spa voy@s:spa pa(ra)@s:spa (a)llá@s:spa (es)tá@s:spa Trevor@s:eng&spa sentado@s:spa in the desk . 377593_380002
+%eng:	
 *MAD:	I go +"/. 379907_380360
 *MAD:	+" oh@s:eng&spa I thought you were here ! 380220_381521
 *MAD:	he goes +"/. 381455_381873
@@ -322,9 +342,12 @@
 *MAD:	+< so hopefully +"/. 398674_399806
 *MAD:	yeah they tried to fix it . 399820_400859
 *MAD:	so entonces@s:spa you know I do like the things he had picked up and stuff . 401591_406512
+%eng:	
 %com:	noise of traffic.
 *MAD:	[- spa] y cojo . 406528_407248
+%eng:	
 *MAD:	y@s:spa I finished that . 407255_409484
+%eng:	
 *MAD:	and I go +"/. 409427_410164
 *MAD:	+" my computer's working . 409905_411333
 *MAD:	+" so I guess I'm gonna go ahead and go back . 411250_413178
@@ -341,36 +364,46 @@
 *MAD:	Martha@s:eng&spa was telling me . 430730_432193
 *MAD:	and it's what it is . 432193_432953
 *MAD:	even though I [/] I (.) tú@s:spa sabes@s:spa . 433017_436208
+%eng:	
 *SAM:	yeah . 435357_436234
 *MAD:	so I don't get any of her things . 436199_438028
 *MAD:	I guess it's a little bit of that . 438025_439917
 *SAM:	+< oh that's probably what it is . 439193_441904
 *MAD:	because <ella@s:spa estaba@s:spa> [///] she showed me a picture of her daughter . 441890_444973
+%eng:	
 *MAD:	beautiful girl . 444944_445751
 *MAD:	she doesn't look eighteen . 445737_446822
 *MAD:	she looks older . 446700_447960
 *SAM:	+< &=grunt . 447008_447618
 *MAD:	[- spa] pero una muchachita linda . 447581_449473
+%eng:	
 *MAD:	I go +"/. 449415_449961
 *MAD:	[- spa] +" ay tu hija es linda . 449773_451009
+%eng:	
 *MAD:	she goes +"/. 450957_451480
 *MAD:	[- spa] +" gracias . 451404_452031
+%eng:	
 *MAD:	[- spa] a mí . 452009_452421
+%eng:	
 *MAD:	I'm like +"/. 452416_452938
 *MAD:	+" ok &=laugh . 452932_453879
 *SAM:	yeah you wish it . 453501_454825
 *MAD:	y@s:spa entonces@s:spa cuando@s:spa viene@s:spa Trevor@s:eng&spa xxx I go +"/. 454368_456231
+%eng:	
 *MAD:	+" <show her> [//] show him the picture . 456237_457613
 *MAD:	she goes +"/. 458001_458808
 *MAD:	she goes +"/. 458779_459417
 *MAD:	+" that's me . 459196_459876
 *MAD:	he goes +"/. 459847_460265
 *MAD:	+" sí@s:spa you wish that was you &=laugh . 460102_462679
+%eng:	
 *SAM:	+< &=laugh . 461373_462679
 *SAM:	Ginny@s:eng&spa [=! whisper] . 462672_465104
 *MAD:	[- spa] +< pero no de lo más linda . 463409_465470
+%eng:	
 *SAM:	uhuh . 465492_466624
 *MAD:	+< y@s:spa entonces@s:spa er@s:eng&spa that she you know again she's telling me about her stepson . 465788_471208
+%eng:	
 *MAD:	and how +//. 471291_472853
 *MAD:	she goes like +"/. 472806_473677
 *MAD:	+" we think it's can(cer) . 472806_473677
@@ -380,15 +413,21 @@
 *MAD:	but he can't sleep . 476411_477317
 *MAD:	they have to give him valium@s:eng&spa to sleep . 477317_479297
 *MAD:	dice@s:spa que@s:spa tiene@s:spa el@s:spa cuello@s:spa así@s:spa . 479290_481130
+%eng:	
 *SAM:	really ? 481113_482100
 *MAD:	[- spa] de grande . 481791_482615
+%eng:	
 *MAD:	entonces@s:spa they did an M_r_i (.) the other day . 482868_486253
+%eng:	
 *SAM:	how weird . 485651_486742
 *MAD:	and y@s:spa dice@s:spa +//. 486225_487067
+%eng:	
 *MAD:	and even though it was an open M_r_i because he's claustrophobic dice@s:spa que@s:spa he was +//. 487067_491711
+%eng:	
 *SAM:	+< wow@s:eng&spa . 491027_491649
 *MAD:	so for a whole hour she sat there with him while they did the M_r_i . 491531_494674
 *MAD:	y@s:spa entonces@s:spa she tried calling the guy so they wouldn't call him so that she can get the results . 495589_501492
+%eng:	
 *SAM:	ah@s:eng&spa . 501495_502476
 *MAD:	the doctor still called him . 502424_503637
 *MAD:	and told them that he thinks it's cancer . 503568_505164
@@ -410,6 +449,7 @@
 *MAD:	go away . 519839_520274
 %com:	they both laugh.  The kid goes back in and they return to their conversation.
 *MAD:	entonces@s:spa um you know she was saying that it was um +... 522154_526128
+%eng:	
 *SAM:	that's horrible . 526494_527295
 *MAD:	+< you know she tried calling +/. 526917_528229
 *SAM:	+< how old is he ? 527382_528183
@@ -429,7 +469,9 @@
 *MAD:	so she's the one that goes in with him . 543327_545372
 *SAM:	+< &=whisper . 544676_545552
 *MAD:	and [//] y@s:spa él@s:spa se@s:spa lleva@s:spa muy@s:spa bien@s:spa con@s:spa ella@s:spa . 545149_547413
+%eng:	
 *SAM:	so entonces@s:spa he was like él@s:spa [///] <ella@s:spa le@s:spa> [//] él@s:spa le@s:spa dice@s:spa Lucy@s:eng&spa . 547387_551273
+%eng:	
 *MAD:	you know her name is not Lucy@s:eng&spa [=! whisper] +... 551190_552455
 *MAD:	but ok . 552438_553099
 *SAM:	Lucy@s:eng&spa ? 553075_553708
@@ -442,6 +484,7 @@
 *MAD:	unless Lucy's@s:eng&spa+eng her middle name . 560238_561771
 *SAM:	yeah mid(dle) [/] middle name . 561196_562520
 *MAD:	entonces@s:spa él@s:spa le@s:spa dice@s:spa Lucy@s:eng&spa tú@s:spa entras@s:spa conmigo@s:spa so she left her daughter outside . 562511_566474
+%eng:	
 *MAD:	and she [///] he (.) [///] she goes +"/. 566474_568043
 *MAD:	+" so (.) I did what I like to do for a whole hour . 568036_570195
 *MAD:	she goes +"/. 570189_570567
@@ -449,7 +492,9 @@
 *MAD:	it was (be)cause for a whole hour she was sitting there talking to him while they were doing the M_r_i . 571642_575017
 *SAM:	aw@s:eng&spa . 574993_576125
 *MAD:	entonces@s:spa er@s:eng&spa (.) today she called to try and get the [//] los@s:spa resultados@s:spa . 575609_582083
+%eng:	
 *MAD:	but they must have done other things because dice@s:spa que@s:spa the white blood count (.) was normal again . 582050_587066
+%eng:	
 *SAM:	++ was normal . 585983_587376
 *MAD:	she goes +"/. 587536_588018
 *MAD:	+" so it's not looking in xxx . 587867_589557
@@ -457,10 +502,12 @@
 *SAM:	+< right . 589853_590282
 *MAD:	she goes +"/. 590137_590851
 *MAD:	+" so hay@s:spa infección@s:spa xxx the white blood count would be lower this and that . 590578_594154
+%eng:	
 *SAM:	+< yeah . 593056_593677
 *MAD:	she goes +"/. 594542_594878
 *MAD:	+" but apparently they think +//. 594872_596591
 *MAD:	so entonces@s:spa she kept telling the guy +"/. 596591_598373
+%eng:	
 *MAD:	+" please call me . 598355_599098
 *MAD:	she gave them the cell phone the work number you know . 599079_601738
 *MAD:	apparently he ended up calling her . 602353_607142
@@ -492,31 +539,41 @@
 *MAD:	+" I won't tell them you know . 640322_641924
 *MAD:	+" so if you don't wanna tell them I won't say anything either . 641901_644301
 *MAD:	so she [//] ella@s:spa tenía@s:spa una@s:spa cara@s:spa pobrecita@s:spa ! 644307_646594
+%eng:	
 *MAD:	so I [/] I was like you . 646634_648068
 *MAD:	I did what Mary@s:eng&spa said . 647930_649294
 *MAD:	[- spa] cogí una cascarilla . 649294_650525
+%eng:	
 *MAD:	+, and I put it behind my neck . 650507_652644
 *MAD:	pero@s:spa con@s:spa todo@s:spa y@s:spa eso@s:spa <I can still> [//] when you ask (.) I could still feel it a little bit . 652701_656503
+%eng:	
 *MAD:	and I'm like +"/. 656183_656653
 *MAD:	+" you know what I'm gonna have to take . 656546_657754
 *MAD:	and I was good . 657736_659077
 *MAD:	I went . 659224_659607
 *MAD:	and <I got> [///] era@s:spa hoy@s:spa chickpeas um [//] sopa@s:spa de@s:spa garbanzos@s:spa . 659485_664135
+%eng:	
 *SAM:	yeah . 663996_664547
 *SAM:	oh@s:eng&spa ok . 664650_665579
 *MAD:	tú@s:spa sabes@s:spa er@s:eng&spa +/. 665533_666647
+%eng:	
 *SAM:	yeah [/] yeah I know yeah la@s:spa sopa@s:spa de@s:spa garbanzos@s:spa . 666566_668545
+%eng:	
 *MAD:	uhuh . 668505_669050
 *SAM:	yeah . 668943_669483
 *MAD:	[- spa] +< sopa de garbanzos . 669111_670318
+%eng:	
 *MAD:	so I had that . 670295_672495
 *MAD:	and I ordered café@s:spa con@s:spa leche@s:spa (..) with no sugar . 672684_676190
+%eng:	
 *MAD:	but it was hot as heck so I had to wait . 676205_678004
 *MAD:	entonces@s:spa (.) I kept putting off taking aspirins . 678302_680862
+%eng:	
 *MAD:	because I was like +"/. 681125_681671
 *MAD:	+" you know <I'm gonna> [/] I'm gonna see . 681653_682872
 *SAM:	+< yeah I'll do it . 682037_682948
 *SAM:	and <que@s:spa le@s:spa tuvieron@s:spa> [/] que@s:spa le@s:spa tu(vieron)@s:spa . 682849_684382
+%eng:	
 *MAD:	+< right <I'm gonna> [/] I'm gonna wait you know . 683746_685604
 *MAD:	afterwards I'm like +"/. 685827_686501
 *MAD:	+" you know what? 686298_686779
@@ -527,20 +584,26 @@
 *MAD:	and then I said +"/. 690667_691288
 *MAD:	+" did you know xxx . 691149_692153
 *MAD:	[- spa] xxx cuando ya se paró ir al baño [=! laugh] . 692136_694232
+%eng:	
 *MAD:	cogí@s:spa el@s:spa spray . 694225_695415
+%eng:	
 *MAD:	[- spa] y empecé a echar . 695397_696326
+%eng:	
 %com:	they are both laughing.
 *MAD:	I'm like +"/. 696334_696978
 *MAD:	+" &pfu: . 697065_697802
 *MAD:	you know . 698331_699004
 *MAD:	[- spa] +" quédate pa(ra) (a)llá . 698972_699796
+%eng:	
 *MAD:	+" you know not over here so . 699756_701689
 *SAM:	+< yeah . 700935_701666
 *SAM:	oh my god . 701858_702676
 *MAD:	+< I don't know . 701858_702676
 *MAD:	I mean ella@s:spa la@s:spa pobre@s:spa she's not a bad person . 704173_707360
+%eng:	
 *SAM:	no but they're negative . 707372_709177
 *SAM:	you've gotta run in the other direction como@s:spa dice@s:spa Mia@s:spa . 709147_712322
+%eng:	
 *MAD:	+< yeah . 709211_709948
 *MAD:	I know . 712307_713120
 *SAM:	+< she was telling +//. 712858_713491
@@ -563,6 +626,7 @@
 *SAM:	oh@s:eng&spa Caroline@s:eng&spa is so funny . 734364_735507
 *SAM:	I have to call her . 735536_736686
 *MAD:	[- spa] qué hizo ahora ? 736622_737591
+%eng:	
 *SAM:	oh my god she called at eight thirty this morning . 737535_739572
 *SAM:	but I didn't hear the phone . 739566_740408
 *SAM:	and then I heard a message . 740402_741534
@@ -576,7 +640,9 @@
 *SAM:	+" um I found a website (.) with the xxx . 752888_756615
 *SAM:	+" and I think there's [///] you should check it out because I'm not too sure that's a good energy . 756562_760954
 *SAM:	[- spa] me dice . 760943_762458
+%eng:	
 *SAM:	y@s:spa entonces@s:spa I laughed . 762441_764218
+%eng:	
 *SAM:	so <Mary@s:eng&spa writes to me> [/] Mary@s:eng&spa writes to me . 764197_767878
 *SAM:	and she goes +"/. 767767_768911
 *SAM:	+" oh@s:eng&spa boy I've got a call from Caroline [=! laugh] . 768835_772080
@@ -643,11 +709,13 @@
 *MAD:	+< like that time that you had that coughing fit . 845268_847486
 *SAM:	right . 847619_848107
 *SAM:	que@s:spa I had to get up and go . 847985_849140
+%eng:	
 *MAD:	you know . 850178_851083
 *SAM:	<but she> [//] and then but she went to check it out which's smart in her part . 850875_854474
 *SAM:	that she found I don't know what she found . 855014_856302
 *SAM:	but I [/] I guess I'll find out tonight . 856291_857713
 *SAM:	esto@s:spa <did Trevor@s:eng&spa> [//] did you get the invitation ? 858504_862422
+%eng:	
 *SAM:	and I guess from +... 862393_864843
 *MAD:	you know I don't think so . 864738_865684
 *MAD:	I need to ask David@s:eng&spa because he's the one that got the mail today . 865673_867908
@@ -662,6 +730,7 @@
 *MAD:	+" it's the same except you know put xxx . 885466_888525
 *SAM:	+< right . 886981_887532
 *MAD:	entonces@s:spa what I had done is gone ahead and printed it out . 888560_891263
+%eng:	
 *MAD:	and I go to Trevor@s:eng&spa +"/. 891226_891934
 *MAD:	+" this is what you'll be getting (..) er@s:eng&spa a confirmation this way . 891822_895474
 *SAM:	right . 895474_896205
@@ -693,12 +762,14 @@
 *MAD:	I said +"/. 928690_929079
 *MAD:	+" ok . 929079_929740
 *MAD:	entonces@s:spa um (..) so um he [//] I had noticed when I got there in the morning <that he had> [/] that he had left it there . 930055_940910
+%eng:	
 *SAM:	++ that he had taken it . 939219_940403
 *MAD:	so I went ahead +/. 940910_942367
 *SAM:	+< but you don't know they received it . 941804_943221
 *MAD:	no . 943139_943842
 *MAD:	he didn't say so I guess not . 943839_945615
 *MAD:	entonces@s:spa but when he left today since I went over there afterwards (be)cause then he told me Albert@s:eng&spa had been there to drop off stuff . 945609_954316
+%eng:	
 *SAM:	+< yeah . 945668_946086
 *MAD:	I looked . 954916_955409
 *MAD:	and he had taken it . 955426_956616
@@ -727,9 +798,11 @@
 *MAD:	+" ok [=! laugh] . 975553_976023
 *MAD:	&=laugh . 976030_977412
 *SAM:	[- spa] y +... 977100_978394
+%eng:	
 *MAD:	hi ! 978336_979346
 %com:	MAD greets a third person
 *SAM:	y@s:spa cómo@s:spa se@s:spa llama@s:spa xxx Kelly@s:eng&spa va@s:spa con@s:spa nosotros@s:spa ? 979770_982771
+%eng:	
 *MAD:	+< Kelly@s:eng&spa said she'll go by [//] on her own because she doesn't know she's gonna be there exactly at seven eight [//] or eight . 981418_986706
 *SAM:	yeah . 986493_987068
 *MAD:	but maybe she'll do like Julia@s:eng&spa and go <after (.) she> [//] after making sure that everything is ok at school . 986848_993099
@@ -739,6 +812,7 @@
 *MAD:	ok . 997192_997940
 *MAD:	no I'll remind her . 998027_999067
 *SAM:	+< and they have to be there porque@s:spa si@s:spa no@s:spa ya@s:spa después@s:spa +... 998032_1001985
+%eng:	
 *MAD:	+< no [/] no I'll remind her . 1000843_1001882
 *MAD:	but she was like +"/. 1001863_1003332
 *MAD:	+" no I don't think so . 1003304_1004366
@@ -791,14 +865,17 @@
 *MAD:	he goes +"/. 1089398_1089740
 *MAD:	+" ok [/] ok . 1089723_1090564
 *SAM:	y@s:spa Trevor's@s:eng&spa+eng gonna be there early ? 1090956_1092860
+%eng:	
 *MAD:	I think so . 1093835_1094560
 *SAM:	oh@s:eng&spa ok . 1094611_1095848
 *SAM:	no because what you can do then is like what we did with Caroline@s:eng&spa . 1095820_1099373
 *MAD:	+< well I'll ask him I'll ask him . 1098119_1099977
 *SAM:	+< yeah . 1099806_1100439
 *SAM:	a@s:spa menos@s:spa que@s:spa vaya@s:spa él@s:spa a@s:spa buscar@s:spa a@s:spa Julia@s:eng&spa a@s:spa lo@s:spa mejor@s:spa . 1100420_1102997
+%eng:	
 *MAD:	+< because +/. 1100501_1101569
 *MAD:	yeah pa(ra)@s:spa no@s:spa tener@s:spa que@s:spa ir@s:spa en@s:spa dos@s:spa carros@s:spa . 1102359_1104443
+%eng:	
 *SAM:	right . 1104283_1105125
 *SAM:	maybe that's what needs done I don't know . 1105118_1107202
 *MAD:	unless like the kids are home . 1107158_1108836
@@ -817,8 +894,11 @@
 *MAD:	oh@s:eng&spa and is she gonna go now ? 1122998_1124316
 *SAM:	Caroline@s:eng&spa ? 1124379_1125291
 *MAD:	sí@s:spa porque@s:spa si@s:spa ella@s:spa estaba@s:spa oy(endo)@s:spa [/] oyendo@s:spa cuando@s:spa Mary@s:eng&spa vino@s:spa . 1125194_1128804
+%eng:	
 *MAD:	[- spa] y dijo . 1128624_1129965
+%eng:	
 *MAD:	te@s:spa dijo@s:spa que@s:spa Amy@s:eng&spa was gonna be a volunteer ? 1131113_1133842
+%eng:	
 *SAM:	+< a volunteer . 1132246_1133122
 *MAD:	+, or something like that ? 1134604_1135985
 *MAD:	she goes +"/. 1136020_1136937
@@ -828,6 +908,7 @@
 *MAD:	+" you guys have that coming up . 1139979_1141488
 *MAD:	and Caroline@s:eng&spa started looking around like +"/. 1141847_1143670
 *MAD:	[- spa] +" <de qué hablan> [/] de qué hablan ? 1143835_1145396
+%eng:	
 *MAD:	and then Mia@s:eng&spa goes +"/. 1145355_1146331
 *MAD:	+" oh@s:eng&spa have you been ? 1146290_1147434
 *MAD:	and she goes +"/. 1147457_1148043
@@ -841,10 +922,13 @@
 *MAD:	+< Caroline@s:eng&spa . 1153943_1154802
 *SAM:	I thought she knew (be)cause we talked about it . 1154686_1157240
 *MAD:	[- spa] +< quién ? 1155929_1156777
+%eng:	
 *MAD:	+< xxx . 1157061_1157595
 *MAD:	xxx don't remember porque@s:spa ella@s:spa es@s:spa despitá(da)@s:spa so +/. 1157607_1159919
+%eng:	
 *SAM:	Emily@s:eng&spa said she's hilarious . 1159720_1161548
 *MAD:	+< en(tonces)@s:spa [/] entonces@s:spa um Mia said +"/. 1160093_1162602
+%eng:	
 *MAD:	+" I went last year . 1162672_1163902
 *MAD:	+" but now xxx I have other things . 1164029_1166101
 *MAD:	+" I'm not going this year . 1166107_1167257
@@ -880,7 +964,9 @@
 *SAM:	that's the most important thing . 1201944_1203248
 *MAD:	yeah because the ticket I think is just a +/. 1202877_1204703
 *SAM:	yeah eso@s:spa no@s:spa xxx pasar@s:spa el@s:spa tiempo@s:spa . 1204703_1206932
+%eng:	
 *MAD:	+< es@s:spa un@s:spa [/] un@s:spa foreshow . 1205539_1206967
+%eng:	
 *MAD:	yeah . 1206952_1207445
 *SAM:	it doesn't have a xxx . 1207462_1208258
 *SAM:	it doesn't have your name on it or anything . 1208281_1209773
@@ -894,7 +980,9 @@
 *SAM:	you know . 1217246_1218378
 *SAM:	you know . 1218395_1219597
 *SAM:	[- spa] pero +... 1219583_1221737
+%eng:	
 *MAD:	[- spa] sí ella es un poco +... 1221800_1222851
+%eng:	
 *MAD:	I was noticing that . 1222818_1223799
 *SAM:	when ? 1224724_1225763
 *MAD:	during the thing when Mia@s:eng&spa was going around asking what did you feel what did you see . 1225769_1230498
@@ -903,7 +991,9 @@
 *SAM:	+< and she looked +//. 1232375_1233199
 *SAM:	you know . 1233222_1233965
 *MAD:	+< but she was looking around a@s:spa ver@s:spa lo@s:spa que@s:spa decían@s:spa las@s:spa otras@s:spa . 1233489_1235846
+%eng:	
 *MAD:	[- spa] creo que [/] que xxx . 1237428_1239820
+%eng:	
 *SAM:	+< no but she went before me . 1237428_1239820
 *SAM:	oh yeah xxx was a yeah . 1239810_1242498
 *MAD:	right . 1242556_1243096
@@ -950,14 +1040,17 @@
 *SAM:	she goes +". 1288732_1288965
 *SAM:	+" after a while at first it was still there . 1288980_1291215
 *SAM:	entonces@s:spa she's like when they did the healings she goes +"/. 1291248_1294162
+%eng:	
 *SAM:	+" oh it's weird . 1294254_1295038
 *SAM:	you know when they were saying the people's name or whatever she goes +"/. 1295032_1297505
 *SAM:	+" había@s:spa una@s:spa que@s:spa xxx from the lady that had two cases . 1297494_1301957
+%eng:	
 *SAM:	I go +"/. 1301959_1302191
 *SAM:	+" yeah xxx . 1302186_1303126
 *MAD:	mmhm . 1303167_1303823
 *SAM:	+< she goes +"/. 1303393_1303950
 *SAM:	+" había@s:spa una@s:spa que@s:spa when they said the name and everything . 1303927_1306680
+%eng:	
 *SAM:	she goes +"/. 1306692_1307063
 *SAM:	+" I had such a bad feeling . 1307067_1308397
 *SAM:	+" like she's not gonna get better . 1308420_1309738
@@ -1011,6 +1104,7 @@
 *SAM:	yeah . 1370007_1370733
 *MAD:	so . 1370756_1371197
 *MAD:	[- spa] pero no um +... 1371211_1373538
+%eng:	
 *MAD:	no yesterday was fine . 1373610_1374875
 *MAD:	I was doing +... 1374865_1375800
 *MAD:	I started coughing which I [/] I [/] I was +/. 1375800_1378190
@@ -1029,7 +1123,9 @@
 *SAM:	and I was like +"/. 1392079_1392642
 *SAM:	very +... 1392621_1393387
 *MAD:	[- spa] +< pero no [=! coughing] . 1392621_1393892
+%eng:	
 *MAD:	doesn't Maria_Jose@s:eng&spa say que@s:spa xxx happened . 1393906_1396175
+%eng:	
 *MAD:	it's because you are trying to stop it or block it . 1396187_1398341
 *SAM:	I don't know . 1398402_1399691
 *MAD:	+< in one of the books we've read ? 1398849_1399888
@@ -1066,11 +1162,17 @@
 *SAM:	+< mmhm . 1427622_1429828
 *SAM:	Patty@s:eng&spa has a really good um +... 1429863_1433230
 *MAD:	[- spa] ella es &lin . 1432695_1433351
+%eng:	
 *MAD:	xxx lindo@s:spa yeah . 1433100_1435340
+%eng:	
 *MAD:	[- spa] +< tiene algo linda . 1433355_1434267
+%eng:	
 *SAM:	[- spa] no y tiene ora . 1435352_1436751
+%eng:	
 *MAD:	[- spa] +< sí . 1436791_1437262
+%eng:	
 *SAM:	[- spa] +< ella tiene . 1436791_1437262
+%eng:	
 *SAM:	she's bright . 1437252_1438889
 *SAM:	she's very bright . 1438910_1439682
 *MAD:	mmhm . 1439665_1440489
@@ -1078,6 +1180,7 @@
 *SAM:	xxx very happy all the time . 1441236_1442803
 *SAM:	like you know . 1442834_1444320
 *SAM:	her students should take after her porque@s:spa la@s:spa la@s:spa xxx esa@s:spa &e . 1444320_1448563
+%eng:	
 *SAM:	she's taking a class xxx Mary@s:eng&spa . 1448598_1450247
 *MAD:	yeah I heard you say that . 1450279_1451400
 *MAD:	I heard you told mum . 1451423_1452433
@@ -1098,9 +1201,11 @@
 *MAD:	so I thought it was the [/] the lady who had been to her house . 1469966_1473994
 *MAD:	go to mom's . 1474124_1474513
 *MAD:	[- spa] sí [/] sí <es u(na)> [//] <es la> [//] es una pareja . 1474518_1476324
+%eng:	
 *MAD:	and then when they show up in their both . 1476329_1478350
 *SAM:	the [///] at the last thing that we went to . 1478744_1480486
 *SAM:	remember that we had the gelatos@s:spa . 1480480_1481943
+%eng:	
 *MAD:	that's right . 1481954_1485495
 *MAD:	but like we don't really xxx . 1485507_1488217
 *SAM:	+< no that's Sally@s:eng&spa . 1485507_1488217
@@ -1108,10 +1213,12 @@
 *MAD:	so I go to mom +"/. 1490050_1490694
 *SAM:	+< yeah . 1490050_1490653
 *MAD:	[- spa] +" es una pareja . 1490674_1491615
+%eng:	
 *MAD:	and then they show up . 1491584_1492286
 *MAD:	and they're two women . 1492304_1492919
 *MAD:	and I'm like thinking +"/. 1492913_1493894
 *MAD:	+" I hope mom doesn't think they're una@s:spa pareja@s:spa you know . 1493900_1496228
+%eng:	
 *SAM:	I don't think Sally@s:eng&spa would like that very much . 1496231_1497938
 *MAD:	no exactly . 1497955_1498931
 *SAM:	and the other lady's married so +... 1498286_1500614
@@ -1140,17 +1247,23 @@
 *MAD:	so +... 1533427_1534321
 *SAM:	but <she's> [/] she's really cute . 1533427_1535081
 *SAM:	[- spa] ella tiene algo . 1535180_1535783
+%eng:	
 *SAM:	she's very bright . 1535789_1536666
 *MAD:	yeah . 1536668_1537097
 *SAM:	+< very bright . 1536807_1538014
 *MAD:	[- spa] no y tiene algo con los animales también . 1538026_1539820
+%eng:	
 *SAM:	[- spa] +< que &tie ? 1538026_1539820
+%eng:	
 *SAM:	yeah . 1539820_1540238
 *MAD:	[- spa] +< pues viste . 1539872_1540331
+%eng:	
 *MAD:	enseguida@s:spa she wanted to cut to clip the wings off Joseph@s:eng&spa . 1540360_1543222
+%eng:	
 *SAM:	+< yeah . 1540360_1543222
 *SAM:	yeah very +... 1543257_1545288
 *SAM:	Pia@s:eng&spa es@s:spa la@s:spa que@s:spa cambia@s:spa +... 1545263_1546618
+%eng:	
 *SAM:	like and you know what I +//. 1546641_1548394
 *MAD:	you didn't see it, did you ? 1548016_1548974
 *SAM:	no . 1548939_1549467
@@ -1160,6 +1273,7 @@
 *MAD:	well I [/] I watched her because we had our eyes closed . 1551968_1556072
 *SAM:	yeah the whole time I was +... 1556070_1557765
 *MAD:	[- spa] +< pero . 1556070_1557765
+%eng:	
 *MAD:	you know when we opened her eyes . 1557689_1559816
 *MAD:	and then she would say +"/. 1559822_1560402
 *MAD:	+" oh do this now . 1560402_1561215
@@ -1171,8 +1285,10 @@
 *MAD:	and then that's when she would start . 1573672_1574851
 *MAD:	and I was like +"/. 1574851_1575570
 *MAD:	[- spa] +" ahora está de vieja . 1575576_1577068
+%eng:	
 *SAM:	&= laughing . 1577041_1578237
 *MAD:	[- spa] +< o viejo . 1577041_1578237
+%eng:	
 *MAD:	you know one of the two . 1578297_1579661
 *SAM:	+< <yeah one of the> [/] one of the +... 1578732_1580653
 *MAD:	and it's like mad . 1579875_1580857
@@ -1196,16 +1312,19 @@
 *SAM:	I'm going to my things . 1600138_1601084
 *SAM:	and you know I don't +... 1601142_1602309
 *MAD:	+< sí@s:spa pero@s:spa Caroline@s:eng&spa wants to +/. 1601142_1602557
+%eng:	
 *MAD:	which is funny because to be <like you> [/] like you say she's as enlightened as she is . 1602586_1607853
 *SAM:	she's enlightened . 1607794_1608729
 *SAM:	she's got her thing . 1608742_1609538
 *SAM:	she you know . 1609538_1610664
 *MAD:	+< right but you think she'd be more open . 1609538_1611755
 *MAD:	pero@s:spa en@s:spa seguida@s:spa she wants to +... 1611759_1614536
+%eng:	
 *MAD:	maybe she's more like Marta@s:eng&spa . 1614499_1616368
 *MAD:	because she wants to then figure out why is it that they're like that . 1616395_1619402
 *MAD:	why do they have this . 1619396_1620395
 *MAD:	because enseguida@s:spa . 1620476_1621062
+%eng:	
 *MAD:	what language were you chatting in ? 1621097_1622775
 *SAM:	yeah . 1622815_1623320
 *MAD:	you know and what . 1623303_1624174
@@ -1271,6 +1390,7 @@
 *MAD:	yeah . 1709152_1709663
 *SAM:	so people from +... 1709680_1712281
 *SAM:	él@s:spa dice@s:spa que@s:spa New York . 1712254_1713049
+%eng:	
 *SAM:	when the lady goes to New York the lines are out the door . 1713059_1715874
 *SAM:	unbelievable . 1715857_1720164
 *MAD:	+< maybe she thinks she's the pope . 1715857_1720164
@@ -1296,11 +1416,15 @@
 *SAM:	it's all red carpet . 1744940_1746217
 *SAM:	it's beautiful . 1746246_1747552
 *SAM:	but cuando@s:spa yo@s:spa entré@s:spa . 1747554_1748616
+%eng:	
 *SAM:	[- spa] y yo vi todas esas fotos de esa mujer . 1748639_1751137
+%eng:	
 *MAD:	+< of her ? 1750435_1751103
 *MAD:	oh yeah no that's not good . 1751201_1752681
 *SAM:	[- spa] la [/] la foto de la mujer . 1752660_1754117
+%eng:	
 *SAM:	entonces@s:spa they put flowers ? 1754158_1755748
+%eng:	
 *MAD:	oh no that's not good . 1755779_1756957
 *SAM:	<and then they put> [//] and they put candles . 1756760_1759204
 *SAM:	and I'm like +"/. 1759215_1760220
@@ -1331,6 +1455,7 @@
 *SAM:	not that she's anything . 1786456_1787704
 *SAM:	but she's like the head of the thing . 1787710_1789614
 *SAM:	[- spa] y no sé qué . 1789657_1790313
+%eng:	
 *SAM:	and I was like +"/. 1790301_1791021
 *SAM:	+" mm that's wrong . 1791032_1792367
 *MAD:	yeah . 1792358_1792735
