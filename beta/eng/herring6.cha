@@ -13,51 +13,51 @@
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 %eng:	
 *NIC:	[- spa] estabas cabrona . 17_1840
-%eng:	
+%eng:	you were annoying.
 *JES:	[- spa] sí porque no me recogiste la casa . 1811_6106
-%eng:	
+%eng:	yes because you didn't clean the house.
 *NIC:	[- spa] y tú durmiendo . 6082_7086
-%eng:	
+%eng:	and you were sleeping.
 *NIC:	[- spa] yo vine para acá hoy por la mañana . 7063_8398
-%eng:	
+%eng:	I came over this morning.
 *NIC:	[- spa] y me puse a hacer los [/] los [/] los platos . 8392_11344
-%eng:	
+%eng:	and I started to do dish washing.
 *NIC:	[- spa] y la única razón por la cual no los terminé fue porque el niño venía para acá . 11315_13962
-%eng:	
+%eng:	and the only reason why I didn't finish was because the kid was coming over.
 *NIC:	[- spa] y quería la leche . 13939_15210
-%eng:	
+%eng:	and he wanted milk.
 *JES:	[- spa] yo me fui pa(ra) allá para despertarme . 15190_17517
-%eng:	
+%eng: and I went over there to wake myself up.
 *NIC:	[- spa] a qué hora ? 17465_18249
-%eng:	
+%eng: 	at what time?
 *JES:	[- spa] varias veces . 18198_20340
-%eng:	
+%eng:	several times.
 *NIC:	[- spa] voy a dejar xxx +/. 20308_20854
-%eng:	
+%eng:	I'm going to leave xxx.
 *JES:	[- spa] +< por la mañana ? 20308_21551
-%eng:	
+%eng:	in the morning?
 *NIC:	[- spa] no . 21568_21992
-%eng:	
+%eng: 	no.
 *NIC:	that had to have been there when I went outside . 22003_23477
 *NIC:	that I went outside to smoke for a minute . 23460_24940
 *NIC:	and then I came back in . 24922_26072
 *NIC:	and he went outside . 26055_27059
 *NIC:	and he goes (es)taba@s:spa buscando@s:spa . 27048_29709
-%eng:	
+%eng: 	and he goes he was looking.
 *NIC:	estaba@s:spa I love when he uses his hand . 29626_31123
-%eng:	
+%eng:	he was I love when he uses his hand.
 *JES:	oh@s:eng&spa . 31097_32089
 *NIC:	[- spa] (es)taba buscando (es)taba buscando . 31491_34562
-%eng:	
+%eng:	he was looking he was looking .
 *JES:	y@s:spa [/] y@s:spa went into the room looking for you . 34521_37633
-%eng:	
+%eng:	and and went into the room looking for you.
 *NIC:	no it must have been that moment then . 37629_39179
 *JES:	[- spa] dónde está papi ? 39177_40541
-%eng:	
+%eng:	where is daddy?
 *JES:	[- spa] yo [/] yo no sé . 40547_41696
-%eng:	
+%eng:	I don't know.
 *JES:	[- spa] está afuera . 41679_42944
-%eng:	
+%eng:	he is outside.
 *NIC:	mmhm@s:eng&spa . 42918_45844
 *NIC:	well I still have to do my posting for Beckerman@s:eng&spa . 45806_49462
 *JES:	no I [/] I did that one . 49445_52585
@@ -207,7 +207,7 @@
 *NIC:	I imagine he went to work . 342946_343933
 *JES:	mmhm@s:eng&spa . 343933_347770
 *NIC:	[- spa] y tengo un dolor de cabeza # de este tamaño . 347715_352305
-%eng:	
+%eng: and I have a headache of this size.
 *NIC:	&=sniffing . 0_0
 *JES:	why don't you take some Tylenol@s:eng&spa ? 354621_356450
 *NIC:	<I am> [/] I'm gonna take some . 356409_357611
@@ -218,7 +218,7 @@
 *NIC:	I get sick . 363659_364344
 *JES:	Gordo@s:eng&spa is sick too . 364328_367045
 *NIC:	[- spa] me dio una entrada de patadas anoche . 366994_370094
-%eng:	
+%eng:	ASK FRAIBET
 *NIC:	I don't know how many times he kicked me in the bed . 370055_373670
 *JES:	no@s:eng&spa . 373641_377072
 *JES:	I don't remember him kicking me . 377076_378684
@@ -237,7 +237,7 @@
 *NIC:	so anyway . 404549_406302
 *NIC:	I'm gonna go drop that off at the motor home when I leave for the parish . 406273_409789
 *NIC:	[- spa] bueno # de qué más quieres hablar ? 409772_416935
-%eng:	
+%eng:	well what do you want to talk about ?
 *JES:	um@s:eng&spa yesterday the principle called me in . 416912_423315
 *JES:	&=cough . 423303_423936
 *JES:	she goes +"/. 423913_424453
@@ -303,7 +303,7 @@
 *JES:	so she goes um@s:eng&spa +"/. 571823_574062
 *JES:	+" I need the person that I have up there now . 574038_577011
 *JES:	[- spa] +" no da la talla . 576981_578536
-%eng:	
+%eng:	he/she is not good enough.
 *JES:	+" you know I mean I need to get rid of them . 578536_582124
 *JES:	+" and # um@s:eng&spa I need to bring in somebody else . 582105_584909
 *JES:	+" but with that other person they're already in the system . 584861_587678
@@ -319,9 +319,9 @@
 *JES:	and so # &=clears_throat she goes +". 617479_621470
 *JES:	+" yeah but I think she's only certified for pre_K . 621462_624755
 *JES:	entonces@s:spa estamos@s:spa you know # stuck with her . 624735_630242
-%eng:	
+%eng:	then we are you know suck with her.
 *JES:	entonces@s:spa she um@s:eng&spa she goes to me +"/. 630229_633200
-%eng:	
+%eng:	then she um she goes to me.
 *JES:	+" no but <I need> [///] I looked up her [/] her stuff . 633194_635807
 *JES:	+" and she is K through six pre_K and K through six elementary . 635778_640074
 *JES:	well perfect . 640056_641287
@@ -338,31 +338,31 @@
 *JES:	um@s:eng&spa le@s:spa dije@s:spa +"/. 653298_655022
 %eng:	
 *JES:	[- spa] +" la unión me va a botar porque yo no estoy xxx . 654976_659412
-%eng:	
+%eng:	the union is going to kick me out because I'm not xxx.
 *JES:	she goes xxx . 659394_660161
 *JES:	I go no . 660120_660828
 *JES:	[- spa] eso pero es que +... 660821_661645
-%eng:	
+%eng:	that but the thing is that...
 *JES:	[- spa] yo le dije +"/. 661628_662347
-%eng:	
+%eng: 	I told him.
 *JES:	[- spa] +" eso es lo que tú tenías que hacer desde un principio . 662347_664907
-%eng:	
+%eng:	that's what you had to do from the beginning.
 *JES:	+" yo@s:spa sí@s:spa pero@s:spa es@s:spa que@s:spa yo@s:spa no@s:spa sabía@s:spa que@s:spa ella@s:spa estaba@s:spa you know # certificada@s:spa hasta@s:spa [/] hasta@s:spa quinto@s:spa grado@s:spa . 664909_670810
-%eng:	
+%eng:	me yes but the thing is that I didn't knowthat she was you know certified till fifth grade.
 *NIC:	[- spa] +< y ellos no miran nada los [/] los papeles y los expedientes de la gente ? 669770_672627
-%eng:	
+%eng:	and they don't check people's paperwork or files.
 *JES:	+< ay@s:spa mi@s:spa amor@s:spa ella@s:spa es@s:spa una@s:spa principal@s:eng&spa nueva@s:spa . 671843_674328
-%eng:	
+%eng: oh my dear she is a new principal.
 *NIC:	&=cough . 674359_674730
 *JES:	you know ? 674711_676139
 *JES:	[- spa] ella está +... 676851_678087
-%eng:	
+%eng:	she is...
 *JES:	[- spa] tú sabes . 678058_679185
-%eng:	
+%eng:	you know.
 *JES:	she's great . 679179_679933
 *JES:	but she's new . 679919_682055
 *JES:	ella@s:spa no@s:spa se@s:spa sabe@s:spa todavía@s:spa cómo@s:spa access the things or and how to you know +... 682014_687413
-%eng:	
+%eng:	she, we don't know yet how to access the things or and hot to you know...
 *JES:	she goes . 687384_687895
 *JES:	she asks people . 687883_688644
 *JES:	you know er@s:eng&spa the person that gave her the position or whatever . 688614_693379
@@ -373,16 +373,16 @@
 *JES:	put her somewhere else . 701302_702381
 *JES:	but I guess she hadn't really done any until she you know somebody told her how to do it . 702370_708158
 *JES:	[- spa] entonces yo le dije +"/. 707976_711610
-%eng:	
+%eng:	then I told her
 *JES:	[- spa] +" ahí sí que no puede haber designado porque si es un [/] una decisión administrativa . 711604_719161
-%eng:	
+%eng:	in that case XXXX ASK FRAIBET because it's an administrative decision.
 *JES:	si@s:spa a@s:spa mí@s:spa me@s:spa cambian@s:spa mañana@s:spa de@s:spa first grade a@s:spa algo@s:spa que@s:spa yo@s:spa no@s:spa quiero@s:spa . 719150_725438
-%eng:	
+%eng:	yes, tomorrow they move me from first gread tosomething I don't really want.
 *JES:	[- spa] quinto grado como me hizo la principal de [/] de la otra escuela . 725438_729106
-%eng:	
+%eng:	fifth grade like the principal from the other school did to me.
 *JES:	er@s:eng&spa she has every right to do so . 729096_735182
 *JES:	ahí@s:spa it's her administrative decision that I would do best in this class . 735159_741998
-%eng:	
+%eng: in that case it's her administrative decision that I would do best in this class.
 *JES:	whether I like it or not that's [///] I mean they should take that into consideration . 741977_748131
 *JES:	but they don't have to . 748119_749199
 *NIC:	but at any rate didn't they get somebody to replace her while she was gone ? 749143_752774
@@ -393,57 +393,57 @@
 *JES:	+" look I've nowhere else to put them . 771474_773343
 *JES:	so she obviously felt very uncomfortable working there . 773267_779366
 *NIC:	+< good . 778599_779354
-*JES:	but then that's also something that um@s:eng&spa our principal told [///] er@s:eng&spa la@s:spa principal@s:spa <me@s:spa dijo@s:spa> [/] me@s:spa dijo@s:spa um@s:eng&spa como@s:spa ella@s:spa er@s:eng&spa me@s:spa había@s:spa dicho@s:spa que@s:spa ella@s:spa quería@s:spa no@s:spa estar@s:spa con@s:spa esta@s:spa persona@s:spa yo@s:spa le@s:spa voy@s:spa a@s:spa decir@s:spa que@s:spa mira@s:spa como@s:spa tú@s:spa te@s:spa sientes@s:spa que@s:spa [/] que@s:spa piense@s:spa que@s:spa sea@s:spa por@s:spa ella@s:spa . 779312_800740
-%eng:	
+*JES:	but then that's also something that um@s:eng&spa our principal told [///] er@s:eng&spa la@s:spa  principal@s:spa <me@s:spa dijo@s:spa> [/] me@s:spa dijo@s:spa um@s:eng&spa como@s:spa ella@s:spa er@s:eng&spa me@s:spa había@s:spa dicho@s:spa que@s:spa ella@s:spa quería@s:spa no@s:spa estar@s:spa con@s:spa esta@s:spa persona@s:spa yo@s:spa le@s:spa voy@s:spa a@s:spa decir@s:spa que@s:spa mira@s:spa como@s:spa tú@s:spa te@s:spa sientes@s:spa que@s:spa [/] que@s:spa piense@s:spa que@s:spa sea@s:spa por@s:spa ella@s:spa . 779312_800740
+%eng:	but then that's also something that um our principal told er the principal told me  er that she didn't want to be with this person I am going to say how you  feel about it and she can think it's because of her.
 *NIC:	mmhm@s:eng&spa mmhm@s:eng&spa . 800700_801901
 *JES:	[- spa] yo dije +"/. 801863_802623
-%eng:	
+%eng:	I said.
 *JES:	[- spa] +" perfecto . 802623_803407
-%eng:	
+%eng:	perfect.
 *JES:	[- spa] así ella piensa que tú le estás haciendo un favor a ella . 803393_808306
-%eng:	
+%eng:	this way she thinks you are doing her a favour.
 *JES:	[- spa] y ella no va a dar la talla pa(ra) eso . 808292_810271
-%eng:	
+%eng:	and she's not going to be good enough for it.
 *JES:	[- spa] porque ahí xxx me lo dijo . 810245_813543
-%eng:	
+%eng:	beacuase she told me.
 *NIC:	[- spa] y todos esos chiquitos hablan . 813514_814750
-%eng:	
+%eng:	and all those little kids speak.
 *JES:	oh yeah . 814721_815859
 *JES:	they're emotionally # you know # disabled . 815841_820999
 *JES:	[- spa] pero le dicen hasta alma mía . 820995_825022
-%eng:	
+%eng:	 but they tell her even my soul [FRAIBET!.
 *JES:	[- spa] entonces por eso la otra no podía . 825012_829204
-%eng:	
+%eng:	then that's why the other one couldn't do it.
 *JES:	E_S_E@s:eng&spa is really really really difficult . 829160_833012
 *NIC:	mmhm@s:eng&spa # mmhm@s:eng&spa . 833021_835703
 *JES:	+< y@s:spa más@s:spa cuando@s:spa [///] when you have you know kids that are the violent ones los@s:spa que@s:spa xxx +... 835233_843668
-%eng:	
+%eng:	and more when when you have you know kids that are the violent ones the ones that...
 *JES:	ah@s:eng&spa entonces@s:spa la@s:spa cosa@s:spa pasó@s:spa que@s:spa ayer@s:spa durante@s:spa +... 843633_851335
-%eng:	
+%eng:	then it happened that  yesterday during...
 *JES:	[- spa] ella tenía una reunión . 851311_853210
-%eng:	
+%eng:	she had a meeting.
 *JES:	like a C_S_T@s:eng&spa <it's like a> [/] it's [/] it's a xxx child study team . 853188_858504
 *JES:	so she was meeting with some parents # and a counselor whatever xxx . 858504_864105
 *JES:	so she wasn't in the classroom . 864098_865782
 *JES:	y@s:spa entonces@s:spa um@s:eng&spa quién@s:spa me@s:spa vino@s:spa a@s:spa decir@s:spa eso@s:spa Dios@s:spa mío@s:spa ? 865776_872912
-%eng:	
+%eng:	and then um who came to tell me that, my God?
 *JES:	yo@s:spa creo@s:spa que@s:spa fue@s:spa Pili@s:eng&spa . 872896_874033
-%eng:	
+%eng:	 I think it was Pili.
 *JES:	me@s:spa vino@s:spa a@s:spa decir@s:spa er@s:eng&spa no@s:spa que@s:spa uno@s:spa de@s:spa los@s:spa niños@s:spa de@s:spa la@s:spa clase@s:spa de@s:spa ahí@s:spa de@s:spa ella@s:spa # lo@s:spa encontraron@s:spa en@s:spa la@s:spa calle@s:spa descalzo@s:spa # running through the street . 873981_886603
-%eng:	
+%eng:	She came to tlel me that one of the kis of that class of hers they found him on the stree barefood running through the street.
 *JES:	[- spa] xxx entonces figúrate . 886538_889022
-%eng:	
+%eng:	then go figure.
 *JES:	[- spa] la principal les cayó # a ellos . 889016_892807
-%eng:	
+%en:	the principal FRAIBET
 *JES:	[- spa] y dije +"/. 892791_893770
-%eng:	
+%eng:	and I said.
 *JES:	[- spa] +" pero qué pasó . 893736_894363
-%eng:	
+%eng:	what what happened.
 *JES:	entonces@s:spa la@s:spa principal@s:spa fue@s:spa adentro@s:spa de@s:spa la@s:spa clase@s:spa er@s:eng&spa que@s:spa you know to find out what happened . 894339_903665
-%eng:	
+%eng:	then the principal went inside the classroom you know to find out what happened.
 *JES:	how could this child just walk out ? 903647_905847
 *JES:	entonces@s:spa <habían@s:spa dejado@s:spa> [/] había@s:spa [//] there was like an electrical cord that didn't keep the door from closing all the way . 905837_913339
-%eng:	
+%eng:	then thy had left there was like an electrical cord that didn't keep the door from closing all the way.
 *JES:	the child snuck out . 913332_915439
 *NIC:	but this is from your school ? 915410_916432
 *JES:	yeah # from her class . 916411_920108
@@ -452,16 +452,16 @@
 *JES:	and um@s:eng&spa <the &k> [/] the child snuck out . 924912_931545
 *JES:	so she [//] the principal went in there to try to see how could this happen and how to prevent it from happening again . 931527_938672
 *JES:	porque@s:spa dice@s:spa que@s:spa <the person that fou(nd)> [///] two people that found +... 938637_942886
-%eng:	
+%eng:	 because she says that the person that found twou people that found...
 *JES:	you know figúrate@s:spa . 942869_943774
-%eng:	
+%eng:	you know go figure.
 *JES:	around the park people walk around . 943577_945539
 *NIC:	&=coughing . 945517_946324
 *JES:	+< you know so they found this [/] este@s:spa es@s:spa un@s:spa niñito@s:spa chiquitico@s:spa sin@s:spa zapatos@s:spa . 945517_951330
-%eng:	
+%eng:	you know so they found this this is a little kid without shoes.
 *JES:	because it was nap time . 951312_953338
 *JES:	er@s:eng&spa corriendo@s:spa por@s:spa ahí@s:spa . 953335_956464
-%eng:	
+%eng:	er running around.
 *JES:	entonces@s:spa they brought him back dice@s:spa que@s:spa [/] que@s:spa el@s:spa señor@s:spa was a Vietnam veteran . 956449_962613
 %eng:	
 *JES:	[- spa] y dice que estaba hasta llorando . 962607_965150
