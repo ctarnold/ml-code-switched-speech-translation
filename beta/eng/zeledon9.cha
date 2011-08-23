@@ -13,21 +13,21 @@
 @Comment:	Filename: zeledon9.CHA; Soundfile: zeledon9.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 %eng:	
-*GIL:	ah@s:eng&spa Jacky@s:eng&spa está@s:spa en@s:spa Colombia@s:spa para@s:spa navidad@s:spa un@s:spa año@s:spa . 6_5132
+*GIL:	ah@s:eng&spa Jacky@s:eng&spa está@s:spa en@s:spa Colombia@s:spa para@s:spa Navidad@s:spa un@s:spa año@s:spa . 6_5132
 %eng:	
-*GIL:	um yo@s:spa (.) fui@s:spa la@s:spa día@s:spa primero@s:spa un@s:spa poquito@s:spa días@s:spa de@s:spa navidad@s:spa . 5123_11219
+*GIL:	um yo@s:spa (.) fui@s:spa la@s:spa día@s:spa primero@s:spa un@s:spa poquito@s:spa días@s:spa de@s:spa Navidad@s:spa . 5123_11219
 %eng:	
 *GIL:	&i and then um I stayed there for a week or like couple days or something like +... 11292_17105
 *GIL:	I came like a week before christmas you know . 17076_19191
 *CHA:	uhuh yes . 18802_19789
 *GIL:	and so I stayed for like a week and a half . 19216_21108
 *GIL:	and when I came back I opened all my presents and stuff . 21087_23571
-*CHA:	[- spa] chevere . 23545_25205
+*CHA:	[- spa] chévere . 23545_25205
 %eng:	
 *CHA:	[- spa] y cómo [///] qué [/] qué te dieron ? 25193_26999
 %eng:	
 *CHA:	you know . 26976_27661
-*CHA:	[- spa] en Colombia qué te dieron de regalos para navidad ? 27645_30461
+*CHA:	[- spa] en Colombia qué te dieron de regalos para Navidad ? 27645_30461
 %eng:	
 *GIL:	don't remember . 30451_32686
 *CHA:	you [//] of course you remember . 32677_34743
@@ -66,7 +66,7 @@
 *GIL:	I &u draw . 112217_114202
 *GIL:	I sing . 114156_115456
 *GIL:	and sometimes I go play golf . 115452_118216
-*CHA:	[- spa] muy chevere . 118201_119496
+*CHA:	[- spa] muy chévere . 118201_119496
 %eng:	
 *CHA:	<my hobbies are> [///] I +/. 119490_121905
 *GIL:	and swimming . 120964_122096
@@ -77,19 +77,19 @@
 *GIL:	I know . 135868_136263
 *GIL:	remember the other day when we [//] (.) cuando@s:spa nosotros@s:spa fuimos@s:spa a@s:spa la@s:spa piscina@s:spa aquí@s:spa ? 136245_141919
 %eng:	
-*GIL:	[- spa] y fue tan chevere . 141886_143413
+*GIL:	[- spa] y fue tan chévere . 141886_143413
 %eng:	
 *GIL:	[- spa] te acuerdas ? 143403_144280
 %eng:	
 *CHA:	+< just said +"/. 143409_144309
-*CHA:	[- spa] +" tan chevere . 144297_145864
+*CHA:	[- spa] +" tan chévere . 144297_145864
 %eng:	
 *GIL:	[- spa] estamos haciendo como vueltas y todo eso en la piscina . 145850_149341
 %eng:	
 *CHA:	[- spa] estamos nadando mucho . 149288_151163
 %eng:	
 *GIL:	mmhm . 151169_151802
-*CHA:	[- spa] también nos [/] nos soliamos un poquito . 151776_153634
+*CHA:	[- spa] también nos [/] nos solíamos un poquito . 151776_153634
 %eng:	
 *CHA:	we got a great tan . 153628_155306
 *GIL:	hablamos@s:spa mucho@s:spa de@s:spa la@s:spa parque@s:spa de@s:spa café@s:spa Sergio@s:eng&spa Diana@s:eng&spa . 155298_159300
@@ -104,9 +104,9 @@
 %eng:	
 *GIL:	[- spa] que yo sé . 170516_171579
 %eng:	
-*GIL:	[- spa] ella es muy chevere . 171451_172490
+*GIL:	[- spa] ella es muy chévere . 171451_172490
 %eng:	
-*CHA:	she's very muy@s:spa chevere@s:spa . 172478_174522
+*CHA:	she's very muy@s:spa chévere@s:spa . 172478_174522
 %eng:	
 *GIL:	[- spa] es muy linda . 174501_176004
 %eng:	
@@ -194,7 +194,7 @@
 %eng:	
 *CHA:	así@s:spa no@s:spa para@s:spa celebrar@s:spa de@s:spa Jesus@s:spa y@s:spa también@s:spa del@s:spa easter bunny . 305275_309398
 %eng:	
-*GIL:	yeah &e yo@s:spa [///] fue@s:spa tan@s:spa chevere@s:spa . 309390_312722
+*GIL:	yeah &e yo@s:spa [///] fue@s:spa tan@s:spa chévere@s:spa . 309390_312722
 %eng:	
 *GIL:	like we had the party and everything . 312717_314429
 *GIL:	and we wrote this really funny letter to uncle dad slash dad . 314408_318525
@@ -260,7 +260,7 @@
 %com:	in the previous line GIL says ponió instead of puso
 *GIL:	[- spa] fue cuatro huevos . 419851_422094
 %eng:	
-*GIL:	[- spa] tres tenían un dolar . 422076_423719
+*GIL:	[- spa] tres tenían un dólar . 422076_423719
 %eng:	
 *GIL:	[- spa] y solo una de la cuatro tenía diez adentro . 423699_425945
 %eng:	
@@ -355,7 +355,7 @@
 *CHA:	I'm just wondering . 604177_605193
 *GIL:	[- spa] hamburguesa . 605164_606076
 %eng:	
-*CHA:	that's muy@s:spa chevere@s:spa . 606079_608766
+*CHA:	that's muy@s:spa chévere@s:spa . 606079_608766
 %eng:	
 *CHA:	so why don't we talk about our grandfather . 608761_611361
 *GIL:	yeah we have (.) um a grandfather named abuelito@s:spa Alfredo@s:eng&spa . 611347_617212
@@ -381,7 +381,7 @@
 *GIL:	+< yes . 646501_647238
 *GIL:	[- spa] rico sí . 648339_649500
 %eng:	
-*GIL:	[- spa] &e nosotros [//] yo y ella estamos muy [//] (.) mucho tiempo con nosotros en la casa de ella haciendo chevere cosas . 649506_660649
+*GIL:	[- spa] &e nosotros [//] yo y ella estamos muy [//] (.) mucho tiempo con nosotros en la casa de ella haciendo chévere cosas . 649506_660649
 %eng:	
 *GIL:	y@s:spa <a@s:spa mí@s:spa me@s:spa> [//] a@s:spa nosotros@s:spa les@s:spa gusta@s:spa hacer@s:spa como@s:spa cakes and stuff . 660643_664930
 %eng:	
@@ -568,7 +568,7 @@
 *CHA:	totally ruined our egg hunt . 1082301_1085332
 *GIL:	you know and then like um you know the movie Ten_thousand_b_c@s:eng&spa ? 1085322_1090839
 *GIL:	wasn't it awesome ? 1090801_1092374
-*CHA:	[- spa] pues súper chévere . 1092372_1094734
+*CHA:	[- spa] pues super chévere . 1092372_1094734
 %eng:	
 *GIL:	[- spa] +< chévere . 1093875_1094647
 %eng:	
@@ -737,7 +737,7 @@
 *CHA:	+< yes it [/] it let's you go outside you know I'm guessing to breathe fresh air . 1471621_1475879
 *CHA:	um your school +... 1475862_1478106
 *GIL:	what's your favourite holiday ? 1478100_1480219
-*CHA:	christmas of course christmas navidad@s:spa . 1480206_1483439
+*CHA:	Christmas of course Christmas Navidad@s:spa . 1480206_1483439
 %eng:	
 *CHA:	pero@s:spa I prefer christmas in Columbia@s:eng&spa . 1483435_1487151
 %eng:	
@@ -811,7 +811,7 @@
 *GIL:	I know and like I heard this story before . 1647828_1650487
 *GIL:	they didn't know how tall he was . 1650464_1652025
 *GIL:	so they just added feet . 1652010_1654123
-*CHA:	I know so when they were gonna make the statue he was just this little mini guy muy@s:spa muy@s:spa chiquito@s:spa como@s:spa una@s:spa nanito@s:spa . 1654108_1661280
+*CHA:	I know so when they were gonna make the statue he was just this little mini guy muy@s:spa muy@s:spa chiquito@s:spa como@s:spa una@s:spa enanito@s:spa . 1654108_1661280
 %eng:	
 *CHA:	he was so &sm little . 1661271_1663554
 *CHA:	it was funny you know . 1663542_1664970
