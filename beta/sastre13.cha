@@ -12,7 +12,6 @@
 @Media:	sastre13, audio
 @Comment:	Filename: sastre13.CHA; Soundfile: sastre13.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	
 *COL:	she is actually putting of her own money . 12_1625
 *COL:	like she +/. 1672_2281
 *ELI:	+< yeah but I think that they +... 1811_2990
@@ -264,8 +263,7 @@
 *COL:	like I would have just bought the tickets . 366200_367553
 *ELI:	+< mmhmm . 366293_366908
 *COL:	like I would have just said +"/. 367553_368156
-*COL:	+" forget Elizabeth@s:spa I'm going . 368126_369472
-%eng:	
+*COL:	+" forget Elizabeth@s:eng&spa I'm going . 368126_369472
 *ELI:	+< ok I know where you're going with that . 368427_369809
 *COL:	ok but but like at the same time you know you know it's not just like you know going together . 369670_375706
 *ELI:	+< I know . 370024_370611

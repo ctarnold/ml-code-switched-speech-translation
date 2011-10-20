@@ -12,7 +12,6 @@
 @Time Duration:	00:26:35
 @Comment:	Filename: zeledon2.CHA; Soundfile: zeledon2.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	
 *MAT:	so where do you work ? 6_958
 *REB:	+< xxx I work well I'm currently employed by +//. 64_6822
 *REB:	I have my broker . 6793_7861
@@ -26,8 +25,7 @@
 *REB:	but like his business partner he's the broker . 19145_22042
 *REB:	and his business has been so bad they consolidated . 21996_25311
 *REB:	so now I work +/. 25276_26309
-*MAT:	oh I@s:spa see . 26299_27530
-%eng:	
+*MAT:	oh I see . 26299_27530
 *REB:	+, for both of them together simultaneously . 27071_28970
 *REB:	they just pay me # you know four hours one pays me the other one pays me four hours a day like that . 28964_35030
 *MAT:	+< mmhm@s:eng&spa oh ok . 28964_34983
@@ -212,7 +210,7 @@
 *REB:	xxx and then negative five point . 367926_371517
 *REB:	no it's negative six point five and negative five seventy five . 371494_374135
 *MAT:	[- spa] de verdad ? 374129_376138
-%eng:	
+%eng:	really?
 *REB:	so if you think you're blind you should have my eyes for a few days &=laugh . 376085_380269
 *MAT:	so when you take your contacts out you can't see +/. 380233_383657
 *REB:	+< I can't see crap &=laughs . 382503_384088
@@ -302,7 +300,6 @@
 *MAT:	which show ? 533025_534685
 *REB:	<all the> [//] I like all the Law_and_Orders@s:eng&spa . 534668_537548
 *MAT:	C_S_A@s:spa C_S_I . 536659_538442
-%eng:	
 *REB:	+< C_S_I . 537728_538534
 *REB:	I love New_York and Vegas@s:eng&spa . 538513_540481
 *MAT:	+< xxx I . 538513_540446
@@ -915,7 +912,7 @@
 *REB:	yeah beautiful . 1432021_1434047
 *MAT:	+< yeah . 1432021_1434047
 *MAT:	[- spa] bonito bonito . 1433972_1435086
-%eng:	
+%eng:	beautiful, beautiful.
 *REB:	it's beautiful . 1435080_1436085
 *MAT:	yeah ? 1436061_1436433
 *REB:	and # where is the other one ? 1436413_1438856
@@ -989,9 +986,9 @@
 *MAT:	+< so what do you do on the weekends then yeah no and there is . 1530223_1534704
 *REB:	well um well I was when I turned . 1534700_1541728
 *MAT:	[- spa] qué música le gusta ? 1541043_1542500
-%eng:	
+%eng:	wht music do you like?
 *REB:	[- spa] música # de todo . 1542478_1544202
-%eng:	
+%eng:	all sorts of music.
 *REB:	I like everything . 1544170_1546173
 *MAT:	+< xxx yeah . 1544170_1546173
 *REB:	it just depends on the song . 1546159_1547953
@@ -1004,7 +1001,7 @@
 *MAT:	+< mmhm@s:eng&spa . 1561316_1563789
 *MAT:	wow . 1563774_1564958
 *REB:	+< and he was very # machi(s)ta@s:spa . 1564192_1567454
-%eng:	
+%eng:	and he was very chauvinist.
 *MAT:	yeah yeah yeah . 1567417_1568949
 *REB:	and he isolated me from everybody # from my friends . 1568924_1571972
 *MAT:	+< oh . 1568924_1571914
