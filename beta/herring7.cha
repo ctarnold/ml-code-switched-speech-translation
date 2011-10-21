@@ -1,4 +1,3 @@
-@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	eng, spa
@@ -13,7 +12,6 @@
 @Time Duration:	00:24:53
 @Comment:	Filename: herring7.CHA; Soundfile: herring7.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	
 @Warning:	Proofread
 *SEB:	so # uh@s:eng&spa the book is [/] is like you've read the book you don't wanna watch the movie . 1225_7060
 *SEB:	+< like the end . 7099_8184
@@ -21,16 +19,16 @@
 *SEB:	but <if you> [//] <when you> [/] when you read the boo(k) <you don't wanna> [//] you [/] you say wha(t) [//] why they [/] they don't do tha(t) in the movie you know . 9108_14919
 *RIC:	+< yeah . 14669_14919
 *SEB:	and at the end <they put> [/] they put like ah # como@s:spa una@s:spa inyección@s:spa . 15161_20070
-%eng:	
+%eng:	 and at the end they put they put like ad like a shot.
 *SEB:	se@s:spa la@s:spa ponen@s:spa and like +//. 20707_21446
-%eng:	
+%eng:	they put it and like.
 *SEB:	[- spa] él &pʌ [/] podía escoger o una inyección o # <unas pastillas> [//] tomarse unas pastillas o salir pa(ra) la calle y fajarse contra todo el mundo . 21470_29326
-%eng:	
+%eng:	he could choose either a shot or pills , have some pills or go out and get mad at everybody.
 *SEB:	he was like [/] like a murder(er) . 29517_31240
 *SEB:	for them <it wa(s)> [/] he was like a murder(er) . 31249_33211
 *RIC:	a murder ? 33210_33755
 *SEB:	yeah como@s:spa un@s:spa asesino@s:spa # porque@s:spa ya@s:spa ellos@s:spa tenían@s:spa su@s:spa # comun(idad)@s:spa [/] comunidad@s:spa ahí@s:spa . 33705_39196
-%eng:	
+%eng:	yeah like an assasisn because they already had a community over there.
 *RIC:	yeah . 39162_39626
 *SEB:	you know . 39574_39986
 *RIC:	they were like living like norm(al) +//. 39925_41312
@@ -38,17 +36,17 @@
 *SEB:	no they don't kill people . 43775_45400
 *SEB:	they don't kill +//. 45518_46070
 *SEB:	[- spa] ellos no mataban a su propia gente . 46093_47457
-%eng:	
+%eng:	they didn't kill their own people
 *SEB:	[- spa] ellos mataban a la gente como nosotros . 47759_50173
-%eng:	
+%eng:	they killed people like us.
 *RIC:	pero@s:spa exactly <that's like> [//] that's killing people . 50177_53406
-%eng:	
+%eng:	but exactly that's like that's killing people.
 *RIC:	because there were still some survivors left . 53721_56069
 *SEB:	you know but +... 58409_59098
 *SEB:	I don't know . 59109_59531
 *RIC:	I know they [/] they adapted . 59525_61214
 *RIC:	[- spa] adaptaron a [/] a la vida de ellos . 61174_63490
-%eng:	
+%eng:	adopted their lives.
 *SEB:	+< yeah . 61244_61766
 *RIC:	I got it . 63519_64343
 *RIC:	&ǀ I wanna see it # I wanna see it . 65216_67120
@@ -66,11 +64,11 @@
 *RIC:	hmm . 84386_85118
 *SEB:	<they drink the> [//] he drink the pills . 85112_86795
 *SEB:	ah i(t)'s like # like you know xxx como@s:spa que@s:spa te@s:spa enfocan@s:spa que@s:spa se@s:spa [/] se@s:spa fue@s:spa como@s:spa que@s:spa se@s:spa va@s:spa yendo@s:spa así@s:spa you know # . 87052_94867
-%eng:	
+%eng:	ah it's like like you know like they focus that it was like it's leaving like this you know.
 *SEB:	but in the book there is a gir(l) # that betrayed him # que@s:spa se@s:spa hace@s:spa pasar@s:spa por@s:spa humano@s:spa . 95536_102317
-%eng:	
+%eng: 	but in the book there is a girl that betrayed him that he pretends she is human.
 *SEB:	[- spa] y no es humano es de los [/] los demás tipos . 102350_104733
-%eng:	
+%eng:	and she is not human she is of a different type.
 *RIC:	oh really ? 104720_105337
 *SEB:	yeah . 105337_105673
 *RIC:	oh but . 105997_106759
@@ -81,26 +79,26 @@
 *SEB:	yeah . 116268_116828
 *RIC:	+< and the other people look like normal people . 116366_118089
 *RIC:	so # like there's no way que@s:spa ella@s:spa se@s:spa puede@s:spa pasar@s:spa como@s:spa humano@s:spa si@s:spa se@s:spa parece@s:spa como@s:spa un@s:spa zombie . 118106_123139
-%eng:	
+%eng:so like there's no way that she can pass for human is she looks like a zombie.
 *SEB:	[- spa] +< pero ella se estaba curando <en la &mu> [//] en la película ella se estaba curando . 122553_126152
-%eng:	
+%eng:	but she was healing in the movie she was healing.
 *RIC:	we(ll) [/-] remember he had that girl on the bed ? 126193_128335
 *SEB:	<that one> [/] that one se@s:spa estaba@s:spa curando@s:spa . 128389_130129
-%eng:	
+%eng:	that one that one she was healing.
 *SEB:	on the second ending they show you like the girl is [/] <is like curing> [//] is like healthing # um:@s:eng&spa . 130121_138035
 *SEB:	cuando@s:spa se@s:spa la@s:spa va@s:spa a@s:spa entregar@s:spa le@s:spa da@s:spa un@s:spa shot y@s:spa se@s:spa convierte@s:spa de@s:spa nuevo@s:spa &=gasp . 137978_141546
-%eng:	
+%eng:	when he is going to give it to her, he gives her a shot and she tranforms herself again.
 *SEB:	dude y(ou) [/] you [/] you saw that the [/] &la [/] the [/] the girl was breathing like # like a lo(t) . 141603_145736
 *RIC:	yeah . 145725_146152
 *SEB:	[- spa] ella después en el xxx final estaba como más pasiva . 146299_149664
-%eng:	
+%eng:	she later was lit more passive.
 *SEB:	y@s:spa <le@s:spa da@s:spa al(go)@s:spa> [//] el@s:spa tipo@s:spa le@s:spa da@s:spa un@s:spa shot de@s:spa [/] de@s:spa otra@s:spa no@s:spa sé@s:spa qué@s:spa de@s:spa la(s)@s:spa que@s:spa tenía@s:spa él@s:spa # . 149843_154506
-%eng:	
+%eng:	and he gives her something the guy gives her a shot of something else that he had.
 *SEB:	[- spa] y [/] y se pone monstruo de nuevo . 154579_157165
-%eng:	
+%eng:  and he transforms into a monster again.
 *RIC:	yeah . 157222_157553
 *SEB:	entonces@s:spa they close the door and that's i(t) . 157760_159728
-%eng:	
+%eng:	then  they close the door and that's it.
 *RIC:	damn . 160756_161946
 *SEB:	but . 162520_163621
 *RIC:	+< I wanna see it . 162632_163371
@@ -136,16 +134,16 @@
 *RIC:	Qué_Pasa_U_S_A@s:eng&spa . 225242_226679
 *SEB:	I dunno . 226638_227844
 *RIC:	&ǀ bro el@s:spa programa@s:spa ese@s:spa en@s:spa [/] en@s:spa el@s:spa canal@s:spa dos@s:spa que@s:spa la@s:spa gente@s:spa es@s:spa una@s:spa familia@s:spa . 227910_232484
-%eng:	
+%eng: bro that program in channel two where people are a family.
 *RIC:	[- spa] y hablan inglés y español . 232501_234137
-%eng:	
+%eng: and they speak English and Spanish.
 *SEB:	I have seen it . 235340_236054
 *SEB:	you seen that show ? 236041_236738
 *SEB:	yeah but I [/] I wanna see more but I don't [/] I don't know what channel it's in . 236889_240769
 *RIC:	[- spa] es un programa viejo . 240676_241692
-%eng:	
+%eng:	it's an old program.
 *SEB:	+< ese@s:spa en@s:spa el@s:spa yeah I know . 240885_242383
-%eng:	
+%eng:	that in the yeah I know.
 *RIC:	yeah . 242484_242768
 *SEB:	it's like [/] it's like Cubans or something like that . 242780_245798
 *RIC:	+< uhhuh@s:eng&spa you Cubans . 244428_245433
@@ -155,10 +153,10 @@
 *SEB:	I'll check it out in the [/] in the online . 255608_257373
 *RIC:	yeah check it out . 257363_258175
 *SEB:	Qué_Pasa_U_S_A@s:eng&spa se@s:spa llama@s:spa ? 258257_259456
-%eng:	
+%eng:  is it called Qué Pasa USA ?
 *RIC:	+< Qué_Pasa_U_S_(A)@s:eng&spa +... 259185_260022
 *RIC:	er he was telling me que@s:spa quiere@s:spa grabar@s:spa el@s:spa programa@s:spa ese@s:spa . 260711_263667
-%eng:	
+%eng: er he was telling me that he wants to record those programs.
 *SEB:	who this guy ? 263669_265040
 *RIC:	+< yeah . 264523_265007
 *SEB:	he talk in Spanish ? 265318_267214
@@ -191,14 +189,14 @@
 *SEB:	Isaac@s:eng&spa Méndez@s:eng&spa <&w the &w> [//] the [/] the painter . 316899_320505
 *RIC:	nah oh yeah yeah . 320468_322052
 *SEB:	él@s:spa pintó@s:spa seven pictures antes@s:spa de@s:spa morirse@s:spa . 321682_325266
-%eng:	
+%eng:   he painted seven picture before he died.
 *RIC:	+< ok@s:eng&spa . 323289_323738
 *SEB:	and they found the pictures . 325019_326794
 *SEB:	one of the pictures is the [/] is the guy of the Claire@s:eng&spa . 326997_329985
 *SEB:	you saw that part ? 330008_331143
 *RIC:	the guy of the what ? 331143_331873
 *SEB:	+< that he's like # ah como@s:spa muerto@s:spa que@s:spa se@s:spa ve@s:spa como@s:spa muerto@s:spa con@s:spa un@s:spa tiro@s:spa en@s:spa el@s:spa glass . 331660_336783
-%eng:	
+%eng:	that he's like ah like a dead person that  looks like a dead person with a sho in the glass.
 *RIC:	oh yeah yeah yeah . 335267_336716
 *SEB:	that's the one . 336634_337757
 *SEB:	the other one is the +/. 337735_339240
@@ -245,50 +243,50 @@
 *RIC:	yeah . 427501_427872
 *SEB:	I saw it but it &l +//. 428312_428968
 *SEB:	you know like el@s:spa perfil@s:spa ? 429043_430146
-%eng:	
+%eng: 	you know like the profile?
 *RIC:	yeah . 430030_430552
 *SEB:	y@s:spa dije@s:spa that's Ando@s:eng&spa ! 430570_432369
-%eng:	
+%eng:	and I said  that's Ando!
 *RIC:	&=laugh . 432392_433176
 *SEB:	but # they didn't put it again so # you know xxx I was like # that isn't Ando@s:eng&spa then . 433199_439387
 *RIC:	yeah . 439741_440299
 *SEB:	[- spa] él es modelo creo . 440815_442447
-%eng:	
+%eng:	he is a model, I think.
 *RIC:	really ? 442441_442928
 *RIC:	yeah . 442870_443277
 *SEB:	go to go to Wikipedia@s:eng&spa # la@s:spa enciclopedia@s:spa online . 443359_448955
-%eng:	
+%eng:	got to go to Wikipedia the online encyclopaedia.
 *RIC:	yeah Wikipedia@s:eng&spa . 448892_449795
 *SEB:	y@s:spa pon@s:spa el@s:spa [/] el@s:spa [/] # el@s:spa profile there . 449803_454203
-%eng:	
+%eng:	and put the profile there.
 *SEB:	sale@s:spa él@s:spa sale@s:spa # Micah@s:eng&spa # &s &s . 454308_459217
-%eng:	
+%eng: he comes out, Micah comes out.
 *RIC:	Micah@s:eng&spa ? 459242_459652
 *SEB:	[- spa] +< el chama [/] chamaquito . 459652_460219
-%eng:	
+%eng:	the FRAIBET?
 *RIC:	+< oh yeah yeah . 460161_461335
 *SEB:	sale@s:spa # D_L@s:eng&spa . 460514_461713
-%eng:	
+%eng:	D_L comes out.
 *SEB:	[- spa] sale # &ʘ +//. 463068_465866
-%eng:	
+%eng:  it comes out.
 *SEB:	[- spa] quién más sale ? 465900_466911
-%eng:	
+%eng: who else comes out?
 *SEB:	sale@s:spa # Nathan@s:eng&spa . 466911_468012
-%eng:	
+%eng: Nathan comes out.
 *RIC:	Nathan@s:eng&spa ? 468610_469160
 *SEB:	+< Nathan@s:eng&spa Per@s:eng&spa +//. 468684_469251
 *SEB:	yeah Nathan@s:eng&spa Pe@s:eng&spa [/] Petrelli@s:eng&spa . 469375_470785
 *SEB:	sale@s:spa Peter@s:eng&spa también@s:spa . 470693_472745
-%eng:	
+%eng: Peter also comes out.
 *SEB:	[- spa] sale # el tipo este el hindú . 472828_475939
-%eng:	
+%eng: this guy, the Hindu, aslso comes out.
 *RIC:	they're all models ? 475799_477121
 *SEB:	[- spa] no . 477096_477777
-%eng:	
+%eng: no.
 *RIC:	oh . 477794_478220
 *SEB:	tha(t) [/] that guy Ando@s:eng&spa . 478270_480667
 *SEB:	eh@s:eng&spa el@s:spa hindú@s:spa no@s:spa me@s:spa acuerdo@s:spa que@s:spa era@s:spa e(s)@s:spa él@s:spa es@s:spa from Chicago@s:eng&spa . 480626_484361
-%eng:	
+%eng:	eh the hindu I don't remember that he was from Chicago.
 *RIC:	Suresh@s:eng&spa ? 484278_484869
 *SEB:	Suresh@s:eng&spa yeah . 484809_486951
 *RIC:	Mohinder@s:eng&spa . 486958_487754
@@ -300,7 +298,7 @@
 *SEB:	yeah . 499783_500474
 *RIC:	she pisses me off . 500549_501338
 *RIC:	[- spa] siempre está en los mismos esa . 501514_502807
-%eng:	
+%eng: she is always the same.
 *SEB:	+< yeah everything [/] everything is the same # I wanna help people I wanna help people I wanna help people whee get out . 502582_508503
 *RIC:	yeah exactly . 508369_509301
 *RIC:	I don't wanna . 509567_510398
@@ -316,32 +314,32 @@
 *SEB:	bro the only interest [//] <interesting part> [//] the interesting part that they do # was when this girl the [/] the cheerleader thi(s) [/] this girl ? 528416_537113
 *RIC:	oh yeah yeah . 537158_538641
 *SEB:	+< you saw that part que@s:spa él@s:spa la@s:spa deja@s:spa caer@s:spa y@s:spa ella@s:spa se@s:spa cae@s:spa y@s:spa . 537270_540697
-%eng:	
+%eng:	you saw that part that he lets her fall and she falls and.
 *SEB:	did you see that part ? 541102_543529
 *RIC:	oh when they were on the mountain ? 543686_545450
 *RIC:	wait what part was that ? 546839_547806
 *SEB:	no@s:spa no@s:spa no@s:spa no@s:spa <hay@s:spa un@s:spa> [//] hay@s:spa una@s:spa parte@s:spa que@s:spa [/] que@s:spa la@s:spa [/] la@s:spa pesada@s:spa la@s:spa cheerleader pesada@s:spa está@s:spa tomando@s:spa +... 547787_552466
-%eng:	
+%eng:no no no no there is a part that  the annoying chearleader is drinking...
 *SEB:	you [/] you didn't see that part ? 552762_554033
 *RIC:	well <is that> [/] is that episode six # or seven ? 553956_556192
 *SEB:	<I don't> [/] I don't really remember . 557643_559524
 *RIC:	+< six seven or eight ? 558537_559420
 *RIC:	(be)cau(se) I haven't seen six I'm gonna see six today . 559458_562436
 *SEB:	[- spa] hay una parte que ella está tomando . 562407_564224
-%eng:	
+%eng:	there is a part that she is drinking.
 *SEB:	[- spa] y ellos quieren # como [/] como asustarla como algo un escarmiento . 564300_568932
-%eng:	
+%eng:	and they want to scare her as a lesson.
 *SEB:	[- spa] y entonces # ellos planean algo . 568949_571353
-%eng:	
+%eng:	and then they plan something.
 *SEB:	[- spa] y él se pone una máscara . 571987_573601
-%eng:	
+%eng:	and he puts on a mask.
 *SEB:	[- spa] y él la sube y la deja caer . 573473_576091
-%eng:	
+%eng:	and he goes up and lets her fall.
 *SEB:	[- spa] y espera parecer un fantasma a ella tú sabes como pa(ra) asustarla . 576103_579000
-%eng:	
+%eng: and he hopes to look like a ghost to her you know to scare her.
 *RIC:	+< oh I haven't seen it . 578460_579899
 *SEB:	y@s:spa ella@s:spa le@s:spa dice@s:spa que@s:spa él@s:spa él@s:spa viene@s:spa la@s:spa policía@s:spa y@s:spa después@s:spa viene@s:spa Claire@s:eng&spa y@s:spa Claire@s:eng&spa está@s:spa normal@s:spa y@s:spa después@s:spa viene@s:spa el@s:spa muchacho@s:spa y@s:spa como@s:spa que@s:spa xxx parecer@s:spa la@s:spa como@s:spa que@s:spa ella@s:spa está@s:spa loca@s:spa . 579359_586701
-%eng:	
+%eng:	and she tells
 *RIC:	oh yeah yeah no I haven't seen it &=laugh . 586533_589087
 *RIC:	I'll see it . 589352_589857
 *SEB:	it [//] that's the only part that you know like it's like # funny . 589780_592798
