@@ -11,9 +11,8 @@
 @Date:	24-MAR-2008
 @Coder:	Jon Russell Herring, Prifysgol Bangor University
 @Time Duration:	00:32:40
-@Comment:	Filename: herring9.CHA; Soundfile: herring9.wav
+@Comment:	Filename: herring9.cha; Soundfile: herring9.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	
 @Comment:	Proofread. date: 25-SEPT-2009
 *CLA:	the two piece set <of the &gla> [//] of the water glasses is +... 23_3140
 *LUK:	can you do me a favor ? 3197_4405
@@ -30,10 +29,10 @@
 *LUK:	xxx at hot female dot_com . 39906_49081
 *LUK:	oh@s:eng&spa yeah <it's a &b> [//] it's a little gay that um@s:eng&spa # that it's at Hotmail_dot_com not Hotfemale_dot_com . 49138_54864
 *CLA:	[- spa] ay ya . 54874_55981
-%eng:	
+%eng:	oh, yeah.
 *LUK:	<I'm gonna> [/] I'm gonna xxx Hotfemale_dot_com . 56017_58168
 *LUK:	then I'll be diez@s:spa mil@s:spa at [//] en@s:spa Hotfemale_dot_com instead of at &=laugh +... 58158_62860
-%eng:	
+%eng:	then I'll be ten_thousand@hotfemale.com insead of at.
 *CLA:	+< xxx &=laugh . 61268_63588
 *LUK:	+< eh@s:eng&spa eh@s:eng&spa eh@s:eng&spa sh@s:eng&spa . 62700_64693
 *CLA:	I bet it exists right . 64693_67119
@@ -122,7 +121,7 @@
 *CLA:	+< delete it ? 248335_249138
 *LUK:	yep &=sniff . 249085_250385
 *CLA:	[- spa] falta uno . 250382_251354
-%eng:	
+%eng:	one gone.
 *LUK:	yeah clear them out . 251280_252918
 *LUK:	(be)cause Jared@s:eng&spa [/] Jared@s:eng&spa says +... 253813_255292
 *LUK:	maybe he doesn't know . 255387_256328
@@ -145,7 +144,7 @@
 *CLA:	he had to put it in this thing right ? 286329_288822
 *LUK:	+< I can do it . 286973_287966
 *LUK:	I can do it with this ones too . 288009_289287
-*LUK:	so that  means that there's a little connection that lets me do it with this key . 289159_292392
+*LUK:	so that means that there's a little connection that lets me do it with this key . 289159_292392
 *CLA:	+< you wanna rewire [?] or +/. 292055_294675
 *LUK:	+< ok@s:eng&spa he says that the guy moved the connection from this receiver to this receiver . 292635_297474
 *LUK:	ok@s:eng&spa . 298378_298709
@@ -242,10 +241,10 @@
 *CLA:	ah@s:eng&spa . 453093_453963
 *LUK:	and they're gonna think that the students from [/] from F_I_U@s:eng&spa are not good students . 453546_456873
 *CLA:	[- spa] ya &=laugh . 459540_460679
-%eng:	
+%eng:	yeah.
 *LUK:	+< &=laugh . 459672_461021
 *CLA:	[- spa] córtala . 460768_462144
-%eng:	
+%eng:	cut it out.
 *LUK:	well he [/] he said to keep talking . 462660_464531
 *LUK:	but it &də [/] doesn't say anywhere that we can't adjust the microphones . 464537_467442
 *LUK:	&=laugh . 468205_468795
@@ -334,10 +333,10 @@
 *CLA:	+< you want me to walk away ? 614606_616068
 *LUK:	hey you keep using bad words . 615337_616884
 *CLA:	[- spa] córtalo . 616861_617836
-%eng:	
+%eng:	cut it out.
 *LUK:	no@s:eng&spa . 617833_621548
 *CLA:	[- spa] sí . 621482_622590
-%eng:	
+%eng:	yes.
 *LUK:	no . 622570_623679
 *LUK:	anyways remember Rebecca@s:eng&spa ? 623664_627179
 *CLA:	no . 627150_628433
@@ -349,12 +348,12 @@
 *LUK:	I'm just thinking baby . 638978_641613
 *LUK:	comes to mind now . 641607_644353
 *CLA:	[- spa] +< me está dando ya un dolor de cabeza . 642104_644182
-%eng:	
+%eng:	you're giving me a headache.
 *LUK:	why <can't uh@s:eng&spa> [//] can't that come to mind now ? 644179_647169
 *LUK:	we were just talking to this guy from Wales . 647134_649000
 *LUK:	and that maybe reminded me of her . 649006_650826
 *CLA:	[- spa] no te oigo 650808_651325
-%eng:	
+%eng:	I'm not listening to you.
 *CLA:	I've put it [/] I typed it in right ? 650560_652900
 *LUK:	+< I wonder if she settled ? 0_0
 *CLA:	and it didn't go to the website . 652826_654585
@@ -371,7 +370,7 @@
 *CLA:	what ? 668856_669872
 *LUK:	that video . 669855_671532
 *CLA:	[- spa] no lo de +... 671673_673060
-%eng:	
+%eng:	no, the one from ...
 *LUK:	that's all I was saying that video . 672584_674743
 *LUK:	I been trying to find it so badly . 675022_677727
 *CLA:	yeah well I don't want you to . 677791_679068
@@ -445,7 +444,7 @@
 *CLA:	right ? 788802_789498
 *CLA:	and then # you have the seats would be in front of it . 789533_791983
 *CLA:	[- spa] mira . 792000_792401
-%eng:	
+%eng:	look.
 *CLA:	where's the pen ? 793129_794557
 *LUK:	baby I'm just saying . 794669_795482
 *LUK:	if we're all the way back here ## would [?] +/. 795482_797525
@@ -534,9 +533,9 @@
 *LUK:	+< it is ! 941823_942530
 *LUK:	no it is . 942930_943700
 *CLA:	[- spa] +< ya [=! laugh] . 943315_943742
-%eng:	
+%eng:	yeah.
 *LUK:	he said that it was . 943753_944686
-*CLA:	ok@s:eng&spa . 945499_946000
+*CLA:	o_k@s:eng&spa . 945499_946000
 *LUK:	uhhuh@s:eng&spa . 946105_946590
 *CLA:	my mom was choking +//. 946459_947323
 *CLA:	my mom says that dog is a freak of nature . 947376_949237
@@ -544,7 +543,7 @@
 *CLA:	the thing is that he would just keep on going like it's all good . 952102_954242
 *LUK:	so you had the [/] the [/] the +/. 954259_955372
 *CLA:	+< she got the manguera@s:spa . 954691_955830
-%eng:	
+%eng:	she got the hosepipe.
 *LUK:	but she had +/. 955823_956392
 *CLA:	+< started hitting her . 956150_957404
 *LUK:	+, he had already eaten the [/] the thing ? 956424_958248
@@ -552,9 +551,9 @@
 *CLA:	he [//] she was trying +... 958963_959775
 *LUK:	+< oh@s:eng&spa . 959015_959564
 *CLA:	he [//] my mom got the manguera@s:spa . 959943_961567
-%eng:	
+%eng:	he, my mom got the hosepipe.
 *CLA:	started hitting him with the manguera@s:spa . 961620_963434
-%eng:	
+%eng:	started hitting him with the hosepipe.
 *CLA:	nothing . 963528_964013
 *CLA:	he just kept on going <at th(e)> [/] at the cage like it was all good # nothing . 964003_966618
 *LUK:	+< hmm@s:eng&spa . 966291_966818
@@ -720,7 +719,7 @@
 *LUK:	+< think about it ! 1252206_1252965
 *LUK:	if it's just you saying every so often +"/. 1253493_1255127
 *CLA:	[- spa] ay Jesu Cristo &=laugh . 1254816_1256393
-%eng:	
+%eng:	oh, Jesus Christ.
 *LUK:	+< +" shut the fuck up shut the fuck &=laugh +... 1255122_1256667
 *CLA:	&=laugh . 1256711_1257238
 *CLA:	yeah xxx half a page of shut the fuck up . 1257243_1259351
@@ -795,7 +794,7 @@
 %eng:	
 *CLA:	+< +, I dunno a tan suit or something like the tan +... 1382962_1385904
 *LUK:	yo@s:spa quiero@s:spa Taco_Bell@s:eng&spa . 1385841_1387085
-%eng:	
+%eng:	I want Taco Bell.
 *CLA:	with <a ni(ce)> [///] a [/] the pink shirt or # something really relaxed . 1386115_1389911
 *LUK:	&ǀ . 1390653_1391360
 *CLA:	&ǀ . 1391497_1391971
@@ -844,14 +843,14 @@
 *LUK:	I am not going to do two language invitations . 1481622_1484336
 *LUK:	because then you're paying <two different peop(le)> [//] two different companies to do +... 1484315_1487521
 *CLA:	+< no@s:spa pero@s:spa doing it in Spanish +... 1484832_1488139
-%eng:	
+%eng:	no, but doing it in Spanish.
 *LUK:	no because there's some people like +... 1488255_1490226
 *CLA:	who ? 1490574_1491091
 *LUK:	Jessie@s:eng&spa and [/] and [/] and [/] and Davy@s:eng&spa . 1490638_1493463
 *CLA:	who got my fifteenth invitation in Spanish and knew how to get there . 1492093_1495119
 *LUK:	you know if the [/] the directions <are in> [/] are in numbers . 1495551_1497765
 *LUK:	I mean it's not like you know uno@s:spa dos@s:spa tres@s:spa cuatro@s:spa . 1497763_1500811
-%eng:	
+%eng:	I mean it's not like, you know, one, two, three, four.
 *LUK:	you know oh . 1500925_1501842
 *CLA:	+< no . 1501357_1501863
 *LUK:	+" does she mean one two three four ? 1501895_1503877
@@ -860,8 +859,9 @@
 *LUK:	put the numbers in numbers . 1508727_1509792
 *LUK:	how about that ? 1509697_1510256
 *CLA:	amore@4 . 1510225_1510847
+%eng:	love.
 *LUK:	[- spa] en números . 1510826_1511574
-%eng:	
+%eng:	in numerals.
 *LUK:	no because I seen some of them that you know they write out <the name> [//] the numbers . 1511810_1514963
 *CLA:	you know I [/] <I don't wanna do> [//] I didn't wanna do it in Spanish . 1513476_1516688
 *CLA:	but it [/] it makes more sense . 1516745_1519666
@@ -876,23 +876,23 @@
 *LUK:	you know I don't wanna &ha [//] do it in Spanish . 1537724_1539643
 *LUK:	because I don't just don't like it . 1539622_1541699
 *LUK:	you like to say te@s:spa amo@s:spa . 1542408_1543578
-%eng:	
+%eng:	you like to say "I love you".
 *LUK:	that's pretty much the only thing <I'll con(cede)> [//] I [/] I'll [/] I'll give . 1543578_1546098
 *LUK:	just because you see it as special . 1546263_1547823
 *LUK:	I say I love you . 1547802_1548751
 *LUK:	and I mean it as &ti passionately <as you> [/] as you mean te@s:spa amo@s:spa . 1549419_1552815
-%eng:	
+%eng:	and I mean it as passionately as you mean "I love you".
 *CLA:	it doesn't have the same connotation you know . 1553306_1555552
 *LUK:	+< &=kiss . 1554371_1554677
 *LUK:	[- spa] te amo . 1555257_1555984
-%eng:	
+%eng:	I love you.
 *LUK:	[- spa] te quiero . 1555974_1556859
-%eng:	
+%eng:	I love you.
 *LUK:	but [/] but <I don't> [/] I don't wanna do +... 1557954_1560126
 *CLA:	+< this is the gazebo thing . 1558365_1559989
 *CLA:	look the layout . 1559978_1560970
 *LUK:	[- spa] en [/] en [///] como es en pobreza y en [/] en [/] en . 1560854_1566105
-%eng:	
+%eng:	in, in, like, it's pretty poor and in ...
 *CLA:	+< no no no no but it [//] ok@s:eng&spa I'm not gonna +... 1564894_1567446
 *CLA:	the vows are something personal . 1567553_1568956
 *CLA:	no one else [///] it doesn't matter if the whole fucking ceremony is in English . 1568966_1573068
@@ -905,7 +905,7 @@
 *LUK:	+< <xxx> [=! laugh] . 1583214_1584902
 *LUK:	&=sigh . 1585144_1585935
 *CLA:	[- spa] mira . 1585692_1586511
-%eng:	
+%eng:	watch it..
 *LUK:	you said it several times already . 1586525_1588160
 *LUK:	and <it's just> [//] it's inappropriate <for a> [/] for a petite little lady like yourself . 1588149_1591734
 *CLA:	+< ok@s:eng&spa sweetheart . 1588790_1590267
@@ -918,7 +918,7 @@
 *CLA:	+< <and it's xxx> [///] this is the layout of the gazebo . 1598257_1600524
 *CLA:	it's not xxx . 1600678_1602597
 *CLA:	and # this will be like # el@s:spa camino@s:spa . 1602766_1605550
-%eng:	
+%eng:	and this will be, like, the path.
 *CLA:	and then you have a little +/. 1606592_1607794
 *LUK:	you know <there was> [/] there was a pick up truck called Chevy@s:eng&spa [//] Chevrolet@s:eng&spa Camino@s:eng&spa ? 1607551_1610567
 *CLA:	+< we would set up the chairs . 1607657_1608953
@@ -927,7 +927,7 @@
 *LUK:	yeah I know . 1613442_1613758
 *LUK:	but nova you know supernova that's sounds like an English word . 1613758_1616774
 *LUK:	but [/] but el@s:spa Camino@s:eng&spa I mean that's like # wow@s:eng&spa out there . 1616787_1620414
-%eng:	
+%eng:	but the Camino, I mean, that's like, wow, out there.
 *CLA:	ok@s:eng&spa . 1621239_1621882
 *LUK:	ok@s:eng&spa . 1621861_1622504
 *CLA:	so this would be like the walkway . 1623843_1625341
@@ -1040,7 +1040,7 @@
 *CLA:	+< when my mom was your age [//] was your mom's age my mom could do anything . 1838394_1841803
 *LUK:	you know why ? 1842175_1843252
 *CLA:	(be)cause your mom's a vieja@s:spa . 1843494_1844550
-%eng:	
+%eng:	because your mom's an old lady.
 *LUK:	no because my mother is a fully developed woman . 1844702_1849030
 *LUK:	your mother is a little midget with no meat on her bones . 1849115_1852218
 *CLA:	no meat on her bones ? 1852547_1854236
@@ -1062,9 +1062,9 @@
 *LUK:	like the crypt keeper . 1876945_1878275
 *LUK:	five years older than the crypt keeper . 1879818_1881519
 *CLA:	[- spa] &=laugh mira . 1881772_1882864
-%eng:	
+%eng:	watch it.
 *CLA:	[- spa] vas a buscar problema . 1882997_1884774
-%eng:	
+%eng:	you're asking for it.
 *CLA:	that's all [//] that's the house by the way . 1886618_1888290
 *CLA:	and they have in the back supposedly . 1888459_1890340
 *CLA:	I haven't seen it . 1890491_1891443
