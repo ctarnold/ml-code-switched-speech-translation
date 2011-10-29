@@ -9,9 +9,8 @@
 @Transcriber:	Diana Carter, Prifysgol Bangor University
 @Time Duration:	00:30:40
 @Media:	zeledon11, audio
-@Comment:	Filename: zeledon11.CHA; Soundfile: zeledon11.wav
+@Comment:	Filename: zeledon11.cha; Soundfile: zeledon11.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	
 *ANT:	um you know this is a picture of the parking garage that you can easily tell . 0_3738
 *ANT:	uh there's G_c up top P_c on the left side book store on the top side as well . 3733_8518
 *ANT:	it's [//] I mean this is pretty readable right ? 8503_10111
@@ -51,9 +50,9 @@
 *SEA:	<we shoulda> [//] we [/] <we should ask ah> [/] we should ask this guy a question in Spanish . 82302_86018
 *SEA:	&=groan &=laughs . 85997_87274
 *ANT:	[- spa] cómo te sientes ? 87269_88186
-%eng:	
+%eng:	what do you think?
 *SEA:	[- spa] cómo te sientes &=laughs ? 88176_90951
-%eng:	
+%eng:	what do you think?
 *ANT:	&=laughs . 88176_90951
 *ANT:	we should ask them before and after . 90945_91998
 *ANT:	xxx . 91964_92341
@@ -61,45 +60,45 @@
 *SEA:	<we should> [/] we should say &w &a all the main questions in English all the nice questions in Spanish . 93079_97278
 *SEA:	&=mumbles . 97273_98765
 *SEA:	[- spa] &=mumbles oficial policía . 98755_102692
-%eng:	
+%eng:	police officer.
 *SEA:	<how do you> [/] <how do you say> [/] <how do you> [//] how would you say like officer in Spanish ? 102682_105457
 *ANT:	[- spa] +< señor . 103042_103640
-%eng:	
+%eng:	sir.
 *ANT:	I would have to say oficial@s:spa right ? 105144_106543
-%eng:	
+%eng:	I would have to say officer, right?
 *SEA:	[- spa] oficial . 106515_106968
-%eng:	
-*ANT:	oficial@s:e ? 106956_107578
+%eng:	officer.
+*ANT:	[- spa] oficial ? 106956_107578
 *ANT:	I mean that sounds +... 107566_109354
 *ANT:	you wouldn't say policía@s:spa (be)cause that's [/] that's &=mumbles +... 109333_111875
-%eng:	
+%eng:	you wouldn't say police because that's ...
 *SEA:	yeah oficial@s:spa yeah oficial@s:spa . 111057_112148
-%eng:	
+%eng:	yeah, officer, yeah officer.
 *ANT:	+< yeah . 111795_112167
 *SEA:	(be)cause I mean like if it's a detective you just say like you know detective@s:eng&spa &=mumbles . 112128_115519
 *ANT:	[- spa] un detectivo sí . 115258_116303
-%eng:	
+%eng:	a detective, yes.
 *SEA:	[- spa] &e detectivo . 116282_117356
-%eng:	
+%eng:	detective.
 *ANT:	[- spa] oficial . 117269_118377
-%eng:	
+%eng:	officer.
 *ANT:	make it sound better . 118374_119019
 *SEA:	+< uhuh . 119019_119460
 *ANT:	because if you xxx it sounds very uh xxx +... 119071_122014
 *ANT:	actually you don't want to tell someone you know in fascist Argentina@s:spa . 121875_124703
-%eng:	
+%eng:	actually you don't want to tell someone you know in fascist Argentina.
 *ANT:	you know like that's +... 124721_125743
 *SEA:	&=laughs . 125156_125801
 *ANT:	that's [//] &=laughs or in fascist Chile@s:eng&spa . 125728_128322
 *ANT:	[- spa] oficial . 128308_128894
-%eng:	
+%eng:	officer.
 *SEA:	[- spa] oficial . 128871_129649
-%eng:	
+%eng:	officer.
 *SEA:	xxx . 129655_130578
 *ANT:	+< &=laughs . 129655_130578
 *SEA:	yeah actually like uh +/. 130572_132304
 *ANT:	+< you don't call your best friend oficial@s:spa . 131613_132925
-%eng:	
+%eng:	you don't call your best friend officer.
 *ANT:	like that's +... 132925_133552
 *SEA:	did you know where the term fascism comes from ? 133535_135224
 *ANT:	no . 135202_135934
@@ -219,7 +218,7 @@
 *ANT:	you have four seconds to throw a rock . 347820_349579
 *ANT:	you know you never +/. 349550_350229
 *SEA:	[- spa] tirando piedras &a: . 350219_352187
-%eng:	
+%eng:	throwing stones.
 *ANT:	you know I realized yesterday why people don't use full auto um when they shoot . 352171_356643
 *ANT:	and it's because I heard someone shoot an A_k full auto thirty rounds . 356626_360736
 *ANT:	it took about four seconds . 360716_362992
@@ -419,9 +418,9 @@
 *SEA:	it's like &a: like +... 738080_739317
 *SEA:	I mean how do you say xxx . 739307_740810
 *ANT:	[- spa] basurero . 740224_740886
-%eng:	
+%eng:	waste-bin.
 *SEA:	basurero@s:spa so it's the same thing . 740869_742129
-%eng:	
+%eng:	waste-bin, so it's the same thing.
 *SEA:	you know it's [//] but it's like +... 742132_744129
 *SEA:	xxx like the [/] the [//] that compound in English . 743769_746039
 *SEA:	you know it's just like you're not going to find that in Spanish . 746027_747687
@@ -431,37 +430,37 @@
 *SEA:	you know it's trash can . 750711_751791
 *SEA:	like in [/] <in a> [/] <in a> [/] <in a> [//] in Spanish <it's just like> [//] <no it's like> [//] it's one item . 751760_756307
 *SEA:	[- spa] basurero . 756304_756925
-%eng:	
+%eng:	waste-bin.
 *ANT:	+< it's basurero@s:spa . 756304_756925
-%eng:	
+%eng:	it's waste-bin.
 *SEA:	[- spa] basurero . 756908_758057
-%eng:	
+%eng:	waste-bin.
 *ANT:	+< <it's just> [//] that's what it +... 756908_757987
 *ANT:	you know that's actually something I like about Spanish . 757970_759857
 *ANT:	um it really combines a lot of words . 759842_761961
 *ANT:	it's not (.) um of the . 761944_764390
 *ANT:	it's just del@s:spa . 764384_765899
-%eng:	
+%eng:	it's just "of the".
 *ANT:	that's right . 765877_766440
 *ANT:	just de@s:spa el@s:spa &fuisht . 766435_767596
-%eng:	
+%eng:	just "of the".
 *ANT:	slam (th)em together del@s:spa . 767584_768861
-%eng:	
+%eng:	slam them together, "of the".
 *SEA:	yeah . 768812_769322
 *ANT:	so much more efficient I think . 768846_770878
 *ANT:	some of the time (be)cause when you take accents and stuff into play those acentos@s:spa can be pretty +... 770861_775571
-%eng:	
+%eng:	some of the time (be)cause when you take accents and stuff into play those accents can be pretty ...
 *SEA:	yeah <but in> [/] <but in> [/] but in English <you have &a> [/] you have <what they> [//] what I mean what I'm gonna call right now like &a like prepositional &a adverbials becoming [/] becoming adjectives . 775005_785499
 *SEA:	so you have uh again like a professor of French say French professor . 785496_789864
 *SEA:	whereas in Spanish you don't have that . 789823_791891
 *ANT:	that's right you don't . 791578_792808
 *SEA:	+< &đ &đ &đ there is that there is no +/. 791765_793867
 *ANT:	there's always de@s:spa . 793066_794012
-%eng:	
+%eng:	there's always "of".
 *SEA:	yeah profesor@s:spa de@s:spa francés@s:spa . 794000_795773
-%eng:	
+%eng:	yeah, "professor of French".
 *SEA:	<if you say> [/] if you say profesor@s:spa francés@s:spa +/. 795773_797973
-%eng:	
+%eng:	if you say "French professor".
 *ANT:	it means a French &p like literally from France . 797967_800542
 *SEA:	+< yes yeah . 799584_800640
 *ANT:	yeah . 800636_801100
@@ -542,7 +541,7 @@
 *SEA:	this brings me to my [//] the [/] the [/] the topic that I've been wanting to [/] to talk about . 949046_952906
 *SEA:	&=mumbles . 952896_953750
 *ANT:	[- spa] dime . 953750_954226
-%eng:	
+%eng:	tell me.
 *SEA:	+< <I have this uh> [///] when I went to +... 953918_958259
 *ANT:	topic that you wanted to talk about . 958253_960169
 *SEA:	one thing what I ever want to talk about . 960140_962313
@@ -625,23 +624,23 @@
 *ANT:	that's what we're gonna do . 1106531_1108203
 *SEA:	but anyways that picture that you took um like ah that brings me up to like that one day that I went to go to xxx . 1108197_1113912
 *SEA:	and uh and I [/] I remember this long lost like Spanish term you know which was uh which was vacilar@s:spa . 1113628_1119561
-%eng:	
+%eng:	and I remember this long-lost, like, Spanish term, you know, which was "check". 
 *ANT:	&vacilante ? 1119544_1120514
 *SEA:	+< <have you> [/] have you ever heard that ? 1119649_1120902
 *SEA:	[- spa] vacilar ? 1120891_1121460
-%eng:	
+%eng:	"check"
 *ANT:	I've never heard of &vacilante . 1120966_1121773
 *SEA:	[- spa] vacilar vacilar . 1121767_1123927
-%eng:	
+%eng:	"check", "check".
 *ANT:	[- spa] vacilar ? 1123248_1123915
-%eng:	
+%eng:	"check".
 *SEA:	yeah vacilar@s:spa a@s:spa alguien@s:spa . 1123901_1125915
-%eng:	
+%eng:	yeah, check someone.
 *ANT:	no . 1125892_1126966
 *SEA:	oh man like that is like such an awesome word . 1126972_1128624
 *SEA:	because the thing about vacilar@s:spa is that it [/] <it means> [/] it means to take in visually . 1128612_1136383
-%eng:	
-*SEA:	ok ? 1136374_1137523
+%eng:	because the thing about "check" is that it means to take in visually.
+*SEA:	o_k ? 1136374_1137523
 *SEA:	it also means to have fun . 1137535_1138563
 *SEA:	so it could just mean like xxx <it's like> [/] it's like being merry you know or having fun having a good time like living it up . 1138568_1143571
 *SEA:	you know ? 1143547_1143960
@@ -652,7 +651,7 @@
 *ANT:	so unlike you . 1148700_1149640
 *SEA:	xxx . 1149271_1150833
 *SEA:	but ah (.) so the whole idea was that but like vacilarse@s:spa <it has this> [/] it has this extra component built into the word of um [/] (.) of processing . 1150816_1162182
-%eng:	
+%eng:	but, so the whole idea was that but, like, "check out", it has this extra component built into the word, of processing
 *SEA:	it's not just visually . 1162169_1163312
 *SEA:	it's not it's (be)cause you see you can't directly translate it into checking it out to checking out like I checked out that girl . 1163225_1168569
 *SEA:	you can't say like I checked her . 1168553_1169389
@@ -662,30 +661,30 @@
 *SEA:	so it's not just I went to the store it's like I have gone to the store . 1179394_1182366
 *SEA:	so you have the complexity of [/] of perfective tense . 1182377_1184499
 *SEA:	yeah so vacilar@s:spa is like I[/] I am checking her out . 1184476_1187305
-%eng:	
+%eng:	yeah so "check" is like, I am checking her out
 *SEA:	and I am in the process of checking her out . 1187287_1189244
 *SEA:	so I am taking her in . 1189235_1190489
 *SEA:	it's like I am drinking [/] (.) I am drinking her sight visually . 1190489_1194537
 *SEA:	I am drinking the sight of her . 1194531_1195826
 *ANT:	+< wow . 1194961_1195715
 *ANT:	[- spa] vacilar ? 1195700_1197656
-%eng:	
+%eng:	"check"?
 *SEA:	vacilar@s:spa yeah . 1197645_1198771
-%eng:	
+%eng:	"check", yeah.
 *ANT:	+< how would you use that ? 1198257_1198756
 *ANT:	[- spa] la estoy vacilando ? 1198750_1199847
-%eng:	
+%eng:	I'm checking her out?
 *SEA:	xxx . 1199842_1200730
 *SEA:	[- spa] o o me gusta vacilarte . 1200724_1202550
-%eng:	
+%eng:	or, I like checking you out.
 *ANT:	[- spa] me gusta vacilarte . 1202527_1204326
-%eng:	
+%eng:	I like checking you out.
 *SEA:	I mean that's really direct you know . 1203862_1205267
 *ANT:	that's ah +... 1204326_1205046
 *SEA:	you know it's like +... 1205046_1205580
 *ANT:	that's [=! laughs] +... 1205419_1207579
 *SEA:	yeah o@s:spa o@s:spa o@s:spa vacileo@s:spa xxx . 1207557_1211322
-%eng:	
+%eng:	yes, or, I'm checking her out.
 *SEA:	like that it's like +... 1211327_1212848
 *SEA:	but it's just like I [/] I took her in . 1212827_1214969
 *SEA:	I didn't just check her out . 1214940_1216252
@@ -696,7 +695,7 @@
 *ANT:	I mean +... 1225742_1226496
 *SEA:	no no it doesn't &=mumble . 1226496_1227681
 *ANT:	[- spa] estoy vacilando . 1226862_1227663
-%eng:	
+%eng:	I'm sizing you up.
 *ANT:	that's one thing . 1227663_1228319
 *SEA:	yeah . 1228128_1228435
 *ANT:	I'm inspecting you . 1228453_1229550
@@ -712,7 +711,7 @@
 *SEA:	+, materialize you know just . 1253197_1255495
 *SEA:	it's +... 1255487_1256950
 *ANT:	[- spa] la estoy vacilando . 1256944_1258215
-%eng:	
+%eng:	I'm checking her out.
 *ANT:	xxx . 1258211_1259007
 *SEA:	yeah . 1258984_1259454
 *SEA:	it's [/] <it's a> [/] (.) <it's a &ser> [/] it's a serious word . 1259477_1262898
@@ -727,7 +726,7 @@
 *SEA:	you know I am comparing you to like the you know the schema that I have in my head . 1271816_1275702
 *SEA:	all these things are contained within that one word . 1275673_1277682
 *ANT:	[- spa] ahí . 1277674_1279316
-%eng:	
+%eng:	there.
 *ANT:	xxx what brought this up at xxx ? 1279293_1283428
 *SEA:	no no no like I'm [/] I'm [/] I'm driving on down the street . 1283413_1286664
 *SEA:	and I see this woman you know . 1286414_1287622
@@ -752,22 +751,22 @@
 *ANT:	+< &=laughs . 1319150_1322157
 *SEA:	<but again like> [//] and then like &=stutters <you can turn it> [/] you can turn it right around and <make it a> [/] make it an activity . 1322141_1328169
 *SEA:	you know like hay@s:spa que@s:spa vacilar@s:spa like . 1328084_1330319
-%eng:	
+%eng:	you know, like, we have to chill out, like.
 *ANT:	[- spa] hay que vacilar . 1330310_1330943
-%eng:	
+%eng:	we have to chill out..
 *ANT:	yeah xxx the verb . 1330926_1332284
 *SEA:	+< which means like (.) in [/] in [/] in a general sense you know life has to be enjoyed . 1331210_1338083
 *SEA:	you know like take in life . 1337547_1339097
 *SEA:	you know take in (.) a [/] a joyous activity you know . 1339080_1342488
 *SEA:	so +... 1342479_1344203
 *ANT:	isn't it funny how that word mixes disfrutar@s:spa and examinar@s:spa . 1344187_1347061
-%eng:	
+%eng:	isn't it funny how that word mixes "enjoy" and "examine"?
 *SEA:	[- spa] disfrutar y qué ? 1347049_1349052
-%eng:	
+%eng:	"enjoy" and what?
 *ANT:	[- spa] disfrutar xxx examinar . 1349038_1350623
-%eng:	
+%eng:	"enjoy" xxx "examine"?
 *SEA:	examinar@s:spa yeah . 1350611_1351337
-%eng:	
+%eng:	examine, yeah.
 *ANT:	+< xxx . 1350785_1351639
 *ANT:	that's [/] that's [/] that's [/] interesting . 1351641_1353017
 *ANT:	I wonder if there's some &s +//. 1352982_1355147
@@ -841,23 +840,23 @@
 *ANT:	trying to think . 1497781_1499226
 *ANT:	&=laughs trying to remember like my dad shouting at my mom when I was like six years old +"/. 1499200_1505982
 *ANT:	[- spa] +" estoy volviendo calvo ! 1505840_1507448
-%eng:	
+%eng:	I'm going bald!
 *ANT:	[- spa] +" coño ! 1507427_1509342
-%eng:	
+%eng:	fuck!
 *ANT:	xxx [=! laughs] . 1509325_1511444
 *ANT:	[- spa] maldita sea me está pasando . 1511435_1513606
-%eng:	
+%eng:	dammit, it's thinning.
 *ANT:	no hairline . 1513583_1515162
 *ANT:	xxx about hairline . 1515153_1516767
 *ANT:	um +... 1516750_1518097
 *SEA:	I mean <I know> [/] I know <there's like> [/] there's like in Spanish there's entradas@s:spa <which is> [/] (.) which is just like [/] like you know like it's [/] it's [/] it's these [/] these areas here . 1518088_1527403
-%eng:	
+%eng:	I mean, there's like, in Spanish, there's "entrances", which is just, like, you know, like, it's these areas here.
 *ANT:	[- spa] +< entra . 1521853_1522271
-%eng:	
+%eng:	you enter.
 *ANT:	yeah . 1527382_1527893
 *SEA:	to the slides like going further in you know so . 1527405_1529797
 *ANT:	we've been over this . 1529787_1530710
-*ANT:	didn't we talk about this at Dunkin_donuts@s:eng&spa ? 0_0
+*ANT:	didn't we talk about this at Dunkin_Donuts@s:eng&spa ? 0_0
 *SEA:	what about it ? 1532436_1535658
 *ANT:	I think you asked me how to say hairline in Spanish . 1535637_1537967
 *ANT:	and I was like +"/. 1537967_1538483
@@ -865,7 +864,7 @@
 *ANT:	+" but I know about the entrances . 1539163_1540707
 *ANT:	and you were like +"/. 1540222_1540738
 *ANT:	+" yeah yeah las@s:spa entradas@s:spa . 1540721_1541795
-%eng:	
+%eng:	yeah, yeah, the entrances.
 *SEA:	+" yeah . 1540756_1541104
 *ANT:	xxx . 1541754_1542580
 *SEA:	no xxx I don't remember . 1541831_1543672
@@ -883,9 +882,9 @@
 *SEA:	but uh +... 1561879_1563522
 *ANT:	hairline . 1563504_1564236
 *ANT:	I wonder where the word calvo@s:spa comes from . 1564226_1567448
-%eng:	
+%eng:	I wonder where the word "bald" comes from.
 *SEA:	calvo@s:spa I don't know . 1567427_1569348
-%eng:	
+%eng:	"bald", I don't know.
 *SEA:	I have no idea . 1569333_1571068
 *ANT:	or bald xxx . 1571086_1573498
 *ANT:	there's gotta be some base term . 1573474_1575616
