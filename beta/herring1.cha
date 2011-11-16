@@ -13,7 +13,6 @@
 @Time Duration:	00:32:18
 @Comment:	Filename: herring1.CHA; Soundfile: herring1.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	
 @Warning:	PROOFED TRANSCRIPT
  *CHL:	well she was telling me about this thing with Oprah@s:eng&spa . 124_3849
 *CHL:	that she's a new age thing . 4031_6182
@@ -60,7 +59,6 @@
 *LAU:	whatever . 62369_63012
 *CHL:	&da: and the drama conti(nues) +/. 62969_64906
 *LAU:	+< y@s:spa Fernando@s:eng&spa ? 63868_64750
-%eng:	
 *CHL:	he's good he's good . 64897_66150
 *CHL:	I'm leaving on Friday . 66229_67869
 *LAU:	+< &uwi ok@s:eng&spa . 67333_68570
