@@ -1,41 +1,45 @@
 Predominantly-Spanish files
 -------------------------------------------
-herring11: spa
-herring12: spa
 herring2: spa
 herring3: spa
 herring5: spa
+herring11: spa
+herring12: spa
+
 sastre1: spa                                                                
 sastre3: spa                                                                
 sastre5: spa                                                                
-sastre9: spa                                                                
+sastre9: spa    
+
 zeledon1: spa 
-zeledon14: spa
 zeledon5: spa
 zeledon8: spa
+zeledon14: spa
 
 Predominantly-English files
 -------------------------------------------
 herring1: eng
-herring10: eng
-herring13: eng
-herring16: eng
 herring6: eng
 herring7: eng                                           
 herring8: eng                                                               
-herring9: eng                                                               
-sastre10: eng                                                               
-sastre11: eng                                                               
-sastre12: eng                                                               
-sastre13: eng                                                               
+herring9: eng
+herring10: eng
+herring13: eng
+herring16: eng
+
 sastre4: eng                                                                
 sastre6: eng                                                                
 sastre7: eng                                                                
-sastre8: eng                                                                                                                          
-zeledon11: eng
-zeledon13: eng
+sastre8: eng
+sastre10: eng                                                               
+sastre11: eng                                                               
+sastre12: eng                                                               
+sastre13: eng
+
 zeledon2: eng
 zeledon3: eng
 zeledon4: eng
 zeledon6: eng
 zeledon9: eng
+zeledon11: eng
+zeledon13: eng
