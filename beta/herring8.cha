@@ -2,7 +2,7 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	MEL Melanie Adult, ROB Robert Adult, OSE Other Speaker Child, OSA Other Speaker
+@Participants:	MEL Melanie Adult, ROB Robert Adult, OSE Other Speaker Child, OSA Other Speaker Adult, OSB Other Speaker Adult
 @ID:	eng, spa|bangor3|MEL||female|||Adult|
 @ID:	eng, spa|bangor3|ROB||male|||Adult||
 @Situation: MEL works at the Science Museum. She is doing a PhD on educational theory and has her defense next week (this is mentioned). ROB is her husband, a maths teacher. She is Puerto Rican and he is Cuban (son of first-generation immigrants).
@@ -27,7 +27,7 @@
 *ROB:	uh I don't know how much that cost me but uh the visit alone was sixty . 28139_31894
 *ROB:	and then he replaced the o_rings which really +/. 32875_35375
 *MEL:	+< this is the Bill@s:eng&spa guy ? 34993_36137
-*ROB:	yeah Bill @s:eng&spa . 36026_37350
+*ROB:	yeah Bill@s:eng&spa . 36026_37350
 *MEL:	did you ask him about the <pool heater> [?] ? 37345_38964
 *MEL:	<or you didn't> [?] ask ? 39017_39940
 *ROB:	+< <you know> [?] <he said> [/] he said +"/. 39034_40253
@@ -259,7 +259,7 @@
 *MEL:	that's what I had heard that everybody was out . 517926_519610
 *MEL:	es@s:spa que@s:spa she gave everybody the day off except for herself +/. 519609_521653
 %eng:	it's because she gave everybody the day off except for herself.
-%com:	"I guess" rather than "es que"???
+%com:	[CHECK] "I guess" rather than "es que"???
 *ROB:	[- spa] y +... 521641_523586
 %eng:	and.
 *MEL:	+, which is fine . 521641_522541
@@ -579,7 +579,7 @@
 *ROB:	no ? 1146046_1146498
 *OSA:	yes . 1146498_1147305
 *OSA:	xxx . 1147305_1147688
-*MEL:	+< I'm talking to the xxx department xxx . 1147294_1149204
+*MEL:	+< I'm talking to the maths department xxx . 1147294_1149204
 *OSA:	sorry (a)bout that . 1149180_1150070
 *OSA:	Sunshine@s:eng&spa ! 1150070_1150691
 *ROB:	no . 1150626_1151212
@@ -598,10 +598,10 @@
 *MEL:	Rosa@s:eng&spa forget your dog . 1162141_1163128
 *MEL:	run ! 1163117_1163685
 *OSE:	xxx . 1163650_1164619
-*OSA:	+< xxx go . 1164288_1165548
+*OSA:	+< [CHECK] xxx go . 1164288_1165548
 *MEL:	close the door . 1167473_1168047
 *OSE:	xxx . 1168012_1169853
-*ROB:	xxx . 1169841_1171629
+*ROB:	[CHECK] xxx . 1169841_1171629
 *MEL:	+< that's gonna bruise tomorrow when you dress . 1170798_1172453
 *MEL:	Rosa@s:eng&spa is she doing peepee ? 1173672_1175320
 *OSA:	xxx . 1175159_1177179
@@ -750,13 +750,13 @@
 *OSE:	Chinese brothers ! 1454344_1455383
 *ROB:	Jonas_Brothers@s:eng&spa ? 1455896_1457115
 *MEL:	+< where ? 1456599_1457092
-*OSE:	xxx . 1457150_1458874
+*OSE:	<I'm gonna sing> [?] xxx . 1457150_1458874
 *ROB:	o_k sing the Jonas_Brothers@s:eng&spa . 1458960_1460449
 *MEL:	+< o_k . 1459125_1459810
 *ROB:	are you Joe_Jonas@s:eng&spa ? 1460435_1461578
 *MEL:	Kevin@s:eng&spa  ? 1461696_1462520
 *OSE:	xxx . 1465446_1466741
-*ROB:	uhuh I put <in you> [?] . 1466677_1468076
+*ROB:	uhuh I put xxx . 1466677_1468076
 *MEL:	+< <the D_J has arrived> [=! sings] . 1467606_1469202
 *ROB:	I [/] I put in ear [//] ear_worm in my studios . 1469151_1472013
 *MEL:	what ? 1473581_1474150
@@ -765,7 +765,7 @@
 *ROB:	<everything's alright> [=! sings] . 1482153_1484631
 *OSE:	+< xxx . 1482106_1484266
 *ROB:	sorry . 1484126_1484724
-*OSE:	xxx [=! sings] . 1484551_1488364 1506059_1511115
+*OSE:	xxx [=! sings] . 1484551_1511115
 *MEL:	<that was the best one of the day> [=! claps] . 1511097_1513645
 *ROB:	you're going to Hollywood@s:eng&spa Emily@s:eng&spa ! 1513210_1515770
 *MEL:	+< I think you're gonna win . 1514424_1515736
@@ -774,7 +774,7 @@
 *MEL:	I loved it . 1522018_1522813
 *ROB:	+< I loved the screaming part . 1522053_1523556
 *MEL:	+< it was a lot of emotion . 1522813_1524381
-*ROB:	xxx perfect . 1524653_1525825
+*ROB:	you did perfect . 1524653_1525825
 *OSE:	<it was> [/] it was my dream of +... 1525587_1528182
 *MEL:	what's your dream ? 1528821_1529813
 *OSE:	<no it was not my secret> [?] . 1529179_1532168
@@ -789,19 +789,176 @@
 *MEL:	+< that means I'm positive . 1545266_1546845
 *OSE:	+< xxx Simon@s:eng&spa . 1545509_1547234
 *MEL:	ha@s:eng&spa you're negative . 1547785_1548783
-*ROB:	+< I'm Simon@s:eng&spa . 1547931_1548732
+*ROB:	+< I'm Simon@s:eng&spa ? 1547931_1548732
 *MEL:	you're negative . 1549891_1551063
 *ROB:	+< hello . 1550140_1550779
 *OSE:	Simon@s:eng&spa ? 1551457_1552456
-*ROB:	I'm Simon@s:eng&spa and you are awful . 1552906_1555205
+*ROB:	I'm Simon@s:eng&spa and you were awful . 1552906_1555205
 *MEL:	uh_oh (.) he's lying . 1555222_1557586
-*ROB:	&=laugh . 1559319_1559899
+*ROB:	&=chuckle . 1559319_1559899
 *OSE:	give me a job ! 1559830_1561513
 *MEL:	give her the job ! 1561384_1562301
 *ROB:	o_k you're going to Hollywood@s:eng&spa . 1562034_1563956
 *ROB:	but you better impress . 1564188_1566121
 *OSE:	xxx . 1566092_1573448
 *MEL:	+< Emily@s:eng&spa (...) Emily@s:eng&spa ! 1567513_1570898
-*ROB:	xxx . 1573353_1573957
-*MEL:	Emily@s:eng&spa (.) call Margarita@s:eng&spa ! 1573893_1574549 1574549_1575895
+*ROB:	&=chuckle . 1573353_1573957
+*MEL:	Emily@s:eng&spa [=! whispers] (.) call Margarita@s:eng&spa ! 1573893_1575895
+%com:	new transcription
+*ROB:	oh@s:eng&spa uhm +... 1575861_1577614
+*OSE:	+< Margarita@s:eng&spa . 1576035_1577162
+*MEL:	+< my daughter . 1576610_1577603
+*ROB:	&t (..) Rosa@s:eng&spa . 1577538_1579651
+*OSE:	+< where [?] is she ? 1578560_1579965
+*MEL:	I don't know . 1580259_1580787
+*ROB:	uh +... 1580607_1581362
+*MEL:	+< she looks like you though . 1580787_1581693
+*OSE:	&=cough xxx this ? 1582851_1584650
+*ROB:	+< Julie@s:eng&spa asked me +... 1583054_1584104
+*ROB:	Julie@s:eng&spa asked me +... 1584968_1586042
+*MEL:	+< <my dad> [?] . 1585212_1586019
+*OSE:	xxx . 1586755_1587527
+*MEL:	&=gasp you are Marga@s:eng&spa ? 1586737_1588821
+*MEL:	you're pretending ? 1588821_1589872
+*MEL:	[CHECK] xxx Margarita@s:eng&spa ? 1590950_1592007
+*OSE:	I'm not Margarita@s:eng&spa . 1591930_1594310
+*MEL:	I thought you're preten(ding) +//? 1594270_1595059
+*OSE:	xxx Margarita@s:eng&spa . 1595359_1597768
+*ROB:	+< oh@s:eng&spa yeah &r mm +/. 1595772_1597693
+*MEL:	oh@s:eng&spa . 1597622_1598383
+*OSE:	+< xxx . 1597657_1600066
+*MEL:	+< <well let me> [?] listen to Papi@s:spa a second . 1598319_1599822
+*ROB:	+< Jul(ie)@s:eng&spa +/. 1598293_1599094
+*ROB:	Julie asked me . 1600106_1601273
+*ROB:	she was +"/. 1601255_1601609
+*ROB:	+" oh@s:eng&spa what are you doing for spring break ? 1601592_1602979
+*ROB:	+" are you guys going out of town ? 1603577_1604622
+*ROB:	<and then I said> [?] +"/. 1604593_1604895
+*ROB:	+" well Chloe@s:eng&spa is she's going to New_York . 1604800_1606323
+*ROB:	xxx obvious [?] . 1607476_1608220
+*ROB:	I was thinking of the Friday of spring break to take the girls over to Chubby_Cheese@s:eng&spa . 1608220_1611508
+*ROB:	xxx don't know . 1611449_1613179
+*ROB:	xxx she gave us the gift certificate . 1613163_1615416
+*OSE:	+< bye_bye . 1613424_1614388
+*OSE:	bye guys bye Simon@s:eng&spa ! 1615400_1617838
+*MEL:	+< can it be the Monday or the Tuesday ?  1616538_1618860
+*MEL:	then I'm here . 1618878_1619621
+*ROB:	the Tuesday is <your graduation your &dis> [//] your defense . 1619609_1622783
+*OSE:	+< bye Simon@s:eng&spa ! 1619724_1621367
+*MEL:	at ten o'clock and I'm going back to work . 1622449_1624643
+*MEL:	xxx lose the day . 1624794_1625752
+*ROB:	why ? 1625683_1626263
+*MEL:	I'm hoping <she'll> [//] I'll get the day at the end . 1626269_1628469
+*MEL:	or xxx take the rest of the day off . 1628435_1630090
+*OSE:	hi guys ! 1632313_1633160
+*MEL:	hi Marga@s:eng&spa come here ! 1633171_1635388
+*OSE:	I'm not Marga@s:eng&spa . 1635364_1636734
+*MEL:	can you call Marga@s:eng&spa ? 1636693_1637640
+*MEL:	she looks like you . 1637820_1638650
+*OSE:	Marga@s:eng&spa ! 1639009_1640251
+*OSE:	hi . 1640434_1641131
+*ROB:	she did say +/. 1641179_1642253
+*MEL:	+< are you Marga@s:eng&spa ? 1641638_1642248
+*OSE:	xxx . 1642160_1644529
+*ROB:	+< xx said if your wife's alright with it . 1643060_1644657
+*OSE:	Mommy ! 1644988_1647827
+*OSE:	oh Mommy ! 1648355_1649870
+*MEL:	[- spa] qué ? 1649922_1650491
+*MEL:	oh@s:eng&spa you call me Mommy ["] . 1651487_1652537
+*MEL:	you're Marga@s:eng&spa ? 1652537_1653472
+*OSE:	yeah . 1653209_1654405
+*MEL:	[CHECK] xxx ? 1654376_1654928
+*OSE:	xxx sing the next xxx +/. 1654864_1657962
+*MEL:	+< no I need to ask you about the soup you mean . 1657277_1659355
+*OSE:	xxx . 1659267_1661682
+*MEL:	I need the recipe . 1661637_1662746
+*OSE:	xxx . 1662734_1665375
+*ROB:	are you not xxx at all ? 1665346_1666994
+*MEL:	+< xxx . 1665793_1666356
+*MEL:	what do you mean ? 1667623_1668455
+*OSE:	+< bye_bye little kitty . 1667626_1669721
+*ROB:	+< xxx <oh we went to the movies> ["] . 1668455_1670695
+*ROB:	she took Julie@s:eng&spa . 1670681_1671662
+*ROB:	Julie@s:eng&spa <asked her> [?] +"/. 1671656_1672451
+*ROB:	+" oh how are you ? 1672445_1673798
+*OSE:	+< &rrrrrrrrr . 1672892_1673827
+*ROB:	how was your weekend ? 1673798_1674820
+*OSE:	&rrrrrrrrr . 1674797_1675848
+*ROB:	+< she goes +"/. 1675041_1675383
+*ROB:	+" oh@s:eng&spa it was great . 1675337_1676823
+*MEL:	+< &errrre . 1675877_1677618
+*ROB:	+" I went to the movies xxx . 1676997_1678384
+*OSE:	+< [CHECK] (Ul)rika@s:eng&spa . 1677681_1678430
+*MEL:	[CHECK] Ulrika@s:eng&spa . 1678423_1679829
+*ROB:	+, and we went to Chubby_Cheese@s:eng&spa . 1678424_1679829
+*OSE:	[CHECK] (Ul)rika@s:eng&spa ? 1679811_1681157
+*MEL:	[- spa] [CHECK] como (Ul)rika@s:eng&spa . 1681114_1682037
+*MEL:	[- spa] [CHECK] ay qué lin(da) . 1683237_1684833
+*ROB:	+< [- spa] ay qué linda . 1683800_1685048
+*MEL:	aw . 1684967_1685971
+*OSE:	[CHECK] xxx . 1685878_1687334
+*ROB:	[- spa] [CHECK] il la dijo +"/. 1687189_1687978
+*ROB:	+" [- spa] [CHECK] xxx . 1687999_1692260
+*MEL:	+< [- spa] [CHECK] xxx . 1688005_1689508
+*OSE:	+< <you are> [?] ! 1688621_1689579
+*ROB:	[- spa] [CHECK] xxx . 1692335_1694495
+*OSE:	+< <if you are> [?] !1692794_1694332
+*MEL:	xxx . 1694681_1695157
+*OSE:	+< xxx [=! sings] . 1694936_1697757
+*ROB:	+< no xxx . 1696933_1697763
+*ROB:	<it's already> [/] it was already closed . 1697752_1699749
+*OSE:	&=cough xxx . 1699470_1702570
+*MEL:	because she likes to sleep . 1702629_1703953
+*ROB:	+< did you talk to Julie@s:eng&spa ? 1702821_1703959
+*OSE:	[CHECK] she put it in the boca@s:spa . 1703885_1705888
+*MEL:	+< she was Jessica's monkey . 1704199_1705940
+*MEL:	[- spa] [CHECK] &gasp no no no boca no ! 1705932_1708347
+*OSE:	[CHECK] no she xxx . 1707942_1709237
+*MEL:	[- spa] [CHECK] xxx no ! 1709132_1710206
+*OSE:	[CHECK] xxx . 1710107_1712696
+*ROB:	+< &=yawn . 1711065_1712411
+*OSE:	xxx . 1712528_1716870
+*OSB:	+< hello ! 1712115_1712916
+*ROB:	pizza's here . 1716040_1716875
+*MEL:	speaking of slides [?] . 1716772_1718171
+*MEL:	how you gonna pay for it ? 1718560_1719791
+*OSE:	xxx slide ! 1719590_1723381
+*ROB:	+< I hope Rosa@s:eng&spa did it on the credit card . 1720332_1723171
+*MEL:	&da did you xxx credit card ?1723176_1724349
+*OSE:	xxx . 1724384_1725423
+*ROB:	+< no it's already online . 1724767_1726346
+*MEL:	oh@s:eng&spa yeah ? 1726295_1727067
+*OSE:	+< <now she's sliding backwards> [?] . 1726296_1728872
+*MEL:	and the tip ? 1726997_1727897
+*ROB:	tell Rosa@s:eng&spa the pizza's here . 1729131_1730588
+*ROB:	Marga@s:eng&spa tell Rosa@s:eng&spa the pizza's here . 1732264_1733878
+*OSE:	&=clears_throat Rosa@s:eng&spa the pizza's here ! 1733831_1738435
+*MEL:	so was faster than thirty minutes . 1740613_1742105
+*OSE:	Rosa@s:eng&spa the pizza's here ! 1742100_1744399
+*OSE:	Rosa@s:eng&spa ! 1746489_1748404
+*MEL:	&=chuckle . 1748761_1749713
+*OSE:	she's asleep . 1749690_1750723
+*MEL:	tell her if she doesn't go there's no pizza . 1751628_1753236
+*OSE:	Rosa@s:eng&spa the pizza's +//. 1753230_1755197
+*OSA:	xxx . 1755348_1757885
+*ROB:	<where you didn't put it> [?] on the credit card ? 1757890_1759324
+*OSA:	no . 1759313_1760015
+*OSE:	&=cough . 1760009_1762087
+*MEL:	we're kinda connected right now . 1762163_1763341
+*MEL:	I have ten dollars in my purse . 1763330_1764758
+*ROB:	I don't have any money in my purse . 1764978_1767300
+*MEL:	xxx put it on the credit card ? 1767295_1768543
+*ROB:	I thought <he was gonna> [//] she put it on the credit card . 1768525_1770313
+*OSE:	+< xxx . 1768821_1770586
+*ROB:	come on . 1770303_1770698
+*ROB:	xxx go xxx can you answer the door ? 1771178_1773297
+*ROB:	he might go away and there goes your pizza . 1773291_1775236
+*MEL:	not my pizza . 1775207_1776740
+*MEL:	I'll chase him down . 1776728_1777506
+%com:	door-bell rings
+*OSE:	xxx . 1777461_1779812
+*ROB:	turn the lights on . 1778529_1779545
+*OSB:	xxx . 1779351_1780251
+*MEL:	I've ten . 1780146_1780802
+*MEL:	that's all I got . 1780744_1781592
 @End
