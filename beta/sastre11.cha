@@ -12,20 +12,20 @@
 @Media:	sastre11, audio
 @Comment:	Filename: sastre11.CHA; Soundfile: sastre11.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	
+%eng:	vvv
 *JAC:	para@s:spa todo@s:spa lo@s:spa que@s:spa tiene@s:spa que@s:spa ver@s:spa con@s:spa psychology tú@s:spa no@s:spa puedes@s:spa empezar@s:spa sin@s:spa masters@s:eng&spa . 1333_4409
-%eng:	
+%eng:	vvv
 *JAC:	en@s:spa todas@s:spa las@s:spa escuelas@s:spa todos@s:spa los@s:spa counsellors . 4468_6877
-%eng:	
+%eng:	vvv
 *ISA:	+< y@s:spa ella@s:spa no@s:spa tiene@s:spa master@s:eng&spa todavía@s:spa ? 5324_6723
-%eng:	
+%eng:	vvv
 *JAC:	she has the bachelor . 7683_10307
 *ISA:	[- spa] ya . 10307_11503
-%eng:	
+%eng:	vvv
 *JAC:	pero@s:spa en@s:spa todas@s:spa las@s:spa escuelas@s:spa si@s:spa tú@s:spa quieres@s:spa ir@s:spa de@s:spa school counsellor you have to have a masters@s:eng&spa in psychology (.) en [/] en@s:spa behavioural education or one of these things like that . 11575_21276
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] <y no lo va> [/] no lo va a sacar ? 21004_22483
-%eng:	
+%eng:	vvv
 *JAC:	+< but it has to be a masters@s:eng&spa . 21252_22622
 *JAC:	yeah . 22582_23835
 *JAC:	but I'm gonna finish school . 23972_26184
@@ -39,36 +39,36 @@
 *JAC:	I did a bachelors in computer sciences and in management information systems which was from the school of business . 42814_50303
 *JAC:	my master now it's in management is a master of science in management information systems . 50448_56195
 *JAC:	so es@s:spa todo@s:spa tecnología@s:spa . 56202_58333
-%eng:	
+%eng:	vvv
 *ISA:	ah@s:eng&spa no@s:spa sí@s:spa ahora@s:spa todo@s:spa es@s:spa +//. 58584_60128
-%eng:	
+%eng:	vvv
 *JAC:	that's what I did . 60104_60894
 %com:	clear her throat .
 *JAC:	so puedo@s:spa seguir@s:spa en@s:spa ese@s:spa camino@s:spa con@s:spa dos@s:spa años@s:spa más@s:spa . 61629_64850
-%eng:	
+%eng:	vvv
 *JAC:	y@s:spa <sacar@s:spa el@s:spa> [/] sacar@s:spa el@s:spa doctoral . 64864_66992
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] doctorado . 67886_68728
-%eng:	
+%eng:	vvv
 *JAC:	mmhm . 68918_70863
 *ISA:	[- spa] está bien . 70931_71779
-%eng:	
+%eng:	vvv
 *JAC:	+< but the problem is they require a residency that you go do research with them . 71167_75108
 *JAC:	that's the problem . 75087_76980
 *ISA:	[- spa] ay pero tú lo puedes hacer . 78408_79812
-%eng:	
+%eng:	vvv
 *ISA:	tú@s:spa eres@s:spa smart . 80939_82431
-%eng:	
+%eng:	vvv
 *ISA:	xxx . 83865_84498
 *JAC:	&=laugh . 84571_85221
 *ISA:	[- spa] olvídate que eso es +... 85076_86882
-%eng:	
+%eng:	vvv
 *JAC:	I like it . 86807_87857
 *JAC:	and that's the thing . 88246_89506
 *JAC:	if you like something (.) it's easy . 89494_91712
 *ISA:	+< oh yeah (.) yeah it's easy for you . 90826_93183
 *ISA:	Jack@s:eng&spa y@s:spa y@s:spa entonces@s:spa ya@s:spa empezaron@s:spa a@s:spa buscar@s:spa muebles@s:spa o@s:spa todavía@s:spa ? 92952_97002
-%eng:	
+%eng:	vvv
 *JAC:	no xxx . 97363_98919
 *ISA:	&=laugh . 98246_99064
 *JAC:	everything is there . 98481_100199
@@ -76,13 +76,13 @@
 *JAC:	laid tile . 101234_102383
 *JAC:	put the baseboards . 102336_103672
 *JAC:	and put all the muebles@s:spa . 103706_106086
-%eng:	
+%eng:	vvv
 *ISA:	ah@s:eng&spa ya@s:spa lo@s:spa tienen@s:spa allí@s:spa ? 106555_107612
-%eng:	
+%eng:	vvv
 *JAC:	yeah the whole thing ya@s:spa está@s:spa puesto@s:spa . 107507_110387
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] ah yo pensé que ahora iban a empezar a comprarlos . 109808_112264
-%eng:	
+%eng:	vvv
 *JAC:	no I closed march third or march fourth . 112287_115015
 *JAC:	and we had bought everything . 116158_117859
 *JAC:	so we had all the delivery set up . 118335_119995
@@ -97,15 +97,15 @@
 *JAC:	so I was like one after the other . 139432_141847
 *ISA:	+< &am . 140953_141679
 *JAC:	[- spa] y todo el mundo entrando . 142078_143813
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y ya xxx le han puesto todo en su lugar y todo ? 143792_147165
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] y colocando . 143949_144971
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] más o menos . 147200_147902
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] ya . 147200_147902
-%eng:	
+%eng:	vvv
 *JAC:	yeah none of the the electronics are in . 147902_149876
 *JAC:	and we still have to do +... 149873_152033
 *JAC:	we have this guy . 152033_154041
@@ -119,25 +119,25 @@
 *JAC:	that's what he does . 172651_173516
 *ISA:	yeah . 173388_173667
 *JAC:	[- spa] se la pasa ahí con cortando cortando cortando . 173411_175762
-%eng:	
+%eng:	vvv
 *JAC:	and he does all the stuff . 175710_176912
 *JAC:	so he's building the closet . 176865_179112
 *JAC:	and he built +//. 179107_181063
 *JAC:	they wanted to charge us like fifteen thousands dollars to do one of these closets that's very modular . 180790_185631
 *JAC:	and everything's super organized . 185696_188065
 *JAC:	olvídate@s:spa like he's doing the closet for peanuts . 187285_191999
-%eng:	
+%eng:	vvv
 *JAC:	and he's [//] it's the same . 191924_193306
 *JAC:	when you gonna see Oliver's@s:eng&spa . 193193_194221
 *ISA:	ok@s:eng&spa . 194151_194598
 *JAC:	+< Oliver's@s:eng&spa closet . 194331_195086
 *JAC:	it's awesome . 195068_195962
 *ISA:	[- spa] y qué es lo que es ? 195999_196839
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] amigo de tu mamá ? 196821_197715
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] no y es un contrator ya . 198040_200160
-%eng:	
+%eng:	vvv
 %com:	contrator seems to be a false friend.
 *JAC:	he's a contractor that has done [//] he did my grandmother stuff . 200158_203350
 *JAC:	he did my mom's stuff . 203356_204958
@@ -146,30 +146,30 @@
 *JAC:	and [/] and he knows his stuff . 213937_215731
 *JAC:	he got us the tile guy (be)cause the tile guy was expensive . 215903_220048
 *ISA:	[- spa] pero está quedando bonito ? 222229_223288
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] pero (.) +... 222293_222833
-%eng:	
+%eng:	vvv
 *JAC:	they came out perfect . 223234_224679
 *JAC:	they came out perfect . 224656_225770
 *JAC:	they came up beautiful (.) they came up beautiful . 225779_228932
 *JAC:	pero@s:spa the tile guy you know had to lay the tile like marble . 229040_234340
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] lo que pasa . 232158_233232
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] lo que pasa Jack es que todo eso se demora . 234361_238024
-%eng:	
+%eng:	vvv
 *JAC:	+< so +... 234918_235905
 *JAC:	+< they did it in a week . 238031_239244
 *ISA:	[- spa] te dicen una semana . 238164_240179
-%eng:	
+%eng:	vvv
 *JAC:	+< they did it in a week . 239233_240364
 *JAC:	+< they did the whole tile in a week . 240360_242357
 *ISA:	+< ah@s:eng&spa bueno@s:spa . 242288_242892
-%eng:	
+%eng:	vvv
 *JAC:	they brought like nine people (.) con@s:spa las@s:spa máquinas@s:spa con@s:spa los@s:spa &e las@s:spa bolsas@s:spa de@s:spa cemento@s:spa lo@s:spa que@s:spa [///] con@s:spa todo@s:spa . 242529_250173
-%eng:	
+%eng:	vvv
 *JAC:	and right there &pum &pum con@s:spa otros@s:spa tipos@s:spa marcando@s:spa otros@s:spa tipos@s:spa cortando@s:spa . 250106_255062
-%eng:	
+%eng:	vvv
 *JAC:	and they just went &ta &tan . 255236_256437
 *JAC:	and they finished it in a week . 256391_257680
 *JAC:	I couldn't believe it . 257565_258836
@@ -181,29 +181,29 @@
 *JAC:	you know really really nice very very clean . 269167_271785
 *JAC:	you know what I mean ? 271768_273085
 *ISA:	[- spa] y qué es lo que tienen de [/] de vista la [//] el [//] la calle o la [/] la bahía . 273230_277936
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] tenemos los dos lados . 277806_278655
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] tenemos el mar . 278650_279863
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] el mar . 279799_280850
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] alante . 280809_281709
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] que es el [/] el [//] la vista principal donde están las puertas . 281621_284855
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] entonces el cuarto de ella da al aeropuerto . 284996_288343
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] al lado (.) mirando al oeste . 288393_292149
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] ya . 290315_290715
-%eng:	
+%eng:	vvv
 *JAC:	it's awesome . 293185_294265
 *ISA:	[- spa] está bueno . 295722_296634
-%eng:	
+%eng:	vvv
 *JAC:	+< and it's on the twenty seventh floor . 295814_298031
 *ISA:	[- spa] &=laugh imagínate . 298089_299784
-%eng:	
+%eng:	vvv
 *JAC:	so you're like &fun everything's right there . 299742_302262
 *JAC:	when [///] what we see like if you drew a line straight out it would be the hard rock in Bay_side@s:eng&spa . 302206_308266
 *JAC:	that's like a line straight off from our balcony . 308625_311469
@@ -218,20 +218,20 @@
 *JAC:	+< you know what I mean ? 336692_337447
 *JAC:	like up towards north Miami_Beach@s:eng&spa . 337261_339415
 *ISA:	+< [- spa] sí sí . 337308_337702
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] yo sé dónde está eso . 339531_341487
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] entonces está bonito todo . 342518_343702
-%eng:	
+%eng:	vvv
 *JAC:	it really is . 343638_345589
 *JAC:	it's very small . 345483_346859
 *JAC:	it's very small . 347010_348066
 *ISA:	+< small ? 347666_348269
 *JAC:	ver(y) very small . 348043_349750
 *ISA:	[- spa] y eso ? 349663_350580
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] tienes dos [/] dos cuartos . 351648_353186
-%eng:	
+%eng:	vvv
 *JAC:	it has two bedrooms . 353447_355363
 *JAC:	it has like a library like a den which is our office where we're putting the [/] the &k sofa bed and we're putting the computers and that stuff . 355397_365302
 *JAC:	and then it has the living room the kitchen the &dai the (.) two bathrooms (.) and the entry way and the balcony . 365372_376658
@@ -240,14 +240,14 @@
 *JAC:	yeah . 377680_378562
 *JAC:	it's not a lot of space . 378620_379868
 *ISA:	[- spa] bueno pero xxx . 379781_381784
-%eng:	
+%eng:	vvv
 *JAC:	+< it's about thirty hundred and fifty square feets . 380321_382805
 *JAC:	so when you think about that that's a lot of space . 383266_385512
 *ISA:	mmhm . 385042_385582
 *ISA:	Jack@s:eng&spa pero@s:spa pa(ra)@s:spa tú@s:spa sabes@s:spa . 385416_387523
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] pa(ra) empezar . 387492_388368
-%eng:	
+%eng:	vvv
 *JAC:	no and we didn't know Oliver@s:eng&spa was coming when we made the commitment . 388549_391579
 *ISA:	+< &=laugh . 390749_392404
 *JAC:	when we put the deposit we didn't know Oliver@s:eng&spa was coming . 392215_395217
@@ -255,98 +255,98 @@
 *ISA:	well . 395054_395745
 *JAC:	so we're super happy you know . 396232_398122
 *ISA:	+< [- spa] pero . 396598_397022
-%eng:	
+%eng:	vvv
 *JAC:	with her we're fine . 397910_399889
 *JAC:	just with one more fine . 399889_401091
 *JAC:	sí &sa seguimos@s:spa para@s:spa el@s:spa segundo@s:spa ? 400951_403198
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] olvídate . 403218_404036
-%eng:	
+%eng:	vvv
 *ISA:	+< &=laugh . 403647_407705
 *JAC:	[- spa] estamos jodidos &=laugh . 404576_406590
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] por ahí se (.) se aparece otro . 407638_410396
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] xxx menos mal que &=laugh . 407656_409873
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] no no no no no no no . 410464_411793
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] bueno una cama de litera . 411446_413043
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] lo que yo creo que como lo estamos preparando lo podemos alquilar por dos mil quinientos . 413009_417903
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y a lo mejor cargar los restos que serán un poquito más y +... 420431_422298
-%eng:	
+%eng:	vvv
 *JAC:	and [/] and move or rent in a house or something I guess you know . 423924_426679
 *JAC:	you figure it out . 426682_427616
 *ISA:	[- spa] sí mijo sí . 427651_428870
-%eng:	
+%eng:	vvv
 *JAC:	you always figure it out . 427680_428591
 *JAC:	+< [- spa] el mercado está duro eso sí . 429593_431346
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] siempre (.) siempre aparece una opción que uno pueda hacer . 431122_434965
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] ya . 434582_435383
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] no aho(ra) [/] ahora la situación no está ni pa(ra) vender ni pa(ra) comprar ni +... 435014_440690
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] porque lo que pasa es que si compras +... 441956_443802
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] pero después cuando vienen lo todo todo lo que se pega +//. 443779_448075
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] xxx la locura de antes . 446195_449817
-%eng:	
+%eng:	vvv
 *ISA:	es@s:spa que@s:spa aquí@s:spa se@s:spa volvieron@s:spa locos@s:spa Jack@s:eng&spa . 450879_453120
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] locos . 452667_453369
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] entonces los bancos (.) los bancos entonces le daban préstamo a gente que no calificaban . 453380_458785
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] no había razón . 453499_455206
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] a todos . 457389_458800
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] porque no ganaban lo suficiente pa(ra) poder pagar ese +//. 459413_462733
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] tú sabes y entonces ahora un embarque que todo el mundo está +... 462712_465783
-%eng:	
+%eng:	vvv
 *JAC:	everybody's screwed . 465748_468442
 *JAC:	it's like musical chairs and whose gonna get stuck without the chair . 468484_472345
 *JAC:	you know then when the music stop +/. 472354_474287
 *ISA:	[- spa] quién se queda afuera &=laugh . 474292_475657
-%eng:	
+%eng:	vvv
 *JAC:	who's screwed &=laugh . 474772_477570
 *ISA:	+< &=laugh . 475161_477460
 *ISA:	[- spa] a ver quién se queda afuera [=! laugh] . 477418_480285
-%eng:	
+%eng:	vvv
 *ISA:	oh my god . 480337_482189
 *JAC:	+< [- spa] eso mismo es . 480993_482224
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] eso mismo es qué de cosa . 482218_485283
-%eng:	
+%eng:	vvv
 *ISA:	imagínate@s:spa y@s:spa la@s:spa gente@s:spa está@s:spa con@s:spa las@s:spa casas@s:spa dice@s:spa tú@s:spa tía@s:spa Ramírez@s:eng&spa que@s:spa por@s:spa +//. 485294_491458
-%eng:	
+%eng:	vvv
 *JAC:	may I ? 491423_492137
 *ISA:	[- spa] sí sí yo tengo más ahí . 492137_493345
-%eng:	
+%eng:	vvv
 *ISA:	que@s:spa por@s:spa la@s:spa (.) por@s:spa la@s:spa casa@s:spa del@s:spa barrio@s:spa de@s:spa ella@s:spa dice@s:spa que@s:spa hay@s:spa cantidad@s:spa de@s:spa casas@s:spa (.) on foreclosure . 493350_502171
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] malísimo está la cosa . 499118_500354
-%eng:	
+%eng:	vvv
 *JAC:	+< foreclosure ? 500470_501956
 *JAC:	get outta here . 503490_506021
 *JAC:	my grandmother sold at a perfect time . 505994_508391
 *ISA:	[- spa] &e mira +/. 508536_509338
-%eng:	
+%eng:	vvv
 *JAC:	+< the perfect +//. 508960_509697
 *ISA:	+< ella@s:spa se@s:spa puso@s:spa con@s:spa un@s:spa suerte@s:spa Jack@s:eng&spa porque@s:spa imagínate@s:spa +//. 509811_514167
-%eng:	
+%eng:	vvv
 *JAC:	+< the perfect time . 512954_513958
 *JAC:	if she would not have sold that (.) the pressure everybody would be under right now the stress that everybody would be carrying . 514061_521918
 *ISA:	[- spa] no y después tu tío se quedó sin trabajo . 521893_524581
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y oye +... 524501_525877
-%eng:	
+%eng:	vvv
 *JAC:	no thank god thank god he has a great job now . 525819_528182
 *JAC:	thank god she found her place . 527932_529343
 *JAC:	and she's all set up . 529321_530168
@@ -354,139 +354,139 @@
 *JAC:	everybody is squared away . 530551_532189
 *JAC:	because if they woulda stayed with the house holly shit . 532065_535351
 *ISA:	+< [- spa] no no pueden (.) no pueden dormir . 533847_536587
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] no no no . 537185_538555
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] yo te voy a decir que esto &e &e la situación nada (.) nada buena . 538954_543499
-%eng:	
+%eng:	vvv
 *JAC:	&u &u . 543465_544962
 *ISA:	[- spa] por eso tú sabes uno tiene que tratar de gastar lo menos posible . 546619_549270
-%eng:	
+%eng:	vvv
 *JAC:	la@s:spa gente@s:spa no@s:spa entienden@s:spa con@s:spa los@s:spa foreclosures . 549252_552160
-%eng:	
+%eng:	vvv
 *JAC:	se@s:spa va@s:spa tremendo@s:spa cantidad@s:spa de@s:spa property taxes . 552510_557183
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] pero claro . 557139_557957
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] que no se lo van a pagar . 557946_559182
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] claro quién lo va a pagar si están perdiendo la casa . 559113_561446
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] quién lo va a pagar . 561460_562079
-%eng:	
+%eng:	vvv
 *JAC:	+< y@s:spa todos@s:spa los@s:spa servicios@s:spa van@s:spa a@s:spa quedar@s:spa short [//] cortos@s:spa de@s:spa todo@s:spa . 561815_565954
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] los bancos están imagínate . 567168_569171
-%eng:	
+%eng:	vvv
 *JAC:	but the city the municipalities are all gonna come up short (.) on their budgets . 569003_572567
 *JAC:	they're not gonna be able to make it because who's [///] how are they're gonna do it ? 572541_576367
 *ISA:	[- spa] que empiecen a [/] a bajar los sueldos a (.) [/] a toda esa gente que ganan bastante dinero . 576419_582097
-%eng:	
+%eng:	vvv
 *JAC:	that's never gonna happen . 582283_583595
 *ISA:	[- spa] ah bueno pues entonces . 583586_584933
-%eng:	
+%eng:	vvv
 *JAC:	in the history of man people don't go down not if they can help it . 584277_587923
 *ISA:	+< [- spa] bueno pero tú sabes . 586674_588544
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] toda esta gente que tienen ahí en lo [/] los directores de esto de aquello todo gente del condado todos ganan doscientos mil pesos al año . 589487_596511
-%eng:	
+%eng:	vvv
 %com:	long pause .
 *ISA:	[- spa] tú sabes ? 599774_600662
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] entonces eso es un dinero que +... 600704_603496
-%eng:	
+%eng:	vvv
 *JAC:	no and in Miami@s:eng&spa two hundred thousand dollars ? 603479_605859
 *JAC:	to know go buy a house . 605819_607822
 *JAC:	&ah five hundred thousand dollars . 607797_609760
 *JAC:	you gotta make tremendous money . 609702_612588
 *ISA:	[- spa] no puedes . 612553_614114
-%eng:	
+%eng:	vvv
 *JAC:	and oye@s:spa a house now is five hundred thousand dollars . 614063_616518
-%eng:	
+%eng:	vvv
 *JAC:	three hundred thousand dollars now actually you can get a decent house for . 616570_620657
 *JAC:	pero@s:spa decent houses or starter house . 621406_624633
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] el muchachito este de al lado puso la casa a vender . 624552_627181
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] pero +... 627178_628292
-%eng:	
+%eng:	vvv
 *JAC:	yeah . 627567_628618
 *ISA:	[- spa] tú sabes qué ? 628600_630243
-%eng:	
+%eng:	vvv
 *JAC:	they told me . 628600_630243
 *ISA:	[- spa] setecientos mil dólares . 630267_632043
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] quién le va a dar eso ? 632003_633315
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] setecientos o ochocientos creo que están pidiendo por la casa . 633295_636435
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] cómo está la situación ahora ? 637269_639521
-%eng:	
+%eng:	vvv
 *ISA:	no@s:spa creo@s:spa Jack@s:eng&spa que@s:spa +... 639618_641679
-%eng:	
+%eng:	vvv
 *JAC:	the &di you know what though ? 642261_643700
 *JAC:	the danger is how much it comes down to . 643462_645993
 *JAC:	but the fact is if he even comes close to that (.) what you guys have if you guys can get a comp now at that price this neighbourhood is gonna stay great . 645987_656868
 *JAC:	that's a heck of a selling price . 656686_660007
 *ISA:	[- spa] gracias a dios que nosotros compramos esta casa . 659961_664936
-%eng:	
+%eng:	vvv
 *JAC:	that was a home run . 665228_666407
 *ISA:	[- spa] porque +/. 666465_666831
-%eng:	
+%eng:	vvv
 *JAC:	that was a grand slam . 666738_667957
 *ISA:	+< [- spa] sí . 668021_668444
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] que mira no a veces xxx . 668428_672613
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] oye ganaste &ga ganaste el juego . 668571_671734
-%eng:	
+%eng:	vvv
 *JAC:	&=laugh . 671717_672837
 *JAC:	[- spa] ese ese es el xxx &=laugh . 672734_674545
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] oye . 674028_674650
-%eng:	
+%eng:	vvv
 *JAC:	that one at bat . 674626_676507
 *JAC:	[- spa] olvídate . 676340_677623
-%eng:	
+%eng:	vvv
 *JAC:	and that's how it is . 677292_678784
 *JAC:	that's how it is . 678737_679852
 *JAC:	look at that . 679985_680711
 *JAC:	that's +... 680664_680995
 *ISA:	+< [- spa] y aquí lo que nos quedan por pagar son cinco años ya . 680943_683346
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] que si dios quiere vaya . 686392_688093
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] cuando nos retiremos ya esté paga . 688131_691057
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] porque si no imagínate . 690988_692800
-%eng:	
+%eng:	vvv
 *JAC:	no no no that's a great feeling . 692674_694543
 *JAC:	that's a great feeling . 694532_695791
 *ISA:	no@s:spa Jack@s:eng&spa esto@s:spa está@s:spa +... 695917_698778
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] tú ves las personas por ahí que se [/] se retiran . 698891_701428
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y después tienen que seguir trabajando porque no no les alcanza . 701433_705503
-%eng:	
+%eng:	vvv
 *JAC:	+< no way no . 702853_704217
 *ISA:	[- spa] los pobres viejos estos se están comiendo tremendo cable . 705602_710531
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] yo no sé . 711180_712173
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] yo no sé &=gasp . 712156_713270
-%eng:	
+%eng:	vvv
 *JAC:	men . 716488_717284
 *ISA:	[- spa] es algo vaya uno como que de queda un poco loco &=laugh . 717244_725545
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] esto está que uno se pone loco oíste . 725429_727668
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] pero bueno . 727813_728934
-%eng:	
+%eng:	vvv
 *ISA:	y@s:spa Carla@s:eng&spa como@s:spa se@s:spa porta@s:spa Jack@s:eng&spa? 728887_731331
-%eng:	
+%eng:	vvv
 *JAC:	she's interesting . 731662_734106
 *ISA:	[- spa] se porta bien ? 734060_735221
-%eng:	
+%eng:	vvv
 *JAC:	+< yeah . 734606_735482
 *JAC:	she has her days . 736057_737305
 *JAC:	she has +//. 737247_737996
@@ -499,23 +499,23 @@
 *ISA:	+< xxx . 745535_746231
 *JAC:	she's so amazing . 746818_748025
 *ISA:	[- spa] qué linda . 748043_748681
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] pero óyeme . 748664_749296
-%eng:	
+%eng:	vvv
 *JAC:	if I can do anything in the world right now I would take care of her all the time . 749282_755511
 *ISA:	[- spa] &=laugh y que +//. 755919_758891
-%eng:	
+%eng:	vvv
 *JAC:	+< that's what I would do . 756308_757272
 *JAC:	<if I had> [/] if I had a million dollars . 757356_759829
 *ISA:	[- spa] ven acá y quién va a pagar lo del condominio [=! laugh] ? 759829_763736
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] yo . 761501_762941
-%eng:	
+%eng:	vvv
 *ISA:	&=laugh . 763079_765412
 *JAC:	ten more years in my business and I'll be able to step back a lot more . 765706_770013
 *JAC:	but +... 770201_770782
 *ISA:	[- spa] y [/] y está bien el negocio ? 771779_773712
-%eng:	
+%eng:	vvv
 *JAC:	yeah . 773602_774124
 *JAC:	we're at five years . 774130_775662
 *JAC:	we're at five years . 775577_777400
@@ -539,84 +539,84 @@
 *JAC:	we have like thirty car dealerships . 824600_826713
 *JAC:	we had a lot of real estate customers that have all died . 826519_829961
 *ISA:	[- spa] no ahora todos están +... 830102_831913
-%eng:	
+%eng:	vvv
 *JAC:	all the developers are almost out of business . 831712_834045
 *JAC:	we [/] we had seventeen I think we have like two left . 833889_836675
 *JAC:	yeah . 838050_838973
 *JAC:	it's incredible . 839092_840654
 *JAC:	that whole market that whole xxx has just gone &prup . 840581_844064
 *ISA:	+< [- spa] no todo . 842758_843919
-%eng:	
+%eng:	vvv
 *ISA:	y@s:spa [/] y@s:spa tú@s:spa sabes@s:spa y@s:spa con@s:spa eso@s:spa las@s:spa cosas@s:spa todo@s:spa [/] todo@s:spa es@s:spa una@s:spa cadena@s:spa porque@s:spa Homedepot@s:eng&spa está@s:spa (.) que@s:spa no@s:spa esta@s:spa vendiendo@s:spa porque@s:spa a@s:spa nadie@s:spa (.) no@s:spa hay@s:spa ventas@s:spa nadie@s:spa arregla@s:spa casas@s:spa nadie@s:spa +... 844203_857419
-%eng:	
+%eng:	vvv
 *JAC:	uhuh . 856484_857384
 *ISA:	[- spa] porque cuando tú compras una casa tú le quieres hacer esto nuevo aquello nuevo y esto . 857379_862157
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y entonces eso es (.) el dinero como se mueve . 862188_865096
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] pero si nadie está haciendo nada . 865122_868551
-%eng:	
+%eng:	vvv
 *JAC:	no and [/] and it's not cheap . 868709_871844
 *JAC:	and [/] and there's not people buying houses and flipping houses and building houses . 871748_876189
 *JAC:	so even though that it's a great opportunity to make money there it's not there . 876091_879992
 *JAC:	you're right . 880016_880870
 *JAC:	it's invisible . 880806_882222
 *ISA:	[- spa] los jardines la gente de [///] que hace jardines también dice que +//. 882216_886007
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] tú sabes . 886048_887423
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] sufriendo . 886048_887423
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] que no hay +/. 887467_888884
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] ahí es donde cortan . 887583_888855
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] ahí corta xxx . 888927_890651
-%eng:	
+%eng:	vvv
 %com:	ISA clears her throat .
 *JAC:	[- spa] sabes todas las cositas así ahora +//. 890921_893040
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y tú vas ahora al periódico y ya esas cosas +//. 893078_895586
-%eng:	
+%eng:	vvv
 *JAC:	y@s:spa tú@s:spa ves@s:spa que@s:spa hablan@s:spa de@s:spa how you cut cost how you're gonna reduce your monthly expenditures where can you save three hundred dollars a month . 895687_902600
-%eng:	
+%eng:	vvv
 *JAC:	you know . 902907_903417
 *JAC:	and they show you how to penny pinch . 903417_904880
 *ISA:	[- spa] claro . 904834_905414
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] cositas aquí aquí xxx . 905118_907777
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] y todo el mundo lo está haciendo . 906351_907835
-%eng:	
+%eng:	vvv
 *JAC:	ya@s:spa you [/] <you take> [//] you stretch out the cleaning . 907748_909901
-%eng:	
+%eng:	vvv
 *JAC:	instead of this and &e &e all the stuff . 909928_911559
 *JAC:	and before you know it you [/] you save three or four hundred dollars a month that if you put into something you are saving money . 911327_918030
 *ISA:	+< mmhm . 916219_917130
 *JAC:	and saving money is the hardest thing to do . 917988_919724
 *JAC:	that's the hardest thing to do (be)cause there's no extra there is never extra . 919759_923172
 *ISA:	vas@s:spa al@s:spa grocery coño@s:spa +... 923128_925484
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] coño coño trescientos trescientos . 925484_929406
-%eng:	
+%eng:	vvv
 *ISA:	+< &=laugh . 926341_927920
 *JAC:	[- spa] yo no salgo de ahí sin gastar trescientos . 929354_932285
-%eng:	
+%eng:	vvv
 *ISA:	+< fíjate@s:spa que@s:spa siempre@s:spa (.) yo@s:spa siempre@s:spa hacía@s:spa aquí@s:spa lo@s:spa [/] lo@s:spa [//] los@s:spa weekends +//. 929867_934733
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] tú sabes siempre hacía &e comida . 935173_938697
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y venían a comer y eso . 938687_940516
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] ya yo eso no lo hago . 940477_941707
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] <el perió(dico)> [/] el periódico hoy tenía tremendo artículo +//. 941569_947351
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] lo hago una vez pero porque no se puede . 941713_944569
-%eng:	
+%eng:	vvv
 *ISA:	+< mmhm I'm sorry . 944500_946782
 *ISA:	+< [- spa] pero no se puede . 946782_947618
-%eng:	
+%eng:	vvv
 *JAC:	the Sunday_Herald@s:eng&spa today had a big section on how the price of food is going up &ex exponentially . 947432_954643
 *JAC:	here and around the world because oats and wheat have xxx through the roof . 954776_961356
 *ISA:	+< oh yeah uhuh@s:eng&spa . 955793_957047
@@ -626,126 +626,126 @@
 *JAC:	so a lot of people are buying corn so it's creating competition and demand and all these areas that are driving +//. 971591_977146
 *ISA:	mm@s:eng&spa . 975890_976499
 *JAC:	oye@s:spa &a the [/] the people that are General_Mills@s:eng&spa that do the oat and the wheats they make all the cereals . 977043_982221
-%eng:	
+%eng:	vvv
 *ISA:	I know . 982137_983025
 *JAC:	like every time their cost goes up like [/] like by a dollar <on the &f> [/] on the market the cost of our cereal goes up by a penny . 982848_991899
 *ISA:	yeah . 991891_992709
 *JAC:	and that'll jump twenty dollars and &bum . 992911_994891
 *JAC:	they have to raise it twenty cents (.) on the cost . 994780_996894
 *ISA:	+< [- spa] la leche . 995524_996272
-%eng:	
+%eng:	vvv
 *JAC:	the milk . 996841_997712
 *ISA:	[- spa] cinco pesos &=laugh . 997505_1000727
-%eng:	
+%eng:	vvv
 *JAC:	+< no no no and now everybody is buying organic . 998626_1000843
 *JAC:	so that's like six dollars . 1001018_1003938
 *JAC:	they [/] they get you . 1004020_1006128
 *JAC:	[- spa] te clavan &=laugh . 1006081_1007004
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] sí . 1006973_1007460
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] por donde quieran te cogen . 1007489_1009196
-%eng:	
+%eng:	vvv
 *ISA:	no@s:spa pero@s:spa tú@s:spa sabes@s:spa que@s:spa nosotros@s:spa nos@s:spa quejamos@s:spa Jack@s:eng&spa aquí@s:spa . 1009440_1012336
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y es verdad que la cosa está dura . 1012325_1014118
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] pero tenemos la oportunidad . 1015027_1016505
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] pero +... 1015036_1015687
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] si lo quieres está ahí &=laugh . 1016431_1018630
-%eng:	
+%eng:	vvv
 *ISA:	+< sí@s:spa pero@s:spa que@s:spa te@s:spa quiero@s:spa decir@s:spa &e en@s:spa Europa@s:eng&spa la@s:spa gente@s:spa está@s:spa pagando@s:spa carísimo@s:spa por@s:spa la@s:spa gasolina@s:spa . 1017528_1023164
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] más que aquí . 1023159_1023878
-%eng:	
+%eng:	vvv
 *JAC:	oh@s:eng&spa bastante@s:spa más@s:spa casi@s:spa el@s:spa doble@s:spa por@s:spa [///] más@s:spa que@s:spa el@s:spa doble@s:spa con@s:spa todo@s:spa los@s:spa impuestos@s:spa que@s:spa hay@s:spa que@s:spa poner@s:spa . 1023850_1027554
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] mucho más . 1026103_1027258
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] mucho más que aquí . 1027532_1028739
-%eng:	
+%eng:	vvv
 *JAC:	pero@s:spa en@s:spa Europa@s:eng&spa están@s:spa haciendo@s:spa &to cosas@s:spa tan@s:spa interesantes@s:spa que@s:spa aquí@s:spa por@s:spa toda@s:spa la@s:spa complicación@s:spa de@s:spa políticos@s:spa del@s:spa sistema@s:spa de@s:spa mierda@s:spa que@s:spa tenemos@s:spa (.) que@s:spa es@s:spa mejor@s:spa que@s:spa exista@s:spa pero@s:spa xxx mierda@s:spa . 1028627_1038481
-%eng:	
+%eng:	vvv
 *JAC:	si@s:spa tú@s:spa miras@s:spa a@s:spa Alemania@s:eng&spa +//. 1038600_1039831
-%eng:	
+%eng:	vvv
 *JAC:	Alemania@s:eng&spa tiene@s:spa un@s:spa programa@s:spa (.) que@s:spa le@s:spa pagan@s:spa (.) a@s:spa la@s:spa gente@s:spa (.) que@s:spa pueden@s:spa producir@s:spa energía@s:spa . 1039865_1046487
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y [/] y entregar la energía al sistema (.) energético del [//] de la ciudad o de la [/] de la del [/] del condado lo que sea . 1046499_1055603
-%eng:	
+%eng:	vvv
 *JAC:	so la@s:spa gente@s:spa ahora@s:spa están@s:spa comprando@s:spa . 1055875_1058388
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y poniendo xxx en todas partes en su casa . 1058195_1061017
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] para ahorrar en +... 1060948_1061946
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y el día entero tú vas produciendo . 1061703_1065104
-%eng:	
+%eng:	vvv
 *ISA:	mmhm . 1064713_1065433
 *JAC:	[- spa] y entregándolo al sistema . 1065260_1067093
-%eng:	
+%eng:	vvv
 *JAC:	ah the grid you're contributing power into the grid . 1067070_1069850
 *ISA:	[- spa] claro . 1070185_1071155
-%eng:	
+%eng:	vvv
 *JAC:	+< all day . 1070185_1071155
 *JAC:	<and your> [/] and your meter is basically rolling backward and you're getting charged [//] credited . 1071142_1075113
 *JAC:	and then at night it uses electricity . 1075095_1077657
 *ISA:	+< [- spa] sí . 1075109_1075585
-%eng:	
+%eng:	vvv
 *JAC:	right ? 1077677_1078095
 *JAC:	pero@s:spa your [///] people in Germany know that they passed the law that's good for twenty years that every like kilowatt that you put back is twenty cents or twenty five cents or something fixed . 1078095_1089912
-%eng:	
+%eng:	vvv
 *JAC:	so now farmers are building fields . 1090599_1093786
 *JAC:	[- spa] como tú te das cuenta donde viven los abuelos . 1093845_1096661
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] y [/] y tenía uno por la finca . 1096915_1098400
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] ajá . 1096945_1097386
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] tú te acuerdas ? 1098425_1099075
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] con la finca . 1098466_1099453
-%eng:	
+%eng:	vvv
 *JAC:	+< &=mumble los@s:spa [/] los@s:spa fields of paint . 1098907_1101740
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] ajá . 1101339_1101780
-%eng:	
+%eng:	vvv
 *JAC:	they look just like that but they're fields of solar panel . 1101785_1104832
 *JAC:	and they collect energy all day . 1105157_1107938
 *JAC:	right ? 1107895_1108423
 *JAC:	and they sell that energy back to this grid because the government is the one that has [///] is paying a subsidy . 1108400_1116147
 *JAC:	right ? 1116445_1117148
 *ISA:	[- spa] sí lo está &sub +//. 1116596_1117403
-%eng:	
+%eng:	vvv
 *JAC:	+< for any body . 1117136_1118280
 *ISA:	[- spa] lo está subsidiando pa(ra) que +... 1117862_1119487
-%eng:	
+%eng:	vvv
 *JAC:	the [//] that wants to do it . 1119280_1120453
 *JAC:	and that is saving so much ener(gy) [//] energy production that that's less coal less oil less you know natural gas less (.) whatever . 1120439_1129904
 *ISA:	[- spa] sí . 1128720_1129463
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y después una dependencia de [//] del [/] del petróleo que es increíble . 1129886_1134992
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] y el sol no se acaba . 1133619_1135604
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] hoy sol (.) hay más que bastante &=laugh . 1135552_1139081
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y más que pasa el tiempo mejor se va a poner la tecnología . 1140003_1143968
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y más energía tú vas a poder (.) colectar . 1143872_1151471
-%eng:	
+%eng:	vvv
 *JAC:	so vamos@s:spa a@s:spa decir@s:spa hoy@s:spa en@s:spa una@s:spa pulgada@s:spa cuadrado@s:spa tú@s:spa puedes@s:spa recoger@s:spa tal@s:spa energía@s:spa cada@s:spa hora@s:spa . 1151446_1159874
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] eso va a seguir subiendo . 1160504_1162814
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] y en el mismo espacio . 1162756_1164335
-%eng:	
+%eng:	vvv
 *ISA:	xxx . 1162797_1163911
 *JAC:	[- spa] tú vas a poder colectar doble (.) diez veces cien veces . 1164314_1167610
-%eng:	
+%eng:	vvv
 *ISA:	they have to do something about it because you know eh@s:spa +//. 1166838_1169479
-%eng:	
+%eng:	vvv
 *JAC:	no this is crazy . 1169248_1170664
 *JAC:	it's crazy yeah . 1170664_1172243
 *ISA:	this is crazy &ya . 1170786_1172226
@@ -759,40 +759,40 @@
 *JAC:	<it's a> [//] there's a book called it's a flat world (.) that talks about how the whole world is now because of the way technology and everything is we're all in a little village . 1197228_1207594
 *JAC:	and what one person does affects the other one . 1207749_1210634
 *ISA:	[- spa] claro que sí . 1210652_1211511
-%eng:	
+%eng:	vvv
 *JAC:	and everybody's (.) gotta realize we have such direct impact . 1211398_1215177
 *JAC:	we're not often little islands any_more . 1215087_1217374
 *JAC:	it's not like that . 1217356_1218343
 *JAC:	even if you're you know ninety miles it's nothing . 1218296_1221867
 *JAC:	a hundred miles you know a hundred thousands miles xxx you know . 1221928_1225266
 *ISA:	+< [- spa] sí sí con la tecnología que hay ahora muchacho . 1224325_1227192
-%eng:	
+%eng:	vvv
 *JAC:	+< it's a &tuurrr . 1226855_1228120
 *ISA:	[- spa] esto es increíble . 1227772_1229165
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] pero todo es a base de (.) tecnología . 1230081_1235207
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] qué increíble no ? 1235291_1236824
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] las cosas que se pueden hacer . 1238093_1239306
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] eso . 1239306_1239834
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] esas cositas lo [/] lo teléfonos que ustedes tienen . 1240264_1242725
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] que tienen de todo ahí adentro . 1242720_1244270
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] de todo de todo trae de todo . 1244032_1245640
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] lo que casi te piensan (.) hacen la xxx cada uno para no tener que hacer nada . 1245786_1251469
-%eng:	
+%eng:	vvv
 *ISA:	uhuh@s:eng&spa . 1251301_1251887
 *JAC:	[- spa] mira en mi teléfono (.) yo tengo mi calendario entero que la gente en mi oficina tienen acceso . 1253317_1260248
-%eng:	
+%eng:	vvv
 *JAC:	y@s:spa todo@s:spa el@s:spa mundo@s:spa maneja@s:spa (.) poner@s:spa las@s:spa cosas@s:spa (.) en@s:spa mi@s:spa calendario@s:spa cuando@s:spa hay@s:spa cita@s:spa a meeting o@s:spa lo@s:spa que@s:spa sea@s:spa . 1260329_1267598
-%eng:	
+%eng:	vvv
 *JAC:	yo@s:spa tengo@s:spa sincronizado@s:spa el@s:spa teléfono@s:spa con@s:spa la@s:spa computadora@s:spa en@s:spa la@s:spa oficina@s:spa con@s:spa los@s:spa servidores@s:spa que@s:spa yo@s:spa pueda@s:spa accesar@s:spa de@s:spa cualquier@s:spa computadora@s:spa por@s:spa el@s:spa web todos@s:spa mis@s:spa contactos@s:spa todos@s:spa mis@s:spa contactos@s:spa . 1267881_1280567
-%eng:	
+%eng:	vvv
 *JAC:	so I have everybody's information in there . 1280774_1283961
 *JAC:	then I have all my email . 1284476_1287007
 *JAC:	in my email when you call my cellular phone and you leave a voice mail right it records a computer file (.) that puts that into my email . 1287294_1298771
@@ -806,7 +806,7 @@
 *JAC:	the faxes all come in when you send it you hear the number . 1309945_1313283
 *JAC:	it's sounds like a regular fax machine . 1313276_1314924
 *JAC:	pero@s:spa it captures it in the computer . 1314907_1316602
-%eng:	
+%eng:	vvv
 *JAC:	and puts it in my email@s:eng&spa . 1316594_1317743
 *JAC:	and it's a P_d_f@s:eng&spa . 1317610_1318893
 *JAC:	and then I can look in the faxes@s:eng&spa . 1318795_1320525
@@ -816,7 +816,7 @@
 *JAC:	I can look at the fax on my phone any time . 1324877_1326798
 *JAC:	I can listen to the voice mail because the email's on the phone . 1326853_1332321
 *ISA:	[- spa] está bueno eso . 1332833_1334197
-%eng:	
+%eng:	vvv
 *JAC:	+< the email's on the phone . 1333390_1334377
 *JAC:	you know how +//. 1334383_1335021
 *JAC:	you use Microsoft_outlook@s:eng&spa at work ? 1335004_1337483
@@ -831,20 +831,20 @@
 *ISA:	I know . 1358965_1359725
 *JAC:	right ? 1359539_1360166
 *JAC:	or you had a little black book o@s:spa la@s:spa cosita@s:spa donde@s:spa tú@s:spa le@s:spa movías@s:spa para@s:spa la@s:spa letra@s:spa &puk y@s:spa &pin . 1360079_1365619
-%eng:	
+%eng:	vvv
 *ISA:	+< &=laugh . 1364394_1366536
 *JAC:	[- spa] salía todo . 1365590_1366559
-%eng:	
+%eng:	vvv
 *ISA:	+< &=laugh . 1365590_1366559
 *ISA:	[- spa] &sa salía xxx [=! laugh ] . 1366453_1367956
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] te acuerdas ? 1366507_1367616
-%eng:	
+%eng:	vvv
 *ISA:	yeah I know . 1367870_1368857
 *ISA:	[- spa] el nombre (.) el teléfono . 1368684_1370373
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] todo . 1370258_1370937
-%eng:	
+%eng:	vvv
 *JAC:	but that stuff now is in that little device . 1370810_1373300
 *JAC:	but now you look at Mary's@s:eng&spa . 1373324_1375327
 *JAC:	the I_Phone@s:eng&spa . 1375251_1376534
@@ -852,11 +852,11 @@
 *JAC:	when we went to the island I bought a camera for like a thousand dollars (.) that was great . 1382820_1388989
 *JAC:	a Sony@s:eng&spa camera several years ago . 1388901_1391026
 *ISA:	[- spa] sí esa fue cuando fueron +/. 1391015_1392280
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] tú te acuerdas ? 1391688_1392530
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] cuando fuimos en el +//. 1392365_1393839
-%eng:	
+%eng:	vvv
 *JAC:	the camera in her phone now is better than that one . 1393581_1396722
 *JAC:	the camera in her phone it's a higher megapixel and better quality camera than that one was . 1397769_1402744
 *JAC:	and it's this big . 1402712_1403873
@@ -865,7 +865,7 @@
 *JAC:	it has the &ai the I_Pod@s:eng&spa it's in the phone . 1406350_1409851
 *JAC:	so she has eight gigabytes of music which is at least a few hundred songs maybe a few thousands songs . 1410250_1416095
 *ISA:	Jack@s:eng&spa pero@s:spa es@s:spa que@s:spa a@s:spa mí@s:spa me@s:spa compran@s:spa un@s:spa teléfono@s:spa de@s:spa esos@s:spa y@s:spa yo@s:spa no@s:spa sé@s:spa ni@s:spa que@s:spa voy@s:spa a@s:spa hacer@s:spa con@s:spa él@s:spa . 1416090_1419951
-%eng:	
+%eng:	vvv
 *JAC:	no no no I haven't [/] I haven't even started . 1419870_1422146
 *ISA:	+< &=laugh . 1420445_1423040
 *JAC:	+< it has a G_p_s@s:eng&spa with a map software . 1422178_1425104
@@ -875,34 +875,34 @@
 *JAC:	+" make a left here . 1429732_1430660
 *JAC:	+" make a right here . 1430660_1432100
 *JAC:	[- spa] lo hace todo el teléfono . 1431930_1433300
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] estoy perdido . 1433298_1434163
-%eng:	
+%eng:	vvv
 *JAC:	you can go buy stock . 1434164_1435336
 *JAC:	they sell stock on the phone . 1435209_1436288
 *JAC:	through the same thing that is a mary trader or any of these places where you do it from your computer . 1436220_1440196
 *JAC:	the internet@s:eng&spa (.) on the telephone is so incredible xxx . 1440398_1446000
 *JAC:	[- spa] tú te imaginas que tú miras un teléfono [//] un telefonito así . 1446127_1449616
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y tú no ves nada . 1449599_1450823
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] es tan pequeño . 1450754_1451764
-%eng:	
+%eng:	vvv
 *ISA:	yeah . 1451671_1452809
 *JAC:	so they develop the technology that ah@s:eng&spa +//. 1453094_1454819
 *JAC:	I'll have to show you this on the phone . 1454836_1456322
 *JAC:	then when you look at the web page tú@s:spa coges@s:spa tus@s:spa dedos@s:spa . 1456870_1460028
-%eng:	
+%eng:	vvv
 *JAC:	y@s:spa si@s:spa tú@s:spa lo@s:spa observaras@s:spa así@s:spa (.) it zooms you in . 1460109_1464411
-%eng:	
+%eng:	vvv
 *ISA:	&guau . 1465140_1465836
 *JAC:	and if you do this it zooms you out . 1466446_1468907
 *JAC:	and you can move around the page . 1468856_1471068
 *JAC:	so you zoom in . 1471014_1472070
 *JAC:	and if you touch like the link like on the internet@s:eng&spa if you touch the hyperlink te@s:spa entra@s:spa xxx . 1472075_1477474
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] pero todo es con tu dedo . 1477549_1479243
-%eng:	
+%eng:	vvv
 *JAC:	it's incredible . 1479904_1480543
 *JAC:	it's so natural . 1480537_1481965
 *JAC:	to use (.) it's so easy . 1482465_1484683
@@ -916,101 +916,101 @@
 *JAC:	it's great for business . 1495500_1496783
 *JAC:	but for just been easy to use and enjoyable man the Apple@s:eng&spa stuff . 1496761_1500859
 *JAC:	[- spa] tú coge el teléfono de allá cuando tú estabas oyendo la música . 1500907_1504674
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] tú lo pones al lado . 1504736_1506094
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y te cambia . 1506048_1507284
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] sabe que tú lo pusiste al lado . 1507263_1509138
-%eng:	
+%eng:	vvv
 *JAC:	ahí@s:spa te@s:spa abre@s:spa todos@s:spa los@s:spa albums@s:eng&spa . 1509149_1511083
-%eng:	
+%eng:	vvv
 *JAC:	y@s:spa todos@s:spa los@s:spa covers de@s:spa todos@s:spa los@s:spa albums@s:eng&spa . 1511052_1513217
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y tú le das así . 1513219_1514744
-%eng:	
+%eng:	vvv
 *JAC:	y@s:spa te@s:spa va@s:spa (.) &a cambiando@s:spa las@s:spa páginas@s:spa al@s:spa mirar@s:spa todos@s:spa los@s:spa albums@s:eng&spa . 1514908_1519171
-%eng:	
+%eng:	vvv
 *JAC:	tú@s:spa tocas@s:spa el@s:spa cover del@s:spa álbum@s:eng&spa que@s:spa tú@s:spa quieres@s:spa . 1519304_1521473
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y lo haces al revés . 1521473_1522460
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y tú ves la lista de todas las canciones . 1522455_1523970
-%eng:	
+%eng:	vvv
 *ISA:	+< mm@s:eng&spa . 1524800_1525485
 *JAC:	[- spa] tocas la canción . 1524825_1525485
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y te lo toc(a) [//] y te lo [//] te lo &to . 1525423_1527525
-%eng:	
+%eng:	vvv
 *ISA:	+< &=laugh . 1526718_1527670
 *JAC:	&a . 1527676_1528657
 *JAC:	[- spa] &a te lo tengo que enseñar . 1528647_1530035
-%eng:	
+%eng:	vvv
 *ISA:	+< xxx . 1529806_1530804
 *JAC:	it's amazing it's amazing . 1530044_1531704
 *JAC:	+< pero@s:spa that's were everything is going like +//. 1531818_1534169
-%eng:	
+%eng:	vvv
 *ISA:	xxx . 1531925_1532639
 *JAC:	it's amazing . 1534407_1535893
 *JAC:	[- spa] tú sabes ahora . 1536111_1536860
-%eng:	
+%eng:	vvv
 *JAC:	tú@s:spa usas@s:spa Google@s:eng&spa ? 1536854_1538003
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] sí . 1538021_1538944
-%eng:	
+%eng:	vvv
 *JAC:	te@s:spa vas@s:spa a@s:spa Google@s:eng&spa tú@s:spa . 1538984_1540250
-%eng:	
+%eng:	vvv
 *JAC:	type una@s:spa palabra@s:spa . 1540215_1541736
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y te lo lleva . 1541643_1543199
-%eng:	
+%eng:	vvv
 *JAC:	ahora@s:spa hay@s:spa algo@s:spa (.) que@s:spa está@s:spa en@s:spa lo@s:spa que@s:spa es@s:spa beta@s:eng&spa . 1543337_1547383
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] mejor . 1546049_1546693
-%eng:	
+%eng:	vvv
 *JAC:	beta@s:eng&spa es@s:spa como@s:spa el@s:spa testing . 1547482_1549009
-%eng:	
+%eng:	vvv
 *ISA:	xxx . 1549026_1549595
 *JAC:	+, [- spa] que ha &sa salido (.) al público . 1549508_1550913
-%eng:	
+%eng:	vvv
 *JAC:	es@s:spa que@s:spa creo@s:spa que@s:spa quedan@s:spa como@s:spa novecientos@s:spa oportunidades@s:spa para@s:spa beta@s:eng&spa testers . 1551966_1557289
-%eng:	
+%eng:	vvv
 *JAC:	se@s:spa llama@s:spa search me dot com . 1557296_1560516
-%eng:	
+%eng:	vvv
 *JAC:	que@s:spa es@s:spa igualito@s:spa al@s:spa Google@s:eng&spa . 1560969_1562210
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] pero hace algo muy diferente . 1562105_1564154
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] cuando tú pones los [/] las palabras . 1564089_1566017
-%eng:	
+%eng:	vvv
 *JAC:	y@s:spa tú@s:spa haces@s:spa search . 1566005_1567375
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] en vez de entregártelo en una lista de palabras . 1568490_1572850
-%eng:	
+%eng:	vvv
 *JAC:	te@s:spa do@s:spa la@s:spa [//] te@s:spa lo@s:spa [/] te@s:spa lo@s:spa da@s:spa en@s:spa previews of the website . 1573199_1578679
-%eng:	
+%eng:	vvv
 *JAC:	so you actually see the website . 1579109_1581286
 *JAC:	and then you hit to the error on the keyboard . 1581332_1584762
 *JAC:	y@s:spa te@s:spa lo@s:spa lleva@s:spa al próximo website . 1584725_1586438
-%eng:	
+%eng:	vvv
 *JAC:	the next error &pum al@s:spa próximo@s:spa website . 1586421_1588523
-%eng:	
+%eng:	vvv
 *JAC:	the next error &pum al@s:spa próximo@s:spa website . 1588511_1590252
-%eng:	
+%eng:	vvv
 *JAC:	so you can see everything (.) like if you were flipping through a catalogue you're seeing already the front of the web page . 1590339_1596180
 *JAC:	so when you're looking for something if you can see the visuals +//. 1596045_1599000
 *ISA:	[- spa] claro xxx +/. 1599058_1599888
-%eng:	
+%eng:	vvv
 *JAC:	+< oh that's exactly what I'm looking for &pum and you're there . 1599282_1602121
 *JAC:	so instead of presenting it to you in a word (.) list of all of the blue links with all the words and all that stuff it's giving you the website . 1602802_1611870
 *JAC:	but on the bottom if you still wanna see the words you press button . 1612316_1615468
 *JAC:	y@s:spa te@s:spa abren@s:spa todas@s:spa las@s:spa palabras@s:spa at the bottom . 1615433_1617192
-%eng:	
+%eng:	vvv
 *JAC:	and you can scroll through the box on the bottom . 1617144_1619309
 *ISA:	xxx . 1619842_1620684
 *JAC:	&i it's Searchme_dot_com and it's really really good . 1621290_1623333
 *ISA:	+< pero@s:spa eso@s:spa lo@s:spa están@s:spa (.) testing ahora@s:spa . 1622481_1624890
-%eng:	
+%eng:	vvv
 *JAC:	+< yeah they're testing they're testing . 1624029_1625294
 *JAC:	and it's an interesting engine . 1625265_1626252
 *JAC:	that's the question . 1626200_1627291
@@ -1029,7 +1029,7 @@
 *JAC:	but their software (.) scans the entire internet . 1661203_1664186
 %com:	ISA clears her throat .
 *ISA:	esa@s:spa no@s:spa era@s:spa la@s:spa que@s:spa Microsoft@s:eng&spa estaba@s:spa tratando@s:spa de@s:spa comprar@s:spa ? 1664702_1668225
-%eng:	
+%eng:	vvv
 *JAC:	+< everyday +//. 1665543_1666629
 *JAC:	no they're trying to buy Yahoo@s:eng&spa . 1668223_1669674
 *ISA:	ya . 1670011_1670545
@@ -1039,16 +1039,16 @@
 *JAC:	they said it's too little . 1678975_1681025
 *JAC:	they said no (.) for forty two billion . 1682262_1685147
 *ISA:	[- spa] coño . 1685876_1686660
-%eng:	
+%eng:	vvv
 *JAC:	yeah [=! laugh ] . 1686818_1687938
 *JAC:	you're talking about a company that didn't exist ten years ago . 1687887_1690905
 *ISA:	[- spa] yo sé . 1691027_1691822
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] yo sé . 1691805_1692769
-%eng:	
+%eng:	vvv
 *JAC:	+< and then forty two billion's too little &=laugh . 1691900_1694663
 *ISA:	sí@s:spa porque@s:spa antes@s:spa era@s:spa solamente@s:spa (.) &e Microsoft@s:eng&spa internet . 1693575_1699142
-%eng:	
+%eng:	vvv
 *ISA:	and that's it . 1699055_1699937
 *JAC:	yeah I know know and . 1699642_1701726
 *JAC:	+, Microsoft's@s:eng&spa+eng good . 1701720_1703212
@@ -1058,26 +1058,26 @@
 *JAC:	Apple@s:eng&spa is very good at being in first place at the beginning . 1715003_1717865
 *JAC:	Apple@s:eng&spa is really really interesting . 1718619_1720680
 *ISA:	[- spa] está bueno . 1722439_1723257
-%eng:	
+%eng:	vvv
 *JAC:	yeah yeah yeah . 1723279_1724248
 *ISA:	[- spa] pero bueno . 1725763_1727000
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] no no no y . 1727581_1728504
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] el costo de la capacidad para procesar (.) sigue bajando . 1729324_1734264
-%eng:	
+%eng:	vvv
 *JAC:	so hoy@s:spa en@s:spa día@s:spa tú@s:spa compras@s:spa una@s:spa computadora@s:spa . 1734591_1736762
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] que tú te acuerdas la computadora que nosotros teníamos en el cuartico en la casa vieja ? 1737175_1741674
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] tú sabes qué ? 1738510_1739340
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] aja . 1741660_1742577
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] tú estás hablando hoy de una computadora que tiene mil veces la potencia . 1742381_1746769
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] la capacidad y el &e +... 1745922_1748452
-%eng:	
+%eng:	vvv
 *JAC:	&e that [//] those computers used to be able to process like twelve million instructions per second (.) right ? 1748593_1754714
 *JAC:	these are gigahertz computers . 1754668_1756050
 *JAC:	these can do like four billion instructions per second . 1756050_1759204
@@ -1086,55 +1086,55 @@
 *JAC:	I can't think what it can calculate . 1763792_1765702
 *JAC:	you know . 1766354_1766923
 *ISA:	ven@s:spa acá@s:spa cómo@s:spa cuánto@s:spa cuesta@s:spa un@s:spa laptop@s:eng&spa xxx ? 1766823_1770112
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] para qué ? 1770859_1772107
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] para mi papá ? 1773432_1774750
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] pa(ra) el cumpleaños de tu papá . 1774376_1775657
-%eng:	
+%eng:	vvv
 *JAC:	oh my god . 1775610_1776690
 *ISA:	[- spa] el cumpleaños de tu papá es la semana que viene . 1776680_1778257
-%eng:	
+%eng:	vvv
 *JAC:	+< I know I know . 1777904_1779646
 *JAC:	[- spa] es que +... 1780168_1781434
-%eng:	
+%eng:	vvv
 %com:	long pause .
 *ISA:	[- spa] no para comprar . 1783110_1784027
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] yo se la compro . 1784021_1785275
-%eng:	
+%eng:	vvv
 %com:	Isa clears her throat .
 *ISA:	[- spa] pero más o menos cómo en cuánto están ahora algo así que le +//. 1786907_1790030
-%eng:	
+%eng:	vvv
 *JAC:	tú@s:spa crees@s:spa que@s:spa es@s:spa mejor@s:spa comprarle@s:spa un@s:spa laptop@s:eng&spa ? 1789990_1792300
-%eng:	
+%eng:	vvv
 *ISA:	yo@s:spa creo@s:spa que@s:spa es@s:spa mejor@s:spa porque@s:spa está@s:spa pasando@s:spa trabajo@s:spa con@s:spa esa@s:spa (.) que@s:spa era@s:spa la@s:spa de@s:spa Olguita@s:eng&spa . 1793530_1798202
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] pero yo tengo +/. 1798018_1799441
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] pero que no [/] no [/] no le carga la batería . 1798477_1800938
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] yo tengo tremendo tremendo &em conexión para arreglar eso . 1800004_1805274
-%eng:	
+%eng:	vvv
 *JAC:	so yo@s:spa se@s:spa lo@s:spa pedí@s:spa . 1805251_1806494
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] yo &e yo lo llevé el mío a arreglar al mismo lugar la semana pasada . 1807141_1811178
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] está bueno . 1807213_1807840
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y me lo arreglaron ahí mismo . 1811160_1812626
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] porque el tuyo también estaba malo ? 1811657_1813410
-%eng:	
+%eng:	vvv
 *JAC:	&e cuando@s:spa fuimos@s:spa al@s:spa camping@s:spa (.) Mary@s:eng&spa estaba@s:spa &mu moviendo@s:spa la@s:spa maleta@s:spa atrás@s:spa en@s:spa el@s:spa carro@s:spa para@s:spa sacar@s:spa el@s:spa coche@s:spa . 1813491_1820374
-%eng:	
+%eng:	vvv
 *JAC:	y@s:spa el@s:spa laptop@s:eng&spa se@s:spa &cu cayó@s:spa de@s:spa la@s:spa maleta@s:spa en@s:spa el@s:spa piso@s:spa . 1820468_1824332
-%eng:	
+%eng:	vvv
 *JAC:	xxx tremendo@s:spa &o it was banged up . 1825016_1827587
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] se dañó ? 1825231_1825910
-%eng:	
+%eng:	vvv
 *JAC:	+< so I it over there . 1827518_1828214
 *JAC:	and they fixed it right away . 1828203_1829358
 *JAC:	and they are people that I'm doing business with too . 1829195_1831488
@@ -1143,83 +1143,83 @@
 *JAC:	they're one of the only laptop@s:eng&spa repair shops in all of Miami@s:eng&spa . 1836329_1839441
 *JAC:	and they have I_b_m@s:eng&spa like xxx +//. 1839508_1841876
 *ISA:	+< [- spa] entonces tú crees que esa se puede arreglar ? 1841336_1842979
-%eng:	
+%eng:	vvv
 *JAC:	yeah . 1842604_1843068
 *JAC:	we'll take it over there . 1842981_1843910
 *JAC:	and get that fixed because the problem with my dad (.) is that (.) buying a new computer for him (.) is is crazy because he's not gonna use +/. 1843825_1855414
 *ISA:	+< o_k@s:eng&spa . 1845437_1845651
 *ISA:	[- spa] no el no tiene tanto xxx porque aquí en la casa es donde él más trabaja <en la> [/] en la computadora . 1855362_1862165
-%eng:	
+%eng:	vvv
 *JAC:	+< he does very very simple things . 1856407_1858125
 *JAC:	+< and yeah my dad is doing very simple things . 1861327_1863283
 *JAC:	some picture thing . 1863327_1864517
 *JAC:	you know stuff like that . 1864174_1865661
 *JAC:	it's not a +... 1865516_1866881
 *JAC:	[- spa] no hay necesidad para [/] pa(ra) él meterle con +... 1867394_1871196
-%eng:	
+%eng:	vvv
 *JAC:	you know the heavy duty . 1872757_1874087
 *JAC:	I'm trying to think what else he can really really enjoy (.) that he would like . 1874450_1878814
 *ISA:	xxx . 1875936_1876789
 *ISA:	[- spa] sí porque es que no sé no sé qué le voy a comprar hijo . 1877717_1880561
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] porque yo óyeme [=! laughing ] . 1881035_1883241
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] me vuelvo loquita pensando . 1883945_1885768
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y no sé . 1885646_1886302
-%eng:	
+%eng:	vvv
 *JAC:	+< mm . 1885809_1887208
 *ISA:	[- spa] ya estoy cansada de comprarles zapatos (.) ropa . 1887933_1891184
-%eng:	
+%eng:	vvv
 %com:	long pause.
 *ISA:	[- spa] él no te ha dicho nada así que que te dé una idea de +/. 1895752_1900071
-%eng:	
+%eng:	vvv
 *JAC:	+< &e no@s:spa no@s:spa no@s:spa no@s:spa I haven't talked to them xxx . 1899384_1901811
-%eng:	
+%eng:	vvv
 *JAC:	there's you know I'm trying to think like in terms of electronics . 1901712_1904754
 *JAC:	there's some cool electronics . 1904667_1906170
 *JAC:	you know . 1906151_1908461
 *JAC:	[- spa] eso podemos ir todos juntos <a la> [/] a la tienda . 1908393_1910727
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y yo te enseño varias cosas . 1910721_1912712
-%eng:	
+%eng:	vvv
 *JAC:	pero@s:spa I'm trying to think +//. 1912554_1914098
-%eng:	
+%eng:	vvv
 *ISA:	sí@s:spa pero@s:spa acuérdate@s:spa que@s:spa es@s:spa next week . 1914121_1916472
-%eng:	
+%eng:	vvv
 *JAC:	yeah . 1916437_1917064
 *ISA:	+< [- spa] es el día (.) tres . 1916930_1919264
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y ya mañana es treinta uno . 1919177_1922015
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] así que <creo que> [/] creo que es el jueves . 1922032_1924074
-%eng:	
+%eng:	vvv
 *JAC:	+< yeah next week . 1922147_1923900
 *ISA:	[- spa] creo no ? 1924080_1924846
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] miércoles o jueves . 1924881_1925955
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] el jueves . 1926373_1927429
-%eng:	
+%eng:	vvv
 *ISA:	uhuh . 1927978_1928942
 *JAC:	there's some really really really nice (.) digital cameras that they've come out with now . 1931339_1938305
 *ISA:	[- spa] pero él se acaba de comprar una cámara . 1938051_1940031
-%eng:	
+%eng:	vvv
 *JAC:	yeah I know . 1939967_1941041
 *JAC:	there's [///] these are like the old school ones . 1940986_1943587
 *JAC:	the single lens reflex . 1943575_1945015
 *ISA:	[- spa] sí . 1945038_1945683
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] tú sabes la [//] lo que van &chu &chu &chu . 1945044_1946675
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y tienen todo . 1946816_1947861
-%eng:	
+%eng:	vvv
 *JAC:	but there're digital now . 1947687_1949434
 *JAC:	like that really high quality . 1949473_1951145
 *ISA:	+< [- spa] él se compró una que [/] que tira hasta vídeos . 1950007_1953060
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] tú sabes . 1953422_1954629
-%eng:	
+%eng:	vvv
 *JAC:	the other thing is there's nice digital video cameras now . 1954566_1957155
 *JAC:	very very fancy video cameras . 1957118_1959173
 *JAC:	so what else do we have ? 1959022_1961204
@@ -1234,64 +1234,64 @@
 *JAC:	there's the flat screen televisions . 1976320_1978415
 *JAC:	which are really nice . 1978697_1979667
 *ISA:	+< [- spa] sí pero eso todavía no porque ya compramos uno . 1979520_1982933
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] para el cuarto no ? 1983318_1984473
-%eng:	
+%eng:	vvv
 *JAC:	&u ? 1984502_1984972
 *ISA:	no@s:spa pa(ra)@s:spa camping . 1985437_1986545
-%eng:	
+%eng:	vvv
 %com:	caming is not in the Diccionario de Americanismos, however it is a borrowing frequently used in Spain and Latin America.
 *JAC:	+< xxx . 1985634_1986481
 *ISA:	[- spa] tú no los vistes ? 1986476_1988084
-%eng:	
+%eng:	vvv
 *JAC:	+< oh yeah . 1986476_1988084
 *JAC:	aren't they great ? 1987944_1989343
 *ISA:	yeah . 1989268_1989895
 *JAC:	they have no glare . 1989581_1990469
 *JAC:	there's no reflexion on the glass . 1991023_1992636
 *ISA:	+< [- spa] de lo más bueno que está . 1992429_1994128
-%eng:	
+%eng:	vvv
 *JAC:	you just &chus . 1993205_1994140
 *ISA:	pero@s:spa <eso@s:spa fue@s:spa para@s:spa los@s:spa> [//] eso@s:spa fue@s:spa para@s:spa valentine . 1996750_1998578
-%eng:	
+%eng:	vvv
 *JAC:	nice . 1999008_1999914
 %com:	ISA clears her throat .
 *JAC:	what else ? 2001136_2001856
 *JAC:	what else what else what else . 2001914_2003754
 *ISA:	[- spa] no sé . 2004418_2004969
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] piensa a ver . 2004975_2005956
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] porque tú sabes yo lo vi con el problema de la computadora . 2009129_2012111
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] siempre tiene la [//] le +//. 2012180_2013132
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] digo bueno vamos a ver si le compro una . 2012883_2015153
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] si tú dices que esa se puede arreglar porque en realidad esa no es una computadora vieja . 2015816_2020245
-%eng:	
+%eng:	vvv
 *JAC:	no it's more than what he needs . 2020796_2023182
 *ISA:	[- spa] esa computadora está buenísima . 2022677_2024860
-%eng:	
+%eng:	vvv
 *JAC:	it's more than what he needs absolutely . 2023941_2026268
 *ISA:	[- spa] lo único que tiene es eso que no le está cargando la (.) la [/] la batería . 2026641_2032218
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] parece que tiene un contacto ahí que no +//. 2034315_2036829
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] tú sabes que no coge bien . 2036806_2038402
-%eng:	
+%eng:	vvv
 *JAC:	uhuh . 2038303_2039133
 *JAC:	[- spa] eso es típico . 2040426_2041674
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] eso es típico . 2041825_2043021
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] sí ? 2042496_2043233
-%eng:	
+%eng:	vvv
 *JAC:	yeah the power port <on the> [/] on the motherboard's coming loose (.) more than anything because that particular port takes a lot of abuse (.) takes a lot of abuse . 2044158_2054980
 *ISA:	mm . 2054249_2055711
 *JAC:	so +... 2056716_2057772
 *ISA:	[- spa] y tú mamá está aquí ahora o está paseando ? 2057505_2060158
-%eng:	
+%eng:	vvv
 *JAC:	+< she's out . 2059517_2060870
 *JAC:	+< no . 2059653_2060268
 *JAC:	she's out . 2061352_2062083
@@ -1312,27 +1312,27 @@
 *JAC:	it's not like being here . 2093591_2094601
 *JAC:	it's different . 2094490_2095408
 *ISA:	+< [- spa] eso es lo que tú sabes uno +/. 2095330_2096450
-%eng:	
+%eng:	vvv
 *JAC:	+< you got to get back here . 2096183_2097460
 *ISA:	[- spa] uno se queja (.) de esto aquí pero mijo . 2097361_2102063
-%eng:	
+%eng:	vvv
 *JAC:	oye@s:spa [=! laughing ] it's the best there is . 2101959_2104368
-%eng:	
+%eng:	vvv
 *JAC:	nobody has to pretend [=! laughing] . 2104701_2105949
 *JAC:	this is the best there is . 2105920_2107191
 *ISA:	[- spa] no &a [/] no cómo . 2107852_2109036
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] es no es perfecto pero +... 2109036_2110743
-%eng:	
+%eng:	vvv
 *JAC:	&ug . 2110401_2111359
 *ISA:	[- spa] pero pero yo creo que uno de los mejores oíste [=! laughing ] ? 2111921_2114934
-%eng:	
+%eng:	vvv
 *JAC:	it's [/] it's [/] it's a disaster . 2115052_2117490
 *JAC:	but it's still still pretty amazing . 2117409_2120102
 *ISA:	[- spa] sí señor . 2120185_2121462
-%eng:	
+%eng:	vvv
 *ISA:	entonces@s:spa ahora@s:spa vienen@s:spa las@s:spa elecciones@s:spa Jack@s:eng&spa . 2122252_2124806
-%eng:	
+%eng:	vvv
 *JAC:	oh my god . 2125268_2126476
 *JAC:	we're gonna have a black president . 2126406_2127927
 *JAC:	and not only that we're gonna have a [/] (.) a total change in everything . 2128054_2133666
@@ -1340,101 +1340,101 @@
 *JAC:	oh my god taxes are gonna go up so much . 2136603_2139546
 *JAC:	it's gonna get insane . 2139629_2142078
 *ISA:	[- spa] sí porque los [/] los demócratas dicen que son del pueblo . 2142626_2145381
-%eng:	
+%eng:	vvv
 *ISA:	pero@s:spa son@s:spa los@s:spa que@s:spa más@s:spa taxes suben@s:spa oíste@s:spa ? 2145370_2147518
-%eng:	
+%eng:	vvv
 *JAC:	yeah . 2147632_2148822
 *JAC:	you have to pay for everything . 2148762_2150666
 *ISA:	&=laughing . 2148762_2150666
 *JAC:	they wanna give everybody your money [=! laughing ] . 2150651_2153100
 *ISA:	&=laughing no . 2152429_2153125
 *ISA:	[- spa] pero por qué ? 2153058_2153957
-%eng:	
+%eng:	vvv
 *ISA:	por@s:spa qué@s:spa aquí@s:spa tiene@s:spa que@s:spa existir@s:spa un@s:spa welfare para@s:spa mantener@s:spa a@s:spa la@s:spa gente@s:spa ? 2154832_2157880
-%eng:	
+%eng:	vvv
 *ISA:	un@s:spa welfare es@s:spa para@s:spa ayudarte@s:spa a@s:spa encaminarte@s:spa esto@s:spa &e un@s:spa año@s:spa o@s:spa dos@s:spa años@s:spa . 2157837_2163984
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] recogerte vaya . 2161215_2162800
-%eng:	
+%eng:	vvv
 *JAC:	+< ok if you're disable . 2162658_2165097
 *JAC:	if you're cripple . 2165056_2166327
 *ISA:	[- spa] dale . 2166352_2166788
-%eng:	
+%eng:	vvv
 *JAC:	+< you know . 2166624_2167036
 *ISA:	[- spa] ponte a trabajar . 2166782_2167740
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] por qué tengo yo que mantenerte a ti ? 2167730_2169812
-%eng:	
+%eng:	vvv
 *JAC:	that's insane . 2169549_2171609
 *ISA:	+< ok . 2170048_2170710
 *ISA:	[- spa] entonces las mujeres éstas pariendo . 2171708_2173414
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] tienen todos los años tienen un hijo . 2173513_2175342
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] no tienen marido . 2175034_2176056
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] yo no sé los hijos cómo los hacen . 2176032_2177292
-%eng:	
+%eng:	vvv
 *JAC:	&=laughing . 2177160_2178693
 *ISA:	[- spa] entonces ? 2178600_2180794
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] hay que mantenerle el mucha(cho) +//. 2180935_2181957
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] mientras más hijos tienen más dinero le dan . 2181916_2183873
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] no trabajan . 2183838_2185312
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y quién es ? 2186452_2187084
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] los demócratas son los (.) responsables de eso . 2187067_2189801
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] porque yo entiendo que a una persona hay que ayudarla . 2189991_2193067
-%eng:	
+%eng:	vvv
 *JAC:	+< no@s:spa y@s:spa Barack@s:eng&spa [/] Barack@s:eng&spa es@s:spa tremendo@s:spa demócrata@s:spa . 2190921_2194364
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] ese es un tremendo come mierda . 2193139_2196159
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y ese lo que trae es una agenda muy oscura muy escondida oíste ? 2196172_2199557
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] escondida . 2199177_2200065
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y él escondido . 2200083_2201052
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] él es un político como cualquier +//. 2200745_2203392
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] y tú sabes qué ? 2201075_2202486
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] que no se tire mucho porque tú sabes que (.) vaya . 2203302_2207296
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] él es igualito [=! laughing ] . 2203409_2208947
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] eso (.) del (.) [/] del momento que empezó ha [/] ha estado ahí la [/] la lucecita roja . 2208799_2217154
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] los [/] (.) los [/] (.) los pollitos rojos esos tú sabes que no son muy suaves . 2212959_2219739
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] no no no no . 2220840_2222007
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] cuando no le convenga la cosa (.) vaya . 2222098_2226956
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] no no no no no olvídate . 2225912_2227258
-%eng:	
+%eng:	vvv
 *JAC:	que@s:spa ponga@s:spa a@s:spa Hillary@s:eng&spa de@s:spa vicepresidente@s:spa . 2227910_2230610
-%eng:	
+%eng:	vvv
 *ISA:	&=laughing . 2229545_2234497
 *JAC:	[- spa] entonces nadie xxx porque nadie quiere a ella [=! laughing ] . 2231215_2234500
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] ella es peor todavía . 2234530_2235894
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] nadie lo mata porque peor quedarse con ella [=! laughing ] . 2235893_2239028
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] esa mujer sí trae +... 2239065_2240487
-%eng:	
+%eng:	vvv
 *JAC:	no@s:eng&spa no@s:eng&spa no@s:eng&spa no@s:eng&spa she's a shark . 2240278_2242652
 *ISA:	[- spa] esa mujer +... 2242648_2244030
-%eng:	
+%eng:	vvv
 *JAC:	+< she's a shark . 2243199_2245278
 *ISA:	+< [- spa] ella es peor que el marido . 2244088_2245516
-%eng:	
+%eng:	vvv
 *JAC:	oh my gosh . 2245823_2247240
 *JAC:	she's the one that knows what she's doing . 2247172_2249436
 *JAC:	he was just there for the ride . 2249453_2251624
@@ -1453,71 +1453,71 @@
 *JAC:	so he just did whatever the easy thing was . 2274527_2277627
 *JAC:	but sometimes you gotta do some fucked up shit . 2277586_2280419
 *ISA:	+< [- spa] lo que es +//. 2278241_2278937
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] cómo es ? 2278926_2279634
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] políticamente correcto . 2279634_2281434
-%eng:	
+%eng:	vvv
 *JAC:	+< [- spa] mira . 2280779_2281748
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] nosotros (.) cagamos Somolia cuando &ela [//] era presidente . 2282127_2287143
-%eng:	
+%eng:	vvv
 *ISA:	&=laughing . 2282209_2284287
 *JAC:	+< [- spa] entramos ahí xxx . 2287338_2289631
-%eng:	
+%eng:	vvv
 *JAC:	después@s:spa de@s:spa eso@s:spa en@s:spa Kenya@s:eng&spa creo@s:spa que@s:spa es@s:spa los@s:spa Tutsis@s:eng&spa y@s:spa los@s:spa Hulis@s:eng&spa mataron@s:spa <ocho@s:spa mi(l)@s:spa> [//] ocho@s:spa cientos@s:spa mil@s:spa personas@s:spa (.) en@s:spa como@s:spa cuarenta@s:spa días@s:spa . 2289493_2303822
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] sí eso fue +... 2298656_2299939
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] algo así . 2303853_2304816
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] sí sí sí . 2303853_2304874
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] era como veinte mil personas al día +... 2304805_2307086
-%eng:	
+%eng:	vvv
 *ISA:	uhuh . 2306813_2307713
 *JAC:	+, [- spa] que estaban matando . 2307533_2308833
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y el otro no hizo nada . 2309841_2311949
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y todo el mundo sabía qué estaba pasando . 2313535_2315160
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] y le dejaron . 2315089_2316273
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] mira estaba pasando +//. 2316160_2317426
-%eng:	
+%eng:	vvv
 *ISA:	xxx . 2316921_2319109
 *JAC:	[- spa] y ellos estaban diciendo +"/. 2317633_2318806
-%eng:	
+%eng:	vvv
 *JAC:	+" [- spa] mira si hacemos algo los republicanos nos van a crucificar . 2318811_2322289
-%eng:	
+%eng:	vvv
 *ISA:	+< él@s:spa estaba@s:spa muy@s:spa busy . 2321139_2322753
-%eng:	
+%eng:	vvv
 *JAC:	&=laughing . 2322996_2326828
 *ISA:	&=laughing . 2322996_2326828
 *JAC:	[- spa] estaba ocupado &=laughing . 2326764_2327710
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] está muy ocupado &=laughing . 2327661_2330616
-%eng:	
+%eng:	vvv
 *JAC:	+< &=laughing . 2327789_2329925
 *ISA:	[- spa] qué tipo . 2330841_2331886
-%eng:	
+%eng:	vvv
 %com:	background noise.
 *ISA:	[- spa] qué clase de tipo dios mío . 2333568_2335461
-%eng:	
+%eng:	vvv
 *ISA:	yo@s:spa no@s:spa sé@s:spa dónde@s:spa vamos@s:spa a@s:spa parar@s:spa Jack@s:eng&spa . 2335364_2338880
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y el otro pobrecito está viejito . 2340993_2343489
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] el otro está +//. 2343993_2345101
-%eng:	
+%eng:	vvv
 *ISA:	+< pero@s:spa he [/] he pero@s:spa he knows what he's doing okey@s:eng&spa . 2344370_2347487
-%eng:	
+%eng:	vvv
 *JAC:	+< you know what he does know what he's doing . 2346448_2347927
 *JAC:	and he's a smart politician . 2347753_2349373
 *ISA:	he's a politician of politicians . 2349349_2351091
 *ISA:	+< [- spa] yo voy a votar por él . 2351077_2352632
-%eng:	
+%eng:	vvv
 *JAC:	+< he knows how to work everybody . 2351077_2353532
 *JAC:	and that's it . 2353516_2354636
 *JAC:	you want somebody that can work the whole field (.) the left the right the middle (.) everybody . 2354637_2359235
@@ -1538,29 +1538,29 @@
 *ISA:	mmhm . 2386668_2387544
 *JAC:	the other ones are like you know I'll think this if you want me to think that . 2387481_2391318
 *ISA:	+< [- spa] no no no no . 2389991_2391399
-%eng:	
+%eng:	vvv
 *JAC:	I'll think this if you want me to think that . 2391382_2393536
 *ISA:	[- spa] ellos quieren quedar bien con todo el mundo . 2392635_2394510
-%eng:	
+%eng:	vvv
 *JAC:	[- spa] con todo el mundo . 2393935_2395514
-%eng:	
+%eng:	vvv
 *ISA:	[- spa] y [/] y [/] y tú no puedes . 2394469_2396263
-%eng:	
+%eng:	vvv
 *JAC:	of course not . 2396203_2397283
 *JAC:	[- spa] como ellos &di +"/. 2397330_2398387
-%eng:	
+%eng:	vvv
 *JAC:	+" estaban@s:spa en@s:spa Ohio@s:eng&spa . 2398364_2399734
-%eng:	
+%eng:	vvv
 *JAC:	donde@s:spa mucha@s:spa gente@s:spa han@s:spa perdido@s:spa sus@s:spa trabajos@s:spa razón@s:spa de@s:spa Nafta@s:eng&spa . 2399652_2405048
-%eng:	
+%eng:	vvv
 *JAC:	porque@s:spa that just happened to me xxx manufacturing state . 2404940_2407854
-%eng:	
+%eng:	vvv
 *ISA:	+< [- spa] pero . 2406777_2407410
-%eng:	
+%eng:	vvv
 *JAC:	so they all go &o Ohio@s:eng&spa and the say xxx +"/. 2407923_2409885
 *JAC:	+" we're gonna get rid of Nafta@s:eng&spa . 2409630_2411313
 *ISA:	+< [- spa] pero . 2409832_2410396
-%eng:	
+%eng:	vvv
 *JAC:	and then they go up to Canada@s:eng&spa . 2411237_2412721
 *JAC:	and they say +"/. 2412709_2413098
 *JAC:	+" hey (.) don't worry we're not gonna mess with Nafta@s:eng&spa . 2412918_2416123
