@@ -12,7 +12,6 @@
 @Media:	sastre11, audio
 @Comment:	Filename: sastre11.CHA; Soundfile: sastre11.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	vvv
 *JAC:	para@s:spa todo@s:spa lo@s:spa que@s:spa tiene@s:spa que@s:spa ver@s:spa con@s:spa psychology tú@s:spa no@s:spa puedes@s:spa empezar@s:spa sin@s:spa masters@s:eng&spa . 1333_4409
 %eng:	vvv
 *JAC:	en@s:spa todas@s:spa las@s:spa escuelas@s:spa todos@s:spa los@s:spa counsellors . 4468_6877

@@ -9,9 +9,9 @@
 @Date:	04-MAR-2008
 @Coder:	M. Carmen Parafita Couto and Diana Carter, Prifysgol Bangor University
 @Time Duration:	00:28:14
+@Media:	herring6, audio
 @Comment:	Filename: herring6.CHA; Soundfile: herring6.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	vvv
 *NIC:	[- spa] estabas cabrona . 17_1840
 %eng:	you were annoying.
 *JES:	[- spa] sí porque no me recogiste la casa . 1811_6106
@@ -27,9 +27,9 @@
 *NIC:	[- spa] y quería la leche . 13939_15210
 %eng:	and he wanted milk.
 *JES:	[- spa] yo me fui pa(ra) allá para despertarme . 15190_17517
-%eng: and I went over there to wake myself up.
+%eng:	and I went over there to wake myself up.
 *NIC:	[- spa] a qué hora ? 17465_18249
-%eng: 	at what time?
+%eng:	at what time?
 *JES:	[- spa] varias veces . 18198_20340
 %eng:	several times.
 *NIC:	[- spa] voy a dejar xxx +/. 20308_20854
@@ -37,13 +37,13 @@
 *JES:	+< [- spa] por la mañana ? 20308_21551
 %eng:	in the morning?
 *NIC:	[- spa] no . 21568_21992
-%eng: 	no.
+%eng:	no.
 *NIC:	that had to have been there when I went outside . 22003_23477
 *NIC:	that I went outside to smoke for a minute . 23460_24940
 *NIC:	and then I came back in . 24922_26072
 *NIC:	and he went outside . 26055_27059
 *NIC:	and he goes (es)taba@s:spa buscando@s:spa . 27048_29709
-%eng: 	and he goes he was looking.
+%eng:	and he goes he was looking.
 *NIC:	estaba@s:spa I love when he uses his hand . 29626_31123
 %eng:	he was I love when he uses his hand.
 *JES:	oh@s:eng&spa . 31097_32089
@@ -207,7 +207,7 @@
 *NIC:	I imagine he went to work . 342946_343933
 *JES:	mmhm@s:eng&spa . 343933_347770
 *NIC:	[- spa] y tengo un dolor de cabeza (.) de este tamaño . 347715_352305
-%eng: and I have a headache of this size.
+%eng:	and I have a headache of this size.
 *NIC:	&=sniffing . 0_0
 *JES:	why don't you take some Tylenol@s:eng&spa ? 354621_356450
 *NIC:	<I am> [/] I'm gonna take some . 356409_357611
@@ -344,7 +344,7 @@
 *JES:	[- spa] eso pero es que +... 660821_661645
 %eng:	that but the thing is that...
 *JES:	[- spa] yo le dije +"/. 661628_662347
-%eng: 	I told him.
+%eng:	I told him.
 *JES:	+" [- spa] eso es lo que tú tenías que hacer desde un principio . 662347_664907
 %eng:	that's what you had to do from the beginning.
 *JES:	+" yo@s:spa sí@s:spa pero@s:spa es@s:spa que@s:spa yo@s:spa no@s:spa sabía@s:spa que@s:spa ella@s:spa estaba@s:spa you know (.) certificada@s:spa hasta@s:spa [/] hasta@s:spa quinto@s:spa grado@s:spa . 664909_670810
@@ -352,7 +352,7 @@
 *NIC:	+< [- spa] y ellos no miran nada los [/] los papeles y los expedientes de la gente ? 669770_672627
 %eng:	and they don't check people's paperwork or files.
 *JES:	+< ay@s:spa mi@s:spa amor@s:spa ella@s:spa es@s:spa una@s:spa principal@s:eng&spa nueva@s:spa . 671843_674328
-%eng: oh my dear she is a new principal.
+%eng:	oh my dear she is a new principal.
 *NIC:	&=cough . 674359_674730
 *JES:	you know ? 674711_676139
 *JES:	[- spa] ella está +... 676851_678087
@@ -382,7 +382,7 @@
 %eng:	fifth grade like the principal from the other school did to me.
 *JES:	er@s:eng&spa she has every right to do so . 729096_735182
 *JES:	ahí@s:spa it's her administrative decision that I would do best in this class . 735159_741998
-%eng: in that case it's her administrative decision that I would do best in this class.
+%eng:	in that case it's her administrative decision that I would do best in this class.
 *JES:	whether I like it or not that's [///] I mean they should take that into consideration . 741977_748131
 *JES:	but they don't have to . 748119_749199
 *NIC:	but at any rate didn't they get somebody to replace her while she was gone ? 749143_752774
@@ -411,7 +411,7 @@
 *JES:	oh yeah . 814721_815859
 *JES:	they're emotionally (.) you know (.) disabled . 815841_820999
 *JES:	[- spa] pero le dicen hasta alma mía . 820995_825022
-%eng:	 but they tell her even my soul [FRAIBET!.
+%eng:	but they tell her even my soul [FRAIBET].
 *JES:	[- spa] entonces por eso la otra no podía . 825012_829204
 %eng:	then that's why the other one couldn't do it.
 *JES:	E_S_E@s:eng&spa is really really really difficult . 829160_833012
@@ -428,13 +428,13 @@
 *JES:	y@s:spa entonces@s:spa um@s:eng&spa quién@s:spa me@s:spa vino@s:spa a@s:spa decir@s:spa eso@s:spa Dios@s:spa mío@s:spa ? 865776_872912
 %eng:	and then um who came to tell me that, my God?
 *JES:	yo@s:spa creo@s:spa que@s:spa fue@s:spa Pili@s:eng&spa . 872896_874033
-%eng:	 I think it was Pili.
+%eng:	I think it was Pili.
 *JES:	me@s:spa vino@s:spa a@s:spa decir@s:spa er@s:eng&spa no@s:spa que@s:spa uno@s:spa de@s:spa los@s:spa niños@s:spa de@s:spa la@s:spa clase@s:spa de@s:spa ahí@s:spa de@s:spa ella@s:spa (.) lo@s:spa encontraron@s:spa en@s:spa la@s:spa calle@s:spa descalzo@s:spa (.) running through the street . 873981_886603
 %eng:	She came to tlel me that one of the kis of that class of hers they found him on the stree barefood running through the street.
 *JES:	[- spa] xxx entonces figúrate . 886538_889022
 %eng:	then go figure.
 *JES:	[- spa] la principal les cayó (.) a ellos . 889016_892807
-%en:	the principal FRAIBET
+%eng:	the principal FRAIBET
 *JES:	[- spa] y dije +"/. 892791_893770
 %eng:	and I said.
 *JES:	+" [- spa] pero qué pasó . 893736_894363
@@ -452,7 +452,7 @@
 *JES:	and um@s:eng&spa <the &k> [/] the child snuck out . 924912_931545
 *JES:	so she [//] the principal went in there to try to see how could this happen and how to prevent it from happening again . 931527_938672
 *JES:	porque@s:spa dice@s:spa que@s:spa <the person that fou(nd)> [///] two people that found +... 938637_942886
-%eng:	 because she says that the person that found twou people that found...
+%eng:	because she says that the person that found twou people that found...
 *JES:	you know figúrate@s:spa . 942869_943774
 %eng:	you know go figure.
 *JES:	around the park people walk around . 943577_945539

@@ -12,7 +12,6 @@
 @Media:	herring13, audio
 @Comment:	Filename: herring13.CHA; Soundfile: herring13.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	vvv
 *VAN:	ok@s:eng&spa ok@s:eng&spa so eso@s:spa these are new right ? 17_3158
 %eng:	vvv
 *LEA:	+< ok@s:eng&spa . 395_749

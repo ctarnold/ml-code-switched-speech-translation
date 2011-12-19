@@ -12,7 +12,6 @@
 @Media:	zeledon3, audio
 @Comment:	Filename: zeledon3.CHA; Soundfile: zeledon3.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	vvv
 *FEL:	[- spa] xxx espera . 6_1242
 %eng:	vvv
 *FEL:	[- spa] tengo una cosa chiquitica . 1236_3193

@@ -12,7 +12,6 @@
 @Media:	zeledon9, audio
 @Comment:	Filename: zeledon9.CHA; Soundfile: zeledon9.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	vvv
 *GIL:	ah@s:eng&spa Jacky@s:eng&spa está@s:spa en@s:spa Colombia@s:spa para@s:spa Navidad@s:spa un@s:spa año@s:spa . 6_5132
 %eng:	vvv
 *GIL:	um yo@s:spa (.) fui@s:spa la@s:spa día@s:spa primero@s:spa un@s:spa poquito@s:spa días@s:spa de@s:spa Navidad@s:spa . 5123_11219

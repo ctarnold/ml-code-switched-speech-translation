@@ -12,7 +12,6 @@
 @Media:	sastre10, audio
 @Comment:	Filename: sastre10.CHA; Soundfile: sastre10.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%eng:	vvv
 *JEN:	ok . 6_940
 *JOC:	no@s:eng&spa pero@s:spa pobrecito@s:spa he's only forty five . 853_3175
 %eng:	vvv
