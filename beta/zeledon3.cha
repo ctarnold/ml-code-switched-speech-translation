@@ -10,64 +10,64 @@
 @Transcriber:	Diana Carter, Prifysgol Bangor University
 @Time Duration:	00:30:25
 @Media:	zeledon3, audio
-@Comment:	Filename: zeledon3.CHA; Soundfile: zeledon3.wav
+@Comment:	Filename: zeledon3.cha; Soundfile: zeledon3.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *FEL:	[- spa] xxx espera . 6_1242
-%eng:	vvv
+%eng:	... wait.
 *FEL:	[- spa] tengo una cosa chiquitica . 1236_3193
-%eng:	vvv
+%eng:	I have something small to do.
 *FEL:	[- spa] y tengo una cosa que tengo que hacer en la computadora . 3187_6468
-%eng:	vvv
+%eng:	and I have something I have to do on the computer.
 *FEL:	[- spa] &em +... 6468_7983
-%eng:	vvv
+%eng:	
 *FEL:	[- spa] qué más ? 7982_9508
-%eng:	vvv
+%eng:	what else?
 *FEL:	[- spa] &em +... 9503_10954
-%eng:	vvv
+%eng:	
 *FEL:	[- spa] creo que es todo . 10942_13132
-%eng:	vvv
+%eng:	I think that's all.
 *ELE:	&e ah@s:eng&spa bueno@s:spa pero@s:spa fin@s:spa de@s:spa semana@s:spa so you can take your time . 13103_20061
-%eng:	vvv
+%eng:	ah, good, but it's the weekend, so you can take your time.
 *FEL:	+< [- spa] xxx tengo tres días . 18279_19742
-%eng:	vvv
+%eng:	... I have three days.
 *FEL:	[- spa] xxx limpiar mi cuarto este fin de semana . 19728_22874
-%eng:	vvv
+%eng:	... tidy my room this weekend.
 *FEL:	[- spa] voy a limpiarlo bien bien xxx recoger todo organizar todo . 0_0
-%eng:	vvv
+%eng:	I'm going to tidy it really well ... sort out eveything, organise everything.
 *ELE:	that's good . 27071_30631
 *FEL:	no it isn't . 30602_32198
 *ELE:	[- spa] sí porque tú eres bien organizado . 32188_35323
-%eng:	vvv
+%eng:	yes, because you're very organised..
 *FEL:	no I'm not . 35337_36910
 *ELE:	yeah you are . 36901_37911
 *FEL:	+< I just have a habit of not putting things where they go . 37504_39792
 *ELE:	mmhm . 39754_42209
 *ELE:	&=laughs . 42203_46525
 *FEL:	[- spa] y &em cómo te está yendo el xxx ? 46525_49383
-%eng:	vvv
+%eng:	how's the ... going for you?
 *FEL:	[- spa] xxx o no ? 49377_51179
-%eng:	vvv
+%eng:	... or not?
 *ELE:	ah@s:eng&spa (.) no@s:spa sé@s:spa todavía@s:spa de@s:spa lo@s:spa que@s:spa espera@s:spa que@s:spa contraten@s:spa a@s:spa más@s:spa personas@s:spa en@s:spa el@s:spa To_Go@s:eng&spa . 51140_58691
-%eng:	vvv
+%eng:	ah, I don't know yet what's expected before they hire more people at To Go.
 *FEL:	[- spa] y eso cuánto se xxx . 58662_60624
-%eng:	vvv
+%eng:	and this is how many ...
 *ELE:	well I have to train them . 60621_63042
 *ELE:	so +... 62960_63965
 *FEL:	+< you have to train them ? 63233_64162
 *ELE:	yeah . 64159_65779
 *ELE:	so +... 65761_67238
 *ELE:	[- spa] hasta ahora &na no se han contratado a nadie . 67232_70454
-%eng:	vvv
+%eng:	so far they haven't hired anyone.
 *ELE:	pero@s:spa cuando@s:spa los@s:spa um contraten@s:spa me@s:spa toca@s:spa entrenarlos@s:spa . 70438_75920
-%eng:	vvv
+%eng:	but when they hire them, it's down to me to train them.
 *ELE:	and we have to see if they get good at it . 75923_78355
 *ELE:	they're actually trying to like succeed in the job . 78340_83042
 *ELE:	[- spa] y ya después me imagino que un mes o algo . 83005_87667
-%eng:	vvv
+%eng:	and at the minute I imagine it will be a month or something.
 *ELE:	ya@s:spa me@s:spa puedo@s:spa mover@s:spa el@s:spa server . 87659_91229
-%eng:	vvv
+%eng:	I can always move the server.
 *ELE:	pero@s:spa por@s:spa ahora@s:spa estoy@s:spa en@s:spa el@s:spa To_Go@s:eng&spa . 91196_94911
-%eng:	vvv
+%eng:	but for now I'm in To Go.
 *FEL:	&hmf . 94915_95786
 *ELE:	so yeah . 95461_96860
 *FEL:	+< well there should be a lot of people that wanna work in To_Go@s:eng&spa . 95931_98230
@@ -109,7 +109,7 @@
 *FEL:	+< I think it must be hard . 178591_179833
 *ELE:	no it's not . 179818_181966
 *ELE:	y@s:spa um el@s:spa jueves@s:spa (.) I have um (.) a trainer meeting . 181958_189897
-%eng:	vvv
+%eng:	and on Thursday I have a trainer meeting.
 *FEL:	which is ? 189872_191747
 *ELE:	a meeting where trainers go . 191741_194162
 *ELE:	and we talk about progress . 194158_196666
@@ -117,8 +117,8 @@
 *FEL:	+< that must suck . 196849_198056
 *ELE:	no it doesn't . 198068_199385
 *ELE:	(be)cause no@s:spa te@s:spa acuerdas@s:spa ? 199375_201076
-%eng:	vvv
-*ELE:	the first time we went to [/] (.) we went to like Dave_and_busters@s:eng&spa I think . 201072_208266
+%eng:	because, don't you remember?
+*ELE:	the first time we went to [/] (.) we went to like Dave_and_Busters@s:eng&spa I think . 201072_208266
 %com:	Dave and Busters is a restaurant
 *ELE:	and then the second time +/. 208247_210296
 *FEL:	lucky . 210307_211027
@@ -134,7 +134,7 @@
 *ELE:	a lot . 224729_225390
 *ELE:	like twenty . 225390_226395
 *ELE:	o@s:spa es@s:spa que@s:spa hay@s:spa como@s:spa [///] there's like about four or five cooks that are trainers . 226377_233962
-%eng:	vvv
+%eng:	or it's that there's, like, there's, like, about four or five cooks that are trainers.
 *ELE:	there's +/. 233948_235237
 *FEL:	&ow . 235231_236247
 *ELE:	there's like (.) in To_Gos@s:eng&spa+eng there's only two . 236218_240715
@@ -158,7 +158,7 @@
 *FEL:	oh (.) cool . 281551_283450
 *ELE:	so that's an advantage . 283429_285571
 *ELE:	[- spa] pero +... 285553_286964
-%eng:	vvv
+%eng:	but ...
 *ELE:	it's good to be a trainer . 286954_289648
 *ELE:	(be)cause <you help> [//] you're helping (.) your workplace (.) by showing new people . 289644_295976
 *ELE:	get it ? 295987_296492
@@ -167,9 +167,9 @@
 *ELE:	so yeah I have a meeting that day . 298805_301000
 *FEL:	ok . 300990_303005
 *FEL:	[- spa] y la universidad cómo te va ? 302993_304630
-%eng:	vvv
+%eng:	and how are you getting on at university?
 *ELE:	uh bien@s:spa . 304598_306699
-%eng:	vvv
+%eng:	fine.
 *ELE:	on (.) Monday I have a midterm (..) of art appreciation that class . 306722_315104
 *FEL:	they give you midterms ? 315090_316547
 *FEL:	oh I had a midterm . 316425_317331
@@ -237,18 +237,18 @@
 *FEL:	next year ? 463550_464392
 *ELE:	if I +//. 464383_465869
 *ELE:	well I don't think so . 465851_467146
-*ELE:	but like (.) maybe end of next year I'll finish in B_c_c . 467131_472466
-%com:	B_c_c may stand for Broward Community College in Florida
-*ELE:	and then I'll start (.) the winter (.) in F_i_u if possible . 472440_480646
-%com:	F_i_u stands for Florida International University
+*ELE:	but like (.) maybe end of next year I'll finish in B_C_C . 467131_472466
+%com:	B_C_C may stand for Broward Community College in Florida
+*ELE:	and then I'll start (.) the winter (.) in F_I_U if possible . 472440_480646
+%com:	F_I_U stands for Florida International University
 *ELE:	but we'll see . 480632_482832
 *FEL:	ok . 482803_484173
 *ELE:	yeah . 484165_485953
 *ELE:	so (.) cómo@s:spa estás@s:spa con@s:spa las@s:spa novias@s:spa &=laughs ? 485947_489002
-%eng:	vvv
+%eng:	so how are you for girlfriends?
 *FEL:	&=laughs &e ? 488630_490459
 *ELE:	[- spa] &e qué [=! laughs] ? 490450_492412
-%eng:	vvv
+%eng:	what?
 *FEL:	do I have to answer that ? 492418_493869
 *ELE:	uh yeah . 493856_496613
 *FEL:	I'd rather not . 496604_497730
@@ -256,12 +256,12 @@
 *FEL:	&=laughs . 498038_498955
 *ELE:	you don't have to tell me if you like anybody . 498945_501604
 *ELE:	you just have to tell me (.) que@s:spa como@s:spa te@s:spa va@s:spa . 501333_505727
-%eng:	vvv
+%eng:	you just have to tell me how you're getting on.
 *FEL:	[- spa] bien &=laughs . 505724_506595
-%eng:	vvv
+%eng:	fine.
 *ELE:	&=laughs . 506589_508005
 *ELE:	[- spa] bien te va bien [=! laughs] ? 507996_510573
-%eng:	vvv
+%eng:	everything's fine for you?
 *FEL:	+< &=laughs . 507996_510573
 *FEL:	&e . 510568_511311
 *ELE:	&a: funny . 511314_513049
@@ -313,9 +313,9 @@
 *ELE:	but maybe I'll go see it or something . 619423_622314
 *ELE:	&=hums . 622287_626333
 *FEL:	[- spa] xxx qué cuentas ? 626319_631301
-%eng:	vvv
+%eng:	... what you're telling me?
 *ELE:	[- spa] ah nada más . 631274_632760
-%eng:	vvv
+%eng:	nothing else.
 *ELE:	nothing new here . 632925_636652
 *ELE:	I applied for a credit card . 636640_638463
 *FEL:	what ? 638455_639877
@@ -342,10 +342,10 @@
 *ELE:	so yeah . 703497_704879
 *FEL:	&=clears_throat . 704861_706324
 *ELE:	y@s:spa qué@s:spa pasó@s:spa con@s:spa Adrian@s:eng&spa ? 706322_710652
-%eng:	vvv
+%eng:	and what happened with Adrian?
 *FEL:	what about him ? 710644_711677
 *ELE:	[- spa] te siguen hablando o no ? 711010_713216
-%eng:	vvv
+%eng:	are they still speaking to you or not?
 *FEL:	yeah sometimes . 713198_714777
 *ELE:	but he doesn't hang out with you guys ? 714769_717671
 *FEL:	yeah sometimes . 717637_718648
@@ -375,7 +375,7 @@
 *FEL:	we'll see . 773544_774832
 *ELE:	mmhm . 774815_776394
 *ELE:	so tu@s:spa colegio@s:spa (.) it's just a middle school or is it middle school and high school (.) like in the same building ? 776385_784336
-%eng:	vvv
+%eng:	so your college, it's just a middle school, or is it middle school and high school,like, in the same building?
 *FEL:	in the same building it's middle . 784319_786573
 *FEL:	but like right next to us is the elementary . 786550_788804
 *FEL:	and then there's like a preschool there . 788804_790249
@@ -387,13 +387,13 @@
 *ELE:	oh it's over there by the library ? 803399_805314
 *FEL:	yeah the one next to F_i_u and the library . 805311_808445
 *ELE:	so tu@s:spa colegio@s:spa hasta@s:spa qué@s:spa grado@s:spa va@s:spa ? 808428_810936
-%eng:	vvv
+%eng:	so your college goes up to which grade?
 *FEL:	twelfth . 810949_813155
 *ELE:	no@s:eng&spa pero@s:spa the building like to what grade does it go to ? 813136_818339
-%eng:	vvv
+%eng:	no, but the building, like, to what grade does it go to?
 *FEL:	eighth . 818318_820379
-*ELE:	eighth grade y@s:spa después@s:spa te@s:spa vas@s:spa a@s:spa pasar@s:spa allá@s:spa a@s:spa Sheridon@s:eng&spa ? 820361_823051
-%eng:	vvv
+*ELE:	eighth grade y@s:spa después@s:spa te@s:spa vas@s:spa a@s:spa pasar@s:spa allá@s:spa a@s:spa Sheridan@s:eng&spa ? 820361_823051
+%eng:	eighth grade, and then you get to transfer over there to Sheridan.
 *FEL:	yeah . 823039_824229
 *ELE:	hmm . 824209_827744
 *FEL:	yeah but it'll be the same people . 827700_829255
@@ -480,7 +480,7 @@
 *FEL:	she like collapsed a &f few times until she finally realized that (.) she'll get an F <if she doesn't> [//] if she keeps on like feinting in the middle of class . 1053680_1062647
 *ELE:	uhuh . 1062640_1067743
 *FEL:	[- spa] qué hora son ? 1067728_1069533
-%eng:	vvv
+%eng:	what time is it?
 *ELE:	four seventeen . 1069510_1071344
 *ELE:	I go to work at five thirty today . 1071348_1074744
 *FEL:	hmm . 1074723_1075924
@@ -665,15 +665,15 @@
 *ELE:	get it ? 1519587_1521317
 *FEL:	yeah sorta . 1521311_1522693
 *ELE:	[- spa] y tú no te vas a meter en nada ? 1522680_1525791
-%eng:	vvv
+%eng:	and you're not going to get involved in anything?
 *FEL:	[- spa] no sé . 1525774_1527196
-%eng:	vvv
+%eng:	I don't know.
 *FEL:	[- spa] quiero hacer algún deporte . 1527158_1528505
-%eng:	vvv
+%eng:	I want to do some sport.
 *FEL:	[- spa] pero no sé cuál . 1528505_1529822
-%eng:	vvv
+%eng:	but I don't know which one.
 *ELE:	you wanna do deporte@s:spa ? 1529791_1532339
-%eng:	vvv
+%eng:	you want to do sport?
 *ELE:	why don't you play baseball ? 1532345_1534469
 *FEL:	no . 1534449_1535389
 *FEL:	baseball ? 1535412_1536393
@@ -766,80 +766,80 @@
 *ELE:	like seven minutes . 1713599_1715584
 *FEL:	oh . 1715563_1716880
 *ELE:	so xxx said xxx en@s:spa la@s:spa tarde@s:spa . 1716886_1719887
-%eng:	vvv
+%eng:	so ... said ... in the evening.
 *FEL:	oh I don't know . 1719866_1720911
 *FEL:	anything . 1720888_1721852
-*FEL:	playing X_box . 1721828_1723814
-*ELE:	&=hums play X_box . 1723817_1728223
+*FEL:	playing X_Box . 1721828_1723814
+*ELE:	&=hums play X_Box . 1723817_1728223
 *ELE:	[- spa] ay qué te iba a preguntar ? 1728221_1731810
-%eng:	vvv
+%eng:	who's going to ask you?
 *FEL:	[- spa] bueno un amigo me invitó a su casa . 1731805_1733768
-%eng:	vvv
+%eng:	well, a friend invited me to his house.
 *FEL:	[- spa] pero sigo castigado . 1733751_1734796
-%eng:	vvv
+%eng:	but I'm grounded.
 *FEL:	[- spa] entonces no puedo ir . 1734801_1735904
-%eng:	vvv
+%eng:	so I can't go.
 *ELE:	[- spa] quién quién te invitó ? 1735245_1737039
-%eng:	vvv
+%eng:	whi, who invited you?
 *FEL:	em@s:spa Adam@s:eng&spa . 1737051_1738902
-%eng:	vvv
+%eng:	
 *ELE:	[- spa] te invitó ? 1738881_1740037
-%eng:	vvv
+%eng:	he invited you?
 *ELE:	where does he live ? 1740031_1741935
 *FEL:	I don't know . 1741927_1742327
 *FEL:	[- spa] xxx me preguntó él . 1742322_1743877
-%eng:	vvv
+%eng:	... he asked me.
 *FEL:	[- spa] dije que no que no puedo porque estaba castigado . 1743877_1746362
-%eng:	vvv
+%eng:	I said I couldn't because I was grounded.
 *ELE:	oh so you didn't even ask him ? 1746370_1749859
 *FEL:	xxx . 1749853_1750993
 *ELE:	what if he's like your neighbor &=laughs ? 1750975_1753146
 *FEL:	nah . 1753120_1754653
 *FEL:	I know he live around like around here . 1754659_1757155
 *ELE:	[- spa] xxx en el bus ? 1757140_1758603
-%eng:	vvv
+%eng:	on the bus?
 *FEL:	no@s:spa es@s:spa que@s:spa él@s:spa y@s:spa Marco@s:eng&spa están@s:spa en@s:spa el@s:spa equipo@s:spa de@s:spa fútbol@s:spa de@s:spa Alberto@s:eng&spa . 1758588_1761618
-%eng:	vvv
+%eng:	no, it's that he and Marco are in Alberto's football team.
 *ELE:	[- spa] era que hermano ? 1761614_1763147
-%eng:	vvv
+%eng:	he was the brother?
 *FEL:	el@s:spa hermano@s:spa de@s:spa él@s:spa está@s:spa en@s:spa el@s:spa equipo@s:spa de@s:spa fútbol@s:spa de@s:spa Alberto@s:eng&spa . 1763147_1766032
-%eng:	vvv
+%eng:	his brother is in Alberto's football team.
 *ELE:	oh xxx soccer . 1766024_1769379
 *FEL:	[- spa] sí . 1769333_1769954
-%eng:	vvv
+%eng:	yes.
 *ELE:	when you say football you confuse me . 1769792_1771365
 *FEL:	[- spa] fútbol . 1771367_1773544
-%eng:	vvv
+%eng:	football.
 *ELE:	&e well it's the same thing . 1773512_1775224
 *ELE:	say it in Spanish or English . 1775213_1776699
 *ELE:	it sounds the same xxx . 1776672_1778048
 *FEL:	no . 1778036_1778802
 *ELE:	yes it does . 1778785_1779708
 *FEL:	fútbol@s:spa football fútbol@s:spa football . 1779101_1782590
-%eng:	vvv
+%eng:	football, football.
 *ELE:	[- spa] fútbol . 1782236_1783263
-%eng:	vvv
+%eng:	football.
 *FEL:	[- spa] fútbol . 1783252_1784343
-%eng:	vvv
+%eng:	football.
 *ELE:	yeah ok whatever you say . 1784334_1787388
 *FEL:	+< [- spa] y es más . 1786061_1786810
-%eng:	vvv
+%eng:	and it's more.
 *FEL:	[- spa] el otro es fútbol americano . 1786810_1789157
-%eng:	vvv
+%eng:	the other is American football.
 *FEL:	football is fútbol@s:spa americano@s:spa en@s:spa español@s:spa . 1789157_1792442
-%eng:	vvv
+%eng:	football is American football in Spanish.
 *ELE:	ahah anyways . 1792573_1794657
-*ELE:	en@s:spa el@s:spa equipo@s:spa de@s:spa (.) de@s:spa la@s:spa escuela@s:spa de@s:spa él@s:spa o@s:spa de@s:spa Penbrook_pines@s:eng&spa ? 1794653_1799402
-%eng:	vvv
-*FEL:	+< no@s:spa de@s:spa (.) Penbrook_pines@s:eng&spa . 1798190_1800240
-%eng:	vvv
+*ELE:	en@s:spa el@s:spa equipo@s:spa de@s:spa (.) de@s:spa la@s:spa escuela@s:spa de@s:spa él@s:spa o@s:spa de@s:spa Penbrook_Pines@s:eng&spa ? 1794653_1799402
+%eng:	in the school team, the one from Penbrook Pines?
+*FEL:	+< no@s:spa de@s:spa (.) Penbrook_Pines@s:eng&spa . 1798190_1800240
+%eng:	not from Penbrook Pines.
 *ELE:	oh . 1800247_1802559
 *ELE:	[- spa] y <lo has visto> [/] lo has visto en los juegos ? 1802542_1806483
-%eng:	vvv
+%eng:	have you seen them in the games?
 *FEL:	[- spa] sí a veces . 1806475_1808466
-%eng:	vvv
+%eng:	yes, sometimes.
 *ELE:	[- spa] xxx allí ? 1808463_1810756
-%eng:	vvv
+%eng:	there?
 *ELE:	during the games ? 1810750_1812039
 *ELE:	does he actually watch the games or he's like you that kind of stands around ? 1812018_1816714
 *FEL:	+< I watch them . 1815368_1816714
