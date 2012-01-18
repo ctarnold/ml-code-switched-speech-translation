@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	eng, spa
@@ -10,7 +10,6 @@
 @Transcriber:	Diana Carter, Prifysgol Bangor University
 @Time Duration:	00:33:20
 @Media:	sastre8, audio
-@Comment:	Filename: sastre8.CHA; Soundfile: sastre8.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *AUD:	well usually before you go to the bed (.) you have to take him (.) &f to do pee pee . 104_4778
 *PAO:	yeah we did . 4685_5840
@@ -37,7 +36,7 @@
 *PAO:	and his [///] <it's as high> [//] it's high enough for him to put his hands +/. 30795_34446
 *AUD:	and do you hold him ? 32977_34516
 *PAO:	yeah I hold him . 34506_35208
-*PAO:	but I think that they're [/] they're high enough (.) so that él@s:spa no@s:spa se@s:spa &f +/. 35197_37571
+*PAO:	but I think that they're [/] they're high enough (.) so that él@s:spa no@s:spa se@s:spa &f +/. 35197_39482
 %eng:	vvv
 *AUD:	Paula@s:eng&spa be careful . 38329_40488
 *AUD:	because si@s:spa él@s:spa ve@s:spa un@s:spa gato@s:spa or something he might jump out of the car (.) after the cat . 39834_45149
@@ -83,7 +82,7 @@
 *PAO:	pero@s:spa for the first time +/. 83794_85698
 %eng:	vvv
 *AUD:	did they have a team there ? 84368_85767
-*PAO:	in &wh [/] in my old school ? 85659_87395
+*PAO:	in &w [/] in my old school ? 85659_87395
 *AUD:	+< in xxx ? 86565_87836
 *PAO:	yeah (.) they did . 87396_89260
 *PAO:	and (.) tú@s:spa sabes@s:spa (.) it wasn't the same . 89233_93238
@@ -118,7 +117,7 @@
 *PAO:	I don't know . 134826_135598
 *PAO:	maybe it was because that she had her grades low ? 135598_138898
 *PAO:	because if you have an F (.) or maybe more than one F (.) you can't go into the team . 138741_144677
-*AUD:	+< ahh@s:eng&spa . 138831_140428
+*AUD:	+< ah@s:eng&spa . 138831_140428
 *AUD:	oh@s:eng&spa oh@s:eng&spa . 144662_146171
 *PAO:	maybe . 146149_147228
 *PAO:	but maybe that's not the reason . 147211_148436
@@ -131,7 +130,7 @@
 *PAO:	I mean Monday Tuesday Wednesday Thursday and Friday . 160186_162102
 *AUD:	[- spa] y a qué hora ? 162009_162775
 %eng:	vvv
-*PAO:	&se Monday (.) Tuesday Thursday and Friday at seven forty five . 162760_166701
+*PAO:	&s Monday (.) Tuesday Thursday and Friday at seven forty five . 162760_166701
 *PAO:	and (.) Wednesday +/. 166716_169109
 *AUD:	xxx seven forty five in the morning ? 167861_170079
 *PAO:	yes . 169643_170235
@@ -170,15 +169,15 @@
 *AUD:	what's the bus loop ? 212269_213715
 *PAO:	<where they> [//] where the bus is for [/] for the kids that go on the bus . 213707_216383
 *PAO:	they drop the kids off xxx . 217147_218970
-*AUD:	where I leave you earlier [///] &e every morning ? 218366_220177
+*AUD:	where I leave you early [//] uh@s:eng&spa every morning ? 218366_220177
 *PAO:	huh@s:eng&spa ? 220144_221003
 *AUD:	the same place I leave you ? 220562_222123
-*PAO:	no the &o +//. 221339_222239
+*PAO:	no the &əð +//. 221339_222239
 *PAO:	and on the other side . 222001_223209
 *AUD:	[- spa] dónde los niños juegan por la tablita esa ? 224540_226764
 %eng:	vvv
 %com:	silence
-*PAO:	&=mumbles ah@s:eng&spa +... 228537_229954
+*PAO:	&=mumble ah@s:eng&spa +... 228537_229954
 *AUD:	[- spa] la patineta esa que yo veo ? 229015_230780
 %eng:	vvv
 *PAO:	+< oh@s:eng&spa no no no the other side <where they all> [//] where all the buses are . 229723_233184
@@ -246,13 +245,13 @@
 *AUD:	breakfast and lunch ? 319197_321147
 *PAO:	mhmm@s:eng&spa . 320671_321176
 *AUD:	only Wednesdays . 321176_322424
-*PAO:	only Wednesdays you &pi [/] you can make me lunch . 322408_324864
+*PAO:	only Wednesdays you &pə [/] you can make me lunch . 322408_324864
 *AUD:	entonces@s:spa then <I will> [/] <I will> [/] I will not be buying any stuff (.) for you this weekend . 324860_330180
 %eng:	vvv
 *PAO:	I guess not . 330229_331564
-*AUD:	+< ok@s:eng&spa Monday [/] Monday you're gonna go to practice ? 330618_332876
+*AUD:	+< o_k@s:eng&spa Monday [/] Monday you're gonna go to practice ? 330618_332876
 *PAO:	mhmm@s:eng&spa . 332831_333580
-*AUD:	ok@s:eng&spa so (.) Wednesday is the only day . 333290_335957
+*AUD:	o_k@s:eng&spa so (.) Wednesday is the only day . 333290_335957
 *AUD:	and what I do I [/] I get you a little bit of ham (.) and maybe a croissant . 335968_340585
 *PAO:	+< [- spa] sí . 336568_337636
 %eng:	vvv
@@ -302,7 +301,7 @@
 *AUD:	+< be careful . 383260_383927
 *AUD:	show me . 383898_384885
 *AUD:	show me . 384972_385866
-*PAO:	ok@s:eng&spa . 385344_385936
+*PAO:	o_k@s:eng&spa . 385344_385936
 *PAO:	one . 386843_387511
 *AUD:	ah@s:eng&spa (.) y@s:spa pa(ra)@s:spa qué@s:spa es@s:spa eso@s:spa ? 387595_390311
 %eng:	vvv
@@ -312,14 +311,14 @@
 %eng:	vvv
 *AUD:	[- spa] yo te veo &=laughs . 399591_406577
 %eng:	vvv
-*PAO:	ok@s:eng&spa abuela@s:spa . 402024_403197
+*PAO:	o_k@s:eng&spa abuela@s:spa . 402024_403197
 %eng:	vvv
 *PAO:	random . 404000_405620
 *AUD:	oye@s:spa y@s:spa las@s:spa niñas@s:spa que@s:spa están@s:spa en@s:spa el@s:spa team hay@s:spa algunas@s:spa que@s:spa son@s:spa very close friends of yours or no@s:eng&spa ? 407452_412171
 %eng:	vvv
 *PAO:	well the one that was supposed to make it on the team she was . 412116_414851
 *PAO:	but &n no . 414805_415908
-*PAO:	<I only> [//] I think I only have &wh yeah one friend . 415792_418418
+*PAO:	<I only> [//] I think I only have &w yeah one friend . 415792_418418
 *AUD:	one friend in the team ? 418367_419928
 *AUD:	[- spa] y hay muchos negritos ? 419936_421631
 %eng:	vvv
@@ -329,7 +328,7 @@
 *PAO:	xxx . 425698_426633
 *AUD:	are they your friends ? 425960_427132
 *PAO:	no I don't know them . 427238_428545
-*AUD:	+< classro(om) [//] &d &d do you have any classes with them ? 427238_430478
+*AUD:	+< classro(om) [//] &i &d &d do you have any classes with them ? 427238_430478
 *PAO:	no . 430468_431826
 *AUD:	[- spa] xxx nadie en el team tú tienes clase ? 431806_434336
 %eng:	vvv
@@ -363,7 +362,7 @@
 *PAO:	yeah the curriculum is harder . 469394_471200
 *PAO:	a lot harder . 471191_472520
 *PAO:	testing (.) <not as man(y)> [//] not as much as before . 472364_476056
-*AUD:	ok@s:eng&spa . 476019_477040
+*AUD:	o_k@s:eng&spa . 476019_477040
 *PAO:	less testing . 477035_477998
 *PAO:	pero@s:spa (.) more projects . 477948_480258
 %eng:	vvv
@@ -393,7 +392,7 @@
 *PAO:	we're learning about George@s:eng&spa Washington@s:eng&spa and Abraham@s:eng&spa Lincon@s:eng&spa . 508326_511427
 *PAO:	and we're learning more about cultures this year . 511233_514756
 *PAO:	and different cultures from different countries and continents . 514671_517905
-*PAO:	like &wh the other day we were learning about russia . 517877_521836
+*PAO:	like &w the other day we were learning about Russia . 517877_521836
 *AUD:	uhuh@s:eng&spa . 521238_521825
 *AUD:	[- spa] y qué aprendiste ? 521799_523697
 %eng:	vvv
@@ -458,7 +457,7 @@
 *PAO:	um@s:eng&spa (.) I liked Freedom@s:eng&spa more . 599358_602688
 *PAO:	but I &l [/] I liked the food in Fortuna@s:eng&spa more . 602670_605911
 *AUD:	Fortuna@s:eng&spa was good . 605702_606741
-*AUD:	[- spa] la comida fue &o +/. 606726_608781
+*AUD:	[- spa] la comida fue &ʔo +/. 606726_608781
 %eng:	vvv
 *PAO:	[- spa] maravillosa . 608056_609048
 %eng:	vvv
@@ -477,10 +476,10 @@
 *PAO:	it wasn't not even funny . 618792_620603
 *AUD:	are you feeling ok now ? 620581_622322
 *PAO:	better . 622212_623060
-*AUD:	ok@s:eng&spa good . 622963_623834
+*AUD:	o_k@s:eng&spa good . 622963_623834
 *PAO:	pero@s:spa la@s:spa comida@s:spa (.) los@s:spa pancakes de@s:spa blueberry . 623799_627378
 %eng:	vvv
-*PAO:	después@s:spa con@s:spa &e: el@s:spa um@s:eng&spa hashbrown casserole (.) two sunny side up eggs . 627362_633489
+*PAO:	después@s:spa con@s:spa &e: el@s:spa um@s:eng&spa hash_brown casserole (.) two sunny side up eggs . 627362_633489
 %eng:	vvv
 *AUD:	[- spa] las tostadas . 633473_634925
 %eng:	vvv
@@ -502,7 +501,7 @@
 *PAO:	I loved the stores there . 649980_651326
 *PAO:	[- spa] son todos diferentes . 651251_652551
 %eng:	vvv
-*PAO:	y@s:spa el@s:spa em@s:eng&spa (.) &ar fuimos@s:spa a@s:spa Love_culture@s:eng&spa que@s:spa estaba@s:spa bonito@s:spa . 652530_658047
+*PAO:	y@s:spa el@s:spa em@s:eng&spa (.) &ai fuimos@s:spa a@s:spa Love_Culture@s:eng&spa que@s:spa estaba@s:spa bonito@s:spa . 652530_658047
 %eng:	vvv
 *AUD:	mhmm@s:eng&spa . 658026_659071
 *PAO:	fuimos@s:spa a@s:spa Zoomies@s:eng&spa . 659048_660313
@@ -523,9 +522,9 @@
 *PAO:	Briden@s:eng&spa ? 675940_676910
 *PAO:	Burkden@s:eng&spa o@s:spa algo@s:spa así@s:spa ? 676901_678817
 %eng:	vvv
-*PAO:	y@s:spa también@s:spa <fuimos@s:spa al@s:spa em@s:eng&spa> [//] (.) <fuimos@s:spa por@s:spa a@s:spa &f> [///] we were outside looking window shopping in (.) Black_and_Wh(ite)@s:eng&spa [//] White@s:eng&spa [/] White . 678795_687699
+*PAO:	y@s:spa también@s:spa <fuimos@s:spa al@s:spa em@s:eng&spa> [//] (.) <fuimos@s:spa por@s:spa a@s:spa &f> [///] we were outside looking window shopping in (.) Black_and_Wh(ite)@s:eng&spa [//] White@s:eng&spa [/] White@s:eng&spa . 678795_687699
 %eng:	vvv
-*AUD:	ay@s:spa Black_and_white@s:eng&spa . 686492_687693
+*AUD:	ay@s:spa Black_and_White@s:eng&spa . 686492_687693
 %eng:	vvv
 *AUD:	y@s:spa Ann_Taylor@s:eng&spa . 687670_689069
 %eng:	vvv
@@ -570,13 +569,13 @@
 *PAO:	I [/] I know it's kind of mean pero@s:spa it's kind of boring colors . 731725_734931
 %eng:	vvv
 *AUD:	like beige and that . 734920_736423
-*PAO:	like beige and &wh (.) like (.) pale white . 736168_739339
+*PAO:	like beige and &w (.) like (.) pale white . 736168_739339
 *AUD:	ah@s:eng&spa bueno@s:spa sí@s:spa los@s:spa neutrals son@s:spa colores@s:spa (.) que@s:spa (.) &=clears_throat pegan@s:spa con@s:spa cualquier@s:spa cosa@s:spa . 739319_744493
 %eng:	vvv
 *PAO:	yeah (.) like +... 744412_746351
 %com:	silence
 *PAO:	+, um@s:eng&spa +... 747830_748271
-*AUD:	all the beiges and the white off_white white &er dir(ty) [/] dirty [/] dirty white . 748271_754845
+*AUD:	yeah all the beiges and the white off_white white eh@s:eng&spa dir(ty) [/] dirty [/] dirty white . 748271_754845
 *PAO:	yeah . 750007_750628
 *AUD:	there's a &fo dirty white . 754579_756257
 *PAO:	+< dirty white . 754736_755827
@@ -615,14 +614,14 @@
 *AUD:	[- spa] tú tienes algunos ? 789664_791261
 %eng:	vvv
 *PAO:	yeah I have a pair from American_Eagle@s:eng&spa . 791243_793484
-*AUD:	oh@s:eng&spa ok@s:eng&spa . 793445_794588
+*AUD:	oh@s:eng&spa o_k@s:eng&spa . 793445_794588
 *PAO:	and another pair from Forever_twentyone@s:eng&spa que@s:spa son@s:spa muy@s:spa lindos@s:spa . 794304_797290
 %eng:	vvv
 *AUD:	qué@s:spa cosa@s:spa es@s:spa Forever_twentyone@s:eng&spa ? 796891_798151
 %eng:	vvv
 *PAO:	it's a store in [/] in a like in almost every mall que@s:spa tiene@s:spa in America@s:eng&spa . 798140_802686
 %eng:	vvv
-*AUD:	&=yawn ok@s:eng&spa . 802677_804895
+*AUD:	&=yawn o_k@s:eng&spa . 802677_804895
 *PAO:	or the United@s:eng&spa States@s:eng&spa at least . 804873_806528
 *AUD:	[- spa] y <dónde es> [//] de dónde hay eso ? 806499_808113
 %eng:	vvv
@@ -632,13 +631,13 @@
 *PAO:	they have it in um@s:eng&spa +... 812350_815086
 *PAO:	what else do they have them in ? 815097_816705
 *PAO:	they have (th)em in the Sawgrass@s:eng&spa mall (.) the Dolphin@s:eng&spa mall . 816673_821520
-*AUD:	<dónde@s:spa lo@s:spa &co> [//] where did you buy it ? 819628_821474
+*AUD:	<dónde@s:spa lo@s:spa &ko> [//] where did you buy it ? 819628_821474
 %eng:	vvv
 *PAO:	oh@s:eng&spa the [/] the jeans ? 822312_823531
 *AUD:	uhuh@s:eng&spa . 823505_824091
 *PAO:	I bought (th)em in um@s:eng&spa Penbrook_pines@s:eng&spa mall I think . 824080_826570
 *AUD:	ay Paula you know what ? 826350_828445
-*AUD:	&e cerraron@s:spa el@s:spa Franquitu@s:eng&spa que@s:spa está@s:spa delante@s:spa del@s:spa cine@s:spa . 828408_832048
+*AUD:	&e: cerraron@s:spa el@s:spa Franquitu@s:eng&spa que@s:spa está@s:spa delante@s:spa del@s:spa cine@s:spa . 828408_832048
 %eng:	vvv
 *PAO:	for real ? 831125_832031
 *AUD:	yeah they close all Franquitus@s:eng&spa . 832015_834303
@@ -659,20 +658,20 @@
 *PAO:	probably another little restaurant . 849020_851150
 *AUD:	es@s:spa que@s:spa el@s:spa Franquitu@s:eng&spa era@s:spa muy@s:spa caro@s:spa . 851112_854067
 %eng:	vvv
-*AUD:	los@s:spa hotdog eran@s:spa muy@s:spa caros@s:spa entonces@s:spa . 854046_856484
+*AUD:	los@s:spa hot dog eran@s:spa muy@s:spa caros@s:spa entonces@s:spa . 854046_856484
 %eng:	vvv
-*PAO:	+< and <they weren't &ang> [//] they [/] they were ok@s:eng&spa . 855677_858237
+*PAO:	+< and <they weren't &aŋ> [//] they [/] they were o_k@s:eng&spa . 855677_858237
 *PAO:	they weren't all that great . 858233_859563
 *AUD:	+< yeah but Paula@s:eng&spa very expensive . 858750_861380
-*PAO:	for a hotdog . 861382_862050
+*PAO:	for a hot_dog . 861382_862050
 *AUD:	+< it &w +/. 861382_862050
 *AUD:	I remember that one day we went . 862030_863679
-*AUD:	y@s:spa compramos@s:spa un@s:spa hotdog tú@s:spa un@s:spa hotdog yo papitas@s:spa tú@s:spa agua@s:spa y@s:spa yo@s:spa &u unas@s:spa &m (.) boniaticos@s:spa esos@s:spa (.) sweet potato (.) y@s:spa un@s:spa té@s:spa (.) and it was like thirteen fourteen dollars . 863675_874874
+*AUD:	y@s:spa compramos@s:spa un@s:spa hot_dog tú@s:spa un@s:spa hot_dog yo papitas@s:spa tú@s:spa agua@s:spa y@s:spa yo@s:spa &h unas@s:spa &m (.) boniaticos@s:spa esos@s:spa (.) sweet potato (.) y@s:spa un@s:spa té@s:spa (.) and it was like thirteen fourteen dollars . 863675_874874
 %eng:	vvv
 *PAO:	thirteen fourteen ? 874841_876135
-*AUD:	yeah that's very expensive for a hotdog this small . 875746_879400
+*AUD:	yeah that's very expensive for a hot_dog this small . 875746_879400
 %com:	a clap or smack sound
-*AUD:	I mean (.) when you go to Costco@s:eng&spa (.) for a dollar fifty they give you a hotdog this big . 880585_885405
+*AUD:	I mean (.) when you go to Costco@s:eng&spa (.) for a dollar fifty they give you a hot_dog this big . 880585_885405
 *AUD:	+< and all +/. 885443_886546
 *PAO:	like a foot longer . 885443_886622
 *AUD:	y@s:spa todas@s:spa las@s:spa Coca_Colas@s:eng&spa que@s:spa quieres@s:spa tomar@s:spa (..) por@s:spa [/] por@s:spa un@s:spa dólar@s:spa con@s:spa cincuenta@s:spa centavos@s:spa . 886613_891594
@@ -734,7 +733,7 @@
 *PAO:	yeah . 967671_968194
 *AUD:	she's very sweet . 968194_969633
 *PAO:	+< yeah . 968704_969447
-*PAO:	she <pays always a &p> [//] always pays attention to you . 969902_972947
+*PAO:	she <pays always a &pe> [//] always pays attention to you . 969902_972947
 *PAO:	she never leaves you out . 972928_974582
 *PAO:	[- spa] y (.) eso también . 974567_977760
 %eng:	vvv
@@ -756,7 +755,7 @@
 %eng:	vvv
 *AUD:	[- spa] el que tenías puesto hoy ? 990218_991890
 %eng:	vvv
-*PAO:	[- spa] no &ph cual yo estaba usando para dormir &=snorts . 991472_994591
+*PAO:	[- spa] no &p cual yo estaba usando para dormir &=snorts . 991472_994591
 %eng:	vvv
 *AUD:	[- spa] ay y para dormir na(da) menos . 993842_995810
 %eng:	vvv
@@ -777,7 +776,7 @@
 *PAO:	yeah . 1015026_1015601
 *AUD:	the long weekend . 1015578_1016628
 *PAO:	yeah . 1016477_1017435
-*AUD:	[- spa] &sh &un ella [//] probablemente ella la semana que viene xxx sin clase no ? 1017385_1021715
+*AUD:	[- spa] &iʧi &un ella [//] probablemente ella la semana que viene xxx sin clase no ? 1017385_1021715
 %eng:	vvv
 *PAO:	+< since you know they're all +/. 1017402_1018615
 *PAO:	no she's doing her spring_break now . 1022201_1024848
@@ -862,7 +861,7 @@
 %eng:	vvv
 *PAO:	+< I'm gonna have a cousin . 1141712_1143662
 *PAO:	I'm gonna finally have a cousin &=sings . 1143653_1145783
-*AUD:	+< &an &e +... 1144390_1145586
+*AUD:	+< &en +... 1144390_1145586
 *AUD:	sí@s:spa tenemos@s:spa que@s:spa ir@s:spa a@s:spa Gainsville@s:eng&spa cuando@s:spa eso@s:spa pasa@s:spa a@s:spa conocer@s:spa el@s:spa baby . 1145565_1149320
 %eng:	vvv
 *PAO:	+< huh@s:eng&spa oh yeah . 1148130_1149675
@@ -1001,7 +1000,7 @@
 *AUD:	[- spa] mejor que hagas esa cosa así . 1317884_1320130
 %eng:	vvv
 *PAO:	I don't do that . 1320119_1321291
-*AUD:	[- spa] &de (.) depilar . 1320171_1321942
+*AUD:	+< [- spa] &de (.) depilar . 1320171_1321942
 %eng:	vvv
 *AUD:	[- spa] sí hija . 1321831_1322545
 %eng:	vvv
@@ -1076,7 +1075,7 @@
 *PAO:	you're a monster abuela@s:spa . 1418876_1420745
 %eng:	vvv
 *AUD:	how could you say I'm a monster ? 1420712_1422273
-*PAO:	&i &k &k +... 1421937_1423289
+*PAO:	&ək +... 1421937_1423289
 *AUD:	+< I'm hungry not a monster . 1422204_1423765
 *PAO:	bueno@s:spa son@s:spa [///] when people are hungry they become monsters you know . 1423929_1426791
 %eng:	vvv
@@ -1110,15 +1109,15 @@
 %eng:	vvv
 *AUD:	[- spa] yo quise ir mañana a la iglesia para no tener que ir el domingo . 1454149_1456843
 %eng:	vvv
-*PAO:	ok@s:eng&spa . 1457735_1458321
+*PAO:	o_k@s:eng&spa . 1457735_1458321
 *AUD:	if we have to go sunday to church +... 1458260_1460350
 *PAO:	I don't +... 1460350_1461366
 *AUD:	+, maybe we go at twelve . 1461331_1462869
-*PAO:	ok@s:eng&spa . 1462906_1463609
+*PAO:	o_k@s:eng&spa . 1462906_1463609
 *AUD:	+< even if it's in spanish but it doesn't matter . 1463191_1465327
 *AUD:	[- spa] porque si no nos tenemos que levantar muy temprano . 1465345_1467463
 %eng:	vvv
-*PAO:	ok@s:eng&spa . 1467379_1467994
+*PAO:	o_k@s:eng&spa . 1467379_1467994
 *AUD:	porque@s:spa probablemente@s:spa (.) el@s:spa sábado@s:spa si@s:spa vas@s:spa a@s:spa party con@s:spa nosotros@s:spa vamos@s:spa a@s:spa venir@s:spa tarde@s:spa . 1467965_1473682
 %eng:	vvv
 *AUD:	[- spa] tienes que dormir en la casa . 1473682_1475046
@@ -1127,13 +1126,13 @@
 %eng:	vvv
 *AUD:	[- spa] vamos a misa . 1476795_1477428
 %eng:	vvv
-*AUD:	ok@s:eng&spa ? 1478038_1479170
+*AUD:	o_k@s:eng&spa ? 1478038_1479170
 *AUD:	[- spa] y si quieres te llevo a tu casa o si +/. 1478677_1480838
 %eng:	vvv
-*PAO:	isn't it Easter sunday then ? 1480374_1481761
+*PAO:	isn't it Easter Sunday then ? 1480374_1481761
 *AUD:	[- spa] sí . 1481738_1482440
 %eng:	vvv
-*PAO:	ok@s:eng&spa I'll see . 1483488_1485427
+*PAO:	o_k@s:eng&spa I'll see . 1483488_1485427
 *AUD:	[- spa] pero quiero ir a misa domingo . 1485540_1487398
 %eng:	vvv
 *PAO:	[- spa] yo sé pero &a +/. 1486981_1488136
@@ -1210,7 +1209,7 @@
 %eng:	vvv
 *AUD:	entonces@s:spa <tenemos@s:spa en@s:spa> [//] en@s:spa ese@s:spa día@s:spa incluye@s:spa un@s:spa viaje@s:spa <por@s:spa el@s:spa> [//] en@s:spa un@s:spa barco@s:spa por@s:spa el@s:spa río@s:spa Seine@s:eng&spa (.) y@s:spa con@s:spa un@s:spa almuerzo@s:spa . 1572371_1581803
 %eng:	vvv
-*AUD:	[- spa] y ahí se ve (.) la Torre Eifel . 1581840_1584429
+*AUD:	[- spa] y ahí se ve (.) la Torre Eiffel . 1581840_1584429
 %eng:	vvv
 *AUD:	se@s:spa ve@s:spa la@s:spa Notre@s:eng&spa Dame@s:eng&spa church . 1584495_1587090
 %eng:	vvv
@@ -1220,7 +1219,7 @@
 %eng:	vvv
 *PAO:	the Guggenburgh@s:eng&spa ? 1592989_1594307
 %com:	the speaker is trying to say Guggenheim
-*AUD:	[- spa] el Luvre el Luvre . 1594318_1595683
+*AUD:	[- spa] el Louvre el Louvre . 1594318_1595683
 %eng:	vvv
 *PAO:	+< no . 1594342_1594655
 *AUD:	que@s:spa cuando@s:spa yo@s:spa estuve@s:spa hace@s:spa dos@s:spa años@s:spa con@s:spa Rose@s:eng&spa en@s:spa [/] en@s:spa Bélgica@s:spa y@s:spa en@s:spa Francia@s:spa nosotros@s:spa fuimos@s:spa al@s:spa Luvre@s:spa . 1596027_1602920
@@ -1252,7 +1251,7 @@
 *AUD:	what happened ? 1647395_1648278
 *PAO:	no I'm just looking for something . 1648359_1649781
 *PAO:	oh@s:eng&spa here it is &=laughs . 1649630_1650930
-*AUD:	&e we got there . 1650800_1652269
+*AUD:	&e: we got there . 1650800_1652269
 *AUD:	and we had tea (.) and cookies like the English people at four o'clock . 1652251_1656689
 *PAO:	at four o'clock the time that they do too . 1657584_1660058
 *AUD:	yeah . 1659507_1660279
@@ -1272,9 +1271,8 @@
 %eng:	vvv
 *AUD:	[- spa] xxx Lisboa . 1682595_1684563
 %eng:	vvv
-*PAO:	+< [- spa] <y después> [//] y &debe va a &hihohaho . 1682595_1685469
-%eng:	vvv
-*AUD:	&hihohohaha no@s:eng&spa . 1685463_1686792
+*PAO:	+< xxx . 1682595_1685469
+*AUD:	xxx no@s:eng&spa . 1685463_1686792
 *PAO:	&=laughs . 1686527_1688536
 *AUD:	+< [- spa] después vamos a Lisboa . 1686527_1688536
 %eng:	vvv
@@ -1289,7 +1287,7 @@
 *AUD:	en@s:spa Portugal@s:eng&spa . 1696462_1697623
 %eng:	vvv
 *PAO:	Portugal@s:eng&spa . 1697607_1698948
-*AUD:	ok@s:eng&spa entonces@s:spa después@s:spa va@s:spa +... 1698920_1701372
+*AUD:	o_k@s:eng&spa entonces@s:spa después@s:spa va@s:spa +... 1698920_1701372
 %eng:	vvv
 *AUD:	[- spa] no me acuerdo como se llaman los puertos que van por abajo . 1702667_1705163
 %eng:	vvv
@@ -1310,7 +1308,7 @@
 *AUD:	it's gonna be fun . 1721212_1722147
 *AUD:	[- spa] lo que va a haber un poco frío . 1722060_1723528
 %eng:	vvv
-*PAO:	and &wh [/] and um@s:eng&spa it's not a popular cruise ship ? 1723710_1727315
+*PAO:	and &w [/] and um@s:eng&spa it's not a popular cruise ship ? 1723710_1727315
 *AUD:	es@s:spa en@s:spa Celebrity@s:eng&spa Cruises@s:eng&spa . 1727423_1730000
 %eng:	vvv
 *PAO:	oh@s:eng&spa it's Celebrity@s:eng&spa ? 1729948_1730912
@@ -1351,7 +1349,7 @@
 %eng:	vvv
 *AUD:	[- spa] pero la comida es (.) fabulosa . 1771765_1774587
 %eng:	vvv
-*PAO:	speaking of Chile@s:eng&spa (.) have you spoken to um@s:eng&spa (.) &e Rodrigo@s:eng&spa y@s:spa +/. 1774804_1781688
+*PAO:	speaking of Chile@s:eng&spa (.) have you spoken to um@s:eng&spa (.) eh@s:eng&spa Rodrigo@s:eng&spa y@s:spa +/. 1774804_1781688
 %eng:	vvv
 *AUD:	Rodrigo@s:eng&spa estaba@s:spa [//] está@s:spa aquí@s:spa . 1781612_1783215
 %eng:	vvv
@@ -1365,12 +1363,12 @@
 %eng:	vvv
 *AUD:	[- spa] pero ahora están en el colegio . 1790593_1792016
 %eng:	vvv
-*PAO:	and &wh from what time do they start school at do you know ? 1792419_1795316
+*PAO:	and &w from what time do they start school at do you know ? 1792419_1795316
 *AUD:	they start school at +/. 1795275_1796494
 *PAO:	+< because I have a different schedule . 1795602_1797286
 *AUD:	yeah they have different sched(ules) . 1797183_1798565
 *AUD:	they start school in march first (.) until December fifteenth . 1798367_1801885
-*PAO:	ok@s:eng&spa . 1802109_1803920
+*PAO:	o_k@s:eng&spa . 1802109_1803920
 *AUD:	they stop on December fifteen . 1803942_1805852
 *AUD:	and they start in march first . 1805852_1807547
 *PAO:	[- spa] otra vez . 1807532_1808466
@@ -1404,7 +1402,7 @@
 *PAO:	or is it cold ? 1846994_1847784
 *AUD:	+< en@s:spa diciembre@s:spa it's very hot . 1847308_1848586
 %eng:	vvv
-*PAO:	oh@s:eng&spa ok@s:eng&spa so it's the opposite . 1848551_1850206
+*PAO:	oh@s:eng&spa o_k@s:eng&spa so it's the opposite . 1848551_1850206
 *AUD:	+< yeah . 1848557_1849503
 *AUD:	[- spa] sí ya en septiembre empieza a calentar un poquito . 1849533_1852569
 %eng:	vvv
@@ -1438,13 +1436,13 @@
 *PAO:	+< except when you go to Disney@s:eng&spa World@s:eng&spa . 1892914_1894980
 *AUD:	ay@s:spa when [/] when [///] eight people you going to Disney@s:eng&spa in may right ? 1895454_1898902
 %eng:	vvv
-*PAO:	&ys hopefully . 1898980_1900413
+*PAO:	&ais hopefully . 1898980_1900413
 *AUD:	when I be in the trip you're gonna be in Disney@s:eng&spa . 1900413_1903281
 *AUD:	that's what your mom told me . 1903243_1904486
 *PAO:	oh@s:eng&spa (.) y@s:spa después@s:spa in [/] in fourth of July I'll be back in Disney@s:eng&spa again . 1904439_1909143
 %eng:	vvv
 *AUD:	really ? 1908942_1909708
-*PAO:	yeah we're gonna &t then go with del@s:spa [//] el@s:spa americano@s:spa (.) y@s:spa el@s:spa xxx . 1909519_1914778
+*PAO:	yeah we're gonna &k then go with del@s:spa [//] el@s:spa americano@s:spa (.) y@s:spa el@s:spa xxx . 1909519_1914778
 %eng:	vvv
 *AUD:	&=click eh@s:eng&spa . 1913681_1914441
 *AUD:	oh@s:eng&spa that's great ! 1914700_1916772
