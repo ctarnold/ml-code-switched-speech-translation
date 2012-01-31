@@ -11,9 +11,8 @@
 @Date:	08-MAR-2008
 @Coder:	Jon Russell Herring, Prifysgol Bangor University
 @Time Duration:	00:32:18
-@Comment:	Filename: herring1.CHA; Soundfile: herring1.wav
+@Comment:	Filename: herring1.cha; Soundfile: herring1.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-@Warning:	PROOFED TRANSCRIPT
  *CHL:	well she was telling me about this thing with Oprah@s:eng&spa . 124_3849
 *CHL:	that she's a new age thing . 4031_6182
 *CHL:	and she's a book@s:eng&spa . 6215_7262
@@ -78,7 +77,7 @@
 *CHL:	&=laugh . 83307_83835
 *LAU:	say oh@s:eng&spa er@s:eng&spa she went to the er@s:eng&spa plastic surgery . 83423_86192
 *LAU:	[- spa] se jaló la cara de nuevo . 86256_87682
-%eng:	vvv
+%eng:	she got a face-lift.
 *CHL:	ah@s:eng&spa my lord ! 87542_88737
 *LAU:	+< xxx your grandmother ! 88028_89001
 *LAU:	(be)cause I remember when she did it the first time . 88942_90409
@@ -88,7 +87,7 @@
 *CHL:	mmhm@s:eng&spa . 95490_95861
 *LAU:	and your grandmother was like +"/. 95597_96314
 *LAU:	+" oh@s:eng&spa todo@s:spa se@s:spa mira@s:spa en@s:spa las@s:spa manos@s:spa . 96306_97775
-%eng:	vvv
+%eng:	oh, everything is revealed in your hands.
 *LAU:	[- spa] la vejez se mira en las manos . 97775_99045
 %eng:	you can see old age in one's hands.
 *LAU:	(be)cause it's true . 99052_99596
@@ -99,14 +98,14 @@
 %eng:	so she got surgery in her new face.
 *LAU:	so I don't know . 104682_105481
 *CHL:	ay@s:spa [?] how funny . 104948_106118
-%eng:	vvv
+%eng:	oh, how funny.
 *LAU:	I don't wanna . 105588_106314
 *LAU:	i(f) [/] i(f) [/] if she gets me one fine then I'll use it you know . 106330_109100
 *LAU:	but I trust you more . 109609_112222
 *LAU:	que@s:spa no@s:spa diga@s:spa Nicaragua@s:eng&spa por@s:spa favor@s:spa . 112339_114169
 %eng:	hope she doesn't say Nicaragua, please.
 *CHL:	+< yeah just plain just mmhm@s:eng&spa sin@s:spa nada@s:spa . 113732_116749
-%eng:	vvv
+%eng:	 yeah just plain ,just, mmhm, without anything.
 *LAU:	+< like you know how they're like they're +... 113815_115381
 *LAU:	I mean in the bottom of it fine . 115331_116790
 *LAU:	pero@s:spa no@s:spa xxx you know they're so patriotic and they +... 116774_119057
@@ -131,28 +130,28 @@
 %eng:	because it's a lot cheaper.
 *CHL:	it's like (.) almost fifty dollars cheaper +/. 143901_146605
 *LAU:	+< but they sold their house verdad@s:spa ? 146587_148623
-%eng:	vvv
+%eng:	but they sold their house, didn't they?
 *CHL:	+, in rent . 146752_147502
 *CHL:	they sold their house . 147551_148681
 *LAU:	+< ok@s:eng&spa . 148244_148746
 *CHL:	but the thing is +... 148879_150766
-*CHL:	that (.) es@s:spa su@s:spa tío@s:spa that has lived with him like I don't know how like ya@s:spa several years ? 150816_156880
-%eng:	vvv
-*CHL:	he doesn't pay anything . 157490_158570
+*CHL:	+, that (.) es@s:spa su@s:spa tío@s:spa that has lived with him like I don't know how like ya@s:spa several years +... 150816_156880
+%eng:	...that his uncle who has lived with him like, I don't know how, like several years already...
+*CHL:	+, he doesn't pay anything . 157490_158570
 *CHL:	[- spa] él no paga nada en la casa . 158554_160598
-%eng:	he doesn't pay anything at home.
+%eng:	he doesn't pay anything in the house.
 *CHL:	like he doesn't like even water . 160809_162540
 *CHL:	and he [/] he lives there with his +/. 162639_164601
 *LAU:	+< [- spa] el machismo ! 163447_164386
 %eng:	machismo!
 *CHL:	he lives there with his wife and his daughter . 164444_166735
 *CHL:	and I understand see you know if you don't have enough money at least algo@s:spa [?] you know . 166711_171857
-%eng:	vvv
+%eng:	and I understand, see, you know, if you don't have enough money, at least something, you know .
 *LAU:	+< yeah . 171624_172125
 *CHL:	but nothing . 172018_172814
 *CHL:	so his mom's like +"/. 172839_174111
 *CHL:	+" I can't [/] I can't (.) mantener@s:spa su@s:spa familia@s:spa any more you know . 174120_178125
-%eng:	vvv
+%eng:	"I can't maintain his family any more."
 *CHL:	+" I xxx +/. 177981_178654
 *LAU:	it's his wife and everybody ? 178531_180115
 *LAU:	not just +... 180118_181161
@@ -163,7 +162,7 @@
 *CHL:	+< her gran [///] she [/] she's responsible for the you know her mom . 185061_188917
 *CHL:	and her [/] her older daughter . 188925_190980
 *CHL:	[- spa] pero <ella es> [/] ella es enfermita . 190988_193231
-%eng:	but she is she is a bit sick.
+%eng:	but she is, she is a bit sick.
 *LAU:	yeah . 193231_193738
 *CHL:	so Fernando's@s:eng&spa like fed up with it . 194917_197004
 *CHL:	well the thing is that they started looking for a new (.) house to move in . 197004_200707
@@ -184,9 +183,9 @@
 *LAU:	+< [- spa] xxx los hombres . 216057_217464
 %eng:	men.
 *CHL:	+< it's a little machista@s:spa . 217587_219265
-%eng:	vvv
+%eng:	it's a little chauvinist.
 *LAU:	+< xxx Nick@s:eng&spa and his mom que@s:spa todo@s:spa era@s:spa como@s:spa hombre@s:spa xxx . 218258_222100
-%eng:	vvv
+%eng:	[...] Nick and his mom that everything was like man [...].
 *CHL:	+< yeah . 221642_222379
 *LAU:	+< she xxx tell me like (.) they favour them so much . 221691_224089
 *CHL:	yeah I don't know if it's like this hispanic thing +/. 224071_227140
@@ -206,14 +205,14 @@
 *LAU:	so (.) to make up the difference my grandmother will give it to him . 244950_248143
 *CHL:	that's (.) low . 249164_251005
 *LAU:	qué@s:spa jodían@s:spa it's like (.) stupid Nicaraguans [=! laughing] ! 250948_253461
-%eng:	they screwed it's like stupid Nicaraguans.
+%eng:	they screwed up, it's like stupid Nicaraguans.
 *CHL:	<it's not> [//] it's [/] it's [/] it's in general . 253315_255573
 *LAU:	+< I don't agree that's all (.) yeah . 253593_256048
 *CHL:	+< I think it's like all xxx . 255573_257931
 *LAU:	I mean I understand <helping a child> [//] helping your kid if <they're in &mei you know> [//] they're in a crisis situation +/. 256851_260698
 *CHL:	+< yeah but +... 259847_260895
 *LAU:	[- spa] , pero darle (.) lo que quieres dar +... 260701_263377
-%com: but give them what you want to give.
+%com:
 *CHL:	wow@s:eng&spa well the thing is that they found this place right . 263273_265821
 *CHL:	but the house comes with a little efficiency . 265874_268742
 *CHL:	outside . 269050_269839
@@ -225,7 +224,7 @@
 *LAU:	rent [/] rent ok@s:eng&spa . 280846_282785
 *CHL:	+< don't [/] <don't yeah> [//] don't let him know <that the> [/] that it comes with the house . 281200_285107
 *LAU:	[- spa] xxx bueno . 285668_286632
-%eng:	vvv
+%eng:	[...] ok.
 *CHL:	so they're [/] they're like +"/. 286661_287653
 *CHL:	+" well if you wanna move in next to us it's cheap it's fifty dollars . 287665_291154
 *CHL:	+" and you're not gonna get cheaper than that anywhere . 291147_293248
@@ -247,7 +246,7 @@
 %eng:	but he works ?
 *CHL:	+< a lot of um@s:eng&spa (.) yeah . 324847_326950
 *LAU:	+< and his wife works también@s:spa ? 326557_328596
-%eng:	vvv
+%eng:	and his wife works as well?
 *CHL:	+< yes . 327330_327854
 *CHL:	and somehow Fernando's@s:eng&spa xxx +/. 329854_331991
 *LAU:	+< how many kids do they have ? 329977_331991
@@ -338,8 +337,8 @@
 *LAU:	so what happened at work ? 445350_446455
 *CHL:	+< I need a +... 445440_446455
 *LAU:	&=laugh . 447462_448084
-*CHL:	Lauren@s:eng&spa like@s:eng&spa I'm@s:eng&spa [///] ay@s:spa me@s:spa tienen@s:spa cansada@s:spa . 447762_451626
-%eng:	vvv
+*CHL:	Lauren@s:eng&spa like I'm [///] ay@s:spa me@s:spa tienen@s:spa cansada@s:spa . 447762_451626
+%eng:	Lauren like, oh, they've tired me out.
 *CHL:	it's ridiculous . 451667_453296
 *CHL:	um@s:eng&spa (.) what +... 454363_457236
 *CHL:	Thursday one of the girls like we were fed up . 457258_459665
@@ -407,7 +406,7 @@
 *LAU:	(be)cause I +/. 574994_575346
 *CHL:	the thing is that &ʃ . 575092_576590
 *LAU:	+, when I went to Canada I saw the madre@s:spa . 575984_577736
-%eng:	vvv
+%eng:	...when I went to Canada I saw the mother.
 *CHL:	yeah the passport . 577663_580241
 *LAU:	+< it's (..) yeah I [/] I [//] for [//] and I didn't realise it because . 578105_581518
 *LAU:	in December with [//] December bef(ore) [//] the December before that you [//] if you were going to Canada or Mexico you didn't need a passport . 581878_586642
@@ -446,10 +445,10 @@
 *CHL:	<I had like> [//] <I literally had a &wi> [//] I 0_0
 *LAU:	+< why [///] wha(t) [///] <how old> [/] how old were you when you took your last picture ? 625040_627669
 *CHL:	because <it doesn't> [///] eso@s:spa no@s:spa importa@s:spa . 627745_630378
-%eng:	vvv
+%eng:	because that's not important.
 *LAU:	oh@s:eng&spa . 630181_630593
 *CHL:	the thing is that (.) my passport ellos@s:spa <me@s:spa han@s:spa> [//] me@s:spa lo@s:spa han@s:spa revalidado@s:spa dos@s:spa veces@s:spa . 630425_635057
-%eng:	vvv
+%eng:	the thing is that they have renewed my passport twice.
 *CHL:	and now it's a law (.) you know in the (.) Nicaraguan consul whatever . 635129_639842
 *LAU:	+< &=cough . 636116_636661
 *CHL:	que@s:spa (.) si@s:spa ya@s:spa te@s:spa lo@s:spa han@s:spa revalidado@s:spa dos@s:spa veces@s:spa you have to get a new passport . 639914_644621
@@ -525,7 +524,7 @@
 *CHL:	yeah . 729332_729733
 *LAU:	oh@s:eng&spa ok@s:eng&spa . 729782_730560
 *CHL:	and you know they [/] they told me (.) several people que@s:spa han@s:spa echado@s:spa gente@s:spa por@s:spa ella@s:spa stuff like that . 730313_736301
-%eng:	vvv
+%eng:	and you know, they told me several people have thrown out people for her, stuff like that.
 *LAU:	oh really ? 735884_736702
 *CHL:	well then the thing is Raquel@s:eng&spa wanted to confront everybody . 737292_740026
 *CHL:	and clear everything out . 740034_741368
@@ -547,7 +546,7 @@
 *CHL:	+" I'm not lying . 774041_775080
 *CHL:	so I don't know who's lying you know . 775148_778095
 *LAU:	+< [- spa] parásita [?] . 776155_777416
-%com: parasite?
+%com:	parasite?
 *LAU:	and so they both have a reputation of +... 777735_779593
 *CHL:	yeah both of them ! 779569_781296
 *CHL:	so it's like Lauren@s:eng&spa I don't know who to trust . 781316_783928
@@ -582,7 +581,7 @@
 *LAU:	+" look you guys I would prefer if you guys +/. 853151_854982
 *CHL:	and she's telling us she never said that . 854504_856701
 *CHL:	o@s:spa sea@s:spa I don't know who is lying . 859197_860953
-%eng:	vvv
+%eng:	I mean, I don't know who is lying.
 *CHL:	and honestly I'm tired of it . 860997_862610
 *CHL:	and I don't care (..) you know ? 862631_865172
 *CHL:	[- spa] me [//] ya me tienen cansada . 866622_869052
@@ -825,7 +824,7 @@
 *CHL:	because +... 1347558_1348303
 *LAU:	+< yeah . 1347910_1348245
 *CHL:	[- spa] se la hace costumbre . 1348458_1349825
-%eng:	vvv
+%eng:	it'll turn into a habit.
 *LAU:	yeah . 1349825_1350120
 *CHL:	um@s:eng&spa . 1350144_1350725
 *CHL:	<and they'll expect me to do it (..) every weekend or something> [=! eating] . 1351708_1356464
@@ -848,7 +847,7 @@
 *LAU:	they don't do that thing where you can review her ? 1403068_1405377
 *CHL:	I think we do . 1407764_1408951
 *CHL:	I don't know when they're gonna you know cuando@s:spa nos@s:spa xxx yeah . 1408995_1412443
-%eng:	vvv
+%eng:	I don't know when they're gonna, you know, when we [...], yeah.
 *LAU:	+< it could be anonymous . 1410577_1411890
 *CHL:	no and it's not anonymous . 1412384_1414235
 *LAU:	well she's a bitch &=laugh . 1416134_1418100
@@ -873,7 +872,7 @@
 *CHL:	and Maricarmen@s:eng&spa had to do you know . 1454761_1456400
 *CHL:	she had an assignment that day . 1456407_1458552
 *CHL:	and no@s:spa habían@s:spa pasado@s:spa diez@s:spa minutos@s:spa . 1458784_1461299
-%eng:	vvv
+%eng:	and no ten minutes had passed.
 *CHL:	and she calls . 1461336_1461847
 *CHL:	and she's like +"/. 1461842_1462322
 *CHL:	+" [- spa] ya [/] ya les puedo ver ? 1462327_1464093
@@ -966,7 +965,7 @@
 *CHL:	do they expect us +... 1604779_1606771
 *CHL:	I mean no (..) I mean we pulled it off I don't know how . 1606793_1610544
 *CHL:	+" did you think like (.) projects (.) en@s:spa un@s:spa día@s:spa ? 1610597_1613848
-%eng:	vvv
+%eng:	"did you think projects (happen) in one day?"
 *CHL:	Lauren@s:eng&spa . 1614600_1615216
 *CHL:	and then +... 1615469_1616894
 *CHL:	but I told her I'm like . 1616907_1618315
@@ -1011,7 +1010,7 @@
 *LAU:	we used to +//. 1688522_1689193
 *LAU:	do you remember my dad's neighbors ? 1689246_1691454
 *CHL:	+< no mentirado@s:spa that was a day one five dollars . 1689917_1692400
-%eng:	vvv
+%eng:	no, that's wrong, that was a day, one to five dollars.
 *LAU:	<you remember my dad's neighbors> [//] <my dad> [/] my dad's old neighborhood ? 1692420_1694454
 *LAU:	the people that lived +... 1694461_1695412
 *LAU:	there was a [/] some Puerto_Rican coup(le) [/] couple that lived here . 1695579_1697872
@@ -1027,13 +1026,13 @@
 *LAU:	and he used to be like +"/. 1706140_1706536
 *LAU:	+" look this is Nike@s:eng&spa . 1706525_1707370
 *LAU:	se@s:spa ve@s:spa it doesn't have the Nike@s:eng&spa check on it . 1707366_1709006
-%eng:	vvv
+%eng:	obviously it doesn't have the Nike check on it.
 *CHL:	+< uhhuh@s:eng&spa . 1708683_1709058
 *LAU:	and he used to wear them . 1709031_1710040
 *LAU:	and it's the same thing in my eyes . 1710041_1711428
 *CHL:	+< yeah . 1711109_1711436
 *LAU:	and he used to get my dad like tennis shoes y@s:spa todo@s:spa <for the> [//] to play tennis . 1711364_1714292
-%eng:	vvv
+%eng:	and he used to get my dad like tennis shoes and everything to play tennis.
 *CHL:	uhhuh@s:eng&spa . 1714321_1714712
 *LAU:	it's like it's the same thing . 1715198_1715969
 *LAU:	he's like +"/. 1715974_1716143
@@ -1047,7 +1046,7 @@
 *CHL:	um@s:eng&spa . 1722375_1722919
 *CHL:	they [///] <well other than> [///] I guess they have tests and stuff . 1722997_1725750
 *CHL:	pero@s:spa (..) to test um@s:eng&spa if like jewelry has like lead and stuff . 1725742_1729811
-%eng:	vvv
+%eng:	but to test if like jewelry has like lead and stuff.
 *LAU:	mmhm@s:eng&spa . 1729801_1730709
 *CHL:	they bang it against you know the floor or a surface . 1730799_1734688
 *LAU:	+< a surface uhhuh@s:eng&spa . 1733636_1734978
@@ -1125,7 +1124,7 @@
 *LAU:	he did ? 1865042_1866314
 *CHL:	and then (.) you know +... 1867668_1869212
 *LAU:	+< [- spa] lo hubiera matado pobrecita . 1868661_1870559
-%eng:	vvv
+%eng:	she would have killed him, poor thing.
 *CHL:	+, &=cough we all realised that (.) he wasn't lying . 1869183_1872640
 *LAU:	what a jerk ! 1874187_1874982
 *CHL:	oh@s:eng&spa and who else ? 1875872_1876760
