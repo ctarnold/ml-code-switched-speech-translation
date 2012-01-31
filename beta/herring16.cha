@@ -12,7 +12,7 @@
 @Media:	herring16, audio
 @Comment:	Filename: herring16.cha; Soundfile: herrring16.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-@Comment:	SHOULDN'T PERSONAL TELEPHONE NUMBERS, E-MAIL ADDRESSES ETC BE BEEPED OUT (utterance 114 onwards)?
+@Comment:	SHOULDN'T PERSONAL TELEPHONE NUMBERS, E-MAIL ADDRESSES ETC BE ANONYMISED AND BEEPED OUT (utterance 114 onwards)?
 @Comment:	ABE is talking on the phone.
 *ABE:	[- spa] ya saliste [=! laughs] ? 23_10850
 %eng:	have you gone already?
@@ -636,33 +636,32 @@
 *ABE:	yes . 1517523_1518725
 *IAN:	&=laugh . 1518684_1521435
 *ABE:	[- spa] xxx que preguntarle a xxx si xxx me quiere hacer el corte de pelo hoy . 1521394_1527545
-%eng:	vvv
+%eng:	[...] ask [...] if [...] wants to cut my hair today.
 *IAN:	+< &=laugh . 1521394_1527545
-%eng:	vvv
 *IAN:	[- spa] hoy ? 1527538_1528031
-%eng:	vvv
+%eng:	today?
 *ABE:	[- spa] xxx yo no tengo dinero para estar jodiendo . 1528014_1532672
-%eng:	vvv
+%eng:	[...] i don't have the money to mess about.
 *IAN:	[- spa] ay tan xxx . 1532663_1535269
-%eng:	vvv
+%eng:	oh, so [...].
 *ABE:	[- spa] no pero es pa(ra) que me haga esto . 1535252_1537295
-%eng:	vvv
+%eng:	no, but it's in order for her to do it for me.
 *ABE:	Tania@s:eng&spa (.) te@s:spa voy@s:spa a@s:spa buscar@s:spa en@s:spa un@s:spa ratito@s:spa para@s:spa que@s:spa me@s:spa hagas@s:spa el@s:spa trim de@s:spa mi@s:spa pelo@s:spa por@s:spa favor@s:spa con@s:spa la@s:spa máquina@s:spa . 1537222_1546481
-%eng:	vvv
+%eng:	Tania, I will come past in a little while for you to trim my hair with the machine please.
 %com:	silence . 1546429_1550098
 *ABE:	[- spa] pero yo te llamo así como en una hora . 1550094_1552706
-%eng:	vvv
+%eng:	but I'll ring you in about an hour.
 *ABE:	xxx bye . 1552674_1555455
 *ABE:	ok@s:eng&spa . 1555447_1558152
 *IAN:	xxx . 1558152_1559888
 *ABE:	[- spa] y la llevo para atrás para que se vaya a ver a todo el mundo . 1559888_1563969
-%eng:	vvv
+%eng:	and I'll take her back so she can meet everybody.
 *IAN:	mmhm@s:eng&spa . 1563919_1565562
 *ABE:	xxx . 1565556_1567013
 *ABE:	es@s:spa así@s:spa tan@s:spa rude [?] xxx con@s:spa mis@s:spa amigos@s:spa Dios@s:spa mío@s:spa . 1567005_1570030
-%eng:	vvv
+%eng:	she is so rude [...] with my friends anyway, good god.
 *IAN:	[- spa] &=hum si quieres yo voy a xxx y luego xxx a recogerte . 1569420_1573065
-%eng:	vvv
+%eng:	if you want I'll come to [...] and then [...] to pick you up.
 *ABE:	huh@s:eng&spa . 1572948_1574091
 *IAN:	while I'm doing my haircut . 1574079_1576161
 *ABE:	mmhm@s:eng&spa . 1576127_1577311
@@ -670,73 +669,73 @@
 *ABE:	your haircut is fine really . 1578402_1580080
 *ABE:	xxx . 1580070_1581202
 *ABE:	[- spa] por qué así no pueden ser mis amigos xxx ? 1581127_1584829
-%eng:	vvv
+%eng:	why can't they be my friends then?
 *ABE:	[- spa] yo no xxx la máquina para que xxx bien . 1584816_1591361
-%eng:	vvv
+%eng:	I don't [...] the machine so that [...] well.
 %com:	silence . 1591302_1596666
 *IAN:	[- spa] ves como que ella xxx . 1596674_1599922
-%eng:	vvv
+%eng:	you think that she [...].
 *ABE:	[- spa] bueno ya son las [/] las y cuarenta casi casi . 1599953_1604697
-%eng:	vvv
+%eng:	well, it's almost forty past.
 *ABE:	[- spa] pero él tiene que venir de camino . 1604705_1606662
-%eng:	vvv
+%eng:	but he needs to come.
 *ABE:	[- spa] deja que llame . 1606654_1608024
-%eng:	vvv
+%eng:	wait until he calls.
 *ABE:	[- spa] como quiera . 1607989_1608570
-%eng:	vvv
+%eng:	as he wishes.
 *ABE:	[- spa] <deja que no> [/] deja que llame . 1608547_1609899
-%eng:	vvv
+%eng:	wait until he calls.
 *IAN:	[- spa] sí sí sí no tranquilo ya . 1608767_1610439
-%eng:	vvv
+%eng:	yes, yes, yes, I'm not patient any more.
 *IAN:	[- spa] tranquilo . 1610435_1613936
-%eng:	vvv
+%eng:	patient.
 %com:	aspirated [t], mimicking American pronunciation.
 *ABE:	+< [- spa] va(mos) [/] vamos allá xxx . 1612782_1614117
-%eng:	vvv
+%eng:	let's go there [...].
 *ABE:	[- spa] no no espérate espérate espérate . 1614111_1616613
-%eng:	vvv
+%eng:	no, no, wait, wait, wait.
 %com:	silence . 1616634_1623390
 *IAN:	I was so tired yesterday . 1623380_1625354
 *IAN:	but I really wanted to go out . 1625331_1627357
 %com:	silence . 1627340_1634213
 *ABE:	[- spa] tú ni siquiera te bañaste . 1634201_1637190
-%eng:	vvv
+%eng:	you haven't even had a bath.
 *IAN:	I went to the beach too xxx . 1637151_1640680
 %com:	silence . 1640615_1651250
 *IAN:	[- spa] quieres que xxx quedar contigo ? 1651233_1653021
-%eng:	vvv
+%eng:	do you want [...] to stay with you?
 *ABE:	mmhm@s:eng&spa . 1652992_1653531
 *ABE:	[- spa] me asustas . 1653493_1655978
-%eng:	vvv
+%eng:	you scare me.
 *ABE:	[- spa] y el tuyo ? 1656020_1657674
-%eng:	vvv
+%eng:	and yours?
 *IAN:	mmhm@s:eng&spa I have it +... 1657690_1660238
 *IAN:	[- spa] a ver cómo ? 1660204_1661370
-%eng:	vvv
+%eng:	we'll see how?
 *ABE:	[- spa] deben estar en la sala esta . 1661308_1664054
-%eng:	vvv
+%eng:	we have to be in this room.
 %com:	silence . 1664022_1666826
 *IAN:	right maybe we should head over there then . 1666775_1669802
 *ABE:	xxx . 1669776_1672348
 %com:	silence . 1672300_1677464
 *ABE:	&=cough . 1677482_1678939
-*ABE:	[- spa] oiste tú sabes la +/. 1678901_1681368
-%eng:	vvv
+*ABE:	[- spa] oíste tú sabes la +/. 1678901_1681368
+%eng:	you see, you know the...
 *IAN:	mmhm@s:eng&spa . 1679725_1681374
 *IAN:	[- spa] ah xxx esta detrás de la xxx . 1681368_1686783
-%eng:	vvv
+%eng:	ah, this [...] behind the [...].
 *ABE:	[- spa] xxx esto está dando vueltas así . 1686770_1689266
-%eng:	vvv
+%eng:	this [...] is going round in circles like this.
 %com:	noise . 1689269_1695397
 *IAN:	[- spa] oye sabes qué el xxx se está muriendo . 1695356_1700077
-%eng:	vvv
+%eng:	listen, do you know that [...] is dying?
 *ABE:	[- spa] ponlo a cargar . 1700045_1701218
-%eng:	vvv
+%eng:	put it on charge.
 *IAN:	ok@s:eng&spa . 1701230_1702182
 *ABE:	xxx . 1702163_1704381
 *IAN:	+< <no brother> [?] . 1703867_1705080
-*IAN:	no wait un@s:spa momento@s:spa porque@s:spa sino@s:spa las@s:spa cosas@s:spa . 1705039_1708145
-%eng:	vvv
+*IAN:	no wait un@s:spa momento@s:spa porque@s:spa sino@s:spa las@s:spa cosas@s:spa +... 1705039_1708145
+%eng:	no, wait a moment, because only the things...
 %com:	silence . 1708032_1710244
 *IAN:	ay@s:eng&spa xxx . 1710213_1716029
 *IAN:	&=gasp it's a nice day for the beach actually . 1715976_1723656
@@ -748,55 +747,53 @@
 *ABE:	+< xxx . 1734889_1735643
 *IAN:	maybe we can have a cigarette . 1735655_1737501
 *ABE:	&=laugh . 1737487_1738991
-%eng:	vvv
 %com:	noise . 1738952_1749572
 *ABE:	&=moan . 1749544_1751448
 *IAN:	mmhm@s:eng&spa . 1751436_1752377
 *ABE:	&=whisper . 1752359_1754613
-%eng:	vvv
 *IAN:	+< xxx . 1754602_1757063
 *ABE:	&=noise te@s:spa compraste@s:spa un@s:spa lighter (.) finalmente@s:spa ? 1757061_1762185
-%eng:	vvv
+%eng:	have you finally bought a lighter?
 *IAN:	hmm@s:eng&spa ? 1762465_1762820
 *ABE:	compraste@s:spa un@s:spa lighter ? 1762808_1763946
-%eng:	vvv
+%eng:	have you bought a lighter?
 *IAN:	oh@s:eng&spa they are mine buddy . 1763934_1765037
 *IAN:	xxx mine and xxx yours . 1765032_1767313
 *ABE:	uhhuh@s:eng&spa uhhuh@s:eng&spa . 1767295_1770900
 *IAN:	[- spa] toma . 1770883_1771620
-%eng:	vvv
+%eng:	take it.
 *ABE:	no I have my own . 1771631_1773088
 *ABE:	pero@s:spa por@s:spa eso@s:spa te@s:spa estoy@s:spa preguntando@s:spa que@s:spa si@s:spa compraste@s:spa un@s:spa lighter porque@s:spa xxx no@s:spa lo@s:spa conozco@s:spa . 1773065_1776438
-%eng:	vvv
+%eng:	but that's why I'm asking you if you have bought a lighter because I don't recognise it.
 *IAN:	I had this for a long time . 1776429_1777828
 *IAN:	but you always think that it's yours . 1777782_1778798
-*ABE:	ay@s:eng&spa ya@s:spa please@s:eng&spa . 1778804_1780749
-%eng:	vvv
+*ABE:	ay@s:spa ya@s:spa please . 1778804_1780749
+%eng:	oh yes, please.
 *IAN:	&=laugh . 1780714_1782919
 %com:	silence . 1782898_1789196
 *ABE:	&=cough . 1789185_1791966
-%com:	wind noise . 1791956_1796571
+@Comment:	wind noise . 1791956_1796571
 *IAN:	[- spa] que ya venga no . 1796588_1799026
-%eng:	vvv
-%com:	noise of wind and lighter . 1799017_1810263
+%eng:	he should be coming now, shouldn't he?
+@Comment:	noise of wind and lighter . 1799017_1810263
 *IAN:	xxx con@s:spa Pam@s:eng&spa . 1810275_1811807
-%eng:	vvv
+%eng:	[...] with Pam.
 *IAN:	xxx . 1811800_1813019
 *ABE:	it's fine . 1813013_1813936
 *IAN:	is that ok@s:eng&spa ? 1813893_1815379
 *ABE:	it's fine . 1815361_1816865
-%com:	noise . 1816871_1822948
+@Comment:	noise . 1816871_1822948
 *IAN:	[- spa] porque nunca hacemos nada solos me entiendes ? 1822897_1826142
-%eng:	vvv
+%eng:	because we never do anything on our own, do you understand?
 *ABE:	that's fine . 1826073_1827333
 *ABE:	you don't have to explain anything . 1827315_1829463
 *IAN:	[- spa] xxx ahora . 1829446_1833379
-%eng:	vvv
-%com:	noise . 1833362_1839028
+%eng:	[...] now.
+@Comment:	noise . 1833362_1839028
 *IAN:	&=singing . 1839012_1844382
 *IAN:	tengo@s:spa una@s:spa hambre@s:spa de@s:spa mil@s:spa diablos@s:spa te@s:spa cuento@s:spa eh@s:eng&spa . 1844318_1846785
-%eng:	vvv
+%eng:	I tell you, I'm hungry like a thousand devils.
 *ABE:	[- spa] ahora te dio hambre ? 1846791_1850506
-%eng:	vvv
-%com:	music . 1850483_1850994
+%eng:	this now has made you hungry?
+@Comment:	music . 1850483_1850994
 @End
