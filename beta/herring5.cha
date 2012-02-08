@@ -2,17 +2,18 @@
 @UTF8
 @Begin
 @Languages:	spa, eng
-@Participants:	 NOA Noah Adult, MEG  Megan Adult
-@Media:	herring5, audio
+@Participants:	NOA Noah Adult, MEG  Megan Adult
 @ID:	spa, eng|bangor3|NOA||male|||Adult||
 @ID:	spa, eng|bangor3|MEG||female|||Adult||
 @Situation:	Couple
 @Date:	19-MAR-2008
-@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University, Fraibet Aveledo, Bangor University
+@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University, Fraibet Aveledo, Bangor University.    Original translation by Olga Vert Bolaños.
 @Time Duration:	00:27:10
+@Media:	herring5, audio
 @Comment:	Filename: herring5.CHA; Soundfile: herring5.wav
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	during the transcription there are important background noises.
+@Warning:	translations need to be filled in; marked with "vvv" (also some questions in comment tiers)
 *NOA:	yo le estaba diciendo que [/] que hay gente que . 6_3210
 %eng:	vvv
 *NOA:	yo le estaba diciendo que hay gente que [/] que [/] que lo ve extraño . 3280_6502
@@ -322,8 +323,9 @@
 %eng:	vvv
 *NOA:	por qué ? 361460_362308
 %eng:	vvv
-*NOA:	su familia que tiene que tiene que ver Jessica@s:eng&spa ? 0_0
+*NOA:	su familia que tiene que tiene que ver Jessica@s:eng&spa ? 362299_367150
 %eng:	vvv
+%com:	vvv - is there another, untranscribed utterance?
 *NOA:	Antonio@s:eng&spa take@s:eng a@s:eng shower@s:eng as@s:eng soon@s:eng as@s:eng the@s:eng [//] like@s:eng in@s:eng fifteen@s:eng minutes@s:eng ok@s:eng ? 367214_370470
 %eng:	vvv
 %com:	the other person answered.
@@ -587,7 +589,7 @@
 %eng:	vvv
 *NOA:	y estás dormida en dos minutos . 684321_685697
 %eng:	vvv
-*NOA:	y yo no me enojo . 685570_686476
+*NOA:	y yo no me enojo . 685540_686476
 %eng:	vvv
 *MEG:	+< porque tú lees libros aburridos . 685541_687201
 %eng:	vvv
@@ -633,7 +635,7 @@
 %eng:	vvv
 *NOA:	es un producto contra el moho . 728762_730823
 %eng:	vvv
-*MEG:	aquí? 727978_732210
+*MEG:	&a aquí? 730692_732441
 %eng:	vvv
 *NOA:	+< &=yawn . 730935_732247
 %eng:	vvv
@@ -666,7 +668,7 @@
 %eng:	vvv
 *NOA:	hay [/] <no hay> [/] no hay xxx cuatro mil . 766856_768923
 %eng:	vvv
-*NOA:	yo estaba esperando tres mil . 769178_770734
+*NOA:	yo estaba esperando tres mil . 769170_770734
 %eng:	vvv
 *MEG:	+< yo pensé que +... 769173_770862
 %eng:	vvv
@@ -726,7 +728,7 @@
 %eng:	vvv
 *NOA:	se llama The_King_of@s:eng&spa +//. 832818_834664
 %eng:	vvv
-*MEG:	+< con quién ? 832030_834701
+*MEG:	+< con quién ? 832890_834701
 %eng:	vvv
 *NOA:	sólo . 834626_835137
 %eng:	vvv
@@ -1297,9 +1299,9 @@
 %eng:	vvv
 *NOA:	Alison@s:eng&spa Plaza@s:eng&spa . 1433177_1434059
 %eng:	vvv
-*MEG:	[-eng] mmhm . 1434030_1435011
+*MEG:	[- eng] mmhm . 1434030_1435011
 %eng:	vvv
-*NOA:	[-eng] mmhm . 1434959_1435713
+*NOA:	[- eng] mmhm . 1434959_1435713
 %eng:	vvv
 *NOA:	xxx . 1440115_1441096
 %eng:	vvv
@@ -1355,7 +1357,7 @@
 %eng:	vvv
 *NOA:	pero por qué no tenemos ? 1502981_1504171
 %eng:	vvv
-*MEG:	+< no tenemos de qué hablar . 1501527_1506391
+*MEG:	+< no tenemos de qué hablar . 1502987_1506391
 %eng:	vvv
 *NOA:	pues porque somos feos . 1503881_1505796
 %eng:	vvv

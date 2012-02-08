@@ -1,24 +1,26 @@
 @Font:	Win95:Lucida Sans Unicode:-19:0
 @UTF8
 @Begin
-@Media: herring2.mp3
 @Languages:	spa, eng
 @Participants:	TOM Tomás Adult, MIG Miguel Adult
 @ID:	spa, eng|bangor3|TOM||male|||Adult|
 @ID:	spa, eng|bangor3|MIG||male|||Adult||
 @Situation:	TOM is a close friend of MIG who lives nearby. They are speaking on the phone.
 @Date:	11-MAR-2008
-@Transcriber:	M. Carmen Parafita Couto, Prifysgol Bangor University.  Translated by Bronwyn Wrigley, Australian National University.
+@Transcriber:	M. Carmen Parafita Couto, Prifysgol Bangor University.    Original translation by Bronwyn Wrigley.
 @Time Duration:	00:30:42
+@Media:	herring2 audio
 @Comment:	Filename: herring2.cha; Soundfile: herring2.wav
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
-*MIG:	<no se> [/] no se andan juntando con todo el mundo me entendés o sea que no hay +/ ... 0_3873
+@Warning:	remaining translation uncertainties are recorded with [?] (and comment tier)
+@Warning:	missing translations are marked with "vvv"
+*MIG:	<no se> [/] no se andan juntando con todo el mundo me entendés o sea que no hay +... 0_3873
 %eng:	I don't know, they don't go out together or, whatever, there's no...
 *TOM:	no hay drama . 3791_4386
 %eng:	there's no drama
 *MIG:	sí exactamente lo que te iba a decir . 4458_6077
 %eng:	yeah, exactly what I was going to say
-*TOM:	+< XXX . 5079_5950
+*TOM:	+< xxx . 5079_5950
 *MIG:	no hay lugar para drama me entendés . 6054_7555
 %eng:	there's no room for drama, right?
 *MIG:	o sea sólo son ellos dos me entendés no +/. 7489_9636
@@ -59,21 +61,23 @@
 %eng:	yeah I left
 *TOM:	pero salí temprano después que me fui estuve un rato . 51665_54367
 %eng:	I left early, and after I decided to leave, I stayed for a little while
-*TOM:	y me dijeron que la vía [?] está mala pues porque tenía como media hora que me XXX una llamada . 54314_58469
-%eng:	and they told me that life is bad, but because I had only about half an hour they decided to give me a call ("llamada" significa algo diferente en este contexto?)
+*TOM:	y me dijeron que la vía [?] está mala pues porque tenía como media hora que me xxx una llamada . 54314_58469
+%eng:	and they told me that life is bad, but because I had only about half an hour they decided to give me a call [?]
+%com:	"llamada" significa algo diferente en este contexto?
 *MIG:	&uhu . 58267_58832
 %eng:	ahhh
 *TOM:	y yo como si idiay pues . 59018_60645
-%eng:	and me as an (idiot?) well
-*TOM:	+" y qué pasó pues XXX . 60501_62309
+%eng:	and me as an idiot, well [?]
+%com:	is "idiot" correct?  KD: "idiay" is used in other Miami files as an exclamation: good grief, oh my God, I can't believe it - that sort of thing.
+*TOM:	+" y qué pasó pues xxx . 60501_62309
 %eng:	and what happened then...
 *TOM:	+" no es tan mala . 62106_62962
 %eng:	it's not so bad
-*TOM:	me dice XXX vete para tu casa +". 62718_64291
+*TOM:	me dice xxx vete para tu casa +". 62718_64291
 %eng:	he told me to go home!
 *MIG:	qué de a verga ! 64003_65170
 %eng:	what?!
-TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
+*TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	and they paid me the rest of the day, so I don't know...
 *MIG:	+< qué de a cachimba ! 66692_68227
 %eng:	vvv
@@ -95,7 +99,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	I'll apply again
 *MIG:	a la puta qué boluda bróder (.) . 85578_87899
 %eng:	vvv
-*TOM:	no queda XXX +/. 88937_90240
+*TOM:	no queda xxx +/. 88937_90240
 %eng:	vvv
 *MIG:	+< cachimbo de paso . 89030_90211
 %eng:	vvv
@@ -106,7 +110,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *MIG:	si estuve en el teléfono con [/] con Laian un cachimbo tiempo bróder . 95175_99057
 %eng:	yeah I was on the phone with Laian a long time, man
 *TOM:	&=mumble una palabra xxx y +... 99928_102492
-%eng:	a word xxx and 
+%eng:	a word xxx and
 *MIG:	y al fin no ibas a entrar en Américan@s:eng&spa Airlines@s:eng&spa o algo así ? 102521_105096
 %eng:	so in the end weren't you going to get into American Airlines or something like this?
 *TOM:	&co <acuérdate que> [//] es que brother@s:eng mira . 105335_107396
@@ -149,13 +153,13 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	to travel...
 *MIG:	a &hu no pero es que me dijo este mi amigo que el ya ha trabajo ahí que es como que lo más es te dan descuento del pasaje más alto sí o sea del pasaje más caro . 141293_150969
 %eng:	but a friend of mine that works there told me that the most they give you is a discount of the most expensive trip
-*TOM:	XXX . 151201_152159
+*TOM:	xxx . 151201_152159
 %eng:	vvv
 *MIG:	entonces es como que hay sus pro(s)@s:eng&spa y sus contra(s) me entendés (.) . 152227_155577
 %eng:	well it's like it has its pros and its con, yeah?
 *MIG:	pero (.) [/] pero bueno ideay +... 157626_161569
 %eng:	well yeah
-*TOM:	XXX qué hiciste el fin de semana ? 161413_162910
+*TOM:	xxx qué hiciste el fin de semana ? 161413_162910
 %eng:	and what did you do on the weekend?
 *MIG:	cómo ? 162765_163984
 %eng:	what?
@@ -188,7 +192,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *MIG:	después el sábado (.) nos fuimos ahí a la casa de Manu@s:eng&spa . 191844_195156
 %eng:	and after that, on Saturday, we went to Manu's house
 *MIG:	y ahí estuvimos pues toda toda la tarde y toda la noche pues jugando board_games@s:eng y [/] y jodiendo . 195173_200725
-%eng:	and we were there for the whole afternoon and night, playing board games and getting messed up (?)
+%eng:	and we were there for the whole afternoon and night, playing board games and getting messed up [?]
 *MIG:	me entendés ? 200719_201567
 %eng:	you following me?
 *TOM:	+< xxx pues . 201125_202054
@@ -201,7 +205,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	and nothing else
 *MIG:	ni sé qué día es hoy . 206182_207204
 %eng:	I don't even know what day it is today
-*TOM:	[&=laughs] . 207928_208700
+*TOM:	&=laugh . 207928_208700
 *MIG:	&um y vos qué hiciste ? 208691_209887
 %eng:	and what about you, what did you do?
 *TOM:	xxx no vos [/] vos conocés a Landew@s:eng&spa pues el maje bajó de pues anda aquí de pues en un break@s:eng y vino con la novia . 210344_216359
@@ -241,7 +245,8 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *MIG:	like@s:eng literally@s:eng <para nada> [/] <para nada> [/] para nada he hablado con ella +/. 254712_257759
 %eng:	like literally, I haven't spoken to her at all
 *TOM:	+< ella está clavada con [/] con su Ruto@s:eng&spa . 257565_259806
-%eng:	she is busy with her Ruto (es el nombre de una persona?)
+%eng:	she is busy with her Ruto [?]
+%com:	Ruto - es el nombre de una persona?
 *MIG:	ni chat@s:eng&spa ni na(da) . 257710_259278
 %eng:	we haven't even chatted or anything
 *MIG:	&a ? 259881_260462
@@ -349,7 +354,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	I said to her...
 *MIG:	+" a ver qué ? 365185_365760
 %eng:	what?
-*MIG:	+"ya sabés . 365882_366439
+*MIG:	+" ya sabés . 365882_366439
 %eng:	you already know
 *MIG:	me dice Step_up_two@s:eng&spa +". 366433_367420
 %eng:	she suggested to me Step Up Two
@@ -374,7 +379,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	is Ruto going to go?
 *MIG:	ah@s:eng&spa ? 383311_383706
 %eng:	huh?
-*TOM:	supuestamente dijiste <que iba a ir> [/] <que iba a ir> Ruto@s:eng&spa . 383722_385556
+*TOM:	supuestamente dijiste <que iba a ir> [/] que iba a ir Ruto@s:eng&spa . 383722_385556
 %eng:	apparently you said that Ruto was going to go
 *MIG:	sí yo le dije +"/. 385536_386291
 %eng:	yeah I said that
@@ -404,7 +409,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	wow, she really is a bitch
 %com:	long pause.
 *MIG:	&mee . 414624_415657
-*TOM:	y cómo van las y cuánto es XXX ya te vas a graduar verdad . 416743_419314
+*TOM:	y cómo van las y cuánto es xxx ya te vas a graduar verdad . 416743_419314
 %eng:	and when it is again that you're gonna graduate?
 *MIG:	&ee seis semanas me quedan . 419334_421528
 %eng:	in six weeks
@@ -442,7 +447,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *MIG:	sí sí o sea (es)toy bien en mi trabajo en Univisión@s:eng&spa . 467789_471007
 %eng:	yeah, I mean, I like my job in Univision
 *MIG:	con eso lo estoy de a verga . 470984_471884
-%eng:	with that I'm doing pretty well (?)
+%eng:	with that I'm doing pretty well [?]
 *MIG:	eso no lo suelto por nada del mundo . 471907_473213
 %eng:	I wouldn't give it up for anything
 *TOM:	no yo sé pero te digo o sea <algo ya> [//] ya en tu carrera me entendés ? 473180_476315
@@ -613,7 +618,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *TOM:	viene por la semana santa nada más . 642150_644019
 %eng:	yeah, he's coming for Easter, nothing more
 *MIG:	&um . 643450_643938
-*MIG:	hay no joda esa gente que está en Nicaragua@ debe venir loco . 644224_646534
+*MIG:	hay no joda esa gente que está en Nicaragua@s:eng&spa debe venir loco . 644224_646534
 %eng:	don't mess around, these people that are in Nicaragua must be going crazy
 *MIG:	me vengo para acá . 646529_647307
 %eng:	I'm coming there
@@ -642,7 +647,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	well yeah, I don't know, maybe we'll have a bit of a look around...
 *MIG:	le contar a mis bróder pa(ra) ver se van a cagar de la risa cuando les cuente . 674915_678043
 %eng:	I told my mate to see if he's gonna die from laughter when he tells them
-*TOM:	XXX y uno de mis mejores amigos de Nicaragua Rober@s:eng&spa . 677941_682214
+*TOM:	xxx y uno de mis mejores amigos de Nicaragua Rober@s:eng&spa . 677941_682214
 %eng:	that one of my best friends from Nicaragua, Robert
 *MIG:	+< &aja . 682259_682828
 %eng:	vvv
@@ -662,7 +667,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	that name sounds really familiar
 *TOM:	lo tengo &e <si te vas> [//] si ves en mi Facebook@s:eng&spa él es el número uno . 693616_697499
 %eng:	I've got him on Facebook, if you go and see my page, he's number one...
-*TOM:	aquí está +/. 697489_698006
+*TOM:	aquí está +/. 697469_698006
 %eng:	here he is
 *MIG:	&e . 697472_697704
 *TOM:	pero bueno la cosa es que ideay lo corrieron del colegio por estar tapineando en clase . 698509_701823
@@ -683,7 +688,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *TOM:	+" y pero <o sea no puedes ir> [/] o sea no puedes ir a [/] a la fiesta de graduación ni a la graduación . 714080_720266
 %eng:	"but you can't come to the graduation party or graduation..."
 *MIG:	a la puta . 720276_722238
-%eng:	that's shit (?)
+%eng:	that's shit [?]
 *TOM:	claro +/. 722163_722703
 %eng:	yeah, I know,
 *MIG:	+< esa sí es cagada . 722354_723504
@@ -722,18 +727,18 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *MIG:	qué te iba a decir +/? 756694_757930
 %eng:	what was I going to say?
 *TOM:	+< igual tal vez se termina colando por la fiesta . 757687_759707
-%eng:	something like he ended up sneaking into the party (?)
+%eng:	something like he ended up sneaking into the party [?]
 *MIG:	a no a huevo eso al final sí la verdad . 759612_761939
 %eng:	yeah that's what actually happened in the end
 *MIG:	eso es facilísimo te colás y vale verga me entendés . 761899_764122
 %eng:	it's really easy, you sneak in and you don't give a damn what happens, you know..?
 *TOM:	sobre todo porque hacen esa cosa que es de [/] de máscara . 764047_766555
-%eng:	especially cos they do like a masquerade ball (?)
+%eng:	especially cos they do like a masquerade ball [?]
 *MIG:	a &huev &uf sí es muy +/. 766834_768680
 %eng:	definitely, it's really
 *TOM:	+< xxx muchísimo más fácil se le hace (.) . 767990_770481
 %eng:	much easier if one does it
-*TOM:	por fin y qué más ? . 773450_774675
+*TOM:	por fin y qué más ? 773450_774675
 %eng:	in the end and what else?
 *MIG:	nada pues (.) ni turca . 774791_776410
 %eng:	nothing, well,
@@ -823,18 +828,18 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	no but it's him who knows
 *MIG:	él [//] ni él debe entender el maje lo que estamos hablando . 848792_851451
 %eng:	he wouldn't understand what we're talking about
-*TOM:	pero para qué lo quiere ? . 851043_852814
+*TOM:	pero para qué lo quiere ? 851043_852814
 %eng:	but why would he want to?
 *MIG:	no tengo la menor idea (.) . 852785_854845
 %eng:	I haven't got the least idea
 *TOM:	xxx . 858090_859843
 *TOM:	una mier(da) otra cosa . 859820_860847
 %eng:	just some other thing...
-*TOM:	Manrique@s:eng&spa me dijo ? . 860842_862084
+*TOM:	Manrique@s:eng&spa me dijo ? 860842_862084
 %eng:	Manrique told me
-*MIG:	qué te dijo Manrique@s:eng&spa ? . 862078_863407
+*MIG:	qué te dijo Manrique@s:eng&spa ? 862078_863407
 %eng:	what did Manrique tell you?
-*TOM:	de que alguien XXX español para XXX par(a) [/] par(a) [/] para ayudar a dar clases o algo así . 863337_870981
+*TOM:	de que alguien xxx español para xxx par(a) [/] par(a) [/] para ayudar a dar clases o algo así . 863337_870981
 %eng:	about someone Spanish who is going to help give classes or something
 *MIG:	puede ser . 871233_872249
 %eng:	could be
@@ -855,13 +860,13 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *MIG:	xxx qué chismosos somos los latinos . 891467_893905
 %eng:	how gossipy are we Latinos?
 *MIG:	a huevo para probar qué [/] qué tulos que somos . 893853_896912
-%eng:	yeah, to show how (?) we are
+%eng:	yeah, to show how [?] we are
 *TOM:	&=laughs . 894514_894938
 *MIG:	imaginate de cuánta gente no hemos hablado . 896836_899007
 %eng:	think about how many people we've talked about
 *TOM:	+< xxx . 897065_897872
 *MIG:	pero lo que pasa es que <si nos> [/] si nos agarran de verdad cuando cagamos a alguien loco &uf se queman los micrófonos . 899092_904212
-%eng:	but what's happening is that if someone catches us when we pick on someone, the microphones will burn (?)
+%eng:	but what's happening is that if someone catches us when we pick on someone, the microphones will burn [?]
 *TOM:	+< xxx . 903126_903521
 *TOM:	+< ni quiera dios . 903985_905129
 %eng:	not even God wants that
@@ -875,8 +880,8 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	on what happens in a swanky neighbourhood
 *MIG:	+< no . 912873_913883
 %eng:	no...
-*MIG:	a huevo <de lo> &=laughs de lo que pasa en el Reparto_Chip@s:eng&spa . 914925_918280
-%eng:	yeah, what happens in the Reparto Chip (?)
+*MIG:	a huevo <de lo> [=! laughs] de lo que pasa en el Reparto_Chip@s:eng&spa . 914925_918280
+%eng:	yeah, what happens in the Reparto Chip [?]
 *TOM:	&=laughs . 918253_919524
 *MIG:	oye y qué películas hay en el cine ahorita ? 919484_921962
 %eng:	hey, what movies are on at the moment?
@@ -902,7 +907,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	and so...
 *TOM:	qué más hermano ? 942829_943920
 %eng:	what more brother...?
-*MIG:	pues <ni turca> &=laughs ni turca . 944251_947020
+*MIG:	pues <ni turca> [=! laughs] ni turca . 944251_947020
 %eng:	well
 *MIG:	qué te iba a decir y . 947113_948314
 %eng:	that I was going to tell you and...
@@ -929,7 +934,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *MIG:	aló . 965555_965990
 %eng:	hello
 %com:	third person on the phone
-*MIG:	estoy hablando con [/] con DP@s:eng&spa . 968145_970873
+*MIG:	estoy hablando con [/] con D_P@s:eng&spa . 968145_970873
 %eng:	I'm talking to DP
 %com:	third person on the phone responded
 *MIG:	es que estoy ayudando +//. 971516_972300
@@ -988,7 +993,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	aha
 *TOM:	ajá entonces ? 1030720_1031689
 %eng:	and so?
-*MIG:	a pues sí <que te> [//] qué estábamos diciendo ? . 1031626_1034343
+*MIG:	a pues sí <que te> [//] qué estábamos diciendo ? 1031626_1034343
 %eng:	well, what we were saying?
 *MIG:	&aa lo de Fronz@s:eng&spa . 1034233_1035185
 %eng:	about Fronz
@@ -998,7 +1003,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	and where did all that go about Pin?
 *TOM:	cómo ? 1037952_1038637
 %eng:	huh?
-*MIG:	y dónde fue lo de Pin@s:eng&spa ? . 1038597_1040088
+*MIG:	y dónde fue lo de Pin@s:eng&spa ? 1038597_1040088
 %eng:	what happening to talking about Pin?
 *TOM:	lo de Pin@s:eng&spa ? 1040042_1040890
 %eng:	about Pin?
@@ -1012,12 +1017,12 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	it was in Richard Corso's house
 *MIG:	no sé quién es . 1048497_1049896
 %eng:	I don't know who that is...
-*TOM:	&ju ? . 1049895_1050638
+*TOM:	&ju ? 1049895_1050638
 %eng:	huh?
 *MIG:	no sé quién es . 1050603_1051520
 %eng:	I don't know who it is..
 *TOM:	el xxx de la Marla@s:eng&spa . 1051450_1053929
-%eng:	Marla's ex (?)
+%eng:	Marla's ex [?]
 *MIG:	&aa &aa a Xavier@s:eng&spa yo te oí decir Richard@s:eng&spa Corso@s:eng&spa . 1054053_1057002
 %eng:	ahhhh Xavier, I heard Richard Corso
 *MIG:	y yo +". 1056944_1057199
@@ -1054,7 +1059,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *TOM:	para que pongan Calabria@s:eng&spa ? 1081568_1083362
 %eng:	why put on Calabria?
 *MIG:	Calabria@s:eng&spa y el maje &toto &toutou &toto &=laugh . 1083333_1087391
-%eng:	Calabria, the guy and Toto (?)
+%eng:	Calabria, the guy and Toto [?]
 *TOM:	&=laugh . 1087283_1088862
 *MIG:	ves (.) . 1088770_1090720
 %eng:	you see?
@@ -1064,7 +1069,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	ah hah
 *TOM:	cómo ? 1093326_1093623
 %eng:	huh?
-*MIG:	&ah ? . 1095154_1096065
+*MIG:	&ah ? 1095154_1096065
 %eng:	eh?
 *TOM:	qué pasó ? 1096059_1096791
 %eng:	what happened?
@@ -1108,15 +1113,15 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	man now I don't know what to talk about
 *MIG:	no sé qué decir hijo (d)e puta . 1140357_1141483
 %eng:	I don't know what to say man...
-*TOM:	cómo ? . 1141540_1142196
+*TOM:	cómo ? 1141540_1142196
 %eng:	huh?
 *MIG:	no sé ni qué decir . 1142115_1143212
 %eng:	I don't know what to say
 *MIG:	o sea que cuando te están grabando no sabes qué decir . 1143140_1145328
 %eng:	like when they are recording you, you don't know what to say
-*MIG:	y si no nos estuvieran grabando estaríamos hablando tantas mierdas ahorita . 1145282_1148010
+*MIG:	y si no nos estuvieran grabando estaríamos hablando tantas mierdas ahorita . 1145272_1148010
 %eng:	if they weren't recording us, we would be talking so much shit right now
-*TOM:	+< si . 1145171_1145630
+*TOM:	+< si . 1145273_1145630
 %eng:	yeah
 *TOM:	y y oíme . 1147908_1148935
 %eng:	listen to me
@@ -1126,9 +1131,9 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	who knows
 *MIG:	ideay if@s:eng it's@s:eng not@s:eng on@s:eng Facebook@s:eng&spa it's@s:eng not@s:eng official@s:eng así que déjame revisar . 1155016_1158714
 %eng:	if it's not on Facebook, it's not official, so I'm gonna have a look
-*TOM:	sí no@ si yo no tengo ninguno de los dos en Facebook@s:eng&spa . 1158910_1162074
+*TOM:	sí no si yo no tengo ninguno de los dos en Facebook@s:eng&spa . 1158910_1162074
 %eng:	yeah, I haven't got either of them on Facebook
-*MIG:	+< XXX . 1160575_1161458
+*MIG:	+< xxx . 1160575_1161458
 *MIG:	Ryan@s:eng&spa Pimons@s:eng&spa . 1162058_1165530
 %eng:	Ryan Pimons
 *MIG:	ideay el maje está (.) en sí ahí está in@s:eng a@s:eng relationship@s:eng with@s:eng Eva@s:eng&spa Hinojosa@s:eng&spa así que siguen jalando los majes . 1165512_1175549
@@ -1219,15 +1224,15 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	he's nineteen, Armando
 *TOM:	pero parece que tiene diez . 1261222_1263399
 %eng:	yeah but he seems ten
-*MIG:	a huevo [&=laugh] (.) . 1263342_1264729
+*MIG:	<a huevo> [=! laughs] . 1263342_1264729
 %eng:	yeah
-*TOM:	XXX . 1267662_1268828
+*TOM:	xxx . 1267662_1268828
 *MIG:	no pues sí se le nota pues . 1268472_1270487
 %eng:	nah if he notices it then
 *TOM:	si . 1270437_1271227
 %eng:	yeah
 *MIG:	&=cough . 1274761_1275672
-*MIG:	no sé se le nota pues que [/] que [/] que [/] que es tranquilo pues el maje como que +... 1271461_1283247
+*MIG:	no sé se le nota pues que [/] que [/] que [/] que es tranquilo pues el maje como que +... 1275672_1283247
 %eng:	I don't know if he's notices it, he's pretty relaxed....
 *MIG:	de hecho creo que tengo una foto de él <en mi> [//] en [/] en mi profile@s:eng . 1283218_1286532
 %eng:	actually, I think I've got a photo of him on my profile
@@ -1235,8 +1240,8 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	I don't know if you've seen it
 *TOM:	sí yo la vi . 1287125_1287821
 %eng:	yeah, I've seen it
-*TOM:	yo [/] yo la tagueé@s:eng3 . 1287799_1289273
-%eng:	I tagged her (him?)
+*TOM:	yo [/] yo la tagueé@s:eng+spa . 1287799_1289273
+%eng:	I tagged her [him?]
 *MIG:	funny@s:eng funny@s:eng ah sí que sí es cierto . 1289159_1291385
 %eng:	funny funny, yeah that's true...
 *MIG:	vos me contastes que yo le había puesto pocket_person@s:eng&spa . 1291333_1293301
@@ -1307,7 +1312,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	"afterwards I think..."
 *MIG:	+" y me doy cuenta que ala it's@s:eng not@s:eng Miguel@s:eng&spa . 1374665_1377114
 %eng:	"and I realize that thank God it's not Miguel"
-*MIG:	dice el+". 1377096_1377810
+*MIG:	dice el +". 1377096_1377810
 %eng:	he says
 *MIG:	ves me hace una falta horrible [/] horrible [/] horrible . 1377348_1381493
 %eng:	you see that I really need him
@@ -1416,10 +1421,10 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *MIG:	a mí me leen o sea &=cough . 1500300_1501708
 %eng:	they read to me or like
 *MIG:	pero bueno (guev)ón . 1505726_1507003
-%eng:	but yeah (?)
+%eng:	but yeah [?]
 *MIG:	creo que <él esta entre> [//] está entretenido el muy hijo de su madre con [/] con la revista esa . 1509895_1515909
 %eng:	I think that he's entertaining the very son of his mother with that magazine
-*TOM:	+< y qué más ? . 1511038_1511874
+*TOM:	+< y qué más ? 1511038_1511874
 %eng:	and what more?
 *TOM:	estaba ahorita viendo mi [/] mi cuenta del teléfono pues de mi llamada . 1515911_1520044
 %eng:	I was right now looking at my phone bill...
@@ -1441,13 +1446,13 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	I don't know
 *MIG:	hubieras hecho con ella el [/] el este [//] esta [/] esta mierda no ? 1530459_1534370
 %eng:	you could have done this shit with her, no?
-*TOM:	no ella [/] ella habla@ inglés . 1534254_1536733
+*TOM:	no ella [/] ella habla inglés . 1534254_1536733
 %eng:	no, she speaks English
 *MIG:	&ah ? 1536730_1537298
 %eng:	oh?
 *TOM:	ella solo habla inglés . 1537374_1538738
 %eng:	she only speaks English
-*MIG:	&ah pues qué@ cagada . 1538454_1539713
+*MIG:	&ah pues qué cagada . 1538454_1539713
 %eng:	well how annoying
 *TOM:	es latina . 1539460_1540145
 %eng:	she's Latina
@@ -1465,9 +1470,9 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	me too
 *MIG:	&oi tal pues también [/] también no es solo culpa de ella sino que ideay de su mami y su papa xxx . 1553449_1557902
 %eng:	and it's not only her fault, but also her mum and dad's
-*TOM:	si . 1557835_1558294
+*TOM:	si . 1557705_1558294
 %eng:	yeah
-*MIG:	+ <eso te lo tiene que enseñar desde chiquito . 1557714_1559410
+*MIG:	+< eso te lo tiene que enseñar desde chiquito . 1557714_1559410
 %eng:	that's something that one has to teach you when you're young
 *MIG:	o sea son tus raíces loco . 1559351_1560756
 %eng:	like they're your roots
@@ -1505,7 +1510,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *TOM:	se me olvidó responderle a un comentario que me dejó el otro día en Facebook@s:eng&spa . 1591108_1593958
 %eng:	I forgot to reply to a comment that she left me the other day on Facebook
 *MIG:	yaquis no pero no he hablado con ella . 1593964_1597382
-%eng:	(?) but I haven't spoken to her
+%eng:	[?] but I haven't spoken to her
 *MIG:	ni la he visto online@s:eng&spa ni nada . 1597390_1599996
 %eng:	I haven't even seen her online or anything
 *MIG:	like@s:eng últimamente no ha habido nada interesante online@s:eng&spa . 1599966_1604877
@@ -1515,10 +1520,10 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *TOM:	sí (.) se ha calmado todo . 1606125_1609782
 %eng:	yeah, everything's calmed down
 *MIG:	sí el [/] el mundo de la farándula está calladito . 1609673_1612575
-%eng:	yeah the world of drama (?) is all quiet
+%eng:	yeah the world of drama [?] is all quiet
 *MIG:	<como que está> [/] como que está planeando algo grande . 1612546_1616012
 %eng:	like it's planning something big
-*TOM:	&=laugh . 1616097_1616933
+*TOM:	&=laugh . 1616077_1616933
 *MIG:	algún suceso inmenso que viene . 1616080_1618814
 %eng:	some immense success that's coming
 *TOM:	&=laugh . 1618773_1619644
@@ -1570,7 +1575,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	I hope that this guy isn't much longer
 *TOM:	+< no hombre . 1662640_1663917
 %eng:	nah man
-*MIG:	&ahh ? . 1664151_1664929
+*MIG:	&ahh ? 1664151_1664929
 %eng:	eh?
 *TOM:	el te dijo que él iba a volver cuando ya ? 1664933_1667253
 %eng:	did he tell you when he was going to come back?
@@ -1594,7 +1599,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	how stupid, he sat down again
 *TOM:	loco pero ya está . 1686014_1687651
 %eng:	crazy, but there he is...
-*MIG:	&aa ? . 1687570_1688203
+*MIG:	&aa ? 1687570_1688203
 %eng:	eh?
 *TOM:	ya está . 1688180_1688824
 %eng:	there he is
@@ -1619,7 +1624,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *TOM:	&=laugh . 1702172_1703182
 *MIG:	+" me manda a turquear el hijo (d)e puta . 1702730_1704216
 %eng:	"he's driving me nuts the bastard..."
-*TOM:	cómo ? . 1704218_1704856
+*TOM:	cómo ? 1704218_1704856
 %eng:	huh?
 *MIG:	me manda a turquear el hijo (d)e puta . 1705120_1706913
 %eng:	he's driving me insane
@@ -1632,7 +1637,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 *MIG:	y me cago de la risa . 1712253_1714041
 %eng:	and I'm dying of laughter
 *TOM:	+< xxx cuidado me estás dando vuelta . 1712588_1715845
-%eng:	careful, you're giving me change (?)
+%eng:	careful, you're giving me change [?]
 *MIG:	&=laugh . 1714881_1715729
 *MIG:	me cago de la risa . 1715580_1717559
 %eng:	I'm cracking up here....
@@ -1648,7 +1653,7 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	the English have money man
 *TOM:	+< ya me duele la nuca de sostener por teléfono con el hombro . 1723923_1726315
 %eng:	the back of my neck hurts from supporting the phone with my shoulder
-*MIG:	&aaa ? . 1726215_1726848
+*MIG:	&aaa ? 1726215_1726848
 %eng:	eh?
 *TOM:	ya me duele la nuca de sostener el teléfono con el hombro . 1726771_1729592
 %eng:	the back of my neck hurts from holding up the phone with my shoulder
@@ -1660,24 +1665,24 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	vvv
 *MIG:	pelando el lote (.) qué bárbaro es que . 1738108_1740163
 %eng:	peeling the lot, how boring is it...
-*TOM:	una verga sos [&=laugh] . 1740117_1741336
+*TOM:	<una verga sos> [=! laugh] . 1740117_1741336
 %eng:	you're a dick
 *MIG:	de [/] de [/] de viaje pura [/] pura cachifa . 1741220_1743931
 %eng:	a real slave
-*TOM:	pura cachifa [&=laugh] . 1743571_1744401
+*TOM:	pura cachifa [=! laugh] . 1743571_1744401
 %eng:	a real servant
 *MIG:	si . 1744541_1745028
 %eng:	yeah
 *MIG:	sos todo una doméstico . 1745164_1746569
 %eng:	you're a real domestic
 *MIG:	estás lampaseando también seguramente . 1746329_1748570
-%eng:	you're (?) too surely...
+%eng:	you're [?] too surely...
 *TOM:	solo verga sos &=laugh xxx . 1748473_1752839
-%eng:	you're such a dick (?)
+%eng:	you're such a dick [?]
 *MIG:	&=laugh . 1753419_1754342
 *MIG:	qué de viaje . 1754479_1756157
-%eng:	how foreign (?)
-*TOM:	me da risa una amiga que se disfrazó [&=laugh] de [/] de doméstica francesa . 1756107_1762121
+%eng:	how foreign [?]
+*TOM:	<me da risa una amiga que se disfrazó> [=! laugh] de [/] de doméstica francesa . 1756107_1762121
 %eng:	it makes me smile thinking about a friend that disguised herself as a French maid
 *MIG:	&uju . 1761488_1762242
 %eng:	ahhh
@@ -1686,12 +1691,12 @@ TOM:	y me pagan el resto del día entonces no sé +/. 65148_66703
 %eng:	"I am disguised as a French maid, blah blah..."
 *TOM:	todo el mundo no joda esta hija (d)e puta xxx . 1767578_1769865
 %eng:	everyone don't piss off this chick
-*TOM:	[&=laugh] . 1769389_1770602
+*TOM:	&=laugh . 1769389_1770602
 *TOM:	se puso enturcada la maje . 1771316_1773301
-%eng:	she got herself into shit (?)
+%eng:	she got herself into shit [?]
 *TOM:	todo el mundo vulgareándola . 1773073_1774559
 %eng:	everyone insulting her
-*MIG:	me imagino [&=laugh] . 1775714_1776967
+*MIG:	<me imagino> [=! laugh] . 1775714_1776967
 %eng:	I can imagine
 *MIG:	casi choco (gue)vón . 1777322_1778866
 %eng:	I nearly crashed

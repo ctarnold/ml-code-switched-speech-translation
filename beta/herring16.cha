@@ -7,7 +7,7 @@
 @ID:	spa, eng|bangor3|IAN||male|||Adult||
 @Situation:	in the living room at ABE's home.
 @Date:	12-APR-2008
-@Coder:	M. Carmen Parafita Couto, Prifysgol Bangor University.  Translated by Marika Fusser.
+@Coder:	M. Carmen Parafita Couto, Prifysgol Bangor University.    Original translation by Marika Fusser.
 @Time Duration:	00:30:51
 @Media:	herring16, audio
 @Comment:	Filename: herring16.cha; Soundfile: herrring16.wav
@@ -105,7 +105,7 @@
 *IAN:	&=laugh . 236945_238913
 *ABE:	xxx . 238907_240183
 *ABE:	tienes@s:spa que@s:spa poner@s:spa conversación@s:spa tal@s:spa vez@s:spa porque@s:spa hello . 240178_243277
-%eng:	you have to make conversation maybe because - hello.
+%eng:	you have to make conversation maybe because: hello.
 *IAN:	+< &=laugh I think it's supposed to be natural . 242169_244839
 *ABE:	&=laugh ok@s:eng&spa ok@s:eng&spa . 244833_247362
 *IAN:	[- spa] tu invento no quema ni nada de eso no ? 247356_249358
@@ -476,7 +476,7 @@
 %eng:	ok.
 *ABE:	see like [?] how nice would be if you had your brother's arms ? 1148233_1152823
 *IAN:	[- spa] xxx te gustaban los de xxx . 1152814_1155921
-%eng:	[...] you liked [...]'s ones.
+%eng:	[...] you liked the ones of [...].
 *ABE:	ah@s:eng&spa ? 1155904_1156449
 *IAN:	[- spa] porque te gustaban los &=laugh +... 1156420_1158865
 %eng:	why did you like ...?
@@ -501,7 +501,7 @@
 *ABE:	I'll go to the gym by myself . 1191601_1192907
 *IAN:	or we can go to the gym together . 1193074_1194664
 *ABE:	no thank you . 1194635_1195907
-@Comment::	silence . 1195906_1199697
+@Comment:	silence . 1195906_1199697
 *IAN:	[- spa] oyes qué decía xxx antes de que +... 1199673_1204041
 %eng:	have you heard what [...] said before...
 *ABE:	+< [- spa] no . 1199673_1204006
@@ -509,8 +509,8 @@
 *IAN:	[- spa] tenemos que hablar . 1203991_1209200
 %eng:	we need to talk.
 *IAN:	&=laugh . 1209149_1215281
-*ABE:	qué@s:spa hay@s:spa en@s:spa el@s:spa cine@s:spa en@s:spa el@s:spa AmC@s:eng&spa ? 1215258_1218265
-%eng:	what is there in the cinema and the AmC?
+*ABE:	qué@s:spa hay@s:spa en@s:spa el@s:spa cine@s:spa en@s:spa el@s:spa A_M_C@s:eng&spa ? 1215258_1218265
+%eng:	what is there in the cinema and the AMC?
 *IAN:	+< &=laugh . 1215258_1218259
 *IAN:	tienes@s:spa la@s:spa película@s:spa de@s:spa xxx que@s:spa er@s:eng&spa tienen@s:spa ahora@s:spa en@s:spa español@s:spa también@s:spa . 1218211_1223127
 %eng:	you've got the film of [...], that they now have in Spanish as well.
@@ -524,7 +524,7 @@
 @Comment:	silence . 1237479_1245719
 *ABE:	[- spa] por qué no vamos al cine mañana mejor ? 1245707_1247787
 %eng:	why don't we go to the cinema instead tomorrow?
-*IAN:	(des)pués@s:spa quedan@s:spa no@s:spa sé@s:spa xxx o@s:spa Sun_ Set _Plaza@s:eng&spa . 1247764_1250877
+*IAN:	(des)pués@s:spa quedan@s:spa no@s:spa sé@s:spa xxx o@s:spa Sun_Set_Plaza@s:eng&spa . 1247764_1250877
 %eng:	then there is, I don't know, [...] or Sun Set Plaza left.
 *ABE:	xxx . 1250772_1254260
 *IAN:	[- spa] a ver . 1254227_1257283
@@ -534,7 +534,7 @@
 *ABE:	I think Sun_Set@s:eng&spa place would be easier to find parking . 1264570_1268389
 *ABE:	it would be cheaper too . 1268388_1269363
 *IAN:	xxx . 1269363_1271157
-*IAN:	tiene@s:spa Ten_Thousand_BC . 1271147_1273336
+*IAN:	tiene@s:spa Ten_Thousand_B_C . 1271147_1273336
 %eng:	It has ten thousand Bc.
 *IAN:	Twenty_One College_Road_Trip . 1273315_1276067
 *ABE:	+< &=cough . 1275179_1276084
@@ -550,7 +550,7 @@
 *ABE:	what ? 1290836_1291736
 *IAN:	Smart_People . 1291724_1293117
 *ABE:	&=sniff . 1293099_1294771
-*IAN:	that has er@s:eng&spa Sarah_Jessica@_Parker@s:eng&spa the girl from Juno@s:eng&spa . 1294771_1298071
+*IAN:	that has er@s:eng&spa Sarah_Jessica_Parker@s:eng&spa the girl from Juno@s:eng&spa . 1294771_1298071
 *ABE:	that one ? 1298001_1299251
 *IAN:	mmhm@s:eng&spa . 1299239_1300093
 *ABE:	Sarah_Jessica_Parker@s:eng&spa and the girl from Juno@s:eng&spa in what movie ? 1300075_1302331

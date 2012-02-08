@@ -2,16 +2,16 @@
 @UTF8
 @Begin
 @Languages:	spa, eng
-@Participants:	 CAL Caleb Adult, GRA Grace Adult
-@Media:	herring11, audio
+@Participants:	CAL Caleb Adult, GRA Grace Adult
 @ID:	spa, eng|bangor3|CAL||male|||Adult||
 @ID:	spa, eng|bangor3|GRA||female|||Adult||
 @Situation:	brother and sister
 @Date:	26-MAR-2008
-@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University,
+@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University.    Original translation by Adriana Acevedo.
 @Time Duration:	00:31:00
+@Media:	herring11, audio
 @Comment:	Filename: herring11.CHA; Soundfile: herring11.wav
-@Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
+@Comment:	Language markers: @s:eng = English, @s:ita= Italian, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 *GRA:	es &e <en la> [//] en la primera vez que lo tocaron en mil ochocientos seis . 99_6838
 %eng:	it's the first time they played it, in 1810
 *CAL:	uhuh@s:eng&spa . 6936_7818
@@ -44,7 +44,7 @@
 *GRA:	pero Huberman@s:eng&spa Adolf@s:eng&spa Busch@s:eng&spa Szigeti@s:eng&spa Milstein@s:eng&spa Hogan@s:eng&spa Hermann@s:eng&spa y otros y no [//] y no menos &e xxx . 64555_77637
 %eng:	but Huberman, Adolf, Busch, Szigeti, Milstein, Hogan, Hermann, and others, and no less ...
 *GRA:	pero &a de todas maneras es el concierto más difícil de tocar . 78062_83402
-%eng:	but, at any rate, it’s the hardest concerto to play
+%eng:	but, at any rate, it's the hardest concerto to play
 *CAL:	Bueno &e ese &e [/] ese según &se [//] según ese escritor . 83661_88166
 %eng:	well, that's according according to that writer
 *GRA:	+< xxx . 85397_87260
@@ -67,11 +67,11 @@
 *CAL:	y él empezó a crear cosas románticas él . 131601_135914
 %eng:	and he began to create romantic things, he
 *CAL:	por eso se le considera a él el [/] <el más &ro> [//] el primer romántico . 135883_141135
-%eng:	that’s why he’s considered the first romantic
+%eng:	that's why he's considered the first romantic
 *CAL:	porque +/. 141465_142469
 %eng:	because
 *GRA:	+< y [//] y nada de romántico tiene la cara esa de ese hombre . 141563_144704
-%eng:	and there’s nothing romantic about that man’s face
+%eng:	and there's nothing romantic about that man's face
 *CAL:	&=laugh . 144385_145883
 *CAL:	pero y [/] y recuerda que ya a ese momento empezó él empezó a [/] a [/] a estar &e tener problema con el oído . 146771_156294
 %eng:	but remember he had already started having hearing problems by then
@@ -84,9 +84,9 @@
 *GRA:	a se [///] haya [//] ha creado muchas preguntas particularmente &e vistas en contraste con el liricismo . 175969_188626
 %eng:	many questions have been raised, especially seen in contrast with lyricism
 *GRA:	pero &a vamos a ver qué dice el +//. 191762_194775
-%eng:	but let’s see what it says
+%eng:	but let's see what it says
 *GRA:	dónde está el otro ? 194763_195820
-%eng:	where’s the other?
+%eng:	where's the other?
 *CAL:	aquí está aquí está . 195778_197449
 %eng:	here it is, here it is
 *GRA:	o_k . 196811_197438
@@ -98,7 +98,7 @@
 *GRA:	+< para &e decir (.) palabras que [/] que suenan bien . 202150_207913
 %eng:	to say words that sound right
 *GRA:	y no &nes [///] bueno tienen que ser ciertas por [/] <por lo> [/] por lo mayor . 207815_213969
-%eng:	and it’s not, well, they have to be true for the most part
+%eng:	and it's not, well, they have to be true for the most part
 *GRA:	él empezó a trabajar en los primeros años &e towards@s:eng the@s:eng end@s:eng . 214280_219807
 %eng:	he began to work during the first years, towards the end
 *CAL:	+< xxx a tu a . 217607_222669
@@ -110,13 +110,13 @@
 *GRA:	+< no . 227927_228473
 %eng:	no
 *GRA:	aquí dice mil [/] mil sietecientos noventa y dos al noventa al noventa y dos . 228397_234056
-%eng:	it says here 1792, to '92
+%eng:	it says here 1792, to 92
 *CAL:	sí pero eso es en términos generales cuando él empezó . 234023_237315
-%eng:	yes, but that’s generally speaking when he began
+%eng:	yes, but that's generally speaking when he began
 *GRA:	+< yo no sé . 236479_237378
-%eng:	I don’t know
+%eng:	I don't know
 *GRA:	pero eso es lo que dice aquí . 237286_238708
-%eng:	but that’s what it says here
+%eng:	but that's what it says here
 *GRA:	eh pero [/] pero solamente escribió doscientos cincuenta y nueve barras del primero &e (.) movimiento . 238699_249073
 %eng:	but he only wrote two hundred and fifty-nine bars of the first movement
 *GRA:	el concierto en D@s:eng&spa ha sido compuesto como &e quince años . 249653_256451
@@ -145,27 +145,27 @@
 *GRA:	escribió Beethoven@s:eng&spa en sus &a llaman aquí macaronic@s:eng [?] . 308456_315265
 %eng:	wrote Beethoven in what they call here macaronic
 *GRA:	&e forma a la cabeza de la composición . 316465_321532
-%eng:	it’s placed at the head of the composition
+%eng:	it's placed at the head of the composition
 *GRA:	pero no [/] no dicen &a +/. 321526_327557
-%eng:	but they don’t say
+%eng:	but they don't say
 *GRA:	el primer movimiento en particular es remarcable . 325547_332112
 %eng:	the first movement is especially remarkable
 *GRA:	la poca bravura yo [/] yo no sé yo lo creo muy más &remarca &e (.) que no le falta nada . 332090_341351
-%eng:	the lack of bravura, I don’t know, I consider it more remarkable, that it lacks nothing
+%eng:	the lack of bravura, I don't know, I consider it more remarkable, that it lacks nothing
 *CAL:	sí &e &e . 341821_343260
 %eng:	yes
 *GRA:	y que thereby@s:eng matching@s:eng the@s:eng style@s:eng of@s:eng Clement's@s:eng&spa+eng piano@s:eng . 343521_348029
-%eng:	and thereby matching the style of Clement’s piano
+%eng:	and thereby matching the style of Clement's piano
 *GRA:	y tengo que seguir en español . 348194_349796
 %eng:	and I have to continue in Spanish
 *GRA:	lo que pasa es que estoy traduciendo de un [//] una página a la otra . 349775_354691
-%eng:	the thing is that I’m translating from one page to the next
+%eng:	the thing is that I'm translating from one page to the next
 *CAL:	sí bueno &e aún aquí lo [//] aquí dice también &e de [/] de [/] de su principio cuando él &e la primera vez que lo [//] el [/] él recibió mucha crítica . 360626_364620
 %eng:	well, yes, and here it also talks about its beginning when it, the first time, that it received a lot of criticism
 *GRA:	para mí francamente cuando yo lo pongo <lo primer> [//] las primeras cinco notas lo que yo recuerdo <es Be(thoven)> [//] es Mozart@s:eng&spa . 364593_371199
 %eng:	as for me, frankly, when I play it the first five notes I recall is Mozart
 *CAL:	sí porque tenía la influencia de Mozart@s:eng&spa él +/. 371180_376724
-%eng:	yes, because he had Mozart’s influence
+%eng:	yes, because he had Mozart's influence
 *GRA:	+< &e . 374742_376066
 *GRA:	+< en un momento oscuro yo puedo o [/] o [/] o equivocarme si es Mozart@s:eng&spa o [/] o [/] o es Beethoven@s:eng&spa . 376034_382756
 %eng:	in an obscure moment I can mistake Mozart for Beethoven
@@ -202,7 +202,7 @@
 *GRA:	+< y él [/] él tiene él ha venido aquí muchas veces . 442750_445496
 %eng:	he has come here many times
 *GRA:	pero nunca me ha (.) y tiene familia aquí también en Miami@s:eng&spa . 445487_451612
-%eng:	but he’s never, and he has family here in Miami
+%eng:	but he's never, and he has family here in Miami
 *CAL:	[- eng] uhuh . 445663_446081
 *GRA:	pero él nació en . 451682_452756
 %eng:	but he was born in
@@ -231,14 +231,14 @@
 *CAL:	no no para que fuera a la [//] al conservatorio de en Nueva_York . 476887_482414
 %eng:	no, no, to go to the conservatory in New York
 *GRA:	se llama . 482414_483686
-%eng:	it’s called
+%eng:	it's called
 *GRA:	cómo es que se llama eso ? 483657_487140
 %eng:	what is that called?
 *CAL:	aja . 485316_485833
 *GRA:	tiene un nombre especial . 488545_490478
 %eng:	it has a special name
 *CAL:	+< sí &a de ahí es donde han salido la mayoría de los buenos violinistas (.) yeah@s:eng&spa . 490119_495013
-%eng:	yes, that’s where most new violinists have come out of, yeah
+%eng:	yes, that's where most new violinists have come out of, yeah
 *GRA:	&e esos niños &e de la familia Brown@s:eng&spa donde todos cinco hijos están tocando . 493923_498814
 %eng:	these kids from the Brown family, where all five children are playing
 *CAL:	el del piano ? 498753_499664
@@ -253,7 +253,7 @@
 *CAL:	sí mmhm@s:eng . 503637_504537
 %eng:	yes, mmhm
 *CAL:	&e eso [/] esto es fantástico como tocan ellos . 505002_507265
-%eng:	it’s fantastic how they play
+%eng:	it's fantastic how they play
 *GRA:	+< xxx tener cinco personas que tocan tan +... 505657_509570
 %eng:	to have five people playing so ...
 *CAL:	tan bien el piano y . 509645_510899
@@ -277,7 +277,7 @@
 *CAL:	uno tiene +/. 532676_533605
 %eng:	one has
 *GRA:	+< aquí no debe estar . 532676_533605
-%eng:	it probably isn’t here
+%eng:	it probably isn't here
 *CAL:	uno toca el bajo . 533605_535242
 %eng:	one plays the bass
 *CAL:	otro toca la melodía . 535224_537076
@@ -291,7 +291,7 @@
 *GRA:	cuando lo pusieron la primera vez en [/] en [/] en Sesenta_Minutos +/. 549906_555820
 %eng:	when they had him do it for the first time on Sixty Minutes
 *GRA:	el chiquito no [/] no [/] no estaba solamente los [/] los dos muchachos y las dos muchachas . 556146_561585
-%eng:	the little one wasn’t there, only the two boys and the two girls
+%eng:	the little one wasn't there, only the two boys and the two girls
 *CAL:	+< lo . 558881_559839
 %eng:	they
 *CAL:	pero son tres muchachas y dos muchachos . 563371_565722
@@ -303,7 +303,7 @@
 *CAL:	no no bueno no . 572901_574387
 %eng:	OK, no, well, no
 *CAL:	yo no sé . 574992_575735
-%eng:	I don’t know
+%eng:	I don't know
 *CAL:	no +/. 575723_576466
 %eng:	no
 *CAL:	pero [/] pero ahora todos parecen (.) de a +/. 576978_580148
@@ -321,23 +321,23 @@
 *GRA:	ah@s:eng&spa yo tengo que llamar a Lisa@s:eng&spa porque (.) le dije que (.) el piano no es un juguete . 591310_596738
 %eng:	oh, I have to call Lisa because I told here the piano is not a toy
 *CAL:	y qué pasa ? 597339_597961
-%eng:	and what’s the matter?
+%eng:	and what's the matter?
 *CAL:	que no [/] no está xxx . 598001_599388
-%eng:	that he’s not
+%eng:	that he's not
 *GRA:	no está qué ? 600231_601079
-%eng:	he’s not what?
+%eng:	he's not what?
 *GRA:	no está &a aprendiendo ? 601529_602806
-%eng:	he’s not learning?
+%eng:	he's not learning?
 *CAL:	+< el niño [/] el [/] el niño . 601761_603416
 %eng:	the boy, the boy
 *GRA:	<no ha toma(do)> [//] no está tomando clases todavía . 602725_605018
-%eng:	he hasn’t taken any classes yet
+%eng:	he hasn't taken any classes yet
 *GRA:	y &a y no es una cosa para que alquien diga +"/. 606289_608919
-%eng:	and it’s not so someone can say
+%eng:	and it's not so someone can say
 *GRA:	+" ay que lindo y que bueno que le mandan un piano . 608913_611125
-%eng:	oh, that’s lovely and it’s great that he got a piano
+%eng:	oh, that's lovely and it's great that he got a piano
 *GRA:	es una cosa para estudiar . 611104_613739
-%eng:	it’s something to study
+%eng:	it's something to study
 *GRA:	y cuando yo le hablo a Juan_Pablo@s:eng&spa se pone bien serio . 615901_619912
 %eng:	and when I talk to Juan Pablo he gets really serious
 *GRA:	dice que no . 620316_621135
@@ -345,19 +345,19 @@
 *CAL:	+< pero a él sí le gusta esa [/] esa +/. 620606_622597
 %eng:	but he does like it
 *GRA:	+< no entiendes . 621903_622959
-%eng:	you don’t get it
+%eng:	you don't get it
 *GRA:	sí . 622936_623174
 %eng:	yes
 *GRA:	pero él no tiene ninguno <que le> [/] que le diga cómo es que suena cierta nota . 623128_628274
-%eng:	but he doesn’t have anyone to tell him how a certain note sounds
+%eng:	but he doesn't have anyone to tell him how a certain note sounds
 *CAL:	sí sí eso es lo que pasa ahí . 628266_630118
-%eng:	yes, that’s what’s happening there
+%eng:	yes, that's what's happening there
 *GRA:	+< y Lisa@s:eng&spa quedó en buscarle al maestro . 629789_632957
 %eng:	and Lisa is still looking for a teacher for him
 *GRA:	y después que la maestra en el edificio no quería porque ella toca <en la &sin> [/] en la sinfónica . 633348_638032
-%eng:	and since the teacher in the building didn’t want to do it because she plays at the symphony orchestra
+%eng:	and since the teacher in the building didn't want to do it because she plays at the symphony orchestra
 *GRA:	y yo no sé qué . 638262_639133
-%eng:	and I don’t know what else
+%eng:	and I don't know what else
 *CAL:	ella no tiene tiempo para eso . 639121_640694
 %eng:	she has no time for that
 *GRA:	+< ella no tiene tiempo para eso . 640474_641937
@@ -365,33 +365,33 @@
 *GRA:	pero hay maestros en el colegio . 642301_644379
 %eng:	but there are teachers at school
 *GRA:	él está yendo a un colegio adventista . 644322_645964
-%eng:	he’s going to an Adventist school
+%eng:	he's going to an Adventist school
 *CAL:	<está cogie(ndo)> [//] está yendo a un colegio adventista ? 646531_649405
-%eng:	he’s going to an Adventist school?
+%eng:	he's going to an Adventist school?
 *GRA:	costándole el [//] la [//] los ojos de la cara pero . 649858_655070
-%eng:	it’s costing an arm and a leg, but
+%eng:	it's costing an arm and a leg, but
 *CAL:	+< quién lo está pagando ? 655047_655848
-%eng:	who’s paying for it?
+%eng:	who's paying for it?
 *CAL:	la ma(má) la ? 655825_656748
 %eng:	his mum?
 *GRA:	yo no sé . 657438_658257
-%eng:	I don’t know
+%eng:	I don't know
 *CAL:	la mamá del muchacho ? 658239_659313
-%eng:	the boy’s mum?
+%eng:	the boy's mum?
 *GRA:	no sé . 659482_660869
-%eng:	I don’t know
+%eng:	I don't know
 *GRA:	la mamá del muchacho . 660957_662182
-%eng:	the boy’s mum
+%eng:	the boy's mum
 *GRA:	la mamá es [/] es Lisa@s:eng&spa . 662199_663790
 %eng:	the mum is Lisa
 *CAL:	+< del padre . 662710_663842
-%eng:	the father’s
+%eng:	the father's
 *GRA:	no sé . 665079_665531
-%eng:	I don’t know
+%eng:	I don't know
 *CAL:	<la ma(má)> [/] la mamá del padre de él . 665477_667456
-%eng:	his father’s mum
+%eng:	his father's mum
 *GRA:	+< no no sé . 666945_667851
-%eng:	no, I don’t know
+%eng:	no, I don't know
 *GRA:	ella (.) ella trabaja en otro colegio . 667814_669903
 %eng:	she works in another school
 *GRA:	pero el colegio que ella trabaja no es adventista . 669922_672268
@@ -402,23 +402,23 @@
 *GRA:	no él me dijo que le gusta el colegio . 679207_681389
 %eng:	no, he told me he likes the school
 *GRA:	<se está &fas> [//] está fascinado con [/] con el colegio porque nunca antes ha entrado en ese +//. 681356_687440
-%eng:	he’s delighted with the school because he’d never been in that
+%eng:	he's delighted with the school because he'd never been in that
 *CAL:	en esa clase de &co [/] de [/] de colegio . 687419_689567
 %eng:	that type of school
 *GRA:	yo creo que <él fue> [/] él va a &es escuela sabática . 689659_692451
-%eng:	I think he’s going to Saturday school
+%eng:	I think he's going to Saturday school
 *CAL:	+< escuela (.) <no es &cu> [//] no con +//. 690576_692491
 %eng:	school, not with
 *GRA:	no es &i lo mismo que la escuela . 692454_694474
-%eng:	it’s not the same as school
+%eng:	it's not the same as school
 *GRA:	pero en colegio adventista no he estado anteriormente . 694750_698878
-%eng:	but I’ve never been in an Adventist school before
+%eng:	but I've never been in an Adventist school before
 *CAL:	+< escue(la) [/] escuela porque él todavía está muy pequeño para coger al colegio . 698455_702100
-%eng:	school, because he’s still too young to go to school
+%eng:	school, because he's still too young to go to school
 *CAL:	escuela te refieres . 702228_703615
 %eng:	school, you mean
 *GRA:	no lo sé . 704116_705248
-%eng:	I don’t know
+%eng:	I don't know
 *CAL:	escuela tiene que ser una escuela . 705228_707497
 %eng:	school, it must be a school
 *GRA:	escuela escuelita . 707500_710692
@@ -473,26 +473,26 @@
 *GRA:	+" Lisa@s:eng&spa eso debo ser lo último que él oye por la noche . 766016_769255
 %eng:	Lisa, that must be the last thing he hears at night
 *GRA:	no de esas basuras y esas novelas que tú estás oyendo . 769218_775632
-%eng:	not that trash and soap operas you’re listening to
+%eng:	not that trash and soap operas you're listening to
 *CAL:	sí . 775601_775914
 %eng:	yes
 *CAL:	pero tú [/] tú no puedes controlar eso desde aquí . 775925_779182
-%eng:	but you can’t control that from here
+%eng:	but you can't control that from here
 *CAL:	eso lo controla ella allá . 779246_780773
 %eng:	she controls it there
 *GRA:	bueno le [/] lo estoy contro(lando) [//] yo estoy controlando a ella desde aquí . 780867_785789
-%eng:	well, I’m controlling her from here
+%eng:	well, I'm controlling her from here
 *GRA:	ella lo tiene que controlar desde allá . 785766_787809
 %eng:	she has to control from there
 *GRA:	eso le [///] sí que le han sacado plata a esa [//] a esa canción &e Time_to_say_goodbye@s:eng&spa . 790541_794866
 %eng:	they have really made a packet with that song "Time to Say Goodbye"
 *CAL:	[- eng] mmhm . 794839_797509
 *GRA:	yo creo que la tienen en todo disco de toda clase para todo el mundo . 797481_803715
-%eng:	I think it’s on every record of every kind for everybody
+%eng:	I think it's on every record of every kind for everybody
 *GRA:	ese [/] ese Paul@s:eng&spa &e Potts@s:eng&spa y la persona de Inglaterra@s:eng&spa . 804156_812082
 %eng:	that Paul Potts and the English person
 *CAL:	+< yo no lo conozco . 808546_810230
-%eng:	I don’t know him
+%eng:	I don't know him
 *CAL:	él es de Inglaterra@s:eng&spa ? 812000_813353
 %eng:	is he from England
 *GRA:	sí . 813195_813613
@@ -502,7 +502,7 @@
 *GRA:	es algo similar a America@s:eng xxx . 817051_818821
 %eng:	something about America
 *GRA:	es el mismo señor que lo +//. 818804_821019
-%eng:	it’s the same man who
+%eng:	it's the same man who
 *CAL:	America@s:eng que ? 820848_822374
 %eng:	America what?
 *GRA:	Americas_Idol@s:eng&spa . 822282_823872
@@ -512,7 +512,7 @@
 *GRA:	sí . 823855_826746
 %eng:	yes
 *GRA:	pero allá no le llaman ídolo americano . 826765_828732
-%eng:	but they don’t call it "American Idol" there
+%eng:	but they don't call it "American Idol" there
 *GRA:	ellos lo llaman +/. 828531_829553
 %eng:	they call it
 *CAL:	+< sí claro <en cada> [/] en cada lugar ponen un nombre distinto . 829274_832407
@@ -520,17 +520,17 @@
 *CAL:	algo que [/] que resuene más . 832350_833866
 %eng:	something that sounds better
 *GRA:	yo no sé cómo es que lo llaman allá . 834011_835380
-%eng:	I don’t know what they call it there
+%eng:	I don't know what they call it there
 *GRA:	pero es una cosa distinta . 835366_836823
-%eng:	but it’s different
+%eng:	but it's different
 *GRA:	y me parece raro que [/] que ese majadero del hombre ese no ha podido decirle vamos a buscar una canción para ti . 837282_844642
-%eng:	and I think it’s strange that that clown of a man wasn’t able to say, let’s go and find a song for you
+%eng:	and I think it's strange that that clown of a man wasn't able to say, let's go and find a song for you
 *CAL:	para quién ? 844983_846701
 %eng:	for whom?
 *GRA:	para que sea la canción de él . 847230_849656
 %eng:	to be his song
 *GRA:	así sea nueva . 849634_850847
-%eng:	even if it’s new
+%eng:	even if it's new
 *GRA:	o sea vieja . 850818_851868
 %eng:	or old
 *GRA:	pero que sea algo nuevo . 851835_853135
@@ -540,10 +540,10 @@
 *GRA:	+< Potts@s:eng&spa . 855471_856179
 %eng:	Potts
 *GRA:	él está cantando Nessun_Dorma@s:eng&spa en todas partes donde va . 856155_859383
-%eng:	he’s singing "Nessun Dorma" everywhere he goes
+%eng:	he's singing "Nessun Dorma" everywhere he goes
 *GRA:	cantó para la reina de Inglaterra la semana pasada . 859778_863505
 %eng:	he sang for the Queen of England last week
-*CAL:	+< [- eng] mmhm . 0_0
+*CAL:	+< [- eng] mmhm . 861881_863130
 *GRA:	no la semana antepasada o en enero . 865137_868858
 %eng:	no, the week before last, or in January
 *GRA:	y entonces estaba en A_B_C@s:eng&spa la semana pasada . 868663_875402
@@ -558,11 +558,11 @@
 *GRA:	+< ah@s:eng&spa Pavorotti@s:eng&spa . 887357_889261
 %eng:	oh, Pavorotti
 *GRA:	no tenía que coger esa . 889755_891264
-%eng:	he shouldn’t have chosen that one
+%eng:	he shouldn't have chosen that one
 *CAL:	+< sí . 889781_890275
 %eng:	yes
 *GRA:	yo no estoy diciendo que sí tal vez él canta esa más que cualquiera otra . 891083_894815
-%eng:	I’m not saying that, yes, perhaps he should sing that one more than some other one
+%eng:	I'm not saying that, yes, perhaps he should sing that one more than some other one
 *CAL:	[- eng] mmhm . 894829_896971
 *GRA:	+< pero una persona que canta tan bien así muy bien podrían prepararlo con una canción así ya sea +... 895604_903931
 %eng:	but a person who sings so well could be prepared with a song even if it is...
@@ -570,13 +570,13 @@
 %eng:	which orchestra?
 *GRA:	cómo es que se dice ? 904219_906791
 %eng:	how do you say it?
-*GRA:	&e It's_Been_a_Day@eng&spa ? 907035_908410
+*GRA:	&e It's_Been_a_Day@s:eng&spa ? 907035_908410
 *GRA:	esa eh que canta el quin(teto) [///] el cuarteto ese de hombres . 910567_914491
 %eng:	the one sung by that male quintet, quartet
 *CAL:	ah sí sí sí . 914474_916552
 %eng:	oh, yeah
 *GRA:	cualquiera de esa canción no tenía que ser clásica no [//] nada . 916502_920031
-%eng:	that type of song, it doesn’t have to be classical or anything
+%eng:	that type of song, it doesn't have to be classical or anything
 *CAL:	no pero es que [/] es que él +//. 920010_921717
 %eng:	but he's
 *CAL:	por ejemplo Pavarotti@s:eng&spa se hizo famoso con esa canción pues será porque lo hacía tan bien . 921808_927393
@@ -590,17 +590,17 @@
 *GRA:	esa ya tiene su dueño . 939987_941740
 %eng:	that one already belongs to someone
 *GRA:	él no [/] no puede estar cantando esa tantas veces . 941694_944480
-%eng:	he can’t be singing that so often
+%eng:	he can't be singing that so often
 *CAL:	&=laugh sí pero &e bueno ese [/] ese . 944547_948350
 %eng:	yes, but, well, that
 *GRA:	+< yo voy a tener que escribirle una noticia a Paul@s:eng&spa . 946562_949052
-%eng:	I’m going to have to write a memo to Paul
+%eng:	I'm going to have to write a memo to Paul
 *GRA:	entonces tiene creo que Ave_María@s:eng&spa +/. 949016_951176
 %eng:	then he has "Ave Maria", I believe
 *CAL:	+< eso es tu opinión . 949812_951182
-%eng:	that’s your opinion
+%eng:	that's your opinion
 *GRA:	no todo el mundo está diciendo eso que [/] que [/] que no tiene una canción de sí mismo . 951153_955706
-%eng:	not everybody is saying that he doesn’t have a song of his own
+%eng:	not everybody is saying that he doesn't have a song of his own
 *CAL:	una canción que lo identifica a él . 955687_957748
 %eng:	a song that characterizes him
 *CAL:	sí . 957684_957974
@@ -615,21 +615,21 @@
 %eng:	maybe a plastic surgeon who can open his lips more so his teeth can fit in
 *CAL:	+< aja . 970178_970567
 *GRA:	ya yo lo estoy arreglando . 973045_974653
-%eng:	I’m already fixing him up
+%eng:	I'm already fixing him up
 *CAL:	&=laugh . 974566_976081
 *CAL:	<me da> [//] me [/] me causa risa porque de seguro que muchas otras personas ha podido notar eso . 976071_982403
-%eng:	it makes me laugh because I’m sure many other people have noticed it
+%eng:	it makes me laugh because I'm sure many other people have noticed it
 *CAL:	<si &e> [//] si y <con el dine(ro) > [/] con el dinero que ganan pues +/. 982763_988092
 %eng:	yes, and with the money they make, well
 *GRA:	+< sí . 983995_984274
 %eng:	yes
 *GRA:	y [/] y [/] y [/] <y &po> [/] <y &po> [/] y porque no lo pueden hacer entonces ? 984405_987447
-%eng:	and why can’t they do it then?
+%eng:	and why can't they do it then?
 *GRA:	está bien vestido ahora . 987460_989074
-%eng:	he’s well dressed now
+%eng:	he's well dressed now
 *CAL:	[- eng] mmhm mmhm . 988893_990826
 *GRA:	+< eso sí . 989057_990270
-%eng:	that’s true
+%eng:	that's true
 *CAL:	sí porque tiene dinero . 990795_992327
 %eng:	yes, because he has money
 *GRA:	+< y el [/] el pelo está bien cortado . 991846_994337
@@ -642,7 +642,7 @@
 *CAL:	ya lo [/] ya lo +/. 1002180_1003457
 %eng:	it already
 *GRA:	+< yo [/] yo [/] yo le voy a mandar una lista de los que yo quiero . 1002544_1005708
-%eng:	I’m going to send him a list of the ones I want
+%eng:	I'm going to send him a list of the ones I want
 *GRA:	<él &tie> [///] deber tener una [/] una cosa en el +//. 1006705_1010432
 %eng:	he must have something in the
 *GRA:	cómo es que se llama ? 1010414_1011918
@@ -657,10 +657,10 @@
 %eng:	a
 *GRA:	eh &ba [/] blog@s:eng ? 1021390_1023375
 *CAL:	sí &e no un blog@s:eng bueno blog@s:eng es <cuando ellos escriben> [//] para que ellos escriben . 1024787_1030313
-%eng:	yes, well, it’s not a blog, blog is for them to write
-*CAL:	el blog@s:eng es para ellos escribir &e cosas en términos más &e &e . 1031195_1037598
+%eng:	yes, well, it's not a blog, blog is for them to write
+*CAL:	el blog@s:eng es para ellos escribir &e cosas en términos más &e &e . 1031190_1037598
 %eng:	a blog is for them to write things in terms more
-*GRA:	+< por eso . 0_0
+*GRA:	+< por eso . 1031192_1032469
 %eng:	exactly
 *CAL:	es decir de cualquier cosas que quieran escribir . 1037645_1040611
 %eng:	I mean, about anything they want to write
@@ -681,9 +681,9 @@
 *CAL:	bueno sí . 1062694_1063373
 %eng:	well, yes
 *CAL:	yo no sé mucho de eso . 1063246_1064761
-%eng:	I don’t know a lot about that
+%eng:	I don't know a lot about that
 *GRA:	así que yo [/] yo le voy a decir . 1064778_1066653
-%eng:	so I’m not going to tell him
+%eng:	so I'm not going to tell him
 *GRA:	tiene que arreglarse lo dientes . 1066736_1068519
 %eng:	he has to get his teeth fixed
 *CAL:	&=laugh . 1068431_1069668
@@ -692,7 +692,7 @@
 *CAL:	bueno . 1073289_1074537
 %eng:	well
 *GRA:	+< y (.) tiene que encontrar esa canción que solamente sea para él . 1073470_1078991
-%eng:	and he has to find a song that’s only for him
+%eng:	and he has to find a song that's only for him
 *GRA:	y yo creo que esa (.) &e . 1079061_1081958
 %eng:	and I think that that
 *CAL:	+< tú tienes manera de hacerlo ? 1081935_1083642
@@ -702,53 +702,45 @@
 *GRA:	+< sí yo xxx creo que lo &e &em +//. 1085079_1087331
 %eng:	yes, I think I
 *GRA:	mientras no se haga sucio no &e [/] no tengo restricciones . 1087325_1091365
-%eng:	as long as it’s not dirty I have no restrictions
+%eng:	as long as it's not dirty I have no restrictions
 %com:	the speaker says "restrinciones" instead of "restricciones" .
 *CAL:	sí . 1091536_1092221
 %eng:	yes
 *GRA:	ah@s:eng&spa (.) esa canción que [/] que cantan (.) It's_Been a &e It's_Been_a_Day &e it's@s:eng the@s:eng end@s:eng of@s:eng the@s:eng &u the@s:eng&spa . 1092937_1104061
-%eng:	oh, that song they sing. "It’s Been a Day", it’s the end of the
+%eng:	oh, that song they sing. "It's Been a Day", it's the end of the
 *CAL:	sí . 1103966_1104964
 %eng:	yes
 *GRA:	esa es la que yo creo que él debería cantar . 1105921_1108109
-%eng:	that’s the one I think he should sing
+%eng:	that's the one I think he should sing
 *CAL:	bueno recomiéndalo . 1109409_1111029
 %eng:	well, recommend it
 *GRA:	+< hay [/] hay una [/] una que dice (.) it's@s:eng five@s:eng o'clock@s:eng somewhere@s:eng . 1110435_1114741
-%eng:	there’s one that says it’s five o’clock somewhere
+%eng:	there's one that says it's five o'clock somewhere
 *CAL:	+< &a quizás te &escri [/] quizás te [/] te +//. 1111539_1114244
 %eng:	maybe you
 *CAL:	son las cinco de la tarde en [/] en algún eh . 1115533_1117727
-%eng:	it’s five o’clock some, hm
+%eng:	it's five o'clock some, hm
 *GRA:	en alguna parte tiene que ser las cinco de la tarde . 1117720_1119873
-%eng:	somewhere it must be five o’clock
+%eng:	somewhere it must be five o'clock
 *GRA:	<yo no> [/] <yo no> [/] yo no creo eso porque . 1120518_1122230
-%eng:	I don’t believe that, because
+%eng:	I don't believe that, because
 *CAL:	sí sí puede sí . 1122735_1124244
 %eng:	yes, yes, it can happen
 *GRA:	a [/] a [/] a toda hora no puede haber un lugar donde es las cinco de la tarde . 1124213_1127858
-%eng:	it can’t be five o’clock somewhere at any hour of the day
+%eng:	it can't be five o'clock somewhere at any hour of the day
 *CAL:	sí . 1127818_1128334
 %eng:	yes
 *CAL:	mira el [/] el [/] el [/] el [/] el imperio inglés se vanagloriaba de que el sol <no se ponía> [/] no se ponía en [/] en [/] en [/] en todo su imperio . 1129314_1143077
 %eng:	look at the English empire, it boasted that the sun never set on its whole empire
 *GRA:	+< sí eso sí es cierto . 1140371_1142304
-%eng:	yes, that’s true
+%eng:	yes, that's true
 *GRA:	ajá . 1143035_1143447
 %eng:	yes
 *GRA:	el [/] el [//] el sol nunca estaba puesto en todo su imperio . 1143399_1147231
 %eng:	the sun never set in all its empire
-*CAL:	+< porque ellos tenían . 1143399_1147231
+*CAL:	+< porque ellos tenían . 1144002_1145140
 %eng:	because they had
-*CAL:	exacto . 1146598_1147190
-%eng:	exactly
-*CAL:	porque ellos tenían . 1143375_1145477
-%eng:	because they had
-*GRA:	+< sí . 1147250_1150924
-%eng:	yes
-*GRA:	el [/] el [/] el sol estaba puesto en todo su imperio . 1143410_1146614
-%eng:	the sun was set on its whole empire
-*CAL:	exacto . 1146607_1147229
+*CAL:	exacto . 1146226_1147241
 %eng:	exactly
 *CAL:	porque <ellos tenían> [/] ellos tenían eh dominios en tantos lugares a través de todo el [/] el hemisferio . 1147240_1154796
 %eng:	because they had territories in so many places throughout the whole hemisphere
@@ -769,7 +761,7 @@
 *CAL:	hay +//. 1160968_1161490
 %eng:	there are
 *GRA:	+< tú pones cada uno en &cin &e las cinco la hora no son muchos los lugares . 1161471_1165587
-%eng:	you set each one at five o’clock, there aren't many places
+%eng:	you set each one at five o'clock, there aren't many places
 *GRA:	eh@s:eng&spa tú tendrás unos para Israel tiene unas horas distintas creo . 1166546_1171462
 %eng:	you must have one for Israel that has different times, I think
 *GRA:	ah@s:eng&spa Londres tiene una hora distinta . 1171907_1174844
@@ -785,37 +777,37 @@
 *GRA:	Alaska@s:eng&spa tiene otra hora . 1182012_1183962
 %eng:	Alaska has a different time
 *GRA:	pero no creo que hay veinticuatro lugares que tenga . 1184385_1189441
-%eng:	but I don’t think there are twenty-four places with
+%eng:	but I don't think there are twenty-four places with
 *CAL:	sí bueno sí porque [/] porque [/] <porque hay> [/] <porque hay> [/] hay espacio &e digamos <el &o> [/] el océano . 1189329_1194641
-%eng:	well, yes, because there’s space, let’s say the ocean
+%eng:	well, yes, because there's space, let's say the ocean
 *GRA:	+< es que es una canción . 1191446_1193286
-%eng:	but it’s a song
+%eng:	but it's a song
 *CAL:	ahí donde hay lugares donde no [/] no [/] no va a haber &e digamos zona . 1197199_1203985
-%eng:	where there are places where there isn’t say, a zone
+%eng:	where there are places where there isn't say, a zone
 *CAL:	es decir no hay un [/] un lugar específico con una zona de [/] de . 1204234_1209726
-%eng:	I mean, there isn’t a specific place with a zone of
+%eng:	I mean, there isn't a specific place with a zone of
 *CAL:	es decir un [/] un lugar <que esté> [/] que esté en una zona de [/] (.) de [/] de [/] de hora de . 1211905_1219450
 %eng:	I mean, a place that might be in a zone with a time of
 *CAL:	es decir opuesta a Greenwich@s:eng&spa . 1219814_1223007
 %eng:	I mean, opposed to Greenwich
 *GRA:	así que (.) yo no creo que es . 1224162_1226693
-%eng:	so I don’t think it’s
+%eng:	so I don't think it's
 *GRA:	es una canción de [/] de este (.) señor que anda cantando música (.) regular . 1226676_1233352
-%eng:	it’s a song by that man who sings normal music
+%eng:	it's a song by that man who sings normal music
 *GRA:	y dice que en alguna parte tiene que ser las cinco de la tarde . 1233883_1237459
-%eng:	and says somewhere it must be five o’clock
+%eng:	and says somewhere it must be five o'clock
 *GRA:	pero es lo que quiere decir . 1237442_1239805
-%eng:	but that’s what it means
+%eng:	but that's what it means
 *GRA:	que <en alguna parte> [//] en cualquiera parte tiene que ser hora (.) de [/] de tomar . 1239302_1244515
 %eng:	that somewhere, someplace there must be time to drink
 *CAL:	+< <de &te> [/] de tomar . 1243023_1244381
 %eng:	to drink
 *GRA:	eso es lo que quiere decir . 1244416_1245624
-%eng:	that’s what it means
+%eng:	that's what it means
 *CAL:	sí &e sí . 1245543_1246339
 %eng:	yes, yes
 *GRA:	no es el reloj que [/] que dice que es las cinco de la tarde . 1246297_1249048
-%eng:	it’s not the clock that says it’s five o’clock
+%eng:	it's not the clock that says it's five o'clock
 *CAL:	sí &e [/] sí &e tiene otro significado completamen(te) . 1248577_1251479
 %eng:	yes, it has another meaning entirely
 *GRA:	+< este es lo [/] lo que quiero que el sello tenga . 1250428_1252965
@@ -827,7 +819,7 @@
 *CAL:	tú tienes que buscarte un artista que te haga eso . 1259875_1262133
 %eng:	you have to search out an artist who does that for you
 *GRA:	ay yo no puedo encontrar un artista así no más . 1261962_1265143
-%eng:	well, I can’t find an artist just like that
+%eng:	well, I can't find an artist just like that
 *GRA:	entonces cada uno y entonces para sellar &po ponerle el sello a cosas distintas . 1265069_1270937
 %eng:	so each one, and so to put his stamp on distinctive things
 *CAL:	sí &e &e bueno pero también hay letras que ya están hechas más o menos en esta forma . 1270958_1276571
@@ -841,7 +833,7 @@
 *CAL:	hay catálogos que +//. 1278786_1280005
 %eng:	there are catalogues that
 *CAL:	hay ir a buscar sí <yo te> [/] yo te traigo un &catá +/. 1279981_1283250
-%eng:	I’d have to look for it, I’ll bring you it
+%eng:	I'd have to look for it, I'll bring you it
 *GRA:	+< pero la tinta entonces de qué color se +//. 1283127_1287475
 %eng:	but then the ink, what color
 *CAL:	uno +//. 1285085_1285503
@@ -866,11 +858,11 @@
 *CAL:	porque +/. 1308394_1309074
 %eng:	because
 *GRA:	es una cosa natural . 1308557_1309799
-%eng:	it’s a natural thing
+%eng:	it's a natural thing
 *GRA:	no &=laugh . 1309950_1311181
 %eng:	no
 *GRA:	me vas a decir que [/] que [/] que [/] que . 1311412_1313397
-%eng:	you’re going to tell me that
+%eng:	you're going to tell me that
 *CAL:	<tú &pue> [/] tú puedes aguantar hasta que ya no falta si no como unos diez minutos . 1313276_1318024
 %eng:	you can hold it until, yes, no, about ten minutes before
 *GRA:	oh@s:eng&spa . 1317543_1318019
@@ -878,36 +870,36 @@
 %eng:	then they will have to wait until I can do it
 *CAL:	[- eng] mmhm . 1325221_1326266
 *GRA:	eh el Sam@s:eng&spa trató de conseguir al señor que le arreglara la computadora porque él dice que está muy [/] muy lenta . 1326310_1332998
-%eng:	er, Sam tried to get the man to fix his computer because he says it’s very slow
+%eng:	er, Sam tried to get the man to fix his computer because he says it's very slow
 *GRA:	el bendito hombre le dijo +//. 1333979_1335581
 %eng:	the blessed man told him
 *GRA:	y temí que [/] que iba a hacer eso . 1335529_1337723
 %eng:	and I was afraid it was going to do that
 *GRA:	y no creo que es por la distancia . 1338123_1339830
-%eng:	and I don’t think it’s, for the distance
+%eng:	and I don't think it's, for the distance
 *CAL:	+< que qué ? 1338385_1339238
 %eng:	what?
 *GRA:	le dijo que era muy lejos . 1339746_1341441
 %eng:	he told him it was too far
 *GRA:	que no valía la pena . 1341435_1343252
-%eng:	that it wasn’t worth it
+%eng:	that it wasn't worth it
 *GRA:	lo que yo creo (.) es que tal vez no quería +... 1343190_1351028
-%eng:	what I think is that perhaps he didn’t want to
+%eng:	what I think is that perhaps he didn't want to
 *GRA:	Sam@s:eng&spa no le gusta la gente de Iran@s:eng&spa . 1351657_1354111
-%eng:	Sam doesn’t like people from Iran
+%eng:	Sam doesn't like people from Iran
 *CAL:	de [/] de Iran@s:eng&spa ? 1354457_1356065
 %eng:	from Iran?
 *GRA:	[- eng] yeah . 1356126_1356636
 *GRA:	<ninguno de esos> [/] ninguno <de esos> [/] de esos países +/. 1356623_1360168
 %eng:	from any of those countries
 *CAL:	+< mira a Sam@s:eng&spa [/] a Sam@s:eng&spa [/] a Sam@s:eng&spa no le gusta la gente latina tampoco . 1358682_1362775
-%eng:	look, Sam doesn’t like Latino people either
+%eng:	look, Sam doesn't like Latino people either
 *GRA:	no no dice eso a la gente la(tina) +/. 1362801_1364502
-%eng:	no, he doesn’t say that about Latino people
+%eng:	no, he doesn't say that about Latino people
 *CAL:	+< sí cuando [/] cuando él fue +/. 1363846_1365715
 %eng:	yes, when he went
 *GRA:	mentira no no no no no no no . 1364046_1365683
-%eng:	you’re lying, no, no, no, no, no, no, no
+%eng:	you're lying, no, no, no, no, no, no, no
 *CAL:	sí sí . 1365727_1366505
 %eng:	yes, yes
 *CAL:	<cuando él fue conmi(go)> [/] cuando yo fui <con &e> [/] con él a recoger los muebles esos . 1367185_1371891
@@ -926,21 +918,21 @@
 %eng:	and he loves Freddy like his own mother
 *CAL:	[- eng] mmhm . 1384452_1385015
 *GRA:	no es cierto que no los quiere . 1385540_1387102
-%eng:	it’s not true he doesn’t love them
+%eng:	it's not true he doesn't love them
 *CAL:	+< pero . 1385568_1386178
 %eng:	but
 *CAL:	pero él dice que [/] que [/] que son irresponsables que son mentirosos que son esto lo de más . 1388010_1393344
-%eng:	but he says they’re irresponsible, they’re liars, they’re this and that
+%eng:	but he says they're irresponsible, they're liars, they're this and that
 *CAL:	que no cumplen con lo que dicen . 1393101_1395795
-%eng:	that they don’t do what they say
+%eng:	that they don't do what they say
 *GRA:	ah@s:eng&spa eso sí . 1395429_1397925
-%eng:	yeah, that’s true
+%eng:	yeah, that's true
 *CAL:	y [/] y [/] le [/] le han causado tantos problemas . 1397692_1403335
-%eng:	and that they’ve caused him a lot of trouble
+%eng:	and that they've caused him a lot of trouble
 *GRA:	eso sí es cierto . 1404390_1405923
-%eng:	yes, that’s true
+%eng:	yes, that's true
 *GRA:	él [///] yo no más he escuchado una solo dos canciones de este señor . 1405986_1410033
-%eng:	he, I’ve only heard one or two songs by this man
+%eng:	he, I've only heard one or two songs by this man
 *CAL:	sí sí yo &ta . 1411524_1413120
 %eng:	yes, yes, me
 *GRA:	+< y de Scarlatti@s:eng&spa no más hay dos que me gustan &=laugh . 1412168_1414589
@@ -957,7 +949,7 @@
 *GRA:	porque yo compré una específica . 1420639_1423153
 %eng:	because I bought a specific one
 *GRA:	y no tenía lo que yo quería . 1423129_1426043
-%eng:	and it didn’t have what I wanted
+%eng:	and it didn't have what I wanted
 *CAL:	+< pero [/] pero [/] pero . 1423129_1426043
 %eng:	but
 *CAL:	hay [///] son dos hermanos Scarlatti@s:eng&spa . 1426059_1428074
@@ -986,19 +978,19 @@
 *CAL:	sí mmhm@s:eng . 1460638_1461869
 %eng:	yes, mmhm
 *GRA:	+< es [/] es [/] es este Domenico@s:eng&spa . 1461667_1463548
-%eng:	it’s this Domenico
+%eng:	it's this Domenico
 *GRA:	el padre se llamaba Lorenzo@s:eng&spa . 1463651_1466291
 %eng:	his father was called Lorenzo
 *GRA:	no era ? 1466157_1466755
-%eng:	wasn’t he?
+%eng:	wasn't he?
 *CAL:	no . 1466569_1467086
 %eng:	no
 *CAL:	&e no me acuerdo ahora el padre pero . 1468811_1472543
-%eng:	I can’t remember the father now, but
+%eng:	I can't remember the father now, but
 *CAL:	y tenían otro creo que tenía el otro hermano también que era músico . 1474909_1478241
 %eng:	and they had another, I think they had another brother also who was a musician
 *CAL:	pero que no [/] no hizo gran cosa . 1478015_1481097
-%eng:	but he didn’t do a great deal
+%eng:	but he didn't do a great deal
 *GRA:	alguien dijo el otro día +"/. 1484465_1485870
 %eng:	someone told me the other day
 *GRA:	+" el pobre +//. 1486096_1486862
@@ -1021,7 +1013,7 @@
 *CAL:	sí . 1507170_1507548
 %eng:	yes
 *GRA:	no dicen [/] dicen que él está +/. 1507698_1509068
-%eng:	no, they say he’s
+%eng:	no, they say he's
 *CAL:	+< Bach@s:eng&spa [/] Bach@s:eng&spa . 1507698_1509068
 %eng:	Bach
 *GRA:	ves ? 1509045_1509306
@@ -1064,7 +1056,7 @@
 *CAL:	bueno sí todos [/] todos ellos &e copia(ban) . 1558358_1560738
 %eng:	well, yes, they all copied one another
 *CAL:	es decir no [/] no [/] no que robaban pero copiaban digamos . 1560395_1565115
-%eng:	I mean, not that they stole, but they copied, let’s say
+%eng:	I mean, not that they stole, but they copied, let's say
 *CAL:	copiaban algo que ya tenían . 1567309_1569724
 %eng:	they copied something they already had
 *CAL:	y lo combinaban con [/] con algo nuevo . 1569259_1572168
@@ -1076,21 +1068,21 @@
 *GRA:	+< ah@s:eng&spa ya . 1583304_1584105
 %eng:	oh, I see
 *GRA:	cómo se llama ? 1588390_1588937
-%eng:	what’s his name?
+%eng:	what's his name?
 *GRA:	en [/] en Brasil@s:eng&spa hay un hombre que [/] que escribió Bachianas@s:eng&spa brasileñas . 1589176_1595265
-%eng:	in Brazil there’s a man who wrote Bachianas Brasileiras
+%eng:	in Brazil there's a man who wrote Bachianas Brasileiras
 %com:	The Bachianas Brasileiras (1930-45) are a series of nine suites by the Brazilian composer Heitor Villa-Lobos.
 *CAL:	+< sí . 1594720_1595126
 %eng:	yes
 *GRA:	+< y es [/] es a base de [/] de . 1595288_1597709
 %eng:	and it's based on
 *CAL:	+< ese es [/] es guitarrista . 1596766_1598536
-%eng:	he’s a guitarist
+%eng:	he's a guitarist
 *GRA:	cómo se llamaba él ? 1598447_1600009
 %eng:	what was his name?
 *CAL:	&a . 1599808_1600812
 *GRA:	no sé va +//. 1601026_1601828
-%eng:	I don’t know
+%eng:	I don't know
 *CAL:	lo tenían en la [/] en la radio &e +//. 1602011_1603985
 %eng:	he was on the radio
 *CAL:	<yo sé> [/] yo sé cuál es el &e . 1605094_1607508
@@ -1136,27 +1128,27 @@
 *CAL:	él también &=mumble composiciones que eran pura guitarra . 1662301_1665324
 %eng:	he also, compositions only for guitar
 *GRA:	+< hay una tal (.) Gabriela@s:eng&spa que toca <las &canci> [///] la [/] la música de él . 1663519_1669776
-%eng:	there’s a certain Gabriela who plays his music
+%eng:	there's a certain Gabriela who plays his music
 *CAL:	+< y . 1668039_1668765
 %eng:	and
 *CAL:	y también de &e de Joe@s:eng&spa . 1670745_1675575
-%eng:	and also Joe’s
+%eng:	and also Joe's
 *CAL:	&e cómo es que se llama ? 1675261_1676980
-%eng:	what’s her name?
+%eng:	what's her name?
 *CAL:	cómo es el gobernador de [/] de Nueva York cuando el nueve once ? 1677001_1682678
 %eng:	who was the governor of New York back in nine-eleven?
 *GRA:	Giuliani@s:eng&spa . 1682622_1683307
 %eng:	Giuliani
 *CAL:	Giuliani@s:eng&spa hay un compositor Giuliani@s:eng&spa también que escribió muchas &e composiciones de guitarra y violín . 1683379_1690374
-%eng:	Giuliani, there’s also a composer Giuliani who wrote a lot of compositions for guitar and violin
+%eng:	Giuliani, there's also a composer Giuliani who wrote a lot of compositions for guitar and violin
 *CAL:	bonitas [/] bonitas canciones bonitas piezas . 1690043_1696858
 %eng:	nice, nice songs, nice pieces
 *GRA:	yo no sé . 1701541_1702069
-%eng:	I don’t know
+%eng:	I don't know
 *GRA:	yo creo que Juan_Pablo@s:eng&spa debe concentrarse primero en piano . 1702075_1707874
 %eng:	I think Juan Pablo should focus first on the piano
 *GRA:	&por aunque piano uno puede aprenderlo cuando esté mayor también . 1707236_1711717
-%eng:	because even though you can learn the piano also when you’re older
+%eng:	because even though you can learn the piano also when you're older
 *GRA:	pero puesto que ahora todo el que tiene piano va a tener que aprender piano primero . 1711689_1715502
 %eng:	but since now all he has is a piano, he has to learn the piano first
 *CAL:	sí . 1715398_1716066
@@ -1168,11 +1160,11 @@
 *CAL:	lo que tienen que aprender es . 1720518_1721876
 %eng:	what they have to learn is
 *GRA:	+< no no no no violín no es fácil . 1721377_1723676
-%eng:	no, no, no, no, the violin isn’t easy
+%eng:	no, no, no, no, the violin isn't easy
 *GRA:	lo siento mucho . 1723860_1724859
-%eng:	I’m really sorry
+%eng:	I'm really sorry
 *CAL:	&a &a Grace@s:eng&spa &=mumble ellos &=mumble <cómo es> [/] cómo es el programa ? 1724965_1731861
-%eng:	Grace, they, what’s the program?
+%eng:	Grace, they, what's the program?
 *GRA:	+< [- eng] mmhm . 1726900_1728072
 *GRA:	+< <lo que> [/] lo que pasa es que [/] que el violín . 1730602_1732819
 %eng:	the thing is that the violin
@@ -1183,11 +1175,11 @@
 *CAL:	&e Suzuki@s:eng&spa ? 1735787_1736878
 %eng:	Suzuki?
 *GRA:	Suzuki@s:eng&spa pero no es porque &pia el violín es más fácil . 1736866_1739994
-%eng:	Suzuki, but it’s not because the violin is easier
+%eng:	Suzuki, but it's not because the violin is easier
 *GRA:	no es más fácil . 1739618_1741127
-%eng:	it’s not easier
+%eng:	it's not easier
 *CAL:	y <es que> [/] es que tienen que aprender a leer la +//. 1741158_1743451
-%eng:	it’s that they have to learn to read the
+%eng:	it's that they have to learn to read the
 *GRA:	&e (.) &u uno de los [/] los violinistas dice +". 1741425_1744990
 %eng:	one of the violinists says
 *GRA:	+" tú puedes aprender violín [///] piano cualquiera hora de tu vida . 1744921_1749595
@@ -1195,21 +1187,21 @@
 *GRA:	pero violín no . 1749554_1751255
 %eng:	but not violin
 *CAL:	no &e pero lo aprenden de pequeño . 1751376_1754406
-%eng:	no, but they learn when they’re young
+%eng:	no, but they learn when they're young
 *GRA:	+< y el [//] y &e [//] y no . 1752972_1754441
-%eng:	and he doesn’t
+%eng:	and he doesn't
 *GRA:	bueno si aprenden de pequeño bien con alguien (.) que valga la pena . 1754415_1758734
-%eng:	well, if they learn when they’re young with someone worthwile
+%eng:	well, if they learn when they're young with someone worthwile
 *GRA:	pero yo creo que ese maestro que [/] que Stephen@s:eng&spa tenía no +/. 1758695_1761440
-%eng:	but I think the teacher Stephen had wasn’t
+%eng:	but I think the teacher Stephen had wasn't
 *GRA:	él &ba [//] él tocaba tal vez cuatro rancheras y un [/] y un vals . 1761460_1766899
 %eng:	he played maybe four rancheras and a waltz
 *GRA:	y eso no (.) no &se +/. 1766877_1771742
-%eng:	and that’s not, I don’t know
+%eng:	and that's not, I don't know
 *CAL:	+< pero lo prime(ro) [/] lo primero que tiene que aprender es aprender <a leer> [/] a leer la música . 1768294_1773164
 %eng:	but the first thing he has to learn is to read music
 *CAL:	y [/] y se ha probado que la gente <que lee> [//] que [/] que aprende a tocar un [/] un instrumento +//. 1774946_1780941
-%eng:	it’s been proven that the people who learn to play an instrument
+%eng:	it's been proven that the people who learn to play an instrument
 *CAL:	a leer &miu música aprenden a leer +//. 1781222_1784287
 %eng:	to read music, they learn to read
 *CAL:	es decir se le desarrolla el [/] el cerebro más rápido para otras cosas para otras disciplinas en la vida o [/] o en la universidad o en el colegio . 1784705_1804227
@@ -1217,7 +1209,7 @@
 *GRA:	bueno la cosa es que en el lugar donde él vive se coge un milagro para sacar algo bueno de ahí . 1801776_1808595
 %eng:	well, the thing is that you need a miracle to get something good from where he lives
 *CAL:	sí pero el que tiene talento el que tiene talento no +"/. 1809743_1812587
-%eng:	yes, but he has talent, doesn’t he?
+%eng:	yes, but he has talent, doesn't he?
 *GRA:	+< un [/] un [/] un milagro y entonces después algo más . 1810731_1813697
 %eng:	a miracle and then something else as well
 *CAL:	+< el que tiene talento sale . 1813732_1816762
@@ -1227,7 +1219,7 @@
 *CAL:	+" el que [/] el que va a salir . 1822931_1824835
 %eng:	he who is goint to get out
 *GRA:	+< él se murió no ? 1823660_1825001
-%eng:	he died, didn’t he?
+%eng:	he died, didn't he?
 *CAL:	no . 1825465_1825970
 %eng:	no
 *CAL:	por qué ? 1825955_1826983
@@ -1245,11 +1237,11 @@
 *CAL:	cuándo ? 1836528_1837323
 %eng:	when?
 *GRA:	yo no recuerdo . 1838674_1839615
-%eng:	I don’t remember
+%eng:	I don't remember
 *GRA:	fue el año antepasado o pasado que alguien me dijo . 1839650_1842965
 %eng:	it was last year or the year before, someone told me
 *CAL:	oiga eso es noticia para mí . 1842877_1844874
-%eng:	well, that’s news to me
+%eng:	well, that's news to me
 *GRA:	+< sí estaba hinchado y &a (.) los riñones y otra cosa . 1844758_1850668
 %eng:	yes, he was swollen, and his kidneys, and something else
 *CAL:	+< y quién te dijo eso ? 1850514_1851756

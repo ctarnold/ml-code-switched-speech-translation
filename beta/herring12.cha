@@ -2,7 +2,6 @@
 @UTF8
 @Begin
 @Languages:	spa, eng
-@Media:	herring12.wav
 @Participants:	MIG Miguel Adult, TIM Timothy Adult
 @ID:	spa, eng|bangor3|MIG||male|||Adult|
 @ID:	spa, eng|bangor3|TIM||male|||Adult||
@@ -10,13 +9,14 @@
 @Comment:	This is a 2nd recording of MIG although this time he is talking with a different friend. Last time MIG mentioned that he had made an unnatural effort to speak less English than he usually does with his friends. Phone conversation.
 @Date:	31-MAR-2008
 @Coder:	M. Carmen Parafita Couto, Prifysgol Bangor University.  Original translation by Adriana Acevedo.
+@Media:	herring12 audio
 @Time Duration:	00:33:06
 @Comment:	Filename: herring12.cha; Soundfile: herring12.wav
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 *MIG:	cuándo vamos a salir ? 151_1422
 %eng:	when are we going out?
 *TIM:	no sé un día de estos . 1399_2670
-%eng:	I don’t know, one of these days
+%eng:	I don't know, one of these days
 *TIM:	pero xxx este fin de semana . 2688_5857
 %eng:	but … this weekend
 *MIG:	cómo ? 5832_6726
@@ -26,23 +26,23 @@
 *MIG:	por qué ? 9976_10777
 %eng:	why?
 *TIM:	ay bueno porque es el cumpleaños de la Estrella@s:eng&spa en la noche . 10788_14659
-%eng:	well, because it’s Estrella’s birthday tonight
+%eng:	well, because it's Estrella's birthday tonight
 *MIG:	qué Estrella@s:eng&spa ? 14622_15371
 %eng:	Estrella who?
 *TIM:	la prima de Toni@s:eng&spa y lo va a celebrar en xxx . 15347_18354
-%eng:	Toni’s cousin, and she’s celebrating at ...
+%eng:	Toni's cousin, and she's celebrating at ...
 *MIG:	vas a ir . 18348_19103
 %eng:	are you going?
 *TIM:	yo quería ir . 19086_21008
 %eng:	I wanted to go
 *TIM:	pero allá imaginate nos caen todas no jodás no me levanté ni para ir a clases . 21019_25065
-%eng:	but then imagine, they’ll all be there, no way, I didn’t even get up to go to class
+%eng:	but then imagine, they'll all be there, no way, I didn't even get up to go to class
 *MIG:	y xxx [/] y tu mamá sabe eso o no sabe cuándo te toca o no te toca ? 25042_28160
-%eng:	and does your mom know that, or doesn’t she know when you have to go?
+%eng:	and does your mom know that, or doesn't she know when you have to go?
 *TIM:	sí sabe cuando me toca . 28125_30348
 %eng:	yeah, she knows when I have to go
 *MIG:	y <no te dijo> [/] no te dijo nada ? 30279_32305
-%eng:	and she didn’t say anything?
+%eng:	and she didn't say anything?
 *TIM:	na(da) más ella me levantó y yo me desperté . 32299_35344
 %eng:	all she did was wake me up and I woke up
 *MIG:	no . 35306_35718
@@ -50,7 +50,7 @@
 *TIM:	pues me vine y me metí en la cama con ella y me quedé dormido . 35741_39096
 %eng:	and so I came and got into bed with her and fell asleep
 *MIG:	&ps qué estúpido ! 39033_40281
-%eng:	you’re so stupid!
+%eng:	you're so stupid!
 *TIM:	es que me levanté como que iba para clases y me dio boludo y me vine a acostar con ella . 40264_44932
 %eng:	well, I got up and pretended I was going to class and I got lazy and got into bed with her
 *MIG:	no jodas . 44855_46214
@@ -58,11 +58,11 @@
 *TIM:	y nos quedamos dormidos . 46181_50108
 %eng:	and we fell asleep
 *MIG:	no jodas <mi mamá no> [/] mi mamá no me hubiera dejado hacer eso . 50060_52575
-%eng:	no way, my mom wouldn’t have let me do that
+%eng:	no way, my mom wouldn't have let me do that
 *MIG:	me hubiera dicho chavalo jodido andate a clase . 52581_54537
 %eng:	she would have said, go to school, you stupid kid
 *MIG:	no me deja quedarme mi mamá . 54447_58341
-%eng:	my mom doesn’t let me stay in
+%eng:	my mom doesn't let me stay in
 *TIM:	xxx . 58319_60373
 *MIG:	ah@s:eng&spa . 60362_61262
 %eng:	oh
@@ -70,13 +70,13 @@
 %eng:	you can go back to sleep with me
 *MIG:	mmhm@s:eng&spa mmhm@s:eng&spa . 63422_65193
 *MIG:	pues sí pero like@s:eng my@s:eng mom@s:eng no hace eso . 65157_67647
-%eng:	so yeah, but like my mom doesn’t do that
+%eng:	so yeah, but like my mom doesn't do that
 *MIG:	a mí mamá me dice wake@s:eng up@s:eng y andate a la verga . 67640_71391
 %eng:	my mom says, wake up and fuck off
 *MIG:	nada de que te vas a quedar durmiendo conmigo ni aunque te quedes conmigo le digo levántate and@s:eng go@s:eng to@s:eng class@s:eng . 71355_76309
 %eng:	no such thing as staying in bed with me, and even if you stay with me, I'll say, get up and go to class
 *TIM:	sí hombre pero no sé ahorita tengo que ir a la universidad porque me voy a ir a matricular <a unas> [?] clases además tengo que llevar un turcazo de clases ahora . 76342_86181
-%eng:	yeah, man, but I don’t know, right now I have to go to the university because I'm going to register for some classes, plus now I have to take a whole bunch of classes
+%eng:	yeah, man, but I don't know, right now I have to go to the university because I'm going to register for some classes, plus now I have to take a whole bunch of classes
 *MIG:	y cuántas cla(ses) +/. 86134_86760
 %eng:	how many classes?
 *TIM:	+< tres . 86134_86964
@@ -84,17 +84,17 @@
 *MIG:	cuántas clases estabas llevando ? 86940_87980
 %eng:	how many were you taking?
 *TIM:	no pues es que tengo que ponerme a estudiar todo el día maje estoy cagado la verdad es que como +/. 87940_94085
-%eng:	no, well, now I have to study all day, man, I’m screwed, really
+%eng:	no, well, now I have to study all day, man, I'm screwed, really
 *MIG:	+< sí no estás perdiendo el tiempo . 94083_95639
-%eng:	but you’re not wasting time
+%eng:	but you're not wasting time
 *MIG:	pues no jodás xxx después cuando veás pasan los años y vas a estar atrasado atrasado atrasado . 95591_101317
-%eng:	no kidding, … then when you look the years have gone by and you’ll be way behind
+%eng:	no kidding, … then when you look the years have gone by and you'll be way behind
 *TIM:	por eso . 101297_101913
 %eng:	exactly
 *TIM:	entonces me voy a matricular xxx y voy a estudiar como no sé me imagino que casi todo el día . 101891_107032
-%eng:	so I’m going to register … and I'm going to study, I don’t know, I think maybe all day
+%eng:	so I'm going to register … and I'm going to study, I don't know, I think maybe all day
 *TIM:	voy a llegar en la mañana como a las nueve . 107258_109110
-%eng:	I’ll get there in the morning around nine
+%eng:	I'll get there in the morning around nine
 *MIG:	y no vas a trabajar . 109069_110184
 %eng:	and you're not going to work
 *TIM:	venís a almorzar . 110143_112349
@@ -102,7 +102,7 @@
 *MIG:	ah@s:eng&spa . 112349_112923
 %eng:	oh
 *TIM:	+< <creo que no> [/] creo que no . 112540_113887
-%eng:	I don’t think so
+%eng:	I don't think so
 *MIG:	por qué ? 113853_115467
 %eng:	why?
 *TIM:	porque no tengo que trabajar xxx . 115420_117574
@@ -111,14 +111,14 @@
 *MIG:	ah ya no estás <en el> [/] <en el> [/] en el aeropuerto ? 118205_120138
 %eng:	are you no longer at the airport?
 *TIM:	como no pues pero (.) mi mamá dice que [/] que realmente yo no tengo que trabajar . 120135_126016
-%eng:	not really, but mom says I don’t really have to work
+%eng:	not really, but mom says I don't really have to work
 *MIG:	bueno sí idiay si te van a estar dando todo . 126015_128575
-%eng:	well, cool, if they’re going to give you everything
+%eng:	well, cool, if they're going to give you everything
 %com:	idiay is a Nicaraguan interjection.
 *TIM:	sí . 128604_129144
 %eng:	yes
 *MIG:	pero no jodás loc(o) pero o(nce)@s:eng [/] o(nce)@s:eng [/] once@s:eng like@s:eng que [/] que empezás a trabajar es como que aunque de o sea dejás de trabajar y aunque te estén pagando todo bróder es como que no sé te sentís raro porque ya estabas acostumbrado a que te entraran tus reales me entendés . 129128_144006
-%eng:	but no kidding, man, once like you start working it's like, even if you stop working and even if they're paying everything, brother, it’s like, I don't know, don’t you feel weird because you were already used to doing whatever you wanted, you know?
+%eng:	but no kidding, man, once like you start working it's like, even if you stop working and even if they're paying everything, brother, it's like, I don't know, don't you feel weird because you were already used to doing whatever you wanted, you know?
 %com:	"bróder" is commonly used in Nicaraguan Spanish to mean "close friend" .
 *MIG:	y que hacías lo que se te diera la gana . 143873_145672
 %eng:	and doing whatever you felt like
@@ -129,16 +129,16 @@
 *MIG:	(o) sea si . 147622_148648
 %eng:	I mean, yeah
 *TIM:	+< pero bueno vamos a ver . 148340_149600
-%eng:	but we’ll see
+%eng:	but we'll see
 *MIG:	[- eng] yeah . 149545_149847
 *TIM:	de todos modos voy a agarrar un part_time@s:eng&spa para el fin de semana xxx +/. 149841_152610
-%eng:	in any case, I’m going to get a part-time at the weekends ...
+%eng:	in any case, I'm going to get a part-time at the weekends ...
 *MIG:	no huevón un partimecito@s:eng+spa ahí idiay realitos extras ahí no [/] no te estorban para nada . 152591_158459
 %eng:	right dude, a little part-time there, cool, some extra dough there, does you no harm at all
 *TIM:	mmhm@s:eng&spa lo voy a vender ahí a la calle ocho . 158423_161216
-%eng:	mmhm, I’m going to sell it there on Eighth Street
+%eng:	mmhm, I'm going to sell it there on Eighth Street
 *MIG:	qué estúpida que sos ahí [/] ahí es muy barato estúpida . 161214_164378
-%eng:	you’re so stupid, it’s too cheap there, stupid
+%eng:	you're so stupid, it's too cheap there, stupid
 *TIM:	ah es muy barato ? 164313_165352
 %eng:	is it too cheap?
 *MIG:	sí . 165294_166153
@@ -157,39 +157,39 @@
 *TIM:	se llama Marta . 180722_182504
 %eng:	her name is Marta
 *MIG:	qué estúpida ! 182469_183833
-%eng:	you’re so stupid!
+%eng:	you're so stupid!
 *MIG:	venga &=laugh . 183817_185158
 %eng:	come on
 *MIG:	tu madre yo pensé que I@s:eng thought@s:eng you@s:eng were@s:eng being@s:eng serious@s:eng qué estúpida . 185111_188978
-%eng:	you jerk, I thought you were being serious, you’re so stupid
+%eng:	you jerk, I thought you were being serious, you're so stupid
 *TIM:	+< &=laugh . 187853_189032
 *MIG:	[- eng] I'm like . 189020_189908
 *MIG:	yo qué maje de pelo largo verdad bróder todas las majes que trabajan ahí tienen pelo largo . 189890_194219
-%eng:	I’m, which long haired chick, really brother, every chick working there has long hair
+%eng:	I'm, which long haired chick, really brother, every chick working there has long hair
 *MIG:	qué estúpido que soy . 194207_195577
-%eng:	I’m such a moron
+%eng:	I'm such a moron
 *TIM:	se llama se llama Marta@s:eng&spa Martita@s:eng&spa . 195462_197691
 %eng:	her name is Marta, Martita
 *MIG:	qué estúpida Mar(ta)@s:eng&spa [//] la Marta@s:eng&spa . 197666_199657
 %eng:	that Marta is so stupid
 *MIG:	andá aplicá están contratando ahorita . 199621_202634
-%eng:	go on, apply, they’re hiring right now
+%eng:	go on, apply, they're hiring right now
 *TIM:	qué cagada creo que queda lejísimo(s) esa verga . 202580_206081
 %eng:	what crap, I think that shit is too far
 *MIG:	ah . 206098_206847
 %eng:	oh
 *TIM:	me queda super@s:eng&spa lejo(s) . 206791_209565
-%eng:	it’s too far for me
+%eng:	it's too far for me
 *MIG:	bueno eso sí . 209513_210552
-%eng:	well, that’s true
+%eng:	well, that's true
 *MIG:	pero idiay aplic(á) [/] aplicá en un mall@s:eng que te quede cerca . 210503_213698
 %eng:	but OK, apply at a mall closer to your house
 *MIG:	qué mall@s:eng te queda más cerca ? 213680_214917
-%eng:	what’s the closest mall?
+%eng:	what's the closest mall?
 *TIM:	no jodás loc(o) Southland@s:eng&spa mall@s:eng o el Dadeland@s:eng&spa mall@s:eng . 214895_219173
 %eng:	no kidding, man, Southland mall, or Dadeland mall
 *MIG:	idiay ándate al Dadeland@s:eng&spa [/] Dadeland@s:eng&spa no Dadeland@s:eng&spa no tiene Aeros@s:eng&spa . 219136_223048
-%eng:	so go to Dadeland, no, Dadeland doesn’t have Aeros
+%eng:	so go to Dadeland, no, Dadeland doesn't have Aeros
 %com:	aeros is short for aeropostale .
 *MIG:	sí Dadeland@s:eng&spa tiene Aeropostale@s:eng&spa bróder andá aplicá ahí . 223010_226162
 %eng:	yeah, Dadeland has Aeropostale, brother, go and apply there
@@ -206,14 +206,14 @@
 *MIG:	sí sí tiene andá aplicá ahí estúpido . 230019_231859
 %eng:	yeah, it does, go and apply there, stupid
 *TIM:	sí vamos a ver . 231815_234145
-%eng:	yeah, we’ll see
+%eng:	yeah, we'll see
 *TIM:	también tengo ganas de [/] de que me contraten en una tienda de así como que de a cachimba tipo no sé tipo Express@s:eng&spa una verga así . 234106_241297
 %eng:	I also want to get hired at a nice store like, I don't know, Express, some shit like that
 %com:	Express is an American clothing store.
 *MIG:	bueno entonces aplicá ahí pendejo . 241194_242994
 %eng:	well, so, apply there, you idiot
 *MIG:	like@s:eng honestly@s:eng [/] honestly@s:eng yo no te recomiendo Aeros@s:eng&spa . 242960_246931
-%eng:	like, honestly, I don’t recommend Aeros
+%eng:	like, honestly, I don't recommend Aeros
 *TIM:	+< xxx . 242960_246931
 *MIG:	por(que) [/] porque pagan una mierda loco . 246918_250198
 %eng:	because they pay shit, man
@@ -226,7 +226,7 @@
 *TIM:	ya renunciaste idiay . 255170_256731
 %eng:	so you quit, then?
 *MIG:	o sea todavía estoy [/] (es)toy ahí pero ya renuncié like@s:eng el [/] el sábado <es mi> [//] es [//] it's@s:eng my@s:eng last@s:eng day@s:eng . 256673_261584
-%eng:	I mean, I’m still there, but I already quit like, Saturday is my last day
+%eng:	I mean, I'm still there, but I already quit like, Saturday is my last day
 *TIM:	xxx . 261540_263641
 *MIG:	sí . 263612_264279
 %eng:	yeah
@@ -237,56 +237,56 @@
 *MIG:	y <había aplic(ado)> [//] apliqué al [/] al Marriott@s:eng&spa porque este maje de Ryan@s:eng&spa me dijo +". 268223_272999
 %eng:	and I applied to the Marriott because this guy Ryan told me
 *MIG:	+" aplicá que te van a llamar que no sé qué que +... 272997_275203
-%eng:	apply, they’ll call you, so I don't know ...
+%eng:	apply, they'll call you, so I don't know ...
 *MIG:	me dijo te llaman en estos días . 274926_276459
-%eng:	he said, they’ll call you soon
+%eng:	he said, they'll call you soon
 *MIG:	y el maje me ha estado preguntando ya te llamaron ya te llamaron ? 276447_278758
 %eng:	the guy has been asking me, have they called you, have they called you?
 *MIG:	y luego no ni verga no me han llamado nada le digo . 278752_281372
-%eng:	and then fuck all, they haven’t called me at all, I tell him
+%eng:	and then fuck all, they haven't called me at all, I tell him
 *MIG:	(en)tonces lo voy a llamar +... 281372_282893
-%eng:	so I’ll call him
+%eng:	so I'll call him
 *MIG:	en un rato lo voy a llamar para preguntarle que ahorita me recordaste . 282844_286634
-%eng:	in a bit I’ll call and ask him, now that you reminded me
+%eng:	in a bit I'll call and ask him, now that you reminded me
 *MIG:	y apliqué [/] apliqué en Bestbuy@s:eng&spa dicen <que ahí> [/] que ahí es bueno . 286602_290067
-%eng:	and I applied at Bestbuy, they say it’s good there
+%eng:	and I applied at Bestbuy, they say it's good there
 *MIG:	entonces like@s:eng voy [/] voy a aplicar ahí en [/] en varios lugares para [/] para ver qué onda like@s:eng . 290060_295540
-%eng:	so, like, I’m going to apply at various places to see what happens, like
+%eng:	so, like, I'm going to apply at various places to see what happens, like
 *MIG:	por [/] por el momento pues no voy a quedarme sin hacer nada porque esta semana que viene grabamos así que voy a estar trabajando aunque tengo spring@s:eng break@s:eng pues no [/] no voy a clase gracias a Dios . 295516_304646
-%eng:	so for now I’m not going to stay here without doing anything because this coming week we’re taping, so I’m going to be working even though I have spring break so I'm not going to class, thank God
+%eng:	so for now I'm not going to stay here without doing anything because this coming week we're taping, so I'm going to be working even though I have spring break so I'm not going to class, thank God
 *MIG:	entonces lo [//] <me lo voy a aho(rrar)> [//] todo eso me lo voy a ahorrar en gasolina porque ese viaje hasta allá le cuerea . 304632_310130
-%eng:	so I’m going to save all that, I’m going to save all that in gas, because that’s a punishing trip
+%eng:	so I'm going to save all that, I'm going to save all that in gas, because that's a punishing trip
 *MIG:	le . 310119_312430
 %eng:	it
 *TIM:	+< dónde es tu universidad ? 312128_312975
-%eng:	where’s your university?
+%eng:	where's your university?
 *MIG:	ah@s:eng&spa ? 312970_313643
 %eng:	huh?
 *TIM:	dónde es tu universidad ? 313614_314984
-%eng:	where’s your university?
+%eng:	where's your university?
 *MIG:	en Miramar@s:eng&spa casi Fort_Lauderdale@s:eng&spa . 314955_316799
 %eng:	at Miramar, almost Fort Lauderdale
 *TIM:	y por qué vos ? 316764_318453
 %eng:	and why?
 *MIG:	porque ahí queda idiay qué quieres que haga . 318453_320293
-%eng:	because it’s there, OK, what do you want me to do?
+%eng:	because it's there, OK, what do you want me to do?
 *MIG:	ahí la construyeron hermano . 320299_322116
-%eng:	that’s where it was built, brother
+%eng:	that's where it was built, brother
 *TIM:	no había una más cerca ? 322109_323891
-%eng:	wasn’t there a closer one?
+%eng:	wasn't there a closer one?
 *MIG:	no . 323880_324866
 %eng:	no
 *MIG:	está Johnson_and_Wales@s:eng&spa que está en Miami_Beach@s:eng&spa pero +... 324837_327600
-%eng:	there’s Johnson and Wales which is on Miami Beach, but
+%eng:	there's Johnson and Wales which is on Miami Beach, but
 *MIG:	claro es de que yo me precipité loco . 327530_330932
 %eng:	of course, it's because I rushed into it, man
 *MIG:	<me precipité> [/] me precipité yo debería haber esperado más [//] un poquito más para [/] para ver otras cosas y otras universidades pero bueno . 330849_338094
 %eng:	I rushed into it and I should have waited more, a little longer to see other things and other universities but, well
 *MIG:	[- eng] it is what it is . 338065_339099
 *MIG:	ya sólo me quedan tres semanas y ya a la verga loco . 339046_342193
-%eng:	I only have three weeks left and I’m done, man
+%eng:	I only have three weeks left and I'm done, man
 *MIG:	yeah@s:eng three@s:eng more@s:eng weeks@s:eng y ya [/] (.) ya [/] ya termino vos . 342513_347857
-%eng:	yeah, three more weeks and that’s it, I’m finished, you
+%eng:	yeah, three more weeks and that's it, I'm finished, you
 *TIM:	xxx . 347821_349917
 *MIG:	pues sí ya like@s:eng mi graduación es en octubre . 349897_352695
 %eng:	well, yeah, my graduation is like in October
@@ -299,7 +299,7 @@
 *MIG:	<sólo van a ir gente> [//] sólo va gente decente . 357301_359925
 %eng:	only decent people are going
 *TIM:	qué estúpido ! 359774_361225
-%eng:	you’re stupid!
+%eng:	you're stupid!
 *MIG:	&=laugh . 361195_362564
 *TIM:	yo cuando me pongo mi saco me miro bien elegante . 362518_365606
 %eng:	when I wear a jacket I look really elegant
@@ -319,29 +319,29 @@
 *TIM:	con quién ? 381290_382585
 %eng:	with whom?
 *MIG:	con el maje de Ernesto@s:eng&spa ay yo creo que vos no lo conocisteis el maje [/] el maje que era enamorado de Pedro . 382563_388342
-%eng:	with that guy Ernesto, I don’t think you know him, the guy who was dating Pedro
+%eng:	with that guy Ernesto, I don't think you know him, the guy who was dating Pedro
 *MIG:	entonces +/. 388333_390945
 %eng:	so
 *TIM:	+< no no sé quién es . 388333_390945
-%eng:	I don’t know him
+%eng:	I don't know him
 *MIG:	no no lo conociste . 390938_391849
-%eng:	no, you’ve never met him
+%eng:	no, you've never met him
 *MIG:	entonces el maje me llamó like@s:eng iba a ir con Manolo@s:eng&spa . 391838_394746
 %eng:	so the guy called me, like, he was going with Manolo
 *MIG:	pero de repente pues el maje no pudo . 394711_396708
-%eng:	but suddenly then the guy couldn’t
+%eng:	but suddenly then the guy couldn't
 *MIG:	(en)tonces yo me quedé con la +... 396696_397672
 %eng:	so I stayed with
 *MIG:	porque <ya me había> [/] ya me había (en)totorotado hija de la gran puta dije yo . 397654_400963
 %eng:	because I was all excited already, bullshit, I said
 %com:	"entotorotado" means "excited about doing something" .
 *MIG:	<quiero ir> [/] quiero ir but@s:eng like@s:eng I@s:eng don't@s:eng wanna@s:eng go@s:eng by@s:eng myself@s:eng . 400911_403837
-%eng:	I want to go but, like, I don’t want to go by myself
+%eng:	I want to go but, like, I don't want to go by myself
 *TIM:	mmhm@s:eng&spa . 403788_404148
 *MIG:	y entonces el maje de la nada like@s:eng <he@s:eng never@s:eng calls@s:eng me@s:eng> [//] el maje casi nunca me llama like@s:eng de repente por allá chateamos de vez en cuando . 404148_410842
 %eng:	so the guy, out of nowhere, like, he never calls me; the guy hardly ever calls me and all of a sudden we chat once in a while
 *MIG:	pero like@s:eng de la nada el maje me <ha estado> [//] hemos estado hablando pues últimamente . 410814_414158
-%eng:	but, like, out of nowhere the guy, we’ve been talking lately
+%eng:	but, like, out of nowhere the guy, we've been talking lately
 *MIG:	y like@s:eng me llama el sábado . 414135_416051
 %eng:	and like, he calls me on Saturday
 *MIG:	y [/] y el maje what@s:eng are@s:eng you@s:eng doing@s:eng today@s:eng que no sé qué . 416017_420272
@@ -365,13 +365,13 @@
 %eng:	so I went in
 *TIM:	xxx . 446088_447238
 *MIG:	de a verga vos [/] vos nunca has ido a discoteca verdad ? 447255_449641
-%eng:	it was great, you’ve never been to the disco, right?
+%eng:	it was great, you've never been to the disco, right?
 *TIM:	en mi vida . 449602_450794
 %eng:	never
 *MIG:	<deberías de> [/] deberíamos de ir . 450765_452077
 %eng:	you, we should go
 *MIG:	like@s:eng es bonito loc(o) [?] llegan sus culos bróder . 452065_454573
-%eng:	like, it’s nice, man, some nice ass there, brother
+%eng:	like, it's nice, man, some nice ass there, brother
 *MIG:	y lo más de a verga es de que like@s:eng a nosotros nos gustaba ir por [/] por estar viendo los culos y eso . 454482_459741
 %eng:	and the best thing is that, like, we liked to go there to look at ass, and that
 *MIG:	pero [/] pero [/] pero li(ke)@s:eng [/] like@s:eng [/] like@s:eng los sábados por ejemplo pues pero xxx . 459720_463708
@@ -379,23 +379,23 @@
 *MIG:	creo que el [//] la [/] la primera vez que yo fui creo que fue un viernes porque creo que los viernes es noche latina pues <esa vez> [//] ese día habían puesto reggaetón@s:eng+spa . 463684_470811
 %eng:	I think the first time I went, I think it was a Friday, because I think Friday night is Latin night so that night they were playing reggaeton
 *MIG:	pero los sábados sólo ponen así <música elect(rónica)> [//] música música er@s:eng&spa dance@s:eng no sé una música toda rara loco que [/] que o sea bailarla un rato me entendés está de a verga pero es toda la noche que la ponen entonces nosotros nos poníamos de un bate . 470786_486191
-%eng:	but on Saturdays they only play electronic music, dance music, I don't know, some weird music, man, that’s OK to dance to for a while, you know, it's not bad, but they play it all night, so we got bored
+%eng:	but on Saturdays they only play electronic music, dance music, I don't know, some weird music, man, that's OK to dance to for a while, you know, it's not bad, but they play it all night, so we got bored
 *MIG:	entonces abrieron <como un> [/] como un no sé un lounge@s:eng al lad(o) o sea ahí mismo adentro pues . 486102_494490
 %eng:	so they opened something like, I don't know, a lounge on the side, right inside there
 *MIG:	y [/] y ya ponen [/] ponen más música más variada pues de repente hip_hop@s:eng&spa reggaetón@s:eng&spa entonces la están variando entonces es más de a verga . 494447_501707
-%eng:	and now they play more, more diverse music, so all of a sudden hip-hop and reggaeton, so they keep changing it, so it’s better
+%eng:	and now they play more, more diverse music, so all of a sudden hip-hop and reggaeton, so they keep changing it, so it's better
 *TIM:	ya . 501676_502953
 %eng:	yeah
 *MIG:	ves entonces no estás como que con la misma música toda la noche . 502941_506041
-%eng:	see, so then you’re not, like, with the same music all night
+%eng:	see, so then you're not, like, with the same music all night
 *TIM:	y averiguaste qué días abre ? 505996_508486
 %eng:	did you find out when it opens?
 *MIG:	pues sí los [/] <los viernes> [/] los viernes siempre abren lo(co) . 508463_511852
 %eng:	yeah, they're always open on Fridays, man
 *MIG:	pero yo no sé ese día por qué <o te> [/] o te jodieron porque <yo miraba> [/] yo miraba movimiento esa noche ahí loco . 511781_517648
-%eng:	but I don’t know what happened that day because I saw movement there that night, man
+%eng:	but I don't know what happened that day because I saw movement there that night, man
 *TIM:	yo los dos últimos viernes que he ido (.) que fui porque el te acordás el día de mi cumpleaños yo fui pasé y yo pregunté oye está abierto aquí no está cerrado me dicen los majes . 517629_526551
-%eng:	the last two Fridays that I've gone, I went because of my birthday, remember, I went by and asked, hey is it open here, and the guys said no, it’s closed
+%eng:	the last two Fridays that I've gone, I went because of my birthday, remember, I went by and asked, hey is it open here, and the guys said no, it's closed
 *TIM:	imaginate . 526477_526872
 %eng:	imagine
 *MIG:	+< siempre se me olvida conseguir el número . 526767_528572
@@ -404,18 +404,18 @@
 %eng:	I should get the number to ...
 *MIG:	[- eng] it must have a webpage . 530634_532120
 *MIG:	creo [/] creo que tienen una [/] una página de internet verdad para preguntar o sea para [/] para darme cuenta me entendés . 532103_537817
-%eng:	I think they have a webpage, don’t they, to ask, to find out, you know
+%eng:	I think they have a webpage, don't they, to ask, to find out, you know
 *TIM:	mmhm@s:eng&spa . 537964_539375
 *MIG:	porque [/] porque <esa ver(ga)> [/] esa verga loco no [/] <no creo que só(lo)> [/] no creo que sólo abran los domingos loco . 539380_544702
-%eng:	because that shit, man, I don’t think it only opens on Sunday, man
+%eng:	because that shit, man, I don't think it only opens on Sunday, man
 *MIG:	porque [/] porque o sea maje . 544664_547940
 %eng:	because, I mean, man
 *MIG:	<te das> [/] te das cuenta de la cantidad de reales que pierden un viernes si no abren loco . 547911_552333
-%eng:	do you realize the amount of money they’d lose on a Friday if they didn’t open, man
+%eng:	do you realize the amount of money they'd lose on a Friday if they didn't open, man
 *TIM:	xxx yo me imagino que estarán construyendo siempre . 552303_555891
-%eng:	I would think they’re always building
+%eng:	I would think they're always building
 *MIG:	no pero qué van a estar construyendo si siempre está la misma mierda . 555837_559314
-%eng:	but what are they going to build if it’s always the same shit
+%eng:	but what are they going to build if it's always the same shit
 *TIM:	xxx . 559299_559943
 *MIG:	si si estuvieran construyendo cerrarían el sábado también o [/] o pues lo cerrarían así temporalmente . 559934_565048
 %eng:	if they were building they would also close on Saturday, or they would close temporarily
@@ -429,19 +429,19 @@
 *TIM:	oh@s:eng&spa . 572334_573942
 %eng:	oh
 *MIG:	menos mal que llevé o sea yo [/] yo llevaba como veinte dólares cash@s:eng y yo dije seis dólares de parqueo dije yo diez la entrada y pues <el vuelto> [/] el vuelto no sé tal vez me compro algo de tomar . 573959_582993
-%eng:	I’m glad I had, like, twenty dollars cash, and I thought, six dollars for parking, I thought, ten to go in, and then the rest, I don't know, maybe I’d buy something to drink
+%eng:	I'm glad I had, like, twenty dollars cash, and I thought, six dollars for parking, I thought, ten to go in, and then the rest, I don't know, maybe I'd buy something to drink
 *MIG:	completitos loco . 582992_584769
 %eng:	the whole thing, man
 *MIG:	a la yo me quedé como que a la gran puta si no hubiera traído . 584772_587866
-%eng:	I would really have been up shit creek if I hadn’t had anything
+%eng:	I would really have been up shit creek if I hadn't had anything
 *MIG:	y lo que más me enturca es que no agarran tarjetas loco . 587848_590797
-%eng:	what pisses me off is that they don’t take credit cards, man
+%eng:	what pisses me off is that they don't take credit cards, man
 *MIG:	like@s:eng o sea estamos en [/] en Florida@s:eng&spa loco . 590797_594889
-%eng:	like, I mean, we’re in Florida, man
+%eng:	like, I mean, we're in Florida, man
 *MIG:	estamos en Miami@s:eng&spa loco . 594865_595938
-%eng:	we’re in Miami, man
+%eng:	we're in Miami, man
 *MIG:	y no aceptan tarjeta bro(der) . 595925_597266
-%eng:	and they don’t take cards, brother
+%eng:	and they don't take cards, brother
 *MIG:	y ahí en Nicaragua@s:eng&spa en todo en en Hipa@s:eng&spa bróder aceptan tarjeta loco . 597243_600815
 %eng:	and there in Nicaragua, everywhere in Hipa, brother, they take cards, man
 %com:	Hipa is a disco bar in Managua.
@@ -454,7 +454,7 @@
 *TIM:	aquí en ninguna discoteca te lo agarran es <para que> [/] para que hacer negocio con la mierda del A_T_M@s:eng . 606887_613952
 %eng:	here no disco takes them, so they can make a profit with the fucking ATM
 *MIG:	ah huevo es cierto pero igual el [/] el [/] el [//] en discoteca el A_T_M@s:eng está [/] <está en los ba(ños)> [//] está por los baños loco está dentro . 613918_620756
-%eng:	ah, that’s exactly right, but still at the disco the ATM is by the toilets, man, it's inside
+%eng:	ah, that's exactly right, but still at the disco the ATM is by the toilets, man, it's inside
 *TIM:	pero te cobra un turcazo de reales . 620698_622875
 %eng:	but it costs you an arm and a leg
 *MIG:	loco la otra vez (o) sea una de las primeras veces que fui +... 622867_626797
@@ -462,15 +462,15 @@
 *MIG:	la [//] ok@s:eng&spa la segunda vez que fui yo estaba seguro que la primera vez me habían cobrado con tarjeta . 626726_631919
 %eng:	OK, the second time I was there, I was sure the first time I had paid with a card
 *MIG:	entonces yo me voy confiado loco y voy a pagar con mi tarjeta . 631915_635288
-%eng:	so I was all sure of it, man, and I’m going to pay with my card
+%eng:	so I was all sure of it, man, and I'm going to pay with my card
 *MIG:	y el maje no que no aceptamos tarjeta . 635254_637507
-%eng:	and the guy , no, we don’t take cards
+%eng:	and the guy , no, we don't take cards
 *MIG:	y yo a la gran puta what@s:eng do@s:eng I@s:eng do@s:eng le digo . 637462_639621
 %eng:	and I told him, shit, what do I do now
 *MIG:	(en)tonces tenemos un A_T_M@s:eng ahí adentro me dice el maje . 639579_642330
 %eng:	so the guy tells me, we have an ATM in there
 *MIG:	y yo bueno ok@s:eng&spa pues me voy a ir pues lo(co) voy a ir al A_T_M@s:eng . 642265_645080
-%eng:	and I , OK, so I’ll go, man, I'll go to the ATM"
+%eng:	and I , OK, so I'll go, man, I'll go to the ATM"
 *MIG:	(en)tonces el maje se quedó con mi I_D@s:eng y eso pues para +... 645068_647954
 %eng:	then the guy kept my ID, so that
 *MIG:	[- eng] <I had to come back> [/] I had to come back . 647913_649695
@@ -479,7 +479,7 @@
 *MIG:	yo fresco pues yo sabía que cobraban pues . 653058_654957
 %eng:	I was cool, because I already knew they charged
 *MIG:	pero [/] pero yo dije pues ni modo idiay ya estoy aquí que le voy a hacer . 654936_657757
-%eng:	but I thought, well, what the heck, I’m already here, what am I going to do
+%eng:	but I thought, well, what the heck, I'm already here, what am I going to do
 *MIG:	(en)tonces fui saqué el dinero pagué entré de a verga . 657717_661031
 %eng:	so I went and took out the money and paid and damn well went in
 *MIG:	ya cuando me llega mi estado de cuenta loco o sea . 661024_664333
@@ -489,13 +489,13 @@
 *MIG:	y me cobraron como diez dólares por sacarlo loc(o) [?] . 666824_669314
 %eng:	and they charged me, like, ten dollars for taking it out, man
 *MIG:	(o) sea es [/] es una estafa loco . 669307_671948
-%eng:	I mean, it’s a scam, man
+%eng:	I mean, it's a scam, man
 *TIM:	pero es que ahí te dice el A_T_M@s:eng te dice cuánto te cobra . 671913_675245
 %eng:	but it says there at the ATM, it tells you how much it charges
 *MIG:	en serio (c)laro <es que yo no> [//] la verdad es que yo en esas cosas no me fijo lo(co) . 675248_679242
 %eng:	sure, I know, but the fact is I never pay attention to those things, man
 *MIG:	yo soy bien +/. 679225_680456
-%eng:	I’m so
+%eng:	I'm so
 *TIM:	+< es que ahí dice esta mierda te cobra un fee@s:eng xxx . 680459_682943
 %eng:	it says there this shit charges a fee
 *MIG:	+< <acordate que l(as)> [/] acordate que las rubias somos tontas estúpid(o) . 682935_686176
@@ -505,26 +505,26 @@
 *MIG:	+< sí eh@s:eng&spa . 688153_689918
 %eng:	yeah, huh
 *MIG:	<yo no> [//] yo además que yo no leo a mí me leen . 689899_693185
-%eng:	plus I don’t read, I get read to
+%eng:	plus I don't read, I get read to
 *TIM:	a mí me leen . 693182_695742
 %eng:	I get read to
 *TIM:	qué idiota . 695720_696835
-%eng:	you’re an idiot
+%eng:	you're an idiot
 *MIG:	+< ves ? 695894_696428
 %eng:	see?
 *MIG:	no es que es [/] es [/] es cierto . 696817_698251
-%eng:	no, but it’s true
+%eng:	no, but it's true
 *MIG:	o sea una persona como yo lo(co) +... 698230_699583
 %eng:	I mean, a person like me, man ...
 *MIG:	yo [/] yo no aprendí a leer . 699554_701069
-%eng:	I didn’t learn to read
+%eng:	I didn't learn to read
 *MIG:	<a mí> [/] a mí me leen las cosas . 701051_702717
 %eng:	read things to me
 *MIG:	oye mira vamos . 702679_705268
-%eng:	hey, look, let’s go
+%eng:	hey, look, let's go
 *TIM:	xxx . 702679_705252
 *MIG:	vamos a ir a la feria un día de estos . 705234_706673
-%eng:	we’re going to the fair one of these days
+%eng:	we're going to the fair one of these days
 *MIG:	querés ir ? 706685_707143
 %eng:	do you want to go?
 *TIM:	a la qué ? 707139_708097
@@ -540,17 +540,17 @@
 %com:	FIU stands for Florida International University
 *MIG:	[- eng] the fair . 712870_714583
 *TIM:	cómo [?] yo nunca he ido a esa mierda vos sabés . 714583_717740
-%eng:	what, I’ve never been to that shit, you know that
+%eng:	what, I've never been to that shit, you know that
 *MIG:	qué estúpido que sos . 717733_719225
-%eng:	you’re so stupid
+%eng:	you're so stupid
 *TIM:	pero ésta es la feria nicaragüense <o la> [/] o la feria xxx . 719225_722890
 %eng:	but this is the Nicaraguan fair, or the fair ...
 *MIG:	+< qué estúpido ésa es Exponica@s:eng&spa estúpido . 720986_723209
-%eng:	you’re stupid, that’s Exponica, stupid
+%eng:	you're stupid, that's Exponica, stupid
 %com:	Exponica is a Nicaraguan exposition fair.
 *TIM:	[- eng] oh yeah yeah yeah . 723189_724240
 *MIG:	y eso es como en septiembre noviembre por ahí . 724228_726968
-%eng:	and that’s, like, around September or November
+%eng:	and that's, like, around September or November
 *TIM:	la feria es <la de los> [/] <la de los> [/] la de los juegos . 726951_729557
 %eng:	the fair with the rides
 *MIG:	sí la feria es la &co el [/] el pleylampar loc(o) como decimos nosotros los nicas el pleylampar . 729540_735173
@@ -560,11 +560,11 @@
 *MIG:	el pleylampar sí . 736150_737271
 %eng:	yeah, the funfair
 *TIM:	vos sabés que nunca he ido siempre que viene esa mierda ay xxx tu huevo . 737265_742041
-%eng:	you know I’ve never been there whenever that shit’s here … you dick
+%eng:	you know I've never been there whenever that shit's here … you dick
 *MIG:	+< yo siempre voy . 741803_742552
 %eng:	I always go
 *MIG:	siempre que estoy aquí yo voy . 742523_743626
-%eng:	whenever I’m here, I go
+%eng:	whenever I'm here, I go
 *MIG:	<pues el año pues y como> [?] +... 743631_744923
 %eng:	so the year, so, like
 *TIM:	ah ya . 744880_745536
@@ -579,33 +579,33 @@
 %eng:	what?
 *TIM:	+< xxx . 750984_751565
 *MIG:	qué estúpido . 751536_752592
-%eng:	you’re a moron
+%eng:	you're a moron
 *TIM:	ay me destripé un ovario . 752598_755708
 %eng:	ouch, I crushed an ovary
 *MIG:	no y entonces decía . 755685_756689
 %eng:	so then, I was saying
 *MIG:	no (.) siempre voy . 756689_757560
-%eng:	I don’t always go
+%eng:	I don't always go
 *MIG:	y el año pasado fui . 757521_758943
 %eng:	and last year I went
 *MIG:	vos sabés que (.) me enturca que pagué (.) el brazalete . 758938_762252
 %eng:	you know it pisses me off that I paid for the bracelet
 *MIG:	que creo que no me acuerdo cuánto valía . 762222_764015
-%eng:	I don’t think I remember how much it was
+%eng:	I don't think I remember how much it was
 *MIG:	el brazalete es para que lo andés y te montés en [/] en [/] en o sea te montás en todo pues . 763998_768143
 %eng:	the bracelet is so that you can go around and ride on, I mean, ride on anything you want, so
 *MIG:	en vez de andar comprando like@s:eng los [/] los tickets@s:eng&spa y eso porque hay gente pues que hace la fila para estar comprando tickets@s:eng&spa y tickets@s:eng&spa . 768098_773871
 %eng:	instead of going around buying, like, tickets and that, because there are people, well, queueing to buy ticket after ticket
 *MIG:	(en)tonces yo dije idiay compremos el brazalete y vale turca . 773884_776426
-%eng:	so I said, hell, let’s buy the bracelet, and it'll be worth it
+%eng:	so I said, hell, let's buy the bracelet, and it'll be worth it
 *MIG:	y para nada lo compré sólo me monté como en dos o tres cosas . 776416_779145
 %eng:	and for nothing, I bought, I only rode on one or two things
 *MIG:	porque yo like@s:eng (.) I@s:eng don't@s:eng ride@s:eng those@s:eng things@s:eng me entendés . 779116_782249
-%eng:	because I, like, I don’t ride those things, you know?
+%eng:	because I, like, I don't ride those things, you know?
 *MIG:	y yo nunca me monto en esas mierdas . 782238_783480
 %eng:	and I never ride that shit
 *MIG:	y [/] y yo no sé ni para qué lo compré . 783474_785674
-%eng:	and I don’t even know why I bought it
+%eng:	and I don't even know why I bought it
 *MIG:	pero yo [/] yo sólo me monto como en uno o dos loc(o) siempre me mareo . 785661_789115
 %eng:	but I only ride, like, one or two, man, I always get dizzy
 *TIM:	xxx . 789061_791151
@@ -614,11 +614,11 @@
 *MIG:	me [/] me monté como en dos y andaba con un dolor de cabeza horrible . 793387_796620
 %eng:	I rode, like, two and I was going about with a terrible headache
 *TIM:	ay qué estúpida . 796603_797804
-%eng:	you’re daft
+%eng:	you're daft
 *MIG:	ya es que ya lo sabés pues . 797787_800855
 %eng:	but you already know that, surely
 *MIG:	es que como yo tengo aire en el cerebro . 800827_802661
-%eng:	it’s because my brain is full of air
+%eng:	it's because my brain is full of air
 *TIM:	+< xxx . 801495_803666
 *TIM:	ah@s:eng&spa ? 803645_803999
 %eng:	huh?
@@ -627,7 +627,7 @@
 *TIM:	aire en el cerebro ? 805752_807145
 %eng:	your brain is full of air?
 *MIG:	sí l(oco) o sea en [/] en la cabeza perdón porque no tengo cerebro yo tengo aire . 807128_810890
-%eng:	yeah, man, I mean my head, sorry, because I have no brain, I have air 
+%eng:	yeah, man, I mean my head, sorry, because I have no brain, I have air
 *TIM:	te golpea el maní . 810903_812342
 %eng:	the peanut is rattling around in your head
 *MIG:	me golpea de viaje . 812325_814171
@@ -651,12 +651,12 @@
 *MIG:	ya salió el primer hombre embarazado . 828553_830434
 %eng:	a man has got pregnant for the first time
 *TIM:	no entiendo . 830438_832586
-%eng:	I don’t get it
+%eng:	I don't get it
 *MIG:	un hombre embarazado . 832556_834251
 %eng:	a pregnant man
 *MIG:	[- eng] pregnant . 834233_835255
 *TIM:	no sé yo no sé (.) cómo es eso . 835248_838621
-%eng:	I don’t know what you mean
+%eng:	I don't know what you mean
 *MIG:	o sea mira un embarazo es cuando alguien tiene un bebé adentro . 838582_842553
 %eng:	I mean, look, a pregnancy is when someone has a baby inside
 *TIM:	oh@s:eng yeah@s:eng oh@s:eng yeah@s:eng oh@s:eng yeah@s:eng pero cómo un hombre ? 842530_845038
@@ -672,7 +672,7 @@
 *TIM:	<le metieron un> [/] le [/] le metieron un útero y toda la verga ? 858454_861832
 %eng:	did they put a uterus in him and all that crap?
 *MIG:	&=laugh no mira pues (.) es como que (.) era mujer y se operó . 861825_868537
-%eng:	no, so look, it’s like, he was a woman and had surgery
+%eng:	no, so look, it's like, he was a woman and had surgery
 *TIM:	ah ya sé . 868513_869749
 %eng:	oh, I get it
 *MIG:	entonces se pero se pues se [/] se quitó el bicho y se puso una turca . 869645_873928
@@ -688,7 +688,7 @@
 %eng:	gross
 %com:	indicates disgust.
 *TIM:	no lo sé . 883885_884407
-%eng:	I don’t know
+%eng:	I don't know
 *TIM:	pero <ya lo vi> [/] <ya lo vi yo> [//] ya lo vi cómo lo hacen . 884383_886461
 %eng:	but I saw how they do it
 *MIG:	vos ya viste cómo ay no y dónde lo viste ? 886479_888949
@@ -702,13 +702,13 @@
 *TIM:	lo es que miré la formación ma(j)e cuando [/] cuando se viene formando el [/] el feto y no sé qué . 894328_900298
 %eng:	what I saw was the development, man, when the fetus is developing and so on
 *TIM:	al comienzo todos somos niñas . 900384_902596
-%eng:	at the beginning we’re all girls
+%eng:	at the beginning we're all girls
 *MIG:	cómo ? 902536_903105
 %eng:	what?
 *TIM:	al comienzo todos somos niña . 903093_905676
 %eng:	at the beginning everyone is a girl
 *MIG:	+< (es)perate (es)perate (es)perate que va pasando un avión y no te oigo . 905651_912684
-%eng:	wait, wait, wait, a plane is passing by and I can’t hear you
+%eng:	wait, wait, wait, a plane is passing by and I can't hear you
 *MIG:	puta loco ese avión te lo juro que me [/] me pasó rozando la jeta . 912671_915986
 %eng:	shit, man, that plane, I swear it brushed past my head
 %com:	"jeta" is "mouth", and by extension also "head" .
@@ -718,7 +718,7 @@
 *TIM:	se te va a llevar tu apartamentito hom(bre) [?]. 919293_921209
 %eng:	it's going to take your little apartment with it, man
 *MIG:	por Dios se me va a llevar el cuchitril loco . 921188_923353
-%eng:	I swear it’s going to take my hovel with it, man
+%eng:	I swear it's going to take my hovel with it, man
 %com:	"cuchitril" is a despective way to refer to a place of abode.
 *TIM:	xxx oíme la verga es que al comienzo todos son como niñas . 923300_927608
 %eng:	listen, the thing is that at the beginning everyone is, like, girls
@@ -727,11 +727,11 @@
 %eng:	the thing we have there is identical for boys and girls
 *MIG:	mmhm@s:eng&spa . 931386_931827
 *TIM:	pero um@s:eng&spa la [/] la cabeza del hombre es el clítoris de la mujer me entendés ? 931815_937204
-%eng:	but the man’s head is the woman’s clitoris, you understand?
+%eng:	but the man's head is the woman's clitoris, you understand?
 *MIG:	ya . 937166_937753
 %eng:	yeah
 *TIM:	los labios de la mujer (.) son los huevitos del hombre . 937741_941230
-%eng:	the woman’s labia are the man’s balls
+%eng:	the woman's labia are the man's balls
 *MIG:	los huevitos ? 941195_942106
 %eng:	balls?
 *TIM:	sí los huevitos . 942083_943877
@@ -741,7 +741,7 @@
 *TIM:	[- eng] aha . 944946_945718
 *MIG:	mmhm@s:eng&spa . 945706_946827
 *TIM:	más o menos se parecen se parecen en puta maje cómo se viene formando . 946800_950794
-%eng:	they more or less look alike when they’re developing
+%eng:	they more or less look alike when they're developing
 *MIG:	mmhm@s:eng&spa . 950752_951849
 *TIM:	y . 951608_951986
 %eng:	and
@@ -752,17 +752,17 @@
 %com:	Nip_Tuck is a TV series in the USA.
 *MIG:	mmhm@s:eng&spa . 959943_960813
 *MIG:	eso es una eso Nip_Tuck@s:eng&spa no es una película estúpido es una serie . 960798_963956
-%eng:	that's a, that Nip Tuck is not a movie, stupid, it’s a series
+%eng:	that's a, that Nip Tuck is not a movie, stupid, it's a series
 *TIM:	una serie pues . 963857_965801
 %eng:	a series, then
 *TIM:	entonces pues sí eso fue lo que miré . 965789_970776
-%eng:	so then yeah, that’s what I saw
+%eng:	so then yeah, that's what I saw
 *TIM:	pero qué de a verga maje yo quisiera quedar embarazad(o) . 970764_974265
-%eng:	but that’s cool, man, I’d like to get pregnant
+%eng:	but that's cool, man, I'd like to get pregnant
 *MIG:	que qué ? 974265_974753
 %eng:	what?
 *TIM:	yo quisiera quedar embarazado . 974711_977747
-%eng:	I’d like to get pregnant
+%eng:	I'd like to get pregnant
 %com:	someone shouts Tim's name in the background.
 *MIG:	dígame . 977729_978733
 %eng:	hello
@@ -781,7 +781,7 @@
 %eng:	thanks
 %com:	third person speaks
 *MIG:	sí sí así vi . 992995_995120
-%eng:	yeah, that’s what I saw
+%eng:	yeah, that's what I saw
 %com:	third person speaks
 *MIG:	ah ok@s:eng&spa gracias oyó . 995101_997684
 %eng:	oh, OK, thanks
@@ -796,9 +796,9 @@
 *MIG:	(es)pérame (es)pérame . 1001572_1002205
 %eng:	wait, wait
 *MIG:	no [/] no me colgués <dame un segundo> [/] dame un segundo . 1002194_1003842
-%eng:	no, don’t hang up, give me a second
+%eng:	no, don't hang up, give me a second
 *MIG:	(es)pérame no te vayás estúpida . 1003784_1008679
-%eng:	wait, don’t go, stupid
+%eng:	wait, don't go, stupid
 *MIG:	hablá aha@s:eng aha@s:eng . 1007719_1015716
 %eng:	talk
 %com:	speakers in background
@@ -817,16 +817,16 @@
 *MIG:	sí sí sí sí qué estúpido se hizo hombre . 1035499_1038269
 %eng:	yeah, what an idiot, he became a man
 *MIG:	sí se casó pues se casó con [/] con otra maje pues y entonces parece <que la> [/] que la mujer con la que se casó pues no podía quedar embarazada . 1038229_1045845
-%eng:	yeah, and got married then to another chick and then it seems that the woman he married, well, she couldn’t get pregnant
+%eng:	yeah, and got married then to another chick and then it seems that the woman he married, well, she couldn't get pregnant
 *MIG:	entonces el gran amor que le tiene entonces le dijo pues yo voy a quedar embarazado por vos . 1045798_1050552
-%eng:	so he loved her so much he said, I’ll get pregnant for you
+%eng:	so he loved her so much he said, I'll get pregnant for you
 *MIG:	entonces (.) <lo embarazaron> [//] sabes se embarazó . 1050525_1055448
 %eng:	and they got him pregnant, you know, he got pregnant
 *TIM:	+< mmhm@s:eng&spa . 1050525_1055430
 *MIG:	parece pues obviamente fue inseminación artificial y eso . 1055415_1058143
 %eng:	so it seems obviously it was artificial insemination, and so on
 *MIG:	ves porque no le íbamos a meter una turca por el hoyo de la turca . 1058113_1061706
-%eng:	see, because they weren’t going to insert a penis through the hole in his penis
+%eng:	see, because they weren't going to insert a penis through the hole in his penis
 *TIM:	y después para sacarle el chavalo . 1061710_1065113
 %eng:	and then, to get the child out?
 *MIG:	por cesárea estúpido . 1065085_1066588
@@ -836,13 +836,13 @@
 *TIM:	cesárea . 1066519_1067343
 %eng:	c-section
 *MIG:	ni modo que se lo saquen por el hoyo del culo . 1067117_1069264
-%eng:	they weren’t going to get it out through his ass
+%eng:	they weren't going to get it out through his ass
 *TIM:	ah oye . 1069218_1070495
 %eng:	hey
 *MIG:	te imaginás qué dolor bróder . 1070466_1072172
 %eng:	imagine the pain, brother
 *MIG:	no no no y después que [//] y después cuando nace le dicen salió cagadito a vos . 1072155_1075882
-%eng:	no, no, no, and then when it’s born they say it looks the spitting image of you
+%eng:	no, no, no, and then when it's born they say it looks the spitting image of you
 *TIM:	sí sí . 1075818_1078628
 %eng:	yeah, yeah
 *TIM:	que le +... 1078593_1079508
@@ -850,16 +850,16 @@
 *MIG:	a huevo . 1079502_1080251
 %eng:	exactly
 *MIG:	<yo quisiera> [//] <yo un> [/] yo un día voy a llegar a ser papá vas a ver . 1080210_1083814
-%eng:	I'd like, someday I’ll be a father, you’ll see
+%eng:	I'd like, someday I'll be a father, you'll see
 *TIM:	cómo ? 1083779_1084464
 %eng:	what?
 *MIG:	yo un día voy a ser papá . 1084422_1085885
-%eng:	someday I’ll be a father
+%eng:	someday I'll be a father
 *TIM:	ojalá mujer porque . 1085894_1088280
 %eng:	hopefully, man, because
 *MIG:	+< [- eng] like . 1087700_1088251
 *MIG:	ésa es mi meta like@s:eng ése es mi [/] mi sueño más grande . 1088228_1091009
-%eng:	that’s my goal, like, that's my greatest dream
+%eng:	that's my goal, like, that's my greatest dream
 *MIG:	porque uno de mis sueños ya lo cumplí que pues ir al concierto bróder . 1090968_1094401
 %eng:	because one of my dreams I already achieved, namely, going to the concert, brother
 *MIG:	eso fue lo más de a verga . 1094393_1095995
@@ -868,7 +868,7 @@
 %eng:	that was like a dream, you know, one of those material dreams
 *TIM:	mmhm@s:eng&spa . 1099868_1101163
 *MIG:	pero mi sueño no sé mi sueño como así como persona como ser humano o sea realizarme va a ser eso ser papá loco . 1101146_1108733
-%eng:	but my dream, I don’t know, my dream as a person, as a fulfilled human being, I mean, is to be that, to be a father, man
+%eng:	but my dream, I don't know, my dream as a person, as a fulfilled human being, I mean, is to be that, to be a father, man
 *MIG:	quiero tener un hijo . 1108688_1111294
 %eng:	I wanna have a child
 *MIG:	y [/] y ponerle Yurandier@s:eng&spa Eliécer@s:eng&spa [?] . 1111264_1113992
@@ -876,17 +876,17 @@
 *TIM:	uh@s:eng&spa ? 1113975_1114869
 %eng:	huh?
 *MIG:	yo [/] yo le voy a poner Yurandier@s:eng&spa Eliécer@s:eng&spa [?] . 1114838_1116701
-%eng:	I’m going to name him Yurandier Eliécer
+%eng:	I'm going to name him Yurandier Eliécer
 *TIM:	Yurandier@s:eng&spa &=laugh . 1116689_1118105
 %eng:	Yurandier
 *MIG:	sí es un o sea es un nombre fino qué te pasa ? 1118088_1120328
-%eng:	yes, it’s an, I mean, it's an elegant name, what’s wrong with you?
+%eng:	yes, it's an, I mean, it's an elegant name, what's wrong with you?
 *MIG:	fino de barriada de viaje . 1120286_1122597
-%eng:	it’s elegant for the neighborhood
+%eng:	it's elegant for the neighborhood
 *TIM:	qué nombre más (.) turqueado no jodás . 1122196_1126115
 %eng:	what a stupid name, you're joking
 *MIG:	+< mmhm@s:eng&spa un nombre cual es un nombre de realeza . 1124518_1128800
-%eng:	hmm, it’s a royal name
+%eng:	hmm, it's a royal name
 *TIM:	Yurandier@s:eng&spa Eliécer@s:eng&spa &=laugh . 1128843_1131751
 %eng:	Yurandier Eliécer
 *MIG:	+< claro . 1128843_1131751
@@ -916,7 +916,7 @@
 *MIG:	vos sabés de que la otra vez estaba viendo un programa pues allá en Nicaragua creo . 1149534_1153127
 %eng:	you know, the other day I was watching a show in Nicaragua there, I think
 *MIG:	no me acuerdo si era Margarita o algo así un programa de esos . 1153139_1155645
-%eng:	I can’t remember if it was Margarita or something like that, one of those shows
+%eng:	I can't remember if it was Margarita or something like that, one of those shows
 *MIG:	entonces la cosa es de que se fueron como para la Costa o algo así . 1155605_1158257
 %eng:	so, the thing is they went to Costa, or something like that
 %com:	"Costa" is short for "Costa Atlántica" (the Caribbean autonomous regions in Nicaragua).
@@ -944,11 +944,11 @@
 *MIG:	cómo así ? 1184623_1185651
 %eng:	how so?
 *TIM:	sí los majes yo no sé ellos pueden escoger sus apellidos no sé cómo puta . 1185626_1189424
-%eng:	yeah, the guys, I don’t know, they can pick their last names, I don’t know how, man
+%eng:	yeah, the guys, I don't know, they can pick their last names, I don't know how, man
 *MIG:	qué raro entonces ahí nadie es familia entonces . 1189390_1191294
-%eng:	that’s weird, so nobody’s family there, then
-*TIM:	ellos podrían escoger sus apellidos o no sé entonces tienen apellidos como O'Brian@s:eng&spa como +/. 1191321_1198813
-%eng:	they can choose their last names, or I don't know, so they have last names like O’Brian, like
+%eng:	that's weird, so nobody's family there, then
+*TIM:	ellos podrían escoger sus apellidos o no sé entonces tienen apellidos como O_Brian@s:eng&spa como +/. 1191321_1198813
+%eng:	they can choose their last names, or I don't know, so they have last names like O'Brian, like
 *MIG:	+< a huevo . 1197937_1198889
 %eng:	really
 *TIM:	xxx . 1199136_1200064
@@ -962,15 +962,15 @@
 *MIG:	una Victoria_Beckham@s:eng&spa . 1206991_1208291
 %eng:	a Victoria Beckham
 *TIM:	no ya eso no pues no creo xxx parece negra . 1208265_1212473
-%eng:	no, really, not that, because I don’t think … she seems black
+%eng:	no, really, not that, because I don't think … she seems black
 *MIG:	claro que sí bróder si se ponen art(istas) [//] nombres de artistas así y todo . 1212461_1215809
 %eng:	of course, man, if they choose celebrities' names and stuff
 *MIG:	había un maje que [/] que se llamaba no sé loco no me acuerdo . 1215873_1220254
-%eng:	there was a dude called I don’t know what, man, I can’t remember
+%eng:	there was a dude called I don't know what, man, I can't remember
 *MIG:	yo me acuerdo que (.) hace años teníamos un chofer que el maje tenía una hija que estaba embarazada . 1220218_1227027
 %eng:	I remember years ago we had a driver who, the guy had a daughter was pregnant
 *MIG:	entonces ya nace el niño y cómo se llama le digo . 1226901_1229937
-%eng:	so the kid is born and I ask him, what’s his name
+%eng:	so the kid is born and I ask him, what's his name
 *MIG:	(en)tonces me dice no es que mi hija le +//. 1229917_1231910
 %eng:	so he tells me, no, my daughter
 *MIG:	era para el tiempo de los Backstreet_Boys@s:eng&spa . 1231904_1233390
@@ -981,7 +981,7 @@
 %eng:	and I was shocked, man
 *TIM:	+< xxx . 1238725_1240486
 *MIG:	+< Kevin@s:eng&spa Brian@s:eng&spa no hombre . 1240028_1241728
-%eng:	Kevin Brian, and it’s not a boy
+%eng:	Kevin Brian, and it's not a boy
 *MIG:	imaginate le gustan los Backstreet_Boys@s:eng&spa y N_Sync@s:eng&spa y le puso Nick@s:eng&spa Justin@s:eng&spa . 1241687_1246480
 %eng:	imagine, she likes the Backstreet Boys and NSync and names her Nick Justin
 *TIM:	Nick@s:eng&spa Justin@s:eng&spa fíjate . 1246535_1248654
@@ -1002,44 +1002,44 @@
 *MIG:	le ponían nombre xxx +/. 1260634_1263148
 %eng:	they named her
 *TIM:	+< xxx que me está llamando pegando alaridos . 1263154_1265511
-%eng:	someone’s yelling for me
+%eng:	someone's yelling for me
 *MIG:	qué ? 1265491_1266931
 %eng:	what?
 *TIM:	te digo que mi mamá ya está pegando alaridos . 1266907_1268788
 %eng:	my mom is yelling, I said
 *MIG:	para qué no estúpida no me colgués . 1268771_1270727
-%eng:	no, stupid, don’t hang up on me
+%eng:	no, stupid, don't hang up on me
 *TIM:	ya me tengo que despertar maje estoy xxx . 1270726_1273391
-%eng:	I really have to get up, man, I’m ...
+%eng:	I really have to get up, man, I'm ...
 *MIG:	+< pues de(spertate) . 1272555_1273345
 %eng:	so, get up
 *MIG:	despertáte pero no me colgués estúpida . 1273304_1275051
-%eng:	get up, but don’t hang up on me, stupid
+%eng:	get up, but don't hang up on me, stupid
 *TIM:	te llamo xxx . 1275014_1276604
-%eng:	I’ll call you …
+%eng:	I'll call you …
 *MIG:	no estúpida no . 1276578_1278482
 %eng:	no, stupid, no
 *TIM:	ay maje maje es que ahí viene mi mamá subiendo las escaleras para turquearme . 1278455_1281897
-%eng:	oh, dude, dude, my mom’s coming up the stairs to give me crap
+%eng:	oh, dude, dude, my mom's coming up the stairs to give me crap
 *MIG:	ok@s:eng&spa pero no me colgués te espero pero no me colgués . 1281926_1284219
-%eng:	OK, but don’t hang up on me, I’ll wait but don’t hang up on me
+%eng:	OK, but don't hang up on me, I'll wait but don't hang up on me
 *TIM:	huh@s:eng&spa no dale que me voy a bañar . 1284194_1287276
-%eng:	huh, no, c’mon, I have to go and shower
+%eng:	huh, no, c'mon, I have to go and shower
 *MIG:	no estúpida dame cinco minutos más platiquemos . 1287263_1290206
-%eng:	no, stupid, give me five more minutes, let’s talk
+%eng:	no, stupid, give me five more minutes, let's talk
 *MIG:	qué te iba a decir ? 1290190_1294271
 %eng:	what was I going to tell you?
 *TIM:	[- eng] aha . 1294254_1295252
 *MIG:	salgamos el fin de semana estúpido . 1295232_1297177
-%eng:	let’s go out this weekend, stupid
+%eng:	let's go out this weekend, stupid
 *TIM:	dale pues . 1297171_1298965
 %eng:	OK, then
 *MIG:	vamos a discot(ecas) +/. 1298942_1299999
-%eng:	let’s go to discos
+%eng:	let's go to discos
 *TIM:	+< no jodás tengo que decirle a mi jefe que ya estoy en la ciudad . 1299180_1302333
-%eng:	no way, I have to tell my boss I’m in town
+%eng:	no way, I have to tell my boss I'm in town
 *MIG:	ah y es que vos le dijistes me voy indefinidamente y ya te aviso cuando regrese . 1302313_1306435
-%eng:	oh, so you told him, I’m leaving indefinitely and I’ll let you know when I get back
+%eng:	oh, so you told him, I'm leaving indefinitely and I'll let you know when I get back
 *TIM:	cómo así ? 1306427_1308558
 %eng:	what do you mean?
 *MIG:	qué le dijistes ? 1308511_1309504
@@ -1055,11 +1055,11 @@
 *TIM:	(en)tonces me dijo que ok@s:eng&spa . 1319063_1320450
 %eng:	so he told me OK
 *TIM:	al siguiente [/] siguiente fin de semana me dice mejor no mirá que nos vamos a quedar aquí . 1320444_1324890
-%eng:	the following weekend he tells me no, better not, look, we’re going to stay here
+%eng:	the following weekend he tells me no, better not, look, we're going to stay here
 *TIM:	entonces le digo no que mis papás dicen que un fin de semana es muy poquito para conocer Nueva_Orleáns ah sí tenés razón avisame cuando estés en la ciudad loco me pone el maje . 1324860_1334063
-%eng:	so I told him no, that my parents say a weekend is not enough to see New Orleans, yeah, you’re right, let me know when you get back, man, this guy says
+%eng:	so I told him no, that my parents say a weekend is not enough to see New Orleans, yeah, you're right, let me know when you get back, man, this guy says
 *MIG:	(hi)jo (d)e puta mínimo [/] mínimo lo llamás y él te dice sí hijo de puta de qué de a verga vaya a la verga te va a decir . 1334042_1340589
-%eng:	jerk, bet you’ll call him and he'll tell you, yeah, son of a bitch, just go fuck yourself, he's going to tell you
+%eng:	jerk, bet you'll call him and he'll tell you, yeah, son of a bitch, just go fuck yourself, he's going to tell you
 *TIM:	xxx . 1340537_1347489
 *MIG:	+< qué ? 1346769_1347460
 %eng:	what?
@@ -1074,25 +1074,25 @@
 *MIG:	a estar oliendo monte bróder . 1357287_1358941
 %eng:	to get a whiff of fresh air, brother
 *MIG:	aparte que no me gusta la música electrónica . 1358895_1362105
-%eng:	plus I don’t like electronic music
+%eng:	plus I don't like electronic music
 *TIM:	+< xxx . 1358895_1362105
 *TIM:	es que es un turcazo de locas xxx . 1362099_1364485
-%eng:	there’s a shitload of girls ...
+%eng:	there's a shitload of girls ...
 *MIG:	ah ? 1364479_1364944
 %eng:	huh?
 *TIM:	vienen casi todas las locas del [//] de Miami@s:eng&spa . 1364924_1368314
 %eng:	almost all the girls from Miami are coming
 *MIG:	ah pues con razón vas . 1368308_1369562
-%eng:	so no wonder you’re going
+%eng:	so no wonder you're going
 *TIM:	ah no hom(bre) . 1369581_1370864
 %eng:	no, man
 *MIG:	&=laughs . 1370829_1371647
 *MIG:	ah vos vas a culear <no vas> [/] no vas a escuchar música electrónica ni a bailar . 1371624_1375360
-%eng:	you’re going to get laid, you're not going to listen to electronic music or to dance
+%eng:	you're going to get laid, you're not going to listen to electronic music or to dance
 *TIM:	no puedo . 1375313_1376619
-%eng:	I can’t
+%eng:	I can't
 *MIG:	<vas a ver> [/] vas a ver pichas que parecen bichos . 1376613_1379434
-%eng:	you’re going to see penises that look like vaginas
+%eng:	you're going to see penises that look like vaginas
 *TIM:	ojalá . 1379424_1381143
 %eng:	hopefully
 *MIG:	ay no xxx no . 1381120_1382640
@@ -1102,7 +1102,7 @@
 *MIG:	el [//] cállate que el [/] el [/] (.) el sábado que me fui para discoteca +... 1383582_1387657
 %eng:	well, on Saturday I went to the disco
 *MIG:	había [//] hay un maje en la universidad loco que que yo lo miro y yo como que este maje es decía yo ya pues . 1387633_1396060
-%eng:	there was, there's a guy at university, man, who I’ve seen, and I, like, this guy is, I thought already
+%eng:	there was, there's a guy at university, man, who I've seen, and I, like, this guy is, I thought already
 *MIG:	como que medio se le notaba pues yo decía este maje es este maje es loc(o) . 1394400_1397883
 %eng:	it was a bit noticeable, so I thought this guy's, this guy's weird
 *MIG:	pero pues nunca le puse mente . 1397883_1399265
@@ -1165,7 +1165,7 @@
 *MIG:	y entonces el maje estaba platicando con una [/] una amiga mía y yo estaba ahí . 1467480_1471445
 %eng:	and so the guy was chatting to a friend of mine and I was there
 *MIG:	entonces el maje unas madre uñas que se carga a la gran puta digo yo si es que se va a transformar este maje lo(co) . 1471377_1478469
-%eng:	and the guy had some crazy nails, I think this guy’s going to turn into a girl, man
+%eng:	and the guy had some crazy nails, I think this guy's going to turn into a girl, man
 *MIG:	<y a(hora)> [/] y a(hora) [/] ahora que lo estuve observando bien pues sí de viaje se le nota lo(co) . 1478466_1483156
 %eng:	and now that I was really watching him, you can really tell, man
 *MIG:	<de viaje> [/] de viaje se le nota . 1483139_1485699
@@ -1173,38 +1173,38 @@
 *TIM:	&qui pero que no [/] no le hace nada . 1485693_1487615
 %eng:	but he doesn't anything
 *MIG:	no no no no no xxx pero nunca nos hemos dirigido la palabra jamás jamás jamás . 1487599_1492220
-%eng:	no, … we’ve never ever talked to each other
+%eng:	no, … we've never ever talked to each other
 *MIG:	o sea yo como +/. 1492989_1493680
-%eng:	I mean, I’m like
+%eng:	I mean, I'm like
 *TIM:	xxx . 1492989_1493680
 *MIG:	+, yo como que este maje es loca digo yo le voy a empezar a hablar . 1493651_1496339
-%eng:	I think this guy is gay; I’m going to start talking to him
+%eng:	I think this guy is gay; I'm going to start talking to him
 *MIG:	pero no sé el maje y yo [/] yo trato como que tal vez no de meterle conversación . 1496268_1500288
-%eng:	but I don’t know, the guy, I try, like, sometimes to start a conversation
+%eng:	but I don't know, the guy, I try, like, sometimes to start a conversation
 *MIG:	pero por ejemplo hoy que estaba hablando con mi amiga yo también me puse a hablar con mi amiga y el maje seguía ahí . 1500283_1505664
 %eng:	but, for example, today he was talking to my friend and I also started talking to her and he was still there
 *MIG:	y entonces yo lo miraba al maje como para incluirlo en la conversa(ción) como para decirle ok@s:eng&spa like@s:eng I'm@s:eng talking@s:eng to@s:eng you@s:eng me entendés o sea we're@s:eng talking@s:eng to@s:eng [/] to@s:eng both@s:eng of@s:eng them@s:eng entonces . 1505572_1514690
-%eng:	and so I looked at the guy as if to include him in the conversation, as if to tell him, OK, I’m talking to you, you know, I mean, so we’re talking to both of them
+%eng:	and so I looked at the guy as if to include him in the conversation, as if to tell him, OK, I'm talking to you, you know, I mean, so we're talking to both of them
 *MIG:	pero el maje como que no me ponía en mente . 1514683_1516155
-%eng:	but the guy, it’s like he didn’t take any notice of me
+%eng:	but the guy, it's like he didn't take any notice of me
 *MIG:	así que su madre tampoc(o) &ummm o sea todavía es que me gustara . 1516143_1519208
 %eng:	vvv so, I mean, if I liked him
 *TIM:	mmhm@s:eng&spa sí . 1519220_1520886
 %eng:	mmhm, yes
 *MIG:	sí pero yo estoy tratando de que sea mi amiga . 1520860_1523374
-%eng:	yes, but I’m trying to make him my friend
+%eng:	yes, but I'm trying to make him my friend
 *TIM:	y vos de buena gente . 1523293_1524947
-%eng:	and you’re being nice
+%eng:	and you're being nice
 *MIG:	sí . 1524912_1525626
 %eng:	yeah
 *MIG:	se aprovechan de mi nobleza verdad . 1525607_1527488
 %eng:	they take advantage of my kind nature, really
 *TIM:	te estás haciendo un [/] un [/] un hermoso [?] ser humano . 1527474_1531172
-%eng:	you’re becoming a beautiful human being
+%eng:	you're becoming a beautiful human being
 *MIG:	sí bróder se aprovechan de mi nobleza . 1531149_1533384
 %eng:	yeah, brother, they take advantage of my kind nature
 *TIM:	qué locura . 1533783_1534632
-%eng:	that’s crazy
+%eng:	that's crazy
 *MIG:	qué te +... 1535182_1535588
 %eng:	what ...
 *TIM:	+< qué dañino . 1535259_1536228
@@ -1212,7 +1212,7 @@
 *MIG:	qué te iba a decir ? 1535960_1537179
 %eng:	what was I going to tell you?
 *MIG:	y no has hablado con [/] con Alberto@s:eng&spa ? 1537182_1539284
-%eng:	and you haven’t spoken to Alberto?
+%eng:	and you haven't spoken to Alberto?
 *TIM:	no últimamente no he hablado . 1539283_1542127
 %eng:	no, I haven't spoken to him lately
 *TIM:	bueno (.) desde que me vine (.) fue como que (.) creo que unas [/] unos tres cuatro días de que me vine nunca se volvió a conectar loco entonces no [/] no mejor no hablé con él porque +... 1542134_1554333
@@ -1237,7 +1237,7 @@
 *TIM:	se mira culo . 1568577_1570098
 %eng:	he looks good
 *MIG:	(es)toy ahuevado loco . 1570163_1571806
-%eng:	I’m sad, man
+%eng:	I'm sad, man
 *TIM:	por qué ? 1571784_1572788
 %eng:	why?
 *MIG:	te conté que corté con mi ex@s:eng&spa no pues con [/] con el que andaba no . 1572701_1576190
@@ -1250,17 +1250,17 @@
 *MIG:	que nunca me amó loco . 1580590_1582367
 %eng:	that he never loved me, man
 *TIM:	no jodás . 1582355_1583284
-%eng:	you’re kidding
+%eng:	you're kidding
 *MIG:	sí . 1583234_1584383
 %eng:	yes
 *TIM:	idiay y por qué ? 1584342_1585451
 %eng:	geez, and why?
 *MIG:	no sé . 1585457_1586978
-%eng:	I don’t know
+%eng:	I don't know
 *TIM:	mirá eso te lo dijo porque estaba resentido . 1586907_1589032
-%eng:	look, he told you that because he’s resentful
+%eng:	look, he told you that because he's resentful
 *MIG:	no que va a estar resentido bróder . 1589013_1590807
-%eng:	but he’s not resentful, brother
+%eng:	but he's not resentful, brother
 *MIG:	(o) sea me dijo que como que sí te quise mucho y pues estuve con vos porque pues o sea estuve con vos con mucho gusto me dice quería estar con vos . 1590784_1601142
 %eng:	I mean, he told me, like, I did love you a lot, and so I was with you because, so, I mean, I was happy with you, he tells me, I wanted to be with you.
 *MIG:	pero nunca te llegué a amar me dice . 1601117_1604459
@@ -1274,7 +1274,7 @@
 *MIG:	y yo (.) puta bróder y (.) le digo +". 1609221_1612449
 %eng:	and I told him, shit, brother
 *MIG:	+" o sea <tú estás> [//] te [/] te das cuenta de lo que me estás diciendo . 1612445_1614866
-%eng:	I mean, do you realize what you’re telling me?
+%eng:	I mean, do you realize what you're telling me?
 *MIG:	le digo . 1614860_1615122
 %eng:	I told him
 *MIG:	+" sí . 1615111_1615268
@@ -1282,15 +1282,15 @@
 *MIG:	me dice +". 1615274_1615599
 %eng:	he tells me
 *MIG:	+" yo sé que te estoy haciendo daño . 1615578_1616657
-%eng:	I know I’m hurting you
+%eng:	I know I'm hurting you
 *MIG:	me dice +". 1616657_1616930
 %eng:	he says
 *MIG:	+" pero prefiero por lo menos estoy siendo honesto con vos . 1616936_1620076
-%eng:	but I prefer that, at least I’m being honest with you
+%eng:	but I prefer that, at least I'm being honest with you
 *MIG:	me dice +". 1619856_1620413
 %eng:	he tells me
 *MIG:	le digo puta pero qué mala onda le digo . 1620360_1623204
-%eng:	I tell him, shit, but that’s horrible, I tell him
+%eng:	I tell him, shit, but that's horrible, I tell him
 *MIG:	porque e(l) maje siempre me decía pues que me amaba y que no sé cuanto . 1623204_1626449
 %eng:	because the guy always told me, see, that he loved me and stuff like that
 *MIG:	y después cortamos en noviembre . 1626420_1628353
@@ -1304,15 +1304,15 @@
 *MIG:	me dice +". 1634683_1635072
 %eng:	he tells me
 *MIG:	+" hoy estoy más seguro que nunca de lo que siento por vos que no sé cuanto . 1635060_1638839
-%eng:	now I’m more certain than ever about my feelings for you, and stuff like that
+%eng:	now I'm more certain than ever about my feelings for you, and stuff like that
 *MIG:	y [/] y todas esas cosas me entendés ? 1638845_1640569
 %eng:	all that stuff, you know?
 *MIG:	(en)tonces yo <le digo> [//] le dije hoy pues que estábamos chateando le digo yo por qué entonces me dijistes todo eso le digo . 1640546_1646056
 %eng:	so I told him, I told him today when we where chatting, I told him, so why did you tell me all that, I told him
 *MIG:	no sé me dice estaba confundido me dice . 1645952_1649726
-%eng:	I don’t know, he told me, I was confused, he told me
+%eng:	I don't know, he told me, I was confused, he told me
 *MIG:	&um pero [/] pero no sé no [/] nunca llegué a amarte me dice . 1649701_1652900
-%eng:	but I don’t know, I never really loved you, he tells me
+%eng:	but I don't know, I never really loved you, he tells me
 *MIG:	loco vos sabés que es eso loco que [/] que me pase otra vez eso . 1652883_1656616
 %eng:	man, you know, it's the same thing, man, happening to me again
 *TIM:	no yo me imagino que se siente horrible que te digan eso . 1656597_1661087
@@ -1330,11 +1330,11 @@
 *MIG:	+< pero ah . 1672623_1675543
 %eng:	but
 *MIG:	xxx un huevo lo(co) entonces es como que más decepcionante . 1675480_1678476
-%eng:	shit, man, so then it’s even more disappointing
+%eng:	shit, man, so then it's even more disappointing
 *MIG:	pero igual loco yo de este maje estaba enculado loco . 1678433_1681893
 %eng:	but really, man, I was madly in love with this guy, man
 *MIG:	y lo sigo estando loco sigo estando enamorado porque uno no se deja de enamorar de la noche a la mañana . 1681847_1686508
-%eng:	and I still am, man, I’m still in love because one doesn’t fall out of love overnight
+%eng:	and I still am, man, I'm still in love because one doesn't fall out of love overnight
 *MIG:	pero [/] pero que me diga eso bróder puta me [/] me [/] me duele en puta loco me duele muchísimo muchísimo . 1686485_1694260
 %eng:	but, but for him to say that, brother, damn, it hurts a lot, a whole lot, man
 *MIG:	o sea me [/] me hiere como persona me entendés . 1694219_1697390
@@ -1344,7 +1344,7 @@
 *MIG:	me sien(to) o sea me siento super@s:eng&spa ahuevado loco porque +... 1699374_1701748
 %eng:	I feel so sad, I mean, I feel really sad, man, because
 *MIG:	no sé <me en(tendés)> [?] o sea a(l) [/] al principio cuando cortamos cuando recién cortamos pues yo le dije al maje como que +". 1702583_1709306
-%eng:	I don’t know, you know, I mean, at the beginning when we broke up, when we'd just broken up I asked the guy, like
+%eng:	I don't know, you know, I mean, at the beginning when we broke up, when we'd just broken up I asked the guy, like
 *MIG:	todavía me amás ? 1709282_1711571
 %eng:	do you still love me?
 *MIG:	le digo . 1711568_1712131
@@ -1352,7 +1352,7 @@
 *MIG:	me dice +". 1712015_1712415
 %eng:	he says to me
 *MIG:	+" no ya no te amo . 1712340_1713193
-%eng:	no, I don’t love you anymore
+%eng:	no, I don't love you anymore
 *MIG:	me dice +". 1713176_1713594
 %eng:	he tells me
 *MIG:	pero [/] pero sí te quiero . 1713594_1715335
@@ -1376,15 +1376,15 @@
 *MIG:	y [/] y o sea me [/] me empecé a sentir super@s:eng&spa mal porque [/] porque dije +". 1723287_1727687
 %eng:	and, and, I mean, I started feeling really bad because, because I said
 *MIG:	+" a la gran [/] a la gran puta qué [/] qué fácil que es olvidarme a mí . 1727687_1730705
-%eng:	damn, it’s so easy to forget me
+%eng:	damn, it's so easy to forget me
 *MIG:	+" qué fácil que es superarme . 1730699_1731965
-%eng:	it’s easy to get over me
+%eng:	it's easy to get over me
 *MIG:	+" y dejarme de amar . 1731959_1732720
 %eng:	and stop loving me
-*MIG:	decía yo +". 1723287_1733394
+*MIG:	decía yo +". 1732657_1733301
 %eng:	I thought
 *MIG:	y entonces se lo dije al maje hoy o ayer no me acuerdo . 1733362_1737206
-%eng:	and so I told the guy today or yesterday, I can’t remember
+%eng:	and so I told the guy today or yesterday, I can't remember
 *MIG:	le dije como que +". 1737189_1738141
 %eng:	and I told him, like
 *MIG:	+" sabes qué . 1738188_1738838
@@ -1392,7 +1392,7 @@
 *MIG:	le digo +". 1738861_1739064
 %eng:	I said to him
 *MIG:	+" voy a ser honesto con vos . 1739082_1740115
-%eng:	I’m going to be honest with you
+%eng:	I'm going to be honest with you
 *MIG:	+" y [/] y me siento mal . 1740109_1741212
 %eng:	and I feel sad
 *MIG:	le digo +". 1741224_1741671
@@ -1404,11 +1404,11 @@
 *MIG:	y [/] y [/] y [/] y puta le digo +". 1747350_1750485
 %eng:	and, and, and, and damn, I say to him
 *MIG:	+" me haces sentir como que soy una persona tan fácil de olvidar . 1750485_1753172
-%eng:	you make me feel like I’m an easy person to forget
+%eng:	you make me feel like I'm an easy person to forget
 *MIG:	le digo +". 1753178_1753498
 %eng:	I tell him
 *MIG:	+" una persona tan [/] tan like@s:eng que [/] que <se supera> [/] se supera así de fácil . 1753379_1757820
-%eng:	a person so, so, like, that’s so easy to get over"
+%eng:	a person so, so, like, that's so easy to get over"
 *MIG:	le digo +". 1757807_1758277
 %eng:	I tell him
 *MIG:	(en)tonces me dice +". 1758083_1759477
@@ -1418,7 +1418,7 @@
 *MIG:	me dice +". 1759993_1760336
 %eng:	he says to me
 *MIG:	+" que no es eso sino que nunca te llegué a amar . 1760347_1762408
-%eng:	it’s not that, it’s just that I never really loved you
+%eng:	it's not that, it's just that I never really loved you
 *MIG:	me dice +". 1762362_1763896
 %eng:	he tells me
 *TIM:	qué cerrote maje . 1763174_1765124
@@ -1434,7 +1434,7 @@
 *TIM:	cómo ? 1773308_1774457
 %eng:	what?
 *MIG:	está viviendo con Pedro@s:eng&spa . 1774451_1776059
-%eng:	he’s living with Pedro
+%eng:	he's living with Pedro
 *TIM:	qué (.) andan jalando ? 1776047_1778247
 %eng:	are they dating?
 %com:	"jalar" is to date someone.
@@ -1458,9 +1458,9 @@
 *MIG:	y entonces like@s:eng los majes están viviendo juntos pues ahora . 1799280_1803146
 %eng:	and so, like, now the guys are living together now
 *MIG:	y ya [/] ya son roommates@s:eng y eso . 1803139_1804823
-%eng:	and they’re roommates and that
+%eng:	and they're roommates and that
 *MIG:	y (..) [/] y no sé loco . 1804950_1807568
-%eng:	and, and I don’t know, man
+%eng:	and, and I don't know, man
 *MIG:	ayer [/] ayer me peleé con Pedro@s:eng&spa por Victor@s:eng&spa y +... 1807585_1810482
 %eng:	yesterday I argued with Pedro because of Victor and
 *TIM:	y por qué se pelearon ? 1810884_1812457
@@ -1472,12 +1472,12 @@
 *MIG:	+" contame contame . 1819578_1820413
 %eng:	tell me, tell me
 *MIG:	y el maje me decía no que no sé qué no puedo contarte que no sé cuanto . 1820415_1823657
-%eng:	and the guy told me something like, I can’t tell you, and whatever
+%eng:	and the guy told me something like, I can't tell you, and whatever
 *MIG:	y yo +". 1823372_1824068
-%eng:	and I
+%eng:	and I:
 *MIG:	+" puta Pedro@s:eng&spa vos nunca me habías dicho antes no puedo contarte . 1824016_1827318
-%eng:	come on, Pedro, you’ve never told me before, I can't tell you something
-*MIG:	o sea porque Pedro@s:eng&spa y yo nos contamos absolutamente todo like@s:eng absolutely@s:eng everything@s:eng me entendés ? 0_0
+%eng:	come on, Pedro, you've never told me before, I can't tell you something
+*MIG:	o sea porque Pedro@s:eng&spa y yo nos contamos absolutamente todo like@s:eng absolutely@s:eng everything@s:eng me entendés ? 1827075_1832645
 %eng:	I mean, because Pedro and I tell each other absolutely everything, like absolutely everything, you know?
 *MIG:	like@s:eng cada detalle incluso our@s:eng sex@s:eng lives@s:eng me entendés nuestras vidas sexuales . 1832506_1837434
 %eng:	like every detail about our sex lives, you know, our sex lives
@@ -1498,11 +1498,11 @@
 *MIG:	y entonces el maje +". 1848423_1849010
 %eng:	and so the guy
 *MIG:	+" no que no sé . 1848998_1850176
-%eng:	I don’t know
+%eng:	I don't know
 *MIG:	entonces siento como que el maje ahora <se está volvi(endo)> [//] se va a volver íntimo de [/] de [/] de [/] de mi ex@s:eng&spa loco . 1850053_1854645
 %eng:	so I feel like the guy's now becoming, going to become intimate with my ex, man
 *MIG:	y [/] y yo me voy a quedar (.) mordiendo el leño loco . 1854639_1859115
-%eng:	and I’m going to be left looking stupid, man
+%eng:	and I'm going to be left looking stupid, man
 *MIG:	y entonces le dije como que +". 1859088_1861570
 %eng:	and so I said to him, like
 *MIG:	+" ok@s:eng&spa pues . 1861541_1862122
@@ -1510,13 +1510,13 @@
 *MIG:	le digo +". 1862128_1862348
 %eng:	I tell him
 *MIG:	+" no me digas nada . 1862348_1863213
-%eng:	don’t tell me anything
+%eng:	don't tell me anything
 *MIG:	+" ya está pues . 1863196_1863800
-%eng:	that’s that
+%eng:	that's that
 *MIG:	+" está bien pues . 1863783_1864631
 %eng:	OK, then
 *MIG:	+" no me digas . 1864613_1865159
-%eng:	don’t tell me
+%eng:	don't tell me
 *MIG:	le digo +". 1865137_1865392
 %eng:	I tell him
 *MIG:	entonces me dice . 1865404_1866280
@@ -1526,7 +1526,7 @@
 *MIG:	me dice +". 1866820_1867215
 %eng:	he says
 *MIG:	+" no me vengas con esa verga que no sé cuanto . 1867215_1869235
-%eng:	don’t give me that shit, and stuff
+%eng:	don't give me that shit, and stuff
 *MIG:	entonces le digo +". 1869218_1869972
 %eng:	so I tell him
 *MIG:	+" cuál verga ? 1869949_1870644
@@ -1534,12 +1534,12 @@
 *MIG:	le digo +". 1870639_1870906
 %eng:	I tell him
 *MIG:	+" a mí no me hables así . 1870901_1871812
-%eng:	don’t you talk to me that way
+%eng:	don't you talk to me that way
 *MIG:	le digo +". 1871795_1872044
 %eng:	I tell him
 *MIG:	+" no seas por la verga . 1872047_1872836
-%eng:	don’t be shitty
-*MIG:	le digo yo+". 1872784_1873417
+%eng:	don't be shitty
+*MIG:	le digo yo +". 1872784_1873417
 %eng:	I tell him
 *MIG:	+" sabes qué ? 1873347_1873980
 %eng:	you know what?
@@ -1556,15 +1556,15 @@
 *MIG:	ya (.) este +... 1882872_1885335
 %eng:	and so
 *MIG:	ya no es +//. 1885334_1886071
-%eng:	he’s not
+%eng:	he's not
 *MIG:	yo no le +//. 1886025_1886681
-%eng:	I don’t
+%eng:	I don't
 *MIG:	+" sinceramente . 1886658_1887348
 %eng:	frankly
 *MIG:	me dice +". 1887337_1887761
 %eng:	he tells me
 *MIG:	+" yo a ustedes no les veo un futuro ni lejano ni cercano . 1887743_1890460
-%eng:	I don’t see any kind of future for the two of you
+%eng:	I don't see any kind of future for the two of you
 *MIG:	me dice +". 1890460_1890802
 %eng:	he tells me
 *MIG:	+" olvidálo que no sé cuanto . 1890785_1891946
@@ -1576,15 +1576,15 @@
 *MIG:	le digo +". 1893671_1893932
 %eng:	I say to him
 *MIG:	+" like@s:eng si me lo estás diciendo i(t)@s:eng [/] i(t)@s:eng [/] it's@s:eng for@s:eng a@s:eng reason@s:eng . 1893932_1896875
-%eng:	like, if you’re telling me this, it’s for a reason
+%eng:	like, if you're telling me this, it's for a reason
 *MIG:	le digo +". 1896881_1897148
 %eng:	I tell him
 *MIG:	+" si me estás diciendo que lo olvide . 1897148_1898454
-%eng:	if you’re telling me to forget about him
+%eng:	if you're telling me to forget about him
 *MIG:	le digo +". 1898453_1898772
 %eng:	I tell him
 *MIG:	+" es por algo . 1898737_1899562
-%eng:	there’s a reason
+%eng:	there's a reason
 *MIG:	entonces me +//. 1899570_1900696
 %eng:	so he
 *MIG:	hasta o sea le tuve que [/] que decir y decir y [/] y hasta que lo convencí que me contara . 1900674_1906158
@@ -1596,15 +1596,15 @@
 *MIG:	entonces +/. 1913236_1914914
 %eng:	so
 *TIM:	+< pero es que mirá maje es que es su roommate@s:eng se siente con pena tal vez [?] . 1914165_1918037
-%eng:	but it’s, look, dude, it's his roommate, maybe he feels bad
+%eng:	but it's, look, dude, it's his roommate, maybe he feels bad
 *MIG:	no no no no no I@s:eng understand@s:eng me entendés porque me lo dijo . 1917978_1921715
 %eng:	no, no, no, no, no, I understand, you know, because he told me so
 *MIG:	o sea el maje me dice +". 1921678_1922433
 %eng:	I mean, the guy tells me
 *MIG:	+" no le digas nada . 1922427_1923176
-%eng:	don’t tell him anything
+%eng:	don't tell him anything
 *MIG:	+" no le digas nada . 1923234_1924087
-%eng:	don’t tell him anything
+%eng:	don't tell him anything
 *MIG:	me dice +". 1924070_1924529
 %eng:	he says to me
 *MIG:	porque es que porque si le decís . 1924516_1926925
@@ -1612,37 +1612,37 @@
 *MIG:	me dice +". 1926925_1927401
 %eng:	he says to me
 *MIG:	+" y vos sabés ahora estoy viviendo con él . 1927391_1928947
-%eng:	and you know I’m living with him now
+%eng:	and you know I'm living with him now
 *MIG:	me dice +". 1928947_1929290
 %eng:	he says to me
 *MIG:	+" y no quiero crear conflictos entre nosotros . 1929290_1931118
-%eng:	and I don’t want to create conflict between us
+%eng:	and I don't want to create conflict between us
 *MIG:	and@s:eng I@s:eng understand@s:eng that@s:eng me entendés ? 1931248_1933164
 %eng:	and I understand that, you know?
-*MIG:	pero (.) [/] pero o sea yo le dije como que+". 1933103_1935964
+*MIG:	pero (.) [/] pero o sea yo le dije como que +". 1933103_1935964
 %eng:	but, but, whatever, I told him, like
 *MIG:	+" no no te preocupés . 1935947_1936853
-%eng:	don’t worry about it
+%eng:	don't worry about it
 *MIG:	+" no le voy a decir . 1936853_1937375
-%eng:	I won’t tell him
+%eng:	I won't tell him
 *MIG:	like@s:eng Pedro@s:eng&spa sabe de que cuando nosotros nos decimos no digas nada nosotros no decimos nada me entendés . 1937367_1942874
-%eng:	like, Pedro knows when we tell each other something you don't say anything, we don’t say anything, you know
+%eng:	like, Pedro knows when we tell each other something you don't say anything, we don't say anything, you know
 *MIG:	o sea y que me lo haya dicho así tantas veces . 1942950_1945800
 %eng:	I mean, and for him to tell me like that so many times
 *MIG:	pero no le digas nada cuidadito le vas a decir que no sé qué . 1945789_1948534
-%eng:	but don’t say anything, be really careful if you do tell him, and stuff
+%eng:	but don't say anything, be really careful if you do tell him, and stuff
 *MIG:	o sea me hizo sentir tan tan tan mal like@s:eng he@s:eng didn't@s:eng trust@s:eng me@s:eng any_more@s:eng me entendés . 1948522_1952812
-%eng:	I mean, he made me feel so awful, like he didn’t trust me any more, you know
+%eng:	I mean, he made me feel so awful, like he didn't trust me any more, you know
 *MIG:	me [/] <me hi(zo)> [/] <me hi(zo)> [/] me hizo sentir bien por la verga loco . 1952788_1955169
 %eng:	he made me feel like shit, man
 *MIG:	entonces lo bloqueé . 1955158_1956052
 %eng:	so I blocked him
 *MIG:	y no sé me siento como resentido con él loco . 1956040_1959325
-%eng:	I don’t know, I feel, like, resentment towards him, man
+%eng:	I don't know, I feel, like, resentment towards him, man
 *TIM:	&tsk no hombre . 1959027_1960867
 %eng:	no, man
 *MIG:	no sé bróder . 1960836_1961520
-%eng:	I don’t know, brother
+%eng:	I don't know, brother
 *MIG:	<me sien(to)> [/] <me sien(to)> [/] me siento todo ahuevado like@s:eng toda esta situación (..) está (.) . 1961497_1965806
 %eng:	I feel all sad, like, this whole situation is
 *MIG:	like@s:eng por ej(emplo) este maje de Manolo@s:eng&spa bróder ayer fuimos a cenar . 1965799_1969252
@@ -1661,5 +1661,5 @@
 *MIG:	y como persona porque es una persona de a cachimba el maje loco . 1980808_1983461
 %eng:	and as a person, because the guy's a really nice person, man
 *MIG:	pero el maje todavía está pensando en su ex@s:eng&spa loco . 1983607_1986980
-%eng:	but the guy’s still thinking about his ex, man
+%eng:	but the guy's still thinking about his ex, man
 @End

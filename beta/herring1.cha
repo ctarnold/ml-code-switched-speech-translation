@@ -2,18 +2,18 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	 LAU Lauren Adult, CHL Chloe Adult, OSE Waiter Adult
+@Participants:	LAU Lauren Adult, CHL Chloe Adult, OSE Waiter Adult
 @ID:	spa, eng|bangor3|LAU|27;11.|female|||Adult||
 @ID:	spa, eng|bangor3|CHL|24;1.|female|||Adult||
 @Media:	herring1 audio
 @Situation:	LAU and CHL are cousins. They are talking over brunch on a Saturday morning, in a restaurant in Kendall, Miami.
-@Comment:	SES background etc?
 @Date:	08-MAR-2008
-@Coder:	Jon Russell Herring, Prifysgol Bangor University
+@Coder:	Jon Russell Herring, Prifysgol Bangor University.  Original translation by Marika Fusser.
 @Time Duration:	00:32:18
 @Comment:	Filename: herring1.cha; Soundfile: herring1.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
- *CHL:	well she was telling me about this thing with Oprah@s:eng&spa . 124_3849
+@Warning:	one translation (and comment?) needs filling in - marked with "vvv"
+*CHL:	well she was telling me about this thing with Oprah@s:eng&spa . 124_3849
 *CHL:	that she's a new age thing . 4031_6182
 *CHL:	and she's a book@s:eng&spa . 6215_7262
 *CHL:	and she has a video blog . 7509_9314
@@ -105,7 +105,7 @@
 *LAU:	que@s:spa no@s:spa diga@s:spa Nicaragua@s:eng&spa por@s:spa favor@s:spa . 112339_114169
 %eng:	hope she doesn't say Nicaragua, please.
 *CHL:	+< yeah just plain just mmhm@s:eng&spa sin@s:spa nada@s:spa . 113732_116749
-%eng:	 yeah just plain ,just, mmhm, without anything.
+%eng:	yeah just plain, just, mmhm, without anything.
 *LAU:	+< like you know how they're like they're +... 113815_115381
 *LAU:	I mean in the bottom of it fine . 115331_116790
 *LAU:	pero@s:spa no@s:spa xxx you know they're so patriotic and they +... 116774_119057
@@ -158,7 +158,7 @@
 *CHL:	+< yeah (.) you know . 180964_183147
 *CHL:	and she's retired the +/. 183164_185011
 *LAU:	+< [- spa] qué xxx . 184784_185672
-%eng:	what xxx /
+%eng:	what xxx
 *CHL:	+< her gran [///] she [/] she's responsible for the you know her mom . 185061_188917
 *CHL:	and her [/] her older daughter . 188925_190980
 *CHL:	[- spa] pero <ella es> [/] ella es enfermita . 190988_193231
@@ -212,7 +212,8 @@
 *LAU:	I mean I understand <helping a child> [//] helping your kid if <they're in &mei you know> [//] they're in a crisis situation +/. 256851_260698
 *CHL:	+< yeah but +... 259847_260895
 *LAU:	[- spa] , pero darle (.) lo que quieres dar +... 260701_263377
-%com:
+%eng:	vvv
+%com:	vvv
 *CHL:	wow@s:eng&spa well the thing is that they found this place right . 263273_265821
 *CHL:	but the house comes with a little efficiency . 265874_268742
 *CHL:	outside . 269050_269839
@@ -371,7 +372,7 @@
 *LAU:	+< uhhuh@s:eng&spa . 512222_512975
 *CHL:	and um@s:eng&spa Raquel's@s:eng&spa like +"/. 513851_515366
 *CHL:	+" what are you talking about ? 515374_516373
-*CHL:	+" who [///] I've never said that about you 516381_518214
+*CHL:	+" who [///] I've never said that about you . 516381_518214
 *LAU:	uhhuh@s:eng&spa . 518242_518758
 *CHL:	+< where are you hearing this ? 518667_519707
 *CHL:	and she's like +"/. 519699_520215
@@ -442,7 +443,7 @@
 *CHL:	I had to get a new passport . 619971_622200
 *CHL:	so I'm like +"/. 622290_622615
 *CHL:	+" oh my god . 622615_623057
-*CHL:	<I had like> [//] <I literally had a &wi> [//] I 0_0
+*CHL:	<I had like> [//] <I literally had a &wi> [//] I have a week . 623054_625672
 *LAU:	+< why [///] wha(t) [///] <how old> [/] how old were you when you took your last picture ? 625040_627669
 *CHL:	because <it doesn't> [///] eso@s:spa no@s:spa importa@s:spa . 627745_630378
 %eng:	because that's not important.
@@ -798,7 +799,7 @@
 *LAU:	so (.) I have no money . 1276907_1278105
 *CHL:	+< uhhuh@s:eng&spa . 1276965_1277841
 *CHL:	later I have to go with Sarah@s:eng&spa to [/] (...) to buy something for somebody's [//] one of our friend's birthdays that's tonight . 1282123_1292454
-*CHL:	and +... 0_0
+*CHL:	and +... 1292922_1294135
 *LAU:	+< you're going to a party ? 1292930_1294085
 *CHL:	yeah <it's in one> [//] it's in a house . 1294271_1297098
 *CHL:	like a get together . 1297115_1299176
@@ -859,7 +860,7 @@
 *CHL:	he [//] they haven't mentioned it again . 1426595_1429442
 *CHL:	I don't know . 1429633_1430487
 *CHL:	sometimes I think that it would be best . 1430488_1432117
-*CHL:	but sometimes I think it wouldn't 1432101_1434264
+*CHL:	but sometimes I think it wouldn't . 1432101_1434264
 *CHL:	because when he's around she's like you know +... 1434787_1437396
 *LAU:	++ in a better mood ? 1437512_1438321
 *LAU:	+< <she doesn't> [//] yeah she doesn't bother us . 1438079_1440098

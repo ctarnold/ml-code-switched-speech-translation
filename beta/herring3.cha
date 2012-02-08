@@ -2,14 +2,14 @@
 @UTF8
 @Begin
 @Languages:	spa, eng
-@Participants:	 ASH Ashley Adult, JAC Jack Adult, OSE Other_Speaker Adult
+@Participants:	ASH Ashley Adult, JAC Jack Adult, OSE Other_Speaker Adult
 @ID:	spa, eng|bangor3|ASH|36;2.|female|||Adult||
 @ID:	spa, eng|bangor3|JAC|41;9.|male|||Adult||
 @Media:	herring3, audio
 @Situation:	ASH and JAC are friends. Here they chat and play pool in the communal lounge area of the apartment block where ASH lives and works, in downtown Miami.
 @Comment:	SES background etc?
 @Date:	12-MAR-2008
-@Coder:	Jon Russell Herring, M. Carmen Parafita Couto, Prifysgol Bangor University
+@Coder:	Jon Russell Herring, M. Carmen Parafita Couto, Prifysgol Bangor University.    Original translation by Mary Silva.
 @Time Duration:	00:31:37
 @Comment:	Filename: herring3.CHA; Soundfile: herring3.wav
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
@@ -23,7 +23,7 @@
 *ASH:	+" yo trabajo aquí en el [/] (.) en el Marina_Blue@s:eng&spa . 7660_10562
 %eng:	I work here at the Marina Blue
 *ASH:	me dice +"/. 10710_11270
-%eng:	she tells me 
+%eng:	she tells me
 *ASH:	+" oh . 11270_11544
 %eng:	oh
 *ASH:	le digo +"/. 11681_12019
@@ -35,7 +35,7 @@
 *ASH:	sí . 13952_14498
 %eng:	yes
 *ASH:	y nada le dije +"/. 15710_16427
-%eng:	and I didn’t say anything else
+%eng:	and I didn't say anything else
 *ASH:	+" pasa por ahí . 16396_17029
 %eng:	go over there
 *ASH:	me dice +"/. 17029_17272
@@ -47,11 +47,11 @@
 *ASH:	y este muchacho +... 26007_27200
 %eng:	and this guy
 *JAC:	no lo viste ? 27210_28255
-%eng:	didn’t you see him?
+%eng:	didn't you see him?
 *JAC:	no . 28398_29739
 %eng:	no
 *ASH:	+< no no no tenía un libro así bello I@s:eng mean@s:eng . 28683_32124
-%eng:	no, no, he didn’t have a book as lovely as this, I mean
+%eng:	no, no, he didn't have a book as lovely as this, I mean
 *ASH:	&e muebles vienen de Italia . 32109_33914
 %eng:	the furniture comes from Italy
 *ASH:	y los hacen . 33939_35227
@@ -60,7 +60,7 @@
 %eng:	and he says it takes
 *JAC:	si es un camión de diez . 38948_40500
 %eng:	yes, it is a truckload of ten
-*ASH:	+< [- eng] +, six to eight weeks . 39402_40711
+*ASH:	+< +, [- eng] six to eight weeks . 39402_40711
 *JAC:	[- eng] shit ! 40922_41788
 *ASH:	[- eng] six to eight weeks yeah . 41672_42727
 *JAC:	huy ! 42808_43705
@@ -92,7 +92,7 @@
 %eng:	yacht interior
 *ASH:	+< [- eng] yacht interiors . 73382_74860
 *ASH:	that's@s:eng because@s:eng th(at)@s:eng [/] that's@s:eng big@s:eng business@s:eng for@s:eng him@s:eng in@s:eng (.) Fort_Lauderdale@s:eng&spa . 76581_82007
-%eng:	that’s because that’s big business for him in Fort Lauderdale
+%eng:	that's because that's big business for him in Fort Lauderdale
 *ASH:	[- eng] so he's done yachts residential and commercial . 82265_85685
 *JAC:	+< [- eng] yacht yacht like a boat ? 85094_86530
 *ASH:	+< [- eng] yachts like a boat . 85653_87585
@@ -121,8 +121,8 @@
 %eng:	yes I know
 *ASH:	y le digo +"/. 118844_119287
 %eng:	and I tell him
-*ASH:	+" o_k @s:eng&spa está bien ! 119287_120047
-%eng:	OK, it’s alright!
+*ASH:	+" o_k@s:eng&spa está bien ! 119287_120047
+%eng:	OK, it's alright!
 *ASH:	y ya . 122155_122768
 %eng:	OK
 *ASH:	bueno pero te estaba diciendo . 123781_125575
@@ -141,7 +141,7 @@
 *ASH:	que no [/] (.) <no tiene > [//] (..) no tiene dónde (..) dón(de) +//. 137726_144571
 %eng:	that no, she has nothing, nowhere
 *ASH:	you@s:eng know@s:eng no tiene nada que se siente un poquito +... 144573_146959
-%eng:	you know, she doesn’t have anything, she feels a little
+%eng:	you know, she doesn't have anything, she feels a little
 *JAC:	no [/] no [/] no me debe el cheque . 147054_149332
 %eng:	no, no, no, I'm missing the check
 *ASH:	+< ah@s:eng&spa pero yo creí que tú me estabas pidiendo dónde estaba . 148614_150725
@@ -179,7 +179,7 @@
 %eng:	oh God, I have an appointment with a lady to do her taxes
 *JAC:	[- eng] mmhm . 204997_205984
 *ASH:	pero mi printer@s:eng doesn't@s:eng work@s:eng with@s:eng the@s:eng old@s:eng computer@s:eng that@s:eng we@s:eng have@s:eng . 206087_212345
-%eng:	but my printer doesn’t work with the old computer that we have
+%eng:	but my printer doesn't work with the old computer that we have
 *ASH:	[- eng] like it doesn't reco(gnise) [//] the printer that they gave me . 212503_215301
 *ASH:	[- eng] and I try updating . 215963_217774
 *JAC:	+< [- eng] what printer ? 216892_217588
@@ -318,7 +318,7 @@
 *ASH:	terminaron (.) de emplear a alguien para que hicieran el +... 386659_390092
 %eng:	they ended up employing someone to do the
 *JAC:	a nadie han cogido . 390098_390975
-%eng:	they haven’t hired anyone
+%eng:	they haven't hired anyone
 *ASH:	ay pa(pi) . 392653_393854
 %eng:	oh honey
 *ASH:	habla a ver si +... 393982_395450
@@ -331,15 +331,15 @@
 *ASH:	pobrecita . 403687_404372
 %eng:	poor thing!
 *ASH:	oh al del marido de Elena@s:eng&spa le están pagando <seis dólares > [//] siete dólares la hora . 404291_408238
-%eng:	they are paying six, seven dollars an hour to Elena’s husband
+%eng:	they are paying six, seven dollars an hour to Elena's husband
 *ASH:	y él [/] <él sabe cambiar un > [/] él sabe cambiar un bombillo . 410027_413104
 %eng:	and he knows how to change a light bulb
 *JAC:	+< faltan tres gen(te) fal(tan) saben [//] faltan tres gente y no han cogido a nadie . 410596_414253
-%eng:	they need three persons and they haven’t hired anyone
+%eng:	they need three persons and they haven't hired anyone
 *ASH:	y que están tratando de ahorrar para este fin de semana ? 415531_418260
 %eng:	and what are they trying to save for this weekend?
 *JAC:	+< yo no sé lo que están tratando de hacer . 416924_418369
-%eng:	I don’t know what they are trying to do
+%eng:	I don't know what they are trying to do
 *JAC:	yo sé que están haciendo algo extraño ahí . 418480_420094
 %eng:	I know they are doing something strange there
 *JAC:	que nadie quiere le gusta . 420048_421023
@@ -347,7 +347,7 @@
 *ASH:	quién está haciéndolo la oficina o Lorenzo@s:eng&spa ? 422493_424757
 %eng:	who is doing it, the office or Lorenzo?
 *JAC:	<la oficina > [/] la oficina Karen@s:eng&spa . 424571_426905
-%eng:	the office, Karen’s office
+%eng:	the office, Karen's office
 *ASH:	+< o (..) la oficina . 424745_426313
 %eng:	or, the office
 *ASH:	es porque las tienen así de apretadas . 427347_430876
@@ -366,7 +366,7 @@
 *ASH:	pero de lo más (..) alborotada . 442008_444788
 %eng:	but really agitated
 *ASH:	ayer a las siete . 444788_446282
-%eng:	yesterday at seven o’clock
+%eng:	yesterday at seven o'clock
 *ASH:	diciéndole que el sales@s:eng office@s:eng (.) le había dicho que cruzara la calle que nosotros íbamos a hacer la [//] (..) el orientation@s:eng . 446379_454207
 %eng:	she was saying that the sales office told her to cross the street, that we would do the orientation
 *ASH:	[- eng] so when she got there . 456198_457405
@@ -439,7 +439,7 @@
 *ASH:	[- eng] which one ? 549610_550817
 *JAC:	the@s:eng one@s:eng <en &k> [/] en casa de +... 551851_554267
 %eng:	the one in the house of
-*ASH:	oh@s:eng&spa o_k @s:eng&spa . 555062_556032
+*ASH:	oh@s:eng&spa o_k@s:eng&spa . 555062_556032
 *JAC:	Jacob@s:eng&spa +... 556287_557506
 *ASH:	[- eng] hey wait a second . 556693_557262
 *ASH:	[- eng] let me finish my story . 557227_558272
@@ -462,9 +462,9 @@
 *ASH:	+" [- eng] it sure is . 590209_590859
 *ASH:	+" [- eng] it's on the report today and yesterday . 590894_592542
 *ASH:	[- eng] she says +"/. 592724_593020
-*ASH:	+" [- eng] well we need to extend (.) more courtesy . 0_0
-*ASH:	[- eng] I said +"/. 0_0
-*ASH:	+" [- eng] hold on one second . 593072_597037
+*ASH:	+" [- eng] well we need to extend (.) more courtesy . 593057_595617
+*ASH:	[- eng] I said +"/. 595617_595798
+*ASH:	+" [- eng] hold on one second . 595768_597037
 *ASH:	+" [- eng] did you see how excited she is ? 597569_599403
 *ASH:	+" [- eng] did you know how upset she was yesterday ? 599926_602368
 *ASH:	because@s:eng they@s:eng kept@s:eng her@s:eng four@s:eng hours@s:eng just@s:eng sitting@s:eng there@s:eng waiting@s:eng for@s:eng Clare@s:eng&spa . 602375_606630
@@ -540,7 +540,7 @@
 *ASH:	está como un intern@s:eng . 727400_728410
 %eng:	he is like an intern
 *ASH:	no le pagan . 728416_729600
-%eng:	he doesn’t get paid
+%eng:	he doesn't get paid
 *ASH:	pero <le dejan hacer > [//] &b le dejan estar ahí en el estudio . 730183_733863
 %eng:	but they let him be there in the studio
 *ASH:	dice él que [=! laugh] (.) que no (.) you@s:eng know@s:eng él nunca ha hecho nada así . 733968_737326
@@ -556,9 +556,9 @@
 *ASH:	sí . 756839_757838
 %eng:	yes
 *JAC:	y a ver qué sale de ahí después . 759231_760485
-%eng:	and let’s see what comes out of this later
+%eng:	and let's see what comes out of this later
 *ASH:	yo no sabía que él estaba viviendo con su mamá . 760406_762949
-%eng:	I didn’t know he was living with his mother
+%eng:	I didn't know he was living with his mother
 *JAC:	sí ? 764048_764593
 %eng:	yes?
 *JAC:	por eso es que está faja(d)o con el padrastro . 765789_767484
@@ -572,9 +572,9 @@
 *JAC:	es el espacio (.) y la tensión . 771924_774251
 %eng:	it is the space and the stress
 *ASH:	de quién del marido o del hijo ? 774792_776411
-%eng:	the husband’s stress or the son’s?
+%eng:	the husband's stress or the son's?
 *JAC:	+< de la mamá ! 776348_777253
-%eng:	the mother’s!
+%eng:	the mother's!
 *ASH:	pero papi eso es &=mumble +... 778079_780157
 %eng:	but honey this is ...
 *JAC:	y aún [?] . 779935_780806
@@ -663,7 +663,7 @@
 *JAC:	oh@s:eng&spa . 935671_936124
 *ASH:	[- eng] so five and four . 936480_937687
 *JAC:	esos números que tú estás haciendo no se entienden . 937118_939487
-%eng:	I don’t understand those numbers you are doing
+%eng:	I don't understand those numbers you are doing
 *ASH:	+< &=laugh . 938210_939417
 *ASH:	[- eng] a(nd) four is nine carry the one . 939800_942377
 *JAC:	[- eng] no no don't carry nothing . 942302_943742
@@ -686,7 +686,7 @@
 *ASH:	[- eng] that would be nine . 975166_976455
 *ASH:	[- eng] that's still eight . 976443_977697
 *JAC:	+< esto cuentas esto aquí no más y ya . 976745_978579
-%eng:	you count this, here only, that’s it
+%eng:	you count this, here only, that's it
 *JAC:	cuatro . 978777_979659
 %eng:	four
 *ASH:	cinco seis siete ocho nueve . 979682_981679
@@ -707,7 +707,7 @@
 *ASH:	[- eng] I don't know . 995972_996390
 *ASH:	[- eng] I'm slow with that . 996367_997412
 *JAC:	este grande no lo ha(ces) +//. 997448_998493
-%eng:	that big one doesn’t do it
+%eng:	that big one doesn't do it
 *JAC:	estos tres que están aquí no hacen uno grandote . 998469_1000431
 %eng:	those three ones that are here do not make a big one
 *JAC:	entonces tú pones el uno ahí . 1000408_1001801
@@ -779,7 +779,7 @@
 *JAC:	+< [- eng] I'm talking about something that I like to eat . 1099062_1101941
 *ASH:	[- eng] what would you like to eat ? 1101848_1103032
 *JAC:	+< I@s:eng don't@s:eng care@s:eng where@s:eng we@s:eng eat@s:eng [?] como si es en la esquina ahí en un carrito de esos . 1102022_1105018
-%eng:	I don’t care where we eat, whether it's at the corner of the street, from one of those foodcarts
+%eng:	I don't care where we eat, whether it's at the corner of the street, from one of those foodcarts
 *JAC:	pero algo que m(e) +... 1106084_1107017
 %eng:	but something that
 *ASH:	are@s:eng you@s:eng gonna@s:eng find@s:eng something@s:eng en el carrito ? 1106165_1108289
@@ -787,7 +787,7 @@
 *JAC:	no pero te digo . 1108380_1109506
 %eng:	no, but I'm telling you
 *JAC:	no tiene que ser un restaurant@s:eng . 1109471_1110911
-%eng:	it doesn’t have to be at a restaurant
+%eng:	it doesn't have to be at a restaurant
 *JAC:	tú fuiste la que hablaste del restaurant@s:eng . 1111476_1112996
 %eng:	you were the one that talked about a restaurant
 *JAC:	[- eng] <I not> [/] I not talking about restaurant . 1112904_1114158
@@ -832,12 +832,12 @@
 *ASH:	y cómo es que tú te comiste un hotdog@s:eng si yo te traje almuerzo hoy ? 1153865_1157673
 %eng:	and how is it that you ate a hot dog if I brought you lunch today?
 *JAC:	no pero eso fue a las diez de la mañana . 1157882_1159949
-%eng:	no, but that was at ten o’clock in the morning
+%eng:	no, but that was at ten o'clock in the morning
 *JAC:	no a la hora de comida no [/] no . 1160030_1161829
 %eng:	not at lunch time, no, no
 *ASH:	+< &=laugh . 1161737_1163432
 *JAC:	y era un [//] (.) no era hotdog@s:eng . 1163796_1165978
-%eng:	and it wasn’t a hot dog
+%eng:	and it wasn't a hot dog
 *ASH:	qué era una salchicha ? 1165978_1167302
 %eng:	what was it, a sausage?
 *JAC:	parece una salchicha sí era un pito largo así . 1167395_1170529
@@ -883,18 +883,18 @@
 *JAC:	no . 1219620_1220270
 %eng:	no
 *ASH:	mira que bien . 1220270_1221210
-%eng:	that’s fine
+%eng:	that's fine
 *ASH:	a mí no me gusta el pan cuando ew@s:eng&spa hotdog@s:eng . 1221152_1223300
 %eng:	I do not like the bread when, hot dog
 *JAC:	sí pero es +... 1223370_1224403
 %eng:	yes but it is
 *ASH:	+< me lo pones en un plato y ya +/. 1223486_1224565
-%eng:	put it on a plate, that’s it
+%eng:	put it on a plate, that's it
 *JAC:	+< en la xxx esa no era pa(ra) comerse na(da) más que el hotdog@s:eng . 1223996_1227050
 %eng:	in the ... that one it was only to eat the hot dog
 *ASH:	+, y yo me lo como . 1224542_1225552
 %eng:	and I ate it
-*ASH:	o_k @s:eng&spa . 1227608_1228072
+*ASH:	o_k@s:eng&spa . 1227608_1228072
 *JAC:	+< entonces tú coges las salsitas de [///] que están allí . 1227758_1229988
 %eng:	so you take the sauces from, that are there
 *JAC:	hay carne hay toda una parti(d)a de cosas . 1229976_1231834
@@ -926,7 +926,7 @@
 %eng:	how much is it?
 *JAC:	+" uno veinticinco . 1257147_1258331
 %eng:	one twenty five
-*ASH:	&=laugh o_k @s:eng&spa . 1259632_1261524
+*ASH:	&=laugh o_k@s:eng&spa . 1259632_1261524
 *ASH:	esto Pablito@s:eng&spa me estaba diciendo que a ella [?] le gustaba . 1261582_1263916
 %eng:	that, Pablito was telling me that she liked it
 *ASH:	porque tení(a) [//] te podías poner lo que +... 1263916_1266400
@@ -962,24 +962,24 @@
 *JAC:	el refrigerador . 1307120_1308502
 %eng:	in the refrigerator
 *ASH:	ese refrigerador no se llena con cien pesos . 1308838_1311114
-%eng:	that refrigerator doesn't (even) get filled with a hundred dollars 
+%eng:	that refrigerator doesn't (even) get filled with a hundred dollars
 *JAC:	con menos ? 1311241_1312391
 %eng:	with less?
 *ASH:	más . 1312402_1313680
 %eng:	more
 *JAC:	pero no hay que llenarlo tampoco . 1313575_1315061
-%eng:	but it doesn’t have to be full
+%eng:	but it doesn't have to be full
 *JAC:	no es una misión llenarlo . 1315015_1316118
 %eng:	it's not a requirement to fill it
 *ASH:	o_k está bien . 1317217_1317820
-%eng:	OK, it’s OK
+%eng:	OK, it's OK
 *JAC:	oh@s:eng&spa ah@s:eng&spa . 1317790_1318358
 *ASH:	pero ahora ponte a pensar . 1318457_1319572
 %eng:	but now start thinking
 *ASH:	no lo lleno . 1319548_1320489
-%eng:	I don’t fill it
-*ASH:	o_k @s:eng&spa está bien . 1320437_1321116
-%eng:	OK, it’s OK
+%eng:	I don't fill it
+*ASH:	o_k@s:eng&spa está bien . 1320437_1321116
+%eng:	OK, it's OK
 *ASH:	tú has visto el refrigerador ahora ? 1321226_1322840
 %eng:	have you seen the refrigerator now?
 *JAC:	qué tiene ? 1322890_1323465
@@ -987,7 +987,7 @@
 *ASH:	nada . 1323465_1324057
 %eng:	nothing
 *JAC:	no tiene nada ? 1324295_1324869
-%eng:	it doesn’t have anything?
+%eng:	it doesn't have anything?
 *ASH:	dos huevos creo que hay . 1324893_1326083
 %eng:	I think there are two eggs
 *JAC:	hay que comprar huevos entonces [/] entonces . 1326901_1328544
@@ -1064,7 +1064,7 @@
 *ASH:	+< y vamos a salir con la niña (.) y después con el niño . 1458421_1462531
 %eng:	and we are going with the girl and then with the boy
 *JAC:	no entiendo eso . 1464006_1464795
-%eng:	I don’t understand that
+%eng:	I don't understand that
 *JAC:	vamos a ir a (.) Disneyworld@s:eng&spa when@s:eng the@s:eng baby@s:eng and@s:eng later@s:eng when@s:eng the@s:eng boy@s:eng ? 1464795_1468383
 %eng:	we are going to Disneyworld when the baby and later when the boy
 *ASH:	sí porque ella no viene al mismo tiempo . 1468464_1471192
@@ -1170,7 +1170,7 @@
 *ASH:	y le digo +"/. 1629781_1630245
 %eng:	and I tell him
 *ASH:	+" no le digas nada papá . 1630228_1631307
-%eng:	don’t tell anything to your dad
+%eng:	don't tell anything to your dad
 *ASH:	tú [/] tú eres menor de edad todavía . 1631281_1633334
 %eng:	you are still a minor
 *ASH:	ahora . 1633316_1634848
@@ -1211,11 +1211,11 @@
 *ASH:	no@s:eng Rupert@s:eng&spa never@s:eng has@s:eng wanted@s:eng mucho así [/] así tampoco . 1694537_1698128
 %eng:	no, Rupert never has wanted a lot like that either
 *ASH:	no creo . 1698116_1699051
-%eng:	I don’t think so
+%eng:	I don't think so
 *JAC:	so@s:eng a qué edad Rupert@s:eng&spa salió de la casa ? 1699028_1703659
 %eng:	so at what age did Rupert leave the house?
 *ASH:	+< no sé . 1699028_1703601
-%eng:	I don’t know
+%eng:	I don't know
 *ASH:	Ru(pert)@s:eng&spa [/] Rupert@s:eng&spa salió de la casa a las trece . 1703579_1705657
 %eng:	Rupert left the house when he was thirteen
 *JAC:	a los trece ? 1705593_1706522
@@ -1248,7 +1248,7 @@
 *ASH:	y yo siempre se lo digo . 1729962_1731576
 %eng:	and I always tell him
 *JAC:	+< no es problema de que tú quieras o no quieras . 1730033_1732744
-%eng:	it is not a question of what you want or don’t want
+%eng:	it is not a question of what you want or don't want
 *JAC:	&ts si Rupert@s:eng&spa se salió a su ca(sa) [/] de su casa a los trece años . 1732709_1736582
 %eng:	if Rupert left home at thirteen
 *JAC:	y el niño tiene dieciséis . 1736564_1737725
@@ -1325,13 +1325,13 @@
 *JAC:	veinticuatro por seis . 1855326_1856714
 %eng:	twenty-four six
 *JAC:	yo iba a la a casa de mi mujer . 1856696_1859349
-%eng:	I would go to my wife’s house
+%eng:	I would go to my wife's house
 *JAC:	ésa es la casa de mi mujer . 1859669_1861144
-%eng:	that is my wife’s house
+%eng:	that is my wife's house
 *JAC:	mi casa es la casa de mi mamá . 1861130_1862628
-%eng:	my home is my mother’s house
+%eng:	my home is my mother's house
 *JAC:	mi casa de mi mujer viviendo y todo allá . 1862586_1865018
-%eng:	my wife’s house, living and everything there
+%eng:	my wife's house, living and everything there
 *JAC:	sí sí aquí llegué . 1865007_1866522
 %eng:	yes, yes, I got here
 *JAC:	mira aquí hay comida . 1866475_1867520

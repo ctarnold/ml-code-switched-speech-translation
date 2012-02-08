@@ -4,11 +4,10 @@
 @Participants:	RIC Richard Adult, SEB Sebastian Adult
 @ID:	spa, eng|bangor3|RIC|22;6.|male|||Adult||
 @ID:	spa, eng|bangor3|SEB||male|||Adult||
-@Media: herring7
-@Situation:	RIC and SEB are workmates at a courier company. Here they are talking while seated the cafe area of a shopping mall in central Miami.
-@Comment:	SES background etc?
+@Media:	herring7 audio
+@Situation:	RIC and SEB are workmates at a courier company. Here they are talking while seated in the cafe area of a shopping mall in central Miami.
 @Date:	21-MAR-2008
-@Coder:	Jon Russell Herring, Prifysgol Bangor University
+@Coder:	Jon Russell Herring, Prifysgol Bangor University.    Original translation by M. Carmen Parafita Couto.
 @Time Duration:	00:24:53
 @Comment:	Filename: herring7.CHA; Soundfile: herring7.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
@@ -102,7 +101,7 @@
 *RIC:	damn . 160756_161946
 *SEB:	but . 162520_163621
 *RIC:	+< I wanna see it . 162632_163371
-*RIC:	look at that ]/[ look at that over there . 163767_165171
+*RIC:	<look at that> [/] look at that over there . 163767_165171
 *SEB:	yeah . 166396_167666
 *RIC:	oh my god bro . 168460_170202
 *SEB:	so (.) none of [/] none of [/] none of the endings is [/] is like relative to [/] (.) to the movie [//] to the book . 170146_177471
@@ -764,12 +763,12 @@
 *RIC:	era@s:spa más@s:spa vieja@s:spa que@s:spa Perfume@s:eng&spa yeah . 1356621_1358655
 %eng:	it was older than Perfume yeah.
 *SEB:	+< yeah ? 1357722_1358116
-*SEB:	vi@s:spa la@s:spa &pa [///] ese@s:spa trabaja@s:spa ese@s:spa tipo@s:spa de@s:spa Shoot_'Em_Up@s:eng&spa ? 1358887_1361775
+*SEB:	vi@s:spa la@s:spa &pa [///] ese@s:spa trabaja@s:spa ese@s:spa tipo@s:spa de@s:spa Shoot_Em_Up@s:eng&spa ? 1358887_1361775
 %eng:	I saw that that guy from Shoot Em UP works there.
-*RIC:	yeah yeah yeah Shoot_'Em_Up@s:eng&spa . 1362325_1363370
+*RIC:	yeah yeah yeah Shoot_Em_Up@s:eng&spa . 1362325_1363370
 *SEB:	+< yeah that guy works there . 1362718_1364550
 *RIC:	+< Clive@s:eng&spa Owen@s:eng&spa . 1364257_1365246
-*SEB:	which one ? +/. 1366112_1367101
+*SEB:	which one +/? 1366112_1367101
 *RIC:	+< <have you> [/] have you seen Bad_Boys_Two@s:eng&spa ? 1366460_1368741
 *SEB:	yeah . 1368794_1369479
 *RIC:	you know el@s:spa [/] <el@s:spa bad guy> [/] the bad guy in part two ? 1369490_1372681
@@ -804,7 +803,7 @@
 *RIC:	huh@s:eng&spa . 1406290_1406930
 *SEB:	en@s:spa esa@s:spa no@s:spa es@s:spa en@s:spa la@s:spa que@s:spa el@s:spa er@s:eng&spa [//] destruyen@s:spa toda@s:spa la@s:spa flo(ta)@s:spa a@s:spa España@s:spa ? 1408595_1411381
 %eng:	isn't it that one where they destroy the whole Spanish fleet.
-*RIC:	when what ? 	1412224_1412853
+*RIC:	when what ? 1412224_1412853
 *SEB:	[- spa] que le [?] destruyen toda la flota a España . 1412842_1415066
 %eng:	they destroyed the whole Spanish fleet.
 *RIC:	yeah . 1415055_1415538

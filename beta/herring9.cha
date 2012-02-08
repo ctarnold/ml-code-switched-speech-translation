@@ -1,19 +1,18 @@
-@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	 CLA Claire Adult, LUK Luke Adult
+@Participants:	CLA Claire Adult, LUK Luke Adult
 @ID:	spa, eng|bangor3|CLA|21;4.|female|||Adult||
 @ID:	spa, eng|bangor3|LUK|20;6.|male|||Adult||
-@Media: herring9
+@Media:	herring9 audio
 @Situation:	LUK and CLA are boyfriend and girlfriend. They are talking in the university library study room at Florida International University (FIU), Miami.
-@Comment:	SES background etc?
 @Date:	24-MAR-2008
-@Coder:	Jon Russell Herring, Prifysgol Bangor University
+@Coder:	Jon Russell Herring, Prifysgol Bangor University.    Original translation by Kevin Donnelly.
 @Time Duration:	00:32:40
 @Comment:	Filename: herring9.cha; Soundfile: herring9.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:ita= Italian, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Comment:	Proofread. date: 25-SEPT-2009
+@Warning:	some remaining questions recorded in comment tier
 *CLA:	the two piece set <of the &gla> [//] of the water glasses is +... 23_3140
 *LUK:	can you do me a favor ? 3197_4405
 *CLA:	what ? 4457_4979
@@ -102,10 +101,10 @@
 *LUK:	no put it on the school . 205476_206578
 *LUK:	put it um@s:eng&spa <move to> [/] move to school . 206584_209309
 *CLA:	um@s:eng&spa . 209777_211172
-*LUK:	to F_I_U@s:eng&spa 209777_211172
+*LUK:	to F_I_U@s:eng&spa . 209777_211172
 *LUK:	right here move (.) to (..) F_I_U@s:eng&spa . 210503_214814
 *LUK:	alright and then check the other ones for me . 215102_217818
-*LUK:	just click on it 217691_219773
+*LUK:	just click on it . 217691_219773
 *LUK:	ok [=! whisper] . 220533_221643
 *LUK:	now someone show me +... 225941_229481
 *LUK:	how we're fixing xxx please . 229531_232585
@@ -183,7 +182,7 @@
 *LUK:	because I can't put it up and down . 359415_362799
 *LUK:	<and my car just> [//] and the car just goes on . 362957_364729
 *LUK:	and you know what I noticed ? 364729_365741
-*LUK:	if I had the car +... 0_0
+*LUK:	if I had the car +... 365634_366859
 *CLA:	yeah ? 367059_367576
 *LUK:	+, on (.) it won't work any more . 367565_369421
 *LUK:	the car has to be off for it to come now . 369442_371540
@@ -196,7 +195,7 @@
 *LUK:	yeah (.) click on the arrow next to the junk too . 385339_389092
 *LUK:	there we go . 389137_390360
 *LUK:	isn't that just intuitive (.) the arrow ? 390138_393112
-*CLA:	+> whatever (.) no <I have a> [//] mine is better . 390655_393987
+*CLA:	+< whatever (.) no <I have a> [//] mine is better . 390655_393987
 *LUK:	ok@s:eng&spa you can &lo [/] log me out . 394015_396778
 *LUK:	good girl . 396887_398469
 *LUK:	&=kiss [x 3] . 398311_399228
@@ -303,22 +302,24 @@
 *LUK:	but I really +/. 568196_568754
 *CLA:	I think by now it should be fixed . 568754_570280
 *LUK:	we need to go back a(nd) see . 570315_571720
-*CLA:	look how pretty the gazebo looks 571621_573891
+*CLA:	look how pretty the gazebo looks . 571621_573891
 *CLA:	did you see it ? 571621_573891
-*LUK:	the <gays bo> ? 573897_575156
+*LUK:	the <gays bo> ["] ? 573897_575156
+%com:	should this be in IPA?
 *CLA:	&=laugh oh my god . 575226_578361
 *CLA:	they're gonna be like +"/. 578344_579101
 *CLA:	+" what the hell are you talking about ? 579093_580451
 *CLA:	xxx [=! laugh] . 580463_582106
 *LUK:	+< &=laugh . 580660_581711
-*LUK:	ah@s:eng&spa <gays bo> look it up ! 582486_584893
+*LUK:	ah@s:eng&spa <gays bo> ["] look it up ! 582486_584893
+%com:	should this be in IPA?
 *CLA:	mmhm@s:eng&spa it's from the teacher reference . 584899_588197
 *CLA:	ignore him . 588229_589140
 *CLA:	ok@s:eng&spa so Flamingo_Gardens@s:eng&spa . 588775_591167
 *LUK:	+< &=laugh (.) why are you talking to your shirt ? 590803_592014
 *CLA:	&=laugh . 592047_593615
 *LUK:	&=laugh . 592047_593615
-*LUK:	I +... 593845_594698
+*LUK:	I +... 593645_594698
 *CLA:	+< (be)cause I don't want them to think you're crazy or something . 593687_595977
 *LUK:	you're so adorable . 595977_597194
 *CLA:	&ǀ love you . 597191_601393
@@ -352,10 +353,10 @@
 *LUK:	why <can't uh@s:eng&spa> [//] can't that come to mind now ? 644179_647169
 *LUK:	we were just talking to this guy from Wales . 647134_649000
 *LUK:	and that maybe reminded me of her . 649006_650826
-*CLA:	[- spa] no te oigo 650808_651325
+*CLA:	[- spa] no te oigo . 650808_651325
 %eng:	I'm not listening to you.
-*CLA:	I've put it [/] I typed it in right ? 650560_652900
-*LUK:	+< I wonder if she settled ? 0_0
+*CLA:	<I've put it> [/] I typed it in right ? 651325_652900
+*LUK:	+< I wonder if she settled ? 651493_652828
 *CLA:	and it didn't go to the website . 652826_654585
 *LUK:	I wonder what ever happened to her . 653209_654928
 *CLA:	why don't you go email her . 655838_657167
@@ -576,7 +577,7 @@
 *LUK:	+" Lassie@s:eng&spa let's go now outside . 996995_999009
 *CLA:	&=laugh . 998618_999409
 *CLA:	um@s:eng&spa . 999622_1000698
-*LUK:	&=noise . 0_0
+*LUK:	&=noise . 1000520_1001968
 %com:	LUK imitates gunshots being fired .
 *CLA:	+< the [/] the [///] my mom said that they had to take him to the vet . 1000613_1003829
 *CLA:	and like they put like the [/] the [///] they give him I guess an enema . 1003727_1006996
@@ -858,8 +859,9 @@
 *LUK:	<are you gonna wri(te)> [///] well maybe because some of them they actually write the fricking numbers out . 1504583_1508637
 *LUK:	put the numbers in numbers . 1508727_1509792
 *LUK:	how about that ? 1509697_1510256
-*CLA:	amore@4 . 1510225_1510847
+*CLA:	amore@s:ita . 1510225_1510847
 %eng:	love.
+%com:	Italian or Spanish plural?
 *LUK:	[- spa] en números . 1510826_1511574
 %eng:	in numerals.
 *LUK:	no because I seen some of them that you know they write out <the name> [//] the numbers . 1511810_1514963
@@ -870,17 +872,17 @@
 *CLA:	+< because I wanted to do that introduction on the top . 1523924_1526391
 *LUK:	are we gonna do this for our family or for us ? 1526222_1528763
 *CLA:	well obviously it's not for us &=laugh ! 1528854_1531195
-*LUK:	+< are we [//] are you and I getting married ? 1529075_1531922
+*LUK:	+< <are we> [//] are you and I getting married ? 1529075_1531922
 *LUK:	or is the family getting a party (.) thrown ? 1531891_1534856
 *LUK:	I mean are we throwing a party for the fricking family or for you and me ? 1534824_1537418
 *LUK:	you know I don't wanna &ha [//] do it in Spanish . 1537724_1539643
 *LUK:	because I don't just don't like it . 1539622_1541699
-*LUK:	you like to say te@s:spa amo@s:spa . 1542408_1543578
+*LUK:	you like to say <te@s:spa amo@s:spa> ["] . 1542408_1543578
 %eng:	you like to say "I love you".
 *LUK:	that's pretty much the only thing <I'll con(cede)> [//] I [/] I'll [/] I'll give . 1543578_1546098
 *LUK:	just because you see it as special . 1546263_1547823
-*LUK:	I say I love you . 1547802_1548751
-*LUK:	and I mean it as &ti passionately <as you> [/] as you mean te@s:spa amo@s:spa . 1549419_1552815
+*LUK:	I say <I love you> ["] . 1547802_1548751
+*LUK:	and I mean it as &ti passionately <as you> [/] as you mean <te@s:spa amo@s:spa> ["] . 1549419_1552815
 %eng:	and I mean it as passionately as you mean "I love you".
 *CLA:	it doesn't have the same connotation you know . 1553306_1555552
 *LUK:	+< &=kiss . 1554371_1554677
