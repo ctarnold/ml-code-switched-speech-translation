@@ -1,4 +1,3 @@
-@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	eng, spa
@@ -14,7 +13,7 @@
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *JEN:	ok . 6_940
 *JOC:	no@s:eng&spa pero@s:spa pobrecito@s:spa he's only forty five . 853_3175
-%eng:	no, but poor little thing, he’s only forty five.
+%eng:	no, but poor little thing, he's only forty five.
 *JEN:	+< Tommy@s:eng&spa xxx . 2258_3907
 *JOC:	no . 3855_5039
 *JEN:	Tommy@s:eng&spa says que@s:spa he's xxx +/. 5024_7312
@@ -126,7 +125,7 @@
 *JEN:	xxx play nice . 126153_127233
 *JEN:	making fun . 127227_128045
 *JOC:	+< bueno@s:spa mi@s:spa viejo@s:spa está@s:spa (.) [//] he's very happy . 127482_130927
-%eng:	well my old guy is (.) he’s very happy.
+%eng:	well my old guy is (.) he's very happy.
 *JEN:	xxx . 129325_131937
 *JOC:	and he tells me yesterday . 131934_133031
 *JOC:	he goes +"/. 132990_133455
@@ -226,7 +225,7 @@
 *JEN:	she ignores me . 213223_214152
 *JOC:	&le she [///] that little boy has only been here for a month . 213467_216004
 *JEN:	que@s:spa I was saying que@s:spa pobrecito@s:spa he's only been here for a month . 214570_217416
-%eng:	that I was saying,poor little thing, he’s only been here for a month.
+%eng:	that I was saying,poor little thing, he's only been here for a month.
 *JEN:	so +... 217383_217685
 *JOC:	a month . 218027_218567
 *OSE:	www . 218551_220943
@@ -425,7 +424,7 @@
 %eng:	hello.
 *OSE:	www . 455922_458258
 *JOC:	[- spa] no no ellos están jugando arriba . 458252_460522
-%eng:	no no they’re playing upstairs.
+%eng:	no no they're playing upstairs.
 *JOC:	[- spa] pero cuando quieras vení . 460510_461793
 %eng:	but come whenever you want.
 *JOC:	oye@s:spa he tried the asparagus . 461773_464496
@@ -452,7 +451,7 @@
 *JOC:	+" [- spa] la pasta esa . 482837_483818
 %eng:	that paste thing
 *JOC:	+" [- spa] yo no quiero saber nada de la pasta de esa . 483830_485666
-%eng:	I don’t want to have anything to do with that paste thing.
+%eng:	I don't want to have anything to do with that paste thing.
 *JEN:	ay@s:spa how funny . 485497_487216
 %eng:	oh how funny.
 *JOC:	he calls it la@s:spa pasta@s:spa esa@s:spa . 487196_488972
@@ -470,9 +469,9 @@
 *JEN:	+< he called it la pasta . 500828_501867
 *JOC:	but remember they're not +/. 501818_502875
 *JEN:	+< [- spa] a mí no me gusta la pasta &=laughs ! 502492_505975
-%eng:	I don’t like paste!
+%eng:	I don't like paste!
 *JOC:	[- spa] a mí no me gusta la pasta ! 503637_505256
-%eng:	I don’t like paste!
+%eng:	I don't like paste!
 *JOC:	but remember [=! laughs] +... 505227_506255
 *JOC:	oh there's a new one . 506252_507419
 *JOC:	we're supposed to watch it . 507396_508406
@@ -545,7 +544,7 @@
 *JOC:	+< you have to start over . 574449_575599
 *JOC:	Florida . 575727_576232
 *JEN:	I'm not licensed anywhere else . 576342_578095
-*JOC:	+< if you move to another state you have to start &oh +/. 577462_579751
+*JOC:	+< if you move to another state you have to start +/. 577462_579751
 *JEN:	+< if I go to California +/. 578062_579426
 *JOC:	yeah . 579745_580012
 *JEN:	+, I either have to &ho take the test or hope that my scores are valid enough for that . 579932_584769
@@ -576,8 +575,8 @@
 *JEN:	and I feel really bad . 615422_616160
 *JEN:	(be)cause Marta's@s:eng&spa+eng asking me . 616136_616920
 *JEN:	and I'm like +"/. 616897_617170
-*JEN:	+" &ehh . 617170_617553
-*JEN:	+" bueno@s:spa Marta@s:eng&spa &ehh yeah . 617544_619593
+*JEN:	+" er +... 617170_617553
+*JEN:	+" bueno@s:spa Marta@s:eng&spa er yeah . 617544_619593
 %eng:	well Marta, yeah.
 *JEN:	or you know . 619582_620470
 *JOC:	but I mean the way I see it is +/. 619651_621898
@@ -672,7 +671,7 @@
 *JEN:	and we should just leave it open I think . 720575_722032
 *JOC:	yeah . 722021_722549
 *JEN:	ok but +... 722543_722963
-*JOC:	&ts &y yell to Chaquita@s:eng&spa . 722955_724656
+*JOC:	&ts &j yell to Chaquita@s:eng&spa . 722955_724656
 *JOC:	and see if she can open it . 724575_725498
 *JEN:	Chaquita@s:eng&spa ! 725488_726585
 *JEN:	she can't hear me . 726579_728002
@@ -703,7 +702,7 @@
 *JEN:	oh because she wants to see what's going on . 752070_753544
 *JEN:	so ok so xxx says +"/. 753713_754543
 *JEN:	+" oh@s:eng&spa está@s:spa muy@s:spa embullado@s:spa . 754532_755600
-%eng:	he’s really excited.
+%eng:	he's really excited.
 *JEN:	+" he's a little bit friendlier . 755571_757191
 *JOC:	+< yeah ! 755699_756680
 *JEN:	+" [- spa] está de xxx . 757118_758024
@@ -750,7 +749,7 @@
 *JEN:	oh ! 806363_807199
 *JEN:	but like books about what like ? 807174_809026
 *JOC:	+< but apparently +... 807592_808736
-*JEN:	like like novel &er +... 808724_810216
+*JEN:	like like novel or +... 808724_810216
 *JOC:	like I think like novels . 810199_811719
 *JEN:	really ? 811687_812900
 *JEN:	I didn't know that shit . 812859_814165
@@ -878,10 +877,10 @@
 *JOC:	I think that (.) in my job I have to center myself more than in your job . 996713_1001056
 *JEN:	well yeah even though the other day I told the patient something . 1001035_1004025
 *JEN:	and I was like +... 1003987_1004556
-*JEN:	as soon as I said it boy I was like &nier not didn't do good . 1004538_1008911
+*JEN:	as soon as I said it boy I was like &=noise not [//] didn't do good . 1004538_1008911
 *JOC:	+< said it . 1005422_1006461
 *JOC:	+< you were like +"/. 1006467_1007019
-*JOC:	+" ah ah &pring . 1007007_1008801
+*JOC:	+" ah ah &priŋk . 1007007_1008801
 *JEN:	but you know what ? 1008884_1009964
 *JEN:	hey . 1009952_1010452
 *JEN:	I said it . 1010446_1011398
@@ -902,9 +901,9 @@
 %eng:	you know we've been getting a lot of little old men.
 *JEN:	whatever cool . 1024836_1025841
 *JEN:	[- spa] pero hay una vieja que es xxx . 1025830_1028375
-%eng:	but there’s an old woman who is ....
+%eng:	but there's an old woman who is ....
 *JEN:	pobrecita@s:spa you know she's alone . 1028352_1029838
-%eng:	poor little thing, you know she’s alone.
+%eng:	poor little thing, you know she's alone.
 *JEN:	and you know how it is . 1029745_1031272
 *JEN:	so every time that she goes for therapy she'll ask you a thousand and one questions . 1031263_1035804
 *JOC:	[- spa] pobrecita . 1035804_1036553
@@ -931,9 +930,9 @@
 *JEN:	fulanita@s:spa esa@s:spa te@s:spa dijo@s:spa que@s:spa in four weeks . 1068578_1072206
 %eng:	Ms So-and-So told you in four weeks.
 *JEN:	+" [- spa] pero yo no entiendo . 1072186_1073812
-%eng:	but I don’t understand.
+%eng:	but I don't understand.
 *JEN:	+" [- spa] y si yo me siento mal yo no lo puedo ver antes de las cuatro semanas . 1073783_1077872
-%eng:	and if I feel bad I can’t see him until 4 weeks.
+%eng:	and if I feel bad I can't see him until 4 weeks.
 *JOC:	oh my god . 1077320_1078313
 *JEN:	bueno@s:spa of course . 1078303_1079424
 %eng:	well, of course.
@@ -945,7 +944,7 @@
 *JEN:	+" no no no no no pero@s:spa imagínate@s:spa . 1084198_1085852
 %eng:	no, no, no, no, but imagine.
 *JEN:	+" [- spa] porque yo no me siento mejor . 1085826_1087510
-%eng:	because I don’t feel any better.
+%eng:	because I don't feel any better.
 *JEN:	+" you've come for three sessions . 1087492_1090226
 *JOC:	&=laughs . 1090486_1093115
 *JEN:	+" I don't know what to tell you . 1091687_1093051
@@ -953,11 +952,11 @@
 *JOC:	you're not supposed to feel good at this point . 1093350_1095648
 *JEN:	yeah I told her +"/. 1094685_1095474
 *JEN:	+" [- spa] tú has venido a tres xxx imagínate . 1095439_1097779
-%eng:	you’ve come to three ..., imagine
+%eng:	you've come to three ..., imagine
 *JEN:	+" [- spa] eso no es magia . 1097747_1098983
-%eng:	it’s not magic
+%eng:	it's not magic
 *JEN:	+" [- spa] quisiera yo que fuera magia pero no es así . 1098977_1100939
-%eng:	I hope it’d be magic but it’s not like that.
+%eng:	I hope it'd be magic but it's not like that.
 *JEN:	+" [- spa] que yo lo que quiero es (.) ver &e +//. 1102510_1105717
 %eng:	but what I want is to see
 *JEN:	whatever . 1105694_1106257
@@ -986,7 +985,7 @@
 *JEN:	+" ok for your records . 1129293_1130657
 *JEN:	+" no because I have a [/] a friend whose a doctor in Cuba@s:eng&spa . 1130651_1134102
 *JEN:	+" [- spa] aquí no es nada . 1134084_1134800
-%eng:	there’s nothing here.
+%eng:	there's nothing here.
 *JEN:	+" pero@s:spa es@s:spa un@s:spa doctor@s:eng&spa en@s:spa Cuba@s:eng&spa &ba &ba &ba . 1134782_1136007
 %eng:	but he is a doctor in Cuba.
 *JEN:	and he's gonna tell me what I have to do . 1135990_1138436
@@ -1040,7 +1039,7 @@
 *JEN:	+" [- spa] bueno imagínate . 1188696_1189549
 %eng:	well, imagine.
 *JEN:	+" [- spa] yo creo que está en un lugar equivocado . 1189522_1191025
-%eng:	I think he’s in the wrong place.
+%eng:	I think he's in the wrong place.
 *JEN:	+" [- spa] porque (.) cualquier médico que sea bueno lo último aunque sea cirujano lo último xxx que va a hacer es operarte . 1191037_1197880
 %eng:	because operating is the last resort for any good doctor even for surgeons.
 *JEN:	+" [- spa] porque uno +//. 1197851_1198584
@@ -1087,7 +1086,7 @@
 *JEN:	I go +"/. 1235979_1236194
 *JEN:	+" no I understand that . 1236095_1237303
 *JOC:	+< [- spa] &a está bien . 1236357_1237181
-%eng:	it’s fine.
+%eng:	it's fine.
 *JEN:	+" I understand that . 1237293_1238193
 *JOC:	+< xxx . 1237700_1238547
 *JEN:	+" and I respect that . 1238181_1239122
@@ -1125,7 +1124,7 @@
 *JEN:	you know why he's doing that ? 1276426_1277511
 *JOC:	+< no he is &l . 1276524_1277267
 *JOC:	yeah he's levantando@s:spa la@s:spa pata@s:spa . 1277256_1278864
-%eng:	he’s lifting his leg.
+%eng:	he's lifting his leg.
 *JEN:	but you know why he's doing that ? 1278837_1280039
 *JOC:	no <he is> [/] he's doing the like the dog . 1279528_1281809
 *JEN:	+< you know why he's doing that ? 1280033_1281084
@@ -1176,7 +1175,7 @@
 %eng:	crazy!
 *JOC:	and when I told her +"/. 1335096_1336657
 *JOC:	+" [- spa] oye ese es mi novio . 1336634_1338149
-%eng:	hey, that’s my boyfriend.
+%eng:	hey, that's my boyfriend.
 *JEN:	she probably thought you were kidding . 1338147_1339732
 *JOC:	+< I came back in the afternoon . 1338989_1340516
 *JEN:	+< she probably thought you were kidding . 1339720_1341003
@@ -1191,9 +1190,9 @@
 *JOC:	she can't even take the order . 1347301_1350784
 *JOC:	even J_d and Carlos@s:eng&spa were like +"/. 1350768_1352637
 *JOC:	+" [- spa] &a &ba métete en la cocina por dios . 1352632_1355937
-%eng:	go into the kitchen for God’s sake.
+%eng:	go into the kitchen for God's sake.
 *JOC:	+" [- spa] por dios ! 1355910_1356653
-%eng:	for God’s sake!
+%eng:	for God's sake!
 *JEN:	+" make us a coffee xxx ! 1356113_1357512
 *JOC:	+< <they were> [/] they were screaming [=! laughs] . 1357007_1358627
 *JOC:	and they were like +"/. 1358581_1359139
@@ -1222,7 +1221,7 @@
 *JEN:	and he was like +"/. 1377677_1378380
 *JEN:	+" oh my god . 1378374_1379036
 *JOC:	no@s:eng&spa ella@s:spa está@s:spa enamorada@s:spa . 1379041_1380094
-%eng:	no, she’s in love.
+%eng:	no, she's in love.
 *JEN:	but she's like an older lady ? 1380088_1381319
 *JOC:	yeah well she's about his age . 1381310_1383272
 *JEN:	+< his age . 1382790_1383365
@@ -1291,7 +1290,7 @@
 *JEN:	I start talking to him . 1459940_1460776
 *JEN:	the man starts +"/. 1460754_1461196
 *JEN:	+" [- spa] no porque llevo siete meses &a: . 1461178_1463779
-%eng:	no because I’ve been seven months.
+%eng:	no because I've been seven months.
 *JEN:	still not looking at his age . 1463765_1465170
 *JOC:	mmhm . 1465146_1465588
 *JEN:	I did everything I could to him . 1465559_1467097
@@ -1464,7 +1463,7 @@
 *JOC:	you're right . 1678932_1680191
 *JOC:	why is that ? 1680191_1680934
 *JEN:	[- spa] es cariño . 1680913_1682050
-%eng:	it’s affection.
+%eng:	it's affection.
 *JEN:	I think it's just (.) you get used to it . 1682033_1684239
 *JOC:	wow you're right . 1684224_1685809
 *JEN:	+< right ? 1685194_1685710
@@ -1526,9 +1525,9 @@
 *JEN:	by no means . 1731645_1732492
 *JOC:	he's eating a cable . 1732484_1733628
 *JOC:	he's comiendose@s:spa un@s:spa cable@s:spa . 1733616_1734922
-%eng:	he’s has no money.
+%eng:	he's has no money.
 *JEN:	+< mmhm . 1734436_1735051
-*JOC:	&hah like J_d says &hah &hah . 1735069_1737478
+*JOC:	&=pant like J_d says &=pant &=pant . 1735069_1737478
 *JEN:	+< yeah yeah . 1735846_1736421
 *JEN:	&n &n yeah <he's eating> [//] he's in the cable . 1737474_1740423
 *JOC:	+< [- spa] la rata la rata comiéndose cable [=! laughs] . 1738769_1743131
@@ -1652,7 +1651,7 @@
 *JEN:	on the way &o +/. 1865693_1866471
 *JOC:	Owen@s:eng&spa tells me every day +"/. 1867639_1869027
 *JOC:	+" por@s:spa qué@s:spa tú@s:spa no@s:spa llamas@s:spa al@s:spa animal control ? 1869032_1871124
-%eng:	why don’t you call animal control ?
+%eng:	why don't you call animal control ?
 *JOC:	&bi &bu &bu &bi &pa &pa &bi &du &du &du &di &di &di . 1871130_1873823
 *JEN:	+< yeah that's really sad . 1872047_1872993
 *JOC:	ay@s:spa but at the end of the day you know it's just not in my nature . 1874164_1877525
@@ -1670,7 +1669,7 @@
 *JEN:	+" whatever I think I'm just gonna wear little bermudas . 1892027_1894192
 *JEN:	+" and you know call it a day . 1894171_1896238
 *JEN:	+" oh <I just bought this little> [//] I just got this little um like summer dress from Old_navy@s:eng&spa . 1896222_1900980
-*JOC:	&phw [=! laughs] . 1896356_1898521
+*JOC:	&=raspberry [=! laughs] . 1896356_1898521
 *JEN:	+" because I went to go buy shorts . 1900968_1902048
 *JEN:	+" and I'm too fat . 1902036_1903058
 *JEN:	+" and &ba &ba &ba &ba &ba &ba . 1903013_1903832
@@ -1714,7 +1713,7 @@
 *JOC:	somebody's at the door . 1957610_1958992
 *JOC:	I don't know why somebody did that . 1958978_1960946
 *JOC:	[- spa] yo no cerré la puerta [?] . 1960928_1962815
-%eng:	I didn’t close the door.
+%eng:	I didn't close the door.
 *OSE:	www . 1962811_1965981
 *OSE:	www . 1965978_1967528
 *JEN:	he's having a blast . 1967522_1968462
@@ -1744,7 +1743,7 @@
 *JEN:	[- spa] ah sí mira . 1992161_1992730
 %eng:	oh yeah, look.
 *JEN:	[- spa] hablen con este muchacho que está de lo más interesante . 1992719_1995424
-%eng:	talk to this guy, it’s really interesting.
+%eng:	talk to this guy, it's really interesting.
 *JOC:	+< [- spa] mira pero siéntense ahí afuera . 1993816_1995389
 %eng:	look, but sit down outside.
 *JEN:	he's smoking . 1995455_1996355
@@ -1754,9 +1753,9 @@
 *OSE:	www . 1998099_2005056
 *OSE:	www . 2005227_2008350
 *JOC:	[- spa] estamos en la grabadora . 2008411_2009619
-%eng:	we’re at the recording.
+%eng:	we're at the recording.
 *JOC:	[- spa] porque ella tiene un estudio que está haciendo de la universidad . 2009624_2012881
-%eng:	because she’s doing a study of the university.
+%eng:	because she's doing a study of the university.
 *OSE:	www . 2012879_2014237
 *JEN:	xxx . 2014214_2016067
 *JOC:	+< the second one . 2014384_2014935
@@ -1863,7 +1862,7 @@
 %eng:	well, well.
 *JEN:	so um and they even divided up the fence and everything . 2129515_2133145
 *JEN:	no@s:eng&spa no@s:eng&spa no@s:eng&spa está@s:spa +... 2133124_2134070
-%eng:	no, no, no, it’s not …
+%eng:	no, no, no, it's not …
 *JEN:	it's horrible . 2134035_2134738
 *JOC:	[- spa] ay no no no no . 2134221_2135283
 %eng:	oh, no, no, no, no.
@@ -1890,7 +1889,7 @@
 *JOC:	+< [- spa] deja xxx nada así así . 2147438_2149331
 %eng:	leave it just ... like that.
 *JEN:	[- spa] sí porque ya xxx . 2149304_2150999
-%eng:	yeah because it’s already ....
+%eng:	yeah because it's already ....
 *JOC:	[- spa] déjalo xxx abierto así así así así (.) así . 2149751_2153886
 %eng:	leave it ... open like that, like that.
 *JEN:	+< [- spa] allí . 2153172_2153753
@@ -1952,7 +1951,7 @@
 *JOC:	xxx . 2224560_2225299
 *OSE:	www . 2225288_2227320
 *JEN:	[- spa] no no se lo están haciendo el estudio ni nada . 2227315_2229614
-%eng:	no they’re not doing the study or anything.
+%eng:	no they're not doing the study or anything.
 *JOC:	+< [- spa] a quién ? 2227449_2228430
 %eng:	to who?
 *OSE:	www . 2229820_2230650
@@ -1960,7 +1959,7 @@
 *JOC:	xxx . 2230889_2231527
 *OSE:	www . 2231533_2232996
 *JEN:	[- spa] no ellos están allí xxx . 2232898_2235023
-%eng:	no, they’re there ....
+%eng:	no, they're there ....
 *JOC:	[- spa] no no dale . 2235002_2236052
 %eng:	no, no, go on.
 *JOC:	[- spa] y ese americano habla español también . 2235960_2238009
@@ -1989,17 +1988,17 @@
 *JEN:	so I look at her . 2258408_2259761
 *JEN:	xxx my dog . 2259733_2261138
 *JEN:	and <I do one of these> [//] I do a xxx . 2261120_2263378
-*JOC:	&ho &phw . 2263352_2264769
+*JOC:	&=gasp &=raspberry ! 2263352_2264769
 *JEN:	and I look at her . 2264765_2265571
 *JEN:	and I go +"/. 2265566_2265873
 *JEN:	+" and did you ask him if you could bring your dog ? 2265856_2267911
-*JEN:	I turned in I turned into xxx &gasp . 2267925_2270531
+*JEN:	I turned in I turned into xxx &=gasp . 2267925_2270531
 *JOC:	ah ! 2268284_2269567
 *JOC:	&=gasp . 2270873_2272510
 *JEN:	+" did you ask him if you could bring your dog ? 2272473_2274545
 *OSE:	www . 2274513_2275529
 *JOC:	why would she do that ? 2275482_2276626
-*JEN:	+" yeah &yi . 2276597_2278617
+*JEN:	+" yeah &ji . 2276597_2278617
 *JEN:	&i yeah yeah . 2278602_2280332
 *JEN:	I was +... 2280310_2282324
 *JEN:	I was insulted . 2282297_2284184
@@ -2024,7 +2023,7 @@
 *JEN:	xxx . 2302320_2303632
 *JEN:	and Tommy@s:eng&spa goes +"/. 2303630_2304634
 *JEN:	+" pero@s:spa what's your problem ? 2304617_2305661
-%eng:	but what’s your problem?
+%eng:	but what's your problem?
 *JOC:	that's xxx didn't care [=! laughs] . 2305627_2307502
 *JEN:	I go +"/. 2306010_2306277
 *JEN:	+" Tommy@s:eng&spa I think that's &kom +/. 2306277_2307510

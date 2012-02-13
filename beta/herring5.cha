@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	spa, eng
@@ -815,7 +815,7 @@
 %eng:	vvv
 *NOA:	eso de café en café me lo tomo . 926353_928199
 %eng:	vvv
-*NOA:	es &ce [//] es cierto . 928180_929428
+*NOA:	es &e [//] es cierto . 928180_929428
 %eng:	vvv
 *NOA:	tengo como un peso cincuenta en pesetas . 929457_931240
 %eng:	vvv
@@ -1403,9 +1403,9 @@
 %eng:	vvv
 *MEG:	por eje(mplo) [/] por ejemplo yo no siempre estoy de como de humor . 1575687_1580006
 %eng:	vvv
-*MEG:	para hablar de cosas así &estractas [//] abstractas . 1579979_1583491
+*MEG:	para hablar de cosas así &ekstraktas [//] abstractas . 1579979_1583491
 %eng:	vvv
-*MEG:	a veces <quiero &con> [//] quiero contarte de lo que me está pasando de lo que me preocupa o de lo que me emociona o de lo que me interesa . 1584086_1591874
+*MEG:	a veces <quiero &kon> [//] quiero contarte de lo que me está pasando de lo que me preocupa o de lo que me emociona o de lo que me interesa . 1584086_1591874
 %eng:	vvv
 *NOA:	+< pero tú puedes decirme eso . 1591025_1592198
 %eng:	vvv

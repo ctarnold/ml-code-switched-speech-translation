@@ -1,8 +1,8 @@
-@Font:	Courier:10:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	spa, eng
-@Participants:	 CAR Carolina Adult, AME  Amelia Adult
+@Participants:	CAR Carolina Adult, AME  Amelia Adult
 @ID:	spa, eng|bangor3|CAR|21;5.|female|||Adult||
 @ID:	spa, eng|bangor3|AME|26;8.|female|||Adult||
 @Situation:	AME and CAR are classmates in an English compositon class at Florida International University. In this recording they are sitting in the classroom at the end of the evening. They already know each other from studying together but they talk about their childhoods and jobs.
@@ -11,7 +11,6 @@
 @Transcriber:	Jon Russell Herring, Prifysgol Bangor University.  Translated by Jennifer Plaistowe, Australian National University.
 @Time Duration:	00:29:39
 @Media:	zeledon1, audio
-@Comment:	Filename: zeledon1.cha; Soundfile: zeledon1.wav
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Proofread by Jorge Valdes Kroff, Penn State, 10/07/09
 *AME:	y después volviste para acá . 0_1125
@@ -155,7 +154,7 @@
 %eng:	uh so I obviously requested a holiday or whatever
 *AME:	o_k@s:eng&spa . 108344_108970
 %eng:	ok
-*CAR:	cuando ya era tiempo de &vol [/] volver a trabajar y ellos volver al colegio y eso mi mamá dijo que no . 108998_114306
+*CAR:	cuando ya era tiempo de vol(ver) [/] volver a trabajar y ellos volver al colegio y eso mi mamá dijo que no . 108998_114306
 %eng:	when it was time to go back to work and they went back to school and then my mum said that she wouldn't
 *AME:	&=gasp . 114122_114542
 %eng:	gasp
@@ -1294,7 +1293,7 @@
 *AME:	y entonces +"/. 1323133_1324002
 %eng:	so
 *AME:	+" esta idiota que no sé qué que por qué no se va que no esta (.) así . 1324002_1327064
-%eng:"this idiot who I don't know what because it's not going like this.'
+%eng:	"this idiot who I don't know what because it's not going like this.'
 *AME:	y yo entonces y le [/] le hablo en español enseguida le dije +"/. 1327170_1329290
 %eng:	and so I said to her in Spanish
 *AME:	+" no tranquila no se preocupe . 1329216_1330281
@@ -1533,7 +1532,7 @@
 %eng:	because instead of for example relying on the schedule and all that
 *AME:	mmhm@s:eng&spa . 1536645_1537186
 %eng:	mmhm
-*CAR:	él coge &xe +/. 1537218_1538356
+*CAR:	él coge &he +/. 1537218_1538356
 %eng:	he takes
 *AME:	sí se toma su tiempo . 1538266_1539543
 %eng:	yes he takes his time

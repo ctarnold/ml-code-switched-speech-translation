@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	eng, spa
@@ -10,7 +10,7 @@
 @Date:	04-MAR-2008
 @Coder:	M. Carmen Parafita Couto, Prifysgol Bangor University
 @Time Duration:	00:26:35
-@Comment:	Filename: zeledon2.CHA; Soundfile: zeledon2.wav
+@Media:	zeledon2, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MAT:	so where do you work ? 6_958
 *REB:	+< xxx I work well I'm currently employed by +//. 64_6822
@@ -479,7 +479,7 @@
 *REB:	&= laughs . 787153_787826
 *REB:	you seen Life ? 787826_789120
 *MAT:	+< Life no . 787826_789097
-*MAT:	I [/] I [/] I like the &ch . 789075_791774
+*MAT:	I [/] I [/] I like the &ʧi +//. 789075_791774
 *MAT:	I guess I like comedy a lot . 791786_793597
 *MAT:	like I need it every day . 793567_795605
 *MAT:	the <I don't know> [/] I don't xxx . 795579_796897
@@ -706,7 +706,7 @@
 *MAT:	+, he [/] he tripped (.) right ? 1143769_1146287
 *MAT:	and he [/] he like banged his knee . 1146275_1148057
 *REB:	mmhm@s:eng&spa . 1147962_1148612
-*MAT:	+< and then he [/] he [/] he [/] he [/] he like sat on the floor and was holding his knee <he was like> [?] &shhhh &aaah . 1148078_1154441
+*MAT:	+< and then he [/] he [/] he [/] he [/] he like sat on the floor and was holding his knee <he was like> [?] &=gasp &=moan . 1148078_1154441
 *REB:	+< &= laugh . 1153599_1155195
 *MAT:	and he did that for (.) I think a minute . 1154325_1156490
 *MAT:	it was just that for like a minute [=! laugh] him doing that noise . 1156438_1159915

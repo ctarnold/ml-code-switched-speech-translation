@@ -1,4 +1,4 @@
-@Font:	Win95:Lucida Sans Unicode:-19:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	spa, eng
@@ -37,7 +37,7 @@
 %eng:	but she never goes out anymore
 *MIG:	entonces ella [?] como que no hay +... 24451_25989
 %eng:	so how is that...
-*TOM:	+" te vieron no sé dónde que no se &com . 26160_27783
+*TOM:	+" te vieron no sé dónde que no se &kwo . 26160_27783
 %eng:	I don't know how and where they saw you
 *MIG:	porque siempre están juntos me entendés . 27746_29037
 %eng:	because they're always together, aren't they?
@@ -49,7 +49,7 @@
 %eng:	if you want to have a relationship it has to be because people...
 *MIG:	+< pues si . 33285_33833
 %eng:	well yeah
-*MIG:	o sea tampoco así pues porque &ay los majes se han aislado completamente pero +... 33630_37321
+*MIG:	o sea tampoco así pues porque los majes se han aislado completamente pero +... 33630_37321
 %eng:	or whatever, because the guys have totally isolated themselves...
 *MIG:	pero pues no dejar que nadie se meta me entendés porque la gente siempre le encanta meterse en las mierda(s) de uno . 38032_43167
 %eng:	well don't let anyone stick their noses in, right? people seem to love getting involved in other people's business
@@ -127,7 +127,7 @@
 %eng:	they can set you up with a stay in a hotel, they can set you up, get me?
 *MIG:	&uhu . 118587_119162
 %eng:	right
-*TOM:	pero una [//] un viaje o sea sí te equivocás o algo y el cliente se va a poner &enc +/. 118991_124500
+*TOM:	pero una [//] un viaje o sea sí te equivocás o algo y el cliente se va a poner xx +/. 118991_124500
 %eng:	but with a trip or something, if you get it wrong or something, the client can get
 *MIG:	+< a huevo se enturcan y te gritan bróder es <pareciera increí(ble)> [//] es increíble pero +... 123694_128297
 %eng:	yeah, they get angry at you and they yell at you man, it'sincredible but...
@@ -135,8 +135,8 @@
 %eng:	but they give you a lot of crap crazy
 *MIG:	no si yo también un amigo me estaba consiguiendo para Taca@s:eng&spa . 130405_134295
 %eng:	a friend of mine persuaded me to go for Taca
-*TOM:	&aha . 134434_135009
-%eng:	ahah
+*TOM:	aha@s:eng&spa . 134434_135009
+%eng:	aha
 *MIG:	pero o sea que pagan bien . 135032_136240
 %eng:	well they pay well
 *MIG:	me entendés pero &=mumble . 136216_137494
@@ -405,10 +405,10 @@
 %eng:	and she never wrote to me again
 *MIG:	ni ni a llamar ni ni verga . 406019_409073
 %eng:	she didn't even call, the bitch
-*MIG:	entonces como que &ideay (.) . 408949_410377
+*MIG:	entonces como que &aj . 408949_410377
 %eng:	wow, she really is a bitch
-%com:	long pause.
-*MIG:	&mee . 414624_415657
+@Comment:	pause
+*MIG:	&me: . 414624_415657
 *TOM:	y cómo van las y cuánto es xxx ya te vas a graduar verdad . 416743_419314
 %eng:	and when it is again that you're gonna graduate?
 *MIG:	&ee seis semanas me quedan . 419334_421528
@@ -472,7 +472,7 @@
 %eng:	yeah
 *MIG:	no es que lo que pasa es de que o sea los majes siempre llegan . 497313_500768
 %eng:	it's not that what happens is that people always arrive
-*MIG:	pero siempre andan como con &quini mil seguridad bróder . 500751_504901
+*MIG:	pero siempre andan como con &kini mil seguridad bróder . 500751_504901
 %eng:	but they always go with heaps of security, man
 *MIG:	y esta vez los majes andaban (.) como Pedro@s:eng&spa por su casa . 504907_507906
 %eng:	and this time they were going with Pedro to his house
@@ -640,7 +640,7 @@
 %eng:	oh ok, well I don't know
 *MIG:	México no es una de mis ciudades +... 661877_663776
 %eng:	Mexico isn't a city I know very well
-*MIG:	sa(b)es no es uno de mis países (.) &uju (.) pero que de a verga pues y y . 664269_670172
+*MIG:	sa(b)es no es uno de mis países (.) uhuh@s:eng (.) pero que de a verga pues y [/] y +... 664269_670172
 %eng:	you know, it's not one of my countries, but yeah...
 *TOM:	xxx . 670161_670619
 *MIG:	<y a ver pues> [//] a ver qué onda pues que [/] que demos una salidita no sé . 670574_674927
@@ -649,7 +649,7 @@
 %eng:	I told my mate to see if he's gonna die from laughter when he tells them
 *TOM:	xxx y uno de mis mejores amigos de Nicaragua Rober@s:eng&spa . 677941_682214
 %eng:	that one of my best friends from Nicaragua, Robert
-*MIG:	+< &aja . 682259_682828
+*MIG:	+< aha@s:eng&spa . 682259_682828
 %eng:	vvv
 *TOM:	el maje se va a venir a vivir aquí porque él estudiaba en el Lincoln +/. 682584_685872
 %eng:	he's going to come here because he studies in Lincoln
@@ -734,7 +734,7 @@
 %eng:	it's really easy, you sneak in and you don't give a damn what happens, you know..?
 *TOM:	sobre todo porque hacen esa cosa que es de [/] de máscara . 764047_766555
 %eng:	especially cos they do like a masquerade ball [?]
-*MIG:	a &huev &uf sí es muy +/. 766834_768680
+*MIG:	a &we &uf sí es muy +/. 766834_768680
 %eng:	definitely, it's really
 *TOM:	+< xxx muchísimo más fácil se le hace (.) . 767990_770481
 %eng:	much easier if one does it
@@ -750,7 +750,7 @@
 %eng:	I feel like we have spent like three days chatting about this
 *TOM:	llevamos faltan diez todavía . 781418_783862
 %eng:	and there are still ten to go
-*MIG:	faltan die(z) &ah . 783711_784709
+*MIG:	faltan die(z) &ai +//. 783711_784709
 %eng:	ten to go...
 *MIG:	es que lo llevan contados ? 784674_786009
 %eng:	have you counted them?
@@ -1023,8 +1023,8 @@
 %eng:	I don't know who it is..
 *TOM:	el xxx de la Marla@s:eng&spa . 1051450_1053929
 %eng:	Marla's ex [?]
-*MIG:	&aa &aa a Xavier@s:eng&spa yo te oí decir Richard@s:eng&spa Corso@s:eng&spa . 1054053_1057002
-%eng:	ahhhh Xavier, I heard Richard Corso
+*MIG:	ah@s:eng&spa ah@s:eng&spa a Xavier@s:eng&spa yo te oí decir Richard@s:eng&spa Corso@s:eng&spa . 1054053_1057002
+%eng:	ah Xavier, I heard Richard Corso
 *MIG:	y yo +". 1056944_1057199
 %eng:	and I...
 *MIG:	+" &hu . 1057194_1057733
@@ -1058,7 +1058,7 @@
 %eng:	that's a show
 *TOM:	para que pongan Calabria@s:eng&spa ? 1081568_1083362
 %eng:	why put on Calabria?
-*MIG:	Calabria@s:eng&spa y el maje &toto &toutou &toto &=laugh . 1083333_1087391
+*MIG:	Calabria@s:eng&spa y el maje &=singing &=laugh . 1083333_1087391
 %eng:	Calabria, the guy and Toto [?]
 *TOM:	&=laugh . 1087283_1088862
 *MIG:	ves (.) . 1088770_1090720
@@ -1196,7 +1196,7 @@
 *MIG:	&=laughs . 1228097_1228846
 *MIG:	ideay si no te lo cortan . 1228791_1230202
 %eng:	yeah if they don't cut you off
-*MIG:	te lo &corch . 1230182_1231418
+*MIG:	te lo &korʧ . 1230182_1231418
 %eng:	vvv
 *TOM:	no no me lo cortan pero +... 1231414_1233201
 %eng:	they're not gonna cut me off, but...

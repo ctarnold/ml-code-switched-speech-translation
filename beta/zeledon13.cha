@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	eng, spa
@@ -6,12 +6,11 @@
 @ID:	spa, eng|bangor3|ARI||female|||Adult|||
 @ID:	spa, eng|bangor3|AVE||female|||Adult|||
 @ID:	en|change_corpus_later|OSE|||||Adult|||
-@Media:	zeledon13, audio
 @Situation:	Two friends chatting at Florida International University.
 @Date:	27-MAR-2008
 @Transcriber:	Diana Carter, Prifysgol Bangor University
 @Time Duration:	00:34:42
-@Comment:	Filename: zeledon13.CHA; Soundfile: zeledon13.wav
+@Media:	zeledon13, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *ARI:	so the goat escaped through a [/] a bigger hole (.) <in my> [/] in my fence right . 12_6548
 *AVE:	+< &=laugh . 2763_5306
@@ -85,8 +84,7 @@
 *ARI:	+" &=moans I don't feel good &=moans . 114682_117097
 *OSE:	www . 117106_118772
 *ARI:	&=laughs . 118766_119747
-*ARI:	but I was like tell her +"/. 119718_120334
-*ARI:	+" &arrr . 119718_121622
+*ARI:	but I was like tell her &=roar . 119718_121696
 *OSE:	www . 121603_123617
 *ARI:	um (.) like yesterday +/. 123588_125437
 *AVE:	+< how &d [/] how are your brothers ? 124398_125936
@@ -207,7 +205,7 @@
 *ARI:	so now &o Oliver@s:eng&spa sleeps on a mattress <in the> [/] in the garage . 302959_307772
 *ARI:	xxx sleeps on a matress in my mom's room with my mom and Larry@s:eng&spa . 307764_311218
 *ARI:	Ana@s:eng&spa and Lexi@s:eng&spa sleep on another matress in [/] in like where the T_V room . 311203_315511
-*ARI:	and Paco@s:eng&spa which is Larry's@s:eng&spa+eng dad sleeps on a &pingpongpu . 315507_319632
+*ARI:	and Paco@s:eng&spa which is Larry's@s:eng&spa+eng dad sleeps on a &pimpampuŋ . 315507_319632
 *AVE:	&=laughs . 319051_319573
 *ARI:	&=laughs . 319544_320595
 *ARI:	on a cot . 320597_321567
@@ -415,7 +413,7 @@
 *AVE:	crazy . 569568_570363
 *ARI:	xxx . 570346_573347
 *ARI:	like obviously she's like number one . 573326_575480
-*ARI:	like &woohoo like (..) super excited . 575474_578037
+*ARI:	like &=squeal like (..) super excited . 575474_578037
 *AVE:	more like super against each other . 577555_579192
 *ARI:	and she's coming this weekend . 579177_580454
 *AVE:	xxx . 580454_581836
@@ -541,7 +539,7 @@
 *ARI:	+" look . 743660_743933
 *ARI:	she's like +"/. 743933_744432
 *ARI:	+" I don't care to be your friend . 744421_745564
-*ARI:	+" I don't know why you know what I mean you consider you know what I mean <you &ko> [/] you try messing with me . 745539_750531
+*ARI:	+" I don't know why you know what I mean you consider you know what I mean you &kəʣ try messing with me . 745539_750531
 *ARI:	and when I talked to her after she told me that a lot of it had to do with the reason why she was so angry is because when you guys were in a fight (.) Katrina@s:eng&spa got involved . 750511_758141
 *ARI:	did she ever get involved ? 758140_759927
 *AVE:	I don't remember . 759904_760885
@@ -781,7 +779,7 @@
 *AVE:	+" look if you can't talk to me it's fine . 1109511_1111397
 *AVE:	I'm like &t . 1111392_1113905
 *AVE:	xxx . 1113880_1115029
-*AVE:	like hey &heh . 1115013_1116244
+*AVE:	like hey &=grunt . 1115013_1116244
 *AVE:	what's up [=! laughs] ? 1116226_1116801
 *AVE:	you know ? 1116789_1117463
 *AVE:	then she's like +"/. 1117459_1117941
@@ -905,7 +903,7 @@
 *AVE:	my money tree isn't that full at the moment . 1243938_1246765
 *AVE:	I was like . 1246750_1247319
 *AVE:	but then I realized like that's very materialistic . 1247319_1249170
-*AVE:	and like <it &sh> [/] it shouldn't be like I need to see you because I need this whatever . 1249153_1252499
+*AVE:	and like <it &ʃ> [/] it shouldn't be like I need to see you because I need this whatever . 1249153_1252499
 *AVE:	and I was like . 1252488_1252795
 *AVE:	and on top of that like I doubt that my mother wants her like anywhere near my house . 1252795_1256664
 *ARI:	+< anywhere near your house . 1256409_1257187
@@ -923,8 +921,7 @@
 *AVE:	xxx . 1266334_1267036
 *AVE:	+" I used to know this girl . 1267042_1267959
 *AVE:	+" and she'll call back . 1267942_1268609
-*AVE:	and it was like +"/. 1268673_1269039
-*AVE:	+" &dring . 1268981_1269555
+*AVE:	and it was like &=imit:telephone ! 1268585_1269537
 *AVE:	and of course she knew I was by the phone . 1269555_1271390
 *AVE:	so I was like +"/. 1271382_1271864
 *AVE:	+" yeah Sara@s:eng&spa . 1271858_1272537
@@ -985,7 +982,7 @@
 *AVE:	I love you too ? 1324488_1325220
 *ARI:	yeah . 1325202_1326027
 *AVE:	xxx . 1326015_1327153
-*AVE:	but then I hear like then (.) that's the stuff that I'm like you know like (.) &xuh . 1327150_1332051
+*AVE:	but then I hear like then (.) that's the stuff that I'm like you know like (.) &=groan . 1327150_1332051
 *AVE:	then Julie@s:eng&spa calls me . 1332034_1332928
 *AVE:	she's like +"/. 1332917_1333254
 *AVE:	+" Sara@s:eng&spa was at my house today . 1333236_1334589
@@ -1021,7 +1018,7 @@
 *AVE:	the day of my birthday we were driving her to Fort_lauderdale@s:eng&spa . 1378030_1380613
 *AVE:	you know my mom paid for her S_a_t@s:eng&spa . 1380613_1382169
 *AVE:	like just things that <I don't> [/] I don't regret doing . 1382154_1384668
-*AVE:	but I'm like &fuh . 1384651_1385794
+*AVE:	but I'm like &=grunt . 1384651_1385794
 *ARI:	yeah why'd you do it . 1385791_1386900
 *AVE:	<like why &d> [///] yeah . 1386145_1386946
 *AVE:	whatever . 1386946_1388287
@@ -1084,7 +1081,7 @@
 *AVE:	she's like +"/. 1458770_1459118
 *AVE:	+" that's why you're xxx . 1459118_1460511
 *AVE:	and um that's like drama central xxx . 1460490_1462359
-*ARI:	<you know> [/] you know why we call Bonnie@s:eng&spa &guite right ? 1462342_1465717
+*ARI:	<you know> [/] you know why we call Bonnie@s:eng&spa Guite@s:eng&spa ["] right ? 1462342_1465717
 *ARI:	it's making fun of you guys . 1465717_1467435
 *AVE:	for real ? 1467438_1468106
 *ARI:	yes because you guys talk xxx like little muffin like xxx . 1468100_1472595
@@ -1094,20 +1091,20 @@
 *OSE:	www . 1475349_1476446
 *AVE:	from [/] from flavor of love yeah . 1476431_1478980
 *ARI:	yeah so [/] so whatever . 1478260_1479700
-*ARI:	we always thought it was super funny how you guys called her &guite . 1479665_1482227
-*ARI:	but her name has nothing to do with &guite . 1482227_1483916
-*ARI:	so then Bonnie@s:eng&spa who really is &guite we just started calling her &guite . 1483902_1487995
+*ARI:	we always thought it was super funny how you guys called her Guite@s:eng&spa . 1479665_1482227
+*ARI:	but her name has nothing to do with Guite@s:eng&spa . 1482227_1483916
+*ARI:	so then Bonnie@s:eng&spa who really is Guite@s:eng&spa we just started calling her Guite@s:eng&spa . 1483902_1487995
 *ARI:	and then like it stuck . 1487981_1488852
 *ARI:	I mean at the beginning it was like to make fun . 1488852_1490663
 *ARI:	but now just like I like it . 1490668_1492334
 *ARI:	like I like her . 1492322_1493239
 *ARI:	whenever she calls me I'm like +"/. 1493228_1494209
 *AVE:	+< Aaron@s:eng&spa . 1493384_1493878
-*ARI:	+" &giter . 1494186_1495213
-*AVE:	I used to hate &guite . 1495205_1496726
-*ARI:	+< &guiter . 1495571_1496302
+*ARI:	+" &giɾʁ . 1494186_1495213
+*AVE:	I used to hate Guite@s:eng&spa . 1495205_1496726
+*ARI:	+< &giɾʁ . 1495571_1496302
 *AVE:	xxx . 1496726_1498171
-*ARI:	+< &guite . 1496941_1497585
+*ARI:	+< Guite@s:eng&spa . 1496941_1497585
 *AVE:	xxx . 1498150_1499282
 *ARI:	no no no you smell like +... 1499265_1501302
 *AVE:	+< &=laughs . 1500426_1501401
@@ -1132,7 +1129,7 @@
 *OSE:	www . 1517711_1518593
 *ARI:	yeah [=! laughs] . 1518587_1520648
 *AVE:	oh@s:eng&spa that's the worst . 1520639_1521510
-*AVE:	the second you go to bake cookies &phef you have to like unload . 1521458_1524801
+*AVE:	the second you go to bake cookies &=raspberry you have to like unload . 1521458_1524801
 *ARI:	+< yeah . 1524105_1524668
 *ARI:	everything . 1524660_1525368
 *AVE:	+< it's like twenty . 1525066_1525983
@@ -1153,14 +1150,14 @@
 *ARI:	but they couldn't pay for it . 1548794_1549896
 *ARI:	(be)cause Sara@s:eng&spa doesn't have bright future . 1549885_1551110
 *ARI:	she doesn't have xxx . 1551098_1552851
-*ARI:	she &d [///] yeah first Robert@s:eng&spa was paying for it . 1552848_1554496
+*ARI:	she &d [///] yeah first Robert@s:eng&spa was paying for it . 1552747_1554496
 *AVE:	when Robert@s:eng&spa started paying for it he wasn't even paying xxx for his kids . 1554480_1557592
 *AVE:	that was crazy . 1557571_1558523
 *ARI:	I think Robert@s:eng&spa did it out of spite . 1558512_1560317
 *AVE:	xxx . 1560308_1560772
 *ARI:	+< for everything . 1560453_1561115
 *ARI:	I think Robert@s:eng&spa did it out of spite . 1561109_1562909
-*ARI:	and then &sh +/. 1562893_1563549
+*ARI:	and then &ʃ +/. 1562893_1563549
 *AVE:	bro Carry@s:eng&spa takes that to court Robert's@s:eng&spa+eng broke . 1563195_1565343
 *ARI:	+< she had to +... 1564107_1565297
 *ARI:	she had told me (.) that um +... 1565297_1568621

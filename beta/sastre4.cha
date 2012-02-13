@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	eng, spa
@@ -118,7 +118,7 @@
 *EMI:	[- spa] lo vamos a pasar tan bien . 146681_148823
 %eng:	we're going to have such a good time
 *GIA:	right . 148738_149690
-*EMI:	a &tu &tu &tu &tu &=laugh . 149626_151786
+*EMI:	a &də &də &də &də &=laugh . 149626_151786
 *EMI:	&=gasp . 151768_152337
 *GIA:	it's gonna be fun . 151709_152893
 *EMI:	+< we're gonna have a really really good time . 152493_154066
@@ -128,7 +128,7 @@
 *GIA:	but like you know those one day cruise where they take you out . 157571_160753
 *EMI:	+< yeah . 159929_160608
 *GIA:	and then come back in . 160583_162110
-*GIA:	you know there's one that &um . 162151_163759
+*GIA:	you know there's one that um +/. 162151_163759
 *GIA:	I told you . 163701_164490
 *GIA:	it's twenty bucks . 164467_165454
 *GIA:	if you go on a Friday +/. 165413_166777
@@ -172,7 +172,7 @@
 %eng:	it's a mess
 *EMI:	you walk in . 215122_215545
 *EMI:	and then you're like +"/. 215481_215836
-*EMI:	+" &eew god . 215833_216750
+*EMI:	+" &i:u god ! 215833_216750
 *EMI:	xxx . 216672_218263
 %com:	long pause.
 *EMI:	we have xxx . 222465_224538
@@ -238,7 +238,7 @@
 *EMI:	+< yeah she is pregnant . 293798_294930
 *GIA:	+" +< but I feel bad . 294387_295902
 *EMI:	+< she can't +//. 294797_295238
-*EMI:	+< &jo . 295250_295911
+*EMI:	+< &jəu . 295250_295911
 *EMI:	you're crazy ? 295946_296486
 *EMI:	you shouldn't even have a female following someone . 295952_299235
 *GIA:	no my sister once manhandled a girl that stealing some jeans . 298943_303205
@@ -370,8 +370,8 @@
 *EMI:	[- spa] a mí me pone mal . 443970_444951
 %eng:	it makes me feel bad
 *GIA:	me too . 445636_446588
-*EMI:	&mm (.) &mm (.) &mm (.) &mm (.) &mm (.) &mm (.) . 446540_448792
-*EMI:	&um so you're gonna from here to [/] to Weston ? 448767_452093
+*EMI:	&m &m &m &m &m &m &m . 446540_448792
+*EMI:	um so you're gonna from here to [/] to Weston ? 448767_452093
 *GIA:	I have to . 451926_453342
 *EMI:	yeah yeah . 453313_453882
 *GIA:	I have to buy a new shirt for Monday . 453854_455868
@@ -411,7 +411,7 @@
 *EMI:	yeah we don't have time to miss you &=laugh . 499623_503089
 *GIA:	oh god . 501783_503577
 *EMI:	&=laugh . 502948_504789
-*GIA:	+< he's there &bum &bum &bum . 504229_505576
+*GIA:	+< he's there boom boom boom . 504229_505576
 *GIA:	like I'll just go +"/. 505530_506453
 *GIA:	+" I'm gonna go see . 506330_506853
 *GIA:	I'm like +"/. 506771_507178
@@ -422,8 +422,8 @@
 *GIA:	+" well (.) what did you pray for ? 512666_514965
 *GIA:	+" you're getting it right ? 514959_516097
 *EMI:	+< &=laugh . 516095_517314
-*EMI:	&a stuck at part two (.) &ua . 517233_520252
-%com:	long pause.
+*EMI:	ah@s:eng&spa stuck at part two (.) &=groan . 517233_520252
+@Comment:	pause.
 *GIA:	I don't know . 524607_526587
 *EMI:	&=yawns . 526575_527684
 *EMI:	I'm supposed to go with my dad [=! yawns]. 527556_530046
@@ -497,7 +497,7 @@
 *EMI:	&ug . 612454_613197
 %com:	like a discussing expression.
 *EMI:	people eat that . 613173_614555
-*EMI:	people eat deer meat meat venison &uag . 614444_618183
+*EMI:	people eat deer meat [/] meat venison &=imit:vomitting . 614444_618183
 *EMI:	my god . 621104_622015
 *GIA:	you have to be careful tonight because the club in front of where we're going xxx . 623368_627002
 *EMI:	yeah . 627049_627722
@@ -527,8 +527,8 @@
 *EMI:	she's due in April right? 655173_656247
 *GIA:	+< she's due in May bro . 655957_657582
 *EMI:	+< oh may . 656816_657605
-*GIA:	don't scare me like that &jo . 657582_658511
-*EMI:	&uf . 658494_660491
+*GIA:	don't scare me like that &jəu . 657373_658511
+*EMI:	oof ! 658494_660491
 *EMI:	my god . 660473_661483
 *EMI:	[- spa] demasiado . 662508_664679
 %eng:	too much
@@ -657,14 +657,14 @@
 *EMI:	and he goes +"/. 809306_810113
 *EMI:	+" here this is para@s:spa que@s:spa te@s:spa prepares@s:spa . 809875_812742
 %eng:	here this is, so that you can prepare yourself
-*EMI:	for when ever <you get ready> [//] <your ready> [//] ready to marry there is . 812743_816163
-*GIA:	+< whenever you get ready . 812935_813852
+*EMI:	for whenever <you get ready> [//] <your ready> [//] ready to marry there it is . 812743_816163
+*GIA:	+< xx +/. 813057_813411
 *GIA:	I'm fine . 815896_816784
-*GIA:	I don't need &a . 816742_817398
+*GIA:	I don't need &a +//. 816742_817398
 *GIA:	+" no I'm sorry . 817329_818048
-*EMI:	I was like &ax it's stupid . 818061_819651
+*EMI:	I was like &=grunt she's so stupid . 818061_819651
 *GIA:	+< I don't think I'm gonna be a housewife any time soon . 819831_821248
-*EMI:	I know I was like &ax you're so stupid . 821253_823421
+*EMI:	I know I was like &=grunt you're so stupid . 821253_823421
 *EMI:	I good wife always knows her place . 823408_825997
 *GIA:	how do you spell man handle ? 824801_825974
 *GIA:	M_A_N_H_A_N_D_L_Y ? 826015_828401
@@ -786,10 +786,10 @@
 *GIA:	yeah ? 958760_960112
 *EMI:	I'm sure anybody could drink in that club though . 959947_961869
 *GIA:	I'm sure about it . 961857_963645
-*GIA:	they probably put at twenty one year ban on everyone . 963645_965683
-*GIA:	xxx &he &he &he &he xxx going and going . 965566_968550
+*GIA:	they probably put a [/] a twenty one year old ban on everyone . 963645_965683
+*GIA:	xxx just just going [/] going . 965566_968550
 *EMI:	+< &=laugh . 965648_969531
-*GIA:	oh my goodness . 969531_973531
+*GIA:	oh my goodness ! 969531_973531
 *GIA:	have you talked to Nat@s:eng&spa ? 973520_975319
 *EMI:	oh my god yes . 975284_976753
 *EMI:	<her sis> [//] her sister is doing a lot better . 976747_979104
@@ -809,7 +809,7 @@
 *EMI:	but she's doing a lot better . 993636_995574
 *EMI:	they tool her off dialysis . 995484_997248
 *EMI:	she's still in I_C_U@s:eng&spa whatever pero@s:spa +//. 997243_999129
-%eng:	she's still in ICU whatever, but 
+%eng:	she's still in ICU whatever, but
 *GIA:	+< yeah it's so sad . 997980_999286
 *EMI:	[- spa] y ella no puede hablar . 999129_1000255
 %eng:	and she can't speak
@@ -840,7 +840,7 @@
 *EMI:	que@s:spa he had a liver transplant . 1021165_1023051
 %eng:	that he had a liver transplant
 *EMI:	[- spa] solo que el de ella es diferente . 1023069_1024572
-%eng:	only that hers is different 
+%eng:	only that hers is different
 *EMI:	[- spa] el de ella es más [/] más avanzado . 1024453_1026624
 %eng:	hers is more advanced
 *EMI:	so they can't do that to her . 1026622_1028172
@@ -876,10 +876,10 @@
 *EMI:	+< yeah . 1067053_1067698
 *GIA:	I mean my dad is hardly around . 1067675_1069126
 *GIA:	so like I always wanna be prepared . 1069271_1071314
-*GIA:	like if something happens &bum . 1071175_1072788
+*GIA:	like if something happens boom . 1071175_1072788
 %com:	she made a sound probably with her hands.
 *EMI:	that's sucks right ? 1071935_1073090
-*GIA:	it's &e yeah . 1073096_1074814
+*GIA:	it's &ə yeah . 1073096_1074814
 *GIA:	I've had so much xxx the age of nine . 1074868_1077248
 *GIA:	at age of nine I could remember I +/. 1077219_1078903
 *EMI:	+< god xxx I can't imagine . 1078061_1079832
@@ -913,7 +913,7 @@
 *GIA:	who's that ? 1117323_1118315
 *GIA:	<no but> [//] no I think you already had that one in there more than once (be)cause I told you . 1118188_1122478
 *EMI:	+< my eye doctor . 1118367_1119273
-*EMI:	+< &taca &taca &tere . 1121242_1122368
+*EMI:	+< &takatakatakatere . 1121242_1122368
 *GIA:	you have everything like about dos@s:spa veces@s:spa . 1122616_1124323
 %eng:	you have everything like about two times
 *EMI:	ok espérate@s:spa . 1124311_1125258

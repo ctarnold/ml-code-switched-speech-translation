@@ -1,4 +1,4 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	spa, eng
@@ -81,7 +81,7 @@
 *LIL:	+< &=gasp . 56574_61767
 *NAT:	y ella sola verdad ? 61745_63086
 %eng:	And only her, honestly?
-*LIL:	no mami. 63089_63519
+*LIL:	no mami . 63089_63519
 %eng:	No, Mum.
 *NAT:	+< entonces . 63472_63913
 %eng:	So.
@@ -377,14 +377,14 @@
 *NAT:	&=laugh . 302465_304543
 *LIL:	&em . 303626_304508
 *LIL:	&sis no [/] no pesa . 306086_308083
-%eng:	yes, it doesn’t weigh a lot.
+%eng:	yes, it doesn't weigh a lot.
 *LIL:	pero pesa normal . 308060_309122
 %eng:	but the weight is normal.
 *LIL:	&=laugh . 309128_311339
 *NAT:	&=laugh . 309128_311339
 *OSE:	www . 309128_311339
 *LIL:	si esto tiene sentido &=laugh lo que he dicho [=! laugh] . 311376_315085
-%eng:	if that makes sense, what I’ve said.
+%eng:	if that makes sense, what I've said.
 *NAT:	&=laugh . 314946_316159
 *OSE:	www . 316037_317030
 *LIL:	&=laugh . 319528_320811
@@ -395,7 +395,7 @@
 *LIL:	lo que puedan ustedes +... 322499_323683
 %eng:	whatever you can ...
 *NAT:	no pesa pero pesa lo normal [=! laugh] . 323730_327445
-%eng:	it doesn’t weigh much, but just the usual
+%eng:	it doesn't weigh much, but just the usual
 *LIL:	+< &=laugh . 325291_326887
 *LIL:	pero normal para los caballeros como ustedes no ? 327457_330981
 %eng:	but the usual for gentlemen like you, right?
@@ -404,14 +404,14 @@
 *NAT:	+< lo que +//. 328345_328897
 %eng:	what
 *NAT:	mira &pe perdona allá está arriba yo no pude sacar las botellas que quedaron [=! laugh] . 330313_333883
-%eng:	look, I’m sorry, it's up there, I couldn’t take the bottles that were left.
+%eng:	look, I'm sorry, it's up there, I couldn't take the bottles that were left.
 *OSE:	www . 333980_334641
 *NAT:	porque yo soy muy bajita . 334606_336783
-%eng:	because I’m too short.
+%eng:	because I'm too short.
 *NAT:	pero ahí quedaron unas cuantas botellas que no pude sacarlas . 336854_339570
-%eng:	but there are a few bottles left there that I couldn’t get.
+%eng:	but there are a few bottles left there that I couldn't get.
 *NAT:	no sé si (.) Lorena@s:eng&spa nos puede ayudar [=! laugh] . 339710_342432
-%eng:	I don’t know if Lorena can help us
+%eng:	I don't know if Lorena can help us
 *LIL:	no no no no . 341794_343024
 %eng:	no, no, no, no.
 *NAT:	se va a quedar ahí ? 342519_343506
@@ -426,18 +426,18 @@
 *NAT:	abre ahí . 346054_347401
 %eng:	open up here.
 *NAT:	arriba (.) yo no pude vaciar más arriba . 347529_349688
-%eng:	up, I couldn’t free any space higher up.
+%eng:	up, I couldn't free any space higher up.
 *LIL:	+< pero eso se puede mover no ? 349340_351691
 %eng:	but that can be moved, right?
 *NAT:	porque allá yo no llegaba . 350181_351789
-%eng:	because I couldn’t reach it there.
+%eng:	because I couldn't reach it there.
 *OSE:	www . 351714_353833
 *NAT:	tú quieres que lo saquemos ? 353785_355410
 %eng:	you want us to take it out?
 *OSE:	+< www . 353988_355126
 %eng:	www
 *LIL:	dónde está la fiesta ? 355120_357065
-%eng:	where’s the party?
+%eng:	where's the party?
 *OSE:	www . 356287_357146
 *LIL:	no no [=! laugh] . 357030_358202
 %eng:	no, no.
@@ -448,9 +448,9 @@
 *NAT:	+< ah@s:eng&spa sí [=! laugh] ? 360379_361656
 %eng:	oh yes?
 *LIL:	pero no [/] no se puede mover . 361774_363313
-%eng:	but no, it can’t be moved.
+%eng:	but no, it can't be moved.
 *LIL:	ah@s:eng&spa no que se van a ca(er) +/. 363324_364822
-%eng:	oh no, it’s gonna fall.
+%eng:	oh no, it's gonna fall.
 *NAT:	no Lorena@s:eng&spa va a ayudar mamita . 363481_364903
 %eng:	no, Lorena come here and help mommy.
 *NAT:	mira +//. 364921_365774
@@ -475,7 +475,7 @@
 *NAT:	sí pero eso está allá en la cocina . 382953_384410
 %eng:	yes, but that is over there in the kitchen.
 *LIL:	no pero tenemos un montón de güisqui . 384364_386280
-%eng:	no, but we’ve got lots of whiskey.
+%eng:	no, but we've got lots of whiskey.
 *NAT:	son botellas que le regalan a él . 387049_388419
 %eng:	those are bottles that were given to him.
 *NAT:	y ellos casi nunca las usan . 388460_389841
@@ -484,7 +484,7 @@
 *NAT:	entonces se le van quedando . 389615_390962
 %eng:	so they pile up.
 *LIL:	es que en nuestra casita no podemos tener fiestas así porque no hay cupo pa(ra) tanta gente . 390340_394527
-%eng:	the thing is in our little house we cannot have parties like that because there’s not enough room for so many people.
+%eng:	the thing is in our little house we cannot have parties like that because there's not enough room for so many people.
 *OSE:	www . 393940_394927
 *NAT:	uh@s:eng mira cuánta gente hay acá ahora mismo . 394876_396501
 %eng:	look how many peope are here right now.
@@ -501,7 +501,7 @@
 *NAT:	pisco@s:eng&spa ah@s:eng&spa . 404175_406021
 %eng:	pisco, oh
 *LIL:	+< qué es eso ? 404175_406021
-%eng:	what’s that?
+%eng:	what's that?
 *NAT:	la bebida peruana . 406009_407814
 %eng:	the Peruvian drink.
 *LIL:	cómo se toma eso ? 407809_409573
@@ -520,22 +520,22 @@
 %eng:	but that pisco must have been stored in there for ages.
 *OSE:	www . 422173_423467
 *LIL:	sí sí sí el [/] el alcohol no +... 423420_425492
-%eng:	yes, yes, yes, alcohol doesn’t
+%eng:	yes, yes, yes, alcohol doesn't
 *OSE:	www . 425562_426798
 *LIL:	no se pone malo . 426781_428029
-%eng:	it doesn’t go off.
+%eng:	it doesn't go off.
 *LIL:	perfecto (.) lo que sí (.) tengo mucho libros allá abajo . 430564_435127
 %eng:	perfect, I do have a lot of books down there.
 *OSE:	www . 431458_432892
 *OSE:	www . 435098_436084
 *LIL:	que no es normal . 436314_438003
-%eng:	that’s unusual.
+%eng:	that's unusual.
 *NAT:	+< no son muchos (.) . 436819_437963
 %eng:	there aren't that many.
 *NAT:	+< pero son los normales &=laugh . 437957_439263
 %eng:	but they are the usual ones.
 *LIL:	+< eso es lo que sí te va a hacer que pese . 438682_440470
-%eng:	that’s what is definitely going to make it heavy.
+%eng:	that's what is definitely going to make it heavy.
 *LIL:	que pese mucho esto . 440610_442879
 %eng:	this certainly weighs a lot.
 *OSE:	www . 442221_443423
@@ -549,21 +549,21 @@
 %eng:	sorry?
 *OSE:	www . 448049_449425
 *NAT:	a sí está xxx su bebito (.) tiene su bebito . 449674_453020
-%eng:	oh yes, there’s ... her baby, she’s got her baby.
+%eng:	oh yes, there's ... her baby, she's got her baby.
 *LIL:	&=laugh . 449674_452840
 *OSE:	www . 452776_453712
 *NAT:	óyeme Lily@s:eng&spa lo cómico de esto es que cada vez que tú te mueves yo me xxx +//. 453744_458527
 %eng:	hey Lily, the funny thing here is that every time you move I ...
 *LIL:	perdón mami . 457146_458423
-%eng:	I’m sorry mommy.
+%eng:	I'm sorry mommy.
 *OSE:	www . 456635_458429
 *NAT:	+< yo tengo que estar pensando cómo tú caminas para yo caminar &=laugh . 458622_462918
-%eng:	I’ve got to start thinking how you are walking so that I can walk.
+%eng:	I've got to start thinking how you are walking so that I can walk.
 *LIL:	[- eng] I'm sorry . 459929_461020
 *LIL:	ves ? 461780_462576
 %eng:	see?
 *LIL:	pero [/] pero es pesa(do) +//. 463162_464915
-%eng:	but, but it’s heavy.
+%eng:	but, but it's heavy.
 *NAT:	+< eso pesa más que el mueble sí . 463667_465548
 %eng:	that weighs more than the furniture, indeed.
 *LIL:	+< eso hace que (.) pero ustedes pueden no lo mueven poquito y ahí caben no ? 464898_469664
@@ -579,24 +579,24 @@
 *LIL:	no esos [/] esos ya los pueden mover . 477677_479511
 %eng:	no, those, those can be moved.
 *LIL:	eso es fácil . 479505_481334
-%eng:	that’s easy.
+%eng:	that's easy.
 *LIL:	eso es normal . 481293_483290
-%eng:	that’s normal.
+%eng:	that's normal.
 *OSE:	www . 482112_483482
 *NAT:	mira mira ya [/] ya se empezó a romper . 483402_485074
 %eng:	look, look, it's started to break already.
 *NAT:	y al caer pues no importa . 484842_486293
-%eng:	and if you put it down then it doesn’t matter.
+%eng:	and if you put it down then it doesn't matter.
 *LIL:	no eso es puro libros . 485486_487489
 %eng:	no, that is only books
 *NAT:	ay hay un hueco . 487425_489393
-%eng:	oh there’s a space.
+%eng:	oh there's a space.
 *OSE:	www . 488871_490479
 *LIL:	qué hueco ? 490473_491349
 %eng:	what space?
 *OSE:	www . 491082_491901
 *NAT:	ah@s:eng&spa es una fotografía xxx . 491867_493870
-%eng:	oh it’s a photograph ....
+%eng:	oh it's a photograph ....
 *LIL:	+< no un libro . 493022_493875
 %eng:	no, a book.
 *NAT:	un libro . 493817_494543
@@ -604,13 +604,13 @@
 *LIL:	+< de buda . 493817_494543
 %eng:	about Buddha.
 *LIL:	tengo demasiados libros . 498387_499890
-%eng:	I’ve got too many books.
+%eng:	I've got too many books.
 *NAT:	me lo dices . 500335_501014
 %eng:	you're telling me.
 *NAT:	o me lo preguntas ? 500991_502192
 %eng:	or are you asking me?
 *LIL:	pero no me gusta botarlas . 501008_502245
-%eng:	but I don’t like throwing them out.
+%eng:	but I don't like throwing them out.
 *OSE:	www . 502346_504679
 *LIL:	[- eng] mmhm . 504696_505213
 *OSE:	www . 505337_510051
@@ -624,24 +624,24 @@
 *LIL:	[- eng] but he has three boxes full of books . 529320_532605
 *OSE:	www . 532648_534482
 *NAT:	tienes xxx +//. 534656_535735
-%eng:	you’ve got ...
+%eng:	you've got ...
 *NAT:	+< a mira . 534924_535539
 %eng:	oh look.
 *LIL:	ves ? 535678_536009
 %eng:	see?
 *NAT:	+< es fácil . 535760_536642
-%eng:	it’s easy.
+%eng:	it's easy.
 *LIL:	+< te dije . 535998_536741
 %eng:	I told you.
 *NAT:	pesa . 537400_537876
 %eng:	it's heavy.
 *NAT:	pero no pesa mucho como dijo ella . 537870_541080
-%eng:	but it doesn’t weigh as much as she said.
+%eng:	but it doesn't weigh as much as she said.
 *LIL:	ya entonces le voy a +//. 539304_540866
-%eng:	right, then I’m going to
+%eng:	right, then I'm going to
 *OSE:	www . 540732_541580
 *LIL:	le voy a hacer el café entonces . 541557_544883
-%eng:	I’m going to make some coffee then.
+%eng:	I'm going to make some coffee then.
 *NAT:	ay mi madre . 544757_546342
 %eng:	oh my God.
 *LIL:	lo quieres hacer tú y yo me siento ? 546284_548502
@@ -649,12 +649,12 @@
 *NAT:	yo sabía que terminaba . 548502_549674
 %eng:	I knew it was finished.
 *NAT:	no te preocupes . 549672_550450
-%eng:	don’t worry.
+%eng:	don't worry.
 *LIL:	yo me siento . 550868_551889
 %eng:	I'll sit down.
-*NAT:	no pero dónde tienes el &ca mama dónde tienes el café por favor ? 551877_554612
+*NAT:	no pero dónde tienes el &k mama dónde tienes el café por favor ? 551877_554612
 %eng:	no, but where do you keep the, mom, where do you keep the coffee, please?
-*LIL:	&puchuchu . 552075_553340
+*LIL:	&puʧuʧu . 552075_553340
 *LIL:	ay . 554658_555436
 %eng:	oh
 *LIL:	en (.) café pilón . 555549_558568
@@ -664,11 +664,11 @@
 *LIL:	+< sí ella toma café . 559926_560727
 %eng:	yes, she takes coffee.
 *LIL:	&as aquí está el azúcar . 562074_563670
-%eng:	here’s the sugar.
+%eng:	here's the sugar.
 *LIL:	ah@s:eng&spa . 563658_566671
 %eng:	oh.
 *LIL:	qué pasó &puchuchu ? 568288_569885
-%eng:	what’s up?
+%eng:	what's up?
 *NAT:	+< Lily@s:eng&spa siéntate que el [/] el xxx . 569083_572212
 %eng:	Lily, sit down so that the, the
 *LIL:	xxx . 571069_572828
@@ -717,10 +717,10 @@
 %eng:	and you can open the ....
 *OSE:	www . 617120_618373
 *LIL:	eso mismo me entiendes . 618331_620508
-%eng:	that’s right, you've got it.
+%eng:	that's right, you've got it.
 *NAT:	oye Lily@s:eng&spa . 620531_621629
 %eng:	hey Lily.
-*LIL:	[- eng] what's wrong my &puchuchurro ? 621679_623827
+*LIL:	[- eng] what's wrong my &puʧuʧuro ? 621464_623827
 *LIL:	[- eng] what are all these people doing in our home right ? 623914_626265
 *LIL:	mira qué quiet@s:eng . 626263_627290
 %eng:	look how quiet he is.
@@ -730,14 +730,14 @@
 %eng:	look how quiet he is.
 *LIL:	[- eng] we don't like all these people in our home I know . 630720_633669
 *LIL:	[- eng] you're a good boy . 633651_635259
-*LIL:	[- eng] &=gasp mama didn't give you a treat after you &chuchu in the neighbor's grass . 635312_640055
-*LIL:	[- eng] that's why you're next to mama &pucha you wanna treat ? 640554_643956
+*LIL:	[- eng] &=gasp mama didn't give you a treat after you &ʧuʧu in the neighbor's grass . 635312_640055
+*LIL:	[- eng] that's why you're next to mama &puʧa you wanna treat ? 640554_643956
 *LIL:	[- eng] you want a treat baby boy &=kiss ? 643950_646713
 *LIL:	[- eng] &=gasp he's a good boy . 646628_648190
 *LIL:	[- eng] come here . 648156_649653
 %com:	background noise.
-*LIL:	[- eng] hey &pucho . 650830_652810
-*LIL:	[- eng] wanna treat you're good boy . 652792_654412
+*LIL:	[- eng] hey &puʧo . 650830_652810
+*LIL:	[- eng] wanna treat you're a good boy . 652792_654412
 *LIL:	[- eng] come here come here . 654435_656409
 *LIL:	[- eng] good boy . 656772_657962
 *OSE:	www . 657962_661056
@@ -748,37 +748,37 @@
 *NAT:	a las tres ? 664514_665902
 %eng:	at three?
 *LIL:	sí pero mami yo iré sola . 665915_667993
-%eng:	yes, but mommy, I’ll go alone.
+%eng:	yes, but mommy, I'll go alone.
 *NAT:	no quieres que te acompañe entonces ? 668170_669830
-%eng:	you don’t want me to go with you then?
+%eng:	you don't want me to go with you then?
 *LIL:	+< no no me hace falta que me acompañes . 669343_671154
-%eng:	no, no, it’s not necessary that you go with me.
+%eng:	no, no, it's not necessary that you go with me.
 *NAT:	ah@s:eng&spa entonces no vengo mañana . 671367_672836
-%eng:	oh then I’m not coming tomorrow.
+%eng:	oh then I'm not coming tomorrow.
 *LIL:	no no puedes venir . 672673_673695
 %eng:	no, no, you may come.
 *LIL:	pero no me hace falta que me acompañes . 673683_675117
-%eng:	but you don’t need to go with me.
+%eng:	but you don't need to go with me.
 *NAT:	+< ah@s:eng&spa . 674711_675222
 %eng:	oh
 *NAT:	vengo . 675210_675500
-%eng:	I’m coming.
+%eng:	I'm coming.
 *NAT:	pero no te acompaño . 675477_676731
-%eng:	but I won’t go with you.
+%eng:	but I won't go with you.
 *LIL:	si quieres me acompañan . 676597_679227
 %eng:	you can come with me if you want to
 *LIL:	pero no hace falta . 679205_681968
-%eng:	but it’s not necessary.
+%eng:	but it's not necessary.
 *NAT:	bueno yo no sé con papi porque papi mañana tiene que ir a lo del seguro . 682180_685170
-%eng:	well, I don’t know about Dad, because tomorrow Dad's gotta go to that insurance thing.
+%eng:	well, I don't know about Dad, because tomorrow Dad's gotta go to that insurance thing.
 *NAT:	no sé a qué hora va a venir . 685135_686522
-%eng:	I don’t know what time he’s coming back.
+%eng:	I don't know what time he's coming back.
 *NAT:	si va a venir a tiempo para que tú te vayas . 686577_688667
-%eng:	if he’s comes back on time for you to go.
+%eng:	if he's comes back on time for you to go.
 *NAT:	así que eso sí no sé . 688655_689978
-%eng:	so whether that will happen I don’t know.
+%eng:	so whether that will happen I don't know.
 *LIL:	por eso digo no quiero que te pongas con estrés . 689872_692432
-%eng:	that’s why I’m telling you I don't want you to get all stressed.
+%eng:	that's why I'm telling you I don't want you to get all stressed.
 *NAT:	+< a qué hora es tu consulta mañana ? 691196_692723
 %eng:	at what time is your appointment tomorrow?
 *LIL:	te dijo que [/] que a las tres . 692892_694807
@@ -786,13 +786,13 @@
 *NAT:	+< tres . 694358_694869
 %eng:	three.
 *LIL:	es el ultrasonido es <a las> [/] a las tres . 694784_697152
-%eng:	it’s the ultrasound, it’s at three.
+%eng:	it's the ultrasound, it's at three.
 *LIL:	y después tengo las [/] el médico me va a ver . 697141_699823
 %eng:	and the I've got the… the doctor is coming to see me.
 *LIL:	y me va a tocar . 699784_700661
-%eng:	and he’s going to examine me
+%eng:	and he's going to examine me
 *LIL:	y me va a ver si estoy dilatada o no . 700701_702820
-%eng:	and he’s going to see if I'm dilated or not.
+%eng:	and he's going to see if I'm dilated or not.
 *NAT:	después de hoy yo creo que sí &=laugh . 702939_705446
 %eng:	after today I think so.
 *LIL:	no sí me dio un dolorcito aquí abajo . 705121_707757
@@ -806,7 +806,7 @@
 *LIL:	mama@s:eng loves@s:eng you@s:eng Pucho@s:eng&spa . 717703_719114
 %eng:	mommy loves you Pucho.
 *LIL:	sí mami ya voy a +//. 720088_721144
-%eng:	yes, mommy, I’m going to
+%eng:	yes, mommy, I'm going to
 *LIL:	Lorena@s:eng&spa en la graduación podemos tener una mujer dando a luz [=! laugh] . 721006_724373
 %eng:	Lorena we may have a woman giving birth during graduation.
 *OSE:	www . 724206_725378
@@ -825,9 +825,7 @@
 *OSE:	www . 767875_775060
 *LIL:	+< [- eng] how frustrating . 775374_776610
 *OSE:	www . 776223_782229
-*LIL:	+< [- eng] right . 782274_782588
-*LIL:	porque &li it@s:eng just@s:eng &caim ya . 782721_784521
-%eng:	because it just now
+*LIL:	+< [- eng] right but only &ə &sə &ke yeah . 782274_784434
 *OSE:	www . 781763_786878
 *OSE:	www . 0_0
 *OSE:	www . 0_0
@@ -846,19 +844,19 @@
 *NAT:	Lily@s:eng&spa esta es soda@s:eng&spa bread@s:eng ? 831597_832996
 %eng:	Lili is this soda bread?
 *LIL:	riquísimo que está . 833124_834465
-%eng:	it’s delicious.
+%eng:	it's delicious.
 *NAT:	soda@s:eng&spa bread@s:eng ? 834466_835238
 *NAT:	quién te lo dio ? 835284_836271
 %eng:	who gave it to you?
 *LIL:	no lo compré en un Dixie@s:eng&spa . 836207_837536
-%eng:	no, I bought it at Dixie’s.
+%eng:	no, I bought it at Dixie's.
 *NAT:	&=gasp . 837229_838436
 *LIL:	por saint@s:eng Patrick@s:eng&spa da(y)@s:eng . 838018_839255
-%eng:	for Saint Patrick’s Day.
+%eng:	for Saint Patrick's Day.
 *NAT:	en San@s:eng&spa (.) yo no lo creo . 838986_841314
-%eng:	in Saint, I don’t think so.
+%eng:	in Saint, I don't think so.
 *NAT:	por qué tú no me lo dijiste para yo buscarlo ? 841297_843439
-%eng:	why didn’t you tell me so that I could fetch it?
+%eng:	why didn't you tell me so that I could fetch it?
 *LIL:	ah@s:eng&spa pues mami no pensé . 843363_845372
 %eng:	oh mommy, I didn't think…
 *NAT:	+< a mi me encanta este pan . 844339_846029
@@ -883,7 +881,7 @@
 *LIL:	llévatelo llévatelo . 854515_855920
 %eng:	take it, take it
 *NAT:	no no si es muy grande para mí ahora . 855218_856884
-%eng:	no, no, it’s too big for me now.
+%eng:	no, no, it's too big for me now.
 *NAT:	pero a mí me en(canta) . 857059_857930
 %eng:	but I love it.
 *NAT:	tan pronto lo vi digo +"/. 857883_858940
@@ -891,7 +889,7 @@
 *NAT:	+" huy esto es soda@s:eng&spa bread@s:eng . 858916_859944
 %eng:	oh, this is soda bread.
 *LIL:	es soda@s:eng&spa bread@s:eng xxx esto también . 860130_861889
-%eng:	it’s soda bread … this too
+%eng:	it's soda bread … this too
 *NAT:	+< esto es un pan especial irlandés . 861059_863090
 %eng:	this is a special Irish bread.
 *NAT:	que la que era jefa mía una monja era [/] es &em ay Irish@s:eng . 864237_871627
@@ -905,20 +903,20 @@
 %eng:	and she gave it to me.
 *OSE:	www . 874590_875513
 *NAT:	y es tan por lo menos a nosotros nos encanta . 875447_878030
-%eng:	and it’s so, at least we love it.
+%eng:	and it's so, at least we love it.
 *OSE:	www . 877113_878541
 *NAT:	pero que después de que vine de Nueva_York@s:eng&spa (.) ya no lo como más . 878428_881917
-%eng:	but after I came from New York, I haven’t eaten it again.
+%eng:	but after I came from New York, I haven't eaten it again.
 *NAT:	pero es &ri para nosotros nos gusta mucho . 881894_883873
-%eng:	but it’s, we really love it.
+%eng:	but it's, we really love it.
 *NAT:	me imagino que no +/. 883914_884988
 %eng:	I think not.
 *LIL:	+< mami y la llamaste para Saint_Patrick's@s:eng&spa+eng day@s:eng ? 884157_885847
-%eng:	mommy, and did you call her for Saint Patrick’s Day?
+%eng:	mommy, and did you call her for Saint Patrick's Day?
 *NAT:	sí pero no pude hablar con ella . 885829_886895
-%eng:	yes, but I couldn’t talk to her.
+%eng:	yes, but I couldn't talk to her.
 *NAT:	no estaba . 886849_887470
-%eng:	she wasn’t in.
+%eng:	she wasn't in.
 *LIL:	ah@s:eng&spa bueno pero la llamaste . 887313_888700
 %eng:	oh well, but you called her.
 *NAT:	pero le dejé +//. 888094_888721
@@ -980,7 +978,7 @@
 *LIL:	[- eng] and I'm not gonna take out the popcorn xxx . 950978_952906
 *OSE:	+< www . 952359_953020
 *NAT:	yo acabo de hacer los gabinetes de mi casa . 952965_955189
-%eng:	I’ve just made the cupboards at home.
+%eng:	I've just made the cupboards at home.
 *NAT:	y me dice el carpintero . 955148_957354
 %eng:	and the carpenter says
 *NAT:	me dice +/. 957365_957894
@@ -992,9 +990,9 @@
 *NAT:	no hay pisos +... 963133_964369
 %eng:	there are no floors.
 *NAT:	entonces todo me queda xxx después que ya yo lo hice todo por medida . 0_0
-%eng:	then it all ends up … after I’ve already got it all measured.
+%eng:	then it all ends up … after I've already got it all measured.
 *NAT:	y es culpa del techo o de la pared o del piso . 968275_970492
-%eng:	and it’s all the roof, the wall or the floor’s fault.
+%eng:	and it's all the roof, the wall or the floor's fault.
 *OSE:	www . 970248_971090
 *NAT:	sí . 970747_971891
 %eng:	yes.
@@ -1002,7 +1000,7 @@
 %eng:	and here, look.
 *OSE:	+< www . 971922_972828
 *NAT:	que aquí no se le quedó allá arriba . 972816_974616
-%eng:	over here it didn’t end up up there.
+%eng:	over here it didn't end up up there.
 *OSE:	www . 974372_975097
 *NAT:	allí quedó un pedazo . 974976_976613
 %eng:	a part was left there.
@@ -1035,7 +1033,7 @@
 *LIL:	me apetece . 1009571_1010425
 %eng:	I want to.
 *NAT:	bueno pero no te &pas &pa pero . 1010184_1011786
-%eng:	well, but don’t, don’t, but
+%eng:	well, but don't, don't, but
 *LIL:	un puchito no más y nada más . 1011728_1013296
 %eng:	just a little bit and no more.
 *NAT:	mojarte los labios . 1012917_1014159
@@ -1044,10 +1042,10 @@
 %eng:	to moisten my lips.
 *OSE:	www . 1015703_1018147
 *NAT:	+< <te lo voy a servir en> [/] te lo voy a servir en una cucharita . 1015752_1018945
-%eng:	I’m gonna give it to you from a spoon.
+%eng:	I'm gonna give it to you from a spoon.
 *LIL:	no mami . 1018858_1020158
 %eng:	no, mommy.
-*NAT:	eso es un buchito@s:eng&spa &um ? 1019569_1021055
+*NAT:	eso es un buchito@s:eng&spa &=kiss ? 1019569_1021055
 %eng:	is that a little bit?
 *OSE:	www . 1021059_1022266
 *NAT:	+< ya . 1021390_1021779
@@ -1059,7 +1057,7 @@
 *NAT:	seguro . 1025322_1026053
 %eng:	sure.
 *LIL:	ay cómo está tu esposa ? 1026024_1028085
-%eng:	oh, and how’s your wife?
+%eng:	oh, and how's your wife?
 *OSE:	www . 1027564_1029079
 *LIL:	sí ? 1029033_1029643
 %eng:	yes?
@@ -1081,7 +1079,7 @@
 %eng:	well, the third isn't that exciting.
 *OSE:	+< www . 1043445_1045935
 *LIL:	no qué malo [=! laugh] . 1045860_1047404
-%eng:	no, that’s mean!
+%eng:	no, that's mean!
 *NAT:	+< &=laugh la noches sin poder dormir . 1045886_1049416
 %eng:	the sleepless nights.
 *LIL:	&=laugh . 1049275_1050297
@@ -1089,7 +1087,7 @@
 *LIL:	&=laugh . 1051992_1053542
 *NAT:	+< &=laugh . 1051992_1053542
 *NAT:	no pero ten cuidado porque si es el varón los gustos van a hacer diferentes . 1053607_1057096
-%eng:	no but be careful because if it’s a boy his preferences are going to be different.
+%eng:	no but be careful because if it's a boy his preferences are going to be different.
 *NAT:	entonces aprendés los nuevos gustos . 1057125_1058728
 %eng:	then you'll learn new preferences.
 *OSE:	+< www . 1057189_1059790
@@ -1115,12 +1113,12 @@
 *LIL:	qué emoción . 1073229_1074407
 %eng:	how exciting.
 *LIL:	y no quieres otra &e niña . 1075904_1077181
-%eng:	and don’t you want another girl.
+%eng:	and don't you want another girl.
 *LIL:	quieres un varón . 1077173_1078705
 %eng:	you want a boy.
 *LIL:	&=laugh . 1079390_1082623
 *NAT:	+< no (.) Peter@s:eng&spa me dijo que si nace otra niñita el va a tratar para el cuarto que sea el varón . 1080146_1086485
-%eng:	no, Peter told me that if it’s another girl, he’s going to try for the fourth to be a boy.
+%eng:	no, Peter told me that if it's another girl, he's going to try for the fourth to be a boy.
 *OSE:	www . 1086440_1087595
 *NAT:	&=laugh . 1086440_1087595
 *NAT:	tu viste ? 1087665_1088402
@@ -1137,7 +1135,7 @@
 *LIL:	ella le dijo al esposo que +... 1094705_1097015
 %eng:	she told her husband that ....
 *LIL:	ella tiene una niña de tres años . 1096969_1099262
-%eng:	she’s got a three year old girl.
+%eng:	she's got a three year old girl.
 *LIL:	y tiene mellizos . 1099285_1101229
 %eng:	and twins.
 *LIL:	un varón y una hembra . 1101165_1102733
@@ -1147,24 +1145,24 @@
 *LIL:	y le dijo al [/] al marido +"/. 1104643_1106587
 %eng:	and she told her husband
 *LIL:	+" &e Alberto@s:eng&spa en un año quisiera intentar para el [///] otro varón . 1106605_1110710
-%eng:	Alberto in a year's time I’d like to try to have another boy.
+%eng:	Alberto in a year's time I'd like to try to have another boy.
 *LIL:	porque quieren dos niñas y dos varones . 1110680_1112770
 %eng:	because they want two girls and two boys
 *LIL:	pero y Alberto@s:eng&spa . 1113020_1113798
 %eng:	but Alberto
 *LIL:	+" no nada que ver porque ella está en la casa no trabaja . 1113871_1117696
-%eng:	on the contrary, because she's at home and doesn’t work.
+%eng:	on the contrary, because she's at home and doesn't work.
 *LIL:	pero llega el marido después del trabajo . 1117798_1119644
 %eng:	but her husband arrives home after work
 *LIL:	y es él quien le cocina . 1119627_1123359
 %eng:	and he is the one who cooks.
 *NAT:	tuvo suerte . 1123313_1124468
-%eng:	she’s lucky.
+%eng:	she's lucky.
 *LIL:	es él quien le cocina porque ella con dos &me mellizos . 1124494_1127623
 %eng:	he's the one who cooks because she, with two twins.
 *NAT:	&=laugh . 1124581_1125348
 *NAT:	+< no no pero es verdad es verdad . 1127414_1128593
-%eng:	no, no, but it’s true, it’s true.
+%eng:	no, no, but it's true, it's true.
 *LIL:	y está (.) dando pecho pues es mucho trabajo . 1127500_1130298
 %eng:	and she's breastfeeding them so it's a lot of work.
 *LIL:	ella dice . 1130315_1130797
@@ -1172,13 +1170,13 @@
 *LIL:	y [/] y la creo le creo . 1130968_1132819
 %eng:	and, and I believe her.
 *NAT:	+< no pero es verdad es verdad es verdad . 1131438_1133452
-%eng:	no, but it’s true, it’s true.
+%eng:	no, but it's true, it's true.
 *LIL:	no para . 1132738_1133545
 %eng:	no, wait.
 *LIL:	entonces el marido trabaja todo el día con [/] con F_P_L@s:eng&spa . 1133631_1137915
 %eng:	then, her husband works all day long with, with FPL.
 *LIL:	es ingeniero en F_P_L@s:eng&spa . 1137625_1139366
-%eng:	he’s an engineer at FPL.
+%eng:	he's an engineer at FPL.
 *LIL:	llega a la casa a cocinarle a la mujer . 1139346_1141523
 %eng:	he arrives home to cook for his wife.
 *LIL:	y estar con la niña de tres años . 1141756_1144200
@@ -1187,32 +1185,32 @@
 %eng:	bath her and
 *NAT:	sí pero la niña de tres años rinde por cuatro niños . 1145197_1148193
 %eng:	yes, but the three year old girl is like four kids.
-*LIL:	sí porque es muy &hiper es una loca . 1147885_1149905
-%eng:	yes, because she’s very hyper, she’s crazy
+*LIL:	sí porque <es muy &perat> [//] es una loca . 1147885_1149905
+%eng:	yes, because she's... she's crazy
 *LIL:	es linda . 1149888_1150747
-%eng:	she’s cute
+%eng:	she's cute
 *LIL:	es preciosa . 1150741_1151954
-%eng:	she’s gorgeous.
+%eng:	she's gorgeous.
 *LIL:	pero esa niña no para . 1151937_1154177
-%eng:	but that girl won’t stop.
+%eng:	but that girl won't stop.
 *LIL:	es hiperactiva . 1154141_1156376
-%eng:	she’s hyperactive.
+%eng:	she's hyperactive.
 *LIL:	el pobre Alberto@s:eng&spa . 1156370_1158257
 %eng:	poor Albert.
 *OSE:	+< www . 1156806_1158658
 *LIL:	eh ? 1158639_1159208
 %eng:	huh?
 *NAT:	no no pero esta +/. 1159121_1159864
-%eng:	no, no, but she’s
+%eng:	no, no, but she's
 *OSE:	+< www . 1159132_1161808
 *NAT:	no no pero esta niña es super . 1160676_1162812
 %eng:	no, no, but this girl is super.
 *LIL:	no esta es un terremoto . 1162754_1164757
-%eng:	no, she’s like an earthquake.
+%eng:	no, she's like an earthquake.
 *NAT:	+< <esta se pa(sa)> [/] esta se pasa de lo normal . 1163798_1166509
 %eng:	she's beyond normal.
 *LIL:	es un terremoto . 1166619_1168982
-%eng:	she’s an earthquake.
+%eng:	she's an earthquake.
 *OSE:	www . 1168999_1172540
 *LIL:	&=laugh . 1172519_1175148
 *NAT:	+< <y a veces ni eso porque tienen> [/] y a veces ni eso porque se le cae el biberón . 1173500_1177575
@@ -1236,7 +1234,7 @@
 *NAT:	lo aprendió de su papá . 1196405_1199336
 %eng:	he learnt from his dad.
 *NAT:	yo creo que no me oyó &=laugh . 1199621_1202146
-%eng:	I think he didn’t hear me.
+%eng:	I think he didn't hear me.
 *LIL:	sí el te oyó . 1200648_1201635
 %eng:	yes, he heard you.
 *OSE:	www . 1201502_1202721
@@ -1249,14 +1247,14 @@
 %eng:	you are the dad.
 *OSE:	www . 1213375_1215024
 *NAT:	no no escu(chó) no quiere escu(char) no quiere escuchar ? 1214895_1217310
-%eng:	no, no, he didn’t hear, he doesn’t want to hear?
+%eng:	no, no, he didn't hear, he doesn't want to hear?
 *NAT:	voy a tener que hablar con su señora el domingo que viene en misa . 1219041_1222675
 %eng:	I'm going to talk to your wife on Sunday when she goes to Mass.
 *NAT:	&=laugh . 1222663_1223830
 *NAT:	mira a Pucho@s:eng&spa que tranquilito está ahí escondido . 1225205_1227945
 %eng:	look at Pucho, how quiet he is, hiding over there.
 *LIL:	+< no el está bello . 1227225_1228880
-%eng:	no, he’s beautiful.
+%eng:	no, he's beautiful.
 *LIL:	el Pucho@s:eng&spa . 1228799_1230615
 %eng:	Pucho.
 *OSE:	www . 1234009_1237405
@@ -1295,17 +1293,17 @@
 *NAT:	no no no segurete . 1268257_1270446
 %eng:	no, no, no, don't worry.
 *LIL:	no sí porque no tiene esa +//. 1270419_1272253
-%eng:	no, yes, because it doesn’t have that.
+%eng:	no, yes, because it doesn't have that.
 *LIL:	ah no lo que hicimos e(s) +/. 1272305_1273908
 %eng:	oh no, what we did was.
 *NAT:	+< no tiene la agarradera . 1272613_1274122
-%eng:	it’s got no handle.
+%eng:	it's got no handle.
 *LIL:	no lo hicimos en la grande . 1273902_1275098
 %eng:	no, we made it in the big one.
 *LIL:	sabes qué mami ? 1276882_1277805
 %eng:	you know what, mommy?
 *LIL:	por qué no sirve las +//. 1277758_1280713
-%eng:	why don’t you serve the.
+%eng:	why don't you serve the.
 *OSE:	+< www . 1278286_1280428
 *NAT:	sí &=laugh . 1280412_1282380
 %eng:	yes
@@ -1314,7 +1312,7 @@
 *LIL:	cuántas somos ? 1286674_1289420
 %eng:	how many are we?
 *LIL:	tú no vas a querer café ? 1289356_1290999
-%eng:	don’t you want some coffee?
+%eng:	don't you want some coffee?
 *LIL:	porque en esas se [/] <se enfrían> [/] se enfría muy rápido el café . 1294161_1297574
 %eng:	because in those the coffee gets cold very quickly.
 *LIL:	&eg eh ? 1305250_1306614
@@ -1324,7 +1322,7 @@
 *LIL:	[- eng] we [/] we [/] we adopted him <when he was> [//] when we got married . 1308620_1311685
 *LIL:	[- eng] and he was three months . 1311365_1312388
 *NAT:	+< Peter@s:eng&spa yo te voy a dar el café . 1311529_1312765
-%eng:	Peter, I’m going to give you the coffee.
+%eng:	Peter, I'm going to give you the coffee.
 *NAT:	y tú se lo acerca a tu papá ? 1312724_1313984
 %eng:	and can you pass it to your dad?
 *LIL:	[- eng] so yeah he's as old as we've been married . 1314587_1317013
@@ -1334,7 +1332,7 @@
 %eng:	wait, you know, if I put my hand like this it produces froth.
 *OSE:	+< www . 1324956_1325554
 *NAT:	eso es un truco . 1326912_1328433
-%eng:	that’s a trick.
+%eng:	that's a trick.
 *LIL:	www . 1328294_1329971
 *OSE:	+< www . 1329054_1330064
 *NAT:	no no no tú sabes que en el trabajo . 1330012_1332438
@@ -1382,7 +1380,7 @@
 *LIL:	ay dios mío . 1379018_1380359
 %eng:	oh my God.
 *NAT:	+< no tengo xxx chiquitica . 1379376_1382388
-%eng:	I don’t have ... small.
+%eng:	I don't have ... small.
 *LIL:	&=laugh . 1382092_1384223
 *LIL:	[- eng] &=laugh I love my dog . 1384209_1386060
 *NAT:	Lorena@s:eng&spa y tú vas para el trabajo ahora ? 1386089_1387726
@@ -1398,33 +1396,33 @@
 *OSE:	www . 1403913_1405782
 *LIL:	[- eng] yeah observing . 1405776_1407524
 *LIL:	a ver cuánto me diste ? 1408386_1409890
-%eng:	let’s see, how much did you give me?
+%eng:	let's see, how much did you give me?
 *LIL:	cuánto me diste ? 1409877_1411618
 %eng:	how much did you give me?
 *LIL:	de verdad que es una exageración lo que me has dado . 1411616_1414304
-%eng:	it’s really too much, what you gave me.
+%eng:	it's really too much, what you gave me.
 *LIL:	no es nada . 1414269_1415587
-%eng:	no, it’s nothing.
+%eng:	no, it's nothing.
 *NAT:	lo siento mija . 1415529_1417172
-%eng:	I’m sorry, dear.
+%eng:	I'm sorry, dear.
 *NAT:	pero es que es mucho &=laugh . 1417272_1419402
-%eng:	but, that’s a lot.
+%eng:	but, that's a lot.
 *LIL:	+< por favor mami . 1418445_1419902
 %eng:	please, mommy.
 *OSE:	+< www . 1418445_1419902
 *NAT:	&=laugh . 1409877_1411618
 *LIL:	<eso no se no > [//] por favor eso no me hace nada ni daño a mí ni ni lo saborea el bebé . 1420067_1425866
-%eng:	that is not, please, that won’t do me any harm, and the baby won’t taste it.
+%eng:	that is not, please, that won't do me any harm, and the baby won't taste it.
 *NAT:	bueno yo lo que sí te digo una cosa . 1425812_1427531
-%eng:	well, I’ll definitely tell you something.
+%eng:	well, I'll definitely tell you something.
 *NAT:	que yo voy a estar en el médico con tu padre . 1427478_1429255
-%eng:	I’m going to be at the doctor's with your father.
+%eng:	I'm going to be at the doctor's with your father.
 *NAT:	y Enrique@s:eng&spa no está por aquí . 1429212_1430744
 %eng:	and Enrique is not here.
 *LIL:	cuando te empiece por tomar el café xxx te lleva [=! laugh] . 1430678_1434010
 %eng:	when you start drinking coffee ... it takes you...
-*LIL:	esto es mejor &um &um . 1435479_1437893
-%eng:	that’s better.
+*LIL:	esto es mejor &m &m . 1435479_1437893
+%eng:	that's better.
 *LIL:	&=laugh . 1438002_1439233
 *NAT:	+< &=laugh qué descarada eres &=laugh . 1438113_1440957
 %eng:	you are so cheeky.
@@ -1448,21 +1446,21 @@
 *NAT:	Lily@s:eng&spa créemelo que yo te digo +/. 1455784_1458100
 %eng:	Lily, believe what I'm telling you.
 *LIL:	+< no no es por ti por +/. 1457427_1459035
-%eng:	no, it’s not because of you.
+%eng:	no, it's not because of you.
 *NAT:	+< yo he tenido cuidado cada vez que yo xxx al lado mío &=laugh . 1458420_1462574
-%eng:	I’ve been careful every time I ... by my side.
+%eng:	I've been careful every time I ... by my side.
 *LIL:	+< no no es por ti por esto que no quiero que se rompe . 1460211_1462759
-%eng:	no, it’s not because of you, I don’t want this to break.
+%eng:	no, it's not because of you, I don't want this to break.
 *NAT:	tú [/] tú te mueves [=! laugh] . 1462699_1463953
 %eng:	you, you are moving.
 *NAT:	y yo voy pa(ra) atrás que estoy así xxx [=! laugh] . 1464080_1466025
-%eng:	and I’m going backwards so I’m like this ....
+%eng:	and I'm going backwards so I'm like this ....
 *NAT:	tú ni te dabas cuenta . 1465998_1468227
-%eng:	you didn’t even notice.
+%eng:	you didn't even notice.
 *LIL:	no no me daba cuenta . 1468233_1469522
-%eng:	no, I didn’t notice.
+%eng:	no, I didn't notice.
 *NAT:	tú ni te dabas que te [/] te movías conmigo no tú sola . 1473370_1475930
-%eng:	you didn’t even notice thar you moved with me not by yourself.
+%eng:	you didn't even notice thar you moved with me not by yourself.
 *LIL:	ay . 1477230_1478618
 %eng:	oh.
 *NAT:	Lorena@s:eng&spa entonces lo que tú haces hoy en día no tiene nada que ver con tu carrera no? 1479514_1483716
@@ -1486,16 +1484,16 @@
 *LIL:	de todo un poco sabe esta muchacha . 1496109_1498054
 %eng:	she knows a bit about everything, this girl.
 *NAT:	eso es bueno Lorena@s:eng&spa . 1498008_1499181
-%eng:	that’s good, Lorena.
+%eng:	that's good, Lorena.
 *NAT:	así no tienes que aguantar a nadie &=laugh . 1500579_1503504
-%eng:	therefore you don’t have to put up with anyone.
+%eng:	therefore you don't have to put up with anyone.
 *OSE:	www . 1503307_1504253
 *LIL:	no le +//. 1503381_1504066
 %eng:	I don't.
 *LIL:	ella no le tiene [///] realmente no le tiene que aguantar nada a nadie . 1503416_1507752
-%eng:	she doesn’t have, she really doesn’t have to put up with anything or anyone.
+%eng:	she doesn't have, she really doesn't have to put up with anything or anyone.
 *NAT:	y tienes la edad mi amor . 1507677_1509197
-%eng:	and it’s your age, darling.
+%eng:	and it's your age, darling.
 *LIL:	[- eng] you really don't have to . 1509047_1510370
 *LIL:	[- eng] your dad is right look after number one because no one is gonna look after you . 1510288_1514734
 *OSE:	www . 1514618_1515779
@@ -1513,13 +1511,13 @@
 *LIL:	+< sí mami . 1537709_1538318
 %eng:	yes, mommy.
 *NAT:	perdona Lorena@s:eng&spa . 1538486_1539415
-%eng:	I’m sorry, Lorena.
+%eng:	I'm sorry, Lorena.
 *NAT:	déjame ver el color . 1544208_1545462
 %eng:	let me see the color.
 *NAT:	ay sí es casi igual . 1545439_1547314
 %eng:	oh yes, it's almost the same.
 *LIL:	sí es casi igual . 1547284_1548091
-%eng:	yes, it’s almost the same.
+%eng:	yes, it's almost the same.
 *LIL:	lo que un [/] un chin más +/. 1548100_1550108
 %eng:	a little more.
 *NAT:	+< más oscurito . 1549447_1550259
@@ -1527,29 +1525,29 @@
 *LIL:	más &e más fuerte . 1550410_1551908
 %eng:	stronger
 *NAT:	sí está bonito . 1551943_1553365
-%eng:	yes, it’s nice.
+%eng:	yes, it's nice.
 *LIL:	entonces no lo quería todo amarillo . 1554631_1556280
-%eng:	so I didn’t want it all yellow.
+%eng:	so I didn't want it all yellow.
 *LIL:	y por eso le dije +... 1556262_1557783
 %eng:	and that's why I said.
 *NAT:	sí está más o menos igual . 1557494_1559196
-%eng:	yes, it’s more or less the same.
+%eng:	yes, it's more or less the same.
 *LIL:	dónde está el sample@s:eng ? 1559167_1560868
-%eng:	where’s the sample?
+%eng:	where's the sample?
 *NAT:	+< o sea si +//. 1559243_1560346
 %eng:	I mean if.
 *LIL:	[- eng] yeah it's a +... 1560913_1562016
 *NAT:	+< Lily@s:eng&spa el [/] el [/] el sample@s:eng no lo han puesto todavía . 1561459_1563926
-%eng:	Lily, the sample, they haven’t put it away yet
+%eng:	Lily, the sample, they haven't put it away yet
 *NAT:	xxx . 1563786_1564756
 *LIL:	+< se parece . 1563868_1564622
 %eng:	it looks like.
 *LIL:	eso es lo que quería algo que se pareciera pero que +/. 1564680_1567002
-%eng:	that’s what I wanted, something similar but that.
+%eng:	that's what I wanted, something similar but that.
 *NAT:	+< sí . 1565336_1565882
 %eng:	yes.
 *NAT:	+< se parece . 1566155_1567095
-%eng:	it’s similar.
+%eng:	it's similar.
 *LIL:	que salga +... 1567066_1568697
 %eng:	it comes out ...
 *LIL:	[- eng] and this is gonna be more um like a copper . 1568755_1572586
@@ -1559,7 +1557,7 @@
 *LIL:	www . 1576552_1578619
 *LIL:	[- eng] oh yeah . 1578507_1579250
 *NAT:	sí &va vamos para allá . 1579207_1581842
-%eng:	yes, let’s go over there.
+%eng:	yes, let's go over there.
 *LIL:	+< [- eng] I got the [/] the no smell kind . 1580229_1582446
 *NAT:	+< ve tú alante . 1580869_1581723
 %eng:	you go ahead.
@@ -1573,7 +1571,7 @@
 *NAT:	+< siéntate . 1592566_1593303
 %eng:	sit down.
 *NAT:	+< no no yo voy para allá . 1593384_1594551
-%eng:	no, I’m not going over there.
+%eng:	no, I'm not going over there.
 *NAT:	mira siéntate tú en aquel de allá . 1594516_1595683
 %eng:	look, sit down over there.
 *NAT:	y yo me siento acá . 1595689_1596722
@@ -1587,7 +1585,7 @@
 *LIL:	[- eng] so it can be smooth . 1607752_1609563
 *OSE:	www . 1607668_1608974
 *LIL:	[- eng] and what I got was a semi gloss . 1609927_1611518
-*LIL:	[- eng] and it's kind of &gue when you touch it it's rough . 1611553_1613962
+*LIL:	[- eng] and it's kind of &we when you touch it it's rough . 1611553_1613962
 *OSE:	www . 1613712_1614490
 *LIL:	[- eng] I went to the neighbor's house again for dinner . 1614368_1616324
 *LIL:	[- eng] and they got a new carpet . 1616290_1618252
@@ -1610,7 +1608,7 @@
 *NAT:	pintas . 1641442_1642690
 %eng:	you paint.
 *NAT:	y entonces cuando ya esté el bebito ya que pueda entrar +//. 1642980_1646092
-%eng:	and then when it’s done the baby cn just go in.
+%eng:	and then when it's done the baby cn just go in.
 *NAT:	por dos o tres días que tú te separes del bebito no pasa nada . 1646185_1648187
 %eng:	being away from the baby for two or three days is OK.
 *LIL:	+< olvídalo . 1647955_1648739
@@ -1624,12 +1622,12 @@
 *NAT:	y corre con el bebito . 1658996_1659942
 %eng:	and run with the baby.
 *LIL:	no iré con una [/] un coche . 1659815_1662921
-%eng:	no, I’ll go with a baby carriage.
+%eng:	no, I'll go with a baby carriage.
 *LIL:	o vienes . 1663239_1665166
 %eng:	or you can come.
 *NAT:	+< xxx . 1663558_1664539
 *NAT:	<no puedo> [//] yo no me puedo quedar sola con el bebito mamita . 1665401_1667607
-%eng:	I can’t, I can’t stay by myself with the baby, darling.
+%eng:	I can't, I can't stay by myself with the baby, darling.
 *LIL:	no sí sí aquí una hora . 1667004_1668722
 %eng:	no, yes, here for an hour.
 *NAT:	qué descaradita es &=laugh . 1668365_1671262
@@ -1648,11 +1646,11 @@
 *NAT:	tenías que haberle pedido el permiso . 1688601_1690307
 %eng:	you should have asked him permission.
 *NAT:	lo que pasa es que no te peleó porque estás embarazada [=! laugh] . 1690241_1692186
-%eng:	what happened is that he didn’t quarrel with you because you are pregnant.
+%eng:	what happened is that he didn't quarrel with you because you are pregnant.
 *LIL:	+< no no mami para estas cosas I@s:eng no@s:eng&spa I@s:eng didn't@s:eng want@s:eng to@s:eng hear@s:eng it@s:eng . 1692228_1697104
 %eng:	no, no, mommy those things, I ,no, I didn't want to hear it.
 *NAT:	si no te pelea más [=! laugh] . 1692270_1694604
-%eng:	if he doesn’t quarrel with you any more.
+%eng:	if he doesn't quarrel with you any more.
 *LIL:	Enrique@s:eng&spa tiene un [/] un [//] una [//] un método de hacer las cosas . 1697271_1700690
 %eng:	Enrique has a method for getting things done.
 *LIL:	el pelea . 1700823_1701490
@@ -1664,7 +1662,7 @@
 *LIL:	+" you@s:eng know@s:eng what@s:eng por qué no . 1703098_1705246
 %eng:	you know what, why not.
 *NAT:	él es hijo de su padre o de o de mi esposo ? 1704786_1707648
-%eng:	is he his father’s son or my husband’s?
+%eng:	is he his father's son or my husband's?
 *LIL:	el hijo de es idéntico a mi padre y a su padre . 1707305_1710880
 %eng:	the son is identical to my father and his.
 *LIL:	el dice no primero . 1711141_1712320
@@ -1672,9 +1670,9 @@
 *LIL:	pelea . 1712314_1712854
 %eng:	he quarrels.
 *LIL:	y entonces no quería oírlo . 1712917_1714078
-%eng:	and then he won’t listen.
+%eng:	and then he won't listen.
 *LIL:	se va a hacer y ya . 1714073_1715396
-%eng:	it’s going to be done and that’s it.
+%eng:	it's going to be done and that's it.
 *LIL:	pero me peleó de todas formas . 1716362_1718010
 %eng:	but he quarreled with me anyway.
 *LIL:	y yo lo ignoré . 1718072_1719523
@@ -1682,15 +1680,15 @@
 *LIL:	estaba aquí en la cocina le +/. 1719471_1721073
 %eng:	I was here in the kitchen.
 *NAT:	+< eso es muy ventajoso hacerlo hoy en día la verdad . 1720362_1722702
-%eng:	it’s really advantageous doing so nowadays in fact.
+%eng:	it's really advantageous doing so nowadays in fact.
 *NAT:	lo que es super caro . 1722688_1723640
-%eng:	but it’s really expensive
+%eng:	but it's really expensive
 *LIL:	uno nunca sabe lo que va a pasar . 1723611_1724795
-%eng:	you never know what’s gonna happen.
+%eng:	you never know what's gonna happen.
 *NAT:	+< es muy caro . 1724700_1725652
-%eng:	it’s very expensive
+%eng:	it's very expensive
 *LIL:	y es &e <es solamente> [//] no es para solamente el bebe . 1725603_1728476
-%eng:	and it’s not just for the baby.
+%eng:	and it's not just for the baby.
 *LIL:	sino los bebés que tengamos . 1728463_1730222
 %eng:	but for all the babies we are having.
 *NAT:	+< los primos y todo . 1729601_1730797
@@ -1698,9 +1696,9 @@
 *LIL:	+< nosotros los primos . 1730414_1732204
 %eng:	us, the cousins.
 *LIL:	tiene un bueno cien por ciento el bebé . 1732147_1735479
-%eng:	it’s got a good hundred percent, the baby.
+%eng:	it's got a good hundred percent, the baby.
 *LIL:	setenta y cinco por ciento el hermano que tengamos o una hermana . 1735702_1740131
-%eng:	seventy five percent the brother or sister we’d have.
+%eng:	seventy five percent the brother or sister we'd have.
 *LIL:	y cincuenta por cierto +/. 1740398_1741994
 %eng:	and fifty per cent.
 *NAT:	+< llegó la vecina tuya . 1741106_1742790

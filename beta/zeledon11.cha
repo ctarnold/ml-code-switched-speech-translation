@@ -1,3 +1,4 @@
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	eng, spa
@@ -9,7 +10,6 @@
 @Transcriber:	Diana Carter, Prifysgol Bangor University
 @Time Duration:	00:30:40
 @Media:	zeledon11, audio
-@Comment:	Filename: zeledon11.cha; Soundfile: zeledon11.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *ANT:	um you know this is a picture of the parking garage that you can easily tell . 0_3738
 *ANT:	uh there's G_c up top P_c on the left side book store on the top side as well . 3733_8518
@@ -25,7 +25,7 @@
 *ANT:	I'm gonna ask you if you were standing there . 23643_26110
 *ANT:	were you standing at point one ? 26095_28190
 *ANT:	yes I was standing at point one when the police found us so and so on . 28163_32633
-*ANT:	during the incident ok &er when we were found were you standing at point one on the third floor ? 32624_38322
+*ANT:	during the incident o_k@s:eng&spa uh when we were found were you standing at point one on the third floor ? 32624_38322
 *ANT:	that's where we were standing . 38312_40634
 *ANT:	It's imperative that we make that clear because the next page +/. 40631_44328
 *SEA:	+< <so this> [/] <so this is> [/] so this is G_c xxx right ? 43505_45566
@@ -57,7 +57,7 @@
 *ANT:	we should ask them before and after . 90945_91998
 *ANT:	xxx . 91964_92341
 *SEA:	yeah yeah we should switch . 91964_93096
-*SEA:	<we should> [/] we should say &w &a all the main questions in English all the nice questions in Spanish . 93079_97278
+*SEA:	<we should> [/] we should say &w &ɔ: all the main questions in English all the nice questions in Spanish . 93079_97278
 *SEA:	&=mumbles . 97273_98765
 *SEA:	[- spa] &=mumbles oficial policía . 98755_102692
 %eng:	police officer.
@@ -113,8 +113,8 @@
 *SEA:	I forgot the [/] the name for the [/] the actual emblem . 152348_154961
 *SEA:	but it's ah [/] it's [/] it's [/] it's some [/] some particular thing uh that signifies the legion . 154934_160979
 *SEA:	you know that signifies the Caesar . 160964_163402
-*SEA:	and it's called the &fasha . 163391_164929
-*ANT:	the &f ok . 164904_167046
+*SEA:	and it's called the &faʃə . 163391_164929
+*ANT:	the &f oh o_k . 164904_167046
 *SEA:	so (.) so like that [/] that staff is a symbol of state (.) so fascism . 166552_172969
 *ANT:	the statism yeah that's +... 172962_175423
 *SEA:	+< yeah . 174007_174930
@@ -195,12 +195,12 @@
 *ANT:	and that that was nothing . 293985_295698
 *ANT:	<that was nothing> [//] compared to that first rifle that was nothing . 295691_298390
 *ANT:	yeah . 298367_298750
-*SEA:	&y &y <you have to see> [/] you have to see Lord_of_war because Lord_of_war like the centre piece weapon in Lord_of_war is the A_k the Kalashnikov@s:eng&spa you know . 298501_306366
+*SEA:	&j &j <you have to see> [/] you have to see Lord_of_war because Lord_of_war like the centre piece weapon in Lord_of_war is the A_k the Kalashnikov@s:eng&spa you know . 298501_306366
 *ANT:	+< yeah . 305913_306598
 *SEA:	like <he starts> [//] he goes into this monologue about like all the benefits of [/] of a Kalashnikov@s:eng&spa . 306436_312020
 *SEA:	and it's [/] <it's like> [//] it's the weapon . 311997_313901
 *SEA:	and it's like the +/. 313895_315352
-*ANT:	+< &y you know how they mark(et) +//. 313895_314954
+*ANT:	+< &j you know how they mark(et) +//. 313895_314954
 *ANT:	I mean I'm sure you know this . 314919_315726
 *ANT:	but do you know how they marketed the Kalashnikov@s:eng&spa ? 315726_317374
 *SEA:	no . 317359_317951
@@ -257,7 +257,7 @@
 *ANT:	pretty funny . 432818_435512
 *ANT:	it's an experience man . 435502_436408
 *ANT:	you should come . 436396_438643
-*SEA:	<did you> [/] did you fire anything smaller than a rifle &er ? 438628_442268
+*SEA:	<did you> [/] did you fire anything smaller than a rifle or +..? 438628_442268
 *ANT:	um (.) no <I &sm> [//] I fired a really crappy um rifle . 442259_447677
 *ANT:	David's@s:eng&spa+eng rifle . 447657_448226
 *ANT:	it's a twenty two . 448214_449392
@@ -394,7 +394,7 @@
 *SEA:	so +... 699161_701106
 *ANT:	&=sigh . 701085_703273
 *SEA:	I was looking at this trash can . 703194_704308
-*SEA:	and then I'm thinking like &ah +... 704320_707108
+*SEA:	and then I'm thinking like uh +... 704320_707108
 *ANT:	it looks like R_two_d_two doesn't it ? 707097_708519
 *SEA:	it looks like R_two_d_two yes . 708487_709845
 *ANT:	&=laughs . 709444_712782
@@ -442,7 +442,7 @@
 *ANT:	it's just del@s:spa . 764384_765899
 %eng:	it's just "of the".
 *ANT:	that's right . 765877_766440
-*ANT:	just de@s:spa el@s:spa &fuisht . 766435_767596
+*ANT:	just de@s:spa el@s:spa &=noise . 766435_767596
 %eng:	just "of the".
 *ANT:	slam (th)em together del@s:spa . 767584_768861
 %eng:	slam them together, "of the".
@@ -454,7 +454,7 @@
 *SEA:	so you have uh again like a professor of French say French professor . 785496_789864
 *SEA:	whereas in Spanish you don't have that . 789823_791891
 *ANT:	that's right you don't . 791578_792808
-*SEA:	+< &đ &đ &đ there is that there is no +/. 791765_793867
+*SEA:	+< &ð &ð &ð there is that there is no +/. 791765_793867
 *ANT:	there's always de@s:spa . 793066_794012
 %eng:	there's always "of".
 *SEA:	yeah profesor@s:spa de@s:spa francés@s:spa . 794000_795773
@@ -465,7 +465,7 @@
 *SEA:	+< yes yeah . 799584_800640
 *ANT:	yeah . 800636_801100
 *SEA:	yeah so that it's [/] it's disambiguated . 801071_804602
-*SEA:	in English you have that &ambigu ambiguous possibility because of the the way you can put place (.) um (.) &a modifiers . 804458_813141
+*SEA:	in English you have that ambigu(ous) [/] ambiguous possibility because of the the way you can put place (.) um (.) uh modifiers . 804458_813141
 *ANT:	+< you know <that's actually> [/] that's actually another reason why I prefer to write in English as to writing in Spanish . 812005_818027
 *ANT:	because (.) English does allow you to be a little ambiguous which means you can have so many more double meanings at times . 818000_823675
 *ANT:	and (.) makes it interesting . 823605_825505
@@ -483,7 +483,7 @@
 *ANT:	yeah this [///] see I don't imagine this R_two_d_two having beeps . 852711_857079
 *ANT:	I [/] I see it having <like a> [/] like a xxx . 857075_861459
 *SEA:	nice . 860408_861378
-*ANT:	&ber &ber &ber &ber . 861467_864016
+*ANT:	&=noise . 861467_864016
 *SEA:	&=laughs . 861467_864016
 *ANT:	&=laughs . 863999_868483
 *SEA:	+< &=laughs . 863999_868483
@@ -551,8 +551,8 @@
 *SEA:	but xxx . 968757_970817
 *ANT:	+< no no it's just (.) nice . 969151_970963
 *ANT:	but (.) don't you love this picture ? 970945_972826
-*ANT:	don't you love this &pic +//. 972817_974500
-*ANT:	what do you see &=laughs? 974479_976163
+*ANT:	don't you love this pict(ure) +//? 972817_974500
+*ANT:	what do you see &=laughs ? 974479_976163
 *SEA:	&e I feel that's a door . 976141_977737
 *SEA:	that's the [/] the main like entrance door . 977737_979827
 *ANT:	yeah . 979813_980162
@@ -624,12 +624,12 @@
 *ANT:	that's what we're gonna do . 1106531_1108203
 *SEA:	but anyways that picture that you took um like ah that brings me up to like that one day that I went to go to xxx . 1108197_1113912
 *SEA:	and uh and I [/] I remember this long lost like Spanish term you know which was uh which was vacilar@s:spa . 1113628_1119561
-%eng:	and I remember this long-lost, like, Spanish term, you know, which was "check". 
+%eng:	and I remember this long-lost, like, Spanish term, you know, which was "check".
 *ANT:	&vacilante ? 1119544_1120514
 *SEA:	+< <have you> [/] have you ever heard that ? 1119649_1120902
 *SEA:	[- spa] vacilar ? 1120891_1121460
 %eng:	"check"
-*ANT:	I've never heard of &vacilante . 1120966_1121773
+*ANT:	I've never heard of vacilante@s:spa ["] . 1120966_1121773
 *SEA:	[- spa] vacilar vacilar . 1121767_1123927
 %eng:	"check", "check".
 *ANT:	[- spa] vacilar ? 1123248_1123915
