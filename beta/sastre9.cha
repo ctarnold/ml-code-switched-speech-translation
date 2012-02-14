@@ -1,8 +1,8 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	 KAY Kayla Adult, JES  Jessica Adult
+@Participants:	KAY Kayla Adult, JES  Jessica Adult
 @ID:	spa, eng|bangor3|KAY||female|||Adult||
 @ID:	spa, eng|bangor3|JES||female|||Adult||
 @Situation:	Two friends chatting
@@ -69,7 +69,7 @@
 *KAY:	(en)tonces@s:spa lo@s:spa tienen@s:spa ahí@s:spa (.) entonces@s:spa &e there's a lot of construction going around here . 63226_68269
 %eng:	so there you have it, so there's a lot of construction going around here.
 *KAY:	so I asked what was happening . 68610_70299
-*KAY:	and they said that &=mumble <that &co> [//] that the corrections is coming and also F_b_i . 70201_73771
+*KAY:	and they said that the [/] the &kn [/] the corrections is coming and also F_B_I . 70201_73771
 %com:	background noise
 *JES:	oh my goodness so we're expanding . 74633_76960
 *KAY:	exactly . 76896_77715
@@ -120,7 +120,7 @@
 %eng:	here there's a girl called Ana and she's very sweet.
 *KAY:	[- spa] y entonces está encinta . 137834_139094
 %eng:	and so she is pregnant
-*JES:	+< &aaa . 139118_139884
+*JES:	+< oh@s:eng&spa . 139118_139884
 %eng:	oh
 *KAY:	y@s:spa y@s:spa no@s:spa va@s:spa poder@s:spa venir@s:spa she's not gonna be able to come in for another seven months . 139119_142102
 %eng:	and she's not going to be able to come, she's not going to be able to come in for another seven months.
@@ -141,7 +141,7 @@
 *JES:	because you know being a mother is no easy task . 156877_159762
 *KAY:	no that I know +/. 159884_161016
 *JES:	+< but it's the best (.) that (.) anybody could experience in life +/. 160568_164863
-*KAY:	+< well you [/] you have a lot of experience being a xxx [=!laughs] . 164036_167194
+*KAY:	+< well you [/] you have a lot of experience being a xxx [=! laughs] . 164036_167194
 *KAY:	you reared us all . 166995_168319
 *JES:	yeah . 168303_168994
 *KAY:	+< you had six of us . 168304_169706
@@ -194,17 +194,16 @@
 *KAY:	+< so when do you plan to ? 227517_228527
 *JES:	no I'm gonna ask &da Ivan@s:eng&spa to do it for me porque@s:spa +/. 228515_231865
 %eng:	no I'm going to ask Ivan to do it for me because.
-*KAY:	+< you &ca porque@s:spa tú@s:spa no@s:spa lo@s:spa puedes@s:spa hacer@s:spa you can't go to it and start checking this ? 231471_234971
-%eng:	you, because you can't do it, you can't go to it and start checking this?
+*KAY:	+< you &ke [///] porque@s:spa tú@s:spa no@s:spa lo@s:spa puedes@s:spa hacer@s:spa you can't go to it and start checking this ? 231471_234971
+%eng:	you... because you can't do it, you can't go to it and start checking this?
 %com:	background noise
-*JES:	+< es@s:spa que@s:spa he is such a [/] an <advanced &technoco > [//] technologically advanced . 233469_238154
+*JES:	+< es@s:spa que@s:spa he is such a [/] an <advanced &teknɒkɒl> [//] technologically advanced . 233469_238154
 %eng:	the thing is, he is such a, an advanced, technically advanced.
 *KAY:	his &m [/] his phone . 237898_239059
-*JES:	yeah (.) y@s:spa yo@s:spa no@s:spa sé@s:spa ni@s:spa cómo@s:spa prenderlo@s:spa &hu . 239053_242664
+*JES:	yeah (.) y@s:spa yo@s:spa no@s:spa sé@s:spa ni@s:spa cómo@s:spa prenderlo@s:spa &=grunt . 239053_242664
 %eng:	yeah, I don't even know to turn it on.
 *KAY:	[- spa] porque <el teléfono mío no> [//] el teléfono mío tú sabes +/. 242820_245682
 %eng:	because my telephone, my telephone, you know
-%com:	background noise
 *JES:	+< [- spa] no pero el tuyo sí sabe . 244540_246264
 %eng:	no, but yours, you do know
 *JES:	[- spa] tú sabes bastante de eso . 246315_247557
@@ -243,7 +242,7 @@
 *KAY:	Carmencita@s:eng&spa is really fast . 285362_286883
 *JES:	+< que@s:spa (.) que@s:spa number seven is a (.) I don't know I_G_T whatever +/. 286651_290981
 %eng:	that number seven is a, I don't know, I, G, T, whatever
-*KAY:	+< &e [/] Carmencita@s:eng&spa is so fast <on that> [/] on that &i email or the text messaging on her phone . 289570_295428
+*KAY:	+< xx [/] Carmencita@s:eng&spa is so fast <on that> [/] on that &i email or the text messaging on her phone . 289570_295428
 *JES:	she'll answer faster to a text message than to answer her phone . 296080_299923
 *KAY:	I think so . 299882_300695
 *JES:	I'm serious . 300822_302082
@@ -274,7 +273,7 @@
 *KAY:	+< [- spa] bueno por ejemplo +/. 365735_366919
 %eng:	well, for example
 *JES:	+< <taking away> [/] <taking away> [/] taking away +/. 365833_367981
-*KAY:	+< [- spa] por ejemplo &e &e hace dos días ella estaba bien [/] bien grosera . 367491_371421
+*KAY:	+< [- spa] por ejemplo &em &e hace dos días ella estaba bien [/] bien grosera . 367491_371421
 %eng:	for example, two days ago she was being really rude
 *KAY:	she was extremely nasty . 371395_372580
 *JES:	that's not good . 372481_373479
@@ -290,8 +289,8 @@
 *JES:	to reframe the circumstances . 388248_391677
 *JES:	you've gotta find ways that she would wanna do it voluntarily to behave . 391804_397041
 *JES:	to [/] to get her clothing out . 396843_399072
-*KAY:	+< &mu . 398050_398544
-*JES:	&a finding ways +/. 399207_401773
+*KAY:	+< &wu . 398050_398544
+*JES:	er finding ways +/. 399207_401773
 *KAY:	+< well I think the fact that she wants to be with her friends every weekend . 400861_403944
 *KAY:	<and if> [//] and I'm not letting her do it this weekend because she didn't behave . 403908_406776
 *KAY:	I don't think <she'll be &mis> [//] she'll be nasty again . 406811_408750
@@ -316,7 +315,7 @@
 %eng:	no
 *KAY:	[- spa] qué tú haces? 432896_433372
 %eng:	what would you do?
-*JES:	well &aik many times I give him the silent treatment . 433438_436764
+*JES:	well &m &aik many times I give him the silent treatment . 433438_436764
 *KAY:	for how long tú@s:spa no@s:spa le@s:spa hablas@s:spa ? 437909_439261
 %eng:	for how long do you not speak to him?
 *JES:	bueno@s:spa no@s:spa I give him the silent treatment . 439205_441359
@@ -341,7 +340,7 @@
 *KAY:	mmhm . 459815_460697
 *JES:	but we have a very good communication (.) thank god . 460650_465309
 *JES:	and he knows that I'll (.) you know do whatever I can to support him . 465270_470624
-*KAY:	+< yeah but like if he &ans [/] but if he answer you nasty . 469173_471704
+*KAY:	+< yeah but like if he &a:n [/] but if he answers you nasty . 469173_471704
 *KAY:	and he goes into his room . 471593_472685
 *JES:	I say you know +"/. 473031_473884
 *JES:	+" is that necessary ? 473866_475144
@@ -384,7 +383,7 @@
 *JES:	I mean . 527598_528137
 *JES:	my oldest son went through a [/] a little bit once he got to the point que@s:spa estaba@s:spa dating . 528091_533588
 %eng:	my oldest son went through a little bit once he got to the point that he was dating
-*KAY:	uhhuh@s:eng&spa . 533408_534012
+*KAY:	uhuh . 533408_534012
 *JES:	and a (.) that seems to be a problem . 534618_537642
 *KAY:	pero@s:spa yo@s:spa I don't remember Armand@s:eng&spa dating except Muni@s:eng&spa . 537548_540195
 %eng:	but I don't remember Armand dating except Muni.
@@ -407,12 +406,12 @@
 *JES:	and he went to religious school . 564162_566374
 *KAY:	yeah ahora@s:spa Carmencita@s:eng&spa likes to stay up late too . 566171_568620
 *KAY:	but she's like on the computer . 568373_569691
-*KAY:	or watching Tv . 569627_570736
-*JES:	&ou . 570598_570987
+*KAY:	or watching T_V . 569627_570736
+*JES:	&wou . 570598_570987
 *KAY:	that's ok . 570997_571693
 *KAY:	it's kid stuff . 571687_572332
 *KAY:	you know [/] you know weekends whatever . 572396_575147
-*KAY:	and &a during the week también@s:spa &quie yo@s:spa últimamente@s:spa la@s:spa estoy@s:spa acostando@s:spa más@s:spa temprano@s:spa . 575212_579949
+*KAY:	and &a during the week también@s:spa &kie yo@s:spa últimamente@s:spa la@s:spa estoy@s:spa acostando@s:spa más@s:spa temprano@s:spa . 575212_579949
 %eng:	and during the week also, I'm putting her to bed earlier recently.
 *KAY:	pero@s:spa no@s:spa es@s:spa fácil@s:spa because she doesn't wanna go to sleep . 579843_581673
 %eng:	but it's not easy because she doesn't want to go to sleep.
@@ -538,8 +537,8 @@
 %eng:	and what did he do?
 *JES:	[- spa] la dejó ahí . 736998_738078
 %eng:	he left it there.
-*JES:	pobrecito@s:spa what was he &suppo +//. 738090_739959
-%eng:	poor thing, what was he supposed
+*JES:	pobrecito@s:spa what was he suppo(sed) +//. 738090_739959
+%eng:	poor thing, what was he supposed...
 *KAY:	+< [- spa] pobrecito no &sa . 738838_740812
 %eng:	poor thing, no.
 *JES:	+< <it's a> [/] it's a lot of stress for boys because these girls they don't know how to behave . 740203_744598
@@ -596,14 +595,14 @@
 %eng:	she brought me a book she had read when she was in third grade, I think.
 *KAY:	+< she did ? 810363_811065
 *KAY:	really ? 814215_814934
-*KAY:	[- spa] pero las fotos vas a tener que hacerlas más chiquitas para que &ca +"/. 814940_817738
+*KAY:	[- spa] pero las fotos vas a tener que hacerlas más chiquitas para que &ka +"/. 814940_817738
 %eng:	but now the photos you're going to have to make them smaller so that
 *JES:	[- spa] no ella lo quiere así grande . 816734_819050
 %eng:	no, she wants them that big
 *KAY:	+< pero@s:spa cómo@s:spa si@s:spa no@s:spa te@s:spa puede@s:spa flip ? 817898_819901
 %eng:	but what happens if you can't flip?
 *JES:	[- spa] no ella no quiere . 819437_820656
-%eng:	no, she doesn't want
+%eng:	no, she doesn't want to
 *JES:	[- spa] ella dice que la maestra lo hizo así . 820985_822605
 %eng:	she says the teacher did it like that.
 *JES:	and I said +"/. 822587_823458
@@ -647,7 +646,7 @@
 *JES:	what kind of a feedback ? 869076_870348
 *KAY:	+< but they [/] they're ridiculous . 869494_870772
 *KAY:	did they tell you when the science project is due or not ? 870783_872679
-*JES:	&er in April the first day that you [///] they get back from their vacation . 872666_877580
+*JES:	er in April the first day that you [///] they get back from their vacation . 872666_877580
 *KAY:	+< no this is due . 876657_877783
 *JES:	this is due . 877731_878497
 *KAY:	this one's due . 878230_878863
@@ -698,7 +697,7 @@
 *JES:	&=coughing . 935063_936090
 *KAY:	I'm thinking +... 935696_936897
 *KAY:	it's like three months right . 936926_938755
-*KAY:	so &er +... 938771_940855
+*KAY:	so er +... 938771_940855
 *JES:	+< we can work at it . 940495_941609
 *JES:	[- spa] ahora yo no sé me gustaría que ella aprendiera a nadar . 941611_944455
 %eng:	now, I don't know, I'd like her to learn swimming
@@ -797,7 +796,7 @@
 *JES:	he'll be sixteen april thirtieth . 1041083_1043248
 *KAY:	it's a great location . 1043230_1044502
 *JES:	yeah I like it . 1044515_1046626
-*JES:	and you know &er the supervision there probably is better than other places . 1046649_1051912
+*JES:	and you know &i the supervision there probably is better than other places . 1046649_1051912
 *KAY:	[- spa] exacto . 1051815_1053476
 %eng:	exactly
 *KAY:	[- spa] y al lado de la casa . 1053503_1054554
@@ -816,8 +815,8 @@
 *KAY:	<if he were> [/] if he did a cashier +/. 1064103_1066710
 *JES:	I don't want him to be a stock boy . 1064968_1067325
 *KAY:	but cashier but you know +/. 1067377_1069792
-*JES:	but usually they have &er women doing cashier . 1068611_1072083
-*KAY:	&er do they no they have some guys . 1071792_1073803
+*JES:	but usually they have er women doing cashier . 1068611_1072083
+*KAY:	&mn do they no they have some guys . 1071792_1073803
 *JES:	I've never seen a guy there . 1073652_1075515
 *KAY:	I don't think I've seen a guy there . 1075531_1077748
 *JES:	the bag boys . 1076529_1077789
@@ -836,7 +835,7 @@
 *KAY:	to make sandwiches . 1095323_1096443
 *JES:	but you can't work in there until you are eighteen . 1096186_1098531
 *KAY:	oh really so you've done your homework . 1098535_1100160
-*JES:	yeah [=!laughing ] . 1100162_1102060
+*JES:	yeah [=! laughing] . 1100162_1102060
 *KAY:	+< &=laughing . 1100162_1102060
 *KAY:	[- spa] te conoce . 1102095_1102844
 %eng:	he knows you.
@@ -852,9 +851,9 @@
 *JES:	[- spa] así a mí no me gustan . 1107528_1108352
 %eng:	I don't like it that way.
 *JES:	I didn't think about the machines . 1109848_1111473
-*KAY:	the machines . 1111332_1111901
-*KAY:	pero@s:spa I@s:spa thought maybe instead of the machines then he likes &um baking . 1111895_1116957
-%eng:	but I thought maybe instead of the machines then he likes baking.
+*KAY:	the machine . 1111332_1111901
+*KAY:	pero@s:spa I thought maybe instead of the machine then he likes &k er baking . 1111895_1116957
+%eng:	but I thought maybe instead of the machine then he likes baking.
 *KAY:	but you can't . 1116916_1118356
 *JES:	not even in the baking section ? 1118348_1119985
 *KAY:	+< you gotta be eighteen . 1118348_1119985
@@ -1023,7 +1022,7 @@
 %eng:	I think [...] was urinating, urinating.
 *KAY:	+< or [/] or pee yeah . 1297504_1299118
 *KAY:	it's supposed to xxx . 1299110_1301165
-*JES:	[- spa] <pero &llo> [/] pero todos los niños llorando porque dicen que le dolía mucho . 1300141_1303489
+*JES:	[- spa] <pero &jo> [/] pero todos los niños llorando porque dicen que le dolía mucho . 1300141_1303489
 %eng:	but, but all the kids crying because they said it hurt so much.
 *JES:	[- spa] y Carmencita@s:eng&spa tú sabes . 1303489_1304661
 %eng:	and Carmencita, you know.
@@ -1138,7 +1137,7 @@
 *JES:	Paul@s:eng&spa you met my sister right ? 1419280_1420700
 *KAY:	yeah . 1420733_1421418
 *JES:	Paul@s:eng&spa in the refrigerator sweetheart there's a thing called an empanada@s:spa . 1421429_1424893
-%eng:	Paul in the refrigerator sweetheart there's a thing called an “empanada"
+%eng:	Paul in the refrigerator sweetheart there's a thing called an "empanada"
 *JES:	<I bought> [/] I bought it yesterday . 1425003_1426182
 *JES:	you weren't here . 1426178_1426927
 *JES:	have one . 1426880_1427571
@@ -1220,7 +1219,7 @@
 *KAY:	so that's one meal . 1528428_1529626
 *JES:	[- spa] y cuánto tú le sirves a todo el mundo ? 1529735_1531145
 %eng:	and how much do you serve to everyone?
-*KAY:	+< so when I say que@s:spa yo@s:spa tengo@s:spa ayuda@s:spa de@s:spa otra@s:spa gente@s:spa quiero@s:spa decir@s:spa que@s:spa I use frozen vegetables [=!laughing] . 1530145_1536633
+*KAY:	+< so when I say que@s:spa yo@s:spa tengo@s:spa ayuda@s:spa de@s:spa otra@s:spa gente@s:spa quiero@s:spa decir@s:spa que@s:spa I use frozen vegetables [=! laughing] . 1530145_1536633
 %eng:	so when I say that I have help from other people, I mean that I use frozen vegetables.
 *JES:	+< &=laughs I thought that you meant that you had xxx helping you . 1535280_1538651
 *KAY:	no are you kidding me ? 1538689_1540129
@@ -1333,7 +1332,7 @@
 *JES:	yeah he is a very serious guy . 1653593_1655034
 *KAY:	yeah . 1655052_1655464
 *KAY:	he is serious ? 1655475_1657246
-*JES:	+< now he is more serious [=!laughing] . 1656131_1657246
+*JES:	+< now he is more serious [=! laughing] . 1656131_1657246
 *KAY:	[- spa] pobrecito . 1657257_1658447
 %eng:	poor guy.
 *JES:	+< &=laughing . 1657257_1658447
@@ -1541,7 +1540,7 @@
 *JES:	+" you know what the [///] it's needed . 1928029_1930827
 *JES:	+" it's something that is needed so how could you fail ? 1930807_1934575
 *JES:	people will buy it . 1934590_1936593
-*JES:	it's not something that &er +... 1936622_1939385
+*JES:	it's not something that er +... 1936622_1939385
 *KAY:	+< yeah do you remember that [/] that stupid guy I was recently dating ? 1936622_1941153
 *KAY:	he was saying that he uses gloves . 1941200_1943007
 *JES:	yeah . 1943018_1943477
@@ -1553,8 +1552,8 @@
 %eng:	yes.
 *KAY:	[- spa] sí . 1947447_1947767
 %eng:	yes.
-*KAY:	+< so entonces@s:spa &er I think it would sell . 1947509_1950352
-%eng:	so then I think it would sell.
+*KAY:	+< so entonces@s:spa eh@s:eng&spa I think it would sell . 1947509_1950352
+%eng:	so then, I think it would sell.
 *JES:	I know it's gonna sell . 1950452_1952108
 *JES:	now let's see if the guy bites . 1952085_1954587
 *JES:	he wrote to me . 1954605_1955934
@@ -1611,7 +1610,7 @@
 *KAY:	go to work honey . 2019670_2020582
 *JES:	yeah he'll drive me nuts . 2020585_2022588
 *KAY:	yeah . 2022600_2023795
-*KAY:	that's &er +... 2023865_2024904
+*KAY:	that's er +... 2023865_2024904
 *JES:	+< you know . 2023865_2024887
 *JES:	but he's a good guy . 2024910_2026454
 *KAY:	no no he is . 2026477_2027418
@@ -1628,8 +1627,8 @@
 *KAY:	so it's not like I have to cook . 2037143_2038512
 *JES:	that's a blessing . 2038531_2040151
 *KAY:	exactly . 2040110_2040859
-*JES:	just for that keep him around [=!laughing] . 2040516_2043309
-*KAY:	+< yeah [=!laughing] . 2042053_2043208
+*JES:	just for that keep him around [=! laughing] . 2040516_2043309
+*KAY:	+< yeah [=! laughing] . 2042053_2043208
 *KAY:	exactly . 2043173_2044230
 *JES:	no . 2044146_2044686
 *KAY:	the other day he was shocked that I said +"/. 2044698_2046056
@@ -1670,7 +1669,7 @@
 *JES:	yeah you gave me the letter yeah . 2067635_2068988
 *KAY:	+< [- spa] ah sí . 2067635_2068755
 %eng:	oh, yes.
-*JES:	and &er ya@s:spa se@s:spa la@s:spa dimos@s:spa al@s:spa profesor@s:spa y@s:spa todo@s:spa . 2068994_2072193
+*JES:	and er ya@s:spa se@s:spa la@s:spa dimos@s:spa al@s:spa profesor@s:spa y@s:spa todo@s:spa . 2068994_2072193
 %eng:	and we gave it to the professor and everything.
 *KAY:	[- spa] yo estaba haciendo otro pa(ra) Carmencita . 2072196_2074379
 %eng:	I was doing another one for Carmencita.
@@ -1962,7 +1961,7 @@
 %eng:	if Tom's not there, let her show you the part in which she is walking with me in the,
 *JES:	+< [- spa] sí . 2362631_2362898
 %eng:	yes.
-*KAY:	+< &o . 2365853_2366694
+*KAY:	+< &=groan . 2365853_2366694
 *JES:	[- spa] oye qué fantástico . 2367000_2368584
 %eng:	hey, that's awesome.
 *KAY:	+< xxx . 2367795_2369687
