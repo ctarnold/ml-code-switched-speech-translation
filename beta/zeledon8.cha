@@ -2,19 +2,20 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	 MAR Marcela Adult, FLA Flabia Adult, OSE Otherspeaker Adult
-@Media:	zeledon8, AUDIO
+@Participants:	MAR Marcela Adult, FLA Flabia Adult, OSE Otherspeaker Adult
 @ID:	spa, eng|bangor3|MAR||female|||Adult||
 @ID:	spa, eng|bangor3|FLA||female|||Adult||
 @Situation:	Two friends. They are chatting in Marcela's house.
-@Comment:	Marcela feels comfortable code-switching. Flabia does les so.
+@Comment:	Marcela feels comfortable code-switching. Flabia does less so.
 @Date:	22-MAR-2008
 @Coder:	Esther Nuñez Villanueva Prifysgol Bangor University
+@Media:	zeledon8, AUDIO
 @Time Duration:	00:37:53
 @Comment:	Filename: zeledon6.CHA; Soundfile: zeledon6.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Comment:	proofread by Jorge Valdes Kroff, Penn State University
 @Comment:	Marcela is telling a story and quoting a couple of conversations she had in a bar.
+@Warning:	missing translations marked "vvv"
 *MAR:	so (.) le@s:spa [//] yo@s:spa le@s:spa digo@s:spa <a@s:spa la@s:spa chica@s:spa> [//] a@s:spa la@s:spa waitress &=laugh +"/. 6_5341
 %eng:	vvv
 *MAR:	+" [- spa] eh@s:eng&spa hay lugar adentro en la barra ? 5302_6858
@@ -73,8 +74,8 @@
 %eng:	vvv
 *MAR:	+" hi girls [?] there &=laugh . 56368_58022
 *MAR:	+" how are this [=! laugh] ? 57640_58888
-*MAR:	+" how are you [=! laugh] ? 58900_59637
-*FLA:	[- spa] entraron dos hombres ? 58846_60727
+*MAR:	+" how are you [=! laugh] ? 58845_59637
+*FLA:	+< [- spa] entraron dos hombres ? 58846_60727
 %eng:	vvv
 *MAR:	+< so +/. 60099_60645
 *MAR:	no@s:eng&spa [/] no@s:eng&spa [/] no@s:eng&spa they're all the people that were there . 60668_63211
@@ -271,8 +272,8 @@
 *MAR:	+" no no there's really not something very unattractive about +//. 262373_266907
 *FLA:	huh@s:eng&spa ? 266925_267720
 %eng:	vvv
-*MAR:	about plastic sur(gery) . 266321_268249
-*MAR:	I mean the fake hmm@s:eng&spa +/. 268220_270129
+*MAR:	+< about plastic sur(gery) . 266934_268021
+*MAR:	I mean the fake hmm@s:eng&spa +/. 268015_270129
 %eng:	vvv
 *FLA:	+< mmhum@s:eng&spa . 269022_269660
 %eng:	vvv
@@ -434,22 +435,22 @@
 %eng:	vvv
 *FLA:	uhhum@s:eng&spa . 400507_401528
 %eng:	vvv
-*FLA:	[- spa] sí . 401586_402039
+*FLA:	[- spa] sí . 401576_402039
 %eng:	vvv
-*MAR:	you know Sunset@s:eng&spa er@s:eng&spa pst@s:eng&spa where [/] where the er@s:eng&spa Walmart@s:eng&spa is ? 401579_404737
+*MAR:	+< you know Sunset@s:eng&spa er@s:eng&spa pst@s:eng&spa where [/] where the er@s:eng&spa Walmart@s:eng&spa is ? 401579_404737
 %eng:	vvv
 *FLA:	+< yeah . 402173_403177
 *FLA:	Walmart@s:eng&spa ? 405119_405548
 %eng:	vvv
 *FLA:	[- spa] sí . 405595_406036
 %eng:	vvv
-*MAR:	ok si@s:spa vas@s:spa para@s:spa (.) por@s:spa esa@s:spa misma@s:spa calle@s:spa hasta@s:spa Miramar@s:eng&spa . 406045_410561
+*MAR:	ok si@s:spa vas@s:spa para@s:spa (.) por@s:spa esa@s:spa misma@s:spa calle@s:spa hasta@s:spa Miramar@s:eng&spa . 406535_410561
 %eng:	vvv
 *FLA:	mmhm@s:eng&spa . 410551_411247
 %eng:	vvv
 *MAR:	[- spa] ahí está Sunset@s:eng&spa Lakes@s:eng&spa . 411526_413058
 %eng:	vvv
-*FLA:	ok@s:eng&spa . 413076_413703
+*FLA:	ok@s:eng&spa . 413026_413703
 %eng:	vvv
 *MAR:	[- spa] la escuela donde yo estaba . 413028_414119
 %eng:	vvv
@@ -512,7 +513,7 @@
 %eng:	vvv
 *FLA:	[- spa] cómo se (ll)ama ? 466294_467059
 %eng:	vvv
-*MAR:	+< [- spa] se llama (.) Nutley@s:eng&spa [?] . 466224_468407
+*MAR:	+< [- spa] se llama (.) Nutley@s:eng&spa [?] . 466295_468407
 %eng:	vvv
 *MAR:	[- spa] y como en New@s:eng&spa Jersey@s:eng&spa las escuelas son [///] están +//. 469431_473936
 %eng:	vvv
@@ -627,12 +628,11 @@
 *FLA:	uhuh se@s:spa vuelve@s:spa como@s:spa tres@s:spa mil@s:spa o@s:spa (.) cuatro@s:spa mil@s:spa dólares@s:spa . 566117_568822
 %eng:	vvv
 *MAR:	+< I know . 566427_567274
-*FLA:	[- spa] fácil . 0_0
+*FLA:	[- spa] fácil . 569458_570253
 %eng:	vvv
-*MAR:	+< [- spa] más . 569375_570298
+*MAR:	+< [- spa] más . 569475_570298
 %eng:	vvv
 *FLA:	uhuh@s:eng&spa . 569722_571185
-%eng:	vvv
 *MAR:	[- spa] se hacen seis mil . 570582_571581
 %eng:	vvv
 *FLA:	[- spa] ay dios mío . 571724_572630
@@ -645,7 +645,7 @@
 %eng:	vvv
 *FLA:	[- spa] yo empiezo a comprar de cinco en cinco . 575486_577384
 %eng:	vvv
-*MAR:	+< yeah &=sigh . 575434_577379
+*MAR:	+< yeah &=sigh . 575494_577379
 *MAR:	y@s:spa [/] (.) y@s:spa lo@s:spa que@s:spa pasa@s:spa es@s:spa qu(e)@s:spa bueno@s:spa I want to go because my mum (...) had a stroke . 577355_584588
 %eng:	vvv
 *FLA:	&=sigh . 584570_585244
@@ -708,7 +708,7 @@
 %eng:	vvv
 *MAR:	[- spa] no pero si me pongo +/. 643501_645597
 %eng:	vvv
-*FLA:	+< you are skinny . 643449_644308
+*FLA:	+< you're skinny . 643549_644308
 *FLA:	+< [- spa] si vas a a verte rara . 644552_646432
 %eng:	vvv
 *MAR:	+< [- spa] y o ridícula sabes ? 645604_647067
@@ -802,7 +802,7 @@
 %eng:	vvv
 *MAR:	+< [- spa] pero +/. 725966_727139
 %eng:	vvv
-*FLA:	+" oh really &=laugh . 728165_729912
+*FLA:	+" oh really &=laugh . 728065_729912
 *MAR:	+< [- spa] no &=laugh . 728079_730012
 %eng:	vvv
 %com:	Flabia is quoting the answer she will give if it were true what Marcela is saying. They both laugh
@@ -833,7 +833,7 @@
 %eng:	vvv
 *FLA:	+< [- spa] nunca paran de crecer . 750843_752683
 %eng:	vvv
-*MAR:	I know . 752566_753338
+*MAR:	I know . 752266_753338
 *FLA:	+< [- spa] que esa parte sí me tiene preocupada . 752305_754505
 %eng:	vvv
 *FLA:	+< el@s:spa otro@s:spa día@s:spa I was thinking about that . 754553_755819
@@ -924,7 +924,7 @@
 *MAR:	+< [- spa] sí no yo creo que uno tiene que envejecer con dignidad . 843123_846356
 %eng:	vvv
 *MAR:	yeah <I agree> [/] (.) I agree . 846344_849584
-*MAR:	[- spa] sí porque +/. 849585_850770
+*MAR:	[- spa] sí porque +/. 849575_850770
 %eng:	vvv
 *MAR:	+< [- spa] porque es que te estás engañando a ti misma y al esposo &=laugh . 849580_853434
 %eng:	vvv
@@ -935,14 +935,14 @@
 %eng:	vvv
 *MAR:	+< no@s:eng&spa but +/. 858284_859190
 %eng:	vvv
-*MAR:	+, we don't care any_more . 859658_861713
-*MAR:	[- spa] no@s:eng&spa pero +/. 859041_860289
+*MAR:	[- spa] no@s:eng&spa pero +/. 859061_860289
+*MAR:	+< +, we don't care any_more . 859958_861713
 %eng:	vvv
 *MAR:	(.) no@s:eng&spa xxx after so many years . 860574_863116
 %eng:	vvv
 *MAR:	pero@s:spa (.) er@s:eng&spa (.) I don't know . 863058_866408
 %eng:	vvv
-*FLA:	+< [- spa] no sé [?] . 862985_864575
+*FLA:	+< [- spa] no sé [?] . 863085_864575
 %eng:	vvv
 *MAR:	I think that you have to be happy with yourself really (.) after all . 866402_869316
 *FLA:	sí@s:spa I learned that . 869665_871291
@@ -1019,7 +1019,7 @@
 *FLA:	+< [- spa] verdad ? 933276_934373
 %eng:	vvv
 *MAR:	yeah . 934348_935288
-*MAR:	+< y@s:spa <cuánto@s:spa le@s:spa costó@s:spa> [///] how much &=mumble +/? 0_0
+*MAR:	+< y@s:spa <cuánto@s:spa le@s:spa costó@s:spa> [///] how much &=mumble +/? 934349_936483
 %eng:	vvv
 *MAR:	+< [- spa] como tres mil dólares . 935892_937018
 %eng:	vvv
@@ -1217,7 +1217,7 @@
 %eng:	vvv
 *MAR:	+< [- spa] cuando puedo . 1094559_1096085
 %eng:	vvv
-*FLA:	[- spa] de razón estás tan bonita . 1096068_1097885
+*FLA:	[- spa] de razón estás tan bonita . 1096058_1097885
 %eng:	vvv
 *MAR:	+< [- spa] cuando puedo voy . 1096062_1097374
 %eng:	vvv
@@ -1426,7 +1426,7 @@
 *FLA:	oh god . 1258227_1259261
 *MAR:	+< [- spa] me quería morir &=laugh . 1258547_1259951
 %eng:	vvv
-*MAR:	+< &=sigh oh god . 1257852_1259181
+*MAR:	+< &=sigh oh god . 1259274_1260568
 *FLA:	you know (.) Carmen@s:eng&spa does that a lot . 1261186_1262848
 %eng:	vvv
 *MAR:	+< &=sight . 1261186_1262848
@@ -1455,7 +1455,7 @@
 %eng:	vvv
 *FLA:	[- spa] <y qué hi(ciste)> [///] y te quedaste ? 1291602_1293048
 %eng:	vvv
-*MAR:	+< [- spa] y yo le digo +//. 1291537_1292849
+*MAR:	+< [- spa] y yo le digo +//. 1291637_1292849
 %eng:	vvv
 *MAR:	[- spa] enton(ces) [/] entonces claro después le pregunté [///] digo +"/. 1292904_1294715
 %eng:	vvv
@@ -1494,9 +1494,9 @@
 %com:	presumably John says not with a head movement.
 *FLA:	he doesn't . 1325940_1327391
 *MAR:	no she didn't . 1327354_1328620
-*MAR:	Mick@s:eng&spa invited us no(t) [/] not Fiona@s:eng&spa [=! laugh] . 1328673_1332083
+*MAR:	Mick@s:eng&spa invited us no(t) [/] not Fiona@s:eng&spa [=! laugh] . 1328633_1332083
 %eng:	vvv
-*FLA:	Mick@s:eng&spa did . 1328640_1329476
+*FLA:	+< Mick@s:eng&spa did . 1328640_1329476
 %eng:	vvv
 *FLA:	Mick@s:eng&spa did not [/] not +/. 1332086_1334501
 %eng:	vvv
@@ -1555,8 +1555,8 @@
 *MAR:	well they had a better deal then that . 1375873_1378642
 *FLA:	[- spa] sí ? 1378544_1379240
 %eng:	vvv
-*MAR:	because when [/] <when I> [/] when I signed up it was (.) hundred and sixteen for the whole year . 1379599_1385517
 *FLA:	why ? 1379578_1380217
+*MAR:	because when [/] <when I> [/] when I signed up it was (.) hundred and sixteen for the whole year . 1379599_1385517
 *FLA:	+< I know . 1384419_1385615
 *FLA:	no@s:eng&spa [/] no@s:eng&spa it's three hundred and something . 1385628_1388072
 %eng:	vvv
@@ -1569,12 +1569,12 @@
 *FLA:	or I'm gonna talk to her . 1393188_1394808
 *MAR:	or just [/] just tell her yeah . 1393902_1394965
 *FLA:	yeah I'm gonna say +"/. 1395185_1395830
-*FLA:	+" hey give me +/. 1395824_1396428
-*FLA:	+, because I was there for so long . 1396265_1398048
 *MAR:	porque@s:spa oh@s:eng&spa sí@s:spa hey +/. 1395576_1396795
 %eng:	vvv
+*FLA:	+< +" hey give me +/. 1395824_1396428
+*FLA:	+, because I was there for so long . 1396265_1398048
 *FLA:	+, and then +//. 1398043_1399477
-*MAR:	yeah . 1397890_1398442
+*MAR:	yeah . 1398060_1398442
 *MAR:	and [/] and everybody else signed up for that deal . 1398512_1401652
 *FLA:	[- spa] exacto . 1401237_1402694
 %eng:	vvv
@@ -1608,7 +1608,7 @@
 %eng:	vvv
 *FLA:	++ [- spa] treinta dólares . 1438774_1439650
 %eng:	vvv
-*MAR:	+< [- spa] +, pena es +/. 1438705_1439669
+*MAR:	+< +, [- spa] pena es +/. 1438775_1439669
 %eng:	vvv
 *MAR:	+, y@s:spa ahí@s:spa después@s:spa te@s:spa pongo@s:spa otros@s:spa cien@s:spa en@s:spa [/] en@s:spa &=mumble [/] (.) en@s:spa small print (.) that &=mumble you aren't [///] que@s:spa tú@s:spa no@s:spa lo@s:spa +/. 1439781_1445355
 %eng:	vvv
@@ -1643,7 +1643,7 @@
 *MAR:	which isn't cool in some +//. 1476369_1478180
 *FLA:	uhhum@s:eng&spa . 1478072_1478902
 %eng:	vvv
-*MAR:	and I think the [/] the [/] the quality of the classes improve . 1478039_1481669
+*MAR:	and I think the [/] the [/] the quality of the classes improve . 1478079_1481669
 *FLA:	yes because before they were kinda like empty . 1481727_1484356
 *MAR:	+< [- spa] pero +/. 1482151_1482998
 %eng:	vvv
@@ -1674,7 +1674,7 @@
 %eng:	vvv
 *MAR:	+< [- spa] no podía terminar una . 1507723_1509162
 %eng:	vvv
-*MAR:	[- spa] no po(día) [=! self-interruption] de [//] del +/. 1509232_1511205
+*MAR:	[- spa] no po(día) [=! self-interruption] de [//] del +/. 1508932_1511205
 %eng:	vvv
 *FLA:	[- spa] &=sigh de qué era ? 1508985_1511063
 %eng:	vvv
@@ -1685,9 +1685,9 @@
 *MAR:	+< it's [/] it's aerobics@s:eng&spa y@s:spa (.) body-sculpting . 1511889_1515652
 %eng:	vvv
 *FLA:	I love sculpting . 1516097_1517589
-*FLA:	that's my favourite thing . 1517620_1519013
-*FLA:	[- spa] sí . 1517567_1518183
+*MAR:	[- spa] sí . 1517567_1518183
 %eng:	vvv
+*FLA:	that's my favourite thing . 1517620_1519013
 *MAR:	but it's like step . 1518720_1519707
 *FLA:	+< I hate aerobics . 1518795_1519707
 *MAR:	the [/] the first half is step aerobics +... 1519577_1522410
@@ -1705,9 +1705,9 @@
 *FLA:	what are they doing ? 1536529_1537731
 *MAR:	+< what I'm [=! self-interruption] [//] I [=! self-interruption] its +//. 1537073_1538640
 *FLA:	because they're gonna +//. 1538629_1539970
-*MAR:	they were going to [=! self-interruption] well . 1539915_1541743
-*FLA:	+< what (a)re they doing I don't know . 1539742_1540943
-*MAR:	+< last time I [/] I heard +... 1541880_1544283
+*FLA:	what (a)re they doing I don't know . 1539742_1540943
+*MAR:	+< they were going to [=! self-interruption] well . 1539915_1541743
+*MAR:	last time I [/] I heard +... 1541880_1544283
 *MAR:	+, <they were> [///] they sold all that property . 1544295_1546477
 *FLA:	yeah everything they +//. 1546544_1547827
 *MAR:	and they are going to build the Hilton@s:eng&spa . 1546869_1549261
@@ -1924,9 +1924,9 @@
 %eng:	vvv
 *FLA:	+< the other day <I have a friend> [//] tengo@s:spa una@s:spa amiga@s:spa que@s:spa tiene@s:spa treinta@s:spa y@s:spa siete@s:spa años@s:spa +... 1799236_1804680
 %eng:	vvv
-*FLA:	[- spa] tú sabes ahí que no es (.) jovencita pero tampoco es vieja [///] joven tú sabes . 1804990_1810162
-%eng:	vvv
 *MAR:	uhuh . 1804628_1806300
+%eng:	vvv
+*FLA:	[- spa] tú sabes ahí que no es (.) jovencita pero tampoco es vieja [///] joven tú sabes . 1804990_1810162
 %eng:	vvv
 *MAR:	+< [- spa] no . 1807996_1808722
 %eng:	vvv
@@ -2001,8 +2001,8 @@
 %eng:	vvv
 *FLA:	it look like they have a big belly +... 1894091_1895502
 *FLA:	+, and you go +"/. 1895502_1896349
-*FLA:	+" how &=laugh pregnant [?] you are . 1896556_1898286
-*MAR:	I'm gonna how &=moan than +/. 1896097_1898123
+*MAR:	I'm gonna how &=moan than +/. 1895575_1898123
+*FLA:	+" how &=laugh pregnant [?] you are . 1896457_1898286
 *FLA:	&=sigh . 1898245_1899301
 %eng:	vvv
 *MAR:	+< I've done that . 1898245_1899301
@@ -2097,13 +2097,13 @@
 %eng:	vvv
 *FLA:	[- spa] Carmencita@s:eng&spa sí tiene . 1962055_1962891
 %eng:	vvv
-*FLA:	[- spa] ay tengo las cositas que tú le regalaste de chiquita . 1962931_1965607
+*FLA:	[- spa] ay tengo las cositas que tú le regalaste de chiquita . 1962791_1965607
 %eng:	vvv
 *MAR:	[- spa] sí a ella +/. 1962798_1964255
 %eng:	vvv
-*FLA:	[- spa] tú te acuerdas ? 1965479_1966530
+*MAR:	to@s:eng&spa +//. 1965195_1965903
 %eng:	vvv
-*MAR:	+< to@s:eng&spa &=self-interruption +//. 1965195_1965903
+*FLA:	+< [- spa] tú te acuerdas ? 1965479_1966530
 %eng:	vvv
 *MAR:	+< [- spa] sí &=mumble . 1966507_1967372
 %eng:	vvv
@@ -2116,10 +2116,10 @@
 *FLA:	+" ay@s:spa mami@s:spa I can't believe it . 1970619_1972633
 %eng:	vvv
 *FLA:	and she wanted to put it on . 1972624_1973913
-*FLA:	I said +"/. 1973890_1974244
-*MAR:	+< [- spa] si no le cabe &=laugh . 1973597_1975136
+*MAR:	[- spa] si no le cabe &=laugh . 1973597_1975136
 %eng:	vvv
-*FLA:	+< +" Carmen@s:eng&spa &=laugh please . 1974219_1976767
+*FLA:	+< I said +"/. 1973890_1974244
+*FLA:	+" Carmen@s:eng&spa &=laugh please . 1974219_1976767
 %eng:	vvv
 *MAR:	you need to (.) now xxx [=! laugh] . 1976820_1978573
 *FLA:	+" I want to [=! laugh] . 1977546_1978678
@@ -2174,8 +2174,8 @@
 *FLA:	everything [/] everything [=! chuckle] [/] everything at the same time . 2029169_2032217
 *MAR:	+< [- spa] y cómo ? 2031160_2032490
 %eng:	vvv
-*MAR:	he looked (.) well +/. 2032345_2034353
-*MAR:	&=mumble you look fine until you die &=laugh . 2034341_2035967
+*MAR:	he looked (.) well +/. 2032327_2033494
+*MAR:	&=mumble you look fine until you die &=laugh . 2033500_2035967
 *MAR:	+< he er@s:eng&spa he had &=laugh +/. 2033605_2035956
 %eng:	vvv
 %com:	they both laugh.
@@ -2217,7 +2217,7 @@
 *MAR:	probably . 2076052_2076499
 *FLA:	and the other I was talking to (.) you know a lady . 2076522_2078682
 *FLA:	I don't even (.) remember who it was . 2078573_2080071
-*FLA:	and she told me +"/. 0_0
+*FLA:	and she told me +"/. 2080143_2081553
 *FLA:	+" oh my +//. 2082007_2083319
 *FLA:	oh@s:eng&spa or a guy I haven't [=! mumble] even remembered who it was . 2083284_2085270
 %eng:	vvv
@@ -2242,9 +2242,9 @@
 %eng:	vvv
 *FLA:	[- spa] riñones . 2108052_2109028
 %eng:	vvv
-*FLA:	it was not pancreas [?] . 2109028_2110665
 *MAR:	tsk@s:eng&spa oh@s:eng&spa . 2109015_2110025
 %eng:	vvv
+*FLA:	it was not pancreas [?] . 2109195_2110665
 *FLA:	it was kidneys &=chuckle . 2110815_2112463
 *MAR:	+< [- spa] porque el padre el +/. 2111428_2112780
 %eng:	vvv
@@ -2253,7 +2253,7 @@
 *MAR:	++ [- spa] de [/] de órgano &=laugh . 2113233_2115073
 %eng:	vvv
 *MAR:	well I was +/. 2115682_2116588
-*FLA:	+< kidneys [/] kidneys que@s:spa [/] que@s:spa no@s:spa es@s:spa tan@s:spa malo@s:spa . 2115630_2118155
+*FLA:	+< kidneys [/] kidneys que@s:spa [/] que@s:spa no@s:spa es@s:spa tan@s:spa malo@s:spa . 2115690_2118155
 %eng:	vvv
 *FLA:	+< [- spa] no el de páncreas sí te mata . 2118153_2119645
 %eng:	vvv
@@ -2269,7 +2269,7 @@
 *FLA:	+< [- spa] sí me lo has contado . 2128304_2130313
 %eng:	vvv
 *MAR:	+, and we went to the doctor +... 2130480_2131670
-*FLA:	+< yeah what happened ? 2130409_2131502
+*FLA:	+< yeah what happened ? 2130489_2131502
 *FLA:	nothing happened . 2131780_2132529
 *FLA:	everything was ok . 2132391_2133749
 *MAR:	+< it dissolved . 2132442_2133558
@@ -2347,22 +2347,21 @@
 %eng:	vvv
 *MAR:	+< so er@s:eng&spa um@s:eng&spa +/. 2203634_2204969
 %eng:	vvv
-*MAR:	no@s:eng&spa . 2204880_2205495
+*MAR:	no@s:eng&spa . 2204870_2205495
 %eng:	vvv
 *FLA:	[- spa] te vas a preocupar &=chuckle . 2204871_2206136
 %eng:	vvv
 *MAR:	bue(no)@s:spa no@s:spa [/] no@s:spa pero@s:spa well thing is ok here I am again visualising that the thing goes away [=! laugh] . 2205460_2211927
 %eng:	vvv
 *FLA:	+< you don't have to visualise anything [?] . 2210892_2212192
-*FLA:	you have to pray and believe (..) that's all . 2212354_2215361
-*MAR:	you know well yeah . 2211942_2213939
-*MAR:	+< no well yeah . 2213950_2215128
+*FLA:	you have to pray and believe (..) that's all . 2211954_2215361
+*MAR:	you know well yeah (.) no well yeah . 2211962_2215128
 *FLA:	I'm gonna start preaching here &=laugh . 2216087_2218078
 *MAR:	+< doing all those things ok . 2216992_2218844
 *MAR:	no praying all [//] to(do)@s:spa [//] all [/] all [=! mumble] (.) lo@s:spa que@s:spa se@s:spa puede@s:spa hacer@s:spa all . 2219529_2223616
 %eng:	vvv
 *MAR:	you know it was so [?] +//. 2223801_2226135
-*FLA:	uhuh . 2223790_2224515
+*FLA:	uhuh . 2223990_2224515
 %eng:	vvv
 *MAR:	that was in the back burner [?] . 2227000_2229137
 *MAR:	[- spa] el otro día fui al ginecólogo . 2229527_2232063

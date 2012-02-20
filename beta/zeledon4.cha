@@ -2,13 +2,13 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	 ETH Ethan Adult, HEN Henry Adult
-@Media:	zeledon4, audio
+@Participants:	ETH Ethan Adult, HEN Henry Adult
 @ID:	spa, eng|bangor3|ETH||male|||Adult||
 @ID:	spa, eng|bangor3|HEN||male|||Adult||
 @Situation:	ETH and HEN are neighbours and have a conversation at HEN's house.
 @Date:	09-MAR-2008
 @Transcriber:	M. Carmen Parafita Couto, Prifysgol Bangor University.  Translated by Vanesa Bonavota.
+@Media:	zeledon4, audio
 @Time Duration:	00:21:48
 @Comment:	Filename: zeledon4.cha; Soundfile: zeledon4.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
@@ -103,7 +103,7 @@
 *HEN:	ah@s:eng&spa ? 124788_125154
 *ETH:	nada@s:spa it has nothing to do with my nails . 125125_127488
 %eng:	nothing, it has to do nothing with my nails.
-*HEN:	oh@s:eng&spa parece@s:spa que@s:spa te@s:spa preocupa@s:spa mucho@s:spa lo@s:spa de@s:spa las@s:spa uñas@s:spa . 0_0
+*HEN:	[- spa] oh@s:eng&spa parece que te preocupa mucho lo de las uñas . 127405_130301
 %eng:	it seems you worry a lot about the nails.
 *ETH:	[- spa] no yo sí no . 130379_131702
 %eng:	no, I, yes, no.

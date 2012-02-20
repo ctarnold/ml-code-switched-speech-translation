@@ -2,14 +2,14 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	 EMI Emily Adult, GIA  Gianna Adult
-@Media:	sastre4, audio
+@Participants:	EMI Emily Adult, GIA  Gianna Adult
 @ID:	spa, eng|bangor3|EMI||female|||Adult||
 @ID:	spa, eng|bangor3|GIA||female|||Adult||
 @Situation:	Two friends chatting
 @Date:	09-MAR-2008
 @Transcriber:	Fraibet Aveledo, Prifysgol Bangor  University
 @Time Duration:	00:31:26
+@Media:	sastre4, audio
 @Comment:	Filename: sastre4.CHA; Soundfile: satre4.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *EMI:	so listen (.) so if you give +//. 273_1707
@@ -120,7 +120,7 @@
 *GIA:	right . 148738_149690
 *EMI:	a &də &də &də &də &=laugh . 149626_151786
 *EMI:	&=gasp . 151768_152337
-*GIA:	it's gonna be fun . 151709_152893
+*GIA:	it's gonna be fun . 151965_152893
 *EMI:	+< we're gonna have a really really good time . 152493_154066
 *EMI:	a really really good time . 154060_155082
 *GIA:	+< and I've never done it before . 155058_156388
@@ -403,7 +403,7 @@
 *GIA:	every since I started talking to this guy I've seen him everyday bro . 488656_492505
 *EMI:	+< xxx . 488742_489729
 *GIA:	he hasn't given me like room . 492409_494377
-*EMI:	Victor@s:en&es? 494476_495010
+*EMI:	Victor@s:eng&spa ? 494476_495010
 *GIA:	yes . 495022_495782
 *EMI:	&=laugh . 495840_497048
 *GIA:	no@s:spa me@s:spa ha@s:spa da(d)o@s:spa not one minute . 497047_499700
@@ -484,12 +484,12 @@
 *EMI:	they're like every where &pa &pa &pa &pa . 598837_601026
 *GIA:	&=laugh . 600573_601182
 *EMI:	you've seem them ? 601153_602192
-*GIA:	xxx . 601065_602603
+*GIA:	+< xxx [=! laugh] . 601165_602603
 *EMI:	I know [=! laugh] . 602435_603096
 *EMI:	[- spa] están +//. 603067_603677
 %eng:	they're
 *EMI:	I can't me@s:spa tienen@s:spa mal@s:spa . 603706_605575
-%eng:	i can't, it makes me ill
+%eng:	I can't, it makes me ill
 *GIA:	&=laugh . 605575_606852
 *EMI:	oh my god . 605575_606852
 *EMI:	&a I'm coming home my children don't cry [=! cries] . 606921_610045
@@ -548,8 +548,7 @@
 *EMI:	it's not even yours Gianna@s:eng&spa . 684834_686773
 *GIA:	it does not matter . 686690_688321
 *EMI:	+< &=laugh . 688165_689511
-*GIA:	it mine as well be mine [?] . 688554_690638
-*EMI:	+< &=laugh . 0_0
+*GIA:	it might as well be mine . 688454_690638
 *EMI:	I know . 690549_691223
 *EMI:	but it's not . 691199_692848
 *EMI:	[- spa] qué va a decir tu hermana . 692836_693765
@@ -1069,7 +1068,7 @@
 *EMI:	+< you know what it is ? 1358242_1358944
 *EMI:	que@s:spa los@s:spa tengo@s:spa en@s:spa el@s:spa phone . 1358986_1360176
 %eng:	that I have them on the phone
-*EMI:	y@s:spa los@s:spa tengo@s:spa en@s:spa el@s:spa SIM_card . 1360170_1361772
+*EMI:	y@s:spa los@s:spa tengo@s:spa en@s:spa el@s:spa S_I_M_card . 1360170_1361772
 %eng:	and I have them on the SIM card
 *GIA:	yeah but see that's a good thing because now whatever you have +... 1361579_1365724
 *EMI:	+< [- spa] es +//. 1362920_1363570
@@ -1236,10 +1235,10 @@
 *EMI:	that's a lot of Miriam@s:eng&spa . 1646564_1647644
 *EMI:	I don't know how xxx . 1647620_1649141
 *GIA:	&=laugh . 1648947_1655327
-%com:	long pause.
-*EMI:	&=caugh . 0_0
+@Comment:	long pause.
 *GIA:	&=yawn I'm tired . 1656266_1658123
-%com:	long pause.
+*EMI:	+< &=caugh . 1657287_1658164
+@Comment:	long pause.
 *GIA:	I hope I meet someone cute today . 1661513_1664480
 *EMI:	oh you know Kathy@s:eng&spa called me today ? 1664456_1667272
 *GIA:	yeah what's she saying ? 1667275_1668395

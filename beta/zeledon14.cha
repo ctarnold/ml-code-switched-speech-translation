@@ -2,7 +2,7 @@
 @UTF8
 @Begin
 @Languages:	spa, eng
-@Participants:	 HER Herminia Adult, LAR Laurie Adult
+@Participants:	HER Herminia Adult, LAR Laurie Adult
 @ID:	spa, eng|bangor3|HER||female|||Adult|
 @ID:	spa, eng|bangor3|LAR||female|||Adult||
 @Situation:	Two friends chatting
@@ -13,6 +13,7 @@
 @Media:	Zeledon14, audio
 @Comment:	Filename: zeledon14.CHA; Soundfile: zeledon14.wav
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
+@Warning:	untranslated bits marked with "vvv"
 *HER:	y me dijo +"/. 6_1353
 %eng:	vvv
 *HER:	+< bartender@s:eng&spa . 1341_2316
@@ -567,7 +568,7 @@
 *LAR:	y la mamá y que +"/. 470507_471245
 %eng:	vvv
 *LAR:	[- eng] you're never gonna learn . 471210_472365
-*LAR:	y entonces yo y que +"/. 0_0
+*LAR:	y entonces yo y que +"/. 472376_473682
 %eng:	vvv
 *LAR:	+" Cecilia es porque ella no sabe . 472554_475126
 %eng:	vvv
@@ -829,9 +830,9 @@
 %eng:	vvv
 *HER:	+" y después sabes nos regresamos . 672366_673596
 %eng:	vvv
-*HER:	+" pero obviamente no te vamos a botar y ya . 673593_675062
+*HER:	+" pero obviamente no te vamos a botar y ya . 673593_675201
 %eng:	vvv
-*HER:	y yo +"/. 0_0
+*HER:	y yo +"/. 675195_675648
 %eng:	vvv
 *HER:	+" gracias &=laugh . 675549_676536
 %eng:	vvv
@@ -943,9 +944,9 @@
 %eng:	vvv
 *HER:	y entonces el tipo está así . 792845_794865
 %eng:	vvv
-*HER:	nos hace la cuestión . 794865_796287
+*HER:	nos hace la cuestión . 794865_796267
 %eng:	vvv
-*HER:	entonces nos nos dijo +"/. 0_0
+*HER:	entonces nos [/] nos dijo +"/. 796187_798486
 %eng:	vvv
 *HER:	+" bueno okay@s:eng&spa B_five@s:eng whatever@s:eng . 798509_800581
 %eng:	vvv
@@ -1052,7 +1053,7 @@
 %eng:	vvv
 *HER:	y María@s:eng&spa me dice +"/. 873716_875695
 %eng:	vvv
-*HER:	+" [- eng] you see@s@en . 875701_876461
+*HER:	+" [- eng] you see . 875701_876461
 *HER:	[- eng] everything happens for a reason . 876438_878418
 *HER:	[- eng] &e: we couldn't print out the boarding pass . 878350_881724
 *HER:	justamente porque seguro era porque tú lo tenías que conocer a él . 881701_884441
@@ -1245,7 +1246,7 @@
 %eng:	vvv
 *HER:	estamos caminando . 1048229_1049512
 %eng:	vvv
-*HER:	y María@s:eng&spa llama a la mamá de la amiga y le dice +"/. 0_0
+*HER:	y María@s:eng&spa llama a la mamá de la amiga y le dice +"/. 1049512_1051491
 %eng:	vvv
 *HER:	+" mira estamos en la ciento setenta y ocho . 1051453_1052997
 %eng:	vvv
@@ -1536,7 +1537,7 @@
 %eng:	vvv
 *HER:	entonces no hicimos el tour@s:eng ese . 1318044_1320773
 %eng:	vvv
-*HER:	pero hicimos +//. 0_0
+*HER:	pero hicimos +//. 1320763_1321298
 %eng:	vvv
 *HER:	sabes el information@s:eng session@s:eng +//. 1321266_1322183
 %eng:	vvv
@@ -1604,7 +1605,7 @@
 %eng:	vvv
 *HER:	pero ella fue +//. 1394487_1395143
 %eng:	vvv
-*LAR:	+< entonces +/. 0_0
+*LAR:	+< entonces +/. 1394590_1395373
 %eng:	vvv
 *HER:	ella aplicó como transfer@s:eng . 1395138_1396629
 %eng:	vvv
@@ -1627,7 +1628,7 @@
 *LAR:	[- eng] I don't know . 1416066_1416908
 *HER:	no [/] no sé si se puede pero tienes que averiguarlo . 1416895_1419675
 %eng:	vvv
-*HER:	pero eso sería para [/] para cuándo ? 0_0
+*HER:	pero eso sería para [/] para cuándo ? 1419659_1422063
 %eng:	vvv
 *LAR:	sí tengo que +//. 1420285_1421707
 %eng:	vvv
@@ -2087,7 +2088,7 @@
 *HER:	+" [- eng] I'm not gonna be single any_more . 1860018_1861347
 *HER:	y yo +"/. 1861312_1861748
 %eng:	vvv
-*HER:	+" [- eng]ok you're not single any xxx ? 1861736_1863083
+*HER:	+" [- eng] ok you're not single any xxx ? 1861736_1863083
 *HER:	y entonces me dice +"/. 1863074_1863927
 %eng:	vvv
 *HER:	[- eng] but the good news is that I'm getting married . 1863927_1866324
@@ -2144,7 +2145,7 @@
 %eng:	vvv
 *HER:	+" no [///] o sea no [/] no voy a poder sin él tanto tiempo . 1909743_1912634
 %eng:	vvv
-*HER:	me dice +"/. 0_0
+*HER:	me dice +"/. 1912875_1913189
 %eng:	vvv
 *HER:	+" sabes tengo tres meses viviendo con él . 1913170_1914244
 %eng:	vvv
@@ -2175,7 +2176,7 @@
 %eng:	vvv
 *LAR:	+< ah mi primo me dijo de ese +"/. 1945527_1947478
 %eng:	vvv
-*HER:	[- eng]it was a long time ago . 1948645_1950438
+*HER:	[- eng] it was a long time ago . 1948645_1950438
 *LAR:	+< qué es todo un [/] un [/] un negrito todo pimp@s:eng . 1948646_1951961
 %eng:	vvv
 *LAR:	me dijo +"/. 1951954_1953893

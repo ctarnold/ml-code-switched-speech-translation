@@ -11,9 +11,10 @@
 @Date:	14-MAR-2008
 @Transcriber:	Diana Carter, Prifysgol Bangor University
 @Time Duration:	00:43:02
-@Media:	 sastre3, audio
+@Media:	sastre3, audio
 @Comment:	Filename: sastre3.CHA; Soundfile: sastre3.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Warning:	missing Spanish translations marked "vvv"
 *OLI:	the purpose that [//] ah@s:eng&spa for this meeting today (.) &w is for um@s:eng&spa (.) to make ourselves independent from (.) the county as far as the testing ah@s:eng&spa +... 1_15303
 *LAN:	+< [- spa] qué están haciendo hoy ? 6_1463
 %eng:	what are they doing today?
@@ -75,7 +76,7 @@
 *LAN:	[- spa] ahorrar . 123133_124241
 %eng:	saving
 *LAN:	uhuh@s:eng&spa . 124236_125553
-*OLI:	+< &=clears_throat . 0_0
+*OLI:	+< &=clears_throat . 124316_124920
 *LAN:	[- spa] ahora tienen que rentar uno . 125555_127418
 %eng:	at the moment they have to rent one
 *MAS:	no no . 125555_127418
@@ -442,7 +443,7 @@
 *MAS:	[- spa] yo llevo aquí va pa(ra) diez años . 692296_694182
 %eng:	I've been here for ten years
 *MAS:	y@s:spa en@s:spa los@s:spa diez@s:spa años@s:spa (.) a@s:spa él@s:spa que@s:spa le@s:spa prometieron@s:spa que@s:spa iban@s:spa a@s:spa sacar@s:spa a@s:spa la@s:spa gente@s:spa the personal technician todo@s:spa technician iban@s:spa xxx payroll a@s:spa trabajar@s:spa aprenderse@s:spa el@s:spa trabajo@s:spa . 694435_703315
-%eng:
+%eng:	vvv
 *MAS:	[- spa] lo hicieron . 703141_704081
 %eng:	they did it
 *LAN:	<hacen@s:spa crosstrai(ning)> [/] hacen@s:spa crosstraining . 703752_705871
@@ -1174,7 +1175,7 @@
 *LAN:	+< [- spa] xxx la gente . 1887247_1888855
 %eng:	xxx the people
 *MAS:	[- spa] dale un piñazo a la gente &=laughs . 1888838_1891694
-%eng:
+%eng:	vvv
 *LAN:	[- spa] imagínate . 1891125_1892652
 %eng:	imagine it
 *MAS:	<he's not an> [/] he's not an office person . 1892626_1894872
@@ -1339,7 +1340,7 @@
 %eng:	listen but he likes his car
 %com:	background speaker interrupts
 *OLI:	[- spa] al carro ese le suena todo . 2087271_2089959
-%eng:
+%eng:	vvv
 %com:	background speaker
 *MAS:	no@s:eng&spa . 2094179_2095764
 *OLI:	[- spa] no chico como no . 2094179_2095764

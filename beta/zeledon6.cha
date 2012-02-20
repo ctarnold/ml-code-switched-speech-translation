@@ -2,13 +2,13 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	 ABI Abigail Adult, ELL Ella Adult
-@Media:	zeledon6, audio
+@Participants:	ABI Abigail Adult, ELL Ella Adult
 @ID:	spa, eng|bangor3|ABI||female|||Adult||
 @ID:	spa, eng|bangor3|ELL||female|||Adult||
 @Situation:	two friends chatting
 @Date:	11-MAR-2008
 @Coder:	M. Carmen Parafita Couto, Fraibet Aveledo, Prifysgol Bangor University
+@Media:	zeledon6, audio
 @Time Duration:	00:30:25
 @Comment:	Filename: zeledon6.cha; Soundfile: zeledon6.wav
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
@@ -504,8 +504,7 @@
 *ELL:	everybody has been at it with Maria@s:eng&spa because she just doesn't know how to handle situations . 652908_656556
 *ABI:	including me <when that time> [/] when that time that she +... 656571_659355
 *ELL:	oh@s:eng&spa yeah Maria@s:eng&spa and I had never been at it because from the beginning I knew that with that lady you have to have a little bit more than paciencia@s:spa than everybody else . 659386_667484
-%eng:	oh yeah, Maria and I had never been at it because
-from the beginning I knew that with that lady you have to have a little bit more patience than everybody else.
+%eng:	oh yeah, Maria and I had never been at it because from the beginning I knew that with that lady you have to have a little bit more patience than everybody else.
 *ABI:	+< she's rude . 660802_661794
 *ABI:	she's rude . 667476_669595
 *ABI:	I think she's very rude . 669594_671307
@@ -581,8 +580,8 @@ from the beginning I knew that with that lady you have to have a little bit more
 *ELL:	I know like we're getting bitten . 768088_769893
 %com:	another person speaks in background
 *ABI:	no but um but <I thought> [/] I thought you weren't in here . 769882_772937
-*ABI:	that's why we were like +... 0_0
-*ABI:	let's just go back . 773506_774672
+*ABI:	that's why we were like +"/. 772878_773576
+*ABI:	+" let's just go back . 773506_774672
 %com:	someone else speaks.
 *ABI:	+< oh . 774661_777639
 *ELL:	oh ok . 777662_779096
@@ -660,7 +659,7 @@ from the beginning I knew that with that lady you have to have a little bit more
 *ABI:	you told her that ? 859623_860209
 *ELL:	yeah . 860271_860764
 *ABI:	what did she say to you ? 860735_862109
-*ELL:	no that she was just like +/. 0_0
+*ELL:	no that she was just like +/. 861902_863231
 *ELL:	[- spa] bueno que cuando termine +... 863498_864764
 %eng:	well, that when it finishes...
 *ABI:	mira@s:spa you brought a mosquito with you . 864781_866209
@@ -870,7 +869,7 @@ from the beginning I knew that with that lady you have to have a little bit more
 *ABI:	he loved it . 1105927_1106565
 *ABI:	he loved it . 1106544_1107844
 *ABI:	and he would ask me for it later on . 1107856_1109260
-*ELL:	<and the> [/] and the +... 0_0
+*ELL:	<and the> [/] and the +... 1109262_1110214
 *ABI:	+< xxx do you wanna make it . 1109293_1110129
 *ABI:	xxx (be)cause the thing is I make it sweet . 1110170_1112097
 *ABI:	did you ever try my maizena@s:spa ? 1112132_1113386
@@ -1301,7 +1300,7 @@ from the beginning I knew that with that lady you have to have a little bit more
 *ABI:	+< but it gives you more xxx environment . 1717924_1719764
 *ELL:	+< &mia Miami_Dade@s:eng&spa has like arts stuff too . 1718992_1722655
 *ELL:	pero@s:spa what I like is on the side of the building (.) has a really big four or three or two . 1722728_1729949
-%eng:	 but what I like is on the side of the building has a really big four or three or two.
+%eng:	but what I like is on the side of the building has a really big four or three or two.
 *ABI:	oh it's one of those . 1728637_1730024
 *ELL:	it's one of those where where ever you need to go +/. 1730002_1732736
 *ABI:	+< yeah it's building four . 1730844_1732893
@@ -1349,9 +1348,9 @@ from the beginning I knew that with that lady you have to have a little bit more
 *ABI:	no . 1805854_1806475
 *ABI:	and then the buildings here there're just +//. 1806358_1808285
 *ABI:	they's not by numbers . 1808234_1809070
-*ABI:	but they're by means [?] . 1809093_1811694
-*ABI:	like this [/] this building here is the Chemistry@s:eng&spa and physic . 0_0
-*ELL:	+< ah no . 1812013_1812918
+*ABI:	but they're by names . 1809093_1811694
+*ABI:	they're [//] like this [/] this building here is the <chemistry and physics> ["] . 1811671_1814376
+*ELL:	+< ah I know . 1812013_1812918
 *ABI:	but <when you> [//] when you've +/. 1814700_1817046
 *ELL:	this is a Chemistry@s:eng&spa and physics building with an [/] an English class inside of it ? 1816091_1819864
 *ABI:	yeah . 1819771_1820363

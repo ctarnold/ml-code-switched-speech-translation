@@ -13,6 +13,7 @@
 @Media:	zeledon1, audio
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Proofread by Jorge Valdes Kroff, Penn State, 10/07/09
+@Warning:	untranslated bits marked "vvv"
 *AME:	y después volviste para acá . 0_1125
 %eng:	and after that you came back here.
 *CAR:	+< y después me volví porque no me gust(ó) . 944_2512
@@ -36,7 +37,7 @@
 *AME:	y yo creo que le pasa a la gente +... 16268_18048
 %eng:	and I think that happens to people
 *CAR:	+< depender cien por ciento de mi papá o sea porque +/. 16299_19591
-%eng:	it's one hundred percent because of my dad - you know what I mean?
+%eng:	it's one hundred percent because of my dad, you know what I mean?
 *AME:	+< oh@s:eng&spa claro . 18862_19750
 %eng:	oh, of course
 *CAR:	+, quiero tal cosa papi . 19825_21437
@@ -63,13 +64,13 @@
 *AME:	claro . 34843_35319
 %eng:	of course
 *CAR:	y la salida la(s) rumbias yo soy mucho de salir a comer a un restaurante rico . 35592_39712
-%eng:	and going out to rumbia - I'm really into going out to eat at a good restaurant
+%eng:	and going out to rumbia, I'm really into going out to eat at a good restaurant
 %com:	"rumbia" is not in the RAE Spanish dictionary but it is a recently coined blend to describe a dance that is a mixture of "la rumba" and "la cumbia" .
 *AME:	claro . 39660_40168
 %eng:	yeah
 *CAR:	de conocer lugar(es) entonces +... 40068_42346
-%eng:	To get to know places, you know...
-*AME:	eso es claro [?] porque +/. 0_0
+%eng:	to get to know places, you know...
+*AME:	eso es claro [?] porque +/. 42424_43510
 %eng:	of course because
 *CAR:	+< &e &kam [//] eso fue un cambio para mí que no +/. 42465_45425
 %eng:	that was a change for me because I didn't
@@ -125,7 +126,7 @@
 %eng:	it wasn't light.
 *CAR:	era todo el día . 82883_83888
 %eng:	it was all day
-*CAR:	y entonces en diciembre mis papás vinieron (.) con toda mi familia +/. 0_0
+*CAR:	y entonces en diciembre mis papás vinieron (.) con toda mi familia +/. 83888_88259
 %eng:	and then in December my parents came with the whole family
 *AME:	+< sí . 88209_88547
 %eng:	yeah?
@@ -148,7 +149,7 @@
 *CAR:	y [/] <y no> [///] el [///] nos fuimos a esquiar . 99573_101881
 %eng:	and we went to ski
 *CAR:	super rico estar una semana [//] quince días estuvimos esquiando . 101923_105055
-%eng:	amazing to be there a week - we were skiing for fifteen days
+%eng:	amazing to be there a week, we were skiing for fifteen days
 *AME:	+< [- eng] wow . 103992_104939
 *CAR:	uh@s:eng&spa (.) yo pues lógicamente pedí yo vacaciones lo que sea . 105211_108352
 %eng:	uh so I obviously requested a holiday or whatever
@@ -241,7 +242,7 @@
 %eng:	my dad came from Columbia, he had
 *CAR:	que (.) by@s:eng the@s:eng way@s:eng se vino (.) ilegal . 167308_169551
 %eng:	come illegally, by the way
-*CAR:	y mamá también cuando se vinieron ellos se vinieron . 0_0
+*CAR:	y mamá también cuando se vinieron ellos se vinieron . 169534_171438
 %eng:	my mum came as well when they came.
 *CAR:	fue por [/] por eso es que yo nací en Los Angeles . 169702_172919
 %eng:	and so I was born in Los Angeles
@@ -298,7 +299,7 @@
 %eng:	vvv
 *AME:	+< y cómo [/] cómo hacen <cuando llegan allí y lo> [//] o sea cuando pasen la frontera <que pas(a)> [//] que [/] que lo +... 210560_215002
 %eng:	and what did they do when they got there? I mean when they crossed the border?
-*CAR:	+< lo que pasa es +/. 0_0
+*CAR:	lo que pasa es +/. 214822_216436
 %eng:	what happened is that
 *AME:	+< o sea ya estando en Los Ángeles . 215047_216411
 %eng:	so they were already in Los Angeles
@@ -783,7 +784,7 @@
 *AME:	+< que &te [//] trabaja o que va xxx . 747851_751085
 %eng:	that work or that go
 *CAR:	bueno gente que va los [/] los clientes . 749693_752043
-%eng:	it's really the people that go - the clients
+%eng:	it's really the people that go, the clients
 *CAR:	hay gente es que te hacen la vida imposible . 752413_754845
 %eng:	there are people that just make life impossible
 *AME:	&=gasp . 754468_755172
@@ -864,7 +865,7 @@
 *AME:	+< oh@s:eng&spa . 860740_861477
 %eng:	oh
 *CAR:	[- eng] and that's a loss for us +/. 862194_863577
-*AME:	+< [- eng] right . 0_0
+*AME:	[- eng] right . 863569_864248
 *CAR:	+, [- eng] in money (..) daily . 863774_865353
 *CAR:	so@s:eng what@s:eng we@s:eng did@s:eng was@s:eng we@s:eng you@s:eng know@s:eng we@s:eng weren't@s:eng xxx [/] we@s:eng weren't@s:eng um@s:eng&spa gonna@s:eng give@s:eng out@s:eng courtesy@s:eng cups@s:eng any@s:eng more@s:eng . 865356_871610
 %eng:	so what we did was we decided not to give out any more courtesy cups you know
@@ -904,7 +905,7 @@
 *CAR:	+" [- eng] it might be ridiculous to you but you know xxx what the word courtesy means ? 930082_934199
 *CAR:	+" [- eng] that's up to us if we wanna give it for free or not . 934417_937921
 *AME:	+< exactly@s:eng it's@s:eng uh@s:eng&spa optional@s:eng . 936906_938510
-%eng:	exactly - it's optional
+%eng:	exactly, it's optional
 *CAR:	[- eng] it's optional . 938543_939173
 *AME:	[- eng] right . 938996_939773
 *CAR:	+< [- eng] it's not like (.) Subway is obligating us to give out courtesy +... 939299_943048
@@ -1080,7 +1081,7 @@
 %eng:	I'm just saying I work with a doctor/ with an excellent doctor
 *CAR:	no sé si has escuchado de él en el momento . 1107678_1109650
 %eng:	I'm not sure you've heard of him until now
-*CAR:	él salía [///] el le dicen el [/] el doctor de las celebridades (.) especialmente lo &tie . 0_0
+*CAR:	él salía [///] el le dicen el [/] el doctor de las celebridades (.) especialmente lo &tie . 1109751_1113779
 %eng:	he left they said to him a celebrity doctor especially the
 *AME:	+< cómo se llama él ? 1112911_1113623
 %eng:	what's his name
@@ -1394,7 +1395,7 @@
 %eng:	but to know to understand what someone is going through
 *AME:	entonces yo digo la veo de mal humor y uno tratando de +... 1418465_1421256
 %eng:	then I see someone in a bad mood and try to
-*AME:	hacerle tú sabes más bien hacerle una gracia hacerle algún comentario <pa(ra) que el se> [//] pa(ra) que el día no le sale tan horroroso no porque +... 0_0
+*AME:	hacerle tú sabes más bien hacerle una gracia hacerle algún comentario <pa(ra) que el se> [//] pa(ra) que el día no le sale tan horroroso no porque +... 1421241_1427298
 %eng:	make them you know better do something nice say something so that their day isn't going so badly
 *CAR:	+< claro . 1427403_1428026
 %eng:	of course
@@ -1458,8 +1459,7 @@
 %eng:	but sometimes you don't come across as diplomatic
 *CAR:	+< no pero a xxx la [/] la [/] la diplomacia se me &=whistle &=click ! 1471669_1474362
 %eng:	no but the xxx diplomacy makes me
-*AME:	+< &=laugh . 0_0
-%eng:	vvv
+*AME:	+< &=laugh . 1472053_1472889
 *CAR:	te lo juro a mí a veces me dan unas ganas de coger y +... 1474420_1477571
 %eng:	I swear to you that sometimes they make me want to grab them and...
 *AME:	&=gasp . 1477129_1477800
@@ -1517,8 +1517,8 @@
 *AME:	+< sí es joven claro sí sí . 1516230_1518579
 %eng:	yes he's young obviously
 *CAR:	y tú lo ves y se ve super bien (.) realmente . 1517843_1520323
-%eng:and you see him and he looks really good really
-*CAR:	y # pero de todas maneras (.) tú sa(bes) a cualquiera [/] a cualquiera le saca de quicio . 1520746_1526198
+%eng:	and you see him and he looks really good really
+*CAR:	y (.) pero de todas maneras (.) tú sa(bes) a cualquiera [/] a cualquiera le saca de quicio . 1520746_1526198
 %eng:	and but he's always you know he makes anyone nervous
 *AME:	+< &=gasp (.) claro . 1523390_1526320
 %eng:	yes
@@ -1577,7 +1577,6 @@
 *CAR:	y [/] y inclusive Alma@s:eng&spa que es la higienista fue la que contestó (.) el teléfono . 1565489_1569574
 %eng:	and including Alma who is the hygenist who was the one to answer the phone
 *AME:	&=gasp . 1569525_1569885
-%eng:
 *CAR:	y fue la que realmente le [/] le confirmó la cita a ella . 1569844_1572733
 %eng:	and it was really her who confirmed the appointment
 *AME:	+< claro . 1572300_1573151
@@ -1632,7 +1631,6 @@
 *CAR:	+" me acaba de confirmar . 1604969_1606033
 %eng:	he just confirmed with me.
 *AME:	+< &=gasp . 1605383_1605798
-%eng:
 *CAR:	+" me dice que llega en cinco minutos . 1605973_1607579
 %eng:	he told me he's coming in five minutes
 *CAR:	+" si quieres eh . 1607714_1608818
@@ -1664,7 +1662,7 @@
 *AME:	+< García@s:eng&spa xxx ? 1623204_1624702
 %eng:	García xxx?
 *CAR:	es diseñador . 1624039_1625234
-%eng:he's a designer
+%eng:	he's a designer
 *CAR:	y hace un programa en la radio en (.) +... 1625234_1627543
 %eng:	and does a program on radio..
 *CAR:	creo que es En_Romance o En_Amor +... 1627486_1628929
@@ -1830,7 +1828,7 @@
 %eng:	no I was afraid and was already starting to look for one of the fire extinguishers to hit him across the head
 *AME:	+< &=laugh . 1751952_1753041
 *CAR:	porque tocaba Alma . 1753174_1754959
-%eng:because he touched Alma
+%eng:	because he touched Alma
 *CAR:	y olvídate que sea como sea su nombre y +... 1754934_1757267
 %eng:	and you forget that with his name...
 *AME:	+< claro . 1757202_1758119
