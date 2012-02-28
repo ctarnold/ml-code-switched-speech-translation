@@ -1,425 +1,1102 @@
 @UTF8
-@Font:  Win95:Lucida Sans Unicode:-16:0
-@UTF8
 @Begin
-@Languages:	eng, spa
-@Participants:	AVA Adult, LUI Adult
+@Languages:	spa, eng
+@Participants:	AVA Ava Adult, LUI Luis Adult
+@ID:	eng, spa|Miami|LUI|55;|male|||Adult|
+@ID:	eng, spa|Miami|AVA|78;|female|||Adult||
+@Situation:	Informal conversation between Luis and his mother Ava, at Luis's place of work
+@Date:	07-MAR-2008
+@Coder:	M. Carmen Parafita Couto and Jonathan Stammers, Bangor University, and YYY
 @Media:	sastre2, audio
-@ID:	eng, spa|bangor3|LUI||male|||Adult|
-@ID:	eng, spa|bangor3|AVA||female|||Adult||
-@Situation:	at LUI's job .
-@Comment:	AVA and LUI are mother and son. AVA is an elderly woman and LUI has brought her to his job today to do this recording. She is concerned about his use of profanity during the recording. She professed to LIS after recording that she has a lot of love and pride for the Spanish language and uses it all the time, unless she absolutely has to use English. Therefore, code-switching comes almost exclusively from LUI. LUI has strong Puerto Rican accent when speaking in Spanish.
-@Date:	7-MAR-2008
-@Coder:	M. Carmen Parafita Couto, Bangor University
-@Time Duration:	00:45:59
-@Comment:	Filename: sastre.CHA; Soundfile: sastre2.wav
+@Time Duration:	00:41:00
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	UNFINISHED TRANSCRIPT
-*LUI:	(be)cause that's my nap time . 0_1144
-*LUI:	the middle of the afternoon's when I take my nap . 1155_2728
-*AVA:	+< www . 1329_2595
-*LUI:	so what ! 2734_3332
-*AVA:	www . 3634_4870
-*AVA:	www . 6075_8600
-*AVA:	www . 9511_13725
-*LUI:	oh the S_T_S course ? 14753_15525
-*AVA:	[- spa] sí . 15130_15444
-*LUI:	oh ! 15728_16106
-*AVA:	www . 16899_22367
-*LUI:	www . 22429_23004
-*AVA:	www . 23091_25483
-*LUI:	www . 25506_29390
-*AVA:	+< ah@s:eng&spa <right right> [?] . 26898_29272
-*AVA:	www . 29871_32924
-*AVA:	www . 34125_37410
-*AVA:	www . 39906_43922
-*LUI:	I'll take you ! 43904_44705
-*LUI:	I'll take you anywhere you wanna go . 44809_46046
-*LUI:	what the hell ! 46052_46684
-*AVA:	www . 46137_48941
-*LUI:	+< so what ! 47775_48309
-*LUI:	+< we'll go +//. 48297_48704
-*LUI:	one sunday morning I'll come sunday &m morning and we'll go there first . 48692_51566
-*LUI:	xxx sleep until one two o'clock in the afternoon . 51942_54043
-*AVA:	www . 54752_56145
-*AVA:	www . 56307_59994
-*AVA:	www . 61343_64948
-*AVA:	www . 65348_70423
-*LUI:	really [?] ? 70475_71102
-*AVA:	www . 70763_73358
-*AVA:	www . 74122_76049
-*LUI:	oh@s:eng&spa . 76246_76844
-*AVA:	www . 76859_78409
-*LUI:	oh@s:eng&spa . 79024_79605
-*AVA:	www +/. 79681_80836
-*LUI:	+< how do you do that ? 80087_80981
-*AVA:	www . 81051_84493
-*LUI:	www . 85221_87660
-*AVA:	www . 87537_90411
-*AVA:	www . 90722_94234
-*LUI:	www <or what> [?] ? 94565_96016
-*AVA:	www . 96538_98036
+@Warning:	Spanish transcription to be completed marked with zzz, zz. Sound bullets and utterance terminators are merely the best guess of a non-Spanish speaker, so some will have to be changed.
+*LUI:	[- eng] (be)cause that's my nap time . 0_1144
+*LUI:	[- eng] the middle of the afternoon's when I take my nap . 1155_2728
+*AVA:	+< zzz . 1329_2595
+*LUI:	[- eng] so what ! 2734_3332
+*AVA:	zzz . 3634_4870
+*AVA:	zzz . 6075_8600
+*AVA:	zzz . 9511_13725
+*LUI:	[- eng] oh the S_T_S course ? 14753_15525
+*AVA:	sí . 15130_15444
+*LUI:	[- eng] oh ! 15728_16106
+*AVA:	zzz . 16899_22367
+*LUI:	zzz . 22429_23004
+*AVA:	zzz . 23091_25483
+*LUI:	zzz . 25506_29390
+*AVA:	+< ah@s:eng&spa <right@s:eng right@s:eng> [?] . 26898_29272
+*AVA:	zzz . 29871_32924
+*AVA:	zzz . 34125_37410
+*AVA:	zzz . 39906_43922
+*LUI:	[- eng] I'll take you ! 43904_44705
+*LUI:	[- eng] I'll take you anywhere you wanna go . 44809_46046
+*LUI:	[- eng] what the hell ! 46052_46684
+*AVA:	zzz . 46137_48941
+*LUI:	+< [- eng] so what ! 47775_48309
+*LUI:	+< [- eng] we'll go +//. 48297_48704
+*LUI:	[- eng] one sunday morning I'll come sunday &m morning and we'll go there first . 48692_51566
+*LUI:	[- eng] xxx sleep until one two o'clock in the afternoon . 51942_54043
+*AVA:	zzz . 54752_56145
+*AVA:	zzz . 56307_59994
+*AVA:	zzz . 61343_64948
+*AVA:	zzz . 65348_70423
+*LUI:	[- eng] really [?] ? 70475_71102
+*AVA:	zzz . 70763_73358
+*AVA:	zzz . 74122_76049
+*LUI:	[- eng] oh . 76246_76844
+*AVA:	zzz . 76859_78409
+*LUI:	[- eng] oh . 79024_79605
+*AVA:	zzz +/. 79681_80836
+*LUI:	+< [- eng] how do you do that ? 80087_80981
+*AVA:	zzz . 81051_84493
+*LUI:	zzz . 85221_87660
+*AVA:	zzz . 87537_90411
+*AVA:	zzz . 90722_94234
+*LUI:	zzz <or@s:eng what@s:eng> [?] ? 94565_96016
+*AVA:	zzz . 96538_98036
 *LUI:	+< o_k@s:eng&spa . 97328_97850
-*LUI:	ah@s:eng&spa o_k@s:eng&spa I think I +/. 98402_99516
-*AVA:	+< www . 98645_100201
-*LUI:	no ? 100213_100648
-*AVA:	www . 100792_102115
-*LUI:	www +/. 102710_104301
-*AVA:	+< www . 103314_105334
-*LUI:	oh@s:eng&spa well that's true [?] . 105555_106826
-*AVA:	+< www . 105885_107086
-*AVA:	www . 107662_111360
-*AVA:	www . 113074_118714
-*AVA:	www . 119833_123212
-*AVA:	www . 123498_125257
-*LUI:	and Billy@s:eng&spa <gave that> [//] gave you that ? 125757_127284
-*AVA:	www Billy@s:eng&spa . 127269_129400
-*LUI:	wow@s:eng&spa www . 129347_133350
-*AVA:	www . 133393_136806
+*LUI:	ah@s:eng&spa o_k@s:eng&spa I@s:eng think@s:eng I@s:eng +/. 98402_99516
+*AVA:	+< zzz . 98645_100201
+*LUI:	[- eng] no ? 100213_100648
+*AVA:	zzz . 100792_102115
+*LUI:	zzz +/. 102710_104301
+*AVA:	+< zzz . 103314_105334
+*LUI:	oh@s:eng&spa well@s:eng that's@s:eng true@s:eng [?] . 105555_106826
+*AVA:	+< zzz . 105885_107086
+*AVA:	zzz . 107662_111360
+*AVA:	zzz . 113074_118714
+*AVA:	zzz . 119833_123212
+*AVA:	zzz . 123498_125257
+*LUI:	and@s:eng Billy@s:eng&spa <gave@s:eng that@s:eng> [//] gave@s:eng you@s:eng that@s:eng ? 125757_127284
+*AVA:	zzz Billy@s:eng&spa . 127269_129400
+*LUI:	wow@s:eng&spa zzz . 129347_133350
+*AVA:	zzz . 133393_136806
 *LUI:	wow@s:eng&spa ! 136747_137565
 *LUI:	xx +/. 138167_138422
-*AVA:	www . 138486_139769
-*LUI:	+< www two jars . 138817_141360
-*AVA:	www . 141690_144268
-*LUI:	www . 144198_145005
-*AVA:	www . 145467_147714
-*LUI:	+< really ? 147197_147841
-*LUI:	shit ! 147794_148374
-*AVA:	www . 148090_151195
-*AVA:	www . 152005_153108
-*LUI:	www <in the stump> [?] . 153904_158424
-*LUI:	www +/. 158852_160025
-*AVA:	www ? 159717_161697
-*LUI:	www . 161437_164874
-*LUI:	www . 165167_167662
-*LUI:	www . 167714_171335
-*AVA:	+< [- spa] sí . 169495_170331
-*AVA:	www . 171632_172677
-*AVA:	www . 172956_176961
-*LUI:	yeah@s:eng&spa . 177010_177410
-*AVA:	www . 177661_178851
-*LUI:	really ? 179014_179478
-*AVA:	www . 179667_180416
-*LUI:	really ? 180422_180985
-*LUI:	www ! 181014_181780
-*AVA:	www . 181905_184355
-*LUI:	yeah@s:eng&spa we didn't think about it . 184356_185355
-*LUI:	we'll do it next time . 185355_186249
-*LUI:	www . 187403_189737
-*AVA:	+< www +/. 187583_188599
-*AVA:	www . 189777_191466
-*AVA:	www . 191478_192685
-*LUI:	www . 192681_197237
-*LUI:	www . 198858_203182
-*LUI:	www <you know> [?] ? 203318_205477
-*AVA:	+< [- spa] sí . 204984_205431
-*LUI:	www . 205711_206883
-*AVA:	www +/. 207678_209124
-*LUI:	www . 208242_210123
-*AVA:	www . 210029_213315
-*AVA:	www . 213410_216887
-*LUI:	right . 216910_217369
-*AVA:	www . 217542_222605
-*AVA:	www . 223413_225741
-*LUI:	www . 225852_228766
-*AVA:	[- spa] sí . 228865_229596
-*LUI:	www . 229228_229937
-*AVA:	www +/. 229995_233783
-*LUI:	+< www . 233453_236315
-*AVA:	+< [- spa] sí . 235322_235711
-*AVA:	[- spa] sí . 236402_236681
-*LUI:	www . 236977_238950
-*AVA:	www . 238776_239287
-*AVA:	[- spa] calla oh no ! 239541_241126
-*LUI:	+< &= laugh . 240009_243515
-*AVA:	[- spa] no hombre no [=! laugh] . 243527_244659
-*LUI:	+< &= laugh . 239541_241126
-*AVA:	[- spa] entonces después que le pongas el Miracle_Grow@eng&spa le pones ahí la [/] la de esto . 246042_250681
-*AVA:	[- spa] que te quede bien derechita . 250888_253158
-*AVA:	[- spa] y se le echa más Miracle_Grow@eng&spa por arriba . 252607_256694
-*AVA:	[- spa] agua . 256700_257849
-*AVA:	[- spa] primero cuan(do) [//] en cuanto se hace el hueco primero hay que echar un poco de agua . 257838_262244
-*LUI:	+< [- spa] <ah bueno> [?] . 261768_262215
-*AVA:	[- spa] no [?] así . 263237_264200
-*LUI:	[- spa] y entonces la mata . 264190_265095
-*AVA:	[- spa] <y después> [/] y después agua otra vez . 265084_267028
-*AVA:	[- spa] después del Miracle_Grow@eng&spa agua . 267022_269977
-*AVA:	[- spa] y después le puedes echar cualquier tierra que no esté con vitaminas ni na(d)a . 269971_274151
-*LUI:	[- spa] tú has crecido tomates mucho ? 274134_276839
-*AVA:	[- spa] ah una vez en [/] en Nueva_Yor(k) . 276826_279572
-*LUI:	[- spa] pero cuando tú sacas # ya la fruta # o el vegetal 279386_282997
-*LUI:	[- spa] lo que sea . 282997_284216
-*AVA:	+< [- spa] está guindada [?] . 283213_283956
-*LUI:	right . 283994_284504
-*LUI:	[- spa] y tú la sacas . 284516_285451
-*AVA:	+< xxx . 284232_285166
-*LUI:	[- spa] te dan más más tarde o no ? 285732_287665
-*AVA:	[- spa] no . 287648_288298
-*LUI:	[- spa] ya que tú la sacas ya se jodió la cosa . 288296_290311
-*AVA:	+< no yeah . 289544_290415
-*LUI:	oh . 290775_291744
-*AVA:	[- spa] ellos pueden parir dos veces . 292275_294109
-*AVA:	[- spa] pero no es +... 294092_295276
-*LUI:	[- spa] no es constantemente . 295259_296478
-*AVA:	[- spa] no . 296466_297174
-*LUI:	[- spa] como una mata de [/] de [/] de naranjas ? 297133_299177
-*AVA:	+< como@s:spa los@s:spa strawberrie(s) cuand(o)@s:spa +/ . 298643_300187
-*AVA:	yo@s:spa compré@s:spa en@s:spa Nueva_York@s:spa catorce@s:spa matas@s:spa de@s:spa strawberrie(s) por@s:spa correo@s:spa . 300513_304838
-*LUI:	really ? 305026_305391
-*AVA:	[- spa] no se me murió ni una . 305281_306779
-*LUI:	really ? 306691_307394
-*AVA:	www strawberry . 307562_314163
-*LUI:	www . 314467_316231
-*AVA:	www strawberry www . 315809_319188
-*AVA:	www . 319408_323425
-*LUI:	really ? 323419_324005
-*AVA:	www strawberry . 324558_326874
-*AVA:	www . 327228_330833
-*LUI:	[- spa] sí . 330719_331021
-*AVA:	www +... 331386_334068
-*LUI:	+, &=laugh www ! 333644_334921
-*AVA:	+, www . 334910_336977
+*AVA:	zzz . 138486_139769
+*LUI:	+< zzz two@s:eng jars@s:eng . 138817_141360
+*AVA:	zzz . 141690_144268
+*LUI:	zzz . 144198_145005
+*AVA:	zzz . 145467_147714
+*LUI:	+< [- eng] really ? 147197_147841
+*LUI:	[- eng] shit ! 147794_148374
+*AVA:	zzz . 148090_151195
+*AVA:	zzz . 152005_153108
+*LUI:	zzz <in@s:eng the@s:eng stump@s:eng> [?] . 153904_158424
+*LUI:	zzz +/. 158852_160025
+*AVA:	zzz ? 159717_161697
+*LUI:	zzz . 161437_164874
+*LUI:	zzz . 165167_167662
+*LUI:	zzz . 167714_171335
+*AVA:	+< sí . 169495_170331
+*AVA:	zzz . 171632_172677
+*AVA:	zzz . 172956_176961
+*LUI:	[- eng] yeah . 177010_177410
+*AVA:	zzz . 177661_178851
+*LUI:	[- eng] really ? 179014_179478
+*AVA:	zzz . 179667_180416
+*LUI:	[- eng] really ? 180422_180985
+*LUI:	zzz ! 181014_181780
+*AVA:	zzz . 181905_184355
+*LUI:	[- eng] yeah we didn't think about it . 184356_185355
+*LUI:	[- eng] we'll do it next time . 185355_186249
+*LUI:	zzz . 187403_189737
+*AVA:	+< zzz +/. 187583_188599
+*AVA:	zzz . 189777_191466
+*AVA:	zzz . 191478_192685
+*LUI:	zzz . 192681_197237
+*LUI:	zzz . 198858_203182
+*LUI:	zzz <you@s:eng know@s:eng> [?] ? 203318_205477
+*AVA:	+< sí . 204984_205431
+*LUI:	zzz . 205711_206883
+*AVA:	zzz +/. 207678_209124
+*LUI:	zzz . 208242_210123
+*AVA:	zzz . 210029_213315
+*AVA:	zzz . 213410_216887
+*LUI:	[- eng] right . 216910_217369
+*AVA:	zzz . 217542_222605
+*AVA:	zzz . 223413_225741
+*LUI:	zzz . 225852_228766
+*AVA:	sí . 228865_229596
+*LUI:	zzz . 229228_229937
+*AVA:	zzz +/. 229995_233783
+*LUI:	+< zzz . 233453_236315
+*AVA:	+< sí . 235322_235711
+*AVA:	sí . 236402_236681
+*LUI:	zzz . 236977_238950
+*AVA:	zzz . 238776_239287
+*AVA:	calla oh@s:eng&spa no@s:eng ! 239541_241126
+*LUI:	+< &=laugh . 240009_243515
+*AVA:	no hombre no [=! laugh] . 243527_244659
+*LUI:	+< &=laugh . 244328_245751
+*AVA:	entonces después que le pongas el Miracle_Grow@s:eng&spa le pones ahí la [/] la de esto . 246042_250681
+*AVA:	que te quede bien derechita . 250888_253158
+*AVA:	y se le echa más Miracle_Grow@s:eng&spa por arriba . 252607_256694
+*AVA:	agua . 256700_257849
+*AVA:	primero cuan(do) [//] en cuanto se hace el hueco primero hay que echar un poco de agua . 257838_262244
+*LUI:	+< <ah bueno> [?] . 261768_262215
+*AVA:	no [?] así . 263237_264200
+*LUI:	y entonces la mata . 264190_265095
+*AVA:	<y después> [/] y después agua otra vez . 265084_267028
+*AVA:	después del Miracle_Grow@s:eng&spa agua . 267022_269977
+*AVA:	y después le puedes echar cualquier tierra que no esté con vitaminas ni na(d)a . 269971_274151
+*LUI:	tú has crecido tomates mucho ? 274134_276839
+*AVA:	ah@s:eng&spa una vez en [/] en Nueva_Yor(k) . 276826_279572
+*LUI:	pero cuando tú sacas (.) ya la fruta (.) o el vegetal . 279386_282997
+*LUI:	lo que sea . 282997_284216
+*AVA:	+< está guindada [?] . 283213_283956
+*LUI:	[- eng] right . 283994_284504
+*AVA:	xxx . 284310_285152
+*LUI:	+< y tú la sacas . 284516_285451
+*LUI:	te dan más más tarde o no ? 285732_287665
+*AVA:	no . 287648_288298
+*LUI:	ya que tú la sacas ya se jodió la cosa . 288296_290311
+*AVA:	+< [- eng] no yeah . 289544_290415
+*LUI:	[- eng] oh . 290775_291744
+*AVA:	ellos pueden parir dos veces . 292275_294109
+*AVA:	pero no es +... 294092_295276
+*LUI:	no es constantemente . 295259_296478
+*AVA:	no . 296466_297174
+*LUI:	como una mata de [/] de [/] de naranjas ? 297133_299177
+*AVA:	+< como los strawberrie(s)@s:eng cuand(o) +/. 298643_300187
+*AVA:	yo compré en Nueva_York catorce matas de strawberrie(s)@s:eng por correo . 300513_304838
+*LUI:	[- eng] really ? 305026_305391
+*AVA:	no se me murió ni una . 305281_306779
+*LUI:	[- eng] really ? 306691_307394
+*AVA:	zzz strawberry@s:eng . 307562_314163
+*LUI:	zzz . 314467_316231
+*AVA:	zzz strawberry@s:eng zzz . 315809_319188
+*AVA:	zzz . 319408_323425
+*LUI:	[- eng] really ? 323419_324005
+*AVA:	zzz strawberry@s:eng . 324558_326874
+*AVA:	zzz . 327228_330833
+*LUI:	sí . 330719_331021
+*AVA:	zzz +... 331386_334068
+*LUI:	+, &=laugh zzz ! 333644_334921
+*AVA:	+, zzz . 334910_336977
 *LUI:	+< &=laugh . 336147_337400
-*AVA:	www strawberries &=laugh . 337238_340263
+*AVA:	zzz strawberries@s:eng &=laugh . 337238_340263
 *LUI:	&=laugh . 339641_340831
-*AVA:	www . 340608_341764
+*AVA:	zzz . 340608_341764
 *LUI:	&=laugh . 341839_342414
 %com:	cell phone makes a noise here.
-*AVA:	www . 342155_346503
-*AVA:	&=laugh www . 346525_349677
-*LUI:	right . 349842_350254
-*AVA:	www . 350460_352730
-*AVA:	www . 352817_357809
-*AVA:	www . 358314_359365
-*LUI:	<you know that> [?] www right [/] right there from the vine man ! 359298_363449
+*AVA:	zzz . 342155_346503
+*AVA:	&=laugh zzz . 346525_349677
+*LUI:	[- eng] right . 349842_350254
+*AVA:	zzz . 350460_352730
+*AVA:	zzz . 352817_357809
+*AVA:	zzz . 358314_359365
+*LUI:	<you@s:eng know@s:eng that@s:eng> [?] zzz right@s:eng [/] right@s:eng there@s:eng from@s:eng the@s:eng vine@s:eng man@s:eng ! 359298_363449
 *AVA:	+< ah@s:eng&spa sí sí . 361677_364190
-*AVA:	www . 365012_366440
-*AVA:	www ! 366493_367491
-*AVA:	www . 368114_371257
-*AVA:	www . 371292_372929
-*LUI:	www ? 372967_373896
-*AVA:	www . 374158_376933
-*LUI:	you have to mash it up . 376877_377858
-*AVA:	www blender . 378097_380297
-*LUI:	www . 380555_381484
-*AVA:	www +... 381355_384803
-*LUI:	www . 385265_387767
-*AVA:	www . 388242_388817
-*LUI:	+< www strawberry +/. 388469_389346
-*AVA:	+< www . 388823_390385
-*LUI:	+< <yeah@s:eng&spa I know> [?] ! 389746_390437
-*AVA:	www . 390735_394113
-*LUI:	oh@s:eng&spa oh@s:eng&spa oh@s:eng&spa oh@s:eng&spa . 393318_395065
-*AVA:	www . 394943_397543
-*LUI:	www . 397548_398924
-*AVA:	www . 398547_400062
-*LUI:	www . 400463_401519
-*AVA:	www . 401165_404039
-*LUI:	oh@s:eng&spa really ? 404030_404622
-*LUI:	www strawberry jam www . 404709_407275
-*AVA:	right [?] . 406683_407403
+*AVA:	zzz . 365012_366440
+*AVA:	zzz ! 366493_367491
+*AVA:	zzz . 368114_371257
+*AVA:	zzz . 371292_372929
+*LUI:	zzz ? 372967_373896
+*AVA:	zzz . 374158_376933
+*LUI:	[- eng] you have to mash it up . 376877_377858
+*AVA:	zzz blender@s:eng . 378097_380297
+*LUI:	zzz . 380555_381484
+*AVA:	zzz +... 381355_384803
+*LUI:	zzz . 385265_387767
+*AVA:	zzz . 388242_388817
+*LUI:	+< zzz strawberry@s:eng +/. 388469_389346
+*AVA:	+< zzz . 388823_390385
+*LUI:	+< [- eng] <yeah I know> [?] ! 389746_390437
+*AVA:	zzz . 390735_394113
+*LUI:	[- eng] oh oh oh oh . 393318_395065
+*AVA:	zzz . 394943_397543
+*LUI:	zzz . 397548_398924
+*AVA:	zzz . 398547_400062
+*LUI:	zzz . 400463_401519
+*AVA:	zzz . 401165_404039
+*LUI:	[- eng] oh really ? 404030_404622
+*LUI:	zzz strawberry@s:eng jam@s:eng zzz . 404709_407275
+*AVA:	right@s:eng [?] . 406683_407403
 *LUI:	wow@s:eng&spa ! 407304_407879
-*AVA:	[- spa] sí y +/. 407954_409289
-*LUI:	+< www . 408854_413200
-*AVA:	www . 413562_414183
-*LUI:	+< jams you know . 413678_414700
-*AVA:	www . 414641_419815
-*LUI:	+< jelly www . 415566_416982
+*AVA:	sí y +/. 407954_409289
+*LUI:	+< zzz . 408854_413200
+*AVA:	zzz . 413562_414183
+*LUI:	+< [- eng] jams you know . 413678_414700
+*AVA:	zzz . 414641_419815
+*LUI:	+< jelly@s:eng zzz . 415566_416982
 %com:	sound from cell phone
-*LUI:	yeah@s:eng&spa . 420031_420489
-*AVA:	www . 420251_422028
-*AVA:	www . 422366_427114
-*LUI:	www vine [?] . 427616_429201
-*AVA:	www . 429468_430623
-*LUI:	+< www ? 429793_430565
-*AVA:	www . 430778_433222
-*LUI:	www ? 433205_434545
-*AVA:	+< www . 434017_435623
-*AVA:	www . 436059_437098
-*LUI:	+< really ? 436256_436749
-*LUI:	www . 437063_439234
-*AVA:	+< www . 438636_439919
-*AVA:	www . 440434_441949
-*LUI:	yeah@s:eng&spa ? 442147_442623
-*AVA:	www . 442627_445280
-*AVA:	www . 446549_449376
+*LUI:	[- eng] yeah . 420031_420489
+*AVA:	zzz . 420251_422028
+*AVA:	zzz . 422366_427114
+*LUI:	zzz vine@s:eng [?] . 427616_429201
+*AVA:	zzz . 429468_430623
+*LUI:	+< zzz ? 429793_430565
+*AVA:	zzz . 430778_433222
+*LUI:	zzz ? 433205_434545
+*AVA:	+< zzz . 434017_435623
+*AVA:	zzz . 436059_437098
+*LUI:	+< [- eng] really ? 436256_436749
+*LUI:	zzz . 437063_439234
+*AVA:	+< zzz . 438636_439919
+*AVA:	zzz . 440434_441949
+*LUI:	[- eng] yeah ? 442147_442623
+*AVA:	zzz . 442627_445280
+*AVA:	zzz . 446549_449376
 *LUI:	+< wow@s:eng&spa . 446607_446955
-*AVA:	www . 449429_450979
-*AVA:	www . 451127_454245
-*AVA:	www . 454494_457396
-*LUI:	right claro@s:spa [?] . 457089_457890
-*AVA:	www . 458121_459880
-*AVA:	www . 460201_463295
-*LUI:	+< www . 463042_464760
-*AVA:	www . 464879_466231
-*AVA:	www . 466696_468263
-*LUI:	not [/] not very many no . 468854_470044
-*AVA:	www . 470219_473202
-*LUI:	+< www (.) www you know www . 472291_478236
-*AVA:	www . 477505_478462
-*AVA:	www . 478817_481731
-*LUI:	www . 481852_483222
+*AVA:	zzz . 449429_450979
+*AVA:	zzz . 451127_454245
+*AVA:	zzz . 454494_457396
+*LUI:	right@s:eng claro [?] . 457089_457890
+*AVA:	zzz . 458121_459880
+*AVA:	zzz . 460201_463295
+*LUI:	+< zzz . 463042_464760
+*AVA:	zzz . 464879_466231
+*AVA:	zzz . 466696_468263
+*LUI:	[- eng] not [/] not very many no . 468854_470044
+*AVA:	zzz . 470219_473202
+*LUI:	+< zzz (.) zzz you@s:eng know@s:eng zzz . 472291_478236
+*AVA:	zzz . 477505_478462
+*AVA:	zzz . 478817_481731
+*LUI:	zzz . 481852_483222
 *AVA:	+< xx +/. 482073_482479
-*AVA:	+< www . 482642_484755
-*LUI:	+< yeah@s:eng&spa I know . 484256_485034
-*AVA:	www . 485195_487006
-*AVA:	www . 487507_490955
-*AVA:	www . 491293_493377
+*AVA:	+< zzz . 482642_484755
+*LUI:	+< [- eng] yeah I know . 484256_485034
+*AVA:	zzz . 485195_487006
+*AVA:	zzz . 487507_490955
+*AVA:	zzz . 491293_493377
 *LUI:	&=laugh . 493580_494776
-*AVA:	www . 494100_495790
-*LUI:	www guy . 495930_498548
+*AVA:	zzz . 494100_495790
+*LUI:	zzz guy@s:eng . 495930_498548
 *LUI:	&i &i &i &i +/. 499325_500364
-*AVA:	+< www . 499429_501693
-*LUI:	www . 501786_504027
-*AVA:	+< www . 503133_505711
-*LUI:	www . 505998_507612
-*AVA:	[- spa] sí . 507589_508042
-*LUI:	www . 508044_510482
-*AVA:	[- spa] sí . 510529_511098
-*LUI:	www &=laugh . 511215_513960
+*AVA:	+< zzz . 499429_501693
+*LUI:	zzz . 501786_504027
+*AVA:	+< zzz . 503133_505711
+*LUI:	zzz . 505998_507612
+*AVA:	sí . 507589_508042
+*LUI:	zzz . 508044_510482
+*AVA:	sí . 510529_511098
+*LUI:	zzz &=laugh . 511215_513960
 *AVA:	&=laugh . 514011_515462
-*AVA:	www +/. 515434_516886
-*LUI:	+< www . 516276_519132
+*AVA:	zzz +/. 515434_516886
+*LUI:	+< zzz . 516276_519132
 *AVA:	ah@s:eng&spa sí . 519167_519724
-*LUI:	www . 519910_520729
-*AVA:	www . 520584_522447
-*LUI:	www . 522583_523895
-*AVA:	www ? 523425_524580
-*LUI:	yeah@s:eng&spa man yeah@s:eng&spa ! 524505_525869
-*AVA:	+< www . 524597_525880
-*AVA:	www . 526129_529159
-*AVA:	www . 529733_533657
-*AVA:	www . 533735_535953
+*LUI:	zzz . 519910_520729
+*AVA:	zzz . 520584_522447
+*LUI:	zzz . 522583_523895
+*AVA:	zzz ? 523425_524580
+*LUI:	[- eng] yeah man yeah ! 524505_525869
+*AVA:	+< zzz . 524597_525880
+*AVA:	zzz . 526129_529159
+*AVA:	zzz . 529733_533657
+*AVA:	zzz . 533735_535953
 *LUI:	+< &=laugh ! 534246_535378
-*LUI:	www . 536460_536872
-*AVA:	www . 536710_538504
-*LUI:	+< www . 537685_539821
-*AVA:	www . 539160_539624
-*LUI:	www . 540119_541692
-*AVA:	+< www . 540804_543637
-*AVA:	www . 544038_549551
-*AVA:	www . 550004_555694
-*AVA:	www . 556054_558074
-*AVA:	www . 558347_561210
-*AVA:	www . 561816_563981
-*AVA:	www . 564724_568550
-*AVA:	www . 568549_570314
-*AVA:	www . 570499_573791
-*LUI:	who was that Alvin@s:eng&spa ? 574294_575444
+*LUI:	zzz . 536460_536872
+*AVA:	zzz . 536710_538504
+*LUI:	+< zzz . 537685_539821
+*AVA:	zzz . 539160_539624
+*LUI:	zzz . 540119_541692
+*AVA:	+< zzz . 540804_543637
+*AVA:	zzz . 544038_549551
+*AVA:	zzz . 550004_555694
+*AVA:	zzz . 556054_558074
+*AVA:	zzz . 558347_561210
+*AVA:	zzz . 561816_563981
+*AVA:	zzz . 564724_568550
+*AVA:	zzz . 568549_570314
+*AVA:	zzz . 570499_573791
+*LUI:	who@s:eng was@s:eng that@s:eng Alvin@s:eng&spa ? 574294_575444
 *AVA:	Alvin@s:eng&spa . 575392_576141
 *AVA:	Alvin@s:eng&spa . 576239_577151
-*AVA:	www . 577180_579660
-*LUI:	+< www . 578958_579793
-*AVA:	www . 580305_582058
-*LUI:	oh@s:eng&spa my God ! 582279_583150
-*AVA:	+< www +/. 582467_583042
-*LUI:	www ! 583163_584086
-*AVA:	www . 584082_584657
+*AVA:	zzz . 577180_579660
+*LUI:	+< zzz . 578958_579793
+*AVA:	zzz . 580305_582058
+*LUI:	[- eng] oh my God ! 582279_583150
+*AVA:	+< zzz +/. 582467_583042
+*LUI:	zzz ! 583163_584086
+*AVA:	zzz . 584082_584657
 *LUI:	+< &=laugh ! 584222_585615
-*AVA:	www +/. 585228_587045
-*LUI:	www . 586343_588497
-*AVA:	www . 588493_591366
-*LUI:	yeah@s:eng&spa good ! 591414_592099
-*LUI:	tell her in front of Ellen@s:eng&spa . 592116_593062
-*AVA:	+< www . 592714_594131
-*LUI:	tell her tonight ! 594009_594775
-*LUI:	tell (th)em [?] tonight . 594756_595604
-*AVA:	+< www . 595041_597158
-*AVA:	www . 597158_598167
-*AVA:	www . 598294_601498
-*AVA:	www . 601595_603261
-*AVA:	www . 603250_604724
-*AVA:	www . 604774_608547
-*AVA:	www . 608617_610393
-*LUI:	www ? 610509_611786
-*AVA:	www . 611675_613097
-*LUI:	+< what about him ? 612458_613370
-*AVA:	www . 613418_615514
+*AVA:	zzz +/. 585228_587045
+*LUI:	zzz . 586343_588497
+*AVA:	zzz . 588493_591366
+*LUI:	[- eng] yeah good ! 591414_592099
+*LUI:	tell@s:eng her@s:eng in@s:eng front@s:eng of@s:eng Ellen@s:eng&spa . 592116_593062
+*AVA:	+< zzz . 592714_594131
+*LUI:	tell@s:eng her@s:eng tonight@s:eng ! 594009_594775
+*LUI:	tell@s:eng (th)em@s:eng [?] tonight@s:eng . 594756_595604
+*AVA:	+< zzz . 595041_597158
+*AVA:	zzz . 597158_598167
+*AVA:	zzz . 598294_601498
+*AVA:	zzz . 601595_603261
+*AVA:	zzz . 603250_604724
+*AVA:	zzz . 604774_608547
+*AVA:	zzz . 608617_610393
+*LUI:	zzz ? 610509_611786
+*AVA:	zzz . 611675_613097
+*LUI:	+< [- eng] what about him ? 612458_613370
+*AVA:	zzz . 613418_615514
 *LUI:	&dental_click . 615618_615868
-*AVA:	www . 615893_616938
+*AVA:	zzz . 615893_616938
 *LUI:	xx . 616821_617332
-*AVA:	www . 617443_621460
-*AVA:	www . 621530_623660
+*AVA:	zzz . 617443_621460
+*AVA:	zzz . 621530_623660
 *LUI:	+< &=laugh . 621617_623428
-*LUI:	yeah@s:eng&spa I know the palmetto bugs . 623631_625042
-*AVA:	+< www . 624200_625221
-*AVA:	www . 625340_630790
-*AVA:	www . 631062_633471
-*AVA:	www . 633919_641197
-*LUI:	+< <yeah@s:eng&spa right> [?] . 640587_641260
-*AVA:	www . 641777_646627
-*AVA:	www . 646889_648857
-*LUI:	right . 648857_649455
-*AVA:	www . 649724_656731
-*LUI:	+< &=laugh www . 654978_658119
-*AVA:	+< www . 657603_660064
+*LUI:	[- eng] yeah I know the palmetto bugs . 623631_625042
+*AVA:	+< zzz . 624200_625221
+*AVA:	zzz . 625340_630790
+*AVA:	zzz . 631062_633471
+*AVA:	zzz . 633919_641197
+*LUI:	+< [- eng] <yeah right> [?] . 640587_641260
+*AVA:	zzz . 641777_646627
+*AVA:	zzz . 646889_648857
+*LUI:	[- eng] right . 648857_649455
+*AVA:	zzz . 649724_656731
+*LUI:	+< &=laugh zzz . 654978_658119
+*AVA:	+< zzz . 657603_660064
 *LUI:	+< &=laugh ! 658631_659935
-*LUI:	you tell (th)em that tonight too ! 660356_661853
-*AVA:	+< www . 660425_663483
-*LUI:	good tell (th)em tonight too . 663169_664498
-*AVA:	www +/. 664766_665567
-*LUI:	so you killed a roach xxx in the house ? 665002_667219
-*AVA:	www . 667144_667829
-*LUI:	www . 667637_669747
+*LUI:	[- eng] you tell (th)em that tonight too ! 660356_661853
+*AVA:	+< zzz . 660425_663483
+*LUI:	[- eng] good tell (th)em tonight too . 663169_664498
+*AVA:	zzz +/. 664766_665567
+*LUI:	[- eng] so you killed a roach in <your backyard and> [?] brought it in the house ? 665002_667219
+*AVA:	zzz . 667144_667829
+*LUI:	zzz . 667637_669747
 *AVA:	&=laugh ! 669300_671431
 *LUI:	+< &=laugh ! 669863_671924
-*AVA:	www . 672515_675139
+*AVA:	zzz . 672515_675139
 *LUI:	&=laugh . 675132_676404
-*AVA:	+< www . 675539_677501
+*AVA:	+< zzz . 675539_677501
 *LUI:	wow@s:eng&spa [?] . 677380_677931
-*AVA:	www . 677827_681419
-*AVA:	www . 681506_684060
-*LUI:	www . 684293_685012
-*AVA:	www . 684664_685895
-*AVA:	www . 686135_686802
-*AVA:	www . 687540_688759
-*AVA:	www +//. 689015_690356
-*AVA:	www . 690553_695331
-*AVA:	www . 695456_697384
-*AVA:	www . 697471_699250
-*AVA:	www . 699297_701979
-*LUI:	+< www . 700812_701857
+*AVA:	zzz . 677827_681419
+*AVA:	zzz . 681506_684060
+*LUI:	zzz . 684293_685012
+*AVA:	zzz . 684664_685895
+*AVA:	zzz . 686135_686802
+*AVA:	zzz . 687540_688759
+*AVA:	zzz +//. 689015_690356
+*AVA:	zzz . 690553_695331
+*AVA:	zzz . 695456_697384
+*AVA:	zzz . 697471_699250
+*AVA:	zzz . 699297_701979
+*LUI:	+< zzz . 700812_701857
 *AVA:	&=laugh . 702101_702821
-*LUI:	www . 702380_703674
-*AVA:	www . 703134_707734
-*AVA:	www . 708393_714924
+*LUI:	zzz . 702380_703674
+*AVA:	zzz . 703134_707734
+*AVA:	zzz . 708393_714924
 *LUI:	&=laugh . 715111_716382
-*AVA:	+< www . 715436_718472
-*AVA:	www &=laugh ! 718592_721249
-*AVA:	www . 721363_722977
+*AVA:	+< zzz . 715436_718472
+*AVA:	zzz &=laugh ! 718592_721249
+*AVA:	zzz . 721363_722977
 *LUI:	&=laugh . 722988_725020
 *AVA:	+< &=laugh . 723255_724584
-*AVA:	www &=laugh . 725097_728267
+*AVA:	zzz &=laugh . 725097_728267
 *LUI:	&=laugh . 727175_728493
-*AVA:	www . 728453_733594
-*AVA:	www . 733872_737442
-*AVA:	www +//. 737721_738134
-*LUI:	+< www ? 737733_738180
-*AVA:	www . 738317_742769
-*AVA:	www . 744061_747376
-*AVA:	www . 747487_749867
+*AVA:	zzz . 728453_733594
+*AVA:	zzz . 733872_737442
+*AVA:	zzz +//. 737721_738134
+*LUI:	+< zzz ? 737733_738180
+*AVA:	zzz . 738317_742769
+*AVA:	zzz . 744061_747376
+*AVA:	zzz . 747487_749867
 *LUI:	+< &=laugh . 748352_750064
-*AVA:	www +/. 750409_751106
-*LUI:	+< www . 750554_754281
-*LUI:	www . 754776_756390
-*LUI:	www <moving a little bit> [?] . 756489_758741
-*AVA:	+< www . 758143_759072
-*AVA:	www +/? 759283_761344
-*LUI:	she took a box and she put a box over it and put some shoes on top of it to hold the box down . 760354_764806
-*LUI:	I swear to God ! 764883_765875
-*LUI:	in the middle of the kitchen . 765904_766839
-*AVA:	www ? 766786_767732
-*LUI:	www . 767755_768701
-*AVA:	www . 768730_769595
-*LUI:	yes . 769519_770082
-*LUI:	I know (be)cause I was there . 770227_771690
-*AVA:	www . 772208_773171
-*LUI:	www that I went to the fucking house &=belch . 773288_776324
-*LUI:	www . 776463_777846
-*AVA:	+< www +/. 776621_777712
-*AVA:	www ! 777875_779738
-*AVA:	www Billy@s:eng&spa www . 780858_784474
-*LUI:	www ! 784133_784824
-*LUI:	Billy@s:eng&spa www . 784894_790353
-*LUI:	www and saw a dead roach inside the glass there . 791118_794984
+*AVA:	zzz +/. 750409_751106
+*LUI:	+< zzz . 750554_754281
+*LUI:	zzz . 754776_756390
+*LUI:	zzz <moving@s:eng a@s:eng little@s:eng bit@s:eng> [?] . 756489_758741
+*AVA:	+< zzz . 758143_759072
+*AVA:	zzz +/? 759283_761344
+*LUI:	[- eng] she took a box and she put a box over it and put some shoes on top of it to hold the box down . 760354_764806
+*LUI:	[- eng] I swear to God ! 764883_765875
+*LUI:	[- eng] in the middle of the kitchen . 765904_766839
+*AVA:	zzz ? 766786_767732
+*LUI:	zzz . 767755_768701
+*AVA:	zzz . 768730_769595
+*LUI:	[- eng] yes . 769519_770082
+*LUI:	[- eng] I know (be)cause I was there . 770227_771690
+*AVA:	zzz . 772208_773171
+*LUI:	zzz that@s:eng I@s:eng went@s:eng to@s:eng the@s:eng fucking@s:eng house@s:eng &=belch . 773288_776324
+*LUI:	zzz . 776463_777846
+*AVA:	+< zzz +/. 776621_777712
+*AVA:	zzz ! 777875_779738
+*AVA:	zzz Billy@s:eng&spa zzz . 780858_784474
+*LUI:	zzz ! 784133_784824
+*LUI:	Billy@s:eng&spa zzz . 784894_790353
+*LUI:	zzz and@s:eng saw@s:eng a@s:eng dead@s:eng roach@s:eng inside@s:eng the@s:eng glass@s:eng there@s:eng . 791118_794984
+*AVA:	zz +... 795104_795766
+*LUI:	zzz . 795781_797220
+*LUI:	zzz . 797226_798474
+*LUI:	zzz tented@s:eng the@s:eng entire@s:eng building@s:eng . 798885_801178
+*LUI:	zzz . 801533_803815
+*LUI:	zzz +"/. 804363_806238
+*LUI:	+" [- eng] look I tented the entire +//. 806238_807207
+*LUI:	zzz . 807224_808728
+*LUI:	[- eng] and then [/] then he went to work there (.) after he was done tenting the building . 809321_812340
+*AVA:	zzz ! 812502_813942
+*LUI:	zzz . 813564_814946
+*AVA:	zzz . 814754_817291
+*LUI:	&=laugh ! 817314_818475
+*AVA:	zzz . 818474_822038
+*LUI:	[- eng] I don't know why she's so afraid of roaches . 822972_824452
+*LUI:	in@s:eng Stanley_Avenue@s:eng&spa that's@s:eng all@s:eng we@s:eng had@s:eng was@s:eng roaches@s:eng in@s:eng that@s:eng motherfucker@s:eng boy@s:eng . 824429_827401
+*AVA:	zzz . 826838_828282
+*AVA:	zzz . 829083_832290
+*LUI:	+< [- eng] the German roaches . 831204_832319
+*LUI:	[- eng] <right I know> [?] . 832290_832951
+*AVA:	sí . 833789_834411
+*AVA:	zzz . 835365_837217
+*AVA:	zzz . 837832_840578
+*AVA:	zzz tall@s:eng building@s:eng . 840676_843788
+*LUI:	[- eng] oh yeah ? 844209_844592
+*AVA:	+< zzz . 844267_848086
+*AVA:	zzz . 848844_852164
+*AVA:	zzz . 852449_855438
+*LUI:	+< [- eng] the one downstairs ? 852524_853592
+*LUI:	+< [- eng] mmhm . 854878_855348
+*AVA:	zzz +/. 856236_856886
+*LUI:	+< [- eng] they went up and down and up and down . 856509_858517
+*AVA:	+< zzz . 857495_860247
+*AVA:	zzz +/. 860378_862746
+*LUI:	[- eng] we have to do it both at the same time . 862242_863787
+*AVA:	sí . 863717_864083
+*AVA:	zzz . 864489_870493
+*AVA:	zzz . 870606_873972
+*LUI:	+< [- eng] yeah ? 872428_873044
+*LUI:	ah@s:eng&spa good@s:eng ! 873294_874101
+*AVA:	zzz . 874068_877203
+*AVA:	zzz +... 877735_881555
+*AVA:	zzz . 881722_886076
+*LUI:	+< [- eng] I know . 884643_885305
+*LUI:	[- eng] I know . 886634_887144
+*AVA:	zz ! 887226_888120
+*AVA:	zzz ! 888817_890448
+*AVA:	zzz . 891167_893193
+*AVA:	zzz . 893496_899722
+*LUI:	+< [- eng] because they come inside . 899134_900376
+*AVA:	zzz . 900359_901299
+*LUI:	[- eng] they come inside yeah . 901275_902517
+*AVA:	zzz . 902448_904009
+*AVA:	zzz +/. 904201_904775
+*LUI:	+< [- eng] you know where they come from too ? 904326_905435
+*AVA:	eh@s:eng&spa ? 905685_906068
+*LUI:	[- eng] <from the> [/] from the sink . 906064_907132
+*LUI:	porque the@s:eng sewer@s:eng system@s:eng has@s:eng them@s:eng in@s:eng there@s:eng porque +/. 908410_910854
+*AVA:	+< zzz . 908490_909314
+*AVA:	zzz +/. 910388_912478
+*LUI:	zzz +... 912086_914588
+*LUI:	zzz . 915031_919048
+*LUI:	zzz . 919168_922680
+*AVA:	sí . 922779_923556
+*LUI:	zzz sink@s:eng zzz . 923630_928842
+*AVA:	zzz . 929013_930517
+*LUI:	+< [- eng] <you know> [/] you know we xxx the sink . 929199_930778
+*LUI:	zzz . 931230_932716
+*AVA:	zzz . 931668_936470
+*AVA:	zzz . 936648_941397
+*LUI:	+< [- eng] what [?] ? 939470_939876
+*AVA:	zzz . 942380_944400
+*LUI:	[- eng] the sink ? 944197_944899
+*AVA:	zzz . 944958_946438
+*LUI:	+< [- eng] maybe in your place but not generally . 945706_947906
+*LUI:	[- eng] they [?] start from the toilet but not from the sink . 948493_951059
+*LUI:	zzz +/. 951269_951920
+*AVA:	+< zzz . 951467_953202
+*LUI:	zzz . 953192_955102
+*AVA:	zzz . 955111_959627
+*AVA:	zzz . 959773_962316
+*LUI:	[- eng] yeah . 962264_962775
+*AVA:	zzz . 962699_964905
+*LUI:	r[- eng] eally ? 964947_965597
+*AVA:	zzz . 965614_969207
+*AVA:	zzz . 970147_975458
+*LUI:	[- eng] a garden center . 975778_976718
+*AVA:	zzz . 976345_981540
+*LUI:	zzz . 981318_983019
+*AVA:	+< zzz . 982485_983570
+*LUI:	[- eng] I know &=laugh ! 983414_985196
+*AVA:	+< zzz . 984372_985301
+*LUI:	zzz . 985392_987342
+*AVA:	zzz +//. 986608_988878
+*AVA:	zzz . 988901_993175
+*AVA:	zzz . 993397_996341
+*LUI:	wow@s:eng&spa ! 996608_997037
+*AVA:	zzz . 996964_1000488
+*LUI:	[- eng] oh . 1000946_1001225
+*AVA:	zzz . 1001305_1009494
+*AVA:	zzz . 1009971_1012664
+*AVA:	zzz . 1013010_1014890
+*AVA:	zzz . 1015078_1019937
+*AVA:	zzz . 1020275_1024588
+*AVA:	zzz . 1025104_1028413
+*LUI:	zzz +/. 1029667_1030688
+*AVA:	+< zzz . 1029794_1031326
+*AVA:	zzz . 1032210_1036558
+*AVA:	&=grunt zzz . 1036896_1043304
+*AVA:	zzz . 1043573_1049372
+*LUI:	[- eng] hmm . 1050438_1050763
+*AVA:	zzz . 1050566_1053799
+*LUI:	zzz . 1053375_1054745
+*AVA:	zzz . 1054946_1059736
+*AVA:	zzz . 1060736_1063546
+*AVA:	zzz . 1064125_1067643
+*AVA:	zzz . 1068625_1071777
+*LUI:	[- eng] right . 1071539_1072055
+*AVA:	zzz ! 1073314_1074631
+*AVA:	zzz ! 1075519_1076895
+*AVA:	zzz . 1077764_1080922
+*AVA:	zzz . 1080986_1082315
+*LUI:	+< zzz I@s:eng know@s:eng . 1081329_1082838
+*LUI:	I@s:eng know@s:eng . 1083989_1084476
+*AVA:	zzz ? 1084540_1085382
+*LUI:	[- eng] yeah what you gonna do ? 1085515_1086816
+*LUI:	zzz ! 1088887_1090356
+*AVA:	zzz . 1091186_1092712
+*LUI:	[- eng] yeah it was . 1093136_1094169
+*AVA:	zzz . 1095613_1096258
+*LUI:	zzz . 1098652_1104457
+*LUI:	zzz . 1104792_1106952
+*LUI:	zzz . 1107723_1109610
+*LUI:	[- eng] &=laugh I'm stuck with that bitch now ! 1109883_1112425
+*LUI:	zzz . 1112865_1115896
+*LUI:	zzz . 1116501_1122973
+*LUI:	zzz whatever@s:eng the@s:eng fuck@s:eng . 1123485_1130051
+*LUI:	zzz . 1130293_1134147
+*LUI:	zzz . 1134827_1140918
+*AVA:	zzz ! 1141670_1142581
+*LUI:	+< [- eng] yeah and I'll bring her back home . 1142221_1143609
+*AVA:	+< zzz . 1142692_1148027
+*AVA:	zz . 1148864_1149270
+*LUI:	+< zzz ! 1148997_1150100
+*AVA:	+< zzz . 1149479_1151285
+*LUI:	zzz . 1150193_1153107
+*AVA:	zzz . 1153309_1154784
+*LUI:	zzz . 1154277_1158410
+*LUI:	zzz +//. 1158379_1160324
+*LUI:	no@s:spa <this@s:eng is@s:eng> [?] going@s:eng to@s:eng ruin@s:eng her@s:eng man@s:eng ! 1160330_1162449
+*LUI:	zzz ! 1163257_1167935
+*AVA:	+< zzz ! 1166850_1168214
+*AVA:	zzz ? 1168839_1169960
+*AVA:	zzz . 1170564_1171736
+*LUI:	[- eng] I know . 1171941_1172492
+*LUI:	[- eng] &j I'll be nice to her don't worry . 1172481_1174419
+*AVA:	zzz . 1174896_1177694
+*LUI:	+< [- eng] I'll feed her every day . 1175349_1176580
+*AVA:	zzz . 1178267_1180954
+*AVA:	zzz . 1181919_1186482
+*AVA:	zzz . 1187287_1189441
+*LUI:	zzz . 1190421_1191779
+*AVA:	zz ? 1191895_1192452
+*LUI:	zzz . 1192737_1194141
+*AVA:	zzz . 1194569_1196450
+*LUI:	zzz +/. 1196444_1199020
+*AVA:	+< zzz . 1198368_1201961
+*AVA:	zzz ? 1202075_1208158
+*LUI:	+< [- eng] you wanna bring her flowers ? 1206591_1207868
+*AVA:	zzz . 1208177_1210435
+*AVA:	zzz . 1210570_1214546
+*AVA:	zzz . 1215247_1221702
+*AVA:	zzz . 1222495_1224765
+*LUI:	[- eng] really ? 1224947_1225592
+*AVA:	zzz . 1225639_1230080
+*LUI:	zzz cancer@s:eng&spa no ? 1230997_1232494
+*AVA:	zzz . 1232518_1234578
+*LUI:	you@s:eng know@s:eng who@s:eng Patrick_Swayze@s:eng&spa is@s:eng ? 1234659_1236156
+*AVA:	zz ? 1236365_1236929
+*LUI:	zzz Patrick_Swayze@s:eng&spa . 1237337_1240815
+*LUI:	zzz pancreatic@s:eng cancer@s:eng&spa . 1241498_1243478
+*AVA:	zzz . 1243484_1244894
+*LUI:	[- eng] ooh that's bad ! 1244805_1245833
+*AVA:	zzz . 1246012_1247550
+*AVA:	zzz . 1247794_1250627
+*AVA:	zzz . 1251385_1254868
+*AVA:	zzz . 1255309_1257376
+*AVA:	zzz cancer@s:eng&spa . 1258890_1263372
+*AVA:	zzz . 1264876_1268475
+*AVA:	zzz . 1269418_1273436
+*AVA:	zzz . 1273634_1279474
+*AVA:	zzz . 1280999_1286142
+*AVA:	zzz . 1286477_1288736
+*AVA:	zzz cancer@s:eng&spa . 1288957_1291935
+*AVA:	zzz cancer@s:eng&spa . 1293284_1295002
+*AVA:	zzz cancer@s:eng&spa zz . 1295296_1298379
+*AVA:	zzz . 1298640_1299929
+*AVA:	zzz . 1300474_1302146
+*LUI:	&=grunt . 1302215_1302662
+*LUI:	[- eng] that's too bad . 1303295_1303951
+*LUI:	zzz . 1303957_1305246
+*LUI:	no@s:eng no@s:eng no@s:eng that's@s:eng o_k@s:eng&spa zzz you@s:eng know@s:eng ? 1305374_1308543
+*AVA:	zzz cancer@s:eng&spa zzz pancreatic@s:eng cancer@s:eng&spa zzz . 1308806_1313810
+*LUI:	+< zzz +/. 1308877_1309817
+*LUI:	[- eng] right . 1313954_1314343
+*AVA:	zzz +/. 1315266_1317257
+*LUI:	+< [- eng] <right I know> [?] . 1316763_1317419
+*AVA:	zzz +//. 1318167_1322416
+%com:	cellphone ringtone heard during this utterance
+*AVA:	zzz +... 1322424_1324560
+*AVA:	zzz . 1325458_1329301
+*AVA:	zzz . 1330285_1332764
+*LUI:	&=grunt . 1332781_1333228
+*AVA:	zzz . 1334166_1338107
+*LUI:	[- eng] right . 1338203_1338685
+*AVA:	zzz . 1338726_1341425
+*LUI:	+< ++ [- eng] when you can live right right . 1340033_1341850
+*AVA:	zzz . 1342712_1343809
+*LUI:	&=grunt . 1343797_1344192
+*AVA:	zzz . 1345383_1348108
+*AVA:	zzz . 1348143_1350517
+*LUI:	ah@s:eng&spa (tha)t's@s:eng too@s:eng bad@s:eng . 1350792_1351918
+*AVA:	zzz . 1352803_1354260
+*AVA:	zzz +... 1354597_1358132
+*LUI:	zzz you@s:eng know@s:eng +... 1358775_1360859
+*AVA:	sí . 1360862_1361669
+*AVA:	zzz . 1362400_1364943
+*AVA:	zzz . 1366775_1370095
+*LUI:	[- eng] no ? 1370159_1370693
+*AVA:	zzz . 1370938_1376383
+*AVA:	zzz cancer@s:eng&spa ! 1376414_1378684
+*AVA:	zzz . 1379912_1382594
+*LUI:	zzz . 1384005_1384992
+*AVA:	+< zzz +/. 1384063_1384789
+*AVA:	sí . 1385323_1386031
+*AVA:	zzz . 1387544_1394040
+*AVA:	zzz . 1394632_1397012
+*AVA:	zzz . 1399020_1402172
+*LUI:	wow@s:eng&spa . 1402112_1402570
+*AVA:	zzz . 1403340_1404646
+*LUI:	&=grunt . 1404843_1405186
+*AVA:	zzz . 1405651_1410480
+*AVA:	zzz . 1411329_1414992
+*AVA:	zzz . 1415076_1417961
+*AVA:	zzz . 1419821_1424512
+*AVA:	zzz . 1426639_1430059
+*AVA:	zzz . 1431766_1434628
+*AVA:	zzz . 1434663_1436062
+*AVA:	zzz . 1436980_1438216
+*AVA:	zzz +... 1438977_1441682
+*LUI:	zzz . 1442455_1445259
+*LUI:	oh@s:eng you@s:eng wanna@s:eng go@s:eng to@s:eng Flagler_Street@s:eng&spa . 1445230_1446612
+*AVA:	zzz Flagler_Street@s:eng&spa . 1446909_1449051
+*LUI:	[- eng] oh really ? 1449028_1449846
+*AVA:	zzz . 1450108_1453254
+*LUI:	[- eng] and they couldn't do it there ? 1453254_1454258
+*AVA:	zzz . 1454231_1458213
+*AVA:	zzz . 1458653_1462031
+*AVA:	zzz civil@s:eng [?] court@s:eng . 1462224_1463977
+*AVA:	zzz civil@s:eng [?] court@s:eng . 1464360_1466455
+*AVA:	zzz . 1467616_1470350
+*LUI:	zzz [?] . 1470048_1471680
+*AVA:	ah@s:eng&spa . 1471724_1472392
+*AVA:	zzz . 1472937_1478040
+*AVA:	zzz . 1478360_1480589
+*AVA:	zzz . 1481177_1483499
+*AVA:	zzz . 1483462_1485366
+*AVA:	zzz . 1486052_1491474
+*LUI:	&=laugh . 1490989_1492307
+*AVA:	zzz . 1492254_1494756
+*LUI:	+< [- eng] <yeah I know yeah I know> [?] . 1493456_1494890
+*AVA:	zzz . 1495438_1499234
+*LUI:	zzz +/. 1499272_1500341
+*AVA:	+< zzz . 1499470_1502436
+*AVA:	zzz . 1502809_1506391
+*AVA:	zzz . 1506383_1508810
+*AVA:	zzz . 1509061_1510756
+*AVA:	zzz . 1510768_1514077
+*AVA:	zzz ! 1514602_1516297
+*LUI:	&=laugh zzz &=laugh ! 1516300_1519742
+*AVA:	+< zzz . 1517966_1520497
+*AVA:	zzz . 1520787_1523289
+*LUI:	+< we@s:eng stopped@s:eng at@s:eng a@s:eng Pollo_Tropical@s:eng&spa finally@s:eng [?] didn't@s:eng we@s:eng ? 1522209_1524688
+*AVA:	no &p +/. 1524653_1525484
+*LUI:	[- eng] yes ! 1525153_1525635
+*AVA:	zzz . 1525714_1527601
+*AVA:	zzz +/. 1528006_1529487
+*LUI:	+< zz Pollo_Tropical@s:eng&spa . 1528148_1529129
+*LUI:	+< [- eng] I remember . 1529134_1529535
+*LUI:	[- eng] you went outside to smoke . 1529547_1530841
+*LUI:	[- eng] you were still smoking back then . 1530878_1532311
+*LUI:	[- eng] and I took you out +//. 1532478_1533279
+*LUI:	[- eng] you went outside to smoke . 1533291_1534162
+*LUI:	[- eng] I left you in the corner . 1534176_1534948
+*LUI:	[- eng] I said +"/. 1534948_1535343
+*LUI:	+" zzz so@s:eng I@s:eng can@s:eng watch@s:eng you@s:eng from@s:eng the@s:eng window@s:eng . 1535633_1537282
+*LUI:	[- eng] remember ? 1537282_1537816
+*AVA:	zzz . 1537817_1538990
+*AVA:	zzz . 1539071_1540197
+*AVA:	zzz . 1540221_1542101
+*AVA:	zzz . 1542949_1547198
+*AVA:	zzz . 1547549_1549482
+*AVA:	zzz . 1549470_1551107
+*AVA:	zzz . 1551113_1552552
+*AVA:	zzz . 1552916_1556904
+*AVA:	zzz . 1557008_1560752
+*AVA:	zzz . 1562010_1563926
+*LUI:	[- eng] <will you> [?] kick his ass ? 1564297_1565255
+*AVA:	zzz +//. 1565324_1565909
+*AVA:	zzz . 1565915_1567204
+*LUI:	+< &=laugh ! 1566524_1567981
+*AVA:	zzz . 1567758_1568821
+*AVA:	zzz . 1568919_1569860
+*LUI:	ah@s:eng&spa o_k@s:eng&spa . 1569064_1569825
+*AVA:	no . 1570034_1570533
+*LUI:	[- eng] how many can you beat up at one time &a ? 1570648_1572640
+*AVA:	[- eng] &=laugh I don't know &=laugh ! 1573345_1576462
+*LUI:	+< &=laugh . 1574378_1575116
+*LUI:	[- eng] I beat up +... 1576437_1577394
+*LUI:	[- eng] er one time I beat up six guys one time when I was a transit cop . 1578110_1581030
+*AVA:	zzz ! 1580948_1584762
+*LUI:	+< &=laugh . 1583624_1584942
+*AVA:	&=laugh ! 1584915_1585809
+*LUI:	+" zzz ! 1585443_1587945
+*LUI:	+" zzz . 1588253_1591156
+*AVA:	&=laugh . 1590472_1591784
+*AVA:	zzz . 1592437_1594405
+*LUI:	+< zzz . 1593708_1596111
+*LUI:	zzz Brooklyn@s:eng&spa . 1596262_1599362
+*LUI:	zzz . 1599539_1602905
+*AVA:	sí . 1603004_1603492
+*LUI:	+< [- eng] trust me . 1603225_1603840
+*LUI:	[- eng] oh yeah ! 1603828_1604734
+*LUI:	[- eng] oh yeah ! 1605361_1605977
+*AVA:	zzz . 1606532_1609638
+*LUI:	[- eng] yeah and +..? 1609859_1610956
+*AVA:	zzz . 1611224_1616145
+*LUI:	+< [- eng] little bit funny . 1615210_1616238
+*AVA:	zzz . 1616472_1620332
+*LUI:	[- eng] aha . 1620373_1620878
+*AVA:	zzz . 1620787_1624943
+*AVA:	zzz . 1624990_1627156
+*AVA:	zzz . 1627885_1629220
+*LUI:	&=laugh ! 1629238_1630225
+*AVA:	ah@s:eng&spa +... 1630108_1630851
+*AVA:	zzz . 1631593_1634472
+*LUI:	[- eng] right . 1634470_1634964
+*AVA:	zzz . 1635781_1639583
+*LUI:	[- eng] right . 1639624_1640030
+*AVA:	zzz . 1640289_1643755
+*AVA:	zzz . 1644326_1648047
+*AVA:	zzz <a@s:eng holy@s:eng> [/] a@s:eng holy@s:eng rosary@s:eng (.) zzz . 1648152_1653223
+*AVA:	zzz . 1653755_1660019
+*AVA:	zzz . 1661355_1665320
+*LUI:	&=grunt . 1665256_1665860
+*AVA:	zzz . 1665793_1667581
+*AVA:	zzz . 1668157_1674834
+*AVA:	zzz . 1675448_1677874
+*AVA:	zzz . 1678159_1679314
+*AVA:	zzz &=hiccup +"/. 1679874_1681894
+*AVA:	+" zzz ? 1682016_1686022
+*LUI:	[- eng] oh my god ! 1686047_1686784
+*AVA:	zzz . 1686606_1688910
+*LUI:	[- eng] oh shit ! 1688510_1689323
+*AVA:	zzz . 1689642_1691302
+*LUI:	&=grunt . 1691337_1691673
+*AVA:	zzz . 1691750_1694734
+*AVA:	zzz . 1695016_1697860
+*AVA:	zzz . 1699240_1701411
+*AVA:	zzz . 1701730_1706885
+*AVA:	zzz +/. 1706897_1710961
+*LUI:	++ zzz subway@s:eng [?] . 1710652_1711477
+*AVA:	zzz . 1711804_1714933
+*LUI:	++ zzz right@s:eng . 1714100_1715325
+*AVA:	zzz . 1715250_1719580
+*LUI:	[- eng] oh shit ! 1719581_1720354
+*AVA:	zzz . 1720481_1721004
+*LUI:	zzz . 1720978_1724386
+*LUI:	zzz . 1725046_1728187
+*LUI:	and@s:eng that's@s:eng when@s:eng I@s:eng thought@s:eng zzz with@s:eng the@s:eng car@s:eng . 1728747_1731876
+*AVA:	+< zzz . 1731314_1732022
+*LUI:	[- eng] wait a minute ! 1731941_1732661
+*LUI:	zzz . 1732748_1734100
+*LUI:	zzz . 1735081_1739735
+*AVA:	&=gasp ! 1740063_1741044
+*LUI:	zzz . 1740754_1742640
+*LUI:	zzz . 1742779_1745153
+*AVA:	zzz . 1744770_1746250
+*LUI:	+< [- eng] but it +//. 1745774_1746186
+*LUI:	[- eng] no they saved it . 1746180_1747457
+*LUI:	zzz . 1747629_1751269
+*LUI:	zzz and@s:eng the@s:eng [?] arm@s:eng exploded@s:eng . 1751498_1756572
+*LUI:	zzz everything@s:eng went@s:eng flying@s:eng out@s:eng like@s:eng this@s:eng . 1756832_1759154
+*AVA:	+< zzz ! 1758718_1760181
+*LUI:	+< zzz . 1759357_1761116
+*AVA:	zzz ! 1761472_1762552
+*LUI:	+< zzz . 1761938_1765932
+*LUI:	[- eng] I hated those sons of bitches . 1766071_1767737
+*LUI:	[- eng] I'll tell you the truth . 1768052_1768836
+*LUI:	[- eng] I hated them . 1768836_1769793
+*LUI:	[- eng] and [?] they didn't like me very much either . 1770179_1771607
+*LUI:	[- eng] but I hated them with a passion boy ! 1771603_1773594
+*LUI:	zzz . 1774181_1776462
+*LUI:	[- eng] I said +"/. 1777045_1777527
+*LUI:	+" [- eng] look ! 1777510_1777893
+*LUI:	when@s:eng Susie@s:eng&spa saw@s:eng that@s:eng I@s:eng was@s:eng going@s:eng after@s:eng somebody@s:eng she@s:eng says@s:eng +"/. 1780178_1782651
+*LUI:	+" [- eng] goodbye ! 1782697_1783208
+*LUI:	+" [- eng] I'll see you when you catch (th)em . 1783214_1784433
+*LUI:	[- eng] because I would not come home until I got that son o(f) bitch in jail . 1784679_1787123
+*LUI:	[- eng] I would not come home . 1787123_1788278
+*LUI:	[- eng] I would not come home until I &kwa +//. 1788729_1790122
+*LUI:	[- eng] I would sleep in the van like a bum . 1790116_1791870
+*LUI:	[- eng] I would sleep in my van like a bum . 1792115_1793845
+*LUI:	[- eng] shave in the courthouse and shit . 1793999_1795717
+*LUI:	[- eng] I'm serious ! 1795717_1796652
+*LUI:	I@s:eng would@s:eng take@s:eng a@s:eng change@s:eng of@s:eng clothing@s:eng zzz no@s:eng [?] shit@s:eng . 1797215_1800285
+*LUI:	[- eng] and I'd keep on fucking going . 1800291_1801458
+*AVA:	sí . 1800291_1800744
+*LUI:	[- eng] no no no . 1801433_1802164
+*LUI:	[- eng] until I caught those sons of bitches . 1802673_1804269
+*AVA:	+< zzz . 1803125_1808746
+*AVA:	zzz +/. 1809506_1810638
+*LUI:	zzz . 1810569_1812972
+*AVA:	&=laugh . 1812722_1813384
+*LUI:	xxx +/. 1813833_1815069
+*AVA:	+< zzz . 1814088_1816398
+*AVA:	zzz . 1816688_1821494
+*LUI:	+< &=laugh . 1819520_1820176
+*AVA:	zzz +/. 1822605_1825089
+*LUI:	right@s:eng zzz . 1824730_1826748
+*AVA:	zzz . 1826730_1827990
+*AVA:	zzz . 1828690_1831244
+*AVA:	zzz . 1831494_1836400
+*AVA:	zzz . 1836525_1839259
+*LUI:	+< [- eng] no I know . 1838708_1839706
+*AVA:	zzz . 1839711_1843635
+*AVA:	zzz . 1843917_1852419
+*LUI:	[- eng] oh yeah the metal one . 1852411_1853619
+*AVA:	zzz . 1853282_1854771
+*LUI:	[- eng] yeah ? 1854771_1855189
+*AVA:	zzz . 1855022_1857338
+*AVA:	zzz +/. 1858018_1858622
+*LUI:	+< [- eng] where did you buy it ? 1858134_1858878
+*LUI:	zzz ? 1859374_1860599
+*AVA:	zzz . 1859798_1862416
+*LUI:	+< [- eng] oh really ? 1861574_1862474
+*LUI:	ah@s:eng&spa o_k@s:eng&spa . 1862520_1863298
+*AVA:	zzz . 1863294_1866150
+*AVA:	zzz . 1866453_1867632
+*AVA:	zzz . 1867899_1871399
+*AVA:	zzz . 1871727_1874833
+*AVA:	zzz . 1874877_1879619
+*AVA:	zzz . 1880482_1888904
+*AVA:	zzz . 1889165_1892054
+*AVA:	zzz +... 1892181_1895297
+*LUI:	+< aha@s:eng&spa . 1893846_1894218
+*LUI:	&=noise . 1895432_1896181
+*AVA:	no . 1896105_1896668
+*LUI:	xxx +/. 1897448_1898389
+*AVA:	+< zzz +... 1897582_1899608
+*AVA:	zzz . 1900492_1905083
+*AVA:	zzz . 1905235_1908747
+*AVA:	zzz . 1913353_1914491
+*AVA:	zzz . 1915538_1916995
+*AVA:	zzz . 1917184_1919575
+*AVA:	zzz . 1921275_1925973
+*LUI:	+< [- eng] right . 1925555_1926008
+*AVA:	zzz . 1926433_1931167
+*LUI:	zzz . 1932696_1934339
+*AVA:	zzz . 1933776_1935912
+*AVA:	zzz . 1935993_1938651
+*AVA:	zzz . 1939193_1942583
+*AVA:	zzz . 1942823_1943897
+*LUI:	[- eng] it was the wind . 1943825_1944690
+*LUI:	[- eng] the wind does that a lot . 1944673_1945996
+*LUI:	[- eng] happens at my house all the time . 1946721_1947957
+*LUI:	you@s:eng feel@s:eng the@s:eng door@s:eng zzz . 1947986_1950848
+*AVA:	aha@s:eng&spa . 1950969_1951776
+*LUI:	[- eng] but just pushing on it you know ? 1951387_1952879
+*AVA:	aha@s:eng&spa . 1952728_1953529
+*LUI:	zzz . 1953175_1953959
+*AVA:	zzz . 1954027_1956088
+*AVA:	zzz . 1957218_1960370
+*AVA:	zzz . 1961547_1964130
+*AVA:	zzz . 1964476_1967848
+*AVA:	zzz . 1969382_1972488
+*AVA:	zzz &=grunt . 1973433_1975934
+*AVA:	zzz +/. 1979837_1981514
+*LUI:	zzz Herbert_Dole@s:eng&spa ? 1980905_1983082
+*AVA:	no . 1983615_1984196
+*LUI:	zzz . 1984346_1986610
+*LUI:	zzz . 1986989_1990239
+*AVA:	zzz . 1990274_1991418
+*LUI:	little itty_bitty man they call teacup ["] . 1991447_1994013
+*AVA:	zzz . 1994925_1997479
+*AVA:	zzz . 1997694_2003081
+*LUI:	no . 2003349_2003849
+*AVA:	zzz <zzz> [=! laughs] . 2004263_2008948
+*LUI:	[- eng] oh yeah yeah yeah &=laugh ! 2009127_2012308
+*AVA:	&=laugh &=claps_hands ! 2010091_2012308
+*LUI:	we@s:eng saw@s:eng one@s:eng at@s:eng the@s:eng flea@s:eng market@s:eng &e near@s:eng Sally's@s:eng&spa+eng house@s:eng . 2012896_2016489
+*LUI:	zzz . 2016868_2019712
+*LUI:	zzz ! 2020037_2021599
+*LUI:	zzz . 2021610_2023224
+*LUI:	zzz . 2023918_2025270
+*AVA:	wow@s:eng&spa ! 2024307_2025793
+*LUI:	zzz . 2025735_2027430
+*LUI:	zzz pink@s:eng . 2028060_2032981
+*AVA:	sí . 2033978_2034727
+*LUI:	zzz +"/. 2035009_2037087
+*LUI:	+" [- eng] hey where (di)d that pink dog come from ? 2037093_2038567
+*LUI:	+" [- eng] no that dog is white . 2038573_2039653
+*LUI:	+" [- eng] but I was baking a cake the other day son of a bitch <fell on> [?] the filling ! 2040366_2043315
+*LUI:	[- eng] he had a big <thing of> [?] +//. 2043873_2045087
+*LUI:	porque the@s:eng icing@s:eng of@s:eng the@s:eng cake@s:eng (.) was@s:eng pink@s:eng was@s:eng for@s:eng our@s:eng girl's@s:eng birthday@s:eng . 2045127_2049130
+*LUI:	[- eng] and the dog was like [?] &la &la licking it and [?] fell in the fucking pot ! 2049460_2052311
+*AVA:	zz ! 2052402_2053336
+*LUI:	&=laugh ! 2052808_2054596
+*AVA:	zzz . 2054718_2057429
+*AVA:	zzz . 2057965_2061709
+*AVA:	zzz . 2062091_2064651
+*AVA:	zzz . 2064989_2067590
+*AVA:	zzz . 2067677_2069894
+*AVA:	zzz . 2069970_2072832
+*AVA:	zzz . 2073102_2078310
+*AVA:	zzz ? 2078728_2079768
+*LUI:	zzz [=! laughs] zzz . 2079530_2081103
+*AVA:	zzz . 2081081_2084128
+*AVA:	zzz . 2084127_2087070
+*LUI:	[- eng] oh a scooper thing . 2086814_2087842
+*AVA:	&=grunt aha@s:eng&spa . 2087476_2088544
+*AVA:	zzz . 2088941_2091049
+*AVA:	zzz . 2091072_2092494
+*AVA:	zzz . 2092523_2095478
+*AVA:	no ! 2095728_2096483
+*AVA:	zzz . 2096663_2098781
+*LUI:	[- eng] yeah ? 2098835_2099322
+*LUI:	[- eng] that's the last time huh ? 2099421_2100518
+*AVA:	+< zzz . 2099758_2101470
+*AVA:	zzz . 2101884_2106992
+*LUI:	[- eng] hmm . 2107166_2107596
+*AVA:	zzz . 2107747_2115925
+*AVA:	zzz . 2116228_2124401
+*AVA:	zzz . 2124844_2126469
+*LUI:	[- eng] right . 2126621_2127214
+*AVA:	zzz &=claps_hands . 2127317_2131839
+*AVA:	zzz +/. 2132263_2133918
+*LUI:	+< zzz that's@s:eng why@s:eng . 2133059_2135758
+*AVA:	+< ah@s:eng&spa ! 2135143_2135787
+*LUI:	&=mumble . 2136136_2136647
+*AVA:	+< zzz . 2136217_2138874
+*LUI:	zzz ? 2139700_2140303
+*AVA:	sí sí sí zzz . 2140210_2144575
+*AVA:	zzz . 2144737_2146792
+*AVA:	zzz . 2147314_2151132
+*LUI:	zzz <that's@s:eng not@s:eng one@s:eng twenty@s:eng> [?] . 2151028_2152805
+*AVA:	aha@s:eng&spa . 2152850_2153379
+*AVA:	zzz . 2153622_2158387
+*AVA:	zzz . 2158405_2161969
+*AVA:	zzz . 2162048_2164869
+*AVA:	no no no no no . 2165362_2166767
+*AVA:	zzz . 2167029_2168509
+*LUI:	[- eng] remind me the next time I'm at your house I have to measure it . 2168501_2170678
+*LUI:	zzz . 2170722_2173085
+*AVA:	+< zzz . 2172371_2173642
+*AVA:	zzz . 2174428_2176965
+*AVA:	zzz . 2177080_2180325
+*AVA:	zzz . 2180583_2184612
+*AVA:	zzz . 2185233_2188966
+*AVA:	zzz . 2189616_2192432
+*LUI:	zzz . 2193186_2193807
+*AVA:	zzz . 2193747_2196220
+*AVA:	zzz . 2196581_2199066
+*AVA:	zzz . 2199396_2201636
+*AVA:	zzz . 2202471_2204590
+*AVA:	zzz . 2204671_2206611
+*LUI:	zzz . 2206593_2208107
+*LUI:	[- eng] they're all big . 2208107_2208879
+*AVA:	zzz +/. 2209575_2210614
+*LUI:	+< zzz . 2210220_2212437
+*LUI:	zzz . 2213268_2219428
+*LUI:	zzz freezer@s:eng . 2219797_2222857
+*LUI:	right@s:eng [?] zz freezer@s:eng zzz . 2222880_2224772
+*AVA:	+< zzz . 2222989_2223912
+*LUI:	zzz . 2225102_2226983
+*LUI:	zzz . 2227516_2228962
+*AVA:	zzz . 2230471_2232300
+*LUI:	yeah@s:eng zz . 2232439_2233751
+*AVA:	zzz . 2233819_2234841
+*LUI:	[- eng] one ninety seven we paid for that thing . 2234829_2236669
+*LUI:	zzz two@s:eng hundred@s:eng dollars@s:eng . 2237610_2239520
+*AVA:	zzz . 2238580_2241814
+*AVA:	zzz . 2241906_2243752
+*AVA:	zzz . 2244489_2247525
+*AVA:	zzz . 2247561_2252089
+*LUI:	[- eng] really ? 2252358_2252886
+*AVA:	zzz +/. 2252828_2253847
+*LUI:	+< zzz ? 2252970_2254062
+*AVA:	zzz . 2254026_2257254
+*LUI:	so@s:eng zzz no ? 2257720_2259751
+*AVA:	+< zzz +/. 2258219_2258939
+*AVA:	zz . 2259730_2260502
+*LUI:	zzz ? 2260653_2261547
+*LUI:	no ! 2261541_2262116
+*AVA:	zzz . 2262083_2263673
+*LUI:	wow@s:eng&spa ! 2263941_2264655
+*LUI:	zzz . 2264696_2266681
+*LUI:	zzz . 2266834_2268048
+*AVA:	+< zzz . 2267247_2268901
+*LUI:	zz . 2268942_2269697
+*AVA:	zzz . 2269968_2271361
+*LUI:	zzz ? 2271338_2273166
+*AVA:	zzz . 2273386_2274953
+*LUI:	&=laugh zz ! 2274981_2277152
+*LUI:	zzz . 2277951_2279170
+*AVA:	+< zzz . 2278456_2282024
+*LUI:	zz . 2282009_2282479
+*AVA:	zzz . 2282606_2287453
+*LUI:	[- eng] right . 2287509_2287857
+*AVA:	zzz . 2288205_2291943
+*AVA:	zzz . 2292278_2294971
+*AVA:	zzz . 2295308_2297317
+*LUI:	oh@s:eng&spa zzz H_D@s:eng and@s:eng the@s:eng digital@s:eng bullshit@s:eng zz ? 2297496_2299946
+*AVA:	[- eng] right [?] . 2299783_2300434
+*LUI:	zzz no ? 2301032_2302588
+*AVA:	sí . 2302890_2303325
+*LUI:	[- eng] but that doesn't matter . 2303813_2305107
+*LUI:	[- eng] the cable company [?] takes care of that . 2305078_2306518
+*LUI:	[- eng] you can have any T_V you want . 2306524_2307900
+*AVA:	zz (..) zzz . 2309610_2315066
+*LUI:	[- eng] oh a flat screen ? 2315721_2317167
+*AVA:	zzz . 2318298_2321235
+*LUI:	+< [- eng] oh yeah . 2319215_2319842
+*LUI:	[- eng] <gotta baby> [?] . 2321918_2322847
+*LUI:	[- eng] very expensive . 2323096_2324124
+*LUI:	zzz . 2325722_2329860
+*AVA:	zzz . 2330085_2334538
+*LUI:	+< [- eng] I know . 2332837_2333487
+*LUI:	[- eng] but you don't have that kind of money Ma . 2334877_2336717
+*LUI:	[- eng] you can't afford a T_V like that . 2339027_2340826
+*AVA:	zzz . 2341608_2343588
+*LUI:	[- eng] yeah . 2343866_2344383
+*LUI:	zzz . 2345312_2347733
+*AVA:	zzz . 2350463_2353319
+*AVA:	zzz +... 2354637_2358057
+*AVA:	zzz . 2360883_2362456
+*LUI:	+< zz +/. 2360975_2361568
+*LUI:	[- eng] from the bank ? 2362855_2363575
+*AVA:	zzz +//. 2363157_2364208
+*AVA:	no no no no . 2364202_2365368
+*AVA:	zzz <zzz> [=! laughs] ! 2365367_2367637
+*LUI:	[- eng] oh that bank ! 2367893_2368926
+*LUI:	o_k@s:eng&spa . 2368967_2369414
+*AVA:	entonces (.) ah@s:eng&spa (.) zzz Dan@s:eng&spa zzz . 2369160_2377448
+*LUI:	+< I@s:eng remember@s:eng Dan@s:eng&spa yeah@s:eng . 2376226_2377585
+*AVA:	zz Dan@s:eng&spa zzz . 2377802_2380124
+*AVA:	zzz . 2380102_2382859
+*AVA:	zzz . 2382865_2386098
+*AVA:	zz Dan@s:eng&spa zzz . 2386170_2391688
+*AVA:	zzz . 2392064_2394537
+*LUI:	zzz Dan@s:eng&spa zz . 2394112_2396022
+*AVA:	zzz . 2395709_2397102
+*LUI:	[- eng] oh good . 2397113_2397711
+*AVA:	zzz . 2397813_2401354
+*AVA:	zzz . 2401423_2405254
+*AVA:	zzz . 2405842_2411679
+*AVA:	zzz . 2411991_2417868
+*AVA:	zzz . 2418017_2420966
+*AVA:	zzz . 2421320_2426649
+*LUI:	[- eng] mmhm . 2426603_2427201
+*AVA:	entonces (.) zzz (..) zzz . 2427401_2435537
+*AVA:	zzz . 2437058_2441017
+*AVA:	zzz . 2442700_2446224
+*AVA:	zzz . 2446294_2447843
+*AVA:	zzz . 2448604_2451013
+*LUI:	zzz ? 2451298_2453045
+*AVA:	sí . 2452964_2453492
+*AVA:	zzz +/. 2453953_2457407
+*LUI:	zzz . 2457129_2458238
+*AVA:	zzz . 2458260_2460617
 @End
