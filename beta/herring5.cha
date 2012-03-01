@@ -3,16 +3,16 @@
 @Begin
 @Languages:	spa, eng
 @Participants:	NOA Noah Adult, MEG  Megan Adult
-@ID:	spa, eng|bangor3|NOA||male|||Adult||
-@ID:	spa, eng|bangor3|MEG||female|||Adult||
-@Situation:	Couple
+@ID:	spa, eng|Miami|NOA|40;|male|||Adult||
+@ID:	spa, eng|Miami|MEG|41;|female|||Adult||
+@Situation:	Informal conversation between a couple at their house
 @Date:	19-MAR-2008
-@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University, Fraibet Aveledo, Bangor University.    Original translation by Olga Vert Bolaños.
+@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University and Fraibet Aveledo, Bangor University.   Original translation by Olga Vert Bolaños.
+@Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:27:10
 @Media:	herring5, audio
-@Comment:	Filename: herring5.CHA; Soundfile: herring5.wav
-@Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
-@Warning:	during the transcription there are important background noises.
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
+@Warning:	Extensive background noise
 @Warning:	translations need to be filled in; marked with "vvv" (also some questions in comment tiers)
 *NOA:	yo le estaba diciendo que [/] que hay gente que . 6_3210
 %eng:	I was telling him that there are people who

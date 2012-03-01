@@ -3,16 +3,15 @@
 @Begin
 @Languages:	spa, eng
 @Participants:	MIG Miguel Adult, TIM Timothy Adult
-@ID:	spa, eng|bangor3|MIG||male|||Adult|
-@ID:	spa, eng|bangor3|TIM||male|||Adult||
-@Situation:	lunch hour in the office .
-@Comment:	This is a 2nd recording of MIG although this time he is talking with a different friend. Last time MIG mentioned that he had made an unnatural effort to speak less English than he usually does with his friends. Phone conversation.
-@Date:	31-MAR-2008
-@Coder:	M. Carmen Parafita Couto, Prifysgol Bangor University.  Original translation by Adriana Acevedo.
-@Media:	herring12 audio
+@ID:	spa, eng|Miami|MIG|22;|male|||Adult|
+@ID:	spa, eng|Miami|TIM|20;|male|||Adult||
+@Situation:	Informal conversation at Miguel's home
+@Date:	27-MAR-2008
+@Transcriber:	M. Carmen Parafita Couto, Prifysgol Bangor University.   Original translation by Adriana Acevedo.
+@Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:33:06
-@Comment:	Filename: herring12.cha; Soundfile: herring12.wav
-@Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
+@Media:	herring12, audio
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 *MIG:	cuándo vamos a salir ? 151_1422
 %eng:	when are we going out?
 *TIM:	no sé un día de estos . 1399_2670

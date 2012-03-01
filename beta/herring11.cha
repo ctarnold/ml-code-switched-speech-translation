@@ -3,15 +3,15 @@
 @Begin
 @Languages:	spa, eng
 @Participants:	CAL Caleb Adult, GRA Grace Adult
-@ID:	spa, eng|bangor3|CAL||male|||Adult||
-@ID:	spa, eng|bangor3|GRA||female|||Adult||
-@Situation:	brother and sister
+@ID:	spa, eng|Miami|CAL|64;|male|||Adult||
+@ID:	spa, eng|Miami|GRA|63;|female|||Adult||
+@Situation:	Informal conversation between brother and sister
 @Date:	26-MAR-2008
-@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University.    Original translation by Adriana Acevedo.
+@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University.   Original translation by Adriana Acevedo.
+@Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:31:00
 @Media:	herring11, audio
-@Comment:	Filename: herring11.CHA; Soundfile: herring11.wav
-@Comment:	Language markers: @s:eng = English, @s:ita= Italian, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:ita = Italian, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 *GRA:	es &e <en la> [//] en la primera vez que lo tocaron en mil ochocientos seis . 99_6838
 %eng:	it's the first time they played it, in 1810
 *CAL:	uhuh@s:eng&spa . 6936_7818

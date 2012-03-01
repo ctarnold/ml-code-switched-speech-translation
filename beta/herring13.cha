@@ -2,15 +2,17 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	LEA Leah Adult, VAN Vanessa Adult, OSE Any Adult
-@ID:	spa, eng|bangor3|LEA||female|||Adult||
-@ID:	spa, eng|bangor3|VAN||female|||Adult||
+@Participants:	LEA Leah Adult, VAN Vanessa Adult, OSE non_participant Adult
+@ID:	spa, eng|Miami|LEA|?;|female|||Adult||
+@ID:	spa, eng|Miami|VAN|32;|female|||Adult||
+@ID:	spa, eng|Miami|OSE|?;|?|||Adult||
 @Situation:	Conversation between coworkers
 @Date:	31-MAR-2008
-@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University.    Original translation by Mary Silva.
+@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University. Original translation by Mary Silva.
+@Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:29:54
 @Media:	herring13, audio
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	Speakers are talking about their clients, thus names need bleeping out! Also possibly all utterances by OSE
 *VAN:	o_k@s:eng&spa o_k@s:eng&spa so eso@s:spa these are new right ? 17_3158
 %eng:	ok ok so that, these are new, right?

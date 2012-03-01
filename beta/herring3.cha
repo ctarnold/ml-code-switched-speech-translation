@@ -2,17 +2,16 @@
 @UTF8
 @Begin
 @Languages:	spa, eng
-@Participants:	ASH Ashley Adult, JAC Jack Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|ASH|36;2.|female|||Adult||
-@ID:	spa, eng|bangor3|JAC|41;9.|male|||Adult||
-@Media:	herring3, audio
-@Situation:	ASH and JAC are friends. Here they chat and play pool in the communal lounge area of the apartment block where ASH lives and works, in downtown Miami.
-@Comment:	SES background etc?
+@Participants:	ASH Ashley Adult, JAC Jack Adult, OSE non_participant Adult
+@ID:	spa, eng|Miami|ASH|37;|female|||Adult||
+@ID:	spa, eng|Miami|JAC|41;|male|||Adult||
+@Situation:	Informal conversation in the communal lounge area of the apartment block where Ashley lives and works
 @Date:	12-MAR-2008
-@Coder:	Jon Russell Herring, M. Carmen Parafita Couto, Prifysgol Bangor University.    Original translation by Mary Silva.
+@Transcriber:	Jon Russell Herring and M. Carmen Parafita Couto, Bangor University.    Original translation by Mary Silva.
+@Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:31:37
-@Comment:	Filename: herring3.CHA; Soundfile: herring3.wav
-@Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
+@Media:	herring3, audio
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 *ASH:	me dice ella que trabaja en una tienda de [/] (.) de furniture@s:eng . 1_5369
 %eng:	she tells me that she works in a furniture store.
 *ASH:	entonces le digo yo +"/. 5960_6921

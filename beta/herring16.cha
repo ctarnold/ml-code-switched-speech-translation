@@ -3,16 +3,15 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	ABE Abel Adult, IAN Ian Adult
-@ID:	spa, eng|bangor3|ABE||male|||Adult|
-@ID:	spa, eng|bangor3|IAN||male|||Adult||
-@Situation:	in the living room at ABE's home.
+@ID:	spa, eng|Miami|ABE|24;|male|||Adult|
+@ID:	spa, eng|Miami|IAN|30;|male|||Adult||
+@Situation:	Informal conversation at Abel's house
 @Date:	12-APR-2008
-@Coder:	M. Carmen Parafita Couto, Prifysgol Bangor University.    Original translation by Marika Fusser.
+@Transcriber:	M. Carmen Parafita Couto, Bangor University.   Original translation by Marika Fusser.
+@Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:30:51
 @Media:	herring16, audio
-@Comment:	Filename: herring16.cha; Soundfile: herrring16.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-@Comment:	SHOULDN'T PERSONAL TELEPHONE NUMBERS, E-MAIL ADDRESSES ETC BE ANONYMISED AND BEEPED OUT (utterance 114 onwards)?
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Comment:	ABE is talking on the phone.
 *ABE:	[- spa] ya saliste [=! laughs] ? 23_10850
 %eng:	have you gone already?
@@ -195,18 +194,18 @@
 *IAN:	ok@s:eng&spa what's your phone number ? 413970_415595
 *ABE:	you don't know my phone number ? 415604_418106
 *IAN:	you know I don't . 418089_419575
-*ABE:	seven eight six five eight seven six two one three . 419544_423306
+*ABE:	www five eight seven six two www . 419544_423306
 *IAN:	five eight seven . 423284_424480
-*ABE:	six two one three . 424463_427371
+*ABE:	six two www . 424463_427371
 *IAN:	ok@s:eng&spa four five five . 427371_431313
-*ABE:	north east twenty three street unit xxx Miami Florida three three one three seven . 431307_438277
+*ABE:	north www street unit xxx Miami Florida three three one three seven . 431307_438277
 @Comment:	silence
 *IAN:	three three seven right . 441486_442659
 *ABE:	three three one three seven . 442665_446293
 *IAN:	hey what's your &a email address ? 446299_449141
-*ABE:	[- spa] F_E_L_O_L_A_L uno a xxx . 449141_455470
-%eng:	FELOLAL1A [...].
-%com:	silence . 455469_480103
+*ABE:	[- spa] www_L_A_L uno a xxx . 449141_455470
+%eng:	[...] LAL1@ [...].
+@Comment:	silence . 455469_480103
 *IAN:	we are actually gonna be working on a project for um@s:eng&spa (.) set up a(t) [/] at the botanical gardens . 480030_487203
 *IAN:	we have to be there at six thirty in the morning . 487168_489554
 *ABE:	hmm@s:eng&spa ? 489528_490468
