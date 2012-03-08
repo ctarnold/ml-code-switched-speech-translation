@@ -1,17 +1,17 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
 @Participants:	ETH Ethan Adult, HEN Henry Adult
-@ID:	spa, eng|bangor3|ETH||male|||Adult||
-@ID:	spa, eng|bangor3|HEN||male|||Adult||
-@Situation:	ETH and HEN are neighbours and have a conversation at HEN's house.
+@ID:	spa, eng|Miami|ETH|40;|male|||Adult||
+@ID:	spa, eng|Miami|HEN|?;|male|||Adult||
+@Situation:	Informal conversation between neighbours at Ethan's house
 @Date:	09-MAR-2008
-@Transcriber:	M. Carmen Parafita Couto, Prifysgol Bangor University.  Translated by Vanesa Bonavota.
-@Media:	zeledon4, audio
+@Transcriber:	M. Carmen Parafita Couto, Bangor University. Original translation by Vanesa Bonavota García
+@Comment:	Researcher: Marilyn Zeledón
 @Time Duration:	00:21:48
-@Comment:	Filename: zeledon4.cha; Soundfile: zeledon4.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Media:	zeledon4, audio
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *HEN:	el@s:spa tema@s:spa (.) es@s:spa <de@s:spa lo@s:spa que@s:spa> [//] <de@s:spa lo@s:spa> [//] del@s:spa mani(cure) [/] manicure y@s:spa pedicure que@s:spa los@s:spa hombres@s:spa se@s:spa hacen@s:spa . 6_9917
 %eng:	the theme is the manicure and pedicure that men get.
 *HEN:	[- spa] qué piensa usted de eso ? 9901_13181

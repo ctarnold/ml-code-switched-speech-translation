@@ -1,17 +1,18 @@
-@Font:	Win95:Lucida Sans Unicode:-16:0
+@Font:	Win95:Arial:-16:0
 @UTF8
 @Begin
 @Languages:	spa, eng
-@Participants:	JAS Jasmine Adult, NAT  Natahniel Adult, OSE Unidentified
-@ID:	spa, eng|bangor3|JAS||female|||Adult||
-@ID:	spa, eng|bangor3|NAT||male|||Adult||
-@Situation:	the recording takes place in a classroom.
-@Date:	00-MAR-2008
-@Transcriber:	M. Carmen Parafita Couto, Prifysgol Bangor University
-@Time Duration:	00:30:25
+@Participants:	JAS Jasmine Adult, NAT Nathaniel Adult, OSE non_participant Adult
+@ID:	spa, eng|Miami|JAS|19;|female|||Adult||
+@ID:	spa, eng|Miami|NAT|21;|male|||Adult||
+@ID:	spa, eng|Miami|OSE|?;|?|||Adult||
+@Situation:	Informal conversation between a couple at Florida International University
+@Date:	12-MAR-2008
+@Transcriber:	M. Carmen Parafita Couto, Bangor University.  Original translation by Vanesa Bonavota García
+@Comment:	Researcher: Marilyn Zeledón
+@Time Duration:	00:30:21
 @Media:	zeledon7, audio
-@Comment:	Filename: zeledon7.CHA; Soundfile: zeledon7.wav
-@Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English
 *NAT:	[- eng] that's your mom's opinion . 12_2194
 *NAT:	[- eng] and your dad's opinon . 2181_2645
 *NAT:	[- eng] and I'm xxx my [/] my [/] my parents' opinion . 2657_4677
@@ -19,8 +20,8 @@
 *NAT:	[- eng] don't you think ? 7457_9588
 *JAS:	xxx . 9605_11225
 *JAS:	[- eng] criticones xxx . 11238_13281
-*NAT:	[- eng] yous not mine . 13293_15150
-*NAT:	well@s:eng my@s:eng dad@s:eng yeah@s:eng&spa@s:eng&spa big@s:eng time@s:eng . 15117_16865
+*NAT:	[- eng] yours not mine . 13293_15150
+*NAT:	well@s:eng my@s:eng dad@s:eng yeah@s:eng&spa big@s:eng time@s:eng . 15117_16865
 *JAS:	&=laughing . 16725_17927
 *JAS:	imagínate@s:eng tu papá xxx tu mamá . 18020_19591
 %eng:	picture your dad [...] your mom.
@@ -103,7 +104,7 @@
 *JAS:	claro por la noche es más rico . 81731_84129
 %eng:	sure, during the night it's better.
 *JAS:	[- eng] when we go walk . 87039_88298
-*NAT:	yeah@s:eng&spa@s:eng&spa but@s:eng are we@s:eng gonna@s:eng do@s:eng this@s:eng +..? 88277_89945
+*NAT:	yeah@s:eng&spa but@s:eng are we@s:eng gonna@s:eng do@s:eng this@s:eng +..? 88277_89945
 *NAT:	[- eng] it's six twenty five . 89933_92557
 *JAS:	[- eng] and how long have we been talking for ? 92543_95080
 *NAT:	[- eng] I've no idea . 95086_96113
@@ -316,11 +317,11 @@
 *NAT:	bueno mira a ver . 382753_383850
 %eng:	well, let's see.
 *NAT:	xxx . 384018_384744
-*JAS:	entonces dices +" . 384767_385092
+*JAS:	entonces dices +"/. 384767_385092
 %eng:	so tell them …
 *JAS:	+" ay pero qué pesar ! 385080_386828
 %eng:	oh, what a pain!
-*JAS:	xxx she@s:eng said@s:eng today@s:eng es que +" . 386856_388273
+*JAS:	xxx she@s:eng said@s:eng today@s:eng es que +"/. 386856_388273
 %eng:	[...] she said today that…
 *JAS:	+" oh Diego@s:eng&spa yo hoy no voy a rendir . 388267_390101
 %eng:	oh, Diego today I'm not gong to last
@@ -370,7 +371,7 @@
 %eng:	that was what she told me.
 *NAT:	y tú qué dijiste ? 425436_427410
 %eng:	and what did you say?
-*JAS:	[- eng] baby I told her that +// . 427450_428837
+*JAS:	[- eng] baby I told her that +//. 427450_428837
 *NAT:	+< tú le dijiste que cierre temprano . 427837_429120
 %eng:	you told her to close early.
 *NAT:	xxx qué te respondió ? 429166_430072
@@ -570,7 +571,7 @@
 *JAS:	[- eng] mmhm . 597160_597549
 *JAS:	me dirá . 597566_598031
 %eng:	he'll tell me.
-*JAS:	me dice +" . 598068_598607
+*JAS:	me dice +"/. 598068_598607
 %eng:	he tells me
 *JAS:	+" usted es la manager@s:eng ? 598665_599542
 %eng:	are you the manager?"
@@ -957,7 +958,7 @@
 *JAS:	tacones y t_shirt@s:eng . 1006243_1008142
 %eng:	high heels and t-shirt.
 *NAT:	para qué te vistes arreglada en el xxx de [/] de +... 1008275_1011361
-%eng:	why do you dress properly in the [...]…
+%eng:	why do you dress properly in the [...] of ...
 *JAS:	cómo que arregla(da) ? 1010363_1011535
 %eng:	what do you mean with properly?
 *NAT:	porque diez personas hay . 1011545_1013194

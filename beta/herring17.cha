@@ -1,18 +1,18 @@
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
 @Participants:	IRI Iris Adult, JAM James Adult
 @ID:	spa, eng|Miami|IRI|25;|female|||Adult||
-@ID:	spa, eng|Miami|JAM|?|male|||Adult||
-@Media:	herring17, audio
-@Situation:	ETH and HEN are neighbours and have a conversation at HEN's house.
-@Date:	09-MAR-2008
-@Transcriber:	Fraibet Aveledo and Jonathan Stammers, Prifysgol Bangor University
+@ID:	spa, eng|Miami|JAM|?;|male|||Adult||
+@Situation:	Informal conversation between two friends at a café
+@Date:	12-APR-2008
+@Transcriber:	Fraibet Aveledo and Jonathan Stammers, Bangor University.  Original translation by Kevin Donnelly
+@Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:29:58
-@Comment:	Filename: herring17.CHA; Soundfile: herring17.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English.
+@Media:	herring17, audio
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 @Warning:	www stretches in transcription: have speakers asked for these to be removed or are they still to be transcribed?
-@Warning:	no translations
 *JAM:	there are plenty of new um alternatives . 0_2537
 *IRI:	aha@s:eng&spa . 2595_3048
 *JAM:	regarding um birth control xx pills . 3065_5561
@@ -310,7 +310,7 @@
 *IRI:	[- spa] y después este estoy agitada y +//. 361751_364920
 %eng:	and then I get so agitated.
 *IRI:	y@s:spa como@s:spa que@s:spa crispy y@s:spa . 364897_367184
-%eng:	and. like, crispy, and 
+%eng:	and. like, crispy, and
 *IRI:	ah@s:eng&spa . 368002_369082
 *JAM:	+< <you know> [/] you [/] you know what ? 368792_369854
 *JAM:	consider <all the> [/] all the facts of ah@s:eng&spa just been a woman . 369885_373020
@@ -359,7 +359,7 @@
 %eng:	no, no, no, but that's better, because a caesarian.
 *JAM:	+< it [?] is not going to +//. 423342_424038
 *IRI:	+< [- spa] no la cesaria es peor la cesaria es peor . 424021_427393
-%eng:	no, a caesarian is worse, a caesarian is worse, 
+%eng:	no, a caesarian is worse, a caesarian is worse.
 *JAM:	+< no I know that it [///] I [/] I [/] I +//. 424532_426116
 *JAM:	but the [/] (.) the person will be able to keep the same shape and the [/] the muscle tone and everything . 427272_434121
 *IRI:	carajo@s:spa carajo@s:spa <you're thinking of> [//] you're thinking about oh@s:eng&spa <you don't want> [//] <I don't want> [/] I don't want my [/] my wife to have stretch out <her puss(y)> [//] her tight pussy . 432925_440096
@@ -1089,7 +1089,7 @@
 *IRI:	www . 1493820_1497808
 *JAM:	rave music ? 1498020_1498896
 *IRI:	[- spa] sí . 1498902_1499691
-%eng:	yes. 
+%eng:	yes.
 *JAM:	www ? 1499841_1500793
 *IRI:	[- spa] sí techno@s:eng&spa . 1500805_1501728
 %eng:	yes, techno.

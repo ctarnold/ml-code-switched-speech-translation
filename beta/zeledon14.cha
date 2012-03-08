@@ -1,18 +1,17 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial:-16:0
 @UTF8
 @Begin
 @Languages:	spa, eng
 @Participants:	HER Herminia Adult, LAR Laurie Adult
-@ID:	spa, eng|bangor3|HER||female|||Adult|
-@ID:	spa, eng|bangor3|LAR||female|||Adult||
-@Situation:	Two friends chatting
-@Comment:	Speakers use abbreviations for university and college names
-@Date:	27-MAR-2008
-@Coder:	Fraibet Aveledo, Prifysgol Bangor University
+@ID:	spa, eng|Miami|HER|22;|female|||Adult|
+@ID:	spa, eng|Miami|LAR|19;|female|||Adult||
+@Situation:	Informal conversation between two friends at Florida International University
+@Date:	10-APR-2008
+@Transcriber:	Fraibet Aveledo, Bangor University.  Original translation by Mary Silva
+@Comment:	Researcher: Marilyn Zeledón
 @Time Duration:	00:33:01
-@Media:	Zeledon14, audio
-@Comment:	Filename: zeledon14.CHA; Soundfile: zeledon14.wav
-@Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
+@Media:	zeledon14, audio
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English
 *HER:	y me dijo +"/. 6_1353
 %eng:	and he told me.
 *HER:	+< bartender@s:eng&spa . 1341_2316

@@ -1,16 +1,18 @@
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	JOC Jocelyn Adult, JEN  Jennifer Adult, OSE Unidentified
-@ID:	spa, eng|bangor3|JOC||female|||Adult||
-@ID:	spa, eng|bangor3|JEN||female|||Adult||
-@Situation:	the recording takes place between two cousins who are having dinner and drinks. They are having their weekly chit-chat session.
+@Participants:	JOC Jocelyn Adult, JEN Jennifer Adult, OSE non_participant Adult
+@ID:	spa, eng|Miami|JOC|35;|female|||Adult||
+@ID:	spa, eng|Miami|JEN|35;|female|||Adult||
+@ID:	spa, eng|Miami|OSE|?;||?||Adult||
+@Situation:	Informal conversation between two cousins
 @Date:	27-MAR-2008
-@Transcriber:	Diana Carter, Prifysgol Bangor University.  Translated by Ana Muerza Aguirre.
-@Time Duration:	00:39:40
+@Transcriber:	Diana Carter, Bangor University.  Original translation by Ana Muerza Aguirre
+@Comment:	Researcher: Lergia Sastre
+@Time Duration:	00:39:25
 @Media:	sastre10, audio
-@Comment:	Filename: sastre10.cha; Soundfile: sastre10.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *JEN:	ok . 6_940
 *JOC:	no@s:eng&spa pero@s:spa pobrecito@s:spa he's only forty five . 853_3175
 %eng:	no, but poor little thing, he's only forty five.

@@ -1,18 +1,17 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	spa, eng
 @Participants:	CAR Carolina Adult, AME  Amelia Adult
-@ID:	spa, eng|bangor3|CAR|21;5.|female|||Adult||
-@ID:	spa, eng|bangor3|AME|26;8.|female|||Adult||
-@Situation:	AME and CAR are classmates in an English compositon class at Florida International University. In this recording they are sitting in the classroom at the end of the evening. They already know each other from studying together but they talk about their childhoods and jobs.
-@Comment:	SES background etc?
+@ID:	spa, eng|Miami|CAR|21;|female|||Adult||
+@ID:	spa, eng|Miami|AME|26;|female|||Adult||
+@Situation:	Informal conversation between two classmates at Florida International University
 @Date:	04-MAR-2008
-@Transcriber:	Jon Russell Herring, Prifysgol Bangor University.  Translated by Jennifer Plaistowe, Australian National University.
+@Transcriber:	Jon Russell Herring, Bangor University.   Original translation by Jennifer Plaistowe
 @Time Duration:	00:29:39
 @Media:	zeledon1, audio
-@Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
-@Comment:	Proofread by Jorge Valdes Kroff, Penn State, 10/07/09
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English
+@Warning:	Proofread by Jorge Valdes Kroff, Penn State, 10/07/09
 @Warning:	untranslated bits marked "vvv"
 *AME:	y después volviste para acá . 0_1125
 %eng:	and after that you came back here.
@@ -29,7 +28,7 @@
 *CAR:	+, la universidad todo muy rico +... 7076_8332
 %eng:	university and everything is so great
 *CAR:	pero (..) como que no es lo mismo porque yo acostumbrada a toda mi vida aquí siempre . 8382_13111
-%eng:	but it's the same thing for me because I've always lived here and am used to it
+%eng:	but it's not the same thing for me because I've always lived here and am used to it
 *AME:	+< claro claro . 12614_13752
 %eng:	yes of course
 *CAR:	&ənt estar uh@s:eng&spa (.) en Colombia@s:eng&spa . 13632_15961

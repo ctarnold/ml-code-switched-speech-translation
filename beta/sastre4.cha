@@ -1,17 +1,17 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	EMI Emily Adult, GIA  Gianna Adult
-@ID:	spa, eng|bangor3|EMI||female|||Adult||
-@ID:	spa, eng|bangor3|GIA||female|||Adult||
-@Situation:	Two friends chatting
-@Date:	09-MAR-2008
-@Transcriber:	Fraibet Aveledo, Prifysgol Bangor  University
+@Participants:	EMI Emily Adult, GIA Gianna Adult
+@ID:	spa, eng|Miami|EMI|29;|female|||Adult||
+@ID:	spa, eng|Miami|GIA|22;|female|||Adult||
+@Situation:	Informal conversation between two co-workers at their workplace
+@Date:	14-MAR-2008
+@Transcriber:	Fraibet Aveledo, Bangor  University.  Original translation by Kevin Donnelly
+@Comment:	Researcher: Lergia Sastre
 @Time Duration:	00:31:26
 @Media:	sastre4, audio
-@Comment:	Filename: sastre4.CHA; Soundfile: satre4.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *EMI:	so listen (.) so if you give +//. 273_1707
 *EMI:	ok . 2310_2937
 *GIA:	I'm (gonn)a do it . 2769_3791

@@ -1,17 +1,17 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
 @Participants:	MAT Mathew Adult, REB Rebecca Adult
-@ID:	spa, eng|bangor3|MAT||male|||Adult|
-@ID:	spa, eng|bangor3|REB||female|||Adult||
-@Situation:	Outside a classroom at the Florida International University campus.
-@Comment:	MAT and REB are students in a composition class. They had never talked before this recording.
+@ID:	spa, eng|Miami|MAT|22;|male|||Adult|
+@ID:	spa, eng|Miami|REB|21;|female|||Adult||
+@Situation:	Informal conversation between two classmates at Florida International University
 @Date:	04-MAR-2008
-@Coder:	M. Carmen Parafita Couto, Prifysgol Bangor University
-@Time Duration:	00:26:35
+@Transcriber:	M. Carmen Parafita Couto, Bangor University.  Original translation by Kevin Donnelly
+@Comment:	Researcher: Marilyn Zeledón
+@Time Duration:	00:26:54
 @Media:	zeledon2, audio
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *MAT:	so where do you work ? 6_958
 *REB:	+< xxx I work well I'm currently employed by +//. 64_6822
 *REB:	I have my broker . 6793_7861

@@ -1,16 +1,17 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	PAO Paula Adult, AUD Audrey Adult
-@ID:	spa, eng|bangor3|PAO||female|||Adult||
-@ID:	spa, eng|bangor3|AUD||female|||Adult||
-@Situation:	PAO is AUD's granddaughter. They spend a lot of time together, since AUD takes her to school every day, and they are very close. The conversation takes place at the home of LIS.
+@Participants:	PAO Paola Teenager, AUD Audrey Adult
+@ID:	spa, eng|Miami|PAO|13;|female|||Teenager||
+@ID:	spa, eng|Miami|AUD|63;|female|||Adult||
+@Situation:	Informal conversation between Paola and her grandmother at a friend's house
 @Date:	21-MAR-2008
-@Transcriber:	Diana Carter, Prifysgol Bangor University
+@Transcriber:	Diana Carter, Bangor University.  Original translation by Vanesa Bonavota García
+@Comment:	Researcher: Lergia Sastre
 @Time Duration:	00:33:20
 @Media:	sastre8, audio
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which  untagged words are Spanish
 *AUD:	well usually before you go to the bed (.) you have to take him (.) &f to do pee pee . 104_4778
 *PAO:	yeah we did . 4685_5840
 *AUD:	but he still +... 5879_7046

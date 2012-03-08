@@ -1,17 +1,17 @@
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	spa, eng
 @Participants:	SOF Sofía Adult, KEV Kevin Adult
-@ID:	spa, eng|bangor3|SOF||female|||Adult|
-@ID:	spa, eng|bangor3|KEV||male|||Adult||
-@Media:	sastre1, audio
-@Situation:	SOF and KEV are neighbors and have lived in the same neighborhood for several years. They are sitting in the back porch of KEV's house which has a view out to a lake - and converse about plants and their neighborhood
-@Comment:
+@ID:	spa, eng|Miami|SOF|44;|female|||Adult|
+@ID:	spa, eng|Miami|KEV|57;|male|||Adult||
+@Situation:	Informal conversation between two neighbours at Kevin's house
 @Date:	02-MAR-2008
-@Coder:	M. Carmen Parafita Couto, Prifysgol Bangor University
+@Transcriber:	M. Carmen Parafita Couto, Bangor University.  Original translation by Sara Viñas Serantes.
+@Comment:	Researcher: Lergia Sastre
 @Time Duration:	00:33:52
-@Comment:	Filename: sastre1.CHA; Soundfile: sastre1.wav
-@Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
+@Media:	sastre1, audio
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 *KEV:	bueno y qué tú crees de [/] de aquí la cuadra lo que están haciendo ? 1538_4342
 %eng:	well, and what do you think about what they are doing here to the block?
 *KEV:	la rotondita esa do@s:eng you@s:eng like@s:eng that@s:eng ? 4336_6914

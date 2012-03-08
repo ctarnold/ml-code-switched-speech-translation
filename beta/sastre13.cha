@@ -1,16 +1,18 @@
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	COL Cole Adult, ELI  Elizabeth Adult, OSE Investigator
-@ID:	spa, eng|bangor3|COL||female|||Adult||
-@ID:	spa, eng|bangor3|ELI||female|||Adult||
-@Situation:	the speakers are friends through family and have known each other a long time.
+@Participants:	COL Cole Adult, ELI Elizabeth Adult, OSE Investigator Adult
+@ID:	spa, eng|Miami|COL|25;|female|||Adult||
+@ID:	spa, eng|Miami|ELI|19;|female|||Adult||
+@ID:	spa, eng|Miami|OSE|?;|female|||Adult||
+@Situation:	Informal conversation between friends
 @Date:	03-JUN-2008
-@Transcriber:	Diana Carter, Prifysgol Bangor University
+@Transcriber:	Diana Carter, Bangor University
+@Comment:	Researcher: Lergia Sastre
 @Time Duration:	00:29:43
 @Media:	sastre13, audio
-@Comment:	Filename: sastre13.CHA; Soundfile: sastre13.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *COL:	she is actually putting of her own money . 12_1625
 *COL:	like she +/. 1672_2281
 *ELI:	+< yeah but I think that they +... 1811_2990

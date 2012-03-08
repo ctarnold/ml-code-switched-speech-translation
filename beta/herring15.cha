@@ -3,15 +3,15 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	BRA Brandon Adult, EVN Evan Adult
-@ID:	eng, spa|bangor3|BRA|||||Adult|||
-@ID:	eng|bangor3|EVN|||||Adult|||
-@Media:	herring15, audio
-@Situation:	Two friends outside the library at Florida International University
+@ID:	spa, eng|Miami|BRA|21;|male|||Adult|||
+@ID:	spa, eng|Miami|EVN|21;|male|||Adult|||
+@Situation:	Informal conversation bteween two friends at Florida International University
 @Date:	27-MAR-2008
-@Transcriber:	Manuel Delicado Cantero, Australian National University, M. Carmen Parafita Couto, Bangor University.
+@Transcriber:	Manuel Delicado Cantero, Australian National University and M. Carmen Parafita Couto, Bangor University
+@Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:29:53
-@Comment:	Filename: herring15.CHA; Soundfile: herring15.wav
-@Comment:	Language markers: @s = Spanish, @s:eng&spa = unidentified, @s:eng&spa+eng = unidentified plus English morpheme.
+@Media:	herring15, audio
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English,  @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 @Warning:	"@s:eng&spa" has not been used systematically
 @Warning:	missing translations are marked "vvv"
 @Warning:	unsystematic utterance boundaries

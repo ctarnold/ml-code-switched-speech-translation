@@ -1,17 +1,17 @@
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
 @Participants:	CLA Claire Adult, LUK Luke Adult
-@ID:	spa, eng|bangor3|CLA|21;4.|female|||Adult||
-@ID:	spa, eng|bangor3|LUK|20;6.|male|||Adult||
-@Media:	herring9 audio
-@Situation:	LUK and CLA are boyfriend and girlfriend. They are talking in the university library study room at Florida International University (FIU), Miami.
+@ID:	spa, eng|Miami|CLA|21;|female|||Adult||
+@ID:	spa, eng|Miami|LUK|20;|male|||Adult||
+@Situation:	Informal conversation between a couple at Florida International University
 @Date:	24-MAR-2008
-@Coder:	Jon Russell Herring, Prifysgol Bangor University.    Original translation by Kevin Donnelly.
+@Transcriber:	Jon Russell Herring, Bangor University.   Original translation by Kevin Donnelly
+@Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:32:40
-@Comment:	Filename: herring9.cha; Soundfile: herring9.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:ita= Italian, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-@Comment:	Proofread. date: 25-SEPT-2009
+@Media:	herring9, audio
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 @Warning:	some remaining questions recorded in comment tier
 *CLA:	the two piece set <of the &gla> [//] of the water glasses is +... 23_3140
 *LUK:	can you do me a favor ? 3197_4405

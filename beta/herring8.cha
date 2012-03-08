@@ -1,18 +1,22 @@
-@Font:	Win95:Arial:-21:0
+@Font:	Win95:Arial:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	MEL Melanie Adult, ROB Robert Adult, OSE Other Speaker Child, OSA Other Speaker Adult, OSB Other Speaker Adult
-@ID:	eng, spa|bangor3|MEL||female|||Adult|
-@ID:	eng, spa|bangor3|ROB||male|||Adult||
-@Situation:	MEL works at the Science Museum. She is doing a PhD on educational theory and has her defense next week (this is mentioned). ROB is her husband, a maths teacher. She is Puerto Rican and he is Cuban (son of first-generation immigrants).
-@Date:	04-MAR-2008
-@Coder:	M. Carmen Parafita Couto and Marika Fusser, Prifysgol Bangor University.    Original translation by Kevin Donnelly.
+@Participants:	MEL Melanie Adult, ROB Robert Adult, OSE non_participant Child, OSA non_participant Teenager, OSB non_participant Adult
+@ID:	eng, spa|Miami|MEL|39;|female|||Adult|
+@ID:	eng, spa|Miami|ROB|42;|male|||Adult||
+@ID:	eng, spa|Miami|OSE|?;|female|||Child|
+@ID:	eng, spa|Miami|OSA|?;|female|||Teenager|
+@ID:	eng, spa|Miami|OSB|?;|male|||Adult|
+@Situation:	Informal conversation between a couple in their garden;  their children join them for a while
+@Date:	21-MAR-2008
+@Transcriber:	M. Carmen Parafita Couto and Marika Fusser, Bangor University.  Original translation by Kevin Donnelly
+@Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:29:43
 @Media:	Herring8, audio
-@Comment:	Filename: herring8.cha; Soundfile: herring8.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-@Comment:	Spanish/possibly Spanish bits to be transcribed have been marked with [CHECK].
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
+@Warning:	Should speakers OSE and OSB be integrated with proper pseudonyms (consent forms exist according to Jon's notes)? Or should the three additional speakers all be called OSE??
+@Warning:	Spanish/possibly Spanish bits to be transcribed have been marked with [CHECK].
 *ROB:	so (..) he goes over to the creepy_crawly (.) and he pulls it out the pool and one leg is broken . 157_7894
 *ROB:	that's why it wasn't moving . 8370_9565
 *ROB:	the pump was good . 9519_10854

@@ -1,16 +1,17 @@
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
 @Participants:	RIC Richard Adult, SEB Sebastian Adult
-@ID:	spa, eng|bangor3|RIC|22;6.|male|||Adult||
-@ID:	spa, eng|bangor3|SEB||male|||Adult||
-@Media:	herring7 audio
-@Situation:	RIC and SEB are workmates at a courier company. Here they are talking while seated in the cafe area of a shopping mall in central Miami.
+@ID:	spa, eng|Miami|RIC|22;|male|||Adult||
+@ID:	spa, eng|Miami|SEB|?;|male|||Adult||
+@Situation:	Informal conversation between two workmates in a shopping mall café
 @Date:	21-MAR-2008
-@Coder:	Jon Russell Herring, Prifysgol Bangor University.    Original translation by M. Carmen Parafita Couto.
+@Transcriber:	Jon Russell Herring, Bangor University.  Original translation by M. Carmen Parafita Couto
+@Comment:	Researcher: Jon Russell Herring, Bangor University.
 @Time Duration:	00:24:53
-@Comment:	Filename: herring7.CHA; Soundfile: herring7.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Media:	herring7, audio
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 @Warning:	Proofread
 *SEB:	so (.) uh@s:eng&spa the book is [/] is like you've read the book you don't wanna watch the movie . 1225_7060
 *SEB:	+< like the end . 7099_8184

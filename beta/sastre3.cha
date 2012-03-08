@@ -1,19 +1,18 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
 @Participants:	LAN Landon Adult, MAS Mason Adult, OLI Olivia Adult
-@ID:	spa, eng|bangor3|OLI||female|||Adult||
-@ID:	spa, eng|bangor3|LAN||male|||Adult||
-@ID:	spa, eng|bangor3|MAS||male|||Adult||
-@Situation:	LAN, OLI and MAS are coworkers and are having lunch with the investigator and  her mother. Initially OLI and LAN are wearing microphones. However, about 10 minutes into the conversation, LAN passes the microphone to MAS, because MAS and OLI attended a meeting in the morning and had a lot more to talk about.
-@Comment:	There is a lot of background noise and other background voices.
+@ID:	spa, eng|Miami|OLI|52;|female|||Adult||
+@ID:	spa, eng|Miami|LAN|37;|male|||Adult||
+@ID:	spa, eng|Miami|MAS|43;|male|||Adult||
+@Situation:	Informal conversation between three co-workers during their lunch hour
 @Date:	14-MAR-2008
-@Transcriber:	Diana Carter, Prifysgol Bangor University
+@Transcriber:	Diana Carter, Bangor University.  Original translation by Jennifer Plaistowe.
+@Comment:	Researcher: Lergia Sastre
 @Time Duration:	00:43:02
 @Media:	sastre3, audio
-@Comment:	Filename: sastre3.CHA; Soundfile: sastre3.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 @Warning:	missing Spanish translations marked "vvv"
 *OLI:	the purpose that [//] ah@s:eng&spa for this meeting today (.) &w is for um@s:eng&spa (.) to make ourselves independent from (.) the county as far as the testing ah@s:eng&spa +... 1_15303
 *LAN:	+< [- spa] qué están haciendo hoy ? 6_1463

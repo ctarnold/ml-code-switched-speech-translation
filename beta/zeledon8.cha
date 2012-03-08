@@ -1,20 +1,18 @@
-@Font:	Win95:Courier:-13:0
+@Font:	Win95:@Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	MAR Marcela Adult, FLA Flabia Adult, OSE Otherspeaker Adult
-@ID:	spa, eng|bangor3|MAR||female|||Adult||
-@ID:	spa, eng|bangor3|FLA||female|||Adult||
-@Situation:	Two friends. They are chatting in Marcela's house.
-@Comment:	Marcela feels comfortable code-switching. Flabia does less so.
+@Participants:	MAR Marcela Adult, FLA Flabia Adult, OSE non_participant Adult
+@ID:	spa, eng|Miami|MAR|45;|female|||Adult||
+@ID:	spa, eng|Miami|FLA|42;|female|||Adult||
+@Situation:	Informal conversation between two neighbours at Marcela's house
 @Date:	22-MAR-2008
-@Coder:	Esther Nuñez Villanueva Prifysgol Bangor University
-@Media:	zeledon8, AUDIO
+@Transcriber:	Esther Nuñez Villanueva, Bangor University.  Original translation by Vanesa Bonavota García
+@Comment:	Researcher: Marilyn Zeledón
 @Time Duration:	00:37:53
-@Comment:	Filename: zeledon6.CHA; Soundfile: zeledon6.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-@Comment:	proofread by Jorge Valdes Kroff, Penn State University
-@Comment:	Marcela is telling a story and quoting a couple of conversations she had in a bar.
+@Media:	zeledon8, audio
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
+@Warning:	Proofread by Jorge Valdes Kroff, Penn State University
 @Warning:	missing translations marked "vvv"
 *MAR:	so (.) le@s:spa [//] yo@s:spa le@s:spa digo@s:spa <a@s:spa la@s:spa chica@s:spa> [//] a@s:spa la@s:spa waitress &=laugh +"/. 6_5341
 *MAR:	+" [- spa] eh@s:eng&spa hay lugar adentro en la barra ? 5302_6858
@@ -1916,7 +1914,7 @@
 *FLA:	[- spa] y me decía +"/. 1970249_1970719
 %eng:	and she told me
 *FLA:	+" ay@s:spa mami@s:spa I can't believe it . 1970619_1972633
-%eng:	oh mommy, I can´t believe it.
+%eng:	oh mommy, I can't believe it.
 *FLA:	and she wanted to put it on . 1972624_1973913
 *MAR:	[- spa] si no le cabe &=laugh . 1973597_1975136
 *FLA:	+< I said +"/. 1973890_1974244

@@ -3,15 +3,16 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	GAB Gabrielle Adult, CON Connor Adult
-@ID:	eng, spa|Miami|GAB||female|||Adult|
-@ID:	eng, spa|Miami|CON||male|||Adult||
-@Situation:
-@Comment:	There is a lot of electrical/noise interference from incoming texts on someone's mobile, which the mp3 recorder picks up. Maybe we can clean this up a bit.
+@ID:	spa, eng|Miami|GAB|23;|female|||Adult|
+@ID:	spa, eng|Miami|CON|20;|male|||Adult||
+@Situation:	Informal conversation at Florida International University
 @Date:	02-APR-2008
-@Transcriber:	Fraibet Aveledo, Bangor University.  Original translation by Renée Zeichen Ortega.
+@Transcriber:	Fraibet Aveledo, Bangor University.  Original translation by Renée Zeichen Ortega
+@Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:30:04
 @Media:	herring14, audio
-@Comment:	Language markers: @s:eng = English @s:spa = Spanish @s:eng&spa = Undetermined, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
+@Warning:	There is a lot of electrical/noise interference from incoming texts on someone's mobile, which the mp3 recorder picks up. Maybe we can clean this up a bit.
 *CON:	xxx . 737_3871
 *GAB:	+< yeah . 3352_3854
 *GAB:	I was like +"/. 3761_4606

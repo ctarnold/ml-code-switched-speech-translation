@@ -1,18 +1,17 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
 @Languages:	eng, spa
 @Participants:	SAM Samantha Adult, MAD Madeline Adult
-@ID:	spa, eng|bangor3|SAM||female|||Adult||
-@ID:	spa, eng|bangor3|MAD||female|||Adult||
-@Situation:	Two sisters. They are sitting outsite chatting. There are a couple of OSE.
-@Comment:	Good code-switching from both SAM and MAD. SAM's microphone has a little bit of noise during the entire recording.
+@ID:	spa, eng|Miami|SAM|41;|female|||Adult||
+@ID:	spa, eng|Miami|MAD|48;|female|||Adult||
+@Situation:	Informal conversation between two sisters at Samantha's house
 @Date:	02-JUN-2008
-@Transcriber:	Esther Nuñez Villanueva/ M. Carmen Parafita Couto, Prifysgol Bangor University
-@Time Duration:	00:30:54
+@Transcriber:	Esther Nuñez Villanueva and M. Carmen Parafita Couto, Bangor University.  Original translation by Kevin Donnelly
+@Comment:	Researcher: Lergia Sastre
+@Time Duration:	00:30:59
 @Media:	sastre12, audio
-@Comment:	Filename: sastre12.cha; Soundfile: sastre12.wav
-@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *MAD:	he goes +"/. 17_830
 *MAD:	+" Sandra@s:eng&spa made an appointment because Robert@s:eng&spa Farmer's@s:eng&spa+eng having an issue . 697_4365
 *MAD:	he's having issues . 4371_6026
