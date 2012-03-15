@@ -14,7 +14,7 @@
 @Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 @Comment:	ABE is talking on the phone.
 *ABE:	[- spa] ya saliste [=! laughs] ? 23_10850
-%eng:	have you gone already?
+%eng:	have you left already?
 %com:	music in background
 *ABE:	&=laughs . 10844_33350
 @Comment:	long silence
@@ -44,7 +44,7 @@
 *ABE:	que@s:spa hay@s:spa un@s:spa [///] como@s:spa una@s:spa cosa@s:spa en@s:spa el@s:spa carnival center . 119819_122373
 %eng:	there is some sort of event at the carnival centre.
 *ABE:	ahí@s:spa al@s:spa lado@s:spa de@s:spa la@s:spa escuela@s:spa en@s:spa el@s:spa carnival center . 122361_126535
-%eng:	there next to the school and the carnival centre.
+%eng:	there next to the school at the carnival centre.
 *ABE:	hay@s:spa alguna@s:spa actividad@s:spa de@s:spa tres@s:spa a@s:spa cinco@s:spa como@s:spa live music y@s:spa todas@s:spa estas@s:spa cosas@s:spa . 126503_133509
 %eng:	there is some activity from three to five, like live music and and all that.
 *ABE:	y@s:spa luego@s:spa vamos@s:spa para@s:spa el@s:spa Miami fair donde@s:spa están@s:spa los roller_coasters a@s:spa las@s:spa cinco@s:spa . 133498_139537
@@ -68,7 +68,7 @@
 *ABE:	[- spa] ay, sí . 178755_179753
 %eng:	oh yes.
 *ABE:	[- spa] pero como quieran no me lo han pagado . 179759_181077
-%eng:	but if they wanted to, they haven't actually paid me.
+%eng:	but whatever, they haven't paid me.
 *ABE:	[- spa] xxx con xxx cheque . 181059_183969
 %eng:	[...] with [...] cheque.
 *ABE:	[- spa] claro que no . 183943_190645
@@ -86,10 +86,10 @@
 %eng:	but if [...] gives me...
 *IAN:	no no no no that's nice . 208423_209729
 *IAN:	that's nice . 209600_211551
-*IAN:	mira@s:spa ven@s:spa a@s:spa ver@s:spa la@s:spa foto@s:spa de@s:spa la@s:spa nueva@s:spa Miss er@s:eng&spa Miss Usa . 211533_214895
-%eng:	look, we'll get to see the photo of the new Miss USA.
+*IAN:	mira@s:spa ven@s:spa a@s:spa ver@s:spa la@s:spa foto@s:spa de@s:spa la@s:spa nueva@s:spa Miss er@s:eng&spa Miss U_S_A . 211533_214895
+%eng:	look, come and see the photo of the new Miss USA.
 *ABE:	[- spa] cómo es ? 214877_217246
-%eng:	how come?
+%eng:	what's she like?
 *ABE:	oh@s:eng&spa . 217271_220328
 *ABE:	se@s:spa parece@s:spa a@s:spa Tyra@s:eng&spa Banks@s:eng&spa . 220328_222098
 %eng:	she looks like Tyra Banks.
@@ -97,10 +97,10 @@
 *ABE:	yeah . 223554_224645
 *IAN:	she is pretty . 224629_226544
 *IAN:	is really pretty . 226506_228770
-*ABE:	Miss Usa . 228761_231506
-*ABE:	Miss Us of A . 231518_233509
+*ABE:	Miss U_S_A . 228761_231506
+*ABE:	Miss US of A . 231518_233509
 *ABE:	[- spa] y entonces . 233451_237009
-%eng:	and now.
+%eng:	and so.
 *IAN:	&=laugh . 236945_238913
 *ABE:	xxx . 238907_240183
 *ABE:	tienes@s:spa que@s:spa poner@s:spa conversación@s:spa tal@s:spa vez@s:spa porque@s:spa hello . 240178_243277
@@ -108,7 +108,7 @@
 *IAN:	+< &=laugh I think it's supposed to be natural . 242169_244839
 *ABE:	&=laugh ok@s:eng&spa ok@s:eng&spa . 244833_247362
 *IAN:	[- spa] tu invento no quema ni nada de eso no ? 247356_249358
-%eng:	you haven't made up any of this, have you?
+%eng:	this thing you invented doesn’t burn or anything, right?
 *ABE:	[- spa] bueno pero tenemos que +... 249347_259265
 %eng:	well, but we have to...
 *IAN:	[- spa] ay pues sí . 259259_260943
@@ -119,7 +119,7 @@
 *IAN:	[- spa] le hablo . 264670_266841
 %eng:	I'll talk to her.
 *ABE:	[- spa] no pero es (.) muy temprano todavía está durmiendo . 266812_269059
-%eng:	no, it's very early in the morning, he's still asleep.
+%eng:	no, it's very early in the morning, she's still asleep.
 *IAN:	um@s:eng&spa qué@s:spa pena@s:spa . 269055_273517
 %eng:	what a shame.
 *ABE:	&=laugh . 273504_277415
@@ -134,7 +134,7 @@
 %eng:	well, I think that she [...] but not Kathy.
 *ABE:	mmhm@s:eng&spa . 292467_293140
 *IAN:	oh@s:eng&spa tengo@s:spa los@s:spa volunteer forms para@s:spa lo@s:spa de@s:spa (.) el@s:spa Aids Walk . 293131_298809
-%eng:	oh, I've got the volunteer forms for him for the AIDS Walk.
+%eng:	oh, I've got the volunteer forms for him for the thing about the AIDS Walk.
 *ABE:	oh@s:eng&spa vamos@s:spa a@s:spa llenar@s:spa eso@s:spa . 298805_301400
 %eng:	oh, let's fill that in.
 *IAN:	a@s:spa ver@s:spa eh@s:eng&spa bueno@s:spa +... 301386_302826
@@ -174,7 +174,7 @@
 *IAN:	[- spa] a ver . 369523_371113
 %eng:	we'll see...
 *ABE:	ay@s:eng&spa bueno@s:spa whatever maybe I won't do it xxx . 371108_374077
-%eng:	oh well, wahtever, maybe I won't do it [...].
+%eng:	oh well, whatever, maybe I won't do it [...].
 *IAN:	fine you don't want me to do yours ok@s:eng&spa . 373856_376213
 @Comment:	silence 376199_383107
 *IAN:	(be)cause I need to submit it online by [/] by Monday . 382987_384850
@@ -188,7 +188,7 @@
 *ABE:	[- spa] cuáles son las preguntas ? 398558_400456
 %eng:	what are the questions?
 *ABE:	[- spa] él debe tener mil preguntas xxx . 400433_403728
-%eng:	there must be a thousand questions [...].
+%eng:	he must have a thousand questions [...].
 *IAN:	um@s:eng&spa ok@s:eng&spa . 403699_407552
 @Comment:	silence . 407533_413976
 *IAN:	ok@s:eng&spa what's your phone number ? 413970_415595
@@ -289,7 +289,7 @@
 *ABE:	y@s:spa hay@s:spa que@s:spa lavar@s:spa todo@s:spa eso@s:spa de@s:spa cuando@s:spa Helena@s:eng&spa estaba@s:spa allá@s:spa . 757424_759769
 %eng:	and we need to wash all the stuff from when Helena was staying there.
 *IAN:	[- spa] sí ella lo lavó . 759595_760826
-%eng:	yes, I've washed it.
+%eng:	yes, she washed it.
 *ABE:	[- spa] y el cubrecamas y todo ? 760793_763905
 %eng:	the bedspread and everything?
 *IAN:	[- spa] sí . 763862_766532
@@ -297,13 +297,13 @@
 *ABE:	[- spa] por el perrito digo . 766510_769500
 %eng:	because of the puppy, you see.
 *ABE:	[- spa] porque si yo me voy para allá luego me da alergia . 769454_771526
-%eng:	because when I go there, it gives me an allergy.
+%eng:	because if I go there, it'll give me an allergy.
 *IAN:	hmm@s:eng&spa no@s:spa . 771482_774630
 %eng:	hmm, no.
 *IAN:	[- spa] pues no vayas . 774624_777079
 %eng:	then you shouldn't go.
 *ABE:	[- spa] gracias si quieres vete tú . 777078_779713
-%eng:	thanks, if you like, see for yourself.
+%eng:	thanks, go if you like.
 *ABE:	[- spa] te quedas por allá . 779704_780836
 %eng:	you stay there.
 *ABE:	[- spa] y yo quemo todo aquí . 780824_782055
@@ -343,21 +343,21 @@
 *ABE:	[- spa] no trabajo xxx . 837086_838416
 %eng:	I don't work [...].
 *ABE:	[- spa] dijo que iba a pasar a dejar la película xxx . 838385_840597
-%eng:	I said that I was going to go past and leave the film [...].
+%eng:	he said that he was going to come by to drop off the film [...].
 *ABE:	[- spa] y pasar por el [/] el trabajo un momento . 840601_842650
-%eng:	and call at work for a minute.
+%eng:	and stop off at work for a minute.
 *IAN:	xxx . 842534_843573
 *ABE:	[- spa] adelante . 843588_845927
 %eng:	go on then.
 @Comment:	silence . 845907_849198
 *ABE:	[- spa] pero tú me puedes acompañar unos cinco minutos . 849187_852026
-%eng:	but you can accompanies for about five minutes.
+%eng:	but you can come with me for about five minutes.
 *ABE:	nos@s:spa vamos@s:spa al@s:spa Starbucks@s:eng&spa . 851994_854154
 %eng:	we are going to Starbucks.
 *ABE:	[- spa] sabes lo que quiere hacer el [/] el xxx que estaba ahí ? 854156_861715
 %eng:	you know that she wants to do the [...] that was here?
 *ABE:	[- spa] él la trabaja para +... 861686_865483
-%eng:	he harasses her through...
+%eng:	he's working to ...
 *IAN:	+< [- spa] cuál el flaquito ? 863724_865477
 %eng:	which one, the skinny one?
 *ABE:	ah@s:eng&spa no@s:spa no@s:spa e(l)@s:spa [/] e(l)@s:spa [/] el@s:spa [/] el@s:spa moreno@s:spa . 865479_869650
@@ -373,7 +373,7 @@
 %eng:	ah, give it to me, let me see it.
 @Comment:	silence . 876314_883976
 *IAN:	xxx que@s:spa se@s:spa llama@s:spa um@s:eng&spa ma(rketing) [/] marketing works . 884148_886783
-%eng:	[...] what is called marketing works.
+%eng:	[...] that's called marketing works.
 *ABE:	mmhm@s:eng&spa . 887160_887984
 *IAN:	and then he said that they are really good actually to work with +... 887885_891043
 *ABE:	[- spa] sí precisamente están a mi altura [?] . 891043_895841
@@ -383,7 +383,7 @@
 *ABE:	one twenty seven over eighty nine es@s:spa mi@s:spa blood pressure . 898968_903776
 %eng:	one twenty-seven over eighty-nine is my blood pressure.
 *ABE:	[- spa] y debe estar en +... 903759_912089
-%eng:	and it has to be under...
+%eng:	and it has to be ...
 *ABE:	+, en@s:spa one twenty eighty . 912047_917514
 %eng:	...under one twenty eighty.
 *ABE:	el@s:spa cholesterol tengo@s:spa ciento@s:spa veinte@s:spa gramos@s:spa . 917490_923348
@@ -416,7 +416,7 @@
 *IAN:	qué@s:spa horror@s:spa (.) coming up &=laugh . 989287_997750
 %eng:	what a horror coming up.
 *ABE:	ah@s:eng&spa pero@s:spa tú@s:spa ves@s:spa xxx dice@s:spa que@s:spa no@s:spa tengo@s:spa osteoporosis@s:eng&spa todavía@s:spa . 997716_1000305
-%eng:	ah, but you see, [...] says that I still don't have any osteoporosis.
+%eng:	ah, but you see, [...] says that I don't have any osteoporosis yet.
 *ABE:	[- spa] mira . 1000310_1000920
 %eng:	look.
 *IAN:	[- spa] qué te dice ? 1000925_1002637
@@ -522,7 +522,7 @@
 %eng:	let's see.
 @Comment:	silence . 1237479_1245719
 *ABE:	[- spa] por qué no vamos al cine mañana mejor ? 1245707_1247787
-%eng:	why don't we go to the cinema instead tomorrow?
+%eng:	why don't we go to the cinema tomorrow instead?
 *IAN:	(des)pués@s:spa quedan@s:spa no@s:spa sé@s:spa xxx o@s:spa Sun_Set_Plaza@s:eng&spa . 1247764_1250877
 %eng:	then there is, I don't know, [...] or Sun Set Plaza left.
 *ABE:	xxx . 1250772_1254260
@@ -544,7 +544,7 @@
 *IAN:	hmm@s:eng&spa . 1284716_1287601
 *IAN:	Prom_Night The_Ruins . 1287567_1288896
 *ABE:	+< [- spa] lo has xxx . 1287567_1288699
-%eng:	you have it [...].
+%eng:	you have [...] it.
 *IAN:	Smart_People [/] oh@s:eng&spa Smart_People looks good actually . 1288634_1290857
 *ABE:	what ? 1290836_1291736
 *IAN:	Smart_People . 1291724_1293117
@@ -566,7 +566,7 @@
 *ABE:	[- spa] &=sniff bueno ya xxx . 1325144_1327419
 %eng:	ok, yes, [...].
 *IAN:	es@s:spa que@s:spa eso@s:spa will be over by three four . 1327396_1328824
-%eng:	it is that that will be over by three/four.
+%eng:	but that will be over by three, four.
 *IAN:	it will be over by four . 1328801_1330113
 *IAN:	oh@s:eng&spa xxx at three . 1330113_1333873
 *ABE:	fine three and three to five . 1333839_1337741
@@ -599,7 +599,7 @@
 *IAN:	mmhm@s:eng&spa . 1418226_1419050
 *IAN:	and she is co(ming) [/] coming up for a whole week . 1419062_1421808
 *IAN:	[- spa] porque te conté de la xxx que se xxx ? 1421823_1425986
-%eng:	because, did she tell you of the [...] that [...]?
+%eng:	because, did I tell you about the [...] that [...]?
 *ABE:	mmhm@s:eng&spa . 1425887_1427164
 *IAN:	[- spa] parece ser que (.) tenía planes de ir en julio . 1427158_1431184
 %eng:	it seems that she had plans to go in July.
@@ -618,7 +618,7 @@
 *IAN:	super@s:eng&spa . 1445157_1446208
 *IAN:	xxx . 1446144_1447833
 *ABE:	[- spa] ya lo tienes ahí ? 1447827_1448669
-%eng:	have you got it here already?
+%eng:	have you got it there already?
 *IAN:	mmhm@s:eng&spa . 1448651_1450949
 *ABE:	&=sniff . 1450924_1454264
 @Comment:	silence . 1454255_1457436
@@ -644,7 +644,7 @@
 *IAN:	[- spa] ay tan xxx . 1532663_1535269
 %eng:	oh, so [...].
 *ABE:	[- spa] no pero es pa(ra) que me haga esto . 1535252_1537295
-%eng:	no, but it's in order for her to do it for me.
+%eng:	no, but it's so that I can get this done..
 *ABE:	Tania@s:eng&spa (.) te@s:spa voy@s:spa a@s:spa buscar@s:spa en@s:spa un@s:spa ratito@s:spa para@s:spa que@s:spa me@s:spa hagas@s:spa el@s:spa trim de@s:spa mi@s:spa pelo@s:spa por@s:spa favor@s:spa con@s:spa la@s:spa máquina@s:spa . 1537222_1546481
 %eng:	Tania, I will come past in a little while for you to trim my hair with the machine please.
 %com:	silence . 1546429_1550098
@@ -673,11 +673,11 @@
 %eng:	I don't [...] the machine so that [...] well.
 %com:	silence . 1591302_1596666
 *IAN:	[- spa] ves como que ella xxx . 1596674_1599922
-%eng:	you think that she [...].
+%eng:	you see, like, that she [...].
 *ABE:	[- spa] bueno ya son las [/] las y cuarenta casi casi . 1599953_1604697
-%eng:	well, it's almost forty past.
+%eng:	well, it's almost the, the, and forty already.
 *ABE:	[- spa] pero él tiene que venir de camino . 1604705_1606662
-%eng:	but he needs to come.
+%eng:	but he must be on his way.
 *ABE:	[- spa] deja que llame . 1606654_1608024
 %eng:	wait until he calls.
 *ABE:	[- spa] como quiera . 1607989_1608570
@@ -712,7 +712,7 @@
 *IAN:	[- spa] a ver cómo ? 1660204_1661370
 %eng:	we'll see how?
 *ABE:	[- spa] deben estar en la sala esta . 1661308_1664054
-%eng:	we have to be in this room.
+%eng:	they have to be in this room.
 %com:	silence . 1664022_1666826
 *IAN:	right maybe we should head over there then . 1666775_1669802
 *ABE:	xxx . 1669776_1672348
@@ -734,7 +734,7 @@
 *ABE:	xxx . 1702163_1704381
 *IAN:	+< <no brother> [?] . 1703867_1705080
 *IAN:	no wait un@s:spa momento@s:spa porque@s:spa sino@s:spa las@s:spa cosas@s:spa +... 1705039_1708145
-%eng:	no, wait a moment, because only the things...
+%eng:	no, wait a moment, because otherwise the things...
 %com:	silence . 1708032_1710244
 *IAN:	ay@s:eng&spa xxx . 1710213_1716029
 *IAN:	&=gasp it's a nice day for the beach actually . 1715976_1723656
