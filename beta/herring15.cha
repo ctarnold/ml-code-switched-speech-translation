@@ -13,7 +13,6 @@
 @Media:	herring15, audio
 @Comment:	Language markers : @s:spa = Spanish, @s:eng = English,  @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 @Warning:	"@s:eng&spa" has not been used systematically
-@Warning:	missing translations are marked "vvv"
 @Warning:	unsystematic utterance boundaries
 *BRA:	so you don't even look at a computer .  29_1538
 *BRA:	<like he ju(st)> [//] like he does it . 1382_2943
@@ -79,10 +78,10 @@
 *BRA:	but whatever bro . 98073_99837
 *BRA:	as long as he gets the [/] the grades in [/] in and stuff . 99836_103308
 *BRA:	[- spa] dale va . 103111_103941
-%eng:	vvv
+%eng:	so what.
 *BRA:	I don't care . 103930_104406
 *EVN:	[- spa] dale &=laugh . 104384_110495
-%eng:	vvv
+%eng:	stuff it.
 *EVN:	yeah <that cla(ss) the> [//] that anatomy class something is pretty hard man . 110489_115311
 *BRA:	um that's what I thought . 115221_116614
 *BRA:	take the nights bro . 116608_117357
@@ -490,7 +489,7 @@
 *BRA:	like I can't like on bright days from here bro like I have to walk to class like this . 1075715_1080225
 *EVN:	yeah . 1080172_1080892
 *BRA:	+< my eyes just water and stuff I don't know why but um we went and bro I got insolado@s:spa like so bad really really bad like my eyes got so swollen +... 1080631_1092505
-%eng:	vvv
+%eng:	my eyes, just water and stuff, I don't know why, but we went and, bro, I got so much sun, like, so bad, really, really bad, like, my eyes got so swollen
 *EVN:	xxx . 1092429_1093166
 *BRA:	like my eyes were swollen shut like all <I ca(n)> [/] I can see like if you walk in front of me <I can see you wa(lking)> [//] I can see there's somebody walking in front of me but I couldn't like see anything I couldn't like tell who you were or nothing +... 1092957_1103386
 *EVN:	um . 1102380_1104019
@@ -654,7 +653,7 @@
 *BRA:	+< xxx . 1505640_1506941
 *BRA:	+< yeah yeah yeah . 1507335_1508763
 *EVN:	and my boss said <oh@s:eng&spa vete@s:spa para@s:spa el@s:spa hoti@s:spa [//] para@s:spa el@s:spa ho(s)pital@s:spa [//] vete@s:spa para@s:spa (e)l@s:spa ho(s)pital@s:spa xxx e(s)ta(s)@s:spa loco@s:spa> ["] like +... 1510020_1517238
-%eng:	vvv
+%eng:	and my boss said, oh, go to the hospital, go to the hospital, [...] he's crazy, like
 *BRA:	+< xxx that was dangerous . 1516629_1518190
 *EVN:	yeah you could die a(nd) he [/] he went to the hospital and I think they said he had like <a a> [/] a nitrogen mower or something built up <in his> [/] in his lung something like that . 1518196_1528837
 *BRA:	+< &=laugh  . 1525766_1526416

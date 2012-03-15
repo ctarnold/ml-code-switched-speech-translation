@@ -13,7 +13,6 @@
 @Media:	herring2 audio
 @Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	remaining translation uncertainties are recorded with [?] (and comment tier)
-@Warning:	missing translations are marked with "vvv"
 *MIG:	<no se> [/] no se andan juntando con todo el mundo me entendés o sea que no hay +... 0_3873
 %eng:	I don't know, they're not into getting together with many people, you know, I mean, there's no ...
 *TOM:	no hay drama . 3791_4386

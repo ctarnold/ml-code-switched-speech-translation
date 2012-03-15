@@ -13,7 +13,6 @@
 @Media:	zeledon8, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 @Warning:	Proofread by Jorge Valdes Kroff, Penn State University
-@Warning:	missing translations marked "vvv"
 *MAR:	so (.) le@s:spa [//] yo@s:spa le@s:spa digo@s:spa <a@s:spa la@s:spa chica@s:spa> [//] a@s:spa la@s:spa waitress &=laugh +"/. 6_5341
 *MAR:	+" [- spa] eh@s:eng&spa hay lugar adentro en la barra ? 5302_6858
 %eng:	is there room inside the bar?

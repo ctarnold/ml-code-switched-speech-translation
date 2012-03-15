@@ -12,7 +12,6 @@
 @Media:	zeledon1, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English
 @Warning:	Proofread by Jorge Valdes Kroff, Penn State, 10/07/09
-@Warning:	untranslated bits marked "vvv"
 *AME:	y después volviste para acá . 0_1125
 %eng:	and after that you came back here.
 *CAR:	+< y después me volví porque no me gust(ó) . 944_2512
@@ -1375,7 +1374,6 @@
 *AME:	sino que tú no sabes que pasó antes de que tú llegaras . 1401750_1403813
 %eng:	or that you don't know what happened before you arrived
 *AME:	&=laugh . 1403821_1404189
-%eng:	vvv
 *CAR:	exactamente . 1404304_1405139
 %eng:	that's it
 *AME:	+< o tu jefe te dijo alguna cosa . 1404618_1406263
@@ -1606,7 +1604,6 @@
 *CAR:	na(d)a personal pero sí hay uno(s) muy grosero(s) . 1591934_1594202
 %eng:	nothing personal, but yes, some of them are really rude people.
 *AME:	+< &=laugh . 1592554_1593594
-%eng:	vvv
 *AME:	son [/] son difíciles . 1593839_1595043
 %eng:	they they are difficult
 *CAR:	entonces llega él y le dice +"/. 1594412_1595894
@@ -1614,7 +1611,6 @@
 *CAR:	+" mira yo necesito que me vea ya . 1595902_1597048
 %eng:	look I need to see him now.
 *AME:	+< &=cough . 1596832_1597954
-%eng:	vvv
 *CAR:	y <le dice> [//] la higienista le dice +"/. 1597569_1599427
 %eng:	and she says, the hygienist tells him
 *CAR:	+" mira (.) eh yo no puedo atendérte en este momento . 1599427_1601960
@@ -1722,7 +1718,6 @@
 *CAR:	imagínate tener que escuchar to(do) ese (.) escándalo . 1675290_1678343
 %eng:	imagine having to listen to the whole affair
 *AME:	+< &=gasp . 1677145_1678087
-%eng:	vvv
 *CAR:	y el se ha queda(d)o fuera . 1679312_1680126
 %eng:	and he had waited outside
 *CAR:	y yo me quedé (.) &as haciendo papel de la recepcionista . 1680126_1682441

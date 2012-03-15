@@ -1,3 +1,5 @@
+@ID:
+en|macwhinney|CHI|2;10.10||||Target_Child||
 @Font:	Win95:Arial Unicode MS:-16:0
 @UTF8
 @Begin
@@ -13,7 +15,6 @@
 @Time Duration:	00:43:02
 @Media:	sastre3, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-@Warning:	missing Spanish translations marked "vvv"
 *OLI:	the purpose that [//] ah@s:eng&spa for this meeting today (.) &w is for um@s:eng&spa (.) to make ourselves independent from (.) the county as far as the testing ah@s:eng&spa +... 1_15303
 *LAN:	+< [- spa] qué están haciendo hoy ? 6_1463
 %eng:	what are they doing today?
