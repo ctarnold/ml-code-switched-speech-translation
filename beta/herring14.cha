@@ -13,176 +13,174 @@
 @Media:	herring14, audio
 @Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 @Warning:	There is a lot of electrical/noise interference from incoming texts on someone's mobile, which the mp3 recorder picks up. Maybe we can clean this up a bit.
-*CON:	xxx . 737_3871
+*CON:	xxx . 83_2914
 *GAB:	+< yeah . 3352_3854
-*GAB:	I was like +"/. 3761_4606
-*GAB:	+" oh@s:eng&spa vas@s:spa a@s:spa coger@s:spa tu@s:spa pelo@s:spa cortico@s:spa como@s:spa Alberto@s:eng&spa ? 4634_7078
-%eng:	oh, are you going to cut your hair short like Alberto's?
-*GAB:	&en entonces@s:spa él@s:spa dijo@s:spa +"/. 7161_8796
+*GAB:	I was like +"/. 3726_4163
+*GAB:	+" oh@s:eng&spa vas@s:spa a@s:spa coger@s:spa tu@s:spa pelo@s:spa cortico@s:spa como@s:spa Connor@s:eng&spa ? 4634_7078
+%eng:	oh, are you going to cut your hair short like Connor's?
+*GAB:	[- spa] &en entonces él dijo +"/. 7161_8796
 %eng:	and then he said.
-*GAB:	no@s:spa cortico@s:spa no@s:spa <es@s:spa muy@s:spa> [/] es@s:spa muy@s:spa chiquito@s:spa para@s:spa mí@s:spa . 9122_12393
+*GAB:	+" [- spa] no cortico no <es muy> [/] es muy chiquito para mí . 9122_12393
 %eng:	no, not short, it's very, it is too small for me.
-*CON:	mal@s:spa . 12741_13551
+*CON:	[- spa] mal . 12741_13551
 %eng:	too bad.
 *GAB:	+< so he said he was getting like (.) medium haircut . 13237_16105
 *CON:	+< I know it [?] because his (.) used to his &ʃ: long hair and stuff +/. 14665_19478
 *GAB:	yeah . 19835_20859
-*GAB:	pero@s:spa qué@s:spa más@s:spa ? 21010_22177
+*GAB:	[- spa] pero qué más ? 21010_22177
 %eng:	but what else?
-*GAB:	qué@s:spa estábamos@s:spa hablando@s:spa antes@s:spa de@s:spa eso@s:spa ? 22142_24148
+*GAB:	[- spa] qué estábamos hablando antes de eso ? 22103_23924
 %eng:	what were we talking about before this?
-*CON:	normal@s:spa . 24139_25303
-%eng:	the usual
+*CON:	[- spa] normal no ? 24132_25777
+%eng:	the usual, isn't it?
 *CON:	I don't know . 25949_26797
 *GAB:	&=cough . 26877_27840
 *CON:	xxx . 28679_29248
-*GAB:	+< bueno@s:spa . 28679_29248
+*GAB:	+< [- spa] bueno . 28679_29248
 %eng:	well.
-*CON:	lets see um . 30882_32554
-*GAB:	mi@s:spa clase@s:spa de@s:spa chino@s:spa está@s:spa super@s:spa interesante@s:spa . 32430_35273
+*CON:	let's see hmm . 30880_32222
+*GAB:	[- spa] mi clase de chino está super interesante . 32430_35273
 %eng:	my Chinese class is really interesting.
-*CON:	pero@s:spa cómo@s:spa así@s:spa o@s:spa sea@s:spa . 36033_37551
+*CON:	[- spa] pero cómo así o sea . 36001_37250
 %eng:	but how come, I mean.
 *CON:	oh@s:eng&spa my goodness pero@s:spa es que@s:spa son@s:spa tantas@s:spa cosas@s:spa . 37544_40184
 %eng:	oh my goodness, but there are so many things.
-*GAB:	sí@s:spa pues@s:spa . 40233_41873
+*GAB:	[- spa] sí pues . 40233_41873
 %eng:	yes, so.
-*GAB:	hoy@s:spa perdí@s:spa la@s:spa clase@s:spa . 42260_43566
+*GAB:	[- spa] hoy perdí la clase . 42235_43068
 %eng:	today I missed class.
-*GAB:	no@s:spa fui@s:spa . 43516_44062
+*GAB:	[- spa] no fui . 43516_44062
 %eng:	I didn't go.
 *GAB:	porque@s:spa no@s:spa encontré@s:spa parking . 44523_46639
 %eng:	because I couldn't park.
-*GAB:	horrible@s:spa . 46701_49244
+*GAB:	[- spa] horrible . 46701_49244
 %eng:	terrible.
-*CON:	no@s:spa pero@s:spa +/. 49166_50443
-%eng:	no but.
-*GAB:	+< no@s:spa fui@s:spa a@s:spa la@s:spa clase@s:spa . 49294_50803
+ *CON:	[- spa] no xxx +/. 49143_49945
+%eng:	no [...].
+*GAB:	+< [- spa] no fui a la clase . 49294_50803
 %eng:	I didn't go to class.
 *CON:	but are you remembering all this stuff . 50884_52736
-*CON:	it is like a lot of characters xxx . 52486_55006
-*GAB:	+< and memorization . 54999_55916
-*GAB:	es@s:spa como@s:spa matemáticas@s:spa . 55881_57280
-%eng:	it's like maths
-*CON:	but it's a lot xxx too so . 57187_60722
-*GAB:	+< es@s:spa chévere@s:spa . 60646_63247
+*CON:	it is like a lot of characters and data . 52486_55006
+*GAB:	+< memorization . 54999_55916
+*GAB:	[- spa] es como matemáticas . 55881_57280
+%eng:	it's like maths.
+*CON:	but it's a lot . 57263_58552
+*CON:	I hate maths too so . 58703_60154
+*GAB:	+< [- spa] es chévere . 60619_62685
 %eng:	it's great.
 *CON:	+< I wouldn't be good at chinese . 60646_63247
 *CON:	I'd be better at hebrew . 63276_65412
 *GAB:	+< yeah . 63363_64100
-*GAB:	+< ajá@s:spa . 65313_66236
+*GAB:	+< [- spa] ajá . 65313_66236
 %eng:	heh.
-*CON:	xxx . 66037_68626
-%com:	the speaker imitates chinese sounds . 66037_68626
-*GAB:	+< no@s:eng&spa . 68341_69752
-*GAB:	don't [/] don't act like you know chinese . 69168_71480
-*GAB:	xxx . 71329_72664
+*CON:	it is like xxx . 66037_68626
+%com:	the speaker imitates chinese sounds .
+*GAB:	+< no@s:eng&spa . 68325_69312
+*GAB:	don't [/] don't act like you know Chinese . 69168_71480
+*GAB:	xxx . 71307_72062
 *CON:	&=laugh . 71329_72664
-*GAB:	mira@s:spa no@s:spa de@s:spa verdad@s:spa . 72561_74459
+*GAB:	[- spa] mira no de verdad . 72561_74459
 %eng:	no, look, really.
 *GAB:	um . 74720_76828
-*GAB:	entonces@s:spa pues@s:spa hoy@s:spa están@s:spa votando@s:spa . 76898_80102
+*GAB:	[- spa] entonces pues hoy están votando . 76898_80102
 %eng:	so then, today they are voting.
-*GAB:	hay@s:spa votaciones@s:spa en@s:spa el@s:spa colegio@s:spa . 80084_81634
+*GAB:	[- spa] hay votaciones en el colegio . 80084_81634
 %eng:	there are elections at school.
-*CON:	xxx estaba@s:spa preguntando@s:spa o@s:spa sea@s:spa que@s:spa . 81620_83832
+*CON:	[- spa] xxx estaba preguntando o sea . 81620_83832
 %eng:	was asking, I mean
-*CON:	pa(ra)@s:spa qué@s:spa carrizo@s:spa le@s:spa sirve@s:spa a@s:spa uno@s:spa ser@s:spa +... 83820_86667
+*CON:	[- spa] pa(ra) qué carrizo le sirve a uno ser +... 83820_86667
 %eng:	what the hell is the point of being [...]
 *CON:	ah@s:eng&spa I'm president . 86603_87985
 *CON:	for what ? 87991_89430
 *GAB:	ah@s:eng&spa para@s:spa servir@s:spa la@s:spa univer(sidad)@s:spa +//. 89866_91527
 %eng:	to serve the University
-*GAB:	bueno@s:spa supuestamente@s:spa lo@s:spa ideal@s:spa &=laugh sería@s:spa servir@s:spa a@s:spa la@s:spa comunidad@s:spa y@s:spa representar@s:spa los@s:spa intereses@s:spa de@s:spa los@s:spa estudiantes@s:spa . 91592_100601
+*GAB:	[- spa] bueno supuestamente lo ideal &=laugh sería servir a la comunidad y representar los intereses de los estudiantes . 91592_100601
 %eng:	well supposedly the ideal thing would be to serve the community and represent the students' interests.
-*GAB:	ah@s:eng&spa la@s:spa admninistración@s:spa de@s:spa la@s:spa universidad@s:spa . 101388_104389
-%eng:	the university administration.
-*GAB:	entonces@s:spa (.) por@s:spa esos@s:spa lo@s:spa hacen@s:spa . 104326_105998
+*GAB:	[- spa] a la admninistración de la universidad . 101388_104389
+%eng:	to the university administration.
+*GAB:	[- spa] eso [//] por eso lo hacen . 104326_105998
 %eng:	so that's why they do it.
 *CON:	um . 105969_107525
-*CON:	pero@s:spa &a: yo@s:spa creo@s:spa los@s:spa estudiantes@s:spa hacen@s:spa como@s:spa que@s:spa +"/. 107380_110057
+*CON:	[- spa] pero &a: yo creo los estudiantes hacen como que +"/. 107380_110057
 %eng:	but I think the students act like.
-*CON:	+" ah@s:eng&spa sabes@s:spa [?] who cares . 110039_111334
-%eng:	ah you know what, who cares
+*CON:	+" ah@s:eng&spa &ps I don't care xxx . 110039_111334
 *GAB:	+< yeah . 110039_111334
 *GAB:	most students don't care about like voting and stuff . 111660_114748
-*GAB:	but they've been lately like xxx pushing it hard . 114812_118146
-*GAB:	like only xxx give a flyer (.) xxx . 117978_121453
-*CON:	+< yeah because +//. 120460_121545
-*CON:	xxx those people are because they don't need xxx like +"/. 121544_124986
-*CON:	I've just come [?] here to study that's it . 124945_127116
+*GAB:	but lately they've been like out there pushing it hard . 114812_118146
+*GAB:	like a million people wanna give you a flyer (.) and food . 117960_121106
+*CON:	+< yeah because I think most of those people are  because they don't live here so is like +"/. 120378_124384
+*CON:	+" I've just come [?] here to study that's it . 124923_126850
 *GAB:	yeah . 127085_127625
-*CON:	+< I don't [///] am I ? 127236_128600
-*GAB:	+< people usually hicieron que le xxx eating lunch . 127245_129898
-%com:	check
+*CON:	+" <I don't> [/] I don't mind . 127268_128278
+*GAB:	+< people usually hicieron@s:spa xxx when I was eating lunch . 127245_129898
+%eng:	people usually made [...] when I was eating lunch
 *GAB:	I was eating in Subway@s:eng&spa &spa and then . 130213_132163
 *GAB:	xxx [=! laugh] . 132656_135768
 *GAB:	xxx [=! laugh] . 135646_137022
 *CON:	&=laugh . 135646_137022
-*GAB:	um I was eating food and the xxx me was saying like +"/. 137395_140880
+*GAB:	um@s:eng I was eating food and the girl in front of me was saying like +"/. 137395_140880
 *GAB:	+" oh@s:eng&spa I was at the library xxx people bothering me . 140900_143231
-*GAB:	+" and telling me xxx but I don't care about that I really don't care about this place . 142884_147704
-*GAB:	she is kind of like shows the typical attitude of like +//. 147770_150682
+*GAB:	+" and telling me xxx but I don't care about that I really don't care about this place . 142887_146556
+*GAB:	so like she is kind of like shows the typical attitude of like +//. 146933_150080
 *CON:	yeah . 150322_150786
-*GAB:	people not want it to go . 150630_152389
-*CON:	but in my case xxx I would care . 151884_155347
-*CON:	yes . 155202_155747
-*CON:	they can deal with issues and stuff . 155900_158344
+*GAB:	people not want it to go . 150614_152077
+*CON:	but in my case probably if I would live here I would care because they can deal with issues and stuff . 151891_157881
 *GAB:	yeah . 158733_159111
-*GAB:	I think most students would be more involved if they had more time . 159099_163116
-*GAB:	but (.) you have a full schedule . 161918_163764
+*GAB:	I think most students would be more involved if they had more time . 159077_162432
+*GAB:	but (.) they have a full schedule . 161918_163764
 *GAB:	<they have> [//] they may have a job . 163746_165209
-*GAB:	and then they have to study . 165004_166774
-*GAB:	so they're like +"/. 166505_167555
+*GAB:	and then they have to study . 165011_166485
+ *GAB:	so they're like +"/. 166508_167240
 *GAB:	+" I don't +//. 167474_168031
 *GAB:	+" that's wasting my time . 167951_168921
-*GAB:	they don't stop [/] to like find out about who's president (.) cause they're too busy . 171627_172747
-*GAB:	and I understand them . 172724_175017
-*CON:	but (.) I don't know but I don't know if those people are like doing campaign and getting people to know <there &ai> [/] there ideas . 175510_183551
+*GAB:	they don't stop to like find out about who's president (.) cause they're too busy . 168987_172656
+*GAB:	and I understand them cause that happens to me . 172724_175017
+*CON:	<but (.) I don't know> [/] but I don't know if those &peoples [* people] are like doing campaign and getting people to know <their &ai> [/] their ideas . 175510_183551
 *GAB:	yeah yeah . 183493_185019
-*CON:	they are xxx [///] some times also +/. 184810_187300
-*GAB:	but only through flyers like they just show you their flyers and talk to . 186461_189439
+*CON:	they are ? 184533_185624
+*CON:	xxx [///] some times also +/. 185316_187197
+*GAB:	+< but only through flyers like they just show you their flyers and talk to . 186461_189439
 *GAB:	they're not doing like a whole xxx campaign like an official campaign . 189404_192268
-*CON:	+< exactly . 189404_192268
+*CON:	+< exactly . 190103_191346
 *CON:	+< you don't really know (.) why you're voting for . 191473_194873
 *GAB:	yeah . 194803_195366
-*CON:	xxx just people . 195250_197020
+*CON:	who's that people I just saw . 195250_197020
 *CON:	people don't like to read . 196502_197733
 *GAB:	+< but it's kind of funny . 196870_198193
 *GAB:	it's inter(esting) +//. 198188_198611
-*CON:	huh ? 198611_199227
-*GAB:	xxx . 199018_200028
+*GAB:	[- spa] ajá? 198427_198798
+%eng:	yeah?
+*GAB:	xxx . 198578_199170
 *CON:	+< people don't like to read . 199049_200320
 *CON:	[- spa] ellos prefieren estar así como ver . 200279_202224
 %eng:	they prefer to be like this, like seeeing
 *CON:	[- spa] y que allá está el man parado entonces . 202200_204888
 %eng:	and that the man is still there then.
-*GAB:	yeah . 204272_204830
-*GAB:	oh@s:eng&spa like the xxx the nicest . 204980_207749
-*GAB:	like . 207772_208416
+*GAB:	+< yeah . 204272_204830
+*GAB:	xxx waffle who is like (.) looks the nicest like oh@s:eng&spa . 204911_208882
 *CON:	+< yeah . 207772_208416
-*CON:	oh@s:eng&spa this is a good looking guy . 208410_210378
-*CON:	oh@s:eng&spa that one is xxx nerd . 210305_211483
+*CON:	like oh@s:eng&spa this is a good looking guy oh@s:eng&spa . 207454_210159
+*CON:	oh@s:eng&spa that one is some nerd . 210305_211483
 *CON:	I don't want to vote for him . 211454_212720
 *GAB:	yeah . 212621_212993
 *CON:	something like that . 212940_213509
-*GAB:	or like this person gave me cupcakes . 214192_215626
+*GAB:	or like this person gave me cupcakes . 213480_215581
 *GAB:	I'll vote for her &=laugh . 215626_216804
 *CON:	&=laugh . 216682_217745
 *GAB:	+< but look . 217061_217653
-*GAB:	but I think it's funny because it represents like our nation is . 217945_221608
-*GAB:	like people don't sit down and listen to our campaign they just look at the flyers and like . 221655_225626
+*GAB:	but I think it's funny because it represents like how the nation is . 217859_220808
+*GAB:	like people don't sit down and listen to our campaign . 220787_223690
+*GAB:	they just look at the flyers and like . 224050_226314
 *GAB:	oh@s:eng&spa I've [//] I want to vote for a man . 225689_227925
-*GAB:	or I want to vote for a woman or a black man xxx like Green_Alec@s:eng&spa [?] . 227914_231017
-%com:	CHECK
+*GAB:	or I want to vote for a woman or a black man like Green_Alec@s:eng&spa [?] . 227914_231017
 *GAB:	oh@s:eng&spa a black man as a president would be awesome . 231086_233043
 *GAB:	but they're going by the image or like a woman as a president . 233028_236517
 *GAB:	but like (.) it's a big issue anyway . 236496_241078
 *CON:	xxx like that oh@s:eng&spa my goodness . 240823_243354
-*GAB:	mmhm . 244161_245049
-*CON:	but I don't know . 244533_245648
-*CON:	I would have to leave in here . 245683_247477
-*CON:	I want to leave in here . 247442_248899
+*GAB:	eh@s:eng&spa . 244161_245049
+*CON:	+< but I don't know . 244533_245648
+*CON:	I would have to live in here . 245683_247477
+*CON:	I want to live in here . 247442_248899
 *GAB:	on campus ? 249207_250165
 *CON:	[- spa] yo quiero vivir aquí sí porque es chévere . 250148_252760
 %eng:	I want to live here, yes, because it's great.
@@ -193,13 +191,13 @@
 %eng:	it's super cool.
 *CON:	[- spa] mira vea tengo de todo . 255764_257250
 %eng:	look, I have everything.
-*CON:	[- spa] tengo my un sitio para cortarme el pelo aquí . 257209_260181
+*CON:	[- spa] tengo my [//] un sitio para cortarme el pelo aquí . 257209_260181
 %eng:	I have somewhere to get my hair cut here.
 *CON:	[- spa] tengo el sitio para lavar la ropa aquí . 260156_262043
 %eng:	I have somewhere to wash my clothes here.
 *CON:	[- spa] tengo +... 262095_263332
 %eng:	I have ...
-*GAB:	+< no@s:spa pero@s:spa hay@s:spa solo@s:spa dry cleaning . 262565_264295
+*GAB:	+< no@s:spa pero@s:spa hay@s:spa solo@s:spa es@s:spa dry cleaning . 262565_264295
 %eng:	no, but there's only dry cleaning.
 *CON:	cafeteria exactly dry cleaning . 264359_266815
 *GAB:	ah@s:eng&spa tus@s:spa [///] pero@s:spa <tú@s:spa haces@s:spa dry> [/] tu@s:spa haces@s:spa dry clean para@s:spa toda@s:spa la@s:spa ropa@s:spa ? 268088_272773
@@ -211,13 +209,13 @@
 *CON:	[- spa] pero . 275385_276482
 %eng:	but.
 *GAB:	+< ah@s:eng&spa . 275605_276424
-*CON:	para@s:spa por@s:spa ejemplo@s:spa ropa@s:spa normal@s:spa así@s:spa por@s:spa aquí@s:spa debe@s:spa haber@s:spa un@s:spa laundry@s:spa . 276482_280362
+*CON:	para@s:spa por@s:spa ejemplo@s:spa ropa@s:spa normal@s:spa así@s:spa por@s:spa aquí@s:spa debe@s:spa haber@s:spa un@s:spa laundry . 276482_280362
 %eng:	for example, for normal clothes or so there must be a laundry around here.
 *GAB:	[- spa] dónde ? 279734_281900
 %eng:	where?
 *CON:	somewhere . 281691_282347
 *GAB:	+< [- spa] de pronto <en los> [/] en los dormitorios . 281934_283943
-%eng:	convenient to the, to the bedrooms.
+%eng:	maybe in the, in the bedrooms.
 *CON:	+< [- spa] o incluso en los apartamentos . 282404_283878
 %eng:	or even in the apartments.
 *CON:	en@s:spa los@s:spa dorms they have a laundry room . 284002_286069
@@ -236,19 +234,18 @@
 %eng:	and live there.
 *GAB:	[- spa] y enseñar . 294872_295697
 %eng:	and teach.
-*GAB:	[- spa] pero la cosa es que es muchos meses y . 295613_297784
+*GAB:	[- spa] pero la cosa es que es muchos meses . 295613_297784
 %eng:	but the thing is that it's too many months and.
-*GAB:	[- spa] y como estoy envolucrada en la inglesia . 297773_299549
+*GAB:	[- spa] y como estoy involucrada en la inglesia . 297773_299549
 %eng:	and like, I'm involved with the church.
 *GAB:	[- spa] pues a veces no me veo como en otro país por más de un [///] meses . 299934_303351
 %eng:	so sometimes I don't see myself, like, in another country for more than a, months.
 *GAB:	[- spa] por ejemplo . 303330_304299
 %eng:	for example.
 *CON:	+< you never know . 303370_306064
-*GAB:	maybe the lord sends me over there . 306093_307997
-*CON:	[- spa] en serio ? 307480_308044
-%eng:	serious?
-*CON:	[- spa] porque sí por ejemplo si [/] si pues dios te manda para allá . 308063_312577
+*GAB:	maybe the Lord sends me over there . 306093_307997
+*CON:	exactly . 307480_308044
+*CON:	[- spa] porque sí &s por ejemplo si [/] si &s pues dios te manda para allá . 308063_312577
 %eng:	because if, for instance if, so if, God sends you over there.
 *CON:	[- spa] tiene que ser así o sea . 312839_314087
 %eng:	it has to be like that, I mean
@@ -256,135 +253,135 @@
 %eng:	it's, like, like there's, I was watching a, a film.
 *GAB:	[- spa] ajá . 318895_319598
 %eng:	I see.
-*CON:	de@s:spa un@s:spa tipo@s:spa que@s:spa él@s:spa vivía@s:spa en@s:spa U_K@s:eng&spa . 319314_321781
+*CON:	de@s:spa un@s:spa tipo@s:spa que@s:spa él@s:spa vivía@s:spa en@s:spa U_K . 319314_321781
 %eng:	about a guy who lived in the UK.
 *GAB:	ah@s:eng&spa . 321868_322548
-*CON:	and he didn't know to speak spanish . 322147_325612
+*CON:	and he didn't know to speak Spanish . 322147_325612
 *CON:	y@s:spa dios@s:spa le@s:spa di(ce)@s:spa [///] lo@s:spa despierta@s:spa una@s:spa noche@s:spa y@s:spa le@s:spa dice@s:spa que@s:spa él@s:spa tiene@s:spa que@s:spa ir@s:spa a@s:spa (.) [/] a@s:spa California@s:eng&spa . 325880_331907
 %eng:	and God tells him, he wakes him up one night and tells him that he has to go, to California.
 *GAB:	[- spa] ajá . 331744_333004
 %eng:	aha.
 *CON:	a@s:spa California@s:eng&spa . 332708_334397
 %eng:	to California.
-*CON:	[- spa] pero que ahí va a haber una familia que habla español en [///] una familia mexicana . 334270_339167
-%eng:	but that there's going to be a family there that speaks Spanish, a Mexican family.
-*GAB:	ajá@s:spa . 339039_340356
+*CON:	[- spa] pero que ahí va a haber una familia que habla [///] es una familia mexicana . 334270_339167
+%eng:	but that there's going to be a family there that speaks, a Mexican family.
+*GAB:	[- spa] ajá . 339039_340356
 %eng:	aha.
-*CON:	y@s:spa entonces@s:spa dice@s:spa +"/. 340303_341847
+*CON:	[- spa] y entonces dice +"/. 340303_341847
 %eng:	and then he says.
 *CON:	uh but I don't know Spanish . 341835_343716
-*GAB:	ajá@s:spa . 343704_344424
+*GAB:	[- spa] ajá . 343704_344424
 %eng:	aha.
 *CON:	+< and he start taking Spanish . 344164_346172
-*GAB:	ajá@s:spa . 345731_346289
+*GAB:	[- spa] ajá . 345731_346289
 %eng:	aha.
 *CON:	and learning Spanish . 346219_347153
-*CON:	and learning Spanish because you know xxx speaking Spanish . 347153_351505
-*GAB:	like [?] now like now I'm xxx in English (be)cause I want [///] I mean xxx [=! laugh] chinese cause I want to go to China@s:eng&spa . 351450_359071
+*CON:	and learning Spanish because he knows that you gotta go there and speak in Spanish . 347153_351505
+*GAB:	like [?] now like now I'm xxx in English (be)cause I want [///] I mean not English [=! laugh] Chinese cause I want to go to China@s:eng&spa . 351450_359071
 %com:	CON fakes Chinese talking.
-*GAB:	and they have a program of peace xxx like . 359130_361957
+*GAB:	and they have a program of peace corps look . 359130_361957
 *CON:	of what ? 361968_362885
-*GAB:	peace xxx . 362874_364110
+*GAB:	peace corps . 362874_364110
 *CON:	what is that ? 363751_364378
-*CON:	ah peace xxx . 364337_365637
+*CON:	ah@s:eng&spa peace corps . 364337_365637
 *GAB:	+< yeah . 365179_365643
-*GAB:	like volunteer [?] xxx . 365610_367479
+*GAB:	like volunteering xxx . 365610_367479
 *GAB:	and they have one in China@s:eng&spa . 367386_368582
-*GAB:	and they xxx . 368589_370185
-*CON:	+< did you volunteered ? 368589_370185
+*GAB:	and xxx like to teach English . 368589_370185
+*CON:	+< like you volunteer ? 368589_370185
 *GAB:	yeah . 369936_370615
-*CON:	and they send you there and they ? 370458_372350
+*CON:	and they send you there and they +//? 370458_372350
 *GAB:	+< yeah . 370458_372350
 *GAB:	but they pay for everything . 372281_373552
-*CON:	all right that's . 373366_374911
+*CON:	all right that's +//. 373366_374911
 *CON:	they pay for your food . 374852_377180
 *GAB:	your food your house everything everything . 376181_378224
-*GAB:	you [/] <you're not gonna have ningún> [//] you're not gonna have a lack in xxx [//] in the area . 378143_381571
-*CON:	oh@s:eng&spa my god I want something like that . 381556_383553
-*CON:	but in hear . 383454_384789
-*CON:	I'm gonna send you to [/] to xxx . 384769_388218
+*GAB:	you [/] <you're not gonna have ningún@s:spa> [//] you're not gonna have a lack in xxx [//] in any area . 378143_381571
+*CON:	oh@s:eng&spa my God I want something like that but in here . 381556_383553
+*CON:	like oh@s:eng&spa I'm gonna send you to [/] to xxx . 384769_388218
 *GAB:	&=laugh . 388271_389321
 *CON:	&=laugh . 388271_389321
-*GAB:	see like [?] xxx university english teaching aquí gordos@s:spa xxx teach for people . 389178_394351
-%eng:	see like [...] university English teaching here fat people [...] teach for people.
+*GAB:	see like in university English teaching xxx teach the people . 389178_394351
 *GAB:	and I would really love that . 394265_396001
 *CON:	+< I would do that . 394764_396204
 *CON:	you know why would I do that ? 396059_397980
 *CON:	just if I when I just graduate . 399097_401773
 *GAB:	yeah . 401675_402458
-*CON:	for the experience of going somewhere else another country . 402412_405111
+*CON:	+< just for the experience of going somewhere else another country . 402412_405111
 *CON:	+< yeah . 403591_404160
 *GAB:	yeah I would love to do it . 405106_406337
-*CON:	+< and you get the +... 405399_406585
-*GAB:	but there's the thing like I I xxx like I wanna be involved in the church and stuff . 406334_411019
+*CON:	+< you get the +... 405399_406585
+*GAB:	but there's the thing like I [/] I'm really like I wanna be involved in the church and stuff . 406334_411019
 *GAB:	and like (.) I feel like (.) I wouldn't be able to leave because of that . 411081_416375
-*GAB:	but I xxx about it . 416265_419104
-*GAB:	the lord xxx . 419991_421802
-*CON:	+< but that peace course [?] is xxx people xxx the chinese or what ? 421238_425476
-*GAB:	no it's &ev every country . 425444_427557
-*CON:	oh@s:eng&spa my god yo@s:spa quiero@s:spa ir@s:spa . 427186_428968
-%eng:	oh my God, I wanna go.
+*GAB:	but I guess I just pray about it . 416265_419104
+*GAB:	the lord knows . 419991_421802
+*CON:	+< but that peace corps is what is only for people xxx the Chinese or what ? 421238_425476
+*GAB:	no it's &ev every country . 425445_427315
+*CON:	oh@s:eng&spa my God yo@s:spa quiero@s:spa ver@s:spa . 427186_428968
+%eng:	oh my God, I wanna see.
 *CON:	&=laugh . 428908_430087
 *CON:	but what do they do there ? 430058_431561
 *CON:	like +//. 431520_432124
 *GAB:	whatever the country needs . 431859_433345
-*GAB:	it's helping kids . 433617_435243
+*GAB:	like helping kids . 432957_435047
 *GAB:	taking care of hungers . 435005_437211
-*GAB:	um building . 437955_439655
+*GAB:	um building . 437845_439088
+*GAB:	business . 438797_439238
 *GAB:	even in businesses . 439534_440863
-*GAB:	xxx coping businesses [?] xxx building xxx classrooms . 440555_445887
-*CON:	oh@s:eng&spa my god . 440555_445887
-*CON:	xxx . 445834_447326
+*GAB:	the're helping businesses start building [/] build like classrooms . 440555_445887
+*CON:	oh@s:eng&spa my God . 443079_445505
+*CON:	you know what . 445834_447326
 *GAB:	+< all kind of stuff . 445834_447326
 *CON:	I wanna go . 447436_449131
 *CON:	but where do they need people missy [?] ? 450162_452481
 *GAB:	everywhere . 452417_453358
-*GAB:	xxx teaching . 453338_455085
+*GAB:	oh@s:eng&spa maths and science teaching . 453338_455085
 *GAB:	I wanna do that . 455044_456165
-*CON:	xxx science teaching . 455892_457761
-*GAB:	+< where is this +//. 456284_457207
-*CON:	education (.) experience experience university english teaching . 457640_463505
-*CON:	special educations secondary english [?] . 463424_467348
-*GAB:	and xxx . 467173_469426
+*CON:	maths and science teaching . 455892_457761
+*GAB:	+< where is this thing +//. 456268_457441
+*CON:	education (.) experience experience university English teaching . 457640_463505
+*CON:	special education secondary English xxx . 463424_467348
+*GAB:	it's super cool +/ . 467173_469426
 *CON:	+< I wanna go there . 467173_469426
-*CON:	and xxx development xxx skills xxx education . 469460_474079
+*CON:	and community development construction and skills traits education . 469460_474079
 *CON:	when I graduate (.) I wanna go there . 476415_480856
-*CON:	like Rome@s:eng&spa or no@s:spa sé@s:spa . 480801_483907
+*CON:	like Rome or no@s:spa sé@s:spa . 480801_483907
 %eng:	like Rome or I don't know.
-*GAB:	+< I would like to go to China@s:eng&spa Thailand@s:eng&spa and +... 483212_491835
+*GAB:	+< I would like to go to China@s:eng&spa Thailand@s:eng and +... 483212_491835
 *CON:	Macedonia@s:eng&spa . 492143_493867
 *CON:	oh@s:eng&spa my goodness . 493826_494900
 *CON:	I wanna go (.) xxx &arm no Armenia@s:eng&spa no . 494933_499251
-*GAB:	yo@s:spa quiero@s:spa +... 499854_501979
+*GAB:	[- spa] yo quiero +... 499854_501979
 %eng:	I want ...
 *GAB:	oh@s:eng&spa Mozambique@s:eng&spa . 501956_503384
 *GAB:	ahí@s:spa hay@s:spa un@s:spa orfanato@s:spa en@s:spa Mozambique@s:eng&spa . 504095_505823
 %eng:	there's an orphanage in Mozambique.
-*GAB:	y@s:spa súper@s:spa chévere@s:spa . 505829_508810
+*GAB:	[- spa] y súper chévere . 505829_508810
 %eng:	and super cool.
-*GAB:	puedo@s:spa seguir@s:spa el@s:spa volun(teer) [/] volunteer allá@s:spa . 508520_511279
-%eng:	I can follow the volunteer, volunteer there.
-*GAB:	[- spa] es súper chévere . 511240_512744
+*GAB:	puedes@s:spa ir@s:spa a@s:spa volun(teer) [/] volunteer allá@s:spa . 508520_511279
+%eng:	you can go to volunteer, volunteer there.
+*GAB:	[- spa] es súper chévere . 511224_512223
 %eng:	it's fantastic.
 *GAB:	[- spa] yo quiero ir . 512628_513707
 %eng:	I wanna go.
 *GAB:	[- spa] todas esas cosas me encantan . 514995_516858
 %eng:	I love all those things.
-*GAB:	mi@s:spa amiga@s:spa fue@s:spa a@s:spa Ucrane@s:eng&spa por@s:spa un@s:spa [/] un@s:spa [/] un@s:spa +... 516893_520138
+*GAB:	mi@s:spa amiga@s:spa fue@s:spa a@s:spa Ukraine por@s:spa un@s:spa [/] un@s:spa [/] un@s:spa +... 516893_520138
 %eng:	my friend went to the Ukraine for a ...
-*GAB:	+, bueno@s:spa iba@s:spa todos@s:spa los@s:spa veranos@s:spa por@s:spa cuarenta@s:spa y@s:spa cinco@s:spa días@s:spa . 520260_523296
+*GAB:	+, [- spa] bueno iba todos los veranos por cuarenta y cinco días . 520260_523296
 %eng:	well he went there every summer for forty five days.
-*CON:	xxx . 523179_525037
-*GAB:	cómo@s:spa ? 526540_527231
+*CON:	but I'm not in here . 523179_525037
+*GAB:	[- spa] cómo ? 526540_527231
 %eng:	what?
 *CON:	I'm not in xxx [=! laugh] . 526999_528613
-*GAB:	what do you mean ? 528464_530357
-*CON:	Venezuela@s:eng&spa is not there [=! laugh] . 529389_531008
+*GAB:	what do you mean ? 528408_529221
+*GAB:	Venezuela@s:eng&spa is not there [=! laugh] . 529389_531008
+*CON:	+< no . 529790_530556
 *GAB:	no@s:spa entran@s:spa a@s:spa Venezuela@s:eng&spa por@s:spa la@s:spa situación@s:spa política@s:spa me@s:spa imagino@s:spa . 531035_534675
-%eng:	they don't go to Venezuela because of the political situation, I imagine.
+%eng:	they don't put in Venezuela because of the political situation, I imagine.
 *CON:	no we don't need help . 534566_536406
-*CON:	probably they think that xxx . 536358_539267
-*CON:	+" it's okey . 539249_541171
+*CON:	probably they think that the president says . 536358_539267
+*CON:	+" oh@s:eng&spa it's o_k . 538676_540778
 *GAB:	la@s:spa mayoría@s:spa van@s:spa a@s:spa África@s:eng&spa wow . 541151_543502
 %eng:	most of them go to Africa, wow.
 *CON:	yeah exactly . 543496_545139
@@ -392,8 +389,8 @@
 *GAB:	porque@s:spa hay@s:spa una@s:spa necesidad@s:spa grande@s:spa en@s:spa África@s:eng&spa . 546834_548945
 %eng:	because there is a big necessity in Africa.
 *CON:	+< xxx . 548146_548779
-*CON:	the Caribbean@s:eng&spa is like not much and here and in Latinamerica@s:eng&spa are the top ones . 548932_556712
-*CON:	but a I would go xxx Guatemala@s:eng&spa . 557161_560406
+*CON:	the Caribbean@s:eng&spa is like not much and here [//] and in Latino_America@s:eng&spa are the top ones . 548932_556712
+*CON:	but &a I would go oh@s:eng&spa my God Guatemala@s:eng&spa ? 557161_560406
 *GAB:	yeah . 557294_557968
 *CON:	I would go there just for the thing +/. 560574_562903
 *GAB:	+< it's cool . 562868_563460
@@ -405,29 +402,29 @@
 *GAB:	I don't know &=laugh . 570809_571569
 *CON:	I don't know either &=laugh . 571435_572985
 *GAB:	I went to Guatemala@s:eng&spa as a city . 572961_574702
-*GAB:	and I went to Lake_Alitan@s:eng&spa with the volcanos are . 574685_577607
+*GAB:	and I went to Lake_Alitlán@s:eng+spa with the volcanos are . 574685_577607
 *GAB:	and other people . 577121_578578
 *GAB:	that was really cool . 578549_579588
 *GAB:	[- spa] pero en la inglesia la gente nos decían +"/. 579555_580863
 %eng:	but in the church people told us.
 *GAB:	+" [- spa] no te pares porque la gente era tan pequeña . 580845_583039
 %eng:	don't stop because the people were so small.
-*CON:	ajá@s:spa . 581547_582174
+*CON:	+< [- spa] ajá . 581547_582174
 %eng:	aha.
-*GAB:	que@s:spa si@s:spa nosotros@s:spa [///] porque@s:spa +//. 583297_584324
+*GAB:	[- spa] que si nosotros [///] porque +//. 583297_584324
 %eng:	that we, because.
-*GAB:	[- spa] xxx iglesia es bien tradicional es allá . 584258_586903
-%eng:	... church is very traditional there.
+*GAB:	[- spa] xxx iglesia es bien tradicionales allá . 584258_586903
+%eng:	[...] church is very traditional there.
 *GAB:	[- spa] donde la gente se para . 586878_587911
 %eng:	where people are staying.
 *GAB:	+" [- spa] aleluya . 587870_589351
-%eng:	hallellujah
+%eng:	hallelujah
 *GAB:	[- spa] entonces cuando nos parábamos nos decían +"/. 589248_590839
 %eng:	so when we stopped they told us.
-*GAB:	+" [- spa] no te pares que despúes la gente no puede ver en el frente porque todos son bajitos &=laugh . 590821_595041
+*GAB:	+" [- spa] no te pares que después la gente no puede ver en el frente porque todos son bajitos &=laugh . 590821_595041
 %eng:	don't stop because then people can't see in front of them because they are all really short.
 *CON:	+< oh@s:eng&spa my goodness . 594487_595585
-*GAB:	[- spa] y al frente de la iglesia hay un field de puro maíz . 595537_598852
+*GAB:	y@s:spa al@s:spa frente@s:spa de@s:spa la@s:spa iglesia@s:spa hay@s:spa un@s:spa field de@s:spa puro@s:spa maíz@s:spa . 595537_598852
 %eng:	and in front of the church there is a field of pure corn
 *GAB:	[- spa] y tomamos fotos ahí . 598797_600521
 %eng:	and we take pictures there.
@@ -454,7 +451,7 @@
 %eng:	we went there at midnight.
 *GAB:	[- spa] y era (.) primero el servicio y era tan chévere porque ahí ni predicaban . 620953_625089
 %eng:	and it was first the service and it was so cool because there they didn't preach.
-*GAB:	[- spa] era toda la gente . 625066_626215
+*GAB:	[- spa] era toda la gente +"/. 625066_626215
 %eng:	it was all the people.
 *GAB:	+" wow . 626169_627353
 *GAB:	[- spa] y ahí bailando bailando por horas en la presencia de dios . 627324_630921
@@ -463,29 +460,30 @@
 %eng:	or even not dancing, they were not dancing with each other.
 *GAB:	era@s:spa y@s:spa tú@s:spa xxx like todo@s:spa el@s:spa mundo@s:spa like en@s:spa su@s:spa propio@s:spa (.) momento@s:spa con@s:spa dios@s:spa . 633564_639598
 %eng:	it was, and, you [...] like, everyone, like, in their own moment with God.
-*CON:	en@s:spa su@s:spa propio@s:spa momento@s:spa sí@s:spa . 638493_639952
+*CON:	+< [- spa] en su propio momento sí . 638493_639952
 %eng:	in their own moment, yes.
-*CON:	+< sí@s:spa . 639464_640625
+*CON:	+< [- spa] sí . 639464_640625
 %eng:	yeah.
 *GAB:	&=yawn xxx I loved it . 639877_642872
 *CON:	wow . 644691_645748
-*GAB:	íbamos@s:spa por@s:spa los@s:spa mercados@s:spa . 645601_647412
+*GAB:	[- spa] íbamos por los mercados . 645601_647412
 %eng:	we went to the markets.
 *GAB:	[- spa] es chévere . 648248_649624
 %eng:	that's fantastic.
 *CON:	[- spa] es que yo el único país que yo conozco de South América@s:eng&spa es el mío . 649536_655055
 %eng:	but the only country I know from South America is my own.
-*GAB:	&=laugh Colombia@s:eng&spa ? 655253_657696
-*CON:	+< xxx Colombia@s:eng&spa . 655514_657279
-*CON:	Colombia@s:eng&spa yeah because is next to my country . 657250_659467
-*GAB:	+< xxx you been to Colombia@s:eng&spa ? 658695_660088
+*GAB:	&=laugh . 654766_655788
+*CON:	+< xxx a little bit of Colombia@s:eng&spa . 655514_657279
+*GAB:	+< Colombia@s:eng&spa ? 655253_657696
+*CON:	Colombia@s:eng&spa yeah because is next to +// . 657250_659467
+*GAB:	+< oh@s:eng&spa you been to Colombia@s:eng&spa ? 658695_660088
 *CON:	ah@s:eng&spa just to Cúcuta@s:eng&spa . 660112_662097
 *CON:	and that's it . 661935_663055
 *GAB:	+< ah@s:eng&spa . 661935_663055
-*CON:	I like going to Bogotá@s:eng&spa . 663010_664433
-*GAB:	I would like to go to Venezuela@s:eng&spa . 664398_666314
-*CON:	+< what people tell me . 664611_665670
-*CON:	xxx told me it's cool . 666136_667477
+*CON:	I like going Bogotá@s:eng&spa . 663010_664433
+*GAB:	+< I would like to go to Venezuela@s:eng&spa . 664398_666314
+*CON:	+< what people tell me +//. 664611_665670
+*CON:	+, tell me it's cool . 666136_667477
 *CON:	I can go there like in five years . 667540_670277
 *GAB:	wow . 670223_671535
 *CON:	and I become a citizen . 671558_675221
@@ -494,66 +492,66 @@
 *CON:	you know where I'm gonna go ? 678489_680068
 *CON:	I wanna go here here here here here . 680376_682245
 *GAB:	+< &=laugh everywhere . 681815_683006
-*CON:	yeah . 683005_683585
-*GAB:	xxx . 683457_685176
-*CON:	I know all of that because in my history class where estamos@s:spa viendo@s:spa todo@s:spa eso@s:spa . 683482_689580
+*CON:	+< yeah . 683005_683585
+*GAB:	travel the world . 683457_685176
+*CON:	+< I know all of that because in my history class we're estamos@s:spa viendo@s:spa todo@s:spa eso@s:spa . 683482_689580
 %eng:	I know of that because in my history class we're looking at all that.
-*GAB:	ajá@s:spa . 689475_690236
+*GAB:	[- spa] ajá . 689475_690236
 %eng:	aha.
 *CON:	oh@s:eng&spa my goodness pero@s:spa es@s:spa demasiado@s:spa . 690194_692264
 %eng:	oh my goodness, but it's too much.
-*CON:	como@s:spa eh@s:eng&spa eh@s:eng&spa cuando@s:spa vimos@s:spa Rome@s:eng&spa . 692241_694517
+*CON:	como@s:spa eh@s:eng&spa eh@s:eng&spa cuando@s:spa vimos@s:spa Rome . 692241_694517
 %eng:	like, when we saw Rome.
-*CON:	the Roman@s:eng&spa Empire . 694459_696874
-*CON:	yo@s:spa dije@s:spa quiero@s:spa ir@s:spa a@s:spa Roma@s:eng&spa ya@s:spa . 696804_698906
+*CON:	the Roman empire . 694459_696874
+*CON:	yo@s:spa dije@s:spa quiero@s:spa ir@s:spa a@s:spa Roma ya@s:spa . 696804_698906
 %eng:	I said, I want to go to Rome now.
 *GAB:	&=laugh . 698846_699960
-*CON:	estábamos@s:spa viendo@s:spa también@s:spa las@s:spa (.) Egipto@s:eng&spa todos@s:spa esos@s:spa . 699950_705734
+*CON:	[- spa] estábamos viendo también las (.) Egipto todos esos . 699950_705734
 %eng:	we were also looking at the, Egypt and all that.
-*GAB:	ajá@s:spa . 705670_706308
+*GAB:	[- spa] ajá . 705670_706308
 %eng:	aha.
-*CON:	también@s:spa quiero@s:spa ir@s:spa +//. 706221_707498
+*CON:	[- spa] también quiero ir +//. 706221_707498
 %eng:	I also want to go there.
 *CON:	[- spa] ahorita estamos viendo es esto mismo . 707504_709832
 %eng:	just now we're looking, it is this exactly.
-*CON:	a@s:spa Mexico@s:eng&spa (.) South_America@s:eng&spa . 709844_713408
+*CON:	a@s:spa Mexico@s:eng&spa (.) South America@s:eng&spa +//. 709844_713408
 %eng:	to Mexico, South America.
-*GAB:	wow xxx con@s:spa un@s:spa sueño@s:spa que@s:spa tuve@s:spa (.) de@s:spa Italia@s:eng&spa . 710512_713356
-%eng:	wow [...] in a dream I had about Italy.
+*GAB:	+< wow tú@s:spa me@s:spa hiciste@s:spa xxx un@s:spa sueño@s:spa que@s:spa tuve@s:spa (.) de@s:spa Italia@s:spa . 710512_713356
+%eng:	wow you made me [...] a dream I had about Italy.
 *CON:	+, and stuff +/. 714249_715671
-*GAB:	+< hablando@s:spa de@s:spa Roma@s:eng&spa . 714388_715630
+*GAB:	+< [- spa] hablando de Roma . 714388_715630
 %eng:	talking about Rome.
-*GAB:	y@s:spa siguen@s:spa . 715764_717029
+*GAB:	[- spa] y siguen . 715764_717029
 %eng:	go on.
-*CON:	y@s:spa entonces@s:spa estamos@s:spa viendo@s:spa las@s:spa ruinas@s:spa Machu_Picchu@s:eng&spa Tenochtitlán@s:eng&spa y@s:spa todo@s:spa eso@s:spa <de@s:spa los@s:spa> [/] de@s:spa los@s:spa Mayan@s:eng&spa Aztecs@s:eng&spa . 716635_722921
+*CON:	y@s:spa entonces@s:spa estamos@s:spa viendo@s:spa las@s:spa ruinas@s:spa Machu_Picchu@s:eng&spa Tenochtitlán@s:eng&spa y@s:spa todo@s:spa eso@s:spa <de@s:spa los@s:spa> [/] de@s:spa los@s:spa Mayan Aztecs . 716635_722921
 %eng:	and so we're looking at the ruins of Machu Picchu, Tenochtitlán, and all that about the, about the Mayan Aztecs.
-*GAB:	+< y@s:spa todo@s:spa es@s:spa súper@s:spa interesante@s:spa . 720402_722198
-%eng:	and it's all really interesting.
-*CON:	sí@s:spa . 722931_723383
+*GAB:	+< [- spa] y todo es súper interesante ? 720402_722198
+%eng:	and is it all really interesting?
+*CON:	[- spa] sí . 722931_723383
 %eng:	yes.
-*CON:	o@s:spa sea@s:spa yo@s:spa las@s:spa veo@s:spa y@s:spa yo@s:spa +"/. 723391_724370
+*CON:	[- spa] o sea yo las veo y yo +"/. 723391_724370
 %eng:	so I see them and I.
 *CON:	+" wow I wanna go there . 724364_725479
 *CON:	+" I wanna know . 725438_726710
 *CON:	+" I wanna watch . 726457_727220
 *CON:	+" I want experience . 727215_728242
 *GAB:	cool . 728225_729142
-*CON:	quiero@s:spa experimentar@s:spa todo@s:spa eso@s:spa . 729136_730785
+*CON:	[- spa] quiero experimentar todo eso . 729136_730785
 %eng:	I want to experience all that.
-*CON:	pero@s:spa quiero@s:spa xxx +/. 730988_731940
-%eng:	but I want ....
-*GAB:	+< xxx sigue@s:spa &=laugh . 731533_734041
-%eng:	... go on.
+*CON:	[- spa] pero quiero xxx +/. 730988_731940
+%eng:	but I want [...]
+*GAB:	+< [- spa] xxx sigue &=laugh . 731533_734041
+%eng:	[...] go on.
 *CON:	+< all around the world . 732834_734070
 *CON:	just para@s:spa (.) captar@s:spa con@s:spa mi@s:spa vista@s:spa todo@s:spa . 734008_737385
 %eng:	just to see everything.
-*GAB:	+< chévere@s:spa . 735620_736694
-%eng:	great.
-*CON:	sí@s:spa . 737298_737565
+*GAB:	+< [- spa] chévere xxx . 735093_738077
+%eng:	great [...]
+*CON:	[- spa] sí . 737298_737565
 %eng:	yes.
 *CON:	porque@s:spa es@s:spa cool . 737553_738366
 %eng:	because it's cool.
-*GAB:	yo@s:spa he@s:spa soñado@s:spa con@s:spa dos@s:spa lugares@s:spa . 738281_739980
+*GAB:	[- spa] yo he soñado con dos lugares . 738281_739980
 %eng:	I've dreamed about two places.
 *GAB:	[- spa] y sin nunca ir ahí . 739959_741852
 %eng:	and without having ever been there.
@@ -563,7 +561,7 @@
 %eng:	I dreamt I was in China.
 *GAB:	que@s:spa estaba@s:spa en@s:spa frente@s:spa de@s:spa una@s:spa universidad@s:spa (.) en@s:spa China@s:eng&spa . 745213_748290
 %eng:	I was in front of a university in China.
-*GAB:	[- spa] pero había un ataque en los buses . 748412_751082
+*GAB:	[- spa] y pero había un ataque en los buses . 748412_751082
 %eng:	but there was an attack on the buses.
 *GAB:	[- spa] estaban atacando a los estudiantes . 750974_752710
 %eng:	students were being attacked.
@@ -571,46 +569,41 @@
 %eng:	and we sat there at the side.
 *GAB:	[- spa] y todos los estudiantes estaban corriendo . 754324_756222
 %eng:	and all students were running.
-*GAB:	raro@s:spa . 756152_756692
-%eng:	weird
-*GAB:	y@s:spa el@s:spa otro@s:spa sueño@s:spa que@s:spa estaba@s:spa jugando@s:spa fútbol@s:spa en@s:spa Italia@s:eng&spa &=laugh . 756739_761635
+*GAB:	[- spa] raro . 756152_756692
+%eng:	weird.
+*GAB:	[- spa] y el otro sueño que estaba jugando fútbol en Italia@s:eng&spa &=laugh . 756739_761635
 %eng:	and the other dream was me playing football in Italy .
 *CON:	what ? 761374_762477
 *GAB:	[- spa] yo qué sueño xxx raro . 761397_763592
 %eng:	what am I dreaming [...] weird.
-*GAB:	[- spa] que habían unas &me +//. 763563_765095
-%eng:	there were some.
-*GAB:	[- spa] las calles eran así como esto . 764663_766915
-%eng:	streets were like this.
-*GAB:	las@s:spa ca(lles)@s:spa en@s:spa vez@s:spa de@s:spa las@s:spa calles@s:spa ser@s:spa de@s:spa [/] de@s:spa &con (.) concrete@s:spa . 766831_770517
-%eng:	the streets, instead of the streets being, concrete.
+*GAB:	[- spa] que habían unas &me [//] unas calles eran así como esto . 763332_766420
+%eng:	there were some streets that were like this.
+*GAB:	las@s:spa ca(lles)@s:spa en@s:spa vez@s:spa de@s:spa las@s:spa calles@s:spa ser@s:spa de@s:spa [/] de@s:spa &con (.) concrete . 766831_770517
+%eng:	the streets, instead of the streets being made of concrete.
 *GAB:	[- spa] eran de estos bloquecitos . 770514_772581
 %eng:	they were made of these little blocks.
-*GAB:	[- spa] y yo estaba jugando soccer . 772534_774763
+*GAB:	y@s:spa yo@s:spa estaba@s:spa jugando@s:spa soccer . 772534_774763
 %eng:	and I was playing soccer.
 *GAB:	[- spa] y nos metíamos en los xxx . 774726_777065
-%eng:	and we went into the ....
-%com:	check
-*GAB:	[- spa] y había un círculo donde estaban alrededor de edificios . 777065_780824
+%eng:	and we went into the [...]
+*GAB:	[- spa] y un [//] había un círculo donde estaban alrededor de edificios . 777065_780824
 %eng:	and there was a circle where they were, around buildings.
-*GAB:	[- spa] y adentro ahí estaba jugando soccer . 780754_783108
+*GAB:	y@s:spa adentro @s:spa ahí@s:spa estaba@s:spa jugando@s:spa soccer . 780754_783108
 %eng:	and inside there I was playing soccer.
 *GAB:	[- spa] y yo +"/. 782922_783665
 %eng:	and I.
 *GAB:	+" [- spa] qué raro . 783619_784658
 %eng:	how weird.
 *GAB:	&=laugh . 784675_787026
-*CON:	xxx Kazakhstan@s:eng&spa . 786957_789029
-%eng:	... Kazakhstan.
+*CON:	xxx Kazakhstan . 786957_789029
 *CON:	eso@s:spa no@s:spa es@s:spa de@s:spa donde@s:spa era@s:spa Borat@s:eng&spa ? 789052_790858
 %eng:	isn't that the place where Borat was from?
-*GAB:	+< Kazakhstan@s:eng&spa . 789830_791043
-%eng:	Kazakhstan.
+*GAB:	+< Kazakhstan . 789830_791043
 *GAB:	yeah &=laugh . 790834_792100
 *CON:	&=laugh . 790834_792100
 *GAB:	Borat@s:eng&spa was from there . 791934_793421
 *CON:	+< but it is so big that country ? 792741_794349
-*GAB:	no@s:spa dónde@s:spa ? 794303_796062
+*GAB:	[- spa] no dónde ? 794303_796062
 %eng:	no, where?
 *CON:	here fifty four . 795986_796944
 *GAB:	fifty five . 796892_797966
@@ -618,74 +611,72 @@
 *GAB:	+< ah@s:eng&spa fifty four . 798143_799165
 *CON:	look . 799130_799612
 *GAB:	&=gasp . 799211_800227
-*CON:	it's huge . 799658_801040
+*CON:	it's huge ! 799658_801040
 *GAB:	yeah . 800587_801040
 *GAB:	my mom didn't even know it existed . 801011_802531
 *GAB:	she's like +"/. 802383_803039
-*CON:	+< it's bigger than Colombia@s:eng&spa . 802616_804334
 *GAB:	+< +" ah@s:eng&spa . 803068_803527
+*CON:	+< it's bigger than Colombia@s:eng&spa . 802616_804334
 *GAB:	my mom started laughing like +". 803530_804975
-*GAB:	aha@s:eng&spa Kasakhstan@s:eng&spa he made that up . 804946_806589
-%com:	check .
-*GAB:	I mean +"/. 806586_806958
-%com:	check .
+*GAB:	aha@s:eng&spa Kazakhstan@s:eng&spa he made that up . 804946_806589
+*GAB:	and I'm like no +"/. 806586_806958
 *GAB:	+" no xxx . 806853_808531
-*CON:	talk like xxx . 808484_809872
-%com:	check .
+*CON:	talk like that . 808484_809872
 *CON:	xxx ? 809770_811053
-*GAB:	Kurd's_Republic@s:eng&spa . 810984_813126
-*CON:	Morocco@s:eng&spa . 814397_815552
-*CON:	ay@s:spa Morocco@s:eng&spa is cool . 816011_817717
+*GAB:	Kurdish republic . 810984_813126
+*CON:	Morocco . 814397_815552
+*CON:	ay@s:spa Morocco is cool . 816011_817717
 *GAB:	+< pues@s:spa sí@s:spa . 816162_816742
 %eng:	yes, sure.
 *CON:	it's just here . 818507_820138
 *GAB:	Morocco@s:eng&spa . 820097_821403
-*CON:	+< xxx . 820097_821403
-*CON:	you can go to Spain@s:eng&spa . 821270_822884
+*CON:	+< next to+// . 820097_821403
+*CON:	you can go to Spain@s:eng . 821270_822884
 *CON:	or those countries also . 822834_825034
-*CON:	you cannot [?] travel [?] because if you're helping people there <you're can> [//] just doing that . 825049_830288
+*CON:	you couldn't travel [?] because if you're helping people there <you're can> [//] just doing that . 825049_830288
 *GAB:	what do you mean ? 830282_830979
-*CON:	because if for example I mean in [/] in the case you're going to Morroco@s:eng&spa si@s:spa estás@s:spa ahí@s:spa tú@s:spa no@s:spa puedes@s:spa decir@s:spa +"/. 830985_837237
+*CON:	because if for example I mean in [/] in the case you're going to Morocco si@s:spa estás@s:spa ahí@s:spa tú@s:spa no@s:spa puedes@s:spa decir@s:spa +"/. 830985_837237
 %eng:	because if for example I mean in, in the case you're going to Morocco if you are there you can't say.
-*CON:	+" no@s:spa me@s:spa voy@s:spa a@s:spa pasar@s:spa para@s:spa España@s:eng&spa . 837388_838833
-%eng:	I'm not going to go to Spain.
-*GAB:	a@s:spa lo@s:spa menos@s:spa que@s:spa algo@s:spa pase@s:spa y@s:spa [/] y@s:spa dicen@s:spa +"/. 839317_841994
+*CON:	+" [- spa] nos vamos a pasar para España . 837388_838833
+%eng:	I'm going to Spain.
+*GAB:	[- spa] a lo menos que algo pase y [/] y dicen +"/. 839317_841994
 %eng:	unless something happens and, and they say.
 *GAB:	+" es@s:spa que@s:spa por@s:spa eso@s:spa es@s:spa tan@s:spa chévere@s:spa estar@s:spa aquí@s:spa like tener@s:spa la@s:spa vida@s:spa con@s:spa dios@s:spa . 842004_846156
 %eng:	that's why it is so great to be here, like, having a life with God.
-*GAB:	[- spa] me dicen +"/. 846159_849120
+*GAB:	[- spa] me dicen +"/. 846068_846985
 %eng:	they tell me
-*GAB:	+" ah@s:eng&spa mira@s:spa resulta@s:spa que@s:spa te@s:spa necesitan@s:spa en@s:spa España@s:eng&spa este@s:spa fin@s:spa de@s:spa semana@s:spa porque@s:spa una@s:spa familia@s:spa tan@s:spa tan@s:spa tan@s:spa tan@s:spa tan@s:spa . 846577_853354
+*GAB:	+" ah@s:eng&spa mira@s:spa resulta@s:spa que@s:spa te@s:spa necesitan@s:spa en@s:spa España@s:spa este@s:spa fin@s:spa de@s:spa semana@s:spa porque@s:spa una@s:spa familia@s:spa tan@s:spa tan@s:spa tan@s:spa tan@s:spa tan@s:spa . 846577_853354
 %eng:	look, it turns out that you're needed in Spain this weekend because a family such-and-such
-*GAB:	xxx . 853244_854939
-*CON:	sí@s:spa pero@s:spa sí@s:spa sí@s:spa sí@s:spa . 854961_856597
-%eng:	yes, definitely, yes, yes.
-*CON:	I mean . 856611_857372
-*CON:	xxx si@s:spa estás@s:spa en@s:spa &ma Marruecos@s:eng&spa nada@s:spa más@s:spa . 857414_860257
-%eng:	... if you are in Morocco, only that.
-*CON:	es@s:spa para@s:spa que@s:spa sirvas@s:spa [?] en@s:spa Marruecos@s:eng&spa . 860276_862045
-%eng:	so that you can serve [?] in Morocco.
+*GAB:	[- spa] y bajas ahí . 853244_854939
+*CON:	[- spa] sí pero sí sí sí . 854961_856597
+%eng:	yes, but, if, if, if.
+*CON:	I mean . 856366_857446
+*CON:	[- spa] si te [//] si estás en &ma Marruecos nada más . 857414_860257
+%eng:	if you are in Morocco, only that.
+*CON:	[- spa] es para que sirvas en Marruecos . 860276_862045
+%eng:	so that you can serve in Morocco.
 *CON:	[- spa] porque pa(ra) eso estás +//. 862056_863246
 %eng:	because that's what you are for.
-*CON:	en@s:spa España@s:eng&spa no@s:spa está@s:spa xxx . 863110_864608
-%eng:	... is not in Spain.
-*CON:	you wouldn't need to go to Spain@s:eng&spa . 864602_866947
+*CON:	[- spa] en España no está aquí so . 863110_864608
+%eng:	Spain isn't here, so.
+*CON:	you wouldn't need to go to Spain . 864602_866947
 %com:	there is a lot of noise in the recording.
-*CON:	xxx . 866773_867748
-*GAB:	pero@s:spa si@s:spa un@s:spa fin@s:spa de@s:spa semana@s:spa quieres@s:spa ir@s:spa a@s:spa Morroco@s:eng&spa . 867738_870320
+*CON:	[- spa] pues  no es un +... 866773_867748
+%eng:	because it is not a ...
+*GAB:	pero@s:spa si@s:spa un@s:spa fin@s:spa de@s:spa semana@s:spa quieres@s:spa ir@s:spa a@s:spa Morroco . 867738_870320
 %eng:	but if some weekend you want to go to Morocco.
-*CON:	xxx ah@s:eng&spa ? 870183_871716
-*CON:	a@s:spa España@s:eng&spa . 871704_872778
+*CON:	xxx country ah@s:eng&spa ? 870183_871716
+*CON:	[- spa] a España . 871704_872778
 %eng:	to Spain
 *GAB:	ah@s:eng&spa en@s:spa España@s:eng&spa . 872900_874212
 %eng:	oh, in Spain.
-*CON:	I don't think you could because you're volunteer in xxx . 874075_877065
-*GAB:	oh@s:eng&spa but they give you . 877036_878487
+*CON:	I don't think you could because you're volunteer in there . 874075_877065
+*GAB:	oh@s:eng&spa but they give you +/. 877036_878487
 *CON:	I think you are twenty four seven . 877036_878487
 *GAB:	yeah but they probably give you a day off two days off . 878490_881143
-*CON:	xxx just for one day . 881149_883094
+*CON:	yeah but just going for one day . 881149_883094
 *CON:	what happens if you're working here ? 883064_885770
-*CON:	and Spain@s:eng&spa is over there . 885783_887000
+*CON:	and Spain is over there . 885783_887000
 *CON:	it's like (.) being in [/] in Boston@s:eng&spa . 887012_890582
 *GAB:	+< &=laugh . 888637_889276
 *CON:	and you want just go to Mexico@s:eng&spa . 890533_892100
@@ -693,22 +684,22 @@
 *GAB:	&=laugh . 893435_895554
 *CON:	&=laugh that's +//. 894033_895374
 *CON:	+, not possible . 896079_898053
-*GAB:	+< xxx . 896178_897536
+*GAB:	+< I guess so . 896178_897536
 *GAB:	I don't know . 898099_898953
-*GAB:	but I wanna go [///] xxx where is Mozambique@s:eng&spa ? 898863_901330
+*GAB:	but I wanna go xxx where is Mozambique@s:eng&spa ? 898863_901330
 *CON:	+< xxx . 898863_901330
 *GAB:	Mozambique@s:eng&spa . 901330_902984
 *CON:	+< Mozambique@s:eng&spa . 901330_902984
 *CON:	Mozambique@s:eng&spa . 902967_904366
-*GAB:	therty six righ there . 904366_906491
+*GAB:	thirty six right there . 904366_906491
 *CON:	this is Madagascar@s:eng&spa xxx . 906871_909495
 *CON:	I know where's Madagascar@s:eng&spa . 909442_912049
 *GAB:	ah@s:eng&spa . 912040_913549
-*GAB:	Japan@s:eng&spa . 913515_915616
-*CON:	no Philipines@s:eng&spa . 915619_917546
-*GAB:	+< Philipines@s:eng&spa . 917186_918167
-*CON:	Japan@s:eng&spa is this one . 918214_920443
-*GAB:	+< Japan@s:eng&spa is +... 918214_920443
+*GAB:	Japan@s:eng . 913515_915616
+*CON:	no Philippines . 915619_917546
+*GAB:	+< Philippines . 917186_918167
+*CON:	Japan is this one . 918214_920443
+*GAB:	+< Japan is +... 918214_920443
 *GAB:	no are you crazy ? 920182_921563
 *CON:	yes it's +/. 921482_922747
 *GAB:	+< no it's not . 922103_923200
@@ -716,62 +707,788 @@
 *GAB:	+< are you crazy ? 923157_924358
 *GAB:	+< no . 925101_926135
 *GAB:	over here . 925952_927449
-*GAB:	that's Japan@s:eng&spa . 927426_928941
+*GAB:	that's Japan . 927426_928941
 *CON:	and what is this ? 930654_931855
-*GAB:	Thailand@s:eng&spa . 931797_932802
-*GAB:	xxx Malasia@s:eng&spa . 933286_935812
+*GAB:	Thailand . 931797_932802
+*GAB:	like part of Malaysia@s:eng&spa . 933286_935812
 *GAB:	yeah . 936293_936769
-*CON:	Philipines@s:eng&spa . 936293_937408
-*GAB:	Malasia@s:eng&spa . 937332_938877
-*GAB:	Japan@s:eng&spa . 940763_942435
-*CON:	oh@s:eng&spa xxx okey . 943837_945433
+*CON:	Philippines . 936293_937408
+*GAB:	Malaysia@s:eng&spa . 937332_938877
+*GAB:	Japan . 940763_942435
+*CON:	Rome I wanna go Rome o_k . 943837_945433
 %com:	long pause.
 *CON:	experience . 948762_949918
-*GAB:	+< &bi to teach English in another country it's for fun . 949037_952582
-%com:	check .
+*GAB:	+< xxx to teach English in another country it's super fun . 949037_952582
 *CON:	well you gotta know the language of the other +... 952617_954927
-*GAB:	yeah yeah I've spoken to the lady who give me the brochure . 955290_957862
+*GAB:	yeah yeah I spoke to the lady who give me the brochure . 955290_957862
 *GAB:	and she said that they teach you English for two years . 957670_960616
 *GAB:	I mean not English . 960599_962137
-*GAB:	they teach you the [/] <the coun(try)> [//] the language of the country you're going for two years . 962114_966517
-*CON:	wow but this program is long . 966488_968880
-*GAB:	yeah it's twenty seven months . 968793_970969
+*GAB:	they teach you the [/] <the coun(try)> [//] the language of the country you're going to for two years and the +/. 962114_966517
+*CON:	+< wow but this program is long . 966488_968880
+*GAB:	yeah it's twenty seven months you have to volunteer . 968793_970969
 *CON:	twenty seven months ? 970967_972516
 *CON:	that's (.) more than two years . 972505_974357
 *GAB:	yeah . 974316_975628
 *CON:	no . 975547_975750
 *CON:	I won't do that &=laugh . 975750_976934
-*GAB:	+< sí@s:spa un [///] it's a long time yeah ? 976415_979027
+*GAB:	+< sí@s:spa un [///] it's a long time right ? 976415_979027
 %eng:	yeah, a, it's a long time, yeah?
 *CON:	yeah . 979009_979857
 *CON:	it's only volunteer . 979819_981230
 *CON:	well they pay for everything . 981212_982652
 *GAB:	yeah . 982646_982936
 *GAB:	but it's like you <don't have> [//] you don't get a saving . 983047_985235
-*CON:	xxx . 983256_983987
-*GAB:	xxx . 985282_986205
-*CON:	for example if you (.) xxx is doing that it's clear . 985641_990880
-%com:	check
-*CON:	but my case xxx be . 990927_993324
+*GAB:	it's like +// . 985282_986205
+*CON:	+< but . 983256_983987
+*CON:	for example if you (.) your career is doing that it's good . 985622_990591
+*CON:	but my case wouldn't be . 990927_993324
 *GAB:	xxx . 994302_995696
-*CON:	xxx this helps xxx to develop a curriculum . 995690_1000537
+*CON:	because this [/] this helps you to develop a curriculum . 995690_1000537
 *CON:	it's not about developing curriculum either . 1001332_1004183
 *CON:	but pero@s:spa es@s:spa para@s:spa ayudar@s:spa a@s:spa la@s:spa gente@s:spa y@s:spa todo@s:spa eso@s:spa . 1004202_1006737
 %eng:	but, but it's about helping people and all that.
 *GAB:	+< xxx . 1004664_1006058
-*GAB:	mira@s:spa esa@s:spa vaca@s:spa flaca@s:spa . 1008910_1011050
+*GAB:	[- spa] mira esa vaca flaca . 1008910_1011050
 %eng:	look at that thin cow.
-*CON:	my goodness . 1011149_1012124
-*GAB:	hasta@s:spa la@s:spa vaca@s:spa está@s:spa +... 1012257_1013563
-%eng:	even the cow is[...]
-*CON:	estás@s:spa segura@s:spa que@s:spa es@s:spa una@s:spa vaca@s:spa ? 1013471_1014887
+*CON:	oh@s:eng&spa my goodness . 1011149_1012124
+*GAB:	[- spa] hasta la vaca está +... 1012257_1013563
+%eng:	even the cow is ...
+*CON:	[- spa] estás segura que es una vaca ? 1013471_1014887
 %eng:	are you sure that it is a cow?
-*GAB:	sí@s:spa . 1014852_1016187
+*GAB:	[- spa] sí . 1014852_1016187
 %eng:	yes.
 *CON:	+< are you sure it's a cow ? 1014852_1016187
 *CON:	xxx . 1016300_1017252
 *GAB:	or a horse ? 1017125_1018187
 *GAB:	it's look like a cow . 1018117_1019255
-*CON:	it is [//] no it is a cow . 1018117_1019975
-*GAB:	even the cow it's starving . 1019969_1021955
+*CON:	<it is a> [//] no it is a cow . 1018117_1019975
+*GAB:	even the cow is starving dude . 1019969_1021955
+*GAB:	that's horrible . 1022200_1023826
+*CON:	[- spa] xxx no se la pueden comer . 1023802_1026496
+%eng:	[...] they can't eat it.
+*CON:	&=laugh . 1026240_1027378
+*CON:	[- spa] xxx si las matan nada más (.) tienen para el huesito . 1027169_1031976
+%eng:	[...] if they kill them you only get bones.
+*GAB:	+< [- spa] xxx hueso . 1027401_1029863
+%eng:	[...] bone.
+%com:	long pause.
+*GAB:	interesting . 1034918_1037635
+*GAB:	xxx is a volunteer in Mongolia@s:spa&eng . 1037589_1040770
+*GAB:	it's super cool . 1041234_1043580
+*GAB:	but it's an experience of a lifetime . 1043440_1045414
+*CON:	[- spa] a ver ? 1045112_1045669
+%eng:	let me see.
+*CON:	let me see . 1045530_1046180
+*CON:	oh@s:eng&spa my God . 1046761_1048943
+*GAB:	+< even if you don't go with peace corps like if you go in mission [?] xxx . 1048432_1051637
+*GAB:	that's so awesome . 1050940_1052426
+*GAB:	I love it . 1052124_1053564
+*GAB:	you get to know so much [//] so many people +... 1053699_1056880
+*GAB:	xxx . 1058854_1060549
+*GAB:	but uh@eng . 1062871_1064775
+*GAB:	[- spa] sí después le digo lo que era . 1064217_1067584
+%eng:	I will tell him later what was it.
+*GAB:	&=laugh . 1066795_1067863
+*CON:	ah@eng&spa . 1067004_1068002
+*GAB:	[- spa] me da pena no lo quería rechazar . 1067956_1070347
+%eng:	I feel sorry, I didn't want to reject him.
+*CON:	what was that? 1070208_1071996
+*GAB:	ah@s:eng&spa un@s:spa amigo@s:spa . 1071787_1072832
+%eng:	it was a friend.
+*GAB:	[- spa] pero después yo le digo . 1072786_1074713
+%eng:	but I will tell him later.
+*GAB:	ah@s:eng&spa es@s:spa que@s:spa estamos@s:spa haciendo@s:spa un@s:spa record . 1074109_1076663
+%eng:	ah, we were recording something.
+*CON:	ah@s:eng&spa xxx . 1075706_1077076
+*GAB:	[- spa] pero de todas maneras no +... 1076472_1078446
+%eng:	but, anyway not...
+*CON:	+< [- spa] él podía venir .
+%eng:	he could come.
+*GAB:	[- spa] sí? 1079909_1081186
+%eng:	really?
+*CON:	[- spa] sí .
+%eng:	yes.
+*GAB:	[- spa] ay yo no lo sabía . 1081441_1083601
+%eng:	oh, I didn't know.
+*CON:	+< whatever . 1081441_1083601
+*CON:	[- spa] ya el te djio +"/. 1083299_1084855
+%eng:	he told you.
+*CON:	+" if you've to answer the phone . 1084669_1085992
+*CON:	+" you can answer it . 1085505_1087316
+*CON:	+" don't worry . 1086085_1087780
+*GAB:	+< ah@eng&spa bueno@s:spa bueno@s:spa . 1086248_1087641
+%eng:	ah, ok ok.
+*GAB:	[- spa] de todas maneras . 1087432_1088686
+%eng:	anyway.
+*CON:	+< it's just talking . 1088477_1090102
+*GAB:	[- spa] qué es esto? 1090056_1092006
+%eng:	what's that?
+*CON:	oh look . 1091287_1093121
+*CON:	a butterfly! 1091658_1093214
+*GAB:	[- spa] dónde? 1092448_1093701
+%eng:	where?
+*CON:	oh my God . 1093260_1094793
+*COB:	it's huge! 1094694_1096575
+*GAB:	[- spa] de qué hablas? 1096180_1097713
+%eng:	what are you talking about?
+*GAB:	&=laugh . 1097411_1098201
+*CON:	&=laugh . 1097411_1098201
+*GAB:	[- spa] ay no! 1097829_1098410
+%eng:	oh no!
+*GAB:	xxx . 1098224_1099013
+*GAB:	un@s:spa butterfly . 1098944_1099872
+%eng:	a butterfly.
+*CON:	&=laugh . 1099687_1100407
+*GAB:	[- spa] rosado y negro [=! laugh]. 1100174_1101985
+%eng:	pink and black.
+*CON:	+<  [- spa] xxx hay balones ahí arriba . 1100708_1104029
+%eng:	[...] there are balls up there.
+*GAB:	+< xxx . 1103495_1105863
+*CON:	[- spa] no sé . 1105445_1106235
+%eng:	I don't know.
+*GAB:	[- spa] te estás divirtiendo ahora? 1105910_1107094
+%eng:	are you having fun now?
+*CON:	[- spa] yo creo . 1106885_1107674
+%eng:	I believe.
+*CON:	viste@s:spa  techo@s:spa que@s:spa es@s:spa super@s:eng&spa cool? 1107280_1108975
+%eng:	did you see that the ceiling is super cool?
+*GAB:	[- spa] sí &p a tí te gusta ese diseño? 1108673_1111575
+%eng:	yes, do you like the design?
+*CON:	ah@s:eng&spa? 1111413_1112504
+*GAB:	[- spa] a tí te gusta ese diseño? 1112272_1114013
+%eng:	do you like the design?
+*CON:	um sí @s:spa y@s:spa no@s:spa . 1113967_1117404
+%eng:	yes and no.
+*CON:	o@s:spa sea@s:spa it's like +/. 1116489_1118555
+%eng:	I mean, it's like.
+*GAB:	[- spa] a mí no me gusta . 1117975_1119693
+%eng:	I don't like it.
+*CON:	+< [- spa] experimentándolo . 1118787_1120436
+%eng:	experiencing it.
+*GAB:	+< [- spa] se ensucia . 1119159_1120947
+%eng:	it gets dirty.
+*CON:	[- spa] lo ves . 1120459_1121597
+%eng:	you see it.
+*CON:	es@s:spa que@s:spa de@s:spa eso@s:spa se@s:spa trata@s:spa architecture [=! yawn]. 1121388_1124662
+%eng:	this is what architecture is about.
+*GAB:	[- spa] de qué? 1124267_1125660
+%eng:	about what?
+*CON:	[- spa] &=yawn de experimentar todo y verlo . 1125544_1127936
+%eng:	about experiencing everything and see it.
+*CON:	[- spa] o sea yo [/] yo [//] yo he [/] yo he de verdad que cuando uno estudia eso uno cambia el concepto en como ve todo . 1127634_1133253
+%eng:	I mean, I have, when one studies that, one changes the concept in which you see everything.
+*CON:	<uno@s:spa empie(za)@s:spa> [//] te@s:spa empiezas@s:spa a@s:spa desarrollar@s:spa como@s:spa a@s:spa develop esas@s:spa cosas@s:spa de@s:spa [/] de@s:spa ver@s:spa todo@s:spa diferente@s:spa [///] de@s:spa forma@s:spa diferente@s:spa . 1133084_1141280
+%eng:	one start, you start to develop, like to develop these things about seeing everything different, in a different way.
+*CON:	like the approach you have for everything . 1140863_1144833
+*GAB:	entonces@s:spa como@s:spa ves@s:spa este@s:spa [/] este@s:spa scenario . 1143719_1147666
+%eng:	then how do you see this scenario.
+*CON:	[- spa] tú sabes yo lo veo y como que me inspiro para hacer algo . 1147400_1151463
+%eng:	you know, I see it and like I get inspired to do something.
+*CON:	[- spa] lo estoy viendo &des [///] no estoy pendiente del espacio sino que estoy pendiente de la estructura . 1151115_1155689
+%eng:	I'm seeing it from, I don't pay attention to the space but to the structure.
+*CON:	[- spa] estoy pendiente de [/] de cómo circula la gente . 1155202_1158754
+%eng:	I pay attention to how the flow of people is.
+*CON:	[- spa] de la luz . 1158406_1160914
+%eng:	to the light.
+*CON:	[- spa] de que es muy oscuro . 1160426_1162632
+%eng:	to the fact that it is very dark.
+*GAB:	[- spa] verdad? 1161796_1162818
+%eng:	isn't it right?
+*GAB:	[- spa] es muy oscuro . 1162562_1164838
+%eng:	it is very dark.
+*CON:	[- spa] sí porque de repente ellos querían hacer +/. 1164536_1167044
+%eng:	yes, because they wanted to make.
+*GAB:	+< [- spa] y es como que muy &kj . 1164536_1167044
+%eng:	and it is like very (sound).
+%com:	guttural sound.
+*CON:	+, hacer@s:spa algo@s:spa bastante@s:spa macizo@s:spa pero@s:spa querían@s:spa mantener@s:spa <el@s:spa &e> [//] la@s:spa conexión@s:spa entre @s:spa esta@s:spa parte@s:spa de@s:spa college y@s:spa la@s:spa otra@s:spa parte@s:spa . 1166714_1174562
+%eng:	to make something quite solid, but they wanted to keep the connection between this part of the college and the other one.
+*CON:	[- spa] porque si no hubiese estado este hueco acá (.) las personas hubiesen tenido que dar toda la vuelta alrededor . 1174191_1180019
+%eng:	because if there hadn't been this cavity here people would have had to turn around completely.
+*CON:	and that would be like bothersome because xxx +/. 1179973_1183804
+*GAB:	+< [- spa] entonces qué hubieran podido hacer . 1183525_1185824
+%eng:	then what could have they done?
+*CON:	nada@s:spa this was the only options . 1185685_1187983
+%eng:	nothing, this was the only option.
+%com:	option would be the correct word here.
+*CON:	pero@s:spa como@s:spa la@s:spa librería@s:spa is so huge (.) you gotta make a whole xxx  to make a [/] a room over there . 1187860_1194826
+%eng:	but since the library is si huge, you gotta make a whole [...] to make a room over there.
+*COM:	but is good also +/. 1194223_1196730
+*GAB:	+< yeah but how do they [///] how will [///] cómo@s:spa lo@s:spa puedes@s:spa improve? 1194617_1199006
+%eng:	yeah, but how do they, how will, how can you improve it?
+*CON:	+, because +//. 1196730_1198124
+%com:	pause.
+*CON:	ah@s:eng I don't know . 1199772_1202419
+*CON:	the building would have to be thinner . 1202582_1204346
+*CON:	but what's good about this it's because is this deep it allows the air go beneath the [/] the building so +/. 1204114_1211150
+*GAB:	+< xxx . 1210407_1212311
+*CON:	+, so that's why this is so fresh . 1210880_1214061
+*CON:	they did it in that way because this is always like that . 1214014_1218194
+*GAB:	yeah . 1218357_1219239
+*CON:	[- spa] <aunque haya> [/] aunque haya brisa fuera o no haya brisa fuera el aire siempre va a entrar por aquí como +... 1219007_1225694
+%eng:	whether there is breeze outside or not, the air is always going to go into here.
+*GAB:	[- spa] brisa . 1220191_1221723
+%eng:	breeze.
+*CON:	[- spa] imagínate . 1224812_1226298
+%eng:	imagine it.
+*CON:	it's like pressure . 1226094_1227882
+*CON:	[- spa] todo el aire está fuera pero se mete por un huequito así . 1227817_1229953
+%eng:	all the air is outside but it comes into by a little hole like this.
+*CON:	[- spa] siempre va a fluir . 1227487_1231296
+%eng:	it is always going to flow.
+%com:	pause.
+*CON:	[- spa] después eso [//] esta parte siempre va a estar refrescada así &=imit:wind . 1232958_1237161
+%eng:	after that this part is always going to be fresh like that (shh).
+*CON:	[- spa] pero por ejemplo ellos pudieron haberlo hecho más clara poniendo un piso más claro . 1237114_1241898
+%eng:	buy they could have make it clearer by putting a clearer floor.
+*GAB:	+< [- spa] sí pero +... 1238508_1240412
+%eng:	yes but.
+*CON:	en@s:spa vez@s:spa de@s:spa hacer@s:spa concrete esto@s:spa con@s:spa un@s:spa piso@s:spa de@s:spa marble se@s:spa vería@s:spa super@s:eng&spa cool . 1241991_1247192
+%eng:	instead of made of concrete, this with a marble floor would look super cool.
+*GAB:	[- spa] sí . 1246994_1248317
+%eng:	yes.
+*CON:	[- spa] o en vez de usar pintura gris usar pintura clara . 1248178_1251196
+%eng:	or instead of using grey paint, using clear paint.
+*GAB:	+< pero@s:spa después@s:spa cuando@s:spa llueve@s:spa se@s:spa pone@s:spa muy@s:spa slippery . 1248573_1252032
+%eng:	yes, but after that it gets very slippery.
+*CON:	+< slippery . 1251289_1252543
+*CON:	[- spa] esa es la cuestión . 1252265_1254842
+%eng:	this is the thing.
+*GAB:	pero@s:spa y@s:spa si@s:spa también@s:spa sabes@s:spa lo@s:spa que@s:spa I picture? 1253658_1257559
+%eng:	but and if do you know what I picture as well?
+*GAB:	[- spa] dos edif(icios) [///] el [//] la librería separada entre dos edificios y después en el medio un corredor que la gente puede cruzar al otro lado del [//] de la librería . 1256985_1266854
+%eng:	two buildings, the library divided into two buildings and then in the middle a corridor that the people can cross to the other part of the library.
+*GAB:	[- spa] y así hubiera espacio . 1269292_1271730
+%eng:	and then there would be room.
+*CON:	+< ah@s:eng&spa . 1270403_1270984
+*CON:	[- spa] pero sería el mismo tamaño el edificio pero estás quitándole todo ese hueco para ese corredor . 1271541_1277555
+%eng:	but the building would be the same size, but you are taking away all this room for that corridor.
+*GAB:	[- spa] sí . 1274560_1276417
+%eng:	yes.
+*GAB:	[- spa] es &mu [//] es +//. 1277810_1279320
+%eng:	is, is.
+*CON:	[- spa] entonces +... 1277810_1279320
+%eng:	so...
+*GAB:	[- spa] estás gastando +... 1278902_1280736
+%eng:	you are using.
+*CON:	[- spa] estás gastando espacio . 1280039_1281665
+%eng:	you are using space.
+*GAB:	ah@s:eng&spa . 1281224_1282315
+*CON:	+< eso@s:spa se@s:spa llama@s:spa efficiency . 1281804_1283964
+%eng:	that it's called efficiency.
+*GAB:	+< [- spa] o bueno este hueco más alto . 1282222_1284614
+%eng:	or well, that cavity higher.
+*GAB:	[- spa] y el edificio más alto . 1284614_1286402
+%eng:	and the building higher.
+*GAB:	[- spa] o sea sigue siendo siete pies . 1286077_1288747
+%eng:	I mean, it's still seven feet.
+*CON:	+< xxx . 1286727_1287563
+*GAB:	[- spa] pero todo más alto para que ese hueco sea más largo . 1288445_1291162
+%eng:	but everything higher to make the cavity longer.
+*CON:	that would mean more +//. 1291151_1294448
+*GAB:	+< [- spa] <pero más> [//] pero para la gente . 1292962_1296584
+%eng:	but more, bot for the people.
+*GAB:	[- spa] o sea es como se+/. 1295330_1296677
+%eng:	I mean, is like.
+*CON:	+< [- spa] <esa es> [//] pero es que esa es la cuestión . 1295841_1297490
+%eng:	this is, but this is the issue.
+*GAB:	would it be people friendly? 1297861_1299533
+*GAB:	like xxx . 1299394_1300207
+*GAB:	I like furniture and buildings and I like people friendly not +//. 1299974_1303434
+*CON:	como@s:spa ayer@s:spa por@s:spa ejemplo@s:spa <en@s:spa la@s:spa ca(sa)@s:spa> [//] en@s:spa el@s:spa bookstore al@s:spa frente@s:spa a@s:spa mí@s:spa <me@s:spa gusta@s:spa> [//] me@s:spa gustó@s:spa ese@s:spa hueco@s:spa . 1303945_1308032
+%eng:	like yesterday for example in the house, in the bookstore in front of, I like, I liked that spot.
+*GAB:	[- spa] cuál hueco? 1307823_1309309
+%eng:	what spot?
+*CON:	el@s:spa huequito@s:spa donde@s:spa están@s:spa los@s:spa [/] todos@s:spa los@s:spa paintings <en@s:spa la@s:spa> [/] en@s:spa la@s:spa pared@s:spa . 1308705_1311283
+%eng:	the little spot where there are all the paintings on the wall.
+*GAB:	ah@s:eng&spa sí@s:spa . 1311070_1312440
+%eng:	ah yes.
+*CON:	[- spa] y es un poco xxx . 1312905_1315459
+%eng:	and it is a bit [...].
+*CON:	se@s:spa siente@s:spa así@s:spa todo@s:spa como@s:spa comfortable that . 1315296_1318361
+%eng:	it feels like all comfortable that.
+*CON:	[- spa] ahí [/] ahí todo . 1317665_1319081
+%eng:	there, there everything.
+*GAB:	+< [- spa] sí . 1317665_1319081
+%eng:	yes.
+*CON:	[- spa] te puedes tirar y eso . 1318222_1320544
+%eng:	you can lay down there.
+*CON:	[- spa] pero lo que pasa es que tienes [///] que cuando ya estás en estas cosas en arquitectura y eso tienes que ver que hay mucha [/] mucha cosa más que tienes +/. 1320033_1326860
+%eng:	but what happens is that you have, that when you are already into these things in architecture and that, you have to see that there is a lot of things you have to.
+*GAB:	+< [- spa] intereses del dinero? 1325397_1326860
+%eng:	money interests?
+*CON:	claro@s:spa porque@s:spa budget . 1327278_1328973
+%eng:	of course, because of the budget.
+*CON:	[- spa] tú diseñas pero tú no eres el que está pagando por el diseño . 1328787_1331992
+%eng:	you design, but you are not the one paying for the design.
+*GAB:	[- spa] sí . 1332061_1333037
+%eng:	yes.
+*CON:	+< somebody else . 1332334_1334169
+*CON:	you design it for somebody else . 1333890_1335655
+%com:	ringing sound.
+*GAB:	[- spa] pero si totalmente tendrías que +... 1337327_1339718
+%eng:	but if you totally had to...
+*GAB:	[- spa] o sea +//. 1339625_1340856
+%eng:	I mean.
+*CON:	[- spa] entonces ellos te +/. 1341135_1342783
+%eng:	then they.
+*GAB:	+< si@s:spa +... 1342110_1342737
+%eng:	if...
+*CON:	[- spa] ellos más o menos te dicen podemos gastar tanto y +//. 1342389_1345454
+%eng:	they say more or les we can spend this much.
+*CON:	[- spa] pero tú tienes que limitarte a eso . 1344989_1346986
+%eng:	but you have to adjust to that.
+*GAB:	+< [- spa] pero vamos a decir +//. 1346266_1348008
+%eng:	but let's say.
+*GAB:	no@s:spa estoy@s:spa hablando@s:spa de@s:spa actual realistic jobs . 1347079_1350562
+%eng:	I'm not talking about actual reallistic jobs.
+*GAB:	[- spa] estoy hablando de tu creatividad . 1350191_1353023
+%eng:	I'm talking about creativity.
+*GAB:	o@s:spa sea@s:spa tú@s:spa diseñar@s:spa algo@s:spa porque@s:spa te@s:spa gusta@s:spa por@s:spa el@s:spa [///] aesthetically . 1352095_1356437
+%eng:	I mean you design something because you like it because, aesthetically.
+*GAB:	like porque@s:spa te@s:spa gusta@s:spa . 1356803_1358382
+%eng:	like because you like it.
+%com:	pause.
+*GAB:	[- spa] ay@s:spa yo me comí un xxx así de grande . 1360077_1363722
+%eng:	yesterday I ate one [...] this big.
+*CON:	&=laugh . 1363676_1365069
+*CON:	[- spa] qué ver un pan con el +... 1364628_1366625
+%eng:	what has bread to do with...
+*GAB:	&=laugh . 1366602_1367577
+*CON:	[- spa] yo tengo hambre ahora quiero +... 1367438_1369760
+%eng:	I'm hungry now, I want...
+*GAB:	+< no@s:spa porque@s:spa te@s:spa ví@s:spa yawning . 1368134_1370619
+%eng:	no, because I saw you yawning.
+*CON:	+, [- spa] quiero comer . 1369783_1370897
+%eng:	I want to eat.
+*CON:	me@s:spa comí@s:spa unas@s:spa papitas@s:spa de@s:spa Jane@s:eng&spa . 1370758_1373451
+%eng:	I ate some of Janes' potatoes.
+*GAB:	oh @s:eng&spa my goodness . 1373289_1374938
+*CON:	Jane@s:eng&spa xxx . 1374752_1375890
+*GAB:	y@s:spa cómo@s:spa está@s:spa Jane@s:eng&spa? 1374738_1376619
+%eng:	and how is Jane?
+*CON:	Jane@s:eng&spa? 1376340_1377896
+*CON:	[- spa] pues ahí <en el> [//] en su casa . 1377176_1379196
+%eng:	there, at home.
+*GAB:	[- spa] yo estuve [///] cuando yo la ví el primer día yo estuve bien con ella . 1378523_1382052
+%eng:	when I saw she the first day I was well with her.
+*GAB:	[- spa] no se si te contó . 1381657_1383445
+%eng:	I don't know if she told you.
+*CON:	[- spa] ay sí . 1382981_1383910
+%eng:	oh yes.
+*CON:	[- spa] que le digo +"/. 1383515_1384397
+%eng:	I told her.
+*CON:	+" Jane@s:eng&spa ya@s:spa por@s:spa favor@s:spa . 1383956_1385349
+%eng:	Jane, enough, please.
+*CON:	+" [- spa] cállate [=! laugh]. 1385721_1386464
+%eng:	shut up.
+*GAB:	[- spa] ay no . 1385187_1386278
+%eng:	oh no.
+*GAB:	xxx . 1386952_1388229
+*CON:	+" [- spa] ay pero ay ay . 1388459_1390085
+%eng:	oh but oh oh.
+*CON:	[- spa] me decía +". 1389597_1390410
+%eng:	she told me.
+*CON:	+" ay@s:spa ay@s:spa Connor@s:eng&spa . 1390108_1391826
+%eng:	oh oh Connor.
+*CON:	pero@s:spa de@s:spa Gabrielle@s:eng&spa! 1391594_1393451
+%eng:	but from Gabrielle!
+*GAB:	oh@s:eng&spa . 1393010_1393777
+*CON:	oh@s:eng&spa no . 1392801_1394450
+*GAB:	&=laugh . 1393869_1394984
+*CON:	+" [- spa] yo papi papi . 1394589_1395820
+%eng:	oh my gosh.
+%com:	papi here means an affectionate way to say buddy.
+*CON:	+" [- spa] yo no me esperaba eso . 1396261_1397585
+%eng:	I didn't expect that.
+*GAB:	&=laugh . 1397352_1398142
+*CON:	+" [- spa] discúlpame y perdona . 1397701_1399094
+%eng:	excuse me and forgive me.
+*CON:	+" [- spa] pero yo [///] dónde quedó [/] dónde quedó +..? 1398978_1401602
+%eng:	but where was it left?
+*CON:	+" ah@s:eng&spa ah@s:eng&spa &n &n no@s:spa no@s:spa . 1401509_1404249
+%eng:	ah no no.
+*GAB:	[- spa] xxx dónde quedó qué . 1403877_1405572
+%eng:	[...] where was left what.
+*CON:	[- spa] ella decia +"/. 1405828_1406780
+%eng:	she said.
+*CON:	+" [- spa] dónde quedó la [/] la cristianidad y [/] y &to &t . 1406362_1409845
+%eng:	where was the Christianity left and.
+*CON:	+" [- spa] no papi no . 1409705_1411331
+%eng:	no, man, no.
+*CON:	+" [- spa] eso no se hace . 1411122_1412051
+%eng:	that can't be done.
+*CON:	xxx . 1411517_1414907
+*CON:	[- spa] pues yo le decía +"/. 1414603_1415996
+%eng:	I told her.
+*CON:	+" xxx . 1415509_1416600
+*GAB:	[- spa] pero y ella se estaba enfocando +//. 1416391_1418017
+%eng:	but she was focusing.
+*GAB:	[- spa] pues sí. 1417575_1418852
+%eng:	yeah.
+*GAB:	ay@s:spa yo@s:spa no@s:spa sé@s:spa . 1418713_1419990
+%eng:	oh, I don't know.
+*GAB:	anyway &s . 1419456_1420455
+*CON:	oh@s:eng&spa my goodness . 1419967_1421500
+*GAB:	[- spa] pero qué tu hiciste eso de verdad? 1421035_1422753
+%eng:	but did you really do that?
+*GAB:	[- spa] ell(a) [///] pero mira . 1422382_1424054
+%eng:	she, but look.
+*CON:	+< it's like &pk . 1423264_1425284
+%eng:	it's like (sound).
+%com:	hits something.
+*GAB:	[- spa] no! 1424843_1425308
+%eng:	no.
+*CON:	&=laugh . 1425192_1425818
+*GAB:	[- spa] le dije +"/. 1425656_1426469
+%eng:	I told her.
+*GAB:	+" [- spa] toma la cámara . 1426631_1427653
+%eng:	take the camera.
+*GAB:	[- spa] y me fui . 1427374_1428233
+%eng:	and I went away.
+*GAB:	[- spa] porque estaba hirviendo [///] la sangre me estaba hirviendo . 1427815_1431856
+%eng:	because it was boling, my blood was boiling.
+*GAB:	[- spa] no sabía qué hacer . 1431507_1433086
+%eng:	I didn't know what to do.
+*CON:	why? 1432947_1433574
+*GAB:	[- spa] porque mira . 1433365_1434642
+%eng:	because look.
+*GAB:	[- spa] yo estaba llamado a gente verdad? 1434642_1436941
+%eng:	I was attracting people.
+*GAB:	[- spa] y ese viene . 1436709_1438427
+%eng:	and this one comes.
+*GAB:	[- spa] y era un grupo grande . 1438125_1439240
+%eng:	and it was a big group.
+*GAB:	[- spa] y &solam [///] era el domingo . 1438822_1439890
+%eng:	and it was Sunday.
+*GAB:	[- spa]  estaba ahí por cuatro horas solamente . 1439774_1441631
+%eng:	I was there just for four hours.
+*GAB:	[- spa] y ella se tiró enfrente del +//. 1441418_1443856
+%eng:	and she threw herself just in front of me.
+*GAB:	[- spa] o sea ni &rien [///] se tiró enfrente de mí . 1443647_1446550
+%eng:	I mean, not even, she threw herself in front of me.
+*GAB:	[- spa] cogió mi cliente . 1446132_1448199
+%eng:	she took my customer.
+*GAB:	[- spa] lo llevó . 1447572_1447943
+%eng:	she took him away.
+*GAB:	[- spa] le tomó fotos . 1448264_1449262
+%eng:	she took pictures.
+*GAB:	[- spa] al cliente le llegó tres cuatro familias . 1449111_1451712
+%eng:	to the customer came three of four members of his family.
+*GAB:	[- spa] y le tomó fotos a todos ellos . 1451700_1453209
+%eng:	and she took photos of everyone.
+*GAB:	[- spa] y les vendió y ya . 1453235_1454529
+%eng:	and she sold them and that's it.
+*GAB:	[- spa] quedó en su número . 1454471_1455969
+%eng:	it counted for her number.
+*GAB:	[- spa] entonces yo +"/. 1456580_1456975
+%eng:	then I.
+*GAB:	+" ok Jane@s:eng&spa yo@s:spa juego@s:spa contigo@s:spa pero@s:spa no@s:spa se@s:spa +/. 1456945_1460079
+%eng:	oh Jane, I go along with you, but I don't know.
+*GAB:	+" [- spa] no te pases . 1459870_1460973
+%eng:	do not go too far.
+*GAB:	[- spa] o sea +... 1461020_1461647
+%eng:	I mean.
+*CON:	[- spa] ella lo que me dijo fue que como tú tenías a un montonón de gente y ya ahí le estabas tomando fotos entonces que llegó otra persona +/. 1462773_1469007
+%eng:	and what she told me is that you already had a lot of people and you where already taking pictures then another person came.
+*GAB:	[- spa] no . 1468843_1469528
+%eng:	no.
+*GAB:	[- spa] ella me lo cogió desde antes . 1469377_1471548
+%eng:	she took him before.
+*GAB:	[- spa] no llegó gente . 1471177_1472442
+%eng:	nobody came.
+*GAB:	[- spa] ella después comenzó a torcer la historia +"/. 1472233_1474753
+%eng:	she started twisting the story later.
+*GAB:	+" [- spa] no es que te &re [///] es para ayudarte . 1474474_1476471
+%eng:	no, it is to help you.
+*GAB:	no@s:spa Jane@s:eng&spa no@s:spa fue@s:spa para@s:spa ayudarme@s:spa . 1476239_1477620
+%eng:	no Jane, it wasn't to help me.
+*GAB:	[- spa] tú lo llamaste antes que yo lo pude hacer llegar a la cámara . 1477539_1481057
+%eng:	you attracted him before I could make him go to the camera.
+*GAB:	[- spa] entonces yo [///] por eso me molesté . 1481037_1483510
+%eng:	then I, that's why I got angry.
+*GAB:	[- spa] porque ella xxx +//. 1483197_1485507
+%eng:	because she [...].
+*GAB:	[- spa] sentí que estaba abusando de la amistad . 1485249_1487502
+%eng:	I felt she was taking advantage of our friendship.
+*GAB:	[- spa] o sea como se estaba riendo y todo . 1487269_1489290
+%eng:	I mean, like se was laughing and everything.
+*GAB:	[- spa] se cogió el cliente y yo me fui . 1489185_1491310
+%eng:	she took the customer and I went away.
+*GAB:	[- spa] pero de todas maneras para mí fue una lección porque mira . 1491287_1495350
+%eng:	but either way it was a lesson because look.
+*GAB:	[- spa] cuando yo estaba hirviendo verdad? 1495371_1498088
+%eng:	when I was boiling, right?
+*GAB:	[- spa] y yo sentía al señor diciéndome +"/. 1498042_1499586
+%eng:	and I heard the Lord saying.
+*GAB:	+" [- spa] cálmate cálmate cálmate . 1499435_1502221
+%eng:	calm down, calm down, calm down.
+*GAB:	[- spa] entonces dios me dijo +"/. 1501362_1502326
+%eng:	then God told me.
+*GAB:	+" [- spa] no te preocupes que yo te voy a mandar otra venta que va a ser aún más . 1502175_1506273
+%eng:	do not worry because I'm going to send you a sale which is going to be greater.
+*GAB:	[- spa] pero yo no tuve paciencia <para expresar> [//] para esperar en el señor . 1506176_1509845
+%eng:	but I wasn't patient to express, to have faith in the Lord.
+*GAB:	[- spa] porque cuando vino ese otro cliente yo sentía algo que me dijo +"/. 1509752_1512666
+%eng:	because of that when anoher customer came in and I heard that something said.
+*GAB:	+" [- spa] este es el cliente . 1512597_1514582
+%eng:	this is the customer.
+*GAB:	+" [- spa] ese te va a comprar bastante . 1513920_1515766
+%eng:	this one is going to buy a lot.
+*GAB:	pero@s:spa entonces@s:spa vino@s:spa Jane@s:eng&spa y@s:spa otra@s:spa vez@s:spa me@s:spa iba@s:spa a@s:spa coger@s:spa la@s:spa cámara@s:spa . 1515499_1519028
+%eng:	but then Jane came and again she was going to take the camera.
+*GAB:	[- spa] y yo [///] ahí es donde se me fue <hasta el &pu> [//] hasta la cabeza . 1518622_1522453
+%eng:	and I, that's when I got mad.
+*GAB:	[- spa] yo le dije +"/. 1522233_1523278
+%eng:	and I told her.
+*GAB:	+" [- spa] toma la cámara . 1522999_1523661
+%eng:	take the camera.
+*GAB:	[- spa] y me fui . 1523951_1524578
+%eng:	and I went away.
+*GAB:	[- spa] porque ella jugando +"/. 1524482_1525643
+%eng:	because she playing.
+*GAB:	+" [- spa] venga te lo hago . 1525504_1526479
+%eng:	come on, I will do it for you.
+*GAB:	[- spa] así riéndose otra vez . 1526630_1527954
+%eng:	like that laughing again.
+*GAB:	[- spa]  y yo +"/. 1528418_1529057
+%eng:	and me.
+*GAB:	oh@s:eng&spa toma@s:spa la@s:spa cámara@s:spa . 1529335_1531414
+%eng:	oh, take the camera.
+*GAB:	[- spa] y me fui caminando . 1531007_1532099
+%eng:	and I walked away.
+*GAB:	[- spa] y después regresé . 1531994_1533364
+%eng:	then I came back.
+*GAB:	[- spa] y le dije +"/. 1533817_1534769
+%eng:	and I told her.
+*GAB:	+" [- spa] mira . 1534837_1535510
+%eng:	look.
+*GAB:	[- spa] y ella me dijo +"/. 1536392_1537542
+%eng:	and she told me.
+*GAB:	+" [- spa] ay por qué te pusiste así tal cosa? 1537019_1538877
+%eng:	oh. why did you get so angry and so on.
+*GAB:	[- spa] no se qué . 1538679_1539748
+%eng:	whatever.
+*GAB:	[- spa] y entonces yo le dije . 1540642_1541768
+%eng:	and I told her.
+*GAB:	&pu +//. 1541686_1542197
+*GAB:	[- spa] yo le dije +"/. 1542104_1542476
+%eng:	I told her.
+*GAB:	+" [- spa] yo preferí no reaccionar así . 1542546_1544322
+%eng:	I preferred not to react like that.
+*GAB:	+" [- spa] obviamente no me hubiera gustado reaccionar así . 1544131_1546789
+%eng:	obviously I wouldn't have liked to react like that.
+*GAB:	+" pero@s:spa ya@s:spa me@s:spa molestó@s:spa porque@s:spa sentí@s:spa que@s:spa te@s:spa estabas@s:spa like pasando@s:spa . 1546697_1551491
+%eng:	but I got angry because I felt you were, like, going too far.
+*GAB:	[- spa] entonces ahí ya hablamos tal cosa . 1551480_1553059
+%eng:	and then we talked about it.
+*GAB:	[- spa] y resulta . 1552769_1553593
+%eng:	and it ended up.
+*GAB:	el@s:spa cliente@s:spa ese@s:spa que@s:spa se@s:spa quedó@s:spa lo@s:spa atendió@s:spa Marta@s:eng&spa . 1553593_1556240
+%eng:	the customer that stayed was served by Marta.
+*GAB:	 y@s:spa les@s:spa vendió@s:spa setenta@s:spa dólares@s:spa que@s:spa era@s:spa más@s:spa de@s:spa lo@s:spa que@s:spa Jane@s:eng&spa les@s:spa había@s:spa vendido@s:spa . 1555903_1561824
+%eng:	and she sold him seventy dollars, which was more than what Jane had sold them.
+*GAB:	[- spa] o sea dios tenía la razón . 1561279_1562892
+%eng:	I mean God was right.
+*GAB:	[- spa] me estaba mandando el cliente pero yo no tuve paciencia para esperar y dejar que se me pasara la rabia . 1562749_1568682
+%eng:	he was sending me the customer but I was not patient enough to wait and let the anger dissapear.
+*GAB:	[- spa] me entiendes? 1568461_1569750
+%eng:	do you understand me?
+*GAB:	entonces@s:spa ahí@s:spa eh@s:eng&spa aprendí@s:spa . 1569390_1571897
+%eng:	then there I learnt.
+*GAB:	[- spa] xxx pues ella se estaba poniendo mal y yo dije +"/. 1573486_1575681
+%eng:	[...] beause she was getting upset and I told her.
+*GAB:	+" [- spa] pero tú no tienes razón de ponerte mal . 1575623_1577643
+%eng:	but you have no reason to get upset.
+*GAB:	[- spa] ella no tiene razón de estar &ma [//] rabiosa de nada si ella se metió +//. 1577840_1582008
+%eng:	she has no reason to be upset because of anything if she started.
+*GAB:	[- spa] o sea . 1581869_1582716
+%eng:	I mean.
+*GAB:	[- spa] me entiendes? 1583130_1583850
+%eng:	do you understand me?
+*CON:	[- spa] xxx esa era una sola persona entonces . 1584709_1587333
+%eng:	[...] that was only a person then.
+*GAB:	+< xxx . 1584686_1585684
+*CON:	[- spa] no es que venía +/. 1587263_1588494
+%eng:	no, it is it was coming.
+*GAB:	+< [- spa] no . 1587542_1587971
+%eng:	no.
+*GAB:	[- spa] era una familia toda grande . 1587716_1589585
+%eng:	it was a big family.
+*GAB:	[- spa] pero yo llamé [///] una persona . 1589550_1591617
+%eng:	but I attracted one person.
+*GAB:	[- spa] ella me quitó esa persona . 1591571_1593695
+%eng:	and she took away that person from me.
+*GAB:	[- spa] entonces como ya me lo quitó atendí el hermano o el amigo de él . 1593170_1598533
+%eng:	then sonce she took him away I served his brother or friend.
+*GAB:	[- spa] después llegaron más gente pero ella les tomó gente [//] fotos a todo el grupo . 1598522_1602562
+%eng:	later more people came, but she took people, photos to all of them.
+*GAB:	[- spa] incluso le dijo a todo el grupo que se pararan juntos y les tomó fotos . 1602446_1605418
+%eng:	she even told the whole group to stand together and she took photos of them.
+*CON:	[- spa] xxx morcilla? 1606173_1607554
+%eng:	[...] black pudding?
+*GAB:	[- spa] no sé . 1608518_1609412
+%eng:	I don't know.
+*CON:	[- spa] el de la morcilla fue un poco de negros . 1609617_1612194
+%eng:	the black pudding one was a bit dark [?].
+*GAB:	[- spa] sí fue un poco de negros xxx . 1612461_1614690
+%eng:	yes, it was a bit dark [...].
+*CON:	+< [- spa] dijo +"/. 1614504_1614946
+%eng:	she said.
+*CON:	+" [- spa] digan morcilla! 1614795_1615352
+%eng:	say black pudding!
+*GAB:	[- spa] sí y dijeron morcilla . 1616233_1617464
+%eng:	yes and they said black pudding.
+*CON:	+< [- spa] subieron cuarenta negros . 1617227_1618202
+%eng:	there came up forty black people.
+*GAB:	[- spa] ajá ellos . 1618097_1618759
+%eng:	aha them.
+*GAB:	[- spa] entonces eso yo ya me estaba viendo +... 1620071_1622056
+%eng:	then I was already seeing myself.
+*GAB:	[- spa] es como si me estaba hirviendo la sangre poquito a poquito . 1621917_1624448
+%eng:	it's like my blood was boiling little by little.
+*GAB:	primero@s:spa me@s:spa llamó@s:spa el@s:spa cliente@s:spa y@s:spa xxx ah@s:eng&spa no@s:spa importa@s:spa . 1624317_1626314
+%eng:	she first attracted my customer and [...] ah it doesn't matter.
+*GAB:	[- spa] después llegó otro otro otro . 1627996_1631816
+%eng:	then another one came.
+*GAB:	[- spa] y depués llegó toda la familia y les vendió a otro y <ni tuvo> [//] ni una vez me preguntó +"/.
+%eng:	and after that the whole family came and she sold them another and she didn't even have, she didn't even ask me once.
+*GAB:	+" Gabrielle@s:eng&spa te@s:spa ayudo@s:spa? 1631789_1633402
+%eng:	Gabrielle, shall I help you?
+*GAB:	+" [- spa] o@s:spa son@s:spa tuyos@s:spa . 1632926_1633971
+%eng:	or are they yours.
+*GAB:	[- spa] o nada nada nada . 1633809_1634842
+%eng:	or nothing nothing nothing.
+*GAB:	[- spa] entonces yo me puse like +//. 1634528_1635655
+%eng:	then I got like.
+*GAB:	[- spa] y después todo eso y ya +//. 1637431_1639080
+%eng:	and after that all this and that's it.
+*GAB:	[- spa] atendiéndolos todos . 1639300_1640798
+%eng:	serving them all.
+*GAB:	[- spa] &et eso me puso mal . 1640838_1643021
+%eng:	that made me upset.
+*GAB:	[- spa] mal mal mal . 1642731_1644089
+%eng:	bad bad bad.
+*GAB:	[- spa] me molesté . 1644066_1645668
+%eng:	I was annoyed.
+*GAB:	Marta@s:eng&spa me@s:spa entendió@s:spa . 1645680_1647236
+%eng:	Marta understood me.
+*GAB:	she was like pues@s:spa cada@s:spa persona@s:spa tiene@s:spa un@s:spa vaso@s:spa . 1647224_1650986
+%eng:	she was like each one has a glass.
+*GAB:	[- spa] y si tú lo vas llenando +... 1650658_1652759
+%eng:	and if you keep filling it.
+*GAB:	y@s:spa yo@s:spa &ei &ei ella@s:spa &re es@s:spa [//] ella@s:spa le@s:spa dijo@s:spa a@s:spa Jane@s:eng&spa que@s:spa se@s:spa estaba@s:spa exagernado@s:spa porque@s:spa yo@s:spa solo@s:spa me@s:spa fui@s:spa . 1652376_1659470
+%eng:	and I, she told Jane that she was overreacting because I just went away.
+*GAB:	[- spa] &n ella dijo +"/. 1659156_1660236
+%eng:	she said.
+*GAB:	+" [- spa] preferiblemente que te hubieras ido que te hubieras explotado aquí . 1660116_1663494
+%eng:	it was better that you went away than exploding here.
+*GAB:	[- spa] pero yo en mí misma [///] yo siento que tengo +... 1663471_1667094
+%eng:	but me in myself I feel like I have.
+*GAB:	cómo@s:spa se@s:spa dice@s:spa standard en@s:spa [/] en@s:spa &sp <en@s:spa &ing> [//] español@s:spa? 1667024_1671018
+%eng:	how do you say standard in Spanish?
+*CON:	standard? 1671574_1672630
+*GAB:	[- spa] un estándar . 1672723_1674035
+%eng:	a standard.
+*GAB:	[- spa] yo tengo un estándar más alto . 1673687_1676137
+%eng:	I have a higher standard.
+*GAB:	[- spa] yo nunca me hubiera explotado ahí . 1676055_1677983
+%eng:	I would have never exploded there.
+*GAB:	[- spa] a lo [///] por la [///] o sea yo no lo planeaba . 1677971_1681709
+%eng:	to the, by the, I mean, I was not planning it.
+*GAB:	[- spa] para mí lo que hice en irme eso fue una explosión . 1681586_1684558
+%eng:	for me what I did going away, that was an explosion.
+*GAB:	[- spa] o sea para mi personalidad eso lo considero una explosión . 1684425_1688082
+%eng:	I mean for my personality I consider it an explosion.
+*GAB:	aunque@s:spa Marta@s:eng&spa dijo@s:spa +"/. 1687967_1689837
+%eng:	although Marta said.
+*GAB:	+" [- spa] no estuvo bien lo que hiciste . 1689407_1691369
+%eng:	it was not good what you did.
+*GAB:	+" [- spa] tú te fuiste en vez de decir algo . 1691230_1693529
+%eng:	you went away instead of saying something.
+*GAB:	+" [- spa] o ponerte mal acá . 1693482_1694678
+%eng:	or behaving badly here.
+*GAB:	+" [- spa] eso está bien . 1694632_1695827
+%eng:	that's good.
+*GAB	[- spa] pero yo sentí que no me  hubiera ido. 1695953_1699807
+%eng:	but I felt that I didn't go away.
+*GAB:	[- spa] pero es que (.) en ese momento tenía que &ha haber aplicado la sangre de Jesús@spa porque no había manera de controlar lo que estaba pasando dentro de mí . 1699680_1709571
+%eng:	but this is, in that moment I should have applied the blood of Jesus because there was no way to control what was going on inside of me.
+*GAB:	[- spa] entonces me puse súper mal . 1711114_1713297
+%eng:	then I felt terribly bad.
+*GAB:	&=sigh . 1714040_1714806
+*GAB:	pero@s:spa of course me@s:spa duele@s:spa . 1714795_1717291
+%eng:	but of course it hurts.
+*GAB:	[- spa] o sea me duele porque pues no quiero like dañar mi relación con ella . 1717059_1722701
+%eng:	I mean it hurts because I don't want to damage my relationship with her.
+*CON:	ah@s:eng&spa . 1723192_1726571
+*GAB:	[- spa] me entiendes? 1726617_1728347
+%eng:	do you understand me?
+*GAB:	[- spa] qué piensais? 1727990_1729081
+%eng:	what do you think?
+%com:	the correct word is pensáis or piensas.
+*GAB:	[- spa] qué puedo hacer ahora que ya pasó? 1729267_1731241
+%eng:	what can I do now it's over?
+*GAB:	[- spa] o sea preferiblemente no hubiera hecho eso . 1731234_1733475
+%eng:	I would have preferred not having done so.
+*GAB:	[- spa] yo digo +"/. 1733452_1734114
+%eng:	I say.
+*GAB:	[- spa] guau señor si hubiera mantenido la paciencia tú me hubieras bendecido aún más . 1733849_1739410
+%eng:	wow Lord, if I had been pacient you would have blessed me even more.
+*GAB:	[- spa] y todo . 1739526_1740420
+%eng:	and everything.
+*GAB:	[- spa] y hubiera hablado con ella calladamente . 1740406_1742438
+%eng:	and I would have spoken with her quietly.
+*GAB:	pero@s:spa en@s:spa ese@s:spa momento@s:spa no@s:spa tuve@s:spa self control . 1742287_1745445
+%eng:	but in that moment I didn't have self control.
+*GAB:	you know what I mean? 1748359_1749311
+*CON:	I know . 1749276_1749810
+*GAB:	[- spa] no importa no entienden español . 1751255_1753345
+%eng:	it doesn't matter, they don't understand Spanish.
+*CON:	sí@s:spa no@s:spa porque@s:spa Jane@s:eng&spa [/] Jane@s:eng&spa se@s:spa +... 1753152_1756217
+%eng:	yes no because Jane, Jane.
+*CON:	[- spa] la historia que ella me contó es un poquito diferente [=! laugh]. 1757541_1760292
+%eng:	the story she told me is a little bit different.
+*GAB:	ella@s:spa xxx y@s:spa entonces@s:spa ella@s:spa le@s:spa dice@s:spa a@s:spa Marta@s:eng&spa +"/. 1761284_1763595
+%eng:	she [...] and then she says to Marta.
+*GAB:	+" [- spa] cállese la boca . 1763629_1764442
+%eng:	shut your mouth.
+*GAB:	y@s:spa después@s:spa Marta@s:eng&spa dice@s:spa . 1764384_1765034
+%eng:	and then Marta says.
+*CON:	+< [- spa] ella le dijo cállese la boca? 1765162_1766962
+%eng:	did she say shut your mouth?
+*GAB:	eso@s:spa es@s:spa lo@s:spa que@s:spa Marta@s:eng&spa dijo@s:spa a@s:spa lo@s:spa que@s:spa ella@s:spa le@s:spa dijo@s:spa . 1766915_1768854
+%eng:	that's what Marta said to, what she said.
+*CON:	xxx . 1768866_1770050
+*GAB:	+< [- spa] y después Marta@s:eng&spa dijo +"/. 1768866_1770050
+%eng:	and after that Marta said.
+*GAB:	+" [- spa] tú me dijiste eso . 1770002_1771001
+%eng:	you told me that.
+*GAB:	y@s:spa entonces@s:spa Jane@s:eng&spa +"/. 1770768_1771906
+%eng:	and then Jane.
+*GAB:	+" [- spa] no yo no dije eso . 1771604_1772638
+%eng:	no, I did not sat that.
+*GAB:	ahí@s:spa entonces@s:spa otra@s:spa hora@s:spa hablando@s:spa con@s:spa Marta@s:eng&spa . 1772591_1775633
+%eng:	then there another hour speaking with Marta.
+*GAB:	&ar arguing . 1775412_1777305
+*GAB:	[- spa] discutiendo que si dijo o no dijo cállate la boca . 1777270_1779964
+%eng:	arguing wheter or not she said shut your mouth.
+*GAB:	y@s:spa yo@s:spa ay@s:spa señor@s:spa por@s:spa favor@s:spa . 1779900_1782791
+%eng:	and I ah Lord please.
+*CON:	+< no@s:spa yo@s:spa no@s:spa creo@s:spa que@s:spa Jane@s:eng&spa le@s:spa haya@s:spa dicho@s:spa cállate@s:spa la@s:spa boca@s:spa . 1779853_1783859
+%eng:	I don't believe Jane said close your mouth.
+*CON:	ella@s:spa lo@s:spa que@s:spa me@s:spa dijo@s:spa ella@s:spa que@s:spa estaba@s:spa hablando@s:spa contigo@s:spa y@s:spa que@s:spa vino@s:spa Marta@s:eng&spa +"/. 1784105_1788378
+%eng:	she, what she told me is that she was talking to you and that Marta came.
+*CON:	+" [- spa] Jane no se qué no se qué . 1788192_1790259
+%eng:	Jane whatever whatever.
+*CON:	[- spa] y ella de dijo +"/. 1789856_1790831
+%eng:	and she said.
+*CON:	Marta@s:eng&spa espérate@s:spa que@s:spa estoy@s:spa hablando@s:spa con@s:spa Gabrielle@s:eng&spa . 1790425_1793780
+%eng:	Marta wait because I'm talking to Gabrielle.
+*GAB:	ajá@s:spa pero@s:spa a@s:spa Marta@s:eng&spa no@s:spa le@s:spa gusta@s:spa eso@s:spa porque@s:spa ella@s:spa es@s:spa la@s:spa manager . 1793722_1796067
+%eng:	aha, but Marta does not like it because she is the manager.
+*CON:	[- spa] sí pero &bs la entiendo y tal . 1795991_1799950
+%eng:	yes but I understand her and such.
+*CON:	pero@s:spa me@s:spa dió@s:spa un@s:spa risa@s:spa como@s:spa que@s:spa much too much . 1800191_1804150
+%eng:	but I laughed like much, too much.
 @End
