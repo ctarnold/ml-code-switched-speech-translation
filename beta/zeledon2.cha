@@ -110,13 +110,13 @@
 *MAT:	Bird what Mall . 138420_140063
 *REB:	+< Bird Bowl . 139668_140446
 *MAT:	Bird Bowl um yeah yeah . 140430_143582
-*REB:	+< you've been to Bird Bowl . 142218_143721
+*REB:	+< you've been to Bird_Bowl@s:eng&spa . 142218_143721
 *MAT:	no I have seen it but +/. 143705_145516
 *REB:	+< uh@s:eng&spa . 145122_145586
 *MAT:	+, never been there [=! laughs] . 145360_147531
-*MAT:	um Bird Bowl farther west . 147491_150724
+*MAT:	um Bird_Bowl@s:eng&spa farther west . 147491_150724
 *REB:	er@s:eng&spa xxx . 150746_151802
-*MAT:	+< way farther west like Bird Bowl is around like ninetieth avenue . 151251_156327
+*MAT:	+< way farther west like Bird_Bowl@s:eng&spa is around like ninetieth avenue . 151251_156327
 *REB:	ninety second . 156262_157249
 *MAT:	yeah I [/] I'm around one fifty second . 157171_159784
 *REB:	yeah . 159755_161009
@@ -124,9 +124,9 @@
 *MAT:	see that's what I'm saying way west . 161562_163320
 *REB:	ok . 163309_164110
 *MAT:	I don't +//. 164087_164412
-*MAT:	Lakes of the Meadow you never heard of it ? 164400_166171
+*MAT:	Lakes_of_the_Meadow@s:eng&spa you never heard of it ? 164400_166171
 *REB:	yes . 165900_166741
-*MAT:	that's where I live Lakes of the Meadow . 166741_168942
+*MAT:	that's where I live Lakes_of_the_Meadow@s:eng&spa . 166741_168942
 *REB:	I've inputted +//. 168913_170004
 *REB:	oh wait I haven't told you . 169992_171972
 *MAT:	yeah . 171972_172303
@@ -373,9 +373,9 @@
 *MAT:	I was also +//. 637278_638389
 *MAT:	I took psychology too . 638365_639538
 *MAT:	and I was really interested in that stuff too . 639521_642144
-*REB:	+< did you take A_P ? 640629_642121
+*REB:	+< did you take A_P@s:eng&spa ? 640629_642121
 *MAT:	no I didn't get into that . 642121_643619
-*REB:	I took A_P psych . 643706_644762
+*REB:	I took A_P@s:eng&spa psych . 643706_644762
 *MAT:	+< because I +... 643927_644774
 *REB:	it was crazy . 644757_645935
 *MAT:	yeah . 645887_646909
@@ -386,7 +386,7 @@
 *MAT:	+< wow . 651132_653629
 *MAT:	it's good so why don't you do that ? 653611_656543
 *REB:	I can't I'll go crazy . 656531_657942
-*MAT:	+< you watch C_S_I xxx . 656926_659677
+*MAT:	+< you watch C_S_I@s:eng&spa xxx . 656926_659677
 *REB:	+< I'll go crazy along with them . 657901_659956
 *MAT:	no . 659880_660704
 *REB:	I can't do it it's too much . 660286_661767
@@ -458,21 +458,21 @@
 *MAT:	I [/] I haven't seen that one . 769820_771486
 *REB:	+< a(side) [/] aside from (.) that kind of show . 770261_772972
 *MAT:	+< I haven't seen that one . 773320_774429
-*REB:	+< I love heroes@s:eng&spa . 773320_775166
+*REB:	+< I love Heroes@s:eng&spa . 773320_775166
 *MAT:	I've heard of it . 775166_775846
 *MAT:	and I know +... 775836_776782
-*REB:	+< Chuck@s:eng&spa [?] . 775836_776782
-*MAT:	Chuck@s:eng&spa [?] ? 776786_777993
-*REB:	+< I'm an N_B_C fan . 777732_779340
+*REB:	+< Chuck@s:eng&spa . 775836_776782
+*MAT:	Chuck@s:eng&spa ? 776786_777993
+*REB:	+< I'm an N_B_C@s:eng&spa fan . 777732_779340
 *MAT:	yeah . 779366_779616
-*REB:	+< Chuck@s:eng&spa [?] ? 779471_780719
+*REB:	+< Chuck@s:eng&spa ? 779471_780719
 *MAT:	no . 780692_781128
-*REB:	Journey Man ? 780843_781906
+*REB:	Journeyman@s:eng&spa ? 780843_781906
 *MAT:	no . 781894_782405
 *REB:	never seen it oh my god . 782369_783594
 *MAT:	+< never seen it . 782369_783919
 *REB:	they're so good . 783907_784673
-*REB:	Bionic Woman ? 784664_785872
+*REB:	Bionic_Woman@s:eng&spa ? 784664_785872
 *MAT:	+< &= laughs . 784664_785872
 *MAT:	yeah I've seen that one . 785860_786702
 *REB:	Life ? 786667_787178
@@ -691,8 +691,8 @@
 *MAT:	yeah . 1121909_1122374
 *REB:	(be)cause they make it funny and because I don't see the humor . 1122368_1125410
 *REB:	I see the humor in what they are doing . 1125380_1128149
-*MAT:	+< specially Stewie the baby . 1125380_1128845
-*REB:	I love Stewie . 1128357_1129785
+*MAT:	+< specially Stewie@s:eng&spa the baby . 1125380_1128845
+*REB:	I love Stewie@s:eng&spa . 1128357_1129785
 *MAT:	<he's> [//] because he has like a [//] an accent (be)cause he's so smart . 1129622_1132984
 *REB:	yeah . 1132984_1133332
 *MAT:	you know what I'm saying . 1133303_1134697
@@ -916,7 +916,7 @@
 *REB:	it's beautiful . 1435080_1436085
 *MAT:	yeah ? 1436061_1436433
 *REB:	and (.) where is the other one ? 1436413_1438856
-*REB:	and Dominican_Republic@s:eng&spa . 1438851_1439948
+*REB:	and Dominican_Republic . 1438851_1439948
 *MAT:	oh ok xxx . 1439921_1442174
 *REB:	+< and then xxx in [/] in the United_States@s:eng&spa well I've been to Orlando@s:eng&spa . 1441489_1445303
 *REB:	who doesn't go to Orlando@s:eng&spa ? 1445336_1447020
@@ -927,9 +927,9 @@
 *MAT:	but not to +//. 1452500_1454096
 *REB:	I've [/] I've been to universal and I've been to Busch_Gardens . 1452976_1455634
 *MAT:	yeah I've been to Busch_Gardens too . 1455580_1457785
-*REB:	+< Busch_Gardens and Islands well Islands is Universal (.) too . 1456125_1461148
+*REB:	+< Busch_Gardens and Islands@s:eng&spa  well Islands@s:eng&spa is Universal@s:eng&spa (.) too . 1456125_1461148
 *MAT:	+< yeah . 1458617_1460579
-*REB:	I've been to Cooperstown@s:eng&spa New_York@s:eng&spa . 1461123_1464815
+*REB:	I've been to Cooperstown@s:eng&spa New_York . 1461123_1464815
 *MAT:	+< yeah . 1461123_1464803
 *MAT:	oh yeah ? 1464748_1465735
 *REB:	+< I've been to the baseball hall of fame . 1465399_1466821
@@ -986,7 +986,7 @@
 *MAT:	+< so what do you do on the weekends then yeah no and there is . 1530223_1534704
 *REB:	well um well I was when I turned . 1534700_1541728
 *MAT:	[- spa] qué música le gusta ? 1541043_1542500
-%eng:	wht music do you like?
+%eng:	what music do you like?
 *REB:	[- spa] música (.) de todo . 1542478_1544202
 %eng:	all sorts of music.
 *REB:	I like everything . 1544170_1546173
@@ -1001,7 +1001,7 @@
 *MAT:	+< mmhm@s:eng&spa . 1561316_1563789
 *MAT:	wow . 1563774_1564958
 *REB:	+< and he was very (.) machi(s)ta@s:spa . 1564192_1567454
-%eng:	and he was very chauvinist.
+%eng:	and he was very male chauvinist.
 *MAT:	yeah yeah yeah . 1567417_1568949
 *REB:	and he isolated me from everybody (.) from my friends . 1568924_1571972
 *MAT:	+< oh . 1568924_1571914
