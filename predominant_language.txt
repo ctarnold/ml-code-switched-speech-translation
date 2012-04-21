@@ -25,7 +25,7 @@ herring8: eng
 herring9: eng
 herring10: eng
 herring13: eng
-herring14: eng
+herring14: eng - NOTE: the predominant language needs to be changed to spa
 herring16: eng
 herring17: eng
 
