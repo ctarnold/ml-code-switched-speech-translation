@@ -25,7 +25,7 @@
 *LUI:	+< <por dos> [/] por dos pesos te llevan ? 16975_18310
 *LUI:	coño ! 18760_19962
 *AVA:	+< por dos cincuenta . 18760_19962
-*AVA:	+, me dieron . 20086_20690
+*AVA:	+, me llevan . 20086_20690
 *AVA:	y dos cincuenta el regreso . 20672_22148
 *LUI:	+< [- eng] just like the bus ? 20697_21632
 *LUI:	coño ! 22479_22955
@@ -37,9 +37,9 @@
 *AVA:	+< [- eng] right right . 27922_29309
 *AVA:	pero me dieron el teléfono donde llamar . 29871_31694
 *AVA:	y me lo dieron mal . 31586_32625
-*AVA:	y tengo que pedírselo a Luisa que tiene ese servicio . 34282_37085
-*AVA:	porque Pepe se brinda a lleva(rme) +//. 39945_41622
-*AVA:	ya <me ve> [///] se brindó a llevarme a ver a Susana . 41535_44014
+*AVA:	y tengo que pedírselo a Luisa@s:eng&spa que tiene ese servicio . 34282_37085
+*AVA:	porque Pepe@s:eng&spa se brinda a lleva(rme) +//. 39945_41622
+*AVA:	ya <me ve> [///] se brindó a llevarme a ver a Susana@s:eng&spa . 41535_44014
 *LUI:	[- eng] I'll take you ! 43904_44705
 *LUI:	[- eng] I'll take you anywhere you wanna go . 44809_46046
 *LUI:	[- eng] what the hell ! 46052_46684
@@ -63,7 +63,7 @@
 *LUI:	[- eng] oh . 79024_79605
 *AVA:	y la anoté [?] +/. 79681_80836
 *LUI:	+< [- eng] how do you do that ? 80087_80981
-*AVA:	dos pongo . 81111_82075
+*AVA:	dos pomos . 81111_82075
 *AVA:	&oj pero hay que usar una de mango . 82365_84455
 *LUI:	pero es +//? 85284_85569
 *LUI:	tú pones mango entero en agua hirviendo ? 85545_87676
@@ -82,24 +82,23 @@
 *AVA:	es mango puro . 100792_102115
 *LUI:	sin agua sin nada ? 102710_104301
 *AVA:	+< por eso saben tanto a mango . 103314_105334
-*LUI:	oh@s:eng&spa well@s:eng that's@s:eng true@s:eng [?] . 105555_106826
+*LUI:	oh@s:eng&spa well@s:eng I@s:eng see@s:eng [?] . 105555_106826
 *AVA:	+< es puro mango . 105885_107086
 *AVA:	pero hay que hacerlo en la batidora . 107487_109803
 *AVA:	y después colarlo . 109751_111446
 *AVA:	entonces después se le echa el azúcar . 112979_115986
-*AVA:	y cuando está espesito se pone en porra [?] . 115314_118699
+*AVA:	y cuando está espesito se pone en pomo . 115314_118699
 *AVA:	pero yo no pude ir a verle . 119833_121574
 *AVA:	y se me hicieron viejos (.) en la nevera . 121630_124335
 *AVA:	los tuve que botar . 124056_125194
 *LUI:	and@s:eng Billy@s:eng&spa <gave@s:eng they@s:eng> [//] gave@s:eng you@s:eng that@s:eng ? 125757_127284
 *AVA:	me trajo una caja de mangos Billy@s:eng&spa . 127269_129400
 *LUI:	wow@s:eng&spa ! 129312_129864
-*LUI:	y de [/] de una caja de mangos na(da) más hiciste +//? 129812_131547
-*LUI:	dos [/] dos [/] dos llegaron nada más ? 131512_133399
+*LUI:	y de [/] de una caja de mangos na(da) más hiciste dos [/] dos [/] dos jarros@s:eng+spa [?]  nada más ? 129812_133402
 *AVA:	<como los> [//] <como ca> [//] como quince mangos eché a perder . 133393_136806
 *LUI:	wow@s:eng&spa ! 136747_137565
 *LUI:	oh@s:eng&spa ! 138167_138422
-*AVA:	y mangos grandes . 138486_139769
+*AVA:	y mangos grandes +/. 138486_139769
 *LUI:	+< pero quince mangos te dieron nada más ? 138855_140649
 *LUI:	two@s:eng jars@s:eng ? 140649_141360
 *AVA:	aha@s:eng&spa . 141724_142037
@@ -120,7 +119,7 @@
 *LUI:	toda esa selva que te había atrás lo quitaron todo . 169361_171416
 *AVA:	+< sí . 169495_170331
 *AVA:	sí yo lo vi . 171632_172677
-*AVA:	pero allí <me la mata de> [?] mango esa que estaba muerta cuando yo la traje de tu casa +/. 172956_176961
+*AVA:	pero óyeme la mata de mango esa que estaba muerta cuando yo la traje de tu casa +/. 172956_176961
 *LUI:	ya . 177010_177410
 *AVA:	+, está bien viva . 177661_178851
 *LUI:	[- eng] really ? 179014_179478
@@ -144,11 +143,11 @@
 *LUI:	entonces meterlo así . 205711_206883
 *AVA:	no . 207713_208131
 *AVA:	y ya +/. 208050_210134
-*LUI:	+< no verdad que yo no soy curioso para esas mendas [?] . 208050_210134
-*AVA:	no <y es> [?] no no . 210153_211047
+*LUI:	+< no verdad que yo no soy curioso para esas mierdas  . 208050_210134
+*AVA:	no xxx no no . 210153_211047
 *AVA:	y que hay que saber sembrar . 210978_212673
-*AVA:	la mata se siembra +//. 212156_213700
-*AVA:	según la raíz que tenga hay que abrir el hueco . 213386_216967
+*AVA:	la mata se siembra +//. 212392_214412
+*AVA:	según la raíz que tenga hay que abrir el hueco . 214420_216967
 *LUI:	[- eng] right . 216910_217369
 *AVA:	entonces se le echa tierra buena como la que yo compro Miracle_Grow@s:eng&spa . 217350_222590
 *AVA:	entonces se le echa tierra buena . 223413_225741
@@ -156,8 +155,8 @@
 *LUI:	al otro también ? 227834_228896
 *AVA:	sí . 228865_229596
 *LUI:	+< de hueco . 229228_229937
-*AVA:	sí porque [//] para que abajo (.) con donde va a ir la raíz +/. 229995_233783
-*LUI:	+< y eso viene ya con su abono <xxx y he> [/] y hecho . 233453_236315
+*AVA:	sí porque [//] para que abajo (.) con [///] donde va a ir la raíz +/. 229995_233783
+*LUI:	+< y eso viene ya con su abono ahí  [/] ahí hecho . 233453_236315
 *AVA:	+< sí . 235322_235711
 *AVA:	sí . 236402_236681
 *LUI:	y mierda [/] mierda de gato no sirve ? 236977_238950
@@ -172,7 +171,7 @@
 *AVA:	que te quede bien derechita . 250888_253158
 *AVA:	y se le echa más Miracle_Grow@s:eng&spa por arriba . 252607_256694
 *AVA:	agua . 256700_257849
-*AVA:	<primero &kwan> [///] en cuanto se hace el hueco primero <hay que> [?] echar un poco de agua . 257838_262244
+*AVA:	<primero cuan(to)> [///] en cuanto se hace el hueco primero es echar un poco de agua . 257838_262244
 *LUI:	+< agua dos de Miracle_Grow . 261734_263249
 *AVA:	no [?] así . 263237_264200
 *LUI:	y entonces la mata . 264190_265095
@@ -203,8 +202,8 @@
 *LUI:	[- eng] really ? 306691_307394
 *AVA:	y cuando nosotros vinimos para acá en el ochenta_y_dos (.) habían más de cincuenta matas de strawberry@s:eng . 307509_314241
 *LUI:	porque ellas mismas echan sus babies@s:eng . 314467_316231
-*AVA:	+< <la &p> [//] la [/] la [/] la [///] el strawberry@s:eng echa unas ramas . 315792_318671
-*AVA:	esas ramas van a &b +//. 319422_320752
+*AVA:	+< <la &p> [//] la [/] la [/] la [///] el strawberry@s:eng echa una rama . 315792_318671
+*AVA:	esa rama va a &b +//. 319422_320752
 *AVA:	cae al piso . 320655_322164
 *AVA:	y enseguida es otra mata . 321866_323503
 *LUI:	[- eng] really ? 323419_324005
@@ -220,12 +219,12 @@
 *AVA:	el buenos días . 339595_341894
 *LUI:	&=laugh . 341850_342285
 %com:	cell phone makes a noise here.
-*AVA:	y yo le daba los buenos días . 341852_343303
-*AVA:	y le de(cía) +"/. 343126_343869
+*AVA:	y yo le daba los buenos días . 341917_343420
+*AVA:	y le de(cía) +"/. 343230_343834
 *AVA:	+" mire (.) váyase a trabajar . 343935_346442
-*AVA:	&=laugh porque él solito [/] solito en la imprenta . 346525_349677
+*AVA:	&=laugh porque él soli(to) [/] solito en la imprenta . 346525_349677
 *LUI:	[- eng] right . 349842_350254
-*AVA:	él no tenía ninguna ayuda a la +//. 350460_352730
+*AVA:	él no tenía quien lo ayudara +//. 350460_352730
 *AVA:	le (decía) +"/. 352735_353188
 *AVA:	+" váyase a trabajar que cuando &e yo le tenga su +//. 353125_356678
 *AVA:	yo le ponía una bolsita . 356214_358164
@@ -241,7 +240,7 @@
 *AVA:	no mamá no los comía así . 374361_376161
 *AVA:	tú sabes . 376132_376997
 *LUI:	[- eng] you have to mash it up . 376877_377858
-*AVA:	xxx tenía que ponerlos en el blender@s:eng . 378097_380297
+*AVA:	eh tenía que ponerlos en el blender@s:eng . 378097_380297
 *LUI:	hacerle un puré . 380555_381484
 *AVA:	y le ponía azúcar . 381394_382670
 *AVA:	y le hacía como una +... 382497_385225
@@ -293,17 +292,17 @@
 *AVA:	si uno no tiene la [/] la tierra acondicionada así . 454494_457396
 *LUI:	+< right@s:eng claro ! 457050_458072
 *AVA:	pero yo siempre estoy echando . 458121_459880
-*AVA:	si yo sé que tengo hormigas le echo cosas pa(ra) las hormigas xxx . 460201_464885
+*AVA:	si yo sé que tengo hormigas le echo cosas pa(ra) las hormigas las compro . 460201_464885
 *LUI:	+< vale y tú [//] qué tú le echas pa(ra) las hormigas ? 463042_464760
-*AVA:	unas [/] unas sobres así . 464879_466231
+*AVA:	unos [/] unos sobres así . 464879_466231
 *AVA:	ustedes tienen hormigas allá ? 466696_468263
 *LUI:	[- eng] not [/] not very many no . 468854_470044
 *AVA:	no pero yo re [//] tengo todavía en la casa un sobre xxx +... 470219_474375
 *LUI:	+< &e &va vaya yo tengo +... 471728_474218
-*LUI:	las chiquititas entran a la casa cada rato para you@s:eng know@s:eng joder el cuarto de los +... 474357_478760
+*LUI:	las chiquititas entran a la casa cada rato para you@s:eng know@s:eng joder el parque xxx +... 474357_478760
 *AVA:	+< ah sí esas sí . 477505_478462
 *AVA:	pero yo te digo las hormigas grandes las coloradas que (.) tú +/. 478817_483479
-*LUI:	+< que pican como un cojón . 481852_483473
+*LUI:	+< que pican con cojones . 481852_483473
 *AVA:	+< a ti te infectan la [/] la picada . 482614_485104
 *LUI:	+< [- eng] yeah I know . 484256_485034
 *AVA:	porque a mí se me infecta también . 485195_487006
@@ -316,7 +315,7 @@
 *LUI:	no porque yo tengo un hombre que viene the@s:eng cucaracha guy@s:eng . 495930_498548
 *LUI:	y [/] y [/] y +/. 499372_501166
 *AVA:	+< oh que [/] que mata todo eso sí . 499429_501693
-*LUI:	y por el xx de la casa y el otro de afuera . 501786_504027
+*LUI:	y por el hall@s:spa de la casa y adentro y afuera . 501786_504027
 *AVA:	+< sí pero +/. 503025_503657
 *AVA:	sí pero donde yo vivo +//. 504041_505788
 *LUI:	es un veneno de carajo mi hombre . 505998_507982
@@ -350,10 +349,10 @@
 *AVA:	+< aha@s:eng&spa . 539160_539624
 *LUI:	tú no sabes que un día yo pasé +/. 540119_541692
 *AVA:	+< no pero te [/] te voy a decir una cosa que un día +/. 540804_543637
-*AVA:	+, <cuando Juan era <donde Te(re)> [/] donde Tere> [///] xxx cuando vivíamos en la ciento treinta_y_cuatro (.) eh nos [/] nos levantamos tu padre y yo . 544052_552763
-*AVA:	y vemos a Juan durmiendo en un matre (.) en la sala en el piso de la sala . 552734_558115
+*AVA:	+, <cuando Juan era un xxx undercover@s:eng [///] xxx cuando vivíamos en la ciento treinta_y_cuatro (.) eh nos [/] nos levantamos tu padre y yo . 544052_552763
+*AVA:	y vemos a Juan@s:eng&spa durmiendo en un mattre(ss)@s:eng (.) en la sala en el piso de la sala . 552734_558115
 *AVA:	y le digo +"/. 558173_558840
-*AVA:	+" Juan ! 558819_559585
+*AVA:	+" Juan@s:eng&spa ! 558819_559585
 *AVA:	+" qué tú haces ahí muchacho ? 559626_561913
 *AVA:	porque tú te haces +//. 561925_562883
 *AVA:	xxx yo me asusté . 562767_564445
@@ -361,19 +360,19 @@
 *AVA:	+" no más porque mira yo no entro más a ese cuarto . 566032_568511
 *AVA:	+" yo no voy a entrar más en mi cuarto <porque yo> [///] una cucaracha estaba caminando por mi cama . 568282_573778
 *LUI:	who@s:eng was@s:eng that@s:eng Juan@s:eng&spa ? 574294_575444
-*AVA:	Juan . 575392_576141
-*AVA:	Juan . 576239_577151
-*AVA:	tu hermano Juan . 577114_578368
+*AVA:	Juan@s:eng&spa . 575392_576141
+*AVA:	Juan@s:eng&spa . 576239_577151
+*AVA:	tu hermano Juan@s:eng&spa . 577114_578368
 *AVA:	o sea yo no me extrañé . 578176_579660
 *LUI:	+< ya hombre ? 578958_579793
-*AVA:	claro si era un xx . 580305_582058
+*AVA:	claro si era under_cover@s:eng . 580305_582058
 *LUI:	[- eng] oh my God ! 582279_583150
 *AVA:	+< cuando +/. 582467_583042
 *LUI:	qué maricón ! 583163_584086
 *AVA:	aha@s:eng&spa . 584082_584657
 *LUI:	+< &=laugh ! 584222_585615
 *AVA:	no pues entonces le digo +/. 584784_586417
-*AVA:	+" muchacho . 585941_587800
+*AVA:	+" muchacho . 586379_587819
 *LUI:	+< y como xxx hijo puta ese . 586343_588497
 *AVA:	sí ahora se ríe . 588503_589652
 *LUI:	+< xxx . 588868_589652
@@ -388,9 +387,9 @@
 *AVA:	acuérdamelo . 597158_598167
 *AVA:	tú sabes que (.) eh <le digo yo> [///] me dice +"/. 598294_601247
 *AVA:	+" mami ! 601147_601570
-*AVA:	+" y no me entren en el matre . 601595_603261
+*AVA:	+" y no me entren en el mattre(ss)@s:eng&spa . 601595_603261
 *AVA:	+" <no me ent(ren)> [///] tú y papá no +... 603250_604724
-*AVA:	+" no me entren en el matre por favor porque yo ya no voy a dormir más en ese cuarto hasta que tú no mates esa cucaracha . 604774_610502
+*AVA:	+" no me entren en el mattre(ss)@s:eng&spa por favor porque yo ya no voy a dormir más en ese cuarto hasta que tú no mates esa cucaracha . 604774_610502
 *LUI:	hasta que tú no la matas ? 610509_611786
 *AVA:	sí yo era la +/. 611675_613351
 *LUI:	+< [- eng] what about him ? 612458_613370
@@ -406,7 +405,7 @@
 *LUI:	+< &=laugh . 621691_622295
 *AVA:	pero era de las largas . 622416_623670
 *LUI:	+< &=laugh . 622649_623428
-*LUI:	[- eng] yeah I know the palmetto bugs . 623631_625042
+*LUI:	[- eng] yeah I know the palmetto_bugs . 623631_625042
 *AVA:	+< de las grandes . 624200_625221
 *AVA:	entonces le digo +"/. 625327_626789
 *AVA:	+" Tito yo no la encuentro . 626760_628467
@@ -437,10 +436,10 @@
 *LUI:	lo cogiste de comemierda xxx . 667637_669747
 *AVA:	+< s(í) &=laugh ! 669300_671431
 *LUI:	+< &=laugh ! 669863_671924
-*AVA:	oye y ese <error que> [?] se reía . 672515_675139
+*AVA:	oye y ese Luis@s:eng&spa se reía . 672515_675139
 *LUI:	&=laugh . 675132_676404
 *AVA:	+< porque tu padre le gustaban esas cosas . 675539_677501
-*LUI:	+< wow@s:eng&spa ! 677380_677931
+*LUI:	+< claro ! 677380_677931
 *AVA:	a mí no se me había ocurrido . 677827_678858
 *AVA:	yo sabía que yo tenía que encontrar una (.) encontrar la maldita cucaracha que él vio . 678813_684060
 *LUI:	y matarla . 684293_685012
@@ -456,9 +455,9 @@
 *LUI:	+< cualquier cosa . 700812_701857
 *AVA:	&=laugh . 702101_702821
 *LUI:	+< cualquier cosa ya . 702380_703674
-*AVA:	y [/] y [/] y a mí me iba a dar vergüenza que vieran ese xxx matre tirado en el piso . 703134_707734
+*AVA:	y [/] y [/] y a mí me iba a dar vergüenza que vieran ese xxx matre(ss)@s:eng&spa tirado en el piso . 703134_707734
 *AVA:	no pues yo cogí . 708319_709898
-*AVA:	y le [/] (.) le pusimos el matre . 709865_712508
+*AVA:	y le [/] (.) le pusimos el matre(ss)@s:eng&spa . 709865_712508
 *AVA:	le metí la cama de limpio y ya . 712503_715028
 *LUI:	&=laugh . 715111_716382
 *AVA:	+< y <a lo> [///] cuando él llegó digo +"/. 715121_716903
@@ -517,9 +516,9 @@
 *LUI:	[- eng] and then [/] then he went to work there (.) after he was done tenting the building . 809321_812340
 *AVA:	ah mira xxx ! 812502_813942
 *LUI:	+< pues ya esa es otra buena . 813564_814946
-*AVA:	<esa pues> [///] no pero ella se pone en beta colora(da) . 814754_817291
+*AVA:	<esa pues> [///] no pero ella se pone en veta colora(da) . 814754_817291
 *LUI:	&=laugh ! 817314_818475
-*AVA:	se le pone toda la piel llena de betas colora(das) pobrecita . 818474_822038
+*AVA:	se le pone toda la piel llena de vetas colora(das) pobrecita . 818474_822038
 *LUI:	[- eng] I don't know why she's so afraid of roaches . 822972_824452
 *AVA:	+< la verdad es que no . 823145_824416
 *LUI:	in@s:eng Stanley_Avenue@s:eng&spa that's@s:eng all@s:eng we@s:eng had@s:eng was@s:eng roaches@s:eng in@s:eng that@s:eng motherfucker@s:eng boy@s:eng . 824429_827401
@@ -577,9 +576,14 @@
 *LUI:	la única manera que <una cucara(cha)> [//] xxx esa cucaracha puede estar en mi casa sin morirse +//. 915031_919048
 *LUI:	porque <en el piso> [//] por todo el piso yo [//] ellos tienen el veneno <dos meses> [?] . 919168_922680
 *AVA:	sí . 922779_923556
-*LUI:	yo encuentro una xx en mi casa es porque entró por [/] por el sink@s:eng zzz . 923630_927875
+*LUI:	yo encuentro una buena y sana en mi casa es porque entró por [/] por el sink@s:eng . 923630_927875
+
+
+
+
+
 *LUI:	te lo aseguro . 927834_929059
-*AVA:	no yo por el sink no . 929013_930517
+*AVA:	no yo por el sink@s:eng no . 929013_930517
 *LUI:	+< <yo lo> [/] yo lo he visto salir del sink@s:eng . 929199_930778
 *LUI:	<yo voy xxx antes> [?] . 931230_932716
 *AVA:	+< tú sabes lo que se meten &p por [/] por el +//. 931668_934898
@@ -588,7 +592,7 @@
 *AVA:	se meten las culebras . 939971_941509
 *AVA:	a dos personas les ha pasado eso . 942380_944400
 *LUI:	[- eng] the sink ? 944197_944899
-*AVA:	gracias a Dios que a mí no me pasa . 944958_946438
+*AVA:	gracias a Dios que a mí no me pasa +/. 944958_946438
 *LUI:	+< [- eng] maybe in your place but not generally . 945706_947906
 *LUI:	quizás from@s:eng the@s:eng toilet@s:eng but@s:eng not@s:eng from@s:eng the@s:eng sink@s:eng . 948493_951059
 *LUI:	porque no tien(e) +/. 951269_951920
@@ -605,8 +609,8 @@
 *LUI:	+< [- eng] really ? 970350_971064
 *AVA:	y vinieron . 971192_971970
 *AVA:	y se la mataron . 971866_973108
-*AVA:	y total dicen que era de xx . 973229_975743
-*LUI:	[- eng] a garden center . 975778_976718
+*AVA:	y total dicen que era de jardín . 973229_975743
+*LUI:	[- eng] a garden snake . 975778_976718
 *AVA:	pero entonces a una señora se estaba bañando . 976370_978919
 *AVA:	y por la bañadera le [/] le [/] le salió una . 978872_981576
 *LUI:	+< que tú haces xxx . 981318_983019
@@ -616,7 +620,7 @@
 *LUI:	o te rompes las dos patas xxx . 985392_987342
 *AVA:	+< el día del accidente yo tuve &m +//. 986608_988878
 *AVA:	porque por eso fue que no me pudieron llevar en el helicóptero con Ramón@s:eng&spa . 988901_993175
-*AVA:	porque yo tenía en trescientas quince mis [?] presión . 993397_996341
+*AVA:	porque yo tenía en trescientas quince mi [?] presión . 993397_996341
 *LUI:	wow@s:eng&spa ! 996608_997037
 *AVA:	<me abrie> [///] eh como [///] la presión mía es emoti(va) [//] emocional . 996964_1000488
 *LUI:	[- eng] oh . 1000946_1001225
@@ -632,7 +636,7 @@
 *AVA:	+" us(ted) [//] dos de ustedes me dijeron que me iban a poner en el helicóptero con mi esposo . 1036896_1041376
 *AVA:	+" y yo no me quiero separar de mi esposo . 1041371_1043322
 *AVA:	me dicen +"/. 1043601_1044042
-*AVA:	+" señora <usted tiene la presión> [//] usted tiene tan alta la presión que no podíamos poner en eso . 1043815_1049303
+*AVA:	+" señora <usted tiene la presión> [//] usted tiene tan alta la presión que no podíamos ponerla en eso . 1043815_1049303
 *LUI:	[- eng] hmm . 1050438_1050763
 *AVA:	+< le digo +"/. 1050566_1050942
 *AVA:	+" qué alta la tengo ? 1050907_1051911
@@ -670,8 +674,8 @@
 *LUI:	y la compro . 1139744_1141474
 *AVA:	ay no ! 1141670_1142581
 *LUI:	+< [- eng] yeah and I'll bring her back home . 1142221_1143609
-*AVA:	+< podías mirar eso de +//. 1142692_1144166
-*AVA:	eso no es una xxx cosa muy ofensiva . 1144119_1146447
+*AVA:	+< podías mira eso eh  +//. 1142692_1144166
+*AVA:	eso es una cosa muy ofensiva . 1144119_1146447
 *AVA:	tú no vas a comprar un ser humano . 1146424_1148003
 *AVA:	no . 1148864_1149270
 *LUI:	+< no vaya ! 1148997_1150100
@@ -680,7 +684,7 @@
 *AVA:	no mira un día +/. 1153309_1154784
 *LUI:	+< lo único que no puede mirar televisión ni hablar por teléfono (.) ni hablar con los vecinos porque si no <la ru> [//] la [/] la va +//. 1154277_1162324
 *LUI:	no@s:spa this@s:eng is@s:eng how@s:eng to@s:eng rule@s:eng her@s:eng man@s:eng ! 1160330_1162449
-*LUI:	en el momento que [/] que [/] que sabe de novelas y de jodiendas y esto no hay no no . 1163257_1167935
+*LUI:	el momento que [/] que [/] que sabe de novelas y de jodiendas y esto no hay no no . 1163257_1167935
 *AVA:	+< ay no no hombre no ! 1166850_1168214
 *AVA:	qué tú te crees ? 1168839_1169960
 *AVA:	es un ser humano . 1170564_1171736
@@ -696,9 +700,9 @@
 *LUI:	porque no sabía lavarlo . 1192737_1194141
 *AVA:	no no sabía poner la máquina de lavar . 1194569_1196450
 *LUI:	ni yo tampoco . 1196444_1197300
-*LUI:	cua(ndo) [//] coño cuando el xx me llamó . 1197270_1199354
-*AVA:	+< no mira la esposa <debe dar> [///] fue muy buena mujer . 1198368_1201961
-*AVA:	por eso yo (.) el día veinte de marzo que xxx <ella cumple años de> [//] ella hubiera cumplido años no ? 1202075_1208158
+*LUI:	cua(ndo) [//] coño cuando Lucía@s:eng&spa  me dejó . 1197270_1199354
+*AVA:	+< no mira la esposa de López@s:eng&spa ue muy buena mujer . 1198368_1201961
+*AVA:	por eso yo (.) el día veinte de marzo que  <ella cumple años de> [//] ella hubiera cumplido años no ? 1202075_1208158
 *LUI:	+< [- eng] you wanna bring her flowers ? 1206591_1207868
 *AVA:	porque ella nació el día veinte de marzo . 1208177_1210435
 *AVA:	yo voy a ir al cementerio a llevarle flores como antes yo lo +//. 1210570_1214546
@@ -716,12 +720,12 @@
 *LUI:	dicen que tiene pancreatic@s:eng cancer@s:eng&spa . 1241498_1243478
 *AVA:	oh sí ese no dura mucho . 1243484_1244894
 *LUI:	[- eng] ooh that's bad ! 1244805_1245833
-*AVA:	no dura mucho porque mira Rosana@s:eng&spa cuando vino de Cuba del último viaje (.) me dice una carta bueno [?] me decía que había venido con un dolor (.) pero que iba a ir al otro día al médico . 1245886_1257835
-*AVA:	cuando tuvo el resultado me llamó . 1258832_1261293
+*AVA:	no dura mucho porque mira Rosana@s:eng&spa cuando vino de Cuba@s:eng&spa del último viaje (.) me dice una carta bueno [?] me decía que había venido con un dolor (.) pero que iba a ir al otro día al médico . 1245886_1257835
+*AVA:	cuando tuvo el resultado me llamó . 1259000_1261391
 *AVA:	y me dijo lo que era . 1261235_1262204
 *AVA:	era cancer@s:eng&spa . 1262164_1263371
-*AVA:	y le [//] el médico le dijo a Pedro <que era> [//] que es médico . 1264876_1268475
-*AVA:	aha que es el (.) casado con la sobrina de [/] de Rosana . 1269418_1273436
+*AVA:	y le [//] el médico le dijo a Pedro@s:eng&spa <que era> [//] que es médico . 1264876_1268475
+*AVA:	ah@s:eng&spa que es el (.) casado con la sobrina de [/] de Rosana@s:eng&spa . 1269418_1273436
 *AVA:	le dijo +"/. 1273676_1274193
 *AVA:	+" si fuera mi abuela &=noise le daba dinero para que se fuera a viajar si le gusta viajar (..) porque ella lo que le quedarán (.) de [/] de largo tres meses de vida . 1274178_1286142
 *AVA:	nunca les dan mucho más de tres meses . 1286477_1288736
@@ -757,22 +761,22 @@
 *LUI:	ah@s:eng&spa (tha)t's@s:eng too@s:eng bad@s:eng . 1350792_1351918
 *AVA:	ni seis meses va a durar . 1352803_1354260
 *AVA:	él dice que le va bien el tratamiento pero +... 1354597_1358132
-*LUI:	así dicen los doctores xx you@s:eng know@s:eng +... 1358775_1360859
+*LUI:	así dicen los doctores pero you@s:eng know@s:eng +... 1358775_1360859
 *AVA:	sí . 1360862_1361669
 *AVA:	ojalá que viva muchos años más ! 1362400_1364943
-*AVA:	xxx eh la señora de [/] de Pablo no duró mucho . 1366775_1370095
+*AVA:	xxx eh la señora de [/] de Pablo@s:eng&spa no duró mucho . 1366775_1370095
 *LUI:	no@s:eng&spa ? 1370159_1370693
 *AVA:	no . 1370953_1371214
 *AVA:	ella fue al médico . 1371141_1372378
 *AVA:	cuando llegó <le dijo (.) a él que lo que tení(a)> [//] ella le dijo a él que lo que tenía era cancer@s:eng&spa . 1372935_1378830
 *AVA:	y no duró ni cuatro (.) ni cuatro meses duró . 1379912_1382594
-*LUI:	la esposa de Pablo ? 1384005_1384992
+*LUI:	la esposa de Pablo@s:eng&spa ? 1384005_1384992
 *AVA:	+< qué duro ! 1384063_1384789
 *AVA:	sí . 1385323_1386031
-*AVA:	y él se deshizo de todo porque tenía una compañera +//. 1387544_1391135
+*AVA:	y él se deshizo de todo porque tenía una compañía +//. 1387544_1391135
 *AVA:	ellos tenían dos de esos (.) grandes para cortar hierba . 1390351_1394040
 *AVA:	y hicieron bastante dinero pero bueno . 1394632_1397012
-*AVA:	tú sabes que Pablo tuvo siete casas propias ? 1397663_1402196
+*AVA:	tú sabes que Pablo@s:eng&spa tuvo siete casas propias ? 1397663_1402196
 *LUI:	wow@s:eng&spa ! 1402112_1402570
 *AVA:	que las alquilaban . 1403340_1404646
 *LUI:	&=grunt . 1404843_1405186
@@ -785,13 +789,13 @@
 *AVA:	porque no (.) yo no quiero saber ya de esa gente . 1426639_1430059
 *AVA:	pero el dinero que tengo perdido en esa cuenta (.) yo voy a ir a esa corte . 1431766_1436532
 *AVA:	aunque vaya sola . 1436980_1438216
-*AVA:	porque me dice Juan que es un barrio muy malo que +... 1438977_1441682
+*AVA:	porque me dice Juan@s:eng&spa que es un barrio muy malo que +... 1438977_1441682
 *LUI:	la corte ? 1442570_1442803
 *LUI:	la misma corte <donde tú> [/] donde tú te casaste ? 1442774_1445287
 *LUI:	o you@s:eng wanna@s:eng go@s:eng to@s:eng Flagler_Street@s:eng&spa ? 1445230_1446612
 *AVA:	no es que tengo que ir a Flagler_Street@s:eng&spa . 1446909_1449051
 *LUI:	[- eng] oh really ? 1449028_1449846
-*AVA:	yo fui <a la co(rte)> [/] a la corte donde yo me casé (.) con Pablo . 1450108_1453254
+*AVA:	yo fui <a la co(rte)> [/] a la corte donde yo me casé (.) con Pablo@s:eng&spa . 1450108_1453254
 *LUI:	[- eng] and they couldn't do it there ? 1453254_1454258
 *AVA:	pero allí me dijeron que no que no me podían ayudar en eso pero que me iban a dar la dirección de donde yo tenía que ir . 1454231_1461760
 *AVA:	que yo tenía que ir al civil@s:eng court@s:eng . 1462224_1463977
@@ -800,9 +804,9 @@
 *AVA:	y me dijo +"/. 1467741_1468002
 *AVA:	+" mire yo le voy a dar la dirección . 1467933_1470034
 *AVA:	y vino +/. 1469895_1470476
-*LUI:	+< [- eng] one forty Flagler I think it is . 1470048_1471680
+*LUI:	+< [- eng] one forty Flagler@s:eng&spa I think it is . 1470048_1471680
 *AVA:	ah@s:eng&spa . 1471724_1472392
-*AVA:	entonces cuando Juan <me fue a llevar a ca(sa)> [///] fue a casa (.) para llevarme a la corte esa (.) me dice +"/. 1472937_1478783
+*AVA:	entonces cuando Juan@s:eng&sp <me fue a llevar a ca(sa)> [///] fue a casa (.) para llevarme a la corte esa (.) me dice +"/. 1472937_1478783
 *AVA:	+" mami yo he venido a llevarte . 1478766_1480786
 *AVA:	+" pero una cosa tú eres muy nerviosa . 1481177_1483499
 *AVA:	tú sabes como te dije hoy (.) cuando xxx nosotros estábamos buscando aquella noche un lugar para comer y yo vi tanta gente maleante . 1483304_1491474
@@ -813,13 +817,13 @@
 *AVA:	y tú me decías que eran hasta prostitutas . 1496822_1499179
 *LUI:	<es claro> [?] +/. 1499272_1500341
 *AVA:	+< yo dije +"/. 1499525_1499809
-*AVA:	+" ahí yo me voy a pegar una cosa como esta no (.) no . 1499798_1503342
-*AVA:	y cogí &e esa [/] esa +//.  1502396_1504974
+*AVA:	+" ahí yo me voy a pegar una cosa como esta no (.) no . 1499798_1502705
+*AVA:	y cogí esa [/] esa +//.  1503177_1504974
 *AVA:	no te dije nada (.) cuando tú me dijiste que eran prostitutas algunas de ell(as) . 1504875_1509081
 *AVA:	yo dije +"/. 1509250_1509650
 *AVA:	+" ahí no yo no . 1509580_1510840
 *AVA:	pero no te dije nada . 1510841_1512083
-*AVA:	pero se me hizo una cosa en el estómago que el hambre se me fue de asco [?] . 1512031_1516312
+*AVA:	pero se me hizo una cosa en el estómago que el hambre se me fue lejos . 1512031_1516312
 *LUI:	&=laugh ya no tenías hambre &=laugh ! 1516300_1519742
 *AVA:	+< no no comí nada no comí nada ! 1517942_1520404
 *AVA:	no ! 1520857_1521165
@@ -837,13 +841,13 @@
 *LUI:	[- eng] you went outside to smoke . 1533291_1534162
 *LUI:	[- eng] I left you in the corner . 1534176_1534948
 *LUI:	[- eng] I said +"/. 1534948_1535343
-*LUI:	+" <párate xx que I@s:eng> [?] watch@s:eng you@s:eng from@s:eng the@s:eng window@s:eng . 1535633_1537282
+*LUI:	+" <párate ahí so@s:eng I@s:eng> [?] watch@s:eng you@s:eng from@s:eng the@s:eng window@s:eng . 1535633_1537282
 *LUI:	[- eng] remember ? 1537282_1537816
 *AVA:	y fue horrible . 1537817_1538990
 *AVA:	horrible esa noche . 1539071_1540197
 *AVA:	ya [/] ya se me quitó el hambre . 1540221_1542101
-*AVA:	entonces (.) me dice +"/. 1542862_1544830
-*AVA:	+" tú eres una persona muy [/] muy nerviosa xx . 1544798_1547230
+*AVA:	entonces (.) él me dice +"/. 1542862_1544830
+*AVA:	+" tú eres una persona muy [/] muy nerviosa mamá . 1544798_1547230
 *AVA:	+" y no te gustan las cosas +... 1547546_1549549
 *AVA:	a mí <un bar(rio)> [/] un barrio no me gusta . 1549470_1551107
 *AVA:	no me gusta pasar por ahí . 1551113_1552552
@@ -864,15 +868,15 @@
 *LUI:	[- eng] I beat up +... 1576437_1577394
 *LUI:	[- eng] at one time I beat up six guys one time when I was a transit cop . 1578110_1581030
 *AVA:	sí pero tú eras grande ! 1581001_1582435
-*AVA:	y tenías un palo xxx [=! laughs] .1582327_1584620
+*AVA:	y tenías un palo así xxx [=! laughs] .1582327_1584620
 *LUI:	+< &=laugh . 1583624_1584942
 *AVA:	&=laugh ! 1584915_1585809
 *LUI:	yo metí balazos coño ! 1585443_1587945
 *AVA:	+< &=laugh . 1586008_1588074
 *LUI:	coño cual [//] como yo metí balazos cojones . 1588253_1591156
 *AVA:	&=laugh . 1590472_1591784
-*AVA:	como van a aprender malas palabras . 1592437_1594405
-*LUI:	+< <hoy e(n)> [/] <hoy e(n)> [/] hoy en día (.) hay unos hijos de puta ma [//] caminando por allá en Brooklyn@s:eng&spa . 1593349_1599362
+*AVA:	como van a aprender malas palabras +/. 1592437_1594405
+*LUI:	+< <hoy e(n)> [/] <hoy e(n)> [/] hoy en día (.) hay uno hijo de puta ma [///] caminando por allá en Brooklyn@s:eng&spa . 1593349_1599362
 *LUI:	todos [/] <todos cogidos> [//] todos jodidos de las [/] las palizas que yo <las he> [?] metido . 1599539_1602905
 *AVA:	sí . 1603004_1603492
 *LUI:	+< [- eng] trust me . 1603225_1603840
@@ -880,12 +884,12 @@
 *LUI:	[- eng] oh yeah ! 1605361_1605977
 *AVA:	no una vez yo llevaba un xx en la cartera . 1606532_1609638
 *LUI:	[- eng] yeah and +..? 1609859_1610956
-*AVA:	y siempre siempre que yo me lucié [?] a alguien que estaba tú sabes peligro(so) [?]  . 1611224_1616145
+*AVA:	y siempre siempre que yo me lucía [?] a alguien que estaba tú sabes peligro(so) [?]  . 1611224_1616145
 *LUI:	+< [- eng] little bit funny . 1615210_1616238
 *AVA:	sí en Nueva_York yo [//] todo era con (.) abrigo no ? 1616472_1620332
 *LUI:	aha@s:eng&spa . 1620373_1620878
-*AVA:	y xxx tenía siempre bolsillos . 1620787_1622352
-*AVA:	yo sacaba mi xx . 1622293_1623164
+*AVA:	y  tenía siempre bolsillos . 1620787_1622352
+*AVA:	yo sacaba mi xx . 1622254_1623479
 *AVA:	y me lo metía así en el bolsi(llo) . 1623170_1624894
 *AVA:	decía +"/. 1625056_1625526
 *AVA:	+" si este desgraciado me viene a hacer algo (.) va a saber quién soy yo . 1625338_1629263
@@ -898,11 +902,11 @@
 *LUI:	[- eng] right . 1639624_1640030
 *AVA:	pero no [/] no si me no [///] si me tiran al piso . 1640289_1643755
 *AVA:	mira (.) hace como dos años una señora donde yo vivo (.) se fue a [/] <a holy@s:eng> [/] a holy@s:eng rosary@s:eng (.) a la misa de siete . 1644295_1653618
-*AVA:	y tú me puedes creer que la han cogido <dos perso(nas)> [//] dos hombres pegando a una pobre mujer vieja ya . 1653755_1660019
-*AVA:	yo <no me s(é)> [//] no sé la de edad que tendría . 1661521_1664052
+*AVA:	y tú me puedes creer que la han cogido <dos perso(nas)> [//] dos hombres esperando a una pobre mujer vieja ya . 1653755_1660019
+*AVA:	yo <no me s(é)> [//] no sé la verdad qué tendría . 1661521_1664052
 *AVA:	pero no era ninguna joven . 1664029_1665289
 *LUI:	&=grunt . 1665256_1665860
-*AVA:	vive [/] vive en xx . 1665793_1667581
+*AVA:	vive [/] vive en xxx_River@s:eng&spa . 1665793_1667581
 *AVA:	entonces (..) pues (.) la [/] la [//] le quitaron unas llaves a la fuerza . 1668157_1674834
 *AVA:	la esperaron que ella estaba pa(ra) abrir el carro . 1675448_1677874
 *AVA:	ahí la atacaron . 1678159_1679314
@@ -914,10 +918,10 @@
 *AVA:	tú sabes cómo esa mujer sufrió ? 1689642_1691302
 *LUI:	&=grunt . 1691337_1691673
 *AVA:	y eso es lo que yo trato de evitar que me hagan daño a mí . 1691750_1694734
-*AVA:	si [//] como tú una vez me dijiste en Nueva_York +"/. 1695016_1697547
+*AVA:	si [//] como tú una vez me dijiste en Nueva_York +"/. 1695016_1697183
 *AVA:	+" mami . 1697350_1697982
 *AVA:	+" no usar bar [//] carteras caras . 1699321_1700644
-*AVA:	y era verdad porque Rosana como cost(aban) [///] le [/] le valían hasta doscientos_y_pico pesos y trescientos una cartera (.) la carteriaron [?] tres veces <en el> [/] <en el> [/] en el +/. 1700762_1711651
+*AVA:	y era verdad porque Rosana como cost(aban) [///] le [/] le valían hasta doscientos_y_pico pesos y trescientos una cartera (.) la carteriaron [?] tres veces <en el> [/] <en el> [/] en el +/. 1701772_1711651
 *LUI:	+< en el subway@s:eng . 1710652_1711477
 *AVA:	+, en el subway@s:eng . 1711809_1712297
 *AVA:	y era porque veían que las carteras eran buenas . 1712204_1714933
@@ -939,7 +943,7 @@
 *AVA:	&=gasp ! 1740063_1741044
 *LUI:	<y es> [//] y el brazo se le explotó . 1740754_1742640
 *LUI:	se explotó . 1742871_1743481
-*LUI:	estábamos dos xx para siempre . 1743393_1745169
+*LUI:	estábamos todo xx para siempre . 1743393_1745169
 *AVA:	+< probablemente lo perdió . 1744770_1746250
 *LUI:	+< [- eng] but it +//. 1745774_1746186
 *LUI:	[- eng] no they saved it . 1746180_1747457
@@ -949,7 +953,7 @@
 *LUI:	[- eng] and the arm exploded . 1755029_1756614
 *LUI:	la carne la sangre everything@s:eng went@s:eng flying@s:eng out@s:eng like@s:eng this@s:eng . 1756832_1759154
 *AVA:	+< qué criminales ! 1758718_1760181
-*LUI:	+< y esto estaba todo ripiado [?] así . 1759357_1761116
+*LUI:	+< y esto estaba todo ripiado@s:eng+spa así . 1759357_1761116
 *AVA:	qué criminales ! 1761410_1762850
 *LUI:	+< me dio una rabia coño . 1761979_1764476
 *LUI:	vaya que yo (.) como +... 1764436_1766073
@@ -980,9 +984,9 @@
 *AVA:	+< pero qué criminal ! 1803122_1804125
 *AVA:	bueno esa señora sufrió bastante porque imagínate dos fracturas en un solo brazo . 1803715_1808746
 *AVA:	entonces +/. 1809506_1810638
-*LUI:	y ya después de viejo <eso no es> [/] eso no es ningún xx . 1810569_1812972
+*LUI:	y ya después de viejo <eso no es> [/] eso no es ningún relajo . 1810569_1812972
 *AVA:	&=laugh . 1812722_1813384
-*LUI:	eso es ningún xx +/. 1813833_1815069
+*LUI:	eso es ningún relajo +/. 1813833_1815069
 *AVA:	+< pero los viejos no nos curamos fácil mi hijo . 1814088_1816398
 *AVA:	como mucho un niño se rompe una pierna . 1816786_1818516
 *AVA:	<y a> [/] <y al> [//] y a los tres meses ya está caminando como si na(da) . 1818469_1821981
@@ -1063,7 +1067,8 @@
 *LUI:	pero parecen [/] parecen ratones . 1987946_1990099
 *AVA:	de veras ? 1990274_1991418
 *LUI:	[- eng] little itty_bitty man they call teacup ["] . 1991447_1994013
-*AVA:	oye pero tú te acuerdas aquella señora que tenía un perrito así y yo le pregunté si [/] si lo vendía y me dijo que no ? 1994925_2003180
+*AVA:	oye pero tú te acuerdas aquella señora que tenía un perrito así y yo le pregunté si [/] si lo vendía . 1994925_2001972
+*AVA:	y me dijo que no ? 2001885_2002924
 *LUI:	no . 2003349_2003849
 *AVA:	eso [/] eso [///] después que salimos de allí tú me dices +"/. 2004321_2006573
 *AVA:	+" ese perro vale mil_y_pico pesos &= laugh . 2006562_2008843
@@ -1091,12 +1096,12 @@
 *LUI:	+< &=laugh ! 2052808_2054596
 *AVA:	no este a mí me gustaría uno chiquito . 2054718_2057429
 *AVA:	pero no donde yo vivo porque donde yo vivo <tendría que> [///] iba a +//. 2057965_2061709
-*AVA:	la gente es descarada tú sabes . 2062150_2063415
+*AVA:	la gente es descarada tú sabes . 2062279_2063689
 *AVA:	pasa por ahí +... 2063374_2064942
 *AVA:	un día yo salí . 2064886_2065553
 *AVA:	y le digo +"/. 2065547_2066017
 *AVA:	+" señora usted no está en su puerta . 2066000_2067590
-*AVA:	+" ni con xx pasaba ese perro por aquí . 2067677_2069894
+*AVA:	+" ni con leash@s:eng pasaba ese perro por aquí . 2067677_2069894
 *AVA:	+" es por aquella cerca que usted está su puerta pasa . 2069970_2072832
 *AVA:	+" porque si ese perro hace sus necesidades aquí usted no tiene nada en sus manos pa(ra) recogerlo . 2073102_2078310
 *AVA:	lo va a dejar ahí ? 2078728_2079768
@@ -1114,11 +1119,11 @@
 *LUI:	[- eng] yeah ? 2098835_2099322
 *LUI:	[- eng] that's the last time huh ? 2099421_2100518
 *AVA:	+< más nunca pasó por ahí . 2099758_2101470
-*AVA:	eh oye el [//] eso tiene catorce xx . 2101894_2104553
-*AVA:	que se vaya por otro xx a hacer esa gracia . 2104512_2107228
+*AVA:	eh oye el [//] eso tiene catorce buildings@s:eng . 2101894_2104553
+*AVA:	que se vaya por otro building@s:eng a hacer esa gracia . 2104512_2107228
 *LUI:	[- eng] hmm . 2107166_2107596
 *AVA:	&e &e cuando yo me mudé ahí +//. 2107811_2108943
-*AVA:	yo todavía tengo esos papeles (.) de tantos años que vivo ahí . 2108583_2112739
+*AVA:	yo todavía tengo esos papeles (.) de tantos años que he vivido ahí . 2108583_2112739
 *AVA:	que nos dijeron a mí y a tu padre que en paz descanse mire +"/. 2113163_2116304
 *AVA:	+" usted tiene que cruzar +//. 2116195_2117490
 *AVA:	+" los perros <se p(asean)> [/] se pasean <por la> [//] <por el> [/] (.) por el fence@s:eng más alto que hay . 2117478_2124629
@@ -1142,29 +1147,30 @@
 *AVA:	entonces me puedo electrocutar con eso . 2153667_2156001
 *AVA:	no yo no voy a limpiar esa estufa por dentro . 2155995_2158317
 *AVA:	nada más por dentro limpio esta parte que usted ve limpia . 2158405_2161969
-*AVA:	lo demás no lo limpio porque ahí están los cables y yo no voy a +... 2162048_2164869
+*AVA:	lo demás no lo limpio porque ahí están los cables y . 2162101_2164296
+*AVA:	yo no voy a +... 2164220_2164899
 *AVA:	no no no no no . 2165362_2166767
 *AVA:	se ha cogido candela dos veces . 2167029_2168509
 *LUI:	[- eng] remind me the next time I'm at your house I have to measure it . 2168501_2170678
 *LUI:	tú tienes (.) algo para medir en la casa ? 2170722_2173085
 *AVA:	+< sí yo tengo . 2172371_2173642
 *AVA:	y ellos me dijeron que eran veititrés_y_no_sé_qué . 2174428_2176965
-*AVA:	pero ahora cuando le llevo el xxx de esto de Home_Depot@s:eng&spa [?] . 2177080_2180325
+*AVA:	pero ahora cuando le llevo el xxx de esto de Home_Depot@s:eng&spa . 2177080_2180325
 *AVA:	me dice enseguida el que me había dicho que era de veintitrés_no_sé_cuánto . 2180583_2184612
 *AVA:	eh me dice él +"/. 2185181_2186168
 *AVA:	+" sí pero es que esta estufa es grande . 2186098_2189186
-*AVA:	ya me había dicho que Meisi@s:eng&spa [?] no la tenía chiquita . 2189616_2192432
-*LUI:	en Siers@s:eng&spa [?] . 2193186_2193807
-*AVA:	que solamente eran grandes <en &ri> [//] en Siers@s:eng&spa [?] . 2193747_2196220
+*AVA:	ya me había dicho que Macy@s:eng&spa [?] no la tenía chiquita . 2189616_2192432
+*LUI:	en Siers@s:eng&spa . 2193186_2193807
+*AVA:	que solamente eran grandes <en &ri> [//] en Siers@s:eng&spa  . 2193747_2196220
 *AVA:	digo +"/. 2196581_2196952
 *AVA:	+" bueno si eso es donde yo tengo crédito . 2196917_2199216
-*AVA:	&be entonces yo voy a Home_Depot@s:eng&spa [?] . 2199396_2201636
-*AVA:	<mi hijo me ha(ce)> [?] la compra en Home_Depot@s:eng&spa [?] . 2202471_2204590
+*AVA:	&be entonces yo voy a Home_Depot@s:eng&spa  . 2199396_2201636
+*AVA:	mi hijo me la compra en Home_Depot@s:eng&spa . 2202471_2204590
 *AVA:	y yo le <podía> [?] pegando lo que sea . 2204671_2206611
-*LUI:	tampoco Home_Depot@s:eng&spa [?] hacen la chiquita . 2206593_2208107
+*LUI:	tampoco Home_Depot@s:eng&spa [?] las tienen chiquita . 2206593_2208107
 *LUI:	[- eng] they're all big . 2208107_2208879
 *AVA:	mira pa(ra) ese [?] &=claps_hands . 2209575_2210614
-*LUI:	+< xxx tú puedes conseguir eso ? 2210290_2211642
+*LUI:	+< donde tú [/] tú puedes conseguir eso ? 2210290_2211642
 *LUI:	en Brensmar@s:eng&spa [?] . 2211544_2212525
 *LUI:	lo bueno <es que> [/] es que [/] que [/] que vaya (.) uno tiene que usar una tarjeta de crédito normal pa(ra) pagarlo cash@s:eng . 2213268_2219428
 *LUI:	pero &eb &eb son baratos . 2219852_2221205
@@ -1172,7 +1178,7 @@
 *AVA:	+< bueno no . 2222989_2223912
 *LUI:	por <menos d(e)> [/] menos de doscientos pesos . 2225102_2226983
 *LUI:	un [/] un freezer@s:eng así . 2227516_2228962
-*AVA:	pero en una tienda de nueva ? 2230471_2232300
+*AVA:	pero es una tienda de nueva ? 2230471_2232300
 *LUI:	yeah@s:eng Brensmar@s:eng&spa [?] . 2232439_2233751
 *AVA:	de veras ? 2233819_2234841
 *LUI:	[- eng] one ninety seven we paid for that thing . 2234829_2236669
@@ -1199,10 +1205,10 @@
 *AVA:	+< como seis años va a tener . 2267247_2268901
 *LUI:	bueno . 2268942_2269697
 *AVA:	no seis años sí . 2269968_2271361
-*LUI:	y ya te tardan los problemas no ? 2271338_2273166
+*LUI:	y ya te está dando los problemas no ? 2271338_2273166
 *AVA:	muchas veces se enciende sola ! 2273386_2274953
 *LUI:	&=laugh coño ! 2274981_2277152
-*LUI:	xxx . 2277951_2279170
+*LUI:	la botamos pa(ra) la mierda . 2277951_2279170
 *AVA:	+< entonces no puedo +//. 2278373_2279963
 *AVA:	&dej ya le dije eso a Billy@s:eng&spa . 2280079_2281977
 *LUI:	&bwa . 2282009_2282479
@@ -1221,10 +1227,10 @@
 *LUI:	[- eng] oh a flat screen ? 2315721_2317167
 *AVA:	sí de las pequeñas mi hijo yo no la quiero grande . 2318298_2321235
 *LUI:	+< coño ! 2319215_2319842
-*LUI:	cara maybe@s:eng [?] . 2321918_2322847
+*LUI:	cara baby@s:eng [?] . 2321918_2322847
 *LUI:	[- eng] very expensive . 2323096_2324124
 *LUI:	muy xx trescientos xxx [//] cuatrocientos [/] cuatrocientos pesos facilito . 2325722_2329860
-*AVA:	bueno trescientos [//] cuatrocientos_y_pico costó es [?] la que voy a tener que botarla . 2330085_2334538
+*AVA:	bueno trescientos [//] cuatrocientos_y_pico costó eh la que voy a tener que botar . 2330085_2334538
 *LUI:	+< [- eng] I know . 2332837_2333487
 *LUI:	[- eng] but you don't have that kind of money ma . 2334877_2336717
 *LUI:	[- eng] you can't afford a T_V like that . 2339027_2340826
@@ -1235,7 +1241,7 @@
 *AVA:	tu padre me dijo +"/. 2354652_2355297
 *AVA:	+" vete . 2355233_2355761
 *AVA:	+" y sácame [//] tráeme (...) los cuatrocientos pesos . 2355939_2362456
-*LUI:	+< treinta [?] . 2360975_2361568
+*LUI:	+< treinta . 2360975_2361568
 *LUI:	[- eng] from the bank ? 2362855_2363575
 *AVA:	+< se los dimos a +//. 2363157_2364208
 *AVA:	no (.) no no no . 2364202_2365368
@@ -1252,13 +1258,13 @@
 *AVA:	rompió la caja . 2388396_2389244
 *AVA:	nos instaló la televisión . 2389247_2391784
 *AVA:	y todo eso se le dio algo a él por eso . 2392064_2394537
-*LUI:	se portó bien entonces el Dan@s:eng&spa ese . 2394112_2396022
+*LUI:	+< se portó bien entonces el Dan@s:eng&spa ese . 2394112_2396022
 *AVA:	oh sí claro que sí . 2395709_2397102
 *LUI:	[- eng] oh good . 2397113_2397711
 *AVA:	fue una gran persona . 2397806_2399112
-*AVA:	y el día que él fue a casa y vio que Tito tenía oxígeno la máquina de oxígeno (.) me dijo +"/. 2399050_2406780
+*AVA:	y el día que él fue a casa y vio que Tito@s:eng&spa tenía oxígeno la máquina de oxígeno (.) me dijo +"/. 2399050_2406780
 *AVA:	+" ay yo no sabía +//. 2406453_2407307
-*AVA:	+" Mrs_Ava@s:eng+eng&spa yo no sabía que Tito estaba en esas condiciones . 2406848_2411692
+*AVA:	+" Mrs_Ava@s:eng+eng&spa yo no sabía que Tito@s:eng&spa estaba en esas condiciones . 2406848_2411692
 *AVA:	yo le decía +"/. 2412108_2412671
 *AVA:	+" hace un tiempito que [/] que ya él necesita (.) oxígeno todo el tiempo . 2412405_2417868
 *AVA:	y me dice +"/. 2418103_2418637
