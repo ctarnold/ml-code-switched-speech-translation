@@ -1,0 +1,124 @@
+@Font:	Win95:Arial Unicode MS:-19:0
+@UTF8
+@Begin
+@Languages:	cy, en
+@Participants:	XXX xxxx Adult, YYY yyyy Adult
+@ID:	cy|bangor2|XXX|(age;)|male|||Adult||
+@ID:	cy|bangor2|YYY|(age;)|female|||Adult||
+@Situation:	place and type of interaction, relationship between speakers
+@Comment:	(e.g. XXX was brought up in north-west Wales, but is now
+	living in south-west Wales, after spending a significant period in
+	England)
+@Comment:	(e.g. YYY was born in north-west Wales, but is now living
+	in south-east Wales after spending a significant period in
+	England)
+@Date:	(e.g. 08-OCT-2003)
+@Comment:	Researcher:	researcher name, University of Wales Bangor
+@Coder:	coder name, University of Wales Bangor
+@Time Duration:	00:XX:XX
+@Comment:	Filename: .CHA; Soundfile: .wav
+@Comment:	Language markers: @1 = Welsh, @2 = English, @0 =
+	Undetermined, @21 = word with first morpheme(s) English, second
+	morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second
+	morpheme(s) English
+@Warning:	UNFINISHED TRANSCRIPT
+@Warning:	Soundfile is mono (delete if appropriate)
+*MAR:	Good morning .  %snd:""_14210_15110
+%gls:
+%eng:
+*PAU:	Good morning . %snd:"1005"_15595_17215
+*MAR:	How are you ?
+*PAU:	Very good, and you ? %snd:"1005"_15595_17215
+*MAR:	he sufrido del carajo xxx .
+%gls:	have.1S.PRES suffered of-the ????
+%eng:
+*PAU: %snd:""_24522_27285 [can't understand/hear]
+*MAR: %snd:""_24522_27285 No prendiste la calefaccion ?
+*PAU: %snd:""_24522_27285 No [can't understand/hear]... like to sleep cold
+*MAR: %snd:""_24522_27285 [can't understand/hear].... porque yo prendi la calefaccion
+*PAU: %snd:""_24522_27285 It was freezing.. I had to tell her to get up... no... it was so
+	windy that Gotti's (?) truck's alarm sonaba all night long.. because
+	I have, I put the christmas' tree.. a christmas tree in a trunk so
+	the wind..[can't understand/hear] carro...[can't understand/hear]
+*MAR: %snd:""_24522_27285 Esta es la chaqueta la que compraste[s] a esta, te decidiste
+	quedarte con ella?
+*PAU: %snd:""_24522_27285 Si, I have the green one in the [?] if you want to see it.
+*MAR: %snd:""_24522_27285 Igualita en verde?
+*PAU: %snd:""_24522_27285 Si, it's really pretty [be]cause it's different. Pero...
+	[despues de todos los gastos de Navidad... I'm really wanting to do
+	the windows...background drilling noise, unable to hear].
+*MAR: %snd:""_24522_27285 This is really pretty
+*PAU: %snd:""_24522_27285 Por eso es que te digo que..this is, I don't know, la otra es mas
+	 juvenil.
+*MAR: %snd:""_24522_27285 Right
+*PAU: %snd:""_24522_27285 I think.  Both of them are really nice in their style
+*MAR: %snd:""_24522_27285 Right
+*MAR: %snd:""_24522_27285 Look who is wearing her new NC hair jacket?!
+*MAle: %snd:""_24522_27285 [can't hear]That's very good. We should have lunch together, as a
+	matched pair..
+*MAR: %snd:""_24522_27285 As a matched pair! to keep you warm, because it's cold out there.
+*MAle: %snd:""_24522_27285...it's actually the perfect weight
+*MAR: %snd:""_24522_27285 Right, and then down here it will warm up in a couple of hours and
+	it still keeps you fairly warm kind of stuff. Cool. That kid picture
+	of [Austin?] with his shirt was so cute. His [... empty haired shirt]
+*MAR: %snd:""_25863_25869 No, I didn't see Tom yesterday, with it on. (converstion on the
+	back, unable to hear).
+	[...?]They both went out to lunch like the matching twins.
+	Coño, hace frio.
+*PAU: %snd:""_25863_25869 That's why I have..[???] this morning
+*MAR: %snd:""_25863_25869 It's because it's sixty one in here! Am I reading it correctly? six,
+	one, yes. how do you affect this thing?
+*PAU: %snd:""_25863_25869 I don't know. If we don't have heat, it's not going to..
+*MAR: %snd:""_25863_25869 Oh, that's true. Do we have heat?
+*PAU: %snd:""_25863_25869 I know. that´s why my house...My house is sixty one.
+*MAR: %snd:""_25863_25869 Well, it's on cool, but how the hell do you...
+*PAUL: %snd:""_25863_25869 Unless there's... for heat
+*MAR: %snd:""_25863_25869 ahah! there it is! Ahora, cual es el boton to make it go up?
+	And That's the temperature setting. Coño, por lo menos que se
+	caliente un poco la oficina because it´s freezing.
+*PAUL: %snd:""_25863_25869 yeah, whatever
+*MAR: %snd:""_25863_25869 it's sixity one in here, no wonder it's cold.
+*PAUL: %snd:""_25863_25869 That's what I was wondering...
+*MAR: %snd:""_25863_25869 We don't have to keept it on very long, because it's going to warm
+	up. Hace frio becase there is no heat, the heat wasn't on. It was
+	sixty one in here.
+*PAUL: %snd:""_25863_25869 It was only the air conditioning.
+*MAR:  But we discovered the heat button, so hopefully, en unos minutos
+	tendremos menos frio.
+*PAUL: %snd:""_25863_25869????? [unable to hear]
+*MAR: Tu sabes que el carro mio tambien tien el botoncito to warm  up the
+	seats.
+*PAUL: %snd:""_25863_25869 you had never noticed???
+*MAR:  I had, but I had never thought of anything of it, y como lo use ayer
+	en Maria's car
+@End
+Note:
+Role under @Participants and @ID: use either ‘adult’, ‘child’ or ‘teenager’,
+but note the relationship between the participants under @Situation.
+@Situation: note where the recording took place, the kind of interaction,
+and the relationship between the participants.
+@Comment (information about the speakers): each speaker should be given
+his/her own header. Include information regarding where the speaker
+was brought up, where he/she lives now and any other places he/she
+has lived for a significant period. Note regions (north-west Wales,
+north-east Wales, south-west Wales, south-east Wales and mid Wales)
+rather than specific areas.
+@Comment: Language markers: make sure these are changed to the format
+required by Talkbank (@s:w etc.) before proofreading.
+@Warning: UNFINISHED TRANSCRIPT: this should be deleted after the
+spot-check stage.
+@Warning: Soundfile is mono: include if required.
+Include any warnings or comments you deem necessary regarding any problems
+with the recording or things still to be done/checked. Make sure
+things to be done are done before finalising, and delete the
+warning/comment when they’re done.
+There is no need to include information regarding pseudonyms other than the
+speakers’. Delete superfluous information regarding pseudonyms
+before proofread if necessary.
+The readme file should note that the first five minutes of each recording
+have been edited out. This information needn’t be included in the
+transcript headers.
+Group, SES and education under @ID: to be discussed further in light of
+statistical analysis of the questionnaires.
+Occupation under @Comment (information about the speakers): to be discussed
+further in accordance with the above.

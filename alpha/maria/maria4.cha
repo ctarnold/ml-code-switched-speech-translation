@@ -1,0 +1,73 @@
+@Font:	Win95:Arial Unicode MS:-19:0
+@UTF8
+@Begin
+@Languages:	cy, en
+@Participants:	SON  sonia Adult, OTR other Adult
+@ID:	cy|bangor2|XXX|(age;)|male|||Adult||
+@ID:	cy|bangor2|YYY|(age;)|female|||Adult||
+@Situation:	place and type of interaction, relationship between speakers
+@Comment:	(e.g. XXX was brought up in north-west Wales, but is now
+	living in south-west Wales, after spending a significant period in
+	England)
+@Comment:	(e.g. YYY was born in north-west Wales, but is now living
+	in south-east Wales after spending a significant period in
+	England)
+@Date:	(e.g. 08-OCT-2003)
+@Comment:	Researcher:	researcher name, University of Wales Bangor
+@Coder:	coder name, University of Wales Bangor
+@Time Duration:	00:XX:XX
+@Comment:	Filename: .CHA; Soundfile: .wav
+@Comment:	Language markers: @1 = Welsh, @2 = English, @0 =
+	Undetermined, @21 = word with first morpheme(s) English, second
+	morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second
+	morpheme(s) English
+@Warning:	UNFINISHED TRANSCRIPT
+@Warning:	Soundfile is mono (delete if appropriate)
+*OTR:	www .
+*SON:	mira quien apareció . %snd:"1008"_64_43950
+*SON:	I´m sorry . %snd:"1008"_64_43950
+*SON:	I am so full . %snd:"1008"_64_43950
+*SON:	had lunch with my brother and my parents . %snd:"1008"_5233_23640
+*SON:	fuimos a Versalles . %snd:"1008"_5233_23640
+*OTR:	www .
+*SON:   mi hermano es el que vive en [/] en Europa . %snd:"1008"_13317_37918
+*OTR:	www .
+*SON:	yeah, he got here on the thirtieth . %snd:"1008"_215_34575
+*OTR:	www .
+*SON:	no, both him and my other brother got here after Christmas, right
+	bef(ore) +// . %snd:"1008"_12_60767
+*SON:	niña . %snd:"1008"_11028_39983
+*SON:	right aft (er) +// . %snd:"1008"_81_76928
+*SON:	no queda nada . %snd:"1008"_81_76928
+
+@End
+Note:
+Role under @Participants and @ID: use either ‘adult’, ‘child’ or ‘teenager’,
+but note the relationship between the participants under @Situation.
+@Situation: note where the recording took place, the kind of interaction,
+and the relationship between the participants.
+@Comment (information about the speakers): each speaker should be given
+his/her own header. Include information regarding where the speaker
+was brought up, where he/she lives now and any other places he/she
+has lived for a significant period. Note regions (north-west Wales,
+north-east Wales, south-west Wales, south-east Wales and mid Wales)
+rather than specific areas.
+@Comment: Language markers: make sure these are changed to the format
+required by Talkbank (@s:w etc.) before proofreading.
+@Warning: UNFINISHED TRANSCRIPT: this should be deleted after the
+spot-check stage.
+@Warning: Soundfile is mono: include if required.
+Include any warnings or comments you deem necessary regarding any problems
+with the recording or things still to be done/checked. Make sure
+things to be done are done before finalising, and delete the
+warning/comment when they’re done.
+There is no need to include information regarding pseudonyms other than the
+speakers’. Delete superfluous information regarding pseudonyms
+before proofread if necessary.
+The readme file should note that the first five minutes of each recording
+have been edited out. This information needn’t be included in the
+transcript headers.
+Group, SES and education under @ID: to be discussed further in light of
+statistical analysis of the questionnaires.
+Occupation under @Comment (information about the speakers): to be discussed
+further in accordance with the above.
