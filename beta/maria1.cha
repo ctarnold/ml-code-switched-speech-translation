@@ -1,11 +1,12 @@
-@Font:	Win95:Arial Unicode MS:-19:0
+@Font:	Win95:Arial:-16:0
 @UTF8
 @Begin
 @Languages:	spa, eng
-@Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	en|bangor3|MAR|(age;)|female|||Adult||
-@ID:	en|bangor3|OSE|||||Adult||
-@Date:	JAN-2008
+@Participants:	MAR Lourdes Adult, OSE Other_Speaker Adult
+@ID:	eng|bangor3|MAR|45;|female|||Adult||
+@ID:	eng|bangor3|OSE|||||Adult||
+@Situation:	Informal conversation between Lourdes and OSE, probably at OSE's place
+@Date:	27-JAN-2008
 @Comment:	Researcher:	researcher name, Prifysgol Bangor University
 @Coder:	Maria Carmen Parafita Couto, Prifysgol Bangor University
 @Time Duration:	00:XX:XX
