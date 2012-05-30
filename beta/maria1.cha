@@ -1,139 +1,408 @@
 @Font:	Win95:Arial:-16:0
 @UTF8
 @Begin
-@Languages:	spa, eng
+@Languages:	eng, spa
 @Participants:	MAR Lourdes Adult, OSE Other_Speaker Adult
 @ID:	eng|bangor3|MAR|45;|female|||Adult||
 @ID:	eng|bangor3|OSE|||||Adult||
 @Situation:	Informal conversation between Lourdes and OSE, probably at OSE's place
 @Date:	27-JAN-2008
 @Comment:	Researcher:	researcher name, Prifysgol Bangor University
-@Coder:	Maria Carmen Parafita Couto, Prifysgol Bangor University
-@Time Duration:	00:XX:XX
-@Comment:	Filename: file6a.cha; Soundfile: 1006.wav
-@Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
-@Warning:	Soundfile is mono (delete if appropriate)
-*MAR:	my@s:eng sister_in_law@s:eng quiere que haga +//. 366_2815
-*MAR:	[- eng] you know, she [/] she is a linguist . 2810_4238
-*MAR:	[- eng] and so she wants to sort of track, you know, Spanglish . 4226_8015
-*MAR:	[- eng] so she asked me if I would wear it # at work . 8001_11420
-*OSE:	www . 11414_12354
-*MAR:	para ver como es el cambio de un idioma al otro . 12329_14558
-*MAR:	[- eng] so if you see me with this thing . 14550_16211
-*MAR:	[- eng] I look kind of &=laugh goofy . 16211_18109
-*OSE:	www . 18087_19440
-*MAR:	yeah it@s:eng records@s:eng it@s:eng xxx como los chips de la camarita . 19422_22100
-*OSE:	www . 22095_22582
-*MAR:	[- eng] you know, the tiny little one . 22576_23633
-*MAR:	[- eng] and then, you know ## she has um some sort of program . 23623_28075
-*MAR:	[- eng] (be)cause <she is doing> [//] # you know she's got like a grant or something . 28064_30453
-*OSE:	www . 30457_31264
-*MAR:	[- eng] yeah and they transcribe it . 31270_32454
-*MAR:	[- eng] and then I guess they figure out . 32450_33750
-*MAR:	[- eng] you know # whatever she does . 33721_35950
-*MAR:	[- eng] something to do with transcribing and Spanglish and you know lo que hablas and everything . 35939_40996
-*OSE:	www . 40981_42571
-*MAR:	[- eng] right right . 42554_43152
-*MAR:	pero no, lo apago & si [/] si yo se que estamos +//. 43096_45766
-*OSE:	www . 45760_46433
-*MAR:	esta todo el mundo hablando inglés . 46437_47923
-*MAR:	or@s:eng, como dice mi hermano, si tu no quieres que nadie oye no, personal@s:eng or@s:eng something@s:eng . 47913_52273
-*OSE:	www . 52261_55454
-*MAR:	y tu amiga ? 55471_56673
-*OSE:	www . 56657_58306
-*MAR:	no ha ni llamado ? 58271_58782
-*OSE:	www . 58784_80135
-*MAR:	y tu no puedes salir en esa vaina ? 80157_81469
-*OSE:	www . 81469_81940
-*MAR:	hello@s:eng [!] si es four@s:eng wheel@s:eng drive@s:eng . 81936_83485
-*MAR:	nieve [!] ? 83472_86850
-*MAR:	mi hermana vive en Georgia@s:eng&spa . 86843_88334
-*MAR:	y no ha habido nada de nieve . 88340_89641
-*OSE:	www . 89642_91169
-*MAR:	bueno yo no se donde esta la casa de ella . 91173_92711
-*OSE:	www . 92715_94346
-*MAR:	bueno puede que si en las montanas si # si haya . 94344_97090
-*OSE:	www . 97071_100827
-*MAR:	ya # mas muerta que viva . 100834_102843
-*OSE:	www . 102812_105401
-*MAR:	pero xxx a que hora te llamo ? 105397_106720
-*MAR:	a las ocho de la manana ? 106709_107562
-*OSE:	www . 107562_107893
-*MAR:	ah, anoche . 107853_108451
-*OSE:	www . 108439_109019
-*MAR:	ah no . 108967_109478
-*MAR:	www . 109470_110654
-*MAR:	eso queda como por la mitad del estado . 110635_112550
-*OSE:	www . 112510_112847
-*MAR:	no no no eso esta en el medio del estado . 112833_114743
-*MAR:	esta o al norte o al sur de Gainesville@s:eng&spa . 114725_117798
-*OSE:	www . 117786_119493
-*MAR:	eso es horse@s:eng country@s:eng . 119454_120655
-*MAR:	eso es horse@s:eng country@s:eng . 120650_121573
-*OSE:	www . 121561_123361
-*MAR:	[- eng] it's really pretty actually when you +//. 123355_124806
-*MAR:	I@s:eng think@s:eng it's@s:eng before@s:eng Gainesville@s:eng&spa . 124806_125996
-*OSE:	www . 125969_126776
-*MAR:	I@s:eng think@s:eng it's@s:eng before@s:eng Gainesville@s:eng&spa . 126758_127762
-*OSE:	www . 127757_128140
-*MAR:	[- eng] <when you> [/] when you drive on seventy_five . 128126_130349
-*MAR:	[- eng] I think it's seventy_five . 130344_131272
-*OSE:	www . 131267_131998
-*MAR:	[- eng] it's real pretty . 132000_132702
-*MAR:	I@s:eng mean@s:eng you@s:eng can@s:eng see@s:eng <the@s:eng big@s:eng> [//] las [//] the@s:eng pieces@s:eng of@s:eng property@s:eng con que parece que estuvieras en you@s:eng know@s:eng en Virginia@s:eng&spa where@s:eng they@s:eng have@s:eng the@s:eng horses@s:eng . 132700_140728
-*MAR:	[- eng] it's horse country . 140726_141365
-*MAR:	[- eng] you see the big +//. I 0_0
-*MAR:	porque ahi esa parte del estado has@s:eng a@s:eng little@s:eng bit@s:eng of@s:eng hills@s:eng not@s:eng a@s:eng lot@s:eng of@s:eng hills@s:eng . 141922_146676
-*OSE:	www . 146662_150006
-*MAR:	y seventy@s:eng five@s:eng right@s:eng . 149992_151989
-*OSE:	www . 151991_153912
-*MAR:	no no no . 153924_155428
-*OSE:	www . 155420_156232
-*MAR:	entonces &= cough it's@s:eng like@s:eng horse@s:eng country@s:eng so@s:eng you@s:eng see@s:eng the@s:eng big@s:eng xxx properties@s:eng with@s:eng <you@s:eng know@s:eng> [/] you@s:eng know@s:eng the@s:eng trees@s:eng . 156221_162507
-*MAR:	[- eng] and you know you see the horses . 162490_163773
-*MAR:	[- eng] it's very pretty actually . 163765_165036
-*MAR:	[- eng] I mean . 165019_165367
-*OSE:	www . 165356_166546
-*MAR:	los dos ella dice que lo tenian puesto ayer tambien . 0_0
-*MAR:	y salieron los dos . 0_0
-*MAR:	es que estan perfect@s:eng . 0_0
-*MAR:	good job dear . 0_0
-*OSE:	www . 0_0
-*MAR:	que monada ! 0_0
-*OSE:	www . 0_0
-*MAR:	y el tamano no lo pudistes escoger mejor porque no es posible . 0_0
-*OSE:	www . 0_0
-*MAR:	[- eng] xxx's so cute . 0_0
-*MAR:	[- eng] xxx's very cute . 0_0
-*OSE:	www . 0_0
-*MAR:	que ? 0_0
-*OSE:	www . 0_0
-*MAR:	pero xxx se me parece a la madre . 0_0
-*MAR:	si tu ves las las . 0_0
-*OSE:	www . 0_0
-*MAR:	si tu ves la foto de la madre . 0_0
-*OSE:	www . 0_0
-*MAR:	aih que mala ! 0_0
-*OSE:	www . 0_0
-*MAR:	[- eng] very cute . 0_0
-*MAR:	esta de lo mas mono el chiquito . 0_0
-*OSE:	www . 0_0
-*MAR:	coño tengo hasta frio . 0_0
-*MAR:	pero yo no oigo el calor digo lo huelo . 0_0
-*MAR:	tu sabes que cuando tu pones la calefaccion . 0_0
-*OSE:	www . 0_0
-*MAR:	tiene un [/] la primera vez que se prende tiene un colorcito . 0_0
-*MAR:	el lado alla hace sesenta y uno . 0_0
-*OSE:	www . 0_0
-*MAR:	uno . 0_0
-*MAR:	es el north@s:eng side@s:eng so@s:eng it@s:eng doesn't@s:eng get@s:eng any@s:eng sun@s:eng . 0_0
-*OSE:	www . 0_0
-*MAR:	bueno . 0_0
-*OSE:	www . 0_0
-*MAR:	cual el que vive aqui al lado o no? 0_0
-*OSE:	www . 0_0
-*MAR:	cobrale . 0_0
-*OSE:	www . 0_0
-*MAR:	que fresco ! 0_0
-*OSE:	www 0_0
+@Time Duration:	15:02:35
+@Media:	Maria1a, audio
+@Comment:	Filename: file6a.CHA; Soundfile: 1006.wav
+@Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Warning:	Soundfile is mono
+*MAR:	my sister in law (.) quiere@s:spa que@s:spa haga@s:spa you know . 714_3268
+*MAR:	she &d [/] she is a linguist . 3262_4371
+*MAR:	and so she wants to sort of track you know spanglish@s:eng&spa . 4859_8169
+*MAR:	so she asked me if I would wear it (.) at work +/. 8719_11622
+*OSE:	www .
+*MAR:	+, [- spa] para ver como es el cambio de un idioma al otro . 12304_14467
+*MAR:	so if you see me with this thing (.) I look kinda (.) goofy . 14465_18229
+*OSE:	www .
+*MAR:	yeah it records it and all como@s:spa los@s:spa chips@s:eng&spa de@s:spa la@s:spa camarita@s:spa . 19430_22122
+*OSE:	www .
+*MAR:	you know the tiny little one ? 22596_23683
+*OSE:	www .
+*MAR:	and then if you know +/. 23951_26621
+*OSE:	www .
+*MAR:	+, she has um some sort of program cause she is doing you know . 26766_29281
+*MAR:	she's got like a grant or something . 29246_30419
+*OSE:	www .
+*MAR:	yeah and they transcribe it . 31280_32422
+*MAR:	and then I guess they figure out you know whatever she does (.) something to do with transcribing and spanglish@s:eng&spa and you know lo@s:spa que@s:spa hablas@s:spa and everything . 32383_41056
+*OSE:	www .
+*MAR:	+< right right . 42520_43031
+*MAR:	[- spa] pero no ! 43013_43402
+*MAR:	[- spa] <lo &d> [//] lo apago . 43384_44005
+*MAR:	y@s:spa si@s:spa [/] si@s:spa yo@s:spa sé@s:spa que@s:spa estamos@s:spa you know todo@s:spa el@s:spa mundo@s:spa hablando@s:spa inglés@s:spa o@s:spa como@s:spa dice@s:spa mi@s:spa hermano@s:spa si@s:spa tú@s:spa no@s:spa quieres@s:spa que@s:spa nadie@s:spa <oyen@s:spa or> [?] personal or something . 44525_52267
+*OSE:	+< www .
+*MAR:	so +... 52612_53036
+*OSE:	www .
+*MAR:	[- spa] y tu amiga ? 55434_56990
+*OSE:	www .
+*MAR:	[- spa] no ha ni llamado ? 58285_59085
+*OSE:	+< www .
+*MAR:	[- spa] y tú no puedes salir en esa vaina ? 80267_81805
+*MAR:	hello [!] [*] si@s:spa es@s:spa four_wheel drive ? 81924_83619
+%com:	noise
+*MAR:	[- spa] nieve [!] . 85924_86818
+*MAR:	mi@s:spa hermana@s:spa vive@s:spa en@s:spa Georgia@s:eng&spa . 87201_88374
+*MAR:	[- spa] y no ha habido nada de nieve . 88291_89661
+*OSE:	www .
+*MAR:	[- spa] bueno yo no sé dónde está la casa de ella . 91158_92806
+*OSE:	www .
+*MAR:	[- spa] bueno puede que sí en las montanas sí (.) sí haya . 94340_97010
+*OSE:	www .
+*MAR:	[- spa] ya (.) más muerta que viva . 100931_102423
+*OSE:	www .
+*MAR:	[- spa] pero xxx  a qué hora te llamó a las ocho de la mañana ? 105421_107563
+*MAR:	[- spa] xxx anoche ? 107801_108811
+*OSE:	+< www .
+*MAR:	[- spa] ah [!] anoche . 108962_109728
+*OSE:	+< www .
+*MAR:	[- spa] eso queda como por la mitad del estado [?] . 110672_112645
+*OSE:	+< www .
+*MAR:	[- spa] no no no ! 112581_113458
+*MAR:	[- spa] eso está en el medio del estado . 113470_114834
+*MAR:	está@s:spa o@s:spa al@s:spa norte@s:spa o@s:spa al@s:spa sur@s:spa de@s:spa Gainesville@s:eng&spa . 115436_117619
+*OSE:	www .
+*MAR:	+< eso@s:spa es@s:spa horse country . 119506_120522
+*MAR:	eso@s:spa es@s:spa horse country . 120482_121683
+*OSE:	www .
+*MAR:	it's really pretty actually when you +//. 123383_124608
+*OSE:	+< www .
+*MAR:	I think it's before Gainesville@s:eng&spa . 124585_126001
+*OSE:	www .
+*MAR:	+< I think it's before Gainesville@s:eng&spa . 126554_127710
+*MAR:	<when you> [/] when you drive on seventy_five +//. 127651_129921
+*OSE:	+< www .
+*MAR:	I think it's seventy_five . 129900_131328
+*OSE:	www .
+*MAR:	+, it's real pretty . 131945_132885
+*MAR:	I mean you can see <the big> [///] las@s:spa [/] las@s:spa [?] pieces of property con@s:spa [//] que@s:spa parece@s:spa que@s:spa estuvieras@s:spa en@s:spa you know en@s:spa Virginia@s:eng&spa where they have the horses . 132469_140581
+*MAR:	it's horse country . 140569_141556
+*MAR:	you see the big +//. 141475_142067
+*MAR:	cause porque@s:spa ahí@s:spa esa@s:spa parte@s:spa del@s:spa estado@s:spa has a little bit of hills not like a lot of hills . 141951_146793
+*OSE:	+< www .
+*MAR:	+< el@s:spa seventy_five right . 149623_151103
+*OSE:	www .
+*MAR:	[- spa] no (.) no (.) no . 153658_155463
+*OSE:	www .
+*MAR:	entonces@s:spa &=clears_throat it is like horse country . 155629_158462
+*MAR:	so you see the big xxx properties with <you know> [/] you know the trees . 158487_162527
+*MAR:	and you know you see the horses . 162533_163677
+*MAR:	it's very pretty actually I mean . 163665_165412
+*OSE:	+< www .
+*MAR:	[- spa] los dos ella dice que lo tenían puesto ayer también . 166525_168854
+*OSE:	+< www .
+*MAR:	[- spa] y salieron los dos . 168761_169655
+*OSE:	+< www .
+*MAR:	es@s:spa que@s:spa están@s:spa perfect . 169632_170828
+*MAR:	good job dear . 171059_172109
+*OSE:	+< www .
+*MAR:	+< [- spa] qué xxx monada ! 173986_175704
+*OSE:	www .
+*MAR:	[- spa] <y qué xxx> [///] y no el [/] el tamaño no lo pudistes escoger mejor porque no es posible . 176316_180054
+*OSE:	+< www .
+*MAR:	right it is so cute . 181647_182966
+*MAR:	it's very cute . 182885_184028
+*OSE:	+< www .
+*MAR:	[- spa] qué ? 185808_186145
+*OSE:	www .
+*MAR:	[- spa] pero también [?] que a mí se me parece (.) a la madre . 189434_191843
+*MAR:	[- spa] si tú ves las [/] las +/. 191835_192625
+*OSE:	+< www .
+*MAR:	[- spa] si tú ves la [?] foto de la madre de la +/. 193124_195190
+*OSE:	www .
+*MAR:	+< xxx [=! laughs] .
+*MAR:	[- spa] ay [=! laughs] qué mala ! 202398_203685
+*OSE:	www .
+*MAR:	very cute . 208143_208921
+*MAR:	[- spa] está de lo más mono el chiquito . 208995_210046
+*OSE:	www .
+*MAR:	[- spa] coño tengo [//] hasta [?] frío . 211641_213661
+*MAR:	[- spa] pero <yo no> [/] yo no oigo el calor tú sabes +//. 213575_215253
+*MAR:	[- spa] digo lo huelo . 215224_216324
+*MAR:	[- spa] tú sabes que cuando tú pones la calefaccion +/. 216306_217432
+*OSE:	+< www .
+*MAR:	+< [- spa] <tiene un> [//] la primera vez que se prende tiene un colorcito .
+*OSE:	+< www .
+*MAR:	[- spa] el lado allá hace sesenta_y_uno . 220837_222875
+*OSE:	www .
+*MAR:	+< [- spa] uno [?] . 224229_225233
+*MAR:	es@s:spa el@s:spa north side . 225769_226419
+*MAR:	so it doesn't get any sun . 226425_227702
+*OSE:	www .
+*MAR:	[- spa] bueno . 230433_230845
+*OSE:	www .
+*MAR:	[- spa] cuál el que vive aquí al lado, no? 232266_233414
+*OSE:	www .
+*MAR:	+< [- spa] cóbrale . 237421_238083
+*OSE:	www .
+*MAR:	+< [- spa] qué fresco !
+*OSE:	www .
+*MAR:	+< &=laughs .
+*OSE:	www .
+*MAR:	<xxx you can call it this> [=! laughs] . 250749_252206
+*OSE:	www .
+*MAR:	+< &=laughs .
+*OSE:	www .
+*MAR:	+< [- spa] ah los manda solos y él no viene ?
+*OSE:	+< www .
+*MAR:	[- spa] oye qué frescura ! 261488_262841
+*OSE:	+< www .
+*MAR:	+< [- spa] qué fres +/.
+*OSE:	www .
+*MAR:	bueno@s:spa too bad . 275717_276971
+*MAR:	&s . 276887_279871
+*OSE:	www .
+*MAR:	[- spa] no . 281046_281539
+*OSE:	www .
+*MAR:	+< ché@s:spa [?] right .
+*OSE:	www .
+*MAR:	+< right right right (.) right (.) right right right .
+*MAR:	[- spa] y [/] y [/] y te han hecho pa(ra) que nadie entienda lo que dicen . 287555_289662
+*OSE:	+< www .
+*MAR:	porque@s:spa si@s:spa te@s:spa hubieran@s:spa escrito@s:spa en@s:spa [/] en@s:spa el@s:spa lenguaje@s:spa de@s:spa todo@s:spa el@s:spa mundo@s:spa maybe pero@s:spa +... 291221_295319
+*OSE:	www .
+*MAR:	[- spa] pues sí el vi &eeee +//. 297990_299046
+*MAR:	cómo@s:spa se@s:spa llama@s:spa Helen@s:eng&spa ? 299035_300097
+*MAR:	[- spa] yo me paro . 300324_300852
+*MAR:	[- spa] y digo +"/. 300812_301346
+*MAR:	+" [- spa] coño qué frío hace ! 301317_302687
+*MAR:	[- spa] voy . 303448_303953
+*MAR:	[- spa] y veo ahí en el +//. 303965_305085
+*MAR:	[- spa] y es el sesenta_y_uno . 305132_306397
+*MAR:	[- spa] esa [?] no yo lo siento mucho . 306507_308016
+*MAR:	[- spa] hace demasiado frío . 308485_309895
+*MAR:	[- spa] yo sé que ya para las [/] las cuarto [?] de la tarde no hace frío . 309884_312630
+*MAR:	[- spa] voy . 312737_313579
+*MAR:	[- spa] y vamos a prender el [/] el [//] la calefacción . 313532_315214
+*MAR:	y@s:spa me@s:spa dice@s:spa Jennifer@s:eng&spa +"/. 315181_316133
+*MAR:	+" [- spa] tú crees que tiene ? 316115_317224
+*MAR:	y@s:spa yo@s:spa xxx heat .
+*OSE:	+< www .
+*MAR:	[- spa] que no hay calefacción ? 319488_320475
+*OSE:	www .
+*MAR:	[- spa] lo más probable es que no haya . 321371_322561
+*OSE:	www .
+*MAR:	+< entonces@s:spa entró@s:spa donde@s:spa Helen@s:eng&spa . 329780_331237
+*MAR:	[- spa] y fue pallá . 332124_332774
+*MAR:	y@s:spa me@s:spa mira@s:spa Esmeralda@s:eng&spa porque@s:spa yo@s:spa le@s:spa dije@s:spa que@s:spa yo@s:spa la@s:spa he@s:spa prendido@s:spa . 332757_334797
+*MAR:	[- spa] y <nos hicim> [//] yo me hice la que yo no tengo nada que decir . 334756_336834
+*MAR:	+" [- spa] ha sido un comentario . 336846_338001
+*MAR:	[- spa] yo voy a decir +". 337908_338413
+*MAR:	[- spa] sí yo [//] hacía mucho frío . 338297_339424
+*MAR:	<dice@s:spa el@s:spa> [///] se@s:spa levanta@s:spa a@s:spa los@s:spa cinco@s:spa minutos@s:spa Lilian@s:eng&spa . 340188_343009
+*MAR:	[- spa] y dice +"/. 343235_343543
+*MAR:	+" [- spa] ahora dice sesenta_y_tres ["] . 343543_344553
+*MAR:	[- spa] y le digo +"/. 344553_344878
+*MAR:	+" bueno@s:spa por@s:spa lo@s:spa menos@s:spa subió@s:spa two degrees cause it used to be sixty_one . 344872_347490
+*OSE:	+< www .
+*MAR:	y@s:spa acá@s:spa decía@s:spa seventy_four . 347895_349399
+*MAR:	[- spa] le digo +"/. 349387_349985
+*MAR:	+" a@s:spa eso@s:spa lo@s:spa tocó@s:spa él@s:spa porque@s:spa xxx Jennifer@s:eng&spa y@s:spa yo@s:spa pusimos@s:spa setenta@s:spa . 349822_351941
+*OSE:	+< www .
+*MAR:	Jennifer@s:eng&spa y@s:spa yo@s:spa lo@s:spa pusimos@s:spa en@s:spa setenta@s:spa . 354752_356581
+*OSE:	www .
+*MAR:	[- spa] sí pero <no se> [/] no se ha quitado la chaqueta . 362736_364501
+*MAR:	[- spa] así que también tiene frío . 364617_365877
+*OSE:	www .
+*MAR:	[- spa] y eso que allá atrás por lo menos les cae el sol . 369457_371570
+*MAR:	pero@s:spa aquí@s:spa en@s:spa el@s:spa north side we don't ever get direct sun . 371755_375087
+*OSE:	+< www .
+*MAR:	we get no direct sun we get . 375084_376669
+*OSE:	+< www .
+*MAR:	+< [- spa] a veces sesenta_y_uno sesenta_y_uno . 380739_381970
+*OSE:	www .
+*MAR:	[- spa] cuándo regresa ? 386636_387535
+*OSE:	www .
+*MAR:	[- spa] él está loco . 388830_389753
+*OSE:	www .
+*MAR:	y@s:spa a@s:spa él@s:spa <se@s:spa le@s:spa ha@s:spa warm up the> [///] la@s:spa [/] la@s:spa sangre@s:spa se@s:spa le@s:spa ha@s:spa puesto@s:spa un@s:spa +/. 396025_398788
+*OSE:	+< www .
+*MAR:	he doesn't miss it in other words . 402005_403653
+*OSE:	www .
+*MAR:	no@s:spa . 414644_415016
+*OSE:	www .
+*MAR:	+< [- spa] hace como cinco años .
+*MAR:	that's what they said about five years . 416628_418039
+*OSE:	www .
+*MAR:	[- spa] y yo esta mañana que salí de la casa que si +//. 419346_421000
+*MAR:	te@s:spa [/] tenía@s:spa que@s:spa ir@s:spa al@s:spa súper@s:spa cause I had no milk . 420994_422811
+*MAR:	mi@s:spa carro@s:spa tiene@s:spa un@s:spa thermostat que@s:spa te@s:spa dice@s:spa you know +//. 423458_425971
+*MAR:	you heat it . 425948_426447
+*MAR:	y@s:spa te@s:spa dice@s:spa what it is . 426447_427353
+*MAR:	thirty_six . 427604_428701
+*MAR:	[- spa] yo me cago en la madre . 428670_430202
+*MAR:	fue@s:spa [//] vaya@s:spa cuando@s:spa ya@s:spa regresé@s:spa del@s:spa grocery +/. 430197_431642
+*OSE:	+< www .
+*MAR:	+, el@s:spa grocer decía@s:spa cuarenta_y_uno@s:spa . 433205_434900
+*MAR:	pero@s:spa cuando@s:spa I dropped the groceries and I left decía@s:spa treinta_y_nueve@s:spa . 435067_437720
+*MAR:	[- spa] y le digo coño xxx [=! laughs] . 437703_439387
+*OSE:	www .
+*MAR:	maybe . 443708_444149
+*MAR:	no cause it has a sensor . 444181_445360
+*MAR:	and the sensor is on [/] on the dashboard . 445336_448348
+*MAR:	so I guess it takes it . 448337_449381
+*OSE:	+< www .
+*MAR:	<in the> [//] <the one I think I'm> [///] I [/] I mean this car provides heat . 449843_453535
+*MAR:	[- spa] pero no es como los carros normales que si tú quieres calor tú lo mueves a rojito . 454122_458163
+*MAR:	the only way I can turn the heat is I have to tell it auto +/. 458422_462852
+*OSE:	+< www .
+*MAR:	+, and turn the temperature up . 462954_464539
+*OSE:	www .
+*MAR:	because then the sensor will know that is cold outside and it throws hot air (.) like <you don't> [///] you can have +/. 465007_471593
+*OSE:	+< www .
+*MAR:	and it takes time . 472133_472847
+*MAR:	versus the old fashion you turn the knob to the red +/. 472860_475908
+*OSE:	+< www .
+*MAR:	+, when the car is warm it throws hot air . 476026_478476
+*OSE:	www .
+*MAR:	+< it takes time (.) because xxx engine <the engine is> [//] your engine's too cold . 479949_482979
+*OSE:	www .
+*MAR:	pero@s:spa the first time I went to use this heat a few years ago I'm like +"/. 483595_486562
+*MAR:	+" xxx where is the xxx heat ? 486863_489104
+*MAR:	you know . 488965_489702
+*MAR:	and then &a +/.
+*OSE:	+< www .
+*MAR:	right . 491490_491862
+*MAR:	because it's auto +/. 491832_492918
+*OSE:	+< www .
+*MAR:	+, electrical . 493144_494038
+*MAR:	right . 493945_494555
+*OSE:	www .
+*MAR:	pero@s:spa el@s:spa aire@s:spa acondicionado@s:spa sí@s:spa te@s:spa da@s:spa el@s:spa chance@s:eng&spa . 495430_497438
+*MAR:	you can hit on . 497450_498344
+*MAR:	and you turn the you know you &d +/. 498409_500209
+*OSE:	www .
+*MAR:	+< xxx <I don't like> [/] I don't like that [/] that they do the +//. 500853_503720
+*MAR:	it's kinda weird . 503714_504446
+*MAR:	I don't like it . 504501_505227
+*MAR:	I mean I like the old fashion knobs . 505558_507056
+*MAR:	brrru [*] ! 507043_507618
+%com:	imits the noise of the device
+*MAR:	<you know> [=! laughs] . 507719_508682
+*OSE:	www .
+*MAR:	right . 510643_511131
+*OSE:	www .
+*MAR:	I mean it warms up . 512740_514168
+*MAR:	but it's weird . 514499_515497
+*OSE:	+< www .
+*MAR:	it's [/] it's it's it's not it's counter-intuitive because you're used to saying okay I want warm . 515498_520421
+*MAR:	[- spa] lo pongo al rojo . 520420_521836
+*OSE:	+< www .
+*MAR:	&ua . 522938_523228
+*OSE:	www .
+*MAR:	[- spa] déjame decirte . 524366_525033
+*MAR:	mi@s:spa carro@s:spa tiene@s:spa heated seats . 525019_527469
+*MAR:	[- spa] nunca lo he usado . 528793_530389
+*MAR:	ayer@s:spa que@s:spa me@s:spa monté@s:spa con@s:spa Irene@s:eng&spa fuimos@s:spa a@s:spa comer@s:spa . 530403_532830
+*MAR:	[- spa] ella lo prendió . 532818_533434
+*MAR:	[- spa] y dije +"/. 533502_533950
+*MAR:	+" ay@s:spa coño@s:spa Irene@s:eng&spa tengo@s:spa el@s:spa xx <calentito@s:spa> [=! laughs] . 533847_536355
+*MAR:	[- spa] <me dice> [= ! laughs] +"/. 536349_536912
+*MAR:	+" no@s:spa es@s:spa que@s:spa tienen@s:spa el@s:spa [/] el@s:spa heating thing &=laughs . 536891_539788
+*MAR:	so when I got in the car yesterday I went +"/. 539773_541509
+*MAR:	+" oh ! 541492_541776
+*MAR:	+" mine has it too ! 541759_542531
+*MAR:	click [!] I turned it on . 542519_543860
+*MAR:	it's really +/. 543983_544262
+*OSE:	+< www .
+*MAR:	+< [- spa] qué rico ! 544976_545562
+*MAR:	I didn't turn it on this morning cause I was so bundled up +/. 545542_547835
+*OSE:	+< www .
+*MAR:	+, I didn't need it . 547759_548689
+*OSE:	www .
+*MAR:	+< right . 550123_550523
+*MAR:	it is supposedly +/. 550506_551568
+*OSE:	+< www .
+*MAR:	+, pa(ra)@s:spa la@s:spa espalda@s:spa right right . 551969_553478
+*MAR:	so I was like +"/. 553446_554049
+*MAR:	+" cool ! 553974_554363
+*MAR:	+" the first time I ever use it ! 554346_555634
+*OSE:	www .
+*MAR:	but you know what I didn't use it this morning cause I was so bundled up I didn't need it . 557220_560663
+*OSE:	www .
+*MAR:	+< no I didn't even turn the heat on because I figured I was going to wait . 563101_566020
+*OSE:	www .
+*MAR:	+< &=laughs .
+*MAR:	where is Elba ? 582257_583145
+*OSE:	www .
+*MAR:	ah@s:spa . 584241_584792
+*OSE:	www .
+*MAR:	+, <tú@s:spa va@s:spa> [///] <te@s:spa &eee> [///] eh@s:spa Víctor@s:eng&spa está@s:spa viviendo@s:spa con@s:spa ustedes@s:spa otra@s:spa vez@s:spa ? 585981_588970
+*MAR:	ay@s:spa la@s:spa verdad@s:spa es@s:spa que@s:spa Jorge@s:eng&spa es@s:spa muy@s:spa buen@s:spa (.) marido@s:spa . 589905_592976
+*OSE:	www .
+*MAR:	[- spa] me acuerdo que tú me dijiste . 597462_599111
+*OSE:	www .
+*MAR:	mmhm . 603162_603661
+*OSE:	www .
+*MAR:	[- spa] él es enfermero no ? 606808_608126
+*OSE:	www .
+*MAR:	+< oh that's not fair .
+*OSE:	www .
+*MAR:	right . 619334_619717
+*OSE:	www .
+*MAR:	right . 623762_624238
+*OSE:	www .
+*MAR:	+< that's not fair .
+*OSE:	www .
+*MAR:	+< that's not fair .
+*OSE:	www .
+*MAR:	[- spa] y por qué no les dices al +"/. 643015_643932
+*MAR:	+" look I have this issue . 643967_645918
+*MAR:	they are not gonna give a good reference . 646046_647555
+*MAR:	can he just tell them ? 647549_648693
+*MAR:	they're not +/. 648693_649674
+*OSE:	+< www .
+*MAR:	coño@s:spa pues@s:spa that's not fair ! 662205_663558
+*OSE:	www .
+*MAR:	but can't he do something about it . 664676_666464
+*MAR:	and say that they +//? 666395_667503
+*MAR:	you know . 668125_668955
+*OSE:	www .
+*MAR:	[- spa] de todo un po(co) .
+*OSE:	+< www .
+*MAR:	+< right right right . 723482_724231
+*OSE:	www .
+*MAR:	right . 734940_735334
+*OSE:	www .
+*MAR:	mmhm . 740796_741365
+*OSE:	www .
+*MAR:	xxx you can't do that . 767482_769113
+*OSE:	www .
+*MAR:	right right right .
+*OSE:	www .
+*MAR:	+< [- spa] entonces la tienen cogida contigo . 787230_788435
+*OSE:	www .
+*MAR:	right right right they don't give you a whole lot . 801946_803478
+*MAR:	yo@s:spa no@s:spa sé@s:spa cómo@s:spa la@s:spa gente@s:spa vive@s:spa del@s:spa unemployment . 803571_805449
+*OSE:	www .
+*MAR:	+< porque@s:spa es@s:spa un@s:spa pain .
+*OSE:	www .
+*MAR:	yo@s:spa no@s:spa sé@s:spa cómo@s:spa la@s:spa gente@s:spa vive@s:spa del@s:spa unemployment porque@s:spa es@s:spa un@s:spa pain . 812434_815055
+*MAR:	[- spa] yo me acuer(do) la única vez que +/. 815756_817530
+*OSE:	+< www .
+*MAR:	+< right (.) right .
+*OSE:	www .
+*MAR:	that's good . 840828_841397
+*MAR:	<no@s:spa y@s:spa si@s:spa> [//] y@s:spa a@s:spa si@s:spa tu@s:spa marido@s:spa gets along with him that's great . 841366_843763
+*OSE:	www .
+*MAR:	right . 847905_848294
+*MAR:	no@s:spa . 848517_848839
+*MAR:	y@s:spa [/] y@s:spa for Elba@s:eng&spa is good cause <xxx tienen@s:spa> [//] la@s:spa tienen@s:spa los@s:spa dos@s:spa . 848836_851558
+*OSE:	www &=laughs .
+*MAR:	+< y@s:spa ti@s:spa [//] bueno@s:spa tiene@s:spa dos@s:spa papás@s:spa which <can be a little> [/] can be a little challenging . 854085_857363
+*OSE:	+< &=laughs www .
+*MAR:	+< that's great .
+*MAR:	that's great . 860455_861215
+*OSE:	www .
+%com:	someone pours a drink
+*OSE:	www .
+*MAR:	which one ? 894260_894724
+*OSE:	www .
+%com:	all speak at the same time, there are some noises and then the recording finishes .
 @End
