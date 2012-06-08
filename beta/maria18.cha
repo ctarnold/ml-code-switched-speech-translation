@@ -1,7 +1,7 @@
-@Font:	Win95:Arial Unicode MS:-19:0
+@Font:	Win95::-13:0
 @UTF8
 @Begin
-@Languages:	spa, eng
+@Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
 @ID:	spa, eng|bangor3|MAR|(age;)|female|||Adult||
 @ID:	spa, eng|bangor3|OSE|||||Adult||
@@ -11,197 +11,1505 @@
 @Comment:	MAR is wearing a microphone to record conversation
 @Coder:	Maria Carmen Parafita Couto, Prifysgol Bangor University
 @Time Duration:	01:38:40
-@Comment:	Filename: maria18.cha; Soundfile: MAR18.wav
+@Comment:	Filename: maria18.cha
+@Media:		MAR18.wav
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 @Warning:	Other speakers' speech have been edited using bleeps.
-*OSE:	www . 12_11765
-*MAR:	www . 11769_13406
-*OSE:	www . 13387_15894
-*MAR:	www . 15871_21088
-*OSE:	www . 21064_22249
-*MAR:	www . 22239_24456
-*OSE:	www . 24440_33740
-*MAR:	www . 33728_34297
-*MAR:	www . 34303_34710
-*OSE:	www . 34704_51389
-*MAR:	www . 51420_53016
-*OSE:	www . 53010_59181
-*MAR:	www . 59169_61306
-*OSE:	www . 61300_65903
-*OSE:	www . 61300_79433
-*MAR:	www . 79419_80377
-*OSE:	www . 80365_81619
-*MAR:	www . 81607_85450
-*OSE:	www . 85436_85790
-*MAR:	www . 85785_87329
-*OSE:	www . 87340_87985
-*MAR:	www . 87985_92917
-*OSE:	www . 92911_94827
-*MAR:	www . 94815_95752
-*OSE:	www . 95746_97575
-*MAR:	www . 97565_101239
-*MAR:	www . 101228_104803
-*OSE:	www . 104799_110651
-*MAR:	www . 110641_113562
-*MAR:	www . 113545_115049
-*MAR:	www . 115046_116567
-*MAR:	www . 116561_121360
-*MAR:	www . 121366_125725
-*OSE:	www . 125708_126463
-*MAR:	www . 126459_131604
-*MAR:	www . 131604_138131
-*MAR:	www . 138113_139616
-*OSE:	www . 139605_140406
-*MAR:	www . 140389_140934
-*MAR:	www . 140921_142737
-*OSE:	www . 142726_144398
-*MAR:	www . 144380_144792
-*OSE:	www . 144771_149322
-*MAR:	www . 149312_150003
-*MAR:	www . 150003_152358
-*OSE:	www . 152346_154831
-*MAR:	www . 154778_155811
-*OSE:	www . 155806_156508
-*MAR:	www . 156502_157292
-*OSE:	www . 157269_158267
-*MAR:	www . 158263_159540
-*OSE:	www . 159534_160434
-*MAR:	www . 160434_162280
-*OSE:	www . 162274_175234
-*MAR:	www . 175223_177069
-*OSE:	www . 177057_177568
-*MAR:	www . 177549_179325
-*OSE:	www . 179313_179772
-*MAR:	www . 179749_182697
-*MAR:	www . 182690_184356
-*MAR:	www . 184342_189061
-*MAR:	www . 189028_194835
-*OSE:	www . 194839_197840
-*MAR:	www . 197830_198294
-*OSE:	www . 198306_208714
-*MAR:	www . 208706_214018
-*OSE:	www . 213992_215966
-*MAR:	www . 215955_216187
-*OSE:	www . 216161_216829
-*MAR:	www . 216817_217143
-*OSE:	www . 217131_217706
-*MAR:	www . 217694_219865
-*OSE:	www . 219853_232156
-*MAR:	www . 232136_233988
-*MAR:	www . 233970_238339
-*MAR:	www . 238343_245340
-*MAR:	www . 245332_256013
-*OSE:	www . 256013_259020
-*MAR:	www . 259002_261260
-*MAR:	www . 261264_264248
-*OSE:	www . 264248_499432
-*MAR:	www . 499411_500647
-*OSE:	www . 500624_506481
-*MAR:	[- eng] ok . 506464_506870
-*OSE:	www . 506860_523592
-*MAR:	[- eng] you must xxx . 523585_524444
-*OSE:	www . 524444_538050
-*MAR:	[- eng] +< yeah . 538021_538531
-*OSE:	www . 538526_539553
-*MAR:	[- eng] because you are gonna@ see her when you are staying there . 539541_541214
-*MAR:	[- eng] you are gonna see her ok . 541231_542148
-*OSE:	+< www . 0_0
-*MAR:	qué es lo que quieres <que te> [/] que te haga ? 542142_543640
-*OSE:	www . 543632_545745
-*MAR:	[- eng] ok . 545739_546006
-*OSE:	www . 546024_551771
-*MAR:	&= cough . 551742_552740
-*OSE:	www . 552711_554009
-*MAR:	no está bien . 553996_554512
-*MAR:	no hay problema . 554495_554988
-*OSE:	www . 554986_576876
-*MAR:	&= laugh . 576870_578037
-*OSE:	www . 578031_581288
-*MAR:	porque yo he sufrido # dolores de cabeza . 581272_584895
-*OSE:	+< www . 584898_585444
-*MAR:	con@s:eng hard work que@s:eng no@s:eng está@s:eng bien@s:eng hecho@s:eng . 585421_587365
-*OSE:	+< www . 587340_588402
-*MAR:	no dolor de cabeza but@s:eng still@s:eng you@s:eng know@s:eng inconveniences@s:eng . 588394_591036
-*OSE:	+< www . 591047_591663
-*MAR:	[- eng] right you have to pay for it . 591641_592750
-*OSE:	www . 592736_619276
-*MAR:	+< yo traje lonche@ . 619259_620298
-*OSE:	www . 620286_620872
-*MAR:	+< yo traje lonche@ . 620853_621375
-*OSE:	www . 621379_787567
-*MAR:	&= cough . 787563_788324
-*OSE:	www . 788308_806969
-*MAR:	que no qué indio que no va a ningún lado . 806967_808465
-*OSE:	www . 808435_819846
-*MAR:	deja que pese veinte libras . 819829_821355
-*OSE:	www . 821344_821605
-*MAR:	<se va a cansar> [?] . 821588_823093
-*OSE:	+< www . 823085_825813
-*MAR:	[- eng] <it's a way> [?] . 825802_826463
-*OSE:	+< www . 0_0
-*MAR:	no hay quien lo +/. 826473_827622
-*OSE:	www . 827390_828807
-*MAR:	+< sí . 828818_829236
-*MAR:	why@s:eng y por qué no quiere coche ? 829217_831382
-*OSE:	www . 831382_835898
-*MAR:	es un coche . 835892_836879
-*OSE:	+< www . 836881_841683
-*MAR:	para el el [/] the@s:eng comfort@s:eng of@s:eng the@s:eng kind@s:eng right@s:eng . 841654_843147
-*MAR:	[- eng] I don't know . 843135_843443
-*MAR:	[- eng] I mean I have one with two xxx my sister and I xxx . 843439_845628
-*OSE:	www . 845618_848021
-*MAR:	si ella carga a ese niño todo el tiempo . 848021_849792
-*OSE:	www . 849786_850337
-*MAR:	y se quiere comprar una cosa de esas xxx . 850320_851649
-*OSE:	www . 851643_852723
-*MAR:	[- eng] right right right right right . 852717_853611
-*MAR:	yo también me regalaron uno de esos . 853816_855349
-*OSE:	www . 855337_856411
-*MAR:	[- eng] yeah . 856407_857220
-*OSE:	www . 857204_858795
-*MAR:	[- eng] I could never get &a I could never get him like to be comf(ortable) [/] for me comfortable . 858815_864161
-*OSE:	+< www . 864141_865384
-*MAR:	no sí exact (amente)@s:eng&spa Ca(leb) Caleb@s:eng&spa was@s:eng born@s:eng in@s:eng the@s:eng summer@s:eng . 865378_868043
-*OSE:	+< www . 868049_868542
-*MAR:	[- eng] so . 868525_869047
-*OSE:	www . 869047_870638
-*MAR:	[- eng] but I know people who do that . 870626_871712
-*OSE:	www . 871712_873780
-*MAR:	es dine(ro) es un [/] un . 873786_874999
-*OSE:	+< www . 0_0
-*MAR:	sí lo bueno que se puede dar es un gift@s:eng certificate@s:eng . 874991_877232
-*OSE:	www . 877221_877755
-*MAR:	que ella después compre lo que ella quiere . 877743_879183
-*OSE:	+< www . 879177_898027
-*MAR:	y si quiere cargar ése . 898016_899148
-*MAR:	y cómo esté dormido . 899148_900326
-*MAR:	y está en el car@s:eng seat@s:eng . 900314_901655
-*MAR:	tú no vas a sacar a un niño dormido del car@s:eng seat@s:eng . 901636_903662
-*MAR:	mi abuela decía xxx . 903656_905537
-*OSE:	www . 905531_906210
-*MAR:	[- eng] when they are sleeping . 906204_906994
-*OSE:	www . 906963_909669
-*MAR:	oh@s:eng xxx meta en el carro . 909640_911637
-*MAR:	y si y no tiene que ser uno de los estos que están diseñados because I@s:eng used@s:eng to@s:eng . 911626_915528
-*MAR:	[- eng] you can find the stroller . 915511_917148
-*MAR:	[- eng] and you can stick the car seat without having the base thing . 917142_921116
-*OSE:	+< www . 921116_921708
-*MAR:	because@s:eng when@s:eng Caleb@s:eng&spa was@s:eng born@s:eng that@s:eng wood@s:eng xxx didn't@s:eng exist@s:eng . 921712_924452
-*OSE:	+< www . 924450_925158
-*MAR:	[- eng] that didn't exist . 925162_926433
-*OSE:	+< www . 0_0
-*MAR:	[- eng] so you had to xxx . 926424_927492
-*OSE:	+< www . 927490_929531
-*MAR:	[- eng] right . 929502_929874
-*OSE:	www . 929856_930808
-*MAR:	no ni siquie(ra) +/. 930787_931483
-*OSE:	www . 931495_939326
-*MAR:	que: . 939316_940442
-*OSE:	www . 940442_942335
-*MAR:	todo en esta vida pesa . 942323_943728
-*OSE:	www . 943714_946065
-*MAR:	e(s) [/] e(s) [/] es que ella es +/. 946048_947592
-*OSE:	www . 947567_949250
-*MAR:	+< no ella no va a poder trabajar . 949229_950633
+*OSE:	www .
+*MAR:	[- spa] sí no . 11779_12104
+%eng:	yes, no.
+*MAR:	V_C_T@s:eng&spa is further long . 12098_13259
+*OSE:	www .
+*MAR:	that [/] that would be +... 15970_17619
+*MAR:	+, may . 18745_19210
+*MAR:	that would be may . 19360_20324
+*MAR:	may or june . 20295_20748
+*OSE:	www .
+*MAR:	what are you &d+// . 22199_22519
+*MAR:	no no no no changes . 22602_23774
+*MAR:	what are you doing? 23739_24420
+*OSE:	www .
+*MAR:	oh@s:eng&spa o_k@s:eng&spa . 33777_34178
+*MAR:	yeah . 34311_34555
+*OSE:	www .
+*MAR:	&=laugh . 51507_52558
+*OSE:	www .
+*MAR:	the wrong label .
+*MAR:	the wrong label .
+*OSE:	www .
+*MAR:	well let's see +/. 79426_79925
+*OSE:	www .
+*MAR:	I [///] you are gonna have to call um@s:eng Bob@s:eng&spa and [/] and [/] and Bill@s:eng&spa . 81535_85430
+*OSE:	www .
+*MAR:	Bill@s:eng&spa has to (.) dig into in . 85773_87299
+*OSE:	www .
+*MAR:	and (.) they know +//. 87968_89262
+*MAR:	this is what happend . 89210_90023
+*MAR:	it was our [?] mistake . 89952_90840
+*MAR:	I mean +//. 90939_91015
+*MAR:	if we have to live with it we live with it . 91194_92424
+*OSE:	www .
+*MAR:	+< you know . 92408_92704
+*OSE:	www .
+*MAR:	yeah I know . 94723_95089
+*MAR:	I +... 95159_95687
+*OSE:	www .
+*MAR:	I mean +//. 97564_97738
+*MAR:	unless [/] unless that two callers [?] clash dramatically . 97739_101327
+*MAR:	and it looks like (.) horrible . 102140_104305
+*OSE:	www .
+*MAR:	I mean . 111303_111704
+*MAR:	it's xxx we can live with . 111695_112555
+*MAR:	<it's not> [/] it's not perfect . 112600_113593
+*OSE:	www .
+*MAR:	but we can live with it . 113964_114657
+*MAR:	I mean . 115039_115225
+*MAR:	&i it's just +// . 115414_116721
+*MAR:	you know . 116076_116552
+*MAR:	I mean . 118542_118774
+*MAR:	if there wasn't a lot of tile maybe it's not a big deal . 118749_121263
+*OSE:	www .
+*MAR:	and they'll +... 121607_122147
+*MAR:	you know . 122140_122355
+*MAR:	+, don't have a problem . 122482_123231
+*MAR:	but if it's a lot . 123161_124125
+*MAR:	and have the restocking fee +/. 124177_125668
+*OSE:	www .
+*MAR:	right &r you know . 126467_127181
+*MAR:	maye there is a restocking fee . 127251_128662
+*MAR:	and [/] and they complain about that sometimes . 128667_131287
+*MAR:	&=sigh . 135867_136511
+*MAR:	my feet hurt . 136697_138235
+*MAR:	they're getting +//. 139090_139705
+*OSE:	www .
+*MAR:	no . 140465_140918
+*MAR:	I dont know for what . 141227_142464
+*OSE:	www .
+*MAR:	why xxx +/. 144379_144803
+*OSE:	www .
+*MAR:	o_k@s_eng&spa . 145427_146234
+*OSE:	www .
+*MAR:	what pains ? %snd:"mar18"_149312_150003
+*MAR:	his legs ? 150974_151468
+*MAR:	those are growing pains . 151544_152014
+*OSE:	www .
+*MAR:	&cli &cli &cli . 154854_155585
+*OSE:	www .
+*MAR:	mine is xxx . 156492_157113
+*OSE:	www .
+*MAR:	my ankle clacks [?] all the time . %snd:"mar18"_158263_159540
+*OSE:	www .
+*MAR:	my toes (.) right now .
+*MAR:	you can +/.
+*OSE:	www .
+*MAR:	it's probably growing pains . 175178_176014
+*MAR:	I had a son +/. 176032_176462
+*OSE:	www .
+*MAR:	and his shoes (.) also . %snd:"mar18"_177549_179325
+*OSE:	www .
+*MAR:	check to see that [/] <that &h> [//] that has the right support . 179743_182605
+*MAR:	that you know they [/] they &i +//. 182737_183736
+*MAR:	you know . 183788_184241
+*MAR:	(be)cause I have a friend who her son is huge now . 184405_186448
+*MAR:	I mean he is like a foot up [?] taller than Charles@s:eng&spa . 186362_188969
+*MAR:	and he had [/] had to wear special shoes for a while (be)cause he was growing so fast that his body can't take it . %snd:"mar18"_189028_194835
+*OSE:	www .
+*MAR:	no he &d+/ . 197858_198241
+*OSE:	www .
+*MAR:	oh@s:eng&spa you need to go <to a> [/] to a pediatrician so they can tell you +... 208585_212081
+*MAR:	a specialist because you'll need a  +/. 211772_213451
+*OSE:	www .
+*MAR:	right . %snd:"mar18"_215955_216187
+*OSE:	www .
+*MAR:	right . %snd:"mar18"_216817_217143
+*OSE:	www .
+*MAR:	but you want somebody who [/] who deals with children . 217755_220105
+*OSE:	www .
+*MAR:	well . 231518_231657
+*MAR:	but you may also wanna check his shoes . 232145_233788
+*MAR:	that the shoes are the right um@s:eng +... 234461_236220
+*OSE:	www .
+*MAR:		+, support . 237736_238300
+*MAR:	um@s:eng particularly if he is growing so fast +... 238775_240424
+*MAR:	I &as [///] I can ask my friend um@s:eng +... 240267_242171
+*OSE:	www .
+*MAR:	+, what they gave her son because she [/] she had some +// 242619_245318
+*OSE:	www .
+*MAR:	and like he [/] he couldn't +//. 245902_247946
+*OSE:	www .
+*MAR:	he wasn't supposed to run too much +... 248875_250784
+*MAR:	I don't know . 250809_251018
+*MAR:	I can't remember . 250992_251418
+*MAR:	I have to ask her . 251386_252147
+*OSE:	www .
+*MAR:	because he is super tall . 252549_253571
+*MAR:	<he is> [/] he is +... 253577_254389
+*MAR:	he is huge . 254936_255877
+*OSE:	www .
+*MAR:	I mean not huge . 259061_259730
+*MAR:	but he is really really tall . 259641_261237
+*MAR:	&=cough . 262476_263312
+*OSE:	www .
+*MAR:	told it's cold over here . %snd:"mar18"_499411_500647
+*OSE:	www .
+*MAR:	o_k@s:eng&spa . %snd:"mar18"_506464_506870
+*OSE:	www .
+*MAR:	you must xxx . %snd:"mar18"_523585_524444
+*OSE:	www . %snd:"mar18"_524444_538050
+*MAR:	+< yeah . 538229_538566
+*OSE:	www .
+*MAR:	because you are gonna see her when you are staying there . 539553_540783
+*MAR:	you are gonna see her . 541232_541676
+*MAR:	o_k@s:eng&spa . 541852_542139
+*OSE:	www .
+*MAR:	[- spa] qué es lo que quieres <que te &b> [/] que te haga ? 542364_543607
+%eng:	what do you want me to do for you?
+*OSE:	www .
+*MAR:	o_k@s:eng&spa . %snd:"mar18"_545739_546006
+*OSE:	www .
+*MAR:	&=sneeze . 551794_552607
+*OSE:	www .
+*MAR:	[- spa] no está bien . %snd:"mar18"_553996_554512
+%eng:	no, it's ok.
+*MAR:	[- spa] no hay problema . %snd:"mar18"_554495_554988
+%eng:	there is no problem.
+*OSE:	www .
+*MAR:	&=laugh . %snd:"mar18"_576870_578037
+*OSE:	www .
+*MAR:	[- spa] porque (.) yo he sufrido (.) dolores de cabeza +... %snd:"mar18"_581272_584895
+%eng:	because I've been suffering headaches.
+*OSE:	www .
+*MAR:	con@s:spa hardware que@s:spa no@s:spa está@s:spa bien@s:spa hecho@s:spa . 585404_587386
+%eng:	with hardware that is not properly made.
+*OSE:	www .
+*MAR:	no@s:spa dolores@s .spa de@s:spa cabeza@s:spa but still +//. 588438_589693
+%eng:	no headaches, but still.
+*MAR:	you know . 589642_590005
+*MAR:	inconveniences . 589978_591094
+*OSE:	www .
+*MAR:	right . 591645_591854
+*MAR:	you have to pay for it . 591859_592741
+*OSE:	www .
+*MAR:	[- spa] yo traje lonche . %snd:"mar18"_619259_620298
+%eng:	I brought something to eat.
+*OSE:	www .
+*MAR:	[- spa] traje lonche . %snd:"mar18"_620853_621375
+%eng:	I brought something to eat.
+*OSE:	www .
+%com:	pause.
+%com:	noise in background
+*MAR:	&=cough . %snd:"mar18"_787563_788324
+%com:	pause with noise in the background.
+*OSE:	www .
+*MAR:	[- spa] que no [///] aquel indio que no va a ningún lado ? %snd:"mar18"_806967_808465
+%eng:	that not... that Indian person who doesn't go anywhere?
+*OSE:	www .
+*MAR:	[- spa] deja que pese veinte libras . %snd:"mar18"_819829_821355
+%eng:	wait until he weighs twenty pounds.
+*OSE:	www .
+*MAR:	xxx . 822166_822521
+*OSE:	www .
+*MAR:	[- spa] es un xxx +/. 825794_826079
+%eng:	he is a...
+*OSE:	www .
+*MAR:	[- spa] no hay quien los +/. 826476_827753
+%eng:	there is nobody who can...
+*OSE:	www .
+*MAR:	+< [- spa] sí . 828651_828958
+%eng:	yes.
+*MAR:	why [///] y@s:spa por@s:spa qué@s:spa no@s:spa quiere@s:spa coche@s:spa ? 830184_831269
+%eng:	why, and why doesn't he/she want a pram?
+*OSE:	www .
+*MAR:	[- spa] es un coche . 835899_836834
+%eng:	it's a car.
+*OSE:	www .
+*MAR:	[- spa] si ella carga ese niño todo el tiempo +/. 848062_849772
+%eng:	if she carries that baby all the time...
+*OSE:	www .
+*MAR:	right right right right right . %snd:"mar18"_852717_853611
+*MAR:	[- spa] yo también [///] me regalaron uno de esos . %snd:"mar18"_853816_855349
+%eng:	I was also given one of those.
+*OSE:	www .
+*MAR:	yeah . 856460_856762
+*OSE:	www .
+*MAR:	I could never get (.) &a I could never get him like to be comf(ortable) [//] for me comfortable . %snd:"mar18"_858815_864161
+*OSE:	+< www .
+*MAR:	no@s:spa sí@s:spa exactl(y) +//. 865335_866002
+%eng:	no, yes, exactly.
+*MAR:	Charly@s:eng&spa [/] Charly@s:eng&spa was born in the summer +/. 865940_868109
+*OSE:	www .
+*MAR:	+, so +... 868433_868694
+*OSE:	www .
+*MAR:	but I know people who do that . 870702_871557
+*OSE:	www .
+*MAR:	[- spa] es dine(ro) [///] es un [/] un +/. %snd:"mar18"_873786_874999
+%eng:	it is money. It is a...
+*OSE:	www .
+*MAR:	sí@s:spa lo@s:spa bueno@s:spa que@s:spa se@s:spa puede@s:spa dar@s:spa es@spa un@s:spa gift certificate . 875679_877360
+%eng:	yes, a good thing you can give is a gift certificate.
+*OSE:	www .
+*MAR:	+< [- spa] que ella después compre lo que ella quiere . 877703_879267
+%eng:	and then she can buy whatever she wants.
+*OSE:	www .
+*MAR:	[- spa] y si quiere cargar ése . %snd:"mar18"_898016_899148
+%eng:	and if she wants to carry that...
+*MAR:	[- spa] y cómo esté dormido . %snd:"mar18"_899148_900326
+%eng:	and if he is sleeping...
+*MAR:	y@s:spa está@s:spa en@s:spa el@s:spa car seat . 900335_901566
+%eng:	and he is in the car seat...
+*MAR:	tú@s:spa no@s:spa vas@s:spa a@s:spa sacar@s:spa a@s:spa un@s:spa  niño@s:spa dormido@s:spa del@s:spa car seat  . 901796_903590
+%eng:	you are not going to get a sleeping baby out of the car seat.
+*MAR:	[- spa] mi abuela decía +"/. 904018_904571
+%eng:	my grandmother used to say.
+*MAR:	+" [- spa] no despierten al león . 904550_905614
+%eng:	do not wake up the lion.
+*OSE:	www .
+*MAR:	when they are sleeping +... 906244_906964
+*OSE:	www .
+*MAR:	oh@s:eng&spa xxx meta@s:spa en@s:spa el@s:spa carro@s:spa . 909645_911922
+%eng:	oh xxx a put it in the pram.
+*MAR:	y@s:spa si@s:spa [///] y@s:spa no@s:spa tiene@s:spa que@s:spa ser@s:spa uno@s:spa de@s:spa los@s:spa estos@s:spa que@s:spa están@s:spa diseñados@s:spa because@s:spa I used to +//. 911956_915399
+%eng:	and it doesn't need to be one of those that is specially designed, because I used to...
+*MAR:	you can find the stroller . 915708_917169
+*MAR:	and you can stick the car seat without having the base thing . 917326_921040
+*OSE:	www .
+*MAR:	because when Charles@s:eng&spa was born that xxx didn't exist . 921772_924535
+*OSE:	www .
+*MAR:	that didn't exist . 925232_926149
+*OSE:	www .
+*MAR:	so you had to xxx +/. 926616_927365
+*OSE:	www .
+*MAR:	right . %snd:"mar18"_929502_929874
+*OSE:	www .
+*MAR:	[- spa] no ni siquie(ra) +/. 930799_931548
+%eng:	not even...
+*OSE:	www .
+*MAR:	que@s:spa +... %snd:"mar18"_939316_940442
+%eng:	what...
+*OSE:	www . %snd:"mar18"_940442_942335
+*MAR:	[- spa] todo en esta vida pesa . %snd:"mar18"_942323_943728
+%eng:	everything weighs in this life.
+*OSE:	www .
+*MAR:	[- spa] e(s) [/] e(s) [/] es que ella es +... %snd:"mar18"_946048_947592
+%eng:	she is so...
+*OSE:	www .
+*MAR:	+< [- spa] no ella no va a poder trabajar . %snd:"mar18"_949229_950633
+%eng:	no, she won't be able to work.
+*OSE:	www .
+*MAR:	tú@s:spa te@s:spa imaginas@s:spa el@s:spa día que@s:spa tenga@s:spa que@s:spa comprar@s:spa un@s:spa &dei> [//] encontrar@s:spa un@s:spa day care?  957091_961044
+%eng:	can you imagine the day she has to find a day care?
+*OSE:	www .
+*MAR:	bueno@s:spa por@s:spa eso@s:spa se@s:spa quiere@s:spa mudar@s:spa pa(ra)@s:spa allá@s:spa arriba@s:spa en@s:spa el@s:spa ecofriendly department de [/] de Oregon@s:eng&spa or Seattle@s:eng&spa or wherever that is . 963633_969368
+%eng:	well, that's why she wants to move up there, to the ecofriendly department of Oregon or Seattle, or wherever that is.
+*OSE:	www .
+*MAR:	xxx to check Daniel@s:eng&spa ? 984798_986354
+*OSE:	www .
+*MAR:	oh@s:eng&spa I don't know . 988403_989198
+*OSE:	www .
+*MAR:	not good (un)till thursday ! 991686_993201
+*OSE:	www .
+*MAR:	not good (un)till thursday ! 994413_995458
+*OSE:	www .
+*MAR:	not good (un)till thursday ! 996952_998043
+*OSE:	www .
+*MAR:	oh@s:eng&spa it did? 1000133_1000749
+*OSE:	www .
+*MAR:	oh@s:eng&spa . 1002554_1002774
+*OSE:	www .
+*MAR:	what are you doing in? +//. 1003419_1003930
+*MAR:	it's [///] it doesn't come in on thursday ! 1004174_1006015
+*OSE:	www .
+*MAR:	doesn't it activate ? 1007018_1007698
+*MAR:	arrive at your bank on thurs(day). 1007960_1009243
+*OSE:	www .
+*MAR:	ah@s:eng&spa they had no clue . 1016400_1017939
+*OSE:	www .
+*MAR:	gotcha gotcha gotcha gotcha . 1033740_1035243
+*OSE:	www .
+*MAR:	gotcha . 1041315_1042052
+*OSE:	www .
+*MAR:	right . 1064162_1064511
+*OSE:	www .
+*MAR:	uhuh@s:eng . 1072116_1072877
+*OSE:	www .
+*MAR:	right . 1075553_1076017
+*OSE:	www .
+*MAR:	right . 1093670_1094151
+*OSE:	www .
+*MAR:	mmhm@s:eng&spa . 1109117_1109488
+*OSE:	www .
+*MAR:	right . 1111636_1112054
+*OSE:	www .
+*MAR:	+< only (.) variants . 1117882_1118922
+*MAR:	oh@s:eng&spa ! 1119160_1119654
+*MAR:	hence the term . 1119752_1120681
+*OSE:	www .
+*MAR:	what the variance is . 1134329_1135269
+*MAR:	why? 1136324_1136472
+*MAR:	why there's a +/. 1136494_1137196
+*OSE:	www .
+*MAR:	mmhm@s:eng&spa . 1142929_1143411
+*OSE:	www .
+*MAR:	or something . 1144752_1145385
+*OSE:	www .
+*MAR:	first right . 1148990_1149599
+*MAR:	or second right . 1149605_1150644
+*OSE:	www .
+%com:	it follows a phone conversation with voices in the background.
+*MAR:	hello . 1172070_1172442
+*MAR:	hey . 1173057_1173243
+*MAR:	granny [?] ? 1176172_1176828
+*MAR:	Mateu@s:eng&spa . 1177914_1178662
+*MAR:	M_A_T_E . 1179876_1181466
+*MAR:	U@s:eng I think . 1183510_1184184
+*MAR:	E_U@s:eng . 1186174_1187585
+*MAR:	Mateu@s:eng&spa . 1187770_1188676
+*MAR:	hang on . 1193503_1194408
+*MAR:	I have to go to my desk (be)cause I have his number . 1194304_1195656
+*MAR:	hang on . 1195726_1196486
+*OSE:	www .
+*MAR:	uh@s:eng ? 1220078_1220420
+*OSE:	www .
+*MAR:	[- spa] qué traje? 1221454_1222330
+%eng:	what did I bring?
+*MAR:	[- spa] una ensalada que hice . 1222649_1223927
+%eng:	a salad I made.
+*MAR:	[- spa] el otro día +//. 1224333_1224861
+%eng:	the other day.
+*MAR:	[- spa] ahí tengo bastante si la quieres probar . 1224793_1226215
+%eng:	I have here quite a lot, if you want to taste it.
+*MAR:	una@s:spa de@s:spa esas@s:spa que@s:spa son@s:spa layers . 1225953_1227415
+%eng:	one of those that is layers...
+*OSE:	www .
+*MAR:	que@s:spa hice@s:spa pa(ra)@s:spa [/] pa(ra)@s:spa easter . 1228675_1229959
+%eng:	I made it for Easter.
+*MAR:	[- spa] lo que me sobró . 1229836_1230823
+%eng:	what was left over.
+*MAR:	[- spa] a ver . 1232142_1233004
+%eng:	let's see.
+*MAR:	mister . 1233104_1233818
+*MAR:	hello ? 1247785_1248133
+*MAR:	three o five . 1248644_1249300
+*MAR:	two three three . 1250780_1251738
+*MAR:	three three zero four . 1254474_1255820
+*MAR:	oki doki . 1262450_1263001
+*OSE:	www .
+*MAR:	I [/] I don't know who he is . 1268035_1268778
+*MAR:	I guess somebody works for him . 1268789_1269892
+*MAR:	Mateu_architectural_comp . 1270310_1271663
+*OSE:	www .
+*MAR:	yeah . 1276561_1276811
+*MAR:	somebody works for him . 1277252_1278135
+*MAR:	all ready (.) like . 1279390_1280179
+*MAR:	&=cough . 1280417_1280806
+*OSE:	www .
+*MAR:	no . 1283256_1283477
+*MAR:	it's like a layer salad que@s:spa empiezas@s:spa abajo@s:spa con@s:spa lechuga@s:spa ah@s:eng&spa stuff . 1283509_1289432
+%eng:	it's like a layer salad, that starts at the bottom with lettuce and stuff.
+*MAR:	y@s:spa después@s:spa +//. 1289362_1290058
+%eng:	and afterwards...
+*MAR:	it looks really pretty . 1289906_1290928
+*MAR:	tienes@s:spa que@s:spa conseguirlo@s:spa en@s:spa un@s:spa bol@s:spa que@s:spa sea@s:spa como@s:spa transparente@s:spa so you can see it . 1290916_1294335
+%eng:	you need to get a bowl that is kind of transparent, so you can see it.
+*OSE:	yeah I know . 1295705_1296338
+*MAR:	[- spa] y tiene +... 1296416_1297368
+%eng:	and it has...
+*MAR:	I put salad lettuce 1297409_1298750
+*MAR:	I mean Spanish lettuce . 1298912_1300143
+*MAR:	carrots celeries tomatoes green beans +... 1300758_1304236
+*OSE:	www .
+*MAR:	mi@s:spa suegra@s:spa la@s:spa hizo@s:spa for Christmas . 1305734_1307237
+%eng:	my mother in law made it for Christmas.
+*MAR:	[- spa] ella trajo pa(ra) casa de mi mamá +//. 1307335_1309094
+%eng:	she brought some to my mother's house.
+*MAR:	[- spa] trajo la ensalada +//. 1309525_1310727
+%eng:	she brought salad.
+*OSE:	www .
+*MAR:	[- spa] y no . 1310749_1311265
+%eng:	and no.
+*MAR:	for Nochebuena@s:spa . 1311252_1312073
+%eng:	for Christmas eve.
+*MAR:	+, that she make . 1312076_1312709
+*MAR:	que@s:spa ella@s:spa estaba@s:spa <en@s:spa una@s:spa> [//] en@s:spa la@s:spa peluquería@s:spa . 1312664_1314539
+%eng:	that she was at the hairdresser's.
+*MAR:	and she heard this people talking about it so she looked it up on the web . 1314801_1317279
+*MAR:	and it's not that hard . 1317436_1318696
+*MAR:	it's just the layering cutting all the stuff . 1318868_1320856
+*MAR:	y@s:spa después@s:spa el@s:spa dressing arriba@s:spa and I`ve found a couple of different . 1321233_1324299
+%eng:	and then the dressing on top, and I've found a couple of different...
+*MAR:	the [///] it's called seven layer . 1324112_1325416
+*MAR:	but you can put as many layers as you want . 1325412_1327322
+*MAR:	y@s:spa entonces@s:spa el@s:spa dressing@s:spa en@s:spa [/] en@s:spa uno@s:spa de@s:spa los@s:spa website era@s:spa mayonesa@s:spa nada@s:spa más@s:spa xxx . 1327589_1331142
+%eng:	and then the dressing in one of the websites was only mayonnaise.
+*MAR:	 y@s:spa después@s:spa había@s:spa otro@s:spa que@s:spa era@s:spa mayonesa@s:spa con@s:spa sour cream . 1331827_1335142
+%eng:	and there was another one that was mayonnaise with sour cream.
+*MAR:	y@s:spa entonces@s:spa yo@s:spa le@s:spa eché@s:spa un@s:spa poquitico@s:spa de@s:spa spices . 1335403_1337401
+%eng:	and then I added a few spices.
+*MAR:	[- spa] sal pimienta +... 1337401_1338361
+%eng:	salt, pepper.
+*MAR:	you know +... 1338346_1339170
+*MAR:	garlic whatever . 1339600_1340355
+*MAR:	and then just put it on top . 1340372_1341446
+*MAR:	and that's it . 1342395_1342947
+*MAR:	you sit on top . 1342731_1343622
+*MAR:	you know . 1343826_1344262
+*MAR:	 and then has cheese . 1344060_1344756
+*OSE:	www .
+*MAR:	it need a little bit . 1345544_1346331
+*MAR:	it doesn't sit through when you take it out . 1346277_1348785
+*OSE:	www .
+*MAR:	although some of the websites says that before you serve it you toss it all together . 1349325_1353295
+*MAR:	but it looks so pretty . 1353288_1354829
+*OSE:	www .
+*MAR:	yeah it looks +//. 1355200_1355559
+*MAR:	you know . 1355543_1355958
+*MAR:	it has to be a nice (.) sort of glass xxx +/. 1356030_1358067
+*OSE:	www .
+*MAR:	right . 1367146_1367460
+*MAR:	right right right . 1367535_1368087
+*MAR:	bueno@s:spa . 1368464_1368737
+*MAR:	and <you &ku> [//] and you could put anything you wanted . 1368655_1370717
+*MAR:	[- spa] porque yo puse las [//] los vegetales que a mí me gustan . 1370472_1372585
+%eng:	because I added the vegetables I like.
+*MAR:	but like the recipe(s) tenían@s:spa que@s:spa si@s:spa cauliflower . 1372649_1375395
+%eng:	but the recipes had cauliflower, ...
+*MAR:	las@s:spa [//] los@s:spa [/] los@s:spa florets de@s:spa cauliflower . 1375387_1377500
+%eng:	the cauliflower florets.
+*MAR:	she had snap peas +... 1377898_1379755
+*MAR:	you could have pineapple +... 1380033_1381549
+*MAR:	I mean you could put +//. 1381303_1382321
+*MAR:	I mean you could (.) change +... 1382616_1384224
+*OSE:	www .
+*MAR:	this? 1385254_1385892
+*MAR:	[- spa] xxx hay un montón . 1386026_1387415
+%eng:	there is a lot.
+*MAR:	I'll give you some . 1387152_1387866
+*OSE:	www .
+*MAR:	so you mean [//] you &k [///] tú@s:spa le@s:spa puedes@s:spa poner@s:spa lo@s:spa que@s:spa tú@s:spa quieras@s:spa . 1390705_1392440
+%eng:	so you mean... You can put whatever you want.
+*MAR:	[- spa] básicamente . 1392504_1393388
+%eng:	basically.
+*MAR:	whatever salad you feel . 1393265_1394284
+*MAR:	you know . 1394327_1394664
+*MAR:	whatever +... 1394664_1395128
+*MAR:	you know . 1395668_1396057
+*OSE:	www .
+*MAR:	&u: . 1398223_1398676
+*OSE:	www .
+*MAR:	&u:. 1399924_1400400
+*OSE:	www .
+*MAR:	Charles@s:eng&spa keeps going . 1401654_1402838
+*OSE:	www .
+*MAR:	what are we doing today what are +/? 1403129_1404964
+*MAR:	[- spa] qué están haciendo tus niñas? 1405184_1406153
+%eng:	what are your girls doing?
+*OSE:	www .
+*MAR:	won't you send them over to my house one day . 1408955_1410470
+*MAR:	they can jump in a trampolin or someth(ing). 1410628_1412671
+*MAR:	the pool is a little dirty . 1412799_1413733
+*MAR:	&pa they'll jump in the trampolin play on the Wii@s:eng&spa +... 1414064_1416369
+*OSE:	www .
+*MAR:	I know . 1417522_1417826
+*MAR:	Charly@s:eng&spa también . 1417895_1418470
+%eng:	Charly also.
+*MAR:	[- spa] (es)tá aburrido . 1418563_1419399
+%eng:	he is bored.
+*OSE:	www .
+*MAR	[- spa] ayer [/] ayer me dice +//. 1420091_1421971
+%eng:	yesterday he told me.
+*MAR:	[- spa] me llamó al +/. 1422429_1423422
+%eng:	he phoned me at...
+*OSE:	www .
+*MAR:	me@s:spa llamó@s:spa pa(ra)@s:spa que@s:spa el@s:spa padre@s:spa lo@s:spa fuera@s:spa a@s:spa buscar@s:spa to go to [///] a@s:spa la@s:spa casa@s:spa de@s:spa los@s:spa abuelos@s:spa . 1424298_1428159
+%eng:	he phoned me so that his father would pick him up from his grandparents' house.
+*MAR:	you know . 1428699_1429035
+*MAR:	so mi@s:spa mi@s:spa [///] Jerry@s:eng&spa se llevó +//. 1429012_1430277
+%eng:	so my Jerry took...
+*MAR:	[- spa] y le digo +"/. 1430255_1430656
+%eng:	and I said...
+*MAR:	+" [- spa] tú solo ! 1430719_1431241
+%eng:	only you...
+*MAR:	+" [- spa] o tus hermanos también . 1431215_1432041
+%eng:	or your siblings too?
+*MAR:	+" no no we have fun everybody . 1431800_1433385
+*MAR:	[- spa] Jerry@s:eng&spa se llevó a todo el mundo como a las dos de la tarde . 1433855_1435968
+%eng:	Jerry took everyone there at two in the afternoon.
+*OSE:	www .
+*MAR:	&ak . 1436154_1436363
+*OSE:	www .
+*MAR:	[- spa] a donde vive mamá . 1436723_1437477
+%eng:	where mum lives.
+*OSE:	www .
+*MAR:	 and then they played there and stuff . 1438133_1439933
+*MAR:	you know . 1440049_1440386
+*MAR:	[- spa] y me dice [?] +"/. 1440281_1441032
+%eng:	and he said...
+*MAR:	+" what are we doing tomorrow? 1440837_1441798
+*MAR:	y yo +"/. 1441638_1441987
+%eng:	and I...
+*MAR:	+" ay@s:spa papi@s:spa I don't know . 1441941_1443108
+%eng:	honey, I don't know.
+*OSE:	www .
+*MAR:	<I wanted> [//] we wanted to go out on the boat . 1443728_1445509
+*MAR:	but the weather it's too windy . 1445302_1447404
+*MAR:	the bay is too cho(ppy) +/. 1447646_1449146
+*OSE:	www .
+*MAR:	+< maybe friday will be better .  1449158_1450752
+*OSE:	www .
+*MAR:	but thursday +//. 1452979_1453681
+*MAR:	I was thinking maybe taking thursday and friday off . 1453587_1455575
+*OSE:	www .
+*MAR:	right . 1457282_1457526
+*OSE:	www .
+*MAR:	testing de@s:spa +/? 1463337_1463958
+%eng:	what kind of testing?
+*OSE:	www .
+*MAR:	ah@s:eng&spa pa(ra)@s:spa saber@s:spa por@s:spa qué@s:spa este@s:spa estaba@s:spa sangrando@s:spa de@s:spa la@s:spa nariz@s:spa ? 1466756_1469293
+%eng:	oh, to know why your nose was bleeding?
+*OSE:	www .
+*MAR:	yeah that's true . 1480554_1481489
+*MAR:	some people do bleed from weather change . 1481507_1483045
+*MAR:	yeah . 1483178_1483550
+*OSE:	www .
+*MAR:	that's true . 1484705_1485030
+*MAR	you did start before. 1485001_1486278
+*OSE:	www .
+*MAR:	maybe pollen . 1488351_1489146
+*MAR:	maybe you are starting to get alergic to something . 1489065_1491532
+*MAR:	and [/] and because you are blowing +//. 1491521_1493399
+*OSE:	www .
+*MAR:	[- spa] <cuándo empieza> [/] cuándo empieza la feria? 1501048_1502557
+%eng:	when is the fair starting?
+*OSE:	www .
+*MAR:	yeah . 1510642_1510991
+*OSE:	www .
+*MAR:	I know . 1511716_1512146
+*MAR:	they're bored . 1512175_1512622
+*MAR:	Charly@s:eng&spa is bored . 1512529_1513528
+*OSE:	www .
+*MAR:	right . 1515211_1515652
+*MAR:	&=cough . 1515913_1516482
+*OSE:	www .
+*MAR:	I know . 1519905_1520094
+*MAR:	[- spa] todos los demás dicen +"/. 1520169_1521040
+%eng:	all the others say...
+*MAR:	+" [- spa] mami qué vamos a hacer mañana? 1520877_1522293
+%eng:	mummy, what are we going to do tomorrow?
+*OSE:	www .
+*MAR:	pobrecito@s:spa . 1523299_1523851
+%eng:	poor him.
+*OSE:	www .
+*MAR:	if you go I'll go . 1526951_1528013
+*MAR:	during the day . 1528147_1528593
+*MAR:	I [///] you know . 1528715_1529239
+*MAR:	xxx . 1529110_1530143
+*OSE:	www .
+*MAR:	xxx . 1530799_1531136
+*OSE:	www .
+*MAR:	oh@s:eng&spa they have a blast . 1534619_1535664
+*OSE:	www .
+*MAR:	and then you and I don't have to get on the ride . 1539960_1541817
+*OSE:	www .
+*MAR:	works free! 1543321_1544342
+*OSE:	www .
+*MAR:	a@s:spa ver@s:spa . 1552510_1552998
+%eng:	let's see.
+*OSE:	www .
+*MAR:	a@s:spa ver@s:spa . 1555093_1555651
+%eng:	let's see.
+*MAR:	when are the dates? 1555639_1556620
+*OSE:	www .
+*MAR:	march twenty_seventh@s:eng . 1569986_1571472
+*OSE:	www .
+*MAR:	so empieza@s:spa el@s:spa jueves@s:spa . 1571948_1573184
+%eng:	so it's starting on Thursday.
+*OSE:	www .
+*MAR:	I haven't been there in so long +... 1577457_1579349
+*OSE:	www .
+*MAR:	+, that I don't remember . 1580317_1581137
+*MAR:	I know the kids will have a blast . 1581033_1582420
+*MAR:	[- spa] empieza el jueves . 1582919_1583749
+%eng:	it's starting on Thursday.
+*OSE:	www .
+*MAR:	[- spa] cuánto valen los tickets@s:eng&spa? 1585804_1586565
+%eng:	How much are the tickets?
+*MAR:	buy discount tickets online +... 1588121_1590123
+*OSE:	www .
+*MAR:	the fair . 1591360_1592306
+*MAR:	general admission is seven bucks +... 1592933_1596253
+*OSE:	www .
+*MAR:	seven bucks . 1600944_1601820
+*MAR:	if we buy them online +... 1602314_1603997
+*MAR:	nine dollars if we buy them there . 1604328_1606006
+*OSE:	www .
+*MAR:	twenty_two@s:eng bucks for the &ru rides . 1607144_1610012
+*OSE:	www .
+*MAR:	twenty  ? 1612660_1613386
+*MAR:	retail price's twenty . 1613693_1614947
+*OSE:	www .
+*MAR:	for the rides . 1618093_1619144
+*OSE:	www .
+*MAR:	twenty_two@s:eng [/] twenty_two@s:eng coupon raid . 1620062_1622272
+*MAR:	I don't know what that means . 1622133_1623032
+*OSE:	www .
+*MAR:	I don't know whether twenty_two@s:eng is the number of xxx you get or not . 1624072_1626782
+*OSE:	www .
+*MAR:	thursday . 1630242_1630683
+*MAR:	&=cough . 1630916_1631792
+*OSE:	www .
+*MAR:	I haven't gone in years . 1635229_1636459
+*OSE:	www .
+*MAR:	[- spa] averigua . 1644348_1645138
+%eng:	find it out.
+*OSE:	www .
+*MAR:	thursday . 1647286_1647750
+*MAR:	we don't wanna go on a weekend . 1648415_1649292
+*OSE:	www .
+*MAR:	let's go . 1651291_1651854
+*OSE:	www .
+*MAR:	on the tickets@s:eng&spa for the county . 1654884_1656167
+*OSE:	www .
+*MAR:	[- spa] sí ves? 1657382_1657866
+%eng:	yes, do you see?
+*MAR:	[- spa] son +//. 1657701_1658247
+%eng:	it's...
+*OSE:	www .
+*MAR:	seven [/] seven dollars +//. 1660899_1661711
+*MAR:	+, [- spa] si lo compras +... 1662442_1663339
+%eng:	if you buy it.
+*MAR:	or nine dollars si@s:spa +// 1663953_1665213
+%eng:	or nine dollars if...
+*MAR:	+, I guess you show up there . 1665085_1666328
+*MAR:	fifteen ? 1667123_1667912
+*MAR:	right . 1668371_1668882
+*MAR:	or twenty if you +... 1668870_1670554
+*MAR:	I would assume this is the price when you are there . 1670565_1672475
+*OSE:	www .
+*MAR:	yeah . 1672812_1673073
+*OSE:	www .
+*MAR:	+< &=cough .
+*OSE:	www .
+*MAR:	what's the raises [?] ? 1676891_1677442
+*OSE:	www .
+*MAR:	oh@s:eng&spa ! 1682408_1683470
+*OSE:	www .
+*MAR:	seventeen dollars if we buy them online . 1689925_1691754
+*MAR:	ot twenty if you go there . 1692120_1693357
+*MAR:	but it's no good on school trips or weekends . 1693182_1695800
+*OSE:	www .
+*MAR:	&=cough . 1699277_1700032
+*MAR:	haven't been there in so long . 1700130_1701053
+*MAR:	I don't think I remember . 1701164_1702412
+*OSE:	www .
+*MAR:	&=cough . 1703567_1704310
+*OSE:	www .
+*MAR:	right but it's not good on [/] on weekends . 1707462_1709420
+*MAR:	it's the only problem . 1709592_1710620
+*OSE:	www .
+*MAR:	monday through friday . 1713836_1714666
+*OSE:	www .
+*MAR:	seven dollars online versus nine dollars . 1715839_1717969
+*OSE:	www .
+*MAR:	if you buy them online +/. 1718854_1720171
+*OSE:	www .
+*MAR:	+, is seven dollars . 1720566_1721478
+*OSE:	www .
+*MAR:	if you buy in there is nine bucks . 1721083_1722871
+*OSE:	www .
+*MAR:	no this is the booth . 1724723_1725820
+*OSE:	www .
+*MAR:	this is [/] this is where you buy the tickets . 1726163_1727760
+*OSE:	www .
+%com:	OSE overlapps.
+*MAR:	no this is where you buy the tickets . 1728456_1729890
+*OSE:	www .
+*MAR:	gates three p_m@s:eng&spa to ten . 1737146_1739311
+*MAR:	and weekends noon to ten . 1739306_1741250
+*OSE:	www .
+*MAR:	friday march twenty_eight@s:eng noon to ten p_m@s:eng . 1743112_1745280
+*MAR:	friday ap(ril) four noon to ten p_m@s:eng . 1745424_1747119
+*OSE:	www .
+*MAR:	oh@s:eng&spa ! 1752663_1753092
+*OSE:	www .
+*MAR:	+< &=cough . 1753885_1754335
+*OSE:	www .
+*MAR:	I'm an adjunt . 1763362_1764081
+*OSE:	www .
+*MAR:	what does that mean? 1764973_1765751
+*OSE:	www .
+*MAR:	that's true . 1770366_1770743
+*MAR:	it is only for you . 1770319_1771654
+*MAR:	how did you figure that out? 1771351_1772355
+*OSE:	www .
+*MAR:	&=laugh . 1796122_1797243
+*OSE:	www .
+*MAR:	I have done telling you . 1798102_1798978
+*MAR:	it's probably been twenty years +/. 1798984_1800447
+*OSE:	www .
+*MAR:	+, since I've been to the fair . 1801231_1802508
+*OSE:	www .
+*MAR:	and I win once . 1803466_1804342
+*OSE:	www .
+*MAR:	all opens at three . 1810489_1811528
+*MAR:	so you get there from three +... 1811215_1812778
+*MAR:	on weekends it does open at noon . 1812579_1814344
+*OSE:	www .
+*MAR:	but if we get there +// 1815816_1816521
+*MAR:	you know . 1816488_1817056
+*MAR:	+, at three . 1816829_1817411
+*MAR:	you don't have to stay there until midnight . 1817279_1819201
+*OSE:	www .
+*MAR:	hell I wouldn't wanna stay there that long . 1820242_1821833
+*OSE:	www .
+*MAR:	xxx y@s:spa es@s:spa [?] la@s:spa otra@s:spa . 1825554_1826645
+%eng:	and the other one...
+*OSE:	www .
+*MAR:	politically correct . 1828799_1830111
+*OSE:	www .
+*MAR:	 that's why we love her . 1832116_1833323
+*OSE:	www .
+*MAR:	she [/] she said what we were thinking . 1833529_1834742
+*OSE:	www .
+*MAR:	mhm@s:eng&spa durante@s:spa la@s:spa semana@s:spa three . 1840649_1842344
+%eng:	three during the week.
+*OSE:	www .
+*MAR:	but friday it all [?] open at noon . 1843360_1845218
+*OSE:	www .
+*MAR:	<(be)cause the> [//] because the &k . 1849519_1850448
+*MAR:	actually friday it's not a good day we go . 1850471_1851946
+*MAR:	we pact . 1851922_1852364
+*MAR:	(be)cause it's a teacher planning day . 1852967_1854326
+*OSE:	www .
+*MAR:	so the kids will be out . 1855075_1856009
+*OSE:	www .
+*MAR:	let's go on thursday . 1857391_1858163
+*MAR:	I hate crowds . 1858581_1859260
+*MAR:	it's probably why I haven't been back . 1859515_1860752
+*OSE:	www .
+*MAR:	I hate crowds . 1866696_1867375
+*MAR:	that's true . 1871404_1871926
+*OSE:	www .
+*MAR:	but does [///] it opens on thursday . 1874405_1875694
+*OSE:	www .
+*MAR:	well but you know that thursday [///] maybe they don't want to go on thursday . 1880808_1883647
+*OSE:	www .
+*MAR:	friday it does open at noon (be)cause it's a day off for them . 1888970_1891292
+*OSE:	www .
+*MAR:	oh@s:eng&spa shame on you ! 1899912_1901276
+*OSE:	www .
+%com:	pause with noise in the background.
+*MAR:	&=sigh . 1928409_1928978
+*OSE:	www .
+*MAR:	you know I've never been to Bush_Gardens@s:eng&spa ? 1933308_1934684
+*OSE:	www .
+*MAR:	I dont' +/. 1936548_1936925
+*OSE:	www .
+*MAR:	why? 1939137_1939479
+*MAR:	(be)cause it's all water?
+*OSE:	www .
+*MAR:	oh@s:eng&spa ! 1940733_1942051
+*OSE:	www .
+*MAR:	I've never been . 1945011_1945934
+*OSE:	www .
+*MAR:	yeah that's true . 1950685_1951205
+*MAR:	and the &e +/. 1951434_1951956
+*OSE:	www .
+*MAR:	oh@s:eng&s pa the girl trip . 1956449_1957918
+*OSE:	www .
+*MAR:	sucker ! 1974360_1975875
+*OSE:	www .
+*MAR:	sucker ! 1979468_1981129
+%com:	long pause with background noise.
+*MAR:	&=cough . 2020266_2020724
+*OSE:	www .
+*MAR:	really ? 2024881_2025246
+*OSE:	www .
+*MAR:	in Bush_Garden@s:eng&spa ? 2025833_2026582
+*OSE:	www .
+*MAR:	miserable . 2031104_2031725
+*OSE:	www .
+*MAR:	which one? 2068076_2068778
+*OSE:	www .
+*MAR:	xxx . 2074078_2074978
+*MAR:	I have not been to +... 2075520_2076780
+*MAR:	that's not true . 2077855_2078226
+*MAR:	I did go to Universal_Studios@s:eng&spa . 2078235_2079930
+*MAR:	no@s:eng&spa . 2080321_2080658
+*MAR:	I haven't . 2081273_2081657
+*MAR:	it's been a while . 2081715_2082423
+*OSE:	www .
+*MAR:	xxx .
+*OSE:	www .
+*MAR:	&=cough . 2096682_2097402
+*OSE:	www .
+*MAR:	as we get older we start doing that . 2156266_2157903
+*OSE:	www .
+*MAR:	well you try to take very &li few things . 2164184_2166041
+*MAR:	so you don't have to put anything away . 2166227_2167312
+*OSE:	www .
+*MAR:	&=cough . 2174482_2175213
+%com:	pause.
+*MAR:	this cord [?] doesn't +//. 2188710_2189772
+*MAR:	they don't get upset about don't know how many originals I got . 2190138_2192293
+*MAR:	do they ? 2192175_2192593
+*OSE:	www .
+*MAR:	I have no clue . 2195722_2196372
+*OSE:	www .
+*MAR:	I don't care . 2197887_2198462
+*OSE:	no@s:eng&spa  no@s:eng&spa . 2198625_2199176
+*OSE:	www .
+*MAR:	xxx . 2228538_2228973
+*OSE:	www .
+*MAR:	did you come in back after her meeting ? 2248170_2249929
+*OSE:	www .
+*MAR:	after . 2251886_2252345
+*OSE:	www .
+*MAR:	[- spa] qué perdón ? 2254487_2254974
+%eng:	what, sorry?
+*OSE:	www .
+*MAR:	ah@s:eng&spa so she doubted . 2257221_2258283
+*MAR:	[- spa] no regresa . 2258656_2259315
+%eng:	she doesn't come back.
+*MAR:	[- spa] coño pero no +//. 2259243_2259926
+%eng:	bloody hell, but not...
+*MAR:	well it does take a long time . 2259903_2261273
+*MAR:	come think about it . 2261302_2262004
+*OSE:	www .
+*MAR:	ay@s:spa ! 2275054_2275676
+*OSE:	www .
+*MAR:	uh@s:eng ? 2278258_2278659
+*OSE:	www .
+*MAR:	oh@s:eng&spa del@s:spa año@s:spa fiscal@s:spa . 2282385_2283610
+%eng:	oh, of the financial year.
+%com:	pause.
+*OSE:	www .
+*MAR:	[- spa] me lo dijo . 2292928_2293792
+%eng:	they told me.
+*MAR:	[- spa] me dice +"/. 2293670_2293879
+%eng:	they said...
+*MAR:	+" [- spa] qué pena . 2293920_2294721
+%eng:	what a pity.
+*MAR:	[- spa] me dice +"/. 2294742_2295564
+%eng:	they said...
+*MAR:	+" ay@s:spa María@s:eng&spa . 2295481_2296213
+%eng:	ay, Maria.
+*MAR:	xxx . 2296143_2296312
+*MAR:	+" he went to the house for Easter@s:eng&spa . 2296224_2297903
+*MAR:	[- spa] yo le invité a que fuera a casa de mi suegra . 2297716_2299400
+%eng:	I invited him to come to my mother in law's house.
+*MAR:	[- spa] dice +"/. 2299696_2299957
+%eng:	he said.
+*MAR:	+" ay@s:spa I felt so bad . 2299949_2301470
+%eng:	oh, I felt so bad.
+*MAR:	[- spa] no se qué . 2301577_2302401
+%eng:	and stuff.
+*OSE:	www .
+*MAR:	right . 2304357_2304671
+*OSE:	www .
+*MAR:	right . 2305205_2305443
+*OSE:	www .
+*MAR:	no@s:eng&spa no@s:eng&spa ! 2309692_2310975
+*MAR:	I have a  grant Steve@s:eng&spa . 2310471_2312217
+*OSE:	www .
+*MAR:	no . 2313912_2314603
+*OSE:	www .
+*MAR:	no no xxx . 2315062_2316043
+*MAR:	they have a grant . 2316043_2316780
+*OSE:	www .
+*MAR:	they have a grant . 2317749_2318382
+*OSE:	www .
+*MAR:	they have a grant . 2324129_2324675
+*MAR:	no . 2324762_2325099
+*MAR:	they have a grant (.) so +//. 2325174_2326085
+*OSE:	xxx .
+*MAR:	[- spa] me dice +"/. 2328790_2329092
+%eng:	he said to me...
+*MAR:	+" I felt so bad  [=! laugh]. 2329040_2330207
+*OSE:	www .
+*MAR:	[- spa] yo lo tengo también . 2333121_2334038
+%eng:	I have it too.
+%com:	pause.
+*OSE:	www .
+%com:	pause.
+*OSE:	www .
+*MAR:	but you buy them online . 2385528_2386488
+*MAR:	it's two dollars off . 2386370_2387206
+*MAR:	I [/] I though the county was gonna let you know . 2388826_2390695
+*OSE:	www .
+*MAR:	online is seven bucks . 2394787_2396128
+*MAR:	at the (.) places . 2396361_2397928
+*OSE:	www .
+*MAR:	seven dollars and fifteen . 2398845_2401039
+*MAR:	versus nine and twenty . 2401736_2403199
+*OSE:	www .
+*MAR	fifteen. 2409503_2410182
+%com:	pause.
+*OSE:	www .
+%com:	pause.
+*OSE:	www .
+*MAR:	I'll limit it at seventeen . 2746419_2747806
+*MAR:	sorry xxx . 2751034_2752113
+*MAR:	Martha@s:eng&spa . 2753082_2753837
+*MAR:	made a mistake . 2753959_2754743
+*MAR:	I'll limit it at seventeen . 2756060_2757599
+*OSE:	www .
+*MAR:	&=cough . 2759717_2760687
+*MAR:	fifteen . 2761233_2761592
+*MAR:	I guess it's only twenty_two@s:eng . 2761611_2763130
+*MAR:	I don't know what that means . 2763009_2763938
+*OSE:	www .
+*MAR:	I don't know . 2899310_2899780
+*MAR:	you are asking the wrong person . 2901568_2902868
+%com:	long pause with noise and voices in the background.
+*MAR:	&=cough . 3186858_3187921
+*OSE:	www .
+*MAR:	what is this ? 3303608_3304484
+*OSE:	www .
+*MAR:	why is getting soon? 3310391_3311322
+*OSE:	www .
+*MAR:	mhm@s:eng&spa . 3314991_3315461
+*OSE:	www .
+*MAR:	pedestrian [/] pedestrian . 3329364_3330850
+*OSE:	www .
+%com:	long pause with noise and voices in the background.
+*MAR:	oh@s:eng&spa felicidades@s:spa (.) a@s:spa la@s:spa nueva@s:spa ciudadana@s:spa ! 3592545_3595900
+%eng:	congratulations to the new citizen!
+%com:	clapping sound.
+*MAR:	cuándo@s:spa es@s:spa el@s:spa swearing in ? 3597050_3598095
+%eng:	when is the swearing in?
+*OSE:	www .
+*MAR:	congratulations ! 3600289_3601810
+*OSE:	www .
+*MAR:	right right &=cough .
+*OSE:	www .
+*MAR:	&=laugh . 3630138_3630614
+*MAR:	&=laugh . 3633366_3634376
+*OSE:	www .
+*MAR:	&=laugh . 3635444_3636117
+*OSE:	www .
+*MAR:	&=cough . 3637069_3637592
+*OSE:	www .
+*MAR:	they didn't ask you all that +/. 3667278_3667919
+*OSE:	www .
+*MAR:	&=laugh . 3679347_3679788
+*OSE:	www .
+*MAR:	no@s:eng&spa . 3692960_3693378
+*OSE:	www .
+*MAR:	did your mum +... 3694620_3695334
+*MAR:	you were born here or in Jamaica@s:eng&spa? 3695421_3696466
+*MAR:	but your mum eh@s:spa registered you right? 3696722_3698460
+*OSE:	www .
+*MAR:	citizen what? 3701452_3702428
+*OSE:	www .
+*MAR:	they don't tell you to bring photos? 3737438_3738443
+*OSE:	www .
+*MAR:	yeah (be)cause they stipulate to the naturalization of uh@s:eng +... 3746116_3748972
+*OSE:	www .
+*MAR:	+, certificate which you get I guess when you swear in . 3749507_3751591
+*OSE:	www .
+*MAR:	right &=cough . 3752322_3753169
+*OSE:	www .
+*MAR:	they've done it also at xxx auditorium .
+*MAR:	yeah . 3763572_3763856
+*OSE:	www .
+*MAR:	yeah they don't +//. 3817123_3817877
+*MAR:	they won't even hold them for you . 3817718_3818997
+*OSE:	www .
+*MAR:	they won't hold them for you .
+*OSE:	www .
+*MAR:	why is your file so big?
+*OSE:	www .
+*MAR:	mhm@s:eng&spa yeah . 3866448_3867580
+*OSE:	www .
+*MAR:	political reasons . 3874000_3874847
+*OSE:	www .
+*MAR:	yeah but you were there for political reasons so it would definitely . 3893499_3896123
+*OSE:	www .
+*MAR:	&=cough . 3897887_3898480
+*OSE:	www .
+*MAR:	asylum .
+*OSE:	www .
+*MAR:	same thing . 3926309_3926744
+*OSE:	www .
+*MAR:	[- spa] y no te hicieron +//? 3940062_3940473
+%eng:	and they didn't ask you to...?
+*MAR:	[- spa] porque yo tengo una amiga (.) que (.) que pa(ra) el marido pa(ra) la residencia +//. 3940333_3945378
+%eng:	because I have a friend, who in order for her husband to get the residence...
+*MAR:	[- spa] se pregunta una pila de cosas . 3945866_3946673
+%eng:	he was asked many things.
+*MAR:	you know . 3947619_3947938
+*MAR:	[- spa] cuándo te casaste? 3948357_3948896
+%eng:	when did you get married?
+*MAR:	bring wedding pictures +... 3949262_3949773
+*OSE:	www .
+*MAR:	oh@s:eng&spa o_k@s:eng&spa . 3953836_3954695
+*MAR:	&=cough . 3954834_3955392
+*OSE:	www .
+*MAR:	right . 3956251_3956564
+*MAR:	right they separate you . 3957325_3958429
+*MAR:	right .
+*OSE:	www .
+*MAR:	they drill you and they want +/.
+*OSE:	www .
+*MAR:	for [/] <for the> [/] for the papers xxx .
+*OSE:	www .
+*MAR:	right right right .
+*OSE:	www .
+*MAR:	yeah <my friend> [/] my friend +//. 3979333_3980284
+*MAR:	[- spa] el [/] el [/] el [/] el novio +//. 3980267_3982322
+%eng:	her boyfriend.
+*MAR:	had a work visa . 3982908_3984098
+*MAR:	and then he was starting a new job . 3984278_3985613
+*MAR:	and you know . 3985565_3985997
+*MAR:	so he +//. 3986304_3986734
+*MAR:	the gap +//. 3986769_3987262
+*MAR:	se@s:spa casaron@s:spa like en@s:spa enero@s:spa or like two months in october por@s:spa lo@s:spa civil@s:spa . 3987436_3991519
+%eng:	they got married like in January, or like two months in October, they had a civil wedding.
+*MAR:	but the official wedding +//. 3991860_3993036
+*MAR:	you know . 3993404_3993711
+*MAR:	at the church . 3993613_3994385
+*MAR:	was like two months later . 3994403_3995724
+*MAR:	but they had do that so he could get his paperwork going . 3995784_3998135
+*MAR:	she had to bring the pictures <from the &s> [//] from the religious ceremony . 3998512_4003998
+*MAR:	because they said they were +//.
+*MAR:	it was true . 4005387_4006241
+*MAR:	they said +//. 4005903_4006450
+*MAR:	you know . 4006268_4006661
+*MAR:	they were gonna get married anyway so they just did it for the paperwork . 4006471_4008985
+*OSE:	www .
+*MAR:	and they are like +"/. 4009716_4010546
+*MAR:	bring pictures of the honeymoon . 4010354_4011788
+*MAR:	bring pictures of the reception . 4011694_4013682
+*OSE:	www .
+*MAR:	&=cough .
+*OSE:	www .
+*MAR:	wow@s:eng&spa . 4024222_4024762
+*OSE:	www .
+*MAR:	for residency .
+*OSE:	www .
+*MAR:	through an American xxx .
+*OSE:	www .
+*MAR:	when you are married American . 4029819_4030852
+*OSE:	www .
+*MAR:	oh@s:eng&spa boy . 4078470_4079045
+*OSE:	www .
+*MAR:	de@s:spa los@s:spa papers . 4087456_4087886
+%eng:	of the papers.
+*MAR:	right right . 4087909_4088548
+*OSE:	www .
+*MAR:	&=laugh . 4105690_4107478
+*OSE:	www .
+*MAR:	yeah &=laugh . 4128249_4129015
+*OSE:	www .
+*MAR:	[- spa] y ya el viejo !
+*MAR:	[- spa] y ya el viejo se está haciendo la [/] la idea &=cough .
+*OSE:	www .
+*MAR:	maybe you are third .
+*OSE:	www .
+*MAR:	[- spa] qué mala tú eres .
+%eng:	you are such a bad person.
+*OSE:	www .
+*MAR:	no@s:eng&spa . 4164576_4165156
+*MAR:	naive . 4165214_4165975
+*OSE:	or no@s:eng&spa  +/.
+*OSE:	www .
+*MAR:	no naive so much as [/] as +... 4167420_4169608
+*OSE:	www .
+*MAR:	illusions yes . 4171571_4172639
+*OSE:	www .
+*MAR:	you know what . 4190333_4190830
+*MAR:	it's not worth it . 4190820_4191586
+*MAR:	(be)cause if they catch you +... 4191592_4193142
+*OSE:	www .
+*MAR:	yeah . 4195806_4196097
+*OSE:	www .
+*MAR:	probably . 4199946_4200286
+*MAR:	he gets deported . 4200706_4201507
+*MAR:	and you probably get fined and go to jail . 4201495_4203695
+*MAR:	because you are abetting in an ilegal activity . 4204287_4207074
+*OSE:	www .
+*MAR:	aiding and abetting . 4210923_4212391
+*MAR:	aiding and abetting . 4212972_4214260
+*OSE:	www .
+*MAR:	&=cough . 4216304_4216809
+*OSE:	www .
+*MAR:	[- spa] ese es otro viejo iluso . 4224245_4225899
+%eng:	that one is another naive old man.
+*MAR:	[- spa] ese es otro iluso . 4226079_4227072
+%eng:	he is another naive man.
+*OSE:	www .
+*MAR:	yeah he might get . 4229415_4230190
+*MAR:	you know . 4230247_4230781
+*OSE:	www .
+*MAR:	<ay@s:spa que@s:spa> [/] ay@s:spa que@s:spa mala@s:spa la@s:spa otra@s:spa . 4236273_4238694
+%eng:	oh, how evil she is.
+*MAR:	[- spa] mira lo siento . 4238821_4239570
+%eng:	look, I'm sorry.
+*MAR:	I think I've changed my mind . 4239335_4240630
+*MAR:	I can't go through the +/. 4240853_4241869
+*OSE:	www .
+*MAR:	that's true . 4243512_4244249
+*OSE:	www .
+*MAR:	you never know . 4245701_4246363
+*MAR:	maybe they'll fall in love . 4246369_4247413
+*OSE:	www .
+*MAR:	of course she's got to be slick [?] . 4252301_4253718
+*OSE:	www .
+*MAR:	of the what? 4262013_4262913
+*OSE:	www .
+*MAR:	ay@s:spa dios@s:spa mío@s:spa ! 4264236_4265432
+%eng:	oh my God!
+*OSE:	www .
+*MAR:	la@s:spa vieja@s:spa es@s:spa slick . 4265740_4268747
+%eng:	the old lady is slick!
+*OSE:	www .
+*MAR:	&=laugh . 4269588_4270221
+*MAR:	&=laugh . 4270924_4272717
+*MAR:	[- spa] la verdad es que ella es tipa intelig(ente) +//. 4274209_4276009
+%eng:	to be honest, she is very intelligent.
+*MAR:	[- spa] se la comió . 4275997_4277065
+%eng:	she ate it.
+*MAR:	[- spa] <la tipa es> [///] se la com(ió) +//. 4277408_4279393
+%eng:	that woman ate it.
+*OSE:	www .
+*MAR:	sí@s:spa . 4282978_4283393
+%eng:	yes.
+*MAR:	she is very slick . 4284014_4285488
+*OSE:	www .
+*MAR:	[- spa] sí sí pero olvídate . 4300134_4301667
+%eng:	yes, yes, but forget about that.
+*MAR:	[- spa] si a tí te dan (.) un xxx . 4301539_4303559
+%eng:	if you receive a xxx.
+*MAR:	[- spa] el tipo quedó +... 4304436_4305725
+%eng:	the guy was left...
+*MAR:	forget it [=! laugh]. 4305765_4306775
+*OSE:	www .
+*MAR:	&=laugh xxx . 4315982_4317300
+*OSE:	www .
+*MAR:	yes &=laugh . 4322129_4324045
+*MAR:	no xxx . 4324109_4325508
+*MAR:	&=laugh . 4325485_4328550
+*OSE:	www .
+*MAR:	we are not bad . 4332248_4333089
+*MAR:	and we're just realists o_k@s:eng&spa? 4333101_4334825
+*MAR:	we're terrible . 4335220_4335945
+*OSE:	www .
+*MAR:	[- spa] pobre viejo xxx . 4337902_4339074
+%eng:	poor old man.
+*MAR:	[- spa] sesenta no es tan viejo . 4339016_4340491
+%eng:	sixty is not that old.
+*OSE:	www .
+*MAR:	[- spa] olvídate . 4343567_4344275
+%eng:	forget about it.
+*MAR:	xxx in a good time . 4344258_4345657
+*OSE:	www .
+*MAR:	&=cough . 4350318_4350823
+*MAR:	does anybody want these boxes? 4350905_4352257
+*OSE:	www .
+*MAR:	ay@s:spa xxx . 4371681_4372546
+%eng:	oh, xxx.
+%com:	pause with noise in the background.
+*MAR:	[- spa] qué fue? 4397136_4398001
+%eng:	what was that?
+*OSE:	www .
+*MAR:	&pss &pss . 4400183_4400990
+*MAR:	[- spa] copia!. 4401472_4401867
+%eng:	copy this!
+*OSE:	www .
+*MAR:	ay@s:spa está@s:spa perfecta@s:spa verdad@s:spa? 4408003_4409013
+%eng:	it's perfect, right?
+*OSE:	www .
+*MAR:	[- spa] a quién pide [?]. 4418034_4418858
+%eng:	to whom you ask?
+*OSE:	www .
+*MAR:	Miguel@s:eng&spa xxx? 4420748_4421036
+*OSE:	www .
+*MAR:	[- spa] qué se equivocaron? 4423264_4424111
+%eng:	you mean they made a mistake?
+*OSE:	www .
+*MAR:	ay@s:spa coño@s:spa . 4425381_4426328
+%eng:	bloody hell.
+*MAR:	&=cough . 4436405_4437334
+%com:	pause.
+*MAR:	it's my mission to get rid of A_One@s:eng&spa . 4449884_4452218
+*MAR:	this week . 4452369_4452932
+*MAR:	&iji . 4454743_4455811
+*OSE:	www .
+*MAR:	I don't know . 4461088_4461436
+*MAR:	she needs twenty hours . 4461622_4462690
+*OSE:	www .
+*MAR:	no@s:eng&spa . 4466225_4466434
+*MAR:	she is in Wales@s:eng&spa or Scotland@s:eng . 4469796_4471732
+*MAR:	I don't know where she is . 4471723_4472330
+*MAR:	they went to &s . 4474294_4474857
+*OSE:	www .
+*MAR:	somewhere . 4475304_4475931
+*MAR:	they went to Wales@s:eng&spa . 4476111_4477214
+*MAR:	I mean to Scotland@s:eng&spa +//. 4477272_4478224
+*MAR:	I think for (.) Easter@s:eng . 4478224_4479577
+*OSE:	www .
+*MAR:	and Jeff@s:eng&spa was saying that uh@s:eng +... 4481121_4482822
+*MAR:	+, if the weather might have been cold they might [//] may go snowing . 4483716_4487210
+*MAR:	and xxx goes +"/. 4486908_4487878
+*MAR:	+, I just can't imagine that when I'm here in this eighty degree weather . 4488110_4491518
+*OSE:	www .
+*MAR:	today it's a beautiful day . 4512474_4513466
+%com:	pause.
+*MAR:	what was I doing ? 4533453_4534480
+*MAR:	&=cough . 4535566_4536199
+*OSE:	www .
+*MAR:	[- spa] ya ? 4573461_4573821
+%eng:	already?
+*MAR:	[- spa]  pero si no son ni siquiera las doce del día . 4573838_4575434
+%eng:	but it's not even noon!
+*OSE:	www .
+*MAR:	[- spa] qué tu te has creído ? 4576688_4577489
+%eng:	who do you think you are?
+*OSE:	www .
+*MAR:	how do I what ? 4603368_4604024
+*MAR:	how do I what ? 4608378_4608999
+*OSE:	www .
+*MAR:	xxx that's correct . 4647451_4648246
+*OSE:	www .
+*MAR:	xxx let's see . 4658127_4659839
+*MAR:	let me look that on the website &=cough . 4659601_4661325
+*OSE:	www .
+%com:	pause.
+*MAR:	 and why would you want to have &=cough +//? 4778597_4781175
+*MAR:	all right . 4786150_4787874
+*MAR:	&=mumble . 4799420_4803553
+*MAR:	&=cough . 4825856_4826593
+*MAR:	I made home made croquetas@s:spa . 4835463_4836961
+%eng:	I made home-made croquettes.
+*MAR:	ham and meat for easter . 4837315_4839097
+*OSE:	www .
+*MAR:	huhu@s:eng . 4839817_4840217
+*OSE:	www .
+*MAR:	&=sigh &i [/] &i [/] &i they're not +//. 4843408_4845942
+*MAR:	you know . 4846411_4846748
+*MAR:	something you would pop in ten minutes . 4846736_4848019
+*MAR:	have no idea how our maid did it for dinner sometimes . 4848257_4850812
+*OSE:	www .
+*MAR:	I did make the binders . 4853592_4855154
+*MAR:	was my favourite friend that xxx . 4855479_4857609
+*MAR:	oh@s:eng&spa yeah . 4857802_4857999
+*MAR:	that's right . 4858063_4858153
+*MAR:	he is not there anymore . 4858352_4859281
+*MAR:	wonder why [?] 4859983_4860860
+*OSE:	 www .
+*MAR:	&=laugh she knows better than to ask me . 4861771_4864616
+*MAR:	&=laugh . 4864598_4867100
+*OSE:	www .
+*MAR:	I know . 4868302_4869051
+*OSE:	www .
+*MAR:	no he drove me crazy . 4871315_4872702
+*MAR:	I liked him but +//. 4874653_4875953
+*MAR:	I though he was kind of whinner [?] . 4876620_4878194
+*OSE:	www .
+*MAR:	you don't say creepy . 4880818_4881781
+*MAR:	[- spa] oye la otra . 4881764_4882751
+%eng:	listen to that one.
+*MAR:	he was a whinner  [?] ! 4883662_4884672
+*OSE:	www .
+*MAR:	sí@s:spa . 4886042_4886506
+%eng:	yes.
+*OSE:	www .
+*MAR:	oh@s:eng&spa . 4898959_4900695
+*MAR:	coño@s:spa he liked you ! 4901623_4902593
+%eng:	my God, he liked you!
+*OSE:	www .
+*MAR:	quién@s:spa tiene@s:spa scotchy tapy? 4922462_4923577
+%eng:	who has "scotchy tapy"?
+*MAR:	[- spa] que me preste? 4923995_4924564
+%eng:	and can lend it to me?
+*OSE:	www .
+*MAR:	I think he said +"/. 4948527_4949264
+*MAR:	+" Martha@s:eng&spa brought up mine . 4950762_4951859
+*MAR:	favorite person . 4951934_4953037
+*MAR:	got me going . 4953043_4953664
+*OSE:	www .
+*MAR:	[- spa] vamos maquinita . 4968711_4969518
+%eng:	come on, little machine.
+*MAR:	[- spa]	es pa(ra) hoy . 4969733_4970400
+%eng:	it's for today.
+*MAR:	yo@s:spa creo@s:spa que@s:spa el@s:spa copying machine me@s:spa odia@s:spa . 4974731_4976257
+%eng:	I think that the copying machine hates me.
+*MAR:	[- spa] porque hice muchas copias ayer .  4976275_4977453
+%eng:	because I made many copies yesterday.
+*OSE:	www .
+*MAR:	[- spa] se demora conmigo . 4981052_4982225
+%eng:	it's taking its time, with me.
+*MAR:	[- spa] qué te pasó ? 4986178_4986892
+%eng:	what happened to you?
+*OSE:	www .
+*MAR:	what happened? 4989795_4990381
+*OSE:	www .
+*MAR:	oh@s:eng&spa . 4993196_4993823
+*OSE:	www .
+*MAR:	that's our recording thing . 4996105_4997475
+*OSE:	www .
+*MAR:	and voila@s:frn look ! 4999048_5000041
+*MAR:	I have a cover now . 4999924_5000934
+*OSE:	www .
+*MAR:	what? 5003547_5004179
+*OSE:	www .
+*MAR:	for which project ? 5009224_5010008
+*MAR:	for which portion of the project ? 5010786_5011935
+*OSE:	www .
+*MAR:	coño . 5016010_5016782
+*OSE:	www .
+*MAR:	&=cough . 5019760_5020469
+*OSE:	www .
+*MAR:	yeah x is a good way to put it . 5022999_5024718
+*MAR:	they shouldn't take that long . 5034319_5035985
+*OSE:	www .
+*MAR:	who's paying for it ? 5055885_5056860
+*OSE:	www .
+*MAR:	it is true . 5080829_5081595
+*MAR:	she has the point . 5081804_5082652
+*OSE:	www .
+*MAR:	xxx in the road runner . 5084014_5085689
+*MAR:	she has the point . 5085513_5086529
+*OSE:	www .
+*MAR:	&=cough . 5088068_5088648
+*OSE:	www .
+*MAR:	she has a point . 5091249_5092421
+*OSE:	www .
+*MAR:	[- spa] coño sí . 5097890_5098853
+*MAR:	[- spa] la verdad . 5099027_5099950
+*OSE:	www .
+*MAR:	I have to agree with her . 5107584_5108931
+*MAR:	it's kind of like mhm@s:eng&spa . 5110254_5111113
+*OSE:	www .
+*MAR:	you are asking for trouble . 5112687_5114086
+%com:	pause.
+*MAR:	&=cough . 5138182_5138966
+*OSE:	www .
+*MAR:	you mean the size of the arrow? 5175880_5177151
+*OSE:	www .
+*MAR:	mhm@s:eng&spa . 5182968_5183502
+*OSE:	www .
+*MAR:	but it does not always work because if you have a serious xxx . 5185975_5189069
+*MAR:	where I get particular is that all the text needs to line up . 5189550_5192946
+*MAR:	because if you have them all the same length it may not work . 5193550_5197161
+*MAR:	<if the> [/] if the materials next to each other +//. 5197497_5199471
+*MAR:	you see I'm saying ?
+*OSE:	www .
+*MAR:	I [/] I [/] I'm more for making through all the text lines up +//. 5201555_5204539
+*MAR:	+, to the right +//. 5205090_5205526
+*MAR:	you know . 5205578_5205944
+*MAR:	+, nice and neet . 5206006_5206740
+*MAR:	rather that jumbling all over the place . 5206814_5208527
+*OSE:	www .
+%com:	phone call following.
+*MAR:	yes I may speak with uh@s:eng Christine@s:eng&spa please ? 5237523_5239926
+%com:	pause.
+*MAR:	hey Christine@s:eng&spa . 5273415_5273992
+*MAR:	this is Maria@s:eng&spa . 5273653_5274623
+*MAR:	I'm at xxx uh@s:eng . 5274663_5276242
+*MAR:	xxx tells me that uh@s:eng they gave you the symbol's xxx belts back in august of last year . 5276711_5282865
+*MAR:	&os [//] or july's . 5283155_5284560
+*MAR:	xxx for they get open the first half of the building . 5284037_5287033
+*MAR:	uh@s:eng&spa give me a call so that uh@s:eng you can confirm me that you have them . 5287371_5291098
+*MAR:	and what's missing so you can do the xxx belts for B_One@s:eng&spa . 5291086_5294453
+*MAR:	uh@s:eng three o five four four five three seven six five . 5294524_5297034
+*MAR:	thanks . 5297239_5297669
+*OSE:	www .
+*MAR:	what?. 5302348_5302691
+*OSE:	www .
+*MAR:	oh@s:eng&spa yes yes yes yes . 5315061_5316408
+*MAR:	xxx hang on . 5318103_5319601
+*MAR:	&=mumble a@s:spa ver@s:spa . 5321586_5322840
+%eng:	let's see.
+*MAR:	coño@s:spa I just went blank . 5327861_5329103
+%eng:	bloody hell, I just went blank.
+*MAR:	what the hell is her name ? 5331269_5332337
+*MAR:	Jenny@s:eng&spa . 5333092_5333910
+*MAR:	&=laugh . 5334276_5334868
+*OSE:	www .
+*MAR:	have [?] bill bags . 5388332_5389557
+*MAR:	<stay parked> [?]. 5390038_5390787
+*OSE:	www .
+*MAR:	thank you . 5412097_5412539
+*MAR:	hello ? 5414710_5415035
+*MAR:	o_k@s:eng&spa . 5415348_5416149
+*MAR:	mhm@s:eng&spa . 5418262_5418936
+*MAR:	right that's what he told me . 5421345_5422488
+*MAR:	mhm@s:eng&spa . 5428735_5429385
+*MAR:	o_k@s:eng&spa what kind of issues ? 5430796_5432224
+*MAR:	what are the issues ? 5438202_5439323
+*MAR:	wow@s:eng&spa . 5443497_5444321
+*MAR:	mhm@s:eng&spa . 5452877_5453719
+*MAR:	mhm@s:eng&spa . 5460517_5461330
+*MAR:	right . 5470246_5470739
+*MAR:	it's life . 5476412_5476824
+*MAR:	right . 5477015_5477415
+*MAR:	and timing belts in handouts is not good &=cough . 5477351_5479888
+*MAR:	right . 5482646_5483047
+*MAR:	in fact the [/] the big handout . 5484579_5486848
+*MAR:	the [/] the xxx is fifty two thousand miles . 5486495_5489659
+*MAR:	I think they have to replace them with sixty . 5489751_5492729
+*MAR:	yeah from my whole handout remember it was sixty &=cough . 5493025_5496856
+*OSE:	www .
+*MAR:	o_k@s:eng&spa . 5504955_5505709
+*OSE:	www .
+*MAR:	another xxx on top of the three hundred .
+*OSE:	www .
+*MAR:	o_k@s:eng&spa .
+*MAR:	and that repairs +... 5521069_5522405
+*OSE:	www .
+*MAR:	right right right &=cough . 5537376_5539117
+*OSE:	www .
+*MAR:	xxx on top of the three hundred or no@s:eng&spa? 5548306_5550588
+*OSE:	www .
+*MAR:	including the three hundred and sixty . 5550988_5552950
+*OSE:	www .
+*MAR:	well (.) we are gonna be driving there . 5553804_5555563
+*OSE:	www .
+*MAR:	o_k@s:eng&spa . 5566493_5567347
+*MAR:	mhm@s:eng&spa and then time xxx . 5567910_5570209
+*OSE:	www .
+*MAR:	which xxxx as bad . 5570551_5573326
+*MAR:	when you talk to him can you ask him on xxx? 5575027_5577124
+*MAR:	if it's still (.) the same (.) model sixty grand [///] sixty thousand? 5576716_5581354
+*MAR:	so that I keep [/] keep that in mind ? 5581396_5583486
+*MAR:	I mean +/. 5583624_5584518
+*MAR:	I'm not putting xxx . 5584489_5586875
+*MAR:	o_k@s:eng&spa . 5587961_5588425
+*MAR:	bye &=cough . 5588617_5589830
+%com:	pause with noise and voices in the background.
+*MAR:	&ps: . 5696584_5698075
+*MAR:	&=cough . 5779247_5780338
+*MAR:	ay@s:spa coño@s:spa . 5782480_5784181
+%eng:	bloody hell.
+*OSE:	 wwww .
+*MAR:	what happened to him ? 5797498_5798571
+*OSE:	www .
+*MAR:	he quit ? 5798833_5799489
+*OSE:	www .
+*MAR:	he +/. 5800301_5800592
+*OSE:	www .
+*MAR:	he quit on xxx . 5801410_5802618
+*OSE:	www .
+*MAR:	Qatar@s:eng&spa . 5804586_5805071
+*OSE:	www .
+*MAR:	Qatar@s:eng&spa like [/] like over there in Persia@s:eng&spa ? 5805863_5808121
+*OSE:	www .
+*MAR:	would +/? 5810181_5810797
+*OSE:	www .
+*MAR:	what the heck is he doing there ? 5811139_5812974
+*OSE:	www .
+*MAR:	what's he doing there ? 5811233_5812754
+*OSE:	www .
+*MAR:	and you didn't take it . 5838626_5839282
+*OSE:	www .
+*MAR:	they live in their own xxx . 5848611_5849546
+*OSE:	www .
+*MAR:	yeah but that was twenty_some@s:eng years ago . 5857539_5859288
+*MAR:	things are a little bit different now . 5859054_5860697
+*OSE:	www .
+*MAR:	ah@s:eng&spa oh@s:eng&spa . 5863211_5865324
+*OSE:	www .
+*MAR:	everything . 5891754_5892259
 @End
