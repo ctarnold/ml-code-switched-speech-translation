@@ -197,7 +197,7 @@
 *MAR:	[- spa] traje lonche . %snd:"mar18"_620853_621375
 %eng:	I brought something to eat.
 *OSE:	www .
-%com:	pause.
+%com:	pause
 %com:	noise in background
 *MAR:	&=cough . %snd:"mar18"_787563_788324
 %com:	pause with noise in the background.
@@ -269,7 +269,7 @@
 *OSE:	www .
 *MAR:	oh@s:eng&spa xxx meta@s:spa en@s:spa el@s:spa carro@s:spa . 909645_911922
 %eng:	oh xxx a put it in the pram.
-*MAR:	y@s:spa si@s:spa [///] y@s:spa no@s:spa tiene@s:spa que@s:spa ser@s:spa uno@s:spa de@s:spa los@s:spa estos@s:spa que@s:spa están@s:spa diseñados@s:spa because@s:spa I used to +//. 911956_915399
+*MAR:	y@s:spa si@s:spa [///] y@s:spa no@s:spa tiene@s:spa que@s:spa ser@s:spa uno@s:spa de@s:spa los@s:spa estos@s:spa que@s:spa están@s:spa diseñados@s:spa because I used to +//. 911956_915399
 %eng:	and it doesn't need to be one of those that is specially designed, because I used to...
 *MAR:	you can find the stroller . 915708_917169
 *MAR:	and you can stick the car seat without having the base thing . 917326_921040
@@ -390,10 +390,10 @@
 %eng:	let's see.
 *MAR:	mister . 1233104_1233818
 *MAR:	hello ? 1247785_1248133
-*MAR:	three o five . 1248644_1249300
+*MAR:	three O five . 1248644_1249300
 *MAR:	two three three . 1250780_1251738
 *MAR:	three three zero four . 1254474_1255820
-*MAR:	oki doki . 1262450_1263001
+*MAR:	okey_dokey . 1262450_1263001
 *OSE:	www .
 *MAR:	I [/] I don't know who he is . 1268035_1268778
 *MAR:	I guess somebody works for him . 1268789_1269892
