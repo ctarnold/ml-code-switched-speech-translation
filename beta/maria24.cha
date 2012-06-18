@@ -3,17 +3,15 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|MAR|(age;)|female|||Adult||
+@ID:	spa, eng|bangor3|MAR|45;|female|||Adult||
 @ID:	spa, eng|bangor3|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleagues.
-@Date:
-@Transcriber:
-@Comment:
-@Time Duration:
-@Media:	mar24.
+@Date:	JAN-2008
+@Transcriber:	Lara Gil Vallejo
+@Time Duration:	00:41:40
+@Media:	mar24, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined,
 @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
-%com:	background noise .
 *MAR:	oh@s:eng&spa you're recycling . 15813_17038
 *MAR:	you are so good . 16863_18042
 %com:	backgroung noise .

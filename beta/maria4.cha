@@ -3,527 +3,525 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	SON  sonia Adult, OSE other Adult
-@ID:	eng, spa|Maria|XXX|(age;)|male|||Adult||
-@ID:	eng, spa|Maria|YYY|(age;)|female|||Adult||
-@Situation:	
+@ID:	eng, spa|Maria||45;|female|||Adult||
+@ID:	eng, spa|OSE||||||Adult||
+@Situation:
 @Date:	JAN-2008
-@Media:	Maria4.wav
-@Comment:	Researcher:	researcher name, University of Wales Bangor
-@Coder:	coder name, University of Wales Bangor
-@Time Duration:	00:XX:XX
-@Comment:	Filename: .CHA; Soundfile: .wav
-@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
-@Warning:	Soundfile is mono (delete if appropriate)
+@Media:	Maria4, audio
+@Transcriber:	Maricarmen Parafita, Lara Gil Vallejo
+@Time Duration:	00:17:22
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English,
+@s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *OSE:	www .
-*SON:	[- spa] mira quien apareció . 4505_5712
+*MAR:	[- spa] mira quien apareció . 4505_5712
 %eng:	look who showed up.
-*SON:	I'm sorry . 6385_6966
-*SON:	I am so full . 6873_7593
-*SON:	had lunch with my brother and my parents . 8847_10890
-*SON:	fuimos@s:spa a@s:spa Versailles@s:eng&spa . 10937_12469
+*MAR:	I'm sorry . 6385_6966
+*MAR:	I am so full . 6873_7593
+*MAR:	had lunch with my brother and my parents . 8847_10890
+*MAR:	fuimos@s:spa a@s:spa Versailles@s:eng&spa . 10937_12469
 %eng:	we went to Versailles.
 *OSE:	www .
-*SON:	[- spa] mi hermano es el que vive en [/] en Europa . 13955_16254
+*MAR:	[- spa] mi hermano es el que vive en [/] en Europa . 13955_16254
 %eng:	my brother is the one who lives in Europe.
 *OSE:	www .
-*SON:	yeah, he got here on the thirtieth . 17810_21455
+*MAR:	yeah, he got here on the thirtieth . 17810_21455
 *OSE:	www .
-*SON:	no, both him and my other brother got here after Christmas bef(ore) +// . 24288_28235
-*SON:	[- spa] niña . 28468_29350
+*MAR:	no, both him and my other brother got here after Christmas bef(ore) +// . 24288_28235
+*MAR:	[- spa] niña . 28468_29350
 %eng:	girl.
-*SON:	right aft(er) +// . 29489_30093
-*SON:	[- spa] no queda nada . 30000_30975
+*MAR:	right aft(er) +// . 29489_30093
+*MAR:	[- spa] no queda nada . 30000_30975
 %eng:	there is nothing left.
-*SON:	and nobody throws the things away . 31347_32694
-*SON:	how shameful of them . 32461_34226
+*MAR:	and nobody throws the things away . 31347_32694
+*MAR:	how shameful of them . 32461_34226
 *OSE:	www .
-*SON:	so he'll be here until next week actually . 36780_39056
+*MAR:	so he'll be here until next week actually . 36780_39056
 *OSE:	www .
-*SON:	no . 46904_47415
-*SON:	hey yeah . 47415_48205
-*SON:	he's got like a short +//. 47833_49551
-*SON:	my brother lives in Wales . 49041_50759
-*SON:	he's got like a short and a jacket . 50294_51780
-*SON:	&=laugh uh@s:eng . 52013_53592
-*SON:	what to do . 53499_54567
-*SON:	and he is looking at me like +"/. 54892_56378
-*SON:	you look like a balloon in a ski slope the xxx the sunglasses the sweater the jacket . 56239_63019
-*SON:	like I don't live in the U_K . 62647_65016
+*MAR:	no . 46904_47415
+*MAR:	hey yeah . 47415_48205
+*MAR:	he's got like a short +//. 47833_49551
+*MAR:	my brother lives in Wales . 49041_50759
+*MAR:	he's got like a short and a jacket . 50294_51780
+*MAR:	&=laugh uh@s:eng . 52013_53592
+*MAR:	what to do . 53499_54567
+*MAR:	and he is looking at me like +"/. 54892_56378
+*MAR:	you look like a balloon in a ski slope the xxx the sunglasses the sweater the jacket . 56239_63019
+*MAR:	like I don't live in the U_K . 62647_65016
 *OSE:	www .
-*SON:	yes . 72678_73468
+*MAR:	yes . 72678_73468
 *OSE:	www .
-*SON:	um . 83545_84103
+*MAR:	um . 83545_84103
 *OSE:	www .
-*SON:	dating moon [?] or anything . 92137_94877
+*MAR:	dating moon [?] or anything . 92137_94877
 *OSE:	www .
-*SON:	not a single comment came back from [/] from them . 103654_107183
+*MAR:	not a single comment came back from [/] from them . 103654_107183
 *OSE:	www .
-*SON:	 there wasn't a single comment so I can only assume that the [/] their A@s:eng&spa they were o_k with the B@s:eng&spa with they needed them so it's nice to have them . 111502_119211
-*SON:	I don't know . 118886_120094
+*MAR:	 there wasn't a single comment so I can only assume that the [/] their A@s:eng&spa they were o_k with the B@s:eng&spa with they needed them so it's nice to have them . 111502_119211
+*MAR:	I don't know . 118886_120094
 *OSE:	www .
-*SON:	we don't need him . 133979_134629
-*SON:	he is correct . 134444_135094
-*SON:	and I have told him to take them out . 135697_136998
-*SON:	and I took them out . 137044_138066
-*SON:	buy I may have taken it out of R@s:eng&spa drawing not out of W@s:eng&spa . 139366_142663
+*MAR:	we don't need him . 133979_134629
+*MAR:	he is correct . 134444_135094
+*MAR:	and I have told him to take them out . 135697_136998
+*MAR:	and I took them out . 137044_138066
+*MAR:	buy I may have taken it out of R@s:eng&spa drawing not out of W@s:eng&spa . 139366_142663
 *OSE:	www .
-*SON:	but we don't need him .
+*MAR:	but we don't need him .
 *OSE:	www .
-*SON:	we don't need him . 148236_149444
+*MAR:	we don't need him . 148236_149444
 *OSE:	www .
-*SON:	my +//. 155481_155852
-*SON:	mmhm . 155899_156410
-*SON:	they are probably change those on the architectural way U@s:eng&spa and B@s:eng&spa . 157803_161797
-*SON:	but Double_U@s:eng&spa had already been issued or what have you told . 161797_165837
-*SON:	it probably never got picked up . 165883_168298
+*MAR:	my +//. 155481_155852
+*MAR:	mmhm . 155899_156410
+*MAR:	they are probably change those on the architectural way U@s:eng&spa and B@s:eng&spa . 157803_161797
+*MAR:	but Double_U@s:eng&spa had already been issued or what have you told . 161797_165837
+*MAR:	it probably never got picked up . 165883_168298
 *OSE:	www .
-*SON:	they [/] they aren't  the [/] the B_C_C@s:eng&spa . 179304_180883
+*MAR:	they [/] they aren't  the [/] the B_C_C@s:eng&spa . 179304_180883
 *OSE:	www .
-*SON:	yeah . 181209_181998
+*MAR:	yeah . 181209_181998
 *OSE:	www .
-*SON:	we can do a trade . 181905_182927
+*MAR:	we can do a trade . 181905_182927
 *OSE:	www .
-*SON:	right right . 190961_191936
+*MAR:	right right . 190961_191936
 *OSE:	www .
-*SON:	I don't think xxx is that much of a +/. 192586_193887
+*MAR:	I don't think xxx is that much of a +/. 192586_193887
 *OSE:	www .
-*SON:	+, difficult . 195698_196441
+*MAR:	+, difficult . 195698_196441
 *OSE:	www .
-*SON:	&=laugh . 198438_199459
-*SON:	&ka like Rodríguez@s:eng&spa or García@s:eng&spa . 199784_201317
-*SON:	was [/] was striker then . 201178_202478
+*MAR:	&=laugh . 198438_199459
+*MAR:	&ka like Rodríguez@s:eng&spa or García@s:eng&spa . 199784_201317
+*MAR:	was [/] was striker then . 201178_202478
 *OSE:	www .
-*SON:	striker then ask for too much . 202478_204754
+*MAR:	striker then ask for too much . 202478_204754
 *OSE:	www .
-*SON:	there is? 210280_211348
+*MAR:	there is? 210280_211348
 *OSE:	www .
-*SON:	this is how much it is . 220915_222633
+*MAR:	this is how much it is . 220915_222633
 *OSE:	www .
-*SON:	but you have to say this is +//. 222679_225001
+*MAR:	but you have to say this is +//. 222679_225001
 *OSE:	www .
-*SON:	right . 224769_225234
+*MAR:	right . 224769_225234
 *OSE:	www .
-*SON:	right right right right . 227091_228391
+*MAR:	right right right right . 227091_228391
 *OSE:	www .
-*SON:	well actually what it was claimed in my emails . 238097_240141
-*SON:	I picked up a few items . 239909_241905
-*SON:	uh that he is charging for . 242138_244227
-*SON:	they let me ask you a question . 243995_245388
-*SON:	and you may have been already on W@s:eng&spa . 245481_247200
-*SON:	the Insta_Hots@s:eng&spa that are down below . 247200_249243
-*SON:	he claimed that then we told them to move up a U@s:eng&spa . 249800_253051
-*SON:	is that true? 253005_254212
-*SON:	first we were never included . 255652_257509
+*MAR:	well actually what it was claimed in my emails . 238097_240141
+*MAR:	I picked up a few items . 239909_241905
+*MAR:	uh that he is charging for . 242138_244227
+*MAR:	they let me ask you a question . 243995_245388
+*MAR:	and you may have been already on W@s:eng&spa . 245481_247200
+*MAR:	the Insta_Hots@s:eng&spa that are down below . 247200_249243
+*MAR:	he claimed that then we told them to move up a U@s:eng&spa . 249800_253051
+*MAR:	is that true? 253005_254212
+*MAR:	first we were never included . 255652_257509
 *OSE:	www .
-*SON:	they may put them down here and they were settled [?] +/. 258485_261828
+*MAR:	they may put them down here and they were settled [?] +/. 258485_261828
 *OSE:	www .
-*SON:	the width is for a panel . 266332_268664
+*MAR:	the width is for a panel . 266332_268664
 *OSE:	www .
-*SON:	what we had [///] what &th the &mi xxx guy  just made made a panel to cover that . 268830_273576
-*SON:	but I have a picture like Defoes@s:eng&spa . 273576_276156
+*MAR:	what we had [///] what &th the &mi xxx guy  just made made a panel to cover that . 268830_273576
+*MAR:	but I have a picture like Defoes@s:eng&spa . 273576_276156
 *OSE:	www .
-*SON:	no . 276406_277072
-*SON:	this is why they need spaces in the dressing webs . 277155_280153
-*SON:	(be)cause thats the only ones that you see . 280153_282317
+*MAR:	no . 276406_277072
+*MAR:	this is why they need spaces in the dressing webs . 277155_280153
+*MAR:	(be)cause thats the only ones that you see . 280153_282317
 *OSE:	www .
-*SON:	and Defoe@s:eng&spa sent a picture and it clearly shows the Insta_Hot@s:eng&spa under the sink . 281568_286730
+*MAR:	and Defoe@s:eng&spa sent a picture and it clearly shows the Insta_Hot@s:eng&spa under the sink . 281568_286730
 *OSE:	www .
-*SON:	but I need to go look to see what my discusion with García@s:eng&spa was in terms of what they xxx extra money . 287812_294556
-*SON:	 and I think they said that yesterday they put on there and they had the moon to the top . 294556_300134
-*SON:	and I am like xxx I got a picture . 299634_301216
-*SON:	I got a xxx an A@s:eng&spa or U@s:eng&spa . 300550_302881
-*SON:	I don't know which one of this . 302548_304380
+*MAR:	but I need to go look to see what my discusion with García@s:eng&spa was in terms of what they xxx extra money . 287812_294556
+*MAR:	 and I think they said that yesterday they put on there and they had the moon to the top . 294556_300134
+*MAR:	and I am like xxx I got a picture . 299634_301216
+*MAR:	I got a xxx an A@s:eng&spa or U@s:eng&spa . 300550_302881
+*MAR:	I don't know which one of this . 302548_304380
 *OSE:	www .
-*SON:	well I mean just to check . 310124_311706
+*MAR:	well I mean just to check . 310124_311706
 *OSE:	www .
-*SON:	Miguel@s:eng&spa I saw Penélope@s:eng&spa . 322029_324111
-*SON:	at Versailles@s:eng&spa . 324277_325443
-*SON:	I had lunch with my mum and my brother . 325193_327191
-*SON:	<he was> [//] she was there with her nephew who just came from Cuba@s:eng&spa . 327108_330854
-*SON:	sí@s:spa he knows the story too already . 330438_333518
+*MAR:	Miguel@s:eng&spa I saw Penélope@s:eng&spa . 322029_324111
+*MAR:	at Versailles@s:eng&spa . 324277_325443
+*MAR:	I had lunch with my mum and my brother . 325193_327191
+*MAR:	<he was> [//] she was there with her nephew who just came from Cuba@s:eng&spa . 327108_330854
+*MAR:	sí@s:spa he knows the story too already . 330438_333518
 %eng:	yes, he knows the story too already.
 *OSE:	www .
-*SON:	sí@s:spa es funny . 335600_336349
+*MAR:	sí@s:spa es funny . 335600_336349
 %eng:	yes it's funny.
-*SON:	she pulls out and she's [//] she looks at me and I'm like +"/. 336432_338930
-*SON:	+" oh@s:eng&spa hi! 338291_338970
-*SON:	and like +"/. 338680_339429
-*SON:	+" I know who you are . 338847_340678
+*MAR:	she pulls out and she's [//] she looks at me and I'm like +"/. 336432_338930
+*MAR:	+" oh@s:eng&spa hi! 338291_338970
+*MAR:	and like +"/. 338680_339429
+*MAR:	+" I know who you are . 338847_340678
 *OSE:	www .
-*SON:	&=laugh . 343093_344758
-*SON:	I was telling my parents . 344092_345757
-*SON:	that she loves yelling with you . 345424_347672
-*SON:	cause you can talk in Spanish and she can say anything . 347339_350086
-*SON:	and give you the whole +... 350086_351668
+*MAR:	&=laugh . 343093_344758
+*MAR:	I was telling my parents . 344092_345757
+*MAR:	that she loves yelling with you . 345424_347672
+*MAR:	cause you can talk in Spanish and she can say anything . 347339_350086
+*MAR:	and give you the whole +... 350086_351668
 *OSE:	www .
-*SON:	&=laugh . 357995_360493
+*MAR:	&=laugh . 357995_360493
 *OSE:	www .
-*SON:	sí . 364322_364988
-*SON:	de +... 365321_365987
-*SON:	she does . 365904_366570
-*SON:	oh@s:eng&spa . 367986_369068
-*SON:	[- spa] chica pero ustedes son aquí +... 369651_371732
+*MAR:	sí . 364322_364988
+*MAR:	de +... 365321_365987
+*MAR:	she does . 365904_366570
+*MAR:	oh@s:eng&spa . 367986_369068
+*MAR:	[- spa] chica pero ustedes son aquí +... 369651_371732
 %eng:	girl, but you are, here...
-*SON:	[- spa] todo el mundo engordó y quieren continuar engordar la gente . 371649_375145
+*MAR:	[- spa] todo el mundo engordó y quieren continuar engordar la gente . 371649_375145
 %eng:	everybody put on weight and you want to continue putting on weight on the people.
 *OSE:	www .
-*SON:	[- spa] sí tú eres novelera . 377143_379058
+*MAR:	[- spa] sí tú eres novelera . 377143_379058
 %eng:	yes, you're imaginative.
-*SON:	[- spa] tú eres novelera . 378809_380474
+*MAR:	[- spa] tú eres novelera . 378809_380474
 &eng:	yes, you're imaginative.
-*SON:	Rebeca@s:eng&spa novelera@s:spa . 380224_381806
+*MAR:	Rebeca@s:eng&spa novelera@s:spa . 380224_381806
 %eng:	Rebeca's imaginative.
 *OSE:	www .
-*SON:	xxx Sanz@s:eng&spa . 382971_383970
+*MAR:	xxx Sanz@s:eng&spa . 382971_383970
 *OSE:	www .
-*SON:	[- spa] ay xxx que rica . 387467_388799
+*MAR:	[- spa] ay xxx que rica . 387467_388799
 %eng:	ah, so tasteful.
 *OSE:	www .
-*SON:	I didn't the apple . 390797_393211
-*SON:	[- spa] y de qué más tienes? 392212_393295
+*MAR:	I didn't the apple . 390797_393211
+*MAR:	[- spa] y de qué más tienes? 392212_393295
 %eng:	and what else do you have?
 *OSE:	www .
-*SON:	tomato . 394127_395043
-*SON:	cool . 395126_396292
+*MAR:	tomato . 394127_395043
+*MAR:	cool . 395126_396292
 *OSE:	www .
-*SON:	[- spa] dónde xxx? 397374_398706
+*MAR:	[- spa] dónde xxx? 397374_398706
 %eng:	where [...]?
 *OSE:	www .
-*SON:	[- spa] de lo más bien . 400371_401454
+*MAR:	[- spa] de lo más bien . 400371_401454
 %eng:	perfect.
 *OSE:	www .
-*SON:	[- spa] vino qué? 403535_404617
+*MAR:	[- spa] vino qué? 403535_404617
 %eng:	came what?
 *OSE:	www .
-*SON:	<mi@s:spa hermano@s:spa> [/] mi@s:spa hermano@s:spa llegó@s:spa el@s:spa sábado@s:spa antes@s:spa de@s:spa Christmas@s:eng . 404617_408780
+*MAR:	<mi@s:spa hermano@s:spa> [/] mi@s:spa hermano@s:spa llegó@s:spa el@s:spa sábado@s:spa antes@s:spa de@s:spa Christmas@s:eng . 404617_408780
 %eng:	my brother came the Saturday just before Christmas.
-*SON:	[- spa] y se fue el día después de año nuevo . 409196_412776
+*MAR:	[- spa] y se fue el día después de año nuevo . 409196_412776
 %eng:	and he went away the day after New Year.
-*SON:	[- spa] mi hermano mayor de Inglaterra llegó +//. 414108_416356
+*MAR:	[- spa] mi hermano mayor de Inglaterra llegó +//. 414108_416356
 %eng:	my elder bother from England came .
-*SON:	[- spa] bueno Gales . 415940_417105
+*MAR:	[- spa] bueno Gales . 415940_417105
 %eng:	well, Wales.
-*SON:	[- spa] llegó el domingo treinta . 416689_418021
+*MAR:	[- spa] llegó el domingo treinta . 416689_418021
 %eng:	he came on Sunday the thirtieth.
-*SON:	[- spa] y se va la semana que viene . 418770_420436
+*MAR:	[- spa] y se va la semana que viene . 418770_420436
 %eng:	and he is returning next week.
 *OSE:	www .
-*SON:	so he is still here . 420602_421768
+*MAR:	so he is still here . 420602_421768
 *OSE:	www .
-*SON:	[- spa] no . 422600_423433
+*MAR:	[- spa] no . 422600_423433
 %eng:	no.
-*SON:	[- spa] él sólo nada más . 422850_424099
+*MAR:	[- spa] él sólo nada más . 422850_424099
 %eng:	himself alone, nothing else.
 *OSE:	www .
-*SON:	[- spa] vino sólo nada más . 424432_426097
+*MAR:	[- spa] vino sólo nada más . 424432_426097
 %eng:	he came alone, nothing else.
 *OSE:	www .
-*SON:	eh@s:eng&spa y@s:spa +... 429177_430426
+*MAR:	eh@s:eng&spa y@s:spa +... 429177_430426
 %eng:	eh, and...
 *OSE:	www .
-*SON:	+, [- spa] se queda con mis papás . 430842_432507
+*MAR:	+, [- spa] se queda con mis papás . 430842_432507
 %eng:	he is staying with my parents.
 *OSE:	www .
-*SON:	y@s:spa después@s:spa mi@s:spa otro@s:spa hermano@s:spa que@s:spa se@s:spa mudó@s:spa pa(ra)@s:spa North_Carolina@s:eng&spa . 436670_439667
+*MAR:	y@s:spa después@s:spa mi@s:spa otro@s:spa hermano@s:spa que@s:spa se@s:spa mudó@s:spa pa(ra)@s:spa North_Carolina@s:eng&spa . 436670_439667
 %eng:	and then my other brother that moved to North Carolina.
-*SON:	[- spa] él y la señora vinieron el veintinueve . 439417_442581
+*MAR:	[- spa] él y la señora vinieron el veintinueve . 439417_442581
 %eng:	he and the wife came on the twenty-nine.
-*SON:	and they stay until the day after xxx . 442581_446078
+*MAR:	and they stay until the day after xxx . 442581_446078
 *OSE:	www .
-*SON:	yep um . 446661_448825
+*MAR:	yep um . 446661_448825
 *OSE:	www .
-*SON:	[- spa] el año pasado sí vinieron todos . 452239_454153
+*MAR:	[- spa] el año pasado sí vinieron todos . 452239_454153
 %eng:	las year everybody came.
-*SON:	[- spa] estábamos +//. 453895_454145
+*MAR:	[- spa] estábamos +//. 453895_454145
 %eng:	we were.
-*SON:	[- spa] te acuerdas? 454062_454645
+*MAR:	[- spa] te acuerdas? 454062_454645
 %eng:	do you remember?
-*SON:	[- spa] vinieron todos mis sobrinos . 454561_455810
+*MAR:	[- spa] vinieron todos mis sobrinos . 454561_455810
 %eng:	all my nephews came.
-*SON:	everybody was here . 456060_457142
+*MAR:	everybody was here . 456060_457142
 *OSE:	www .
-*SON:	[- spa] que xxx quieren ahora? 463969_465634
+*MAR:	[- spa] que xxx quieren ahora? 463969_465634
 %eng:	what [...] they want now?
 *OSE:	www .
-*SON:	[- spa] pero eso te lo tienen que haber mandado por correo a ti . 467549_470796
+*MAR:	[- spa] pero eso te lo tienen que haber mandado por correo a ti . 467549_470796
 %eng:	but they have to have sent it to you by mail.
 *OSE:	www .
-*SON:	[- spa] y ahora que te tiene que llegar? 471878_473627
+*MAR:	[- spa] y ahora que te tiene que llegar? 471878_473627
 %eng:	what has to come to you now?
 *OSE:	www .
-*SON:	yes . 477872_478372
+*MAR:	yes . 477872_478372
 *OSE:	www .
-*SON:	yo le metí a mi papá . 479621_480870
+*MAR:	yo le metí a mi papá . 479621_480870
 %eng:	I put Daddy on there.
-*SON:	mi@s:spa papá@s:spa tiene@s:spa Countrywhile@s:eng&spa . 480997_482142
+*MAR:	mi@s:spa papá@s:spa tiene@s:spa Countrywhile@s:eng&spa . 480997_482142
 %eng:	my father has Countrywhile.
-*SON:	le digo +"/. 481996_482433
+*MAR:	le digo +"/. 481996_482433
 %eng:	I say to him.
-*SON:	+" papi@s:spa fíate@s:spa de@s:spa Countrywide@s:eng&spa porque@s:spa (.) son@s:spa unos@s:spa estúpidos@s:spa . 482433_487970
+*MAR:	+" papi@s:spa fíate@s:spa de@s:spa Countrywide@s:eng&spa porque@s:spa (.) son@s:spa unos@s:spa estúpidos@s:spa . 482433_487970
 %eng:	Daddy rely on Countrywide because they are stupid.
 *OSE:	www .
-*SON:	no@s:spa te@s:spa acuerdas@s:spa que@s:spa a@s:spa él@s:spa le@s:spa [/] le@s:spa pagaron@s:spa dos@s:spa insurances? 488407_490156
+*MAR:	no@s:spa te@s:spa acuerdas@s:spa que@s:spa a@s:spa él@s:spa le@s:spa [/] le@s:spa pagaron@s:spa dos@s:spa insurances? 488407_490156
 %eng:	do you remember that he was paid two insurances? .
-*SON:	[- spa] te acuer(das)? 490822_491384
+*MAR:	[- spa] te acuer(das)? 490822_491384
 %eng:	do you remember?
 *OSE:	www .
-*SON:	[- spa] sí sí lo devolvieron . 491863_492716
+*MAR:	[- spa] sí sí lo devolvieron . 491863_492716
 %eng.	yes, they did return it.
 *OSE:	www .
-*SON:	y@s:spa está@s:spa de@s:spa lo@s:spa más@s:spa contento@s:spa porque@s:spa le@s:spa &deb mandaron@s:spa de@s:spa eh@s:eng&spa de@s:spa too much on the xxx . 494548_498899
+*MAR:	y@s:spa está@s:spa de@s:spa lo@s:spa más@s:spa contento@s:spa porque@s:spa le@s:spa &deb mandaron@s:spa de@s:spa eh@s:eng&spa de@s:spa too much on the xxx . 494548_498899
 %eng:	and he is most happy because they sent him from [...].
-*SON:	so he has got something like two hundred dollars back . 499544_501480
-*SON:	so he was all happy . 501792_502729
-*SON:	and I'm like . 502896_503104
-*SON:	he had [///] lucky you . 503062_503874
-*SON:	me? 503811_503999
-*SON:	&=laugh . 504207_504769
+*MAR:	so he has got something like two hundred dollars back . 499544_501480
+*MAR:	so he was all happy . 501792_502729
+*MAR:	and I'm like . 502896_503104
+*MAR:	he had [///] lucky you . 503062_503874
+*MAR:	me? 503811_503999
+*MAR:	&=laugh . 504207_504769
 *OSE:	www .
-*SON:	probably . 506247_506913
+*MAR:	probably . 506247_506913
 *OSE:	www .
-*SON:	I've got anything yet so . 511430_512554
-*SON:	I die . 512554_512887
+*MAR:	I've got anything yet so . 511430_512554
+*MAR:	I die . 512554_512887
 *OSE:	www .
-*SON:	[- spa] ya lo apagó? 523046_523816
+*MAR:	[- spa] ya lo apagó? 523046_523816
 %eng:	did he turn it off already?
 *OSE:	www .
 *OSE:	www .
-*SON:	[- spa] sí porque ya no se siente xxx tanto frío . 552288_555452
+*MAR:	[- spa] sí porque ya no se siente xxx tanto frío . 552288_555452
 %eng:	yes because it doesn't feel [...] so much cold.
 *OSE:	www .
-*SON:	haven't made it over yet so . 556271_558103
+*MAR:	haven't made it over yet so . 556271_558103
 *OSE:	www .
-*SON:	<we ha> [//] we don't ever get it in the right sun so . 559684_564014
-*SON:	what? 566262_567344
-*SON:	where you go? 570258_571423
+*MAR:	<we ha> [//] we don't ever get it in the right sun so . 559684_564014
+*MAR:	what? 566262_567344
+*MAR:	where you go? 570258_571423
 *OSE:	www .
-*SON:	I'm heading back my way . 573588_575419
+*MAR:	I'm heading back my way . 573588_575419
 *OSE:	www .
-*SON:	why? 577834_578666
-*SON:	cause it's freezing? 578333_579749
+*MAR:	why? 577834_578666
+*MAR:	cause it's freezing? 578333_579749
 *OSE:	www .
-*SON:	&=laugh on hot water? 585576_586825
-*SON:	&=laugh . 587075_587991
-*SON:	please xxx ask me for a tea to stick in there so at least you can drink it . 588157_592653
+*MAR:	&=laugh on hot water? 585576_586825
+*MAR:	&=laugh . 587075_587991
+*MAR:	please xxx ask me for a tea to stick in there so at least you can drink it . 588157_592653
 *OSE:	www .
-*SON:	it took me a couple of eh@s:eng&spa tries to drink the tea . 593735_596982
+*MAR:	it took me a couple of eh@s:eng&spa tries to drink the tea . 593735_596982
 *OSE:	www .
-*SON:	coño! 599397_600312
+*MAR:	coño! 599397_600312
 %com:	fuck!
-*SON:	we're up to sixty_five! 600063_601728
+*MAR:	we're up to sixty_five! 600063_601728
 *OSE:	www .
-*SON:	yes . 604642_605141
+*MAR:	yes . 604642_605141
 *OSE:	www .
-*SON:	[- spa] ay pero párate aquí . 606473_608055
+*MAR:	[- spa] ay pero párate aquí . 606473_608055
 %eng:	hey, stay here!
 *OSE:	www .
-*SON:	[- spa] no puede ser que tu seas tan enana que no puedas ver eso . 609054_612051
+*MAR:	[- spa] no puede ser que tu seas tan enana que no puedas ver eso . 609054_612051
 %eng:	it can't be that you are so small that you can't see it.
 *OSE:	www .
-*SON:	you need &sa [///] do you need glasses? 612634_615298
+*MAR:	you need &sa [///] do you need glasses? 612634_615298
 *OSE:	www .
-*SON:	Annete@s:eng&spa Smith@s:eng&spa do you need reading &gla? 614731_617413
+*MAR:	Annete@s:eng&spa Smith@s:eng&spa do you need reading &gla? 614731_617413
 *OSE:	www .
-*SON:	twenty in the xxx . 617296_618212
-*SON:	but you just &d . 618046_619211
-*SON:	I just saw you do like this . 618961_620377
+*MAR:	twenty in the xxx . 617296_618212
+*MAR:	but you just &d . 618046_619211
+*MAR:	I just saw you do like this . 618961_620377
 *OSE:	www .
-*SON:	she's &sh . 624206_625788
-*SON:	to see the +//. 625705_626621
-*SON:	she says you? 626454_627620
+*MAR:	she's &sh . 624206_625788
+*MAR:	to see the +//. 625705_626621
+*MAR:	she says you? 626454_627620
 *OSE:	www .
-*SON:	xxx those heels are high . 631116_632448
+*MAR:	xxx those heels are high . 631116_632448
 *OSE:	www .
-*SON:	the heel is like ten inches? 633031_635362
+*MAR:	the heel is like ten inches? 633031_635362
 *OSE:	www .
-*SON:	look at those things! 637111_638776
-*SON:	no no . 638026_638692
-*SON:	that's more than five . 638692_640524
+*MAR:	look at those things! 637111_638776
+*MAR:	no no . 638026_638692
+*MAR:	that's more than five . 638692_640524
 *OSE:	www .
-*SON:	xxx [!= laugh]. 644187_646269
+*MAR:	xxx [!= laugh]. 644187_646269
 *OSE:	www .
-*SON:	cause I think it's what we had . 653262_654344
-*SON:	and they cannot imitate it . 654011_655676
-*SON:	what we had in the other schools [?]. 655926_657841
+*MAR:	cause I think it's what we had . 653262_654344
+*MAR:	and they cannot imitate it . 654011_655676
+*MAR:	what we had in the other schools [?]. 655926_657841
 *OSE:	www .
-*SON:	&n no . 665417_666083
-*SON:	eh it was a camera . 666416_667748
-*SON:	it was a camera . 667665_668581
-*SON:	but they had to add here <was a> [/] was a C_C_T_V@s:eng thing . 669163_673576
+*MAR:	&n no . 665417_666083
+*MAR:	eh it was a camera . 666416_667748
+*MAR:	it was a camera . 667665_668581
+*MAR:	but they had to add here <was a> [/] was a C_C_T_V@s:eng thing . 669163_673576
 *OSE:	www .
-*SON:	yeah I think so too . 682401_683733
+*MAR:	yeah I think so too . 682401_683733
 *OSE:	www .
-*SON:	one here . 686064_687396
+*MAR:	one here . 686064_687396
 *OSE:	www .
-*SON:	that is excessive down below . 688229_689977
-*SON:	xxx you need one more exit up here . 690393_693890
-*SON:	and you will need so many over +/. 693723_695888
+*MAR:	that is excessive down below . 688229_689977
+*MAR:	xxx you need one more exit up here . 690393_693890
+*MAR:	and you will need so many over +/. 693723_695888
 *OSE:	www .
-*SON:	and you will need so many over here . 695472_698219
-*SON:	oh@s:eng&spa I know we went through all this with [/] with uh +... 697803_699884
-*SON:	the uh@s:eng A@s:eng&spa and U@s:eng&spa and V@s:eng&spa . 702299_705129
-*SON:	and he may have just copied it in you know . 704713_707793
+*MAR:	and you will need so many over here . 695472_698219
+*MAR:	oh@s:eng&spa I know we went through all this with [/] with uh +... 697803_699884
+*MAR:	the uh@s:eng A@s:eng&spa and U@s:eng&spa and V@s:eng&spa . 702299_705129
+*MAR:	and he may have just copied it in you know . 704713_707793
 *OSE:	www .
-*SON:	right . 710707_711789
-*SON:	xxx .
+*MAR:	right . 710707_711789
+*MAR:	xxx .
 *OSE:	www .
-*SON:	one of the projects . 716868_719366
+*MAR:	one of the projects . 716868_719366
 *OSE:	www .
-*SON:	right . 719449_720198
-*SON:	but if they're not going to put any doors at all then you don't need an exit time [?]. 720281_723695
-*SON:	it's just and opening . 723612_726775
+*MAR:	right . 719449_720198
+*MAR:	but if they're not going to put any doors at all then you don't need an exit time [?]. 720281_723695
+*MAR:	it's just and opening . 723612_726775
 *OSE:	www .
-*SON:	why would you &w xxx . 726858_729106
-*SON:	www .
-*SON:	why? 730105_731770
+*MAR:	why would you &w xxx . 726858_729106
+*MAR:	www .
+*MAR:	why? 730105_731770
 *OSE:	www .
-*SON:	because it's cold over here . 732603_734351
-*SON:	you think he's stupid? 734018_735600
+*MAR:	because it's cold over here . 732603_734351
+*MAR:	you think he's stupid? 734018_735600
 *OSE:	www .
-*SON:	that's fine . 742260_744092
+*MAR:	that's fine . 742260_744092
 *OSE:	www .
-*SON:	I don't even think they +//. 746016_747431
-*SON:	did they buy any R_A_U@s:eng&spa and V@s:eng&spa? 747930_750095
+*MAR:	I don't even think they +//. 746016_747431
+*MAR:	did they buy any R_A_U@s:eng&spa and V@s:eng&spa? 747930_750095
 *OSE:	www .
-*SON:	I've never seen the box . 750345_752593
+*MAR:	I've never seen the box . 750345_752593
 *OSE:	www .
-*SON:	that's right . 753841_754591
+*MAR:	that's right . 753841_754591
 *OSE:	www .
-*SON:	that's right . 755257_756173
+*MAR:	that's right . 755257_756173
 *OSE:	www .
-*SON:	right . 758254_759253
+*MAR:	right . 758254_759253
 *OSE:	www .
-*SON:	right right . 762084_762916
+*MAR:	right right . 762084_762916
 *OSE:	www .
-*SON:	I think that's what they did . 768078_769160
-*SON:	I think that's what they did . 769243_770326
-*SON:	I think that's what they did . 770159_771491
+*MAR:	I think that's what they did . 768078_769160
+*MAR:	I think that's what they did . 769243_770326
+*MAR:	I think that's what they did . 770159_771491
 *OSE:	www .
-*SON:	but our +/. 771242_772407
+*MAR:	but our +/. 771242_772407
 *OSE:	www .
-*SON:	no . 774155_775987
+*MAR:	no . 774155_775987
 *OSE:	www .
-*SON:	right . 776487_777069
+*MAR:	right . 776487_777069
 *OSE:	www .
-*SON:	yeah . 780649_781315
-*SON:	<I think you> [/] I think you do . 781149_782647
-*SON:	personally . 782148_783397
+*MAR:	yeah . 780649_781315
+*MAR:	<I think you> [/] I think you do . 781149_782647
+*MAR:	personally . 782148_783397
 *OSE:	www .
-*SON:	where else &=laugh . 785811_787476
-*SON:	yeah well . 787976_788891
+*MAR:	where else &=laugh . 785811_787476
+*MAR:	yeah well . 787976_788891
 *OSE:	www .
-*SON:	no he didn't . 794969_795718
-*SON:	no he didn't . 795552_796134
-*SON:	has anybody complained? 796884_798299
+*MAR:	no he didn't . 794969_795718
+*MAR:	no he didn't . 795552_796134
+*MAR:	has anybody complained? 796884_798299
 *OSE:	www .
-*SON:	we &d [//] I think he just forgot about it . 798799_801379
-*SON:	we gave him for here . 800880_802295
-*SON:	we told him that there's a way to this back here . 801962_805043
-*SON:	<the school> [//] all schools says there were interested in this one . 804959_808706
-*SON:	they [/] they couldn't care less about this one . 808123_809455
-*SON:	particularly when you have a fence . 809788_811037
+*MAR:	we &d [//] I think he just forgot about it . 798799_801379
+*MAR:	we gave him for here . 800880_802295
+*MAR:	we told him that there's a way to this back here . 801962_805043
+*MAR:	<the school> [//] all schools says there were interested in this one . 804959_808706
+*MAR:	they [/] they couldn't care less about this one . 808123_809455
+*MAR:	particularly when you have a fence . 809788_811037
 *OSE:	www .
-*SON:	and <we need to> [/] we need to make sure we have a way to fence just like we did in the U_V@eng&spa . 811287_816781
-*SON:	a way to close this . 816865_819279
-*SON:	in other words the entrance here is a little bit different . 821111_823359
+*MAR:	and <we need to> [/] we need to make sure we have a way to fence just like we did in the U_V@eng&spa . 811287_816781
+*MAR:	a way to close this . 816865_819279
+*MAR:	in other words the entrance here is a little bit different . 821111_823359
 *OSE:	www .
-*SON:	you know what I'm saying right? 824441_826356
-*SON:	that R_A_U@s:eng&spa and V@s:eng&spa we +/. 826106_828354
+*MAR:	you know what I'm saying right? 824441_826356
+*MAR:	that R_A_U@s:eng&spa and V@s:eng&spa we +/. 826106_828354
 *OSE:	www .
-*SON:	right . 828437_829353
-*SON:	they need to be able to [/] to +... 829186_831018
-*SON:	because visitors are parking here . 831059_833544
-*SON:	and they could theoretically sneak in back here . 832987_836353
-*SON:	the layout is a little bit different here . 836307_838141
+*MAR:	right . 828437_829353
+*MAR:	they need to be able to [/] to +... 829186_831018
+*MAR:	because visitors are parking here . 831059_833544
+*MAR:	and they could theoretically sneak in back here . 832987_836353
+*MAR:	the layout is a little bit different here . 836307_838141
 *OSE:	www .
-*SON:	cause there are U@s:eng&spa and V@s:eng&spa the +/. 838606_839929
-*SON:	we may have those . 840974_841624
+*MAR:	cause there are U@s:eng&spa and V@s:eng&spa the +/. 838606_839929
+*MAR:	we may have those . 840974_841624
 *OSE:	www .
-*SON:	<we may have to find> [/] we may have to find a different +/. 843041_845734
+*MAR:	<we may have to find> [/] we may have to find a different +/. 843041_845734
 *OSE:	www .
-*SON:	mm . 845804_846454
+*MAR:	mm . 845804_846454
 *OSE:	www .
-*SON:	for the F_B_O@s:eng&spa . 851005_851563
-*SON:	mm .
+*MAR:	for the F_B_O@s:eng&spa . 851005_851563
+*MAR:	mm .
 *OSE:	www .
-*SON:	but +/. 854401_855074
+*MAR:	but +/. 854401_855074
 *OSE:	www .
-*SON:	it's better . 856607_857350
+*MAR:	it's better . 856607_857350
 *OSE:	www .
-*SON:	xxx . 858747_859513
+*MAR:	xxx . 858747_859513
 *OSE:	www .
-*SON:	right . 870231_870672
+*MAR:	right . 870231_870672
 *OSE:	www .
-*SON:	this is where the tank is? 871230_872368
-*SON:	is it? 872484_872855
+*MAR:	this is where the tank is? 871230_872368
+*MAR:	is it? 872484_872855
 *OSE:	www .
-*SON:	that's supposed to be the +... 873598_874829
+*MAR:	that's supposed to be the +... 873598_874829
 *OSE:	www .
-*SON:	this is where the tank for the [/] the eh@s:eng&spa gas is? 879055_882584
+*MAR:	this is where the tank for the [/] the eh@s:eng&spa gas is? 879055_882584
 *OSE:	www .
-*SON:	so what's that? 885046_886021
+*MAR:	so what's that? 885046_886021
 *OSE:	www .
-*SON:	oh@s:eng&spa they haven't updated the drawings . 888366_890131
-*SON:	o_k . 890015_890526
-*SON:	o_k xxx . 890200_892522
-*SON:	I xxx oops@s:eng&spa! 892917_894798
+*MAR:	oh@s:eng&spa they haven't updated the drawings . 888366_890131
+*MAR:	o_k . 890015_890526
+*MAR:	o_k xxx . 890200_892522
+*MAR:	I xxx oops@s:eng&spa! 892917_894798
 *OSE:	www .
-*SON:	oops@:eng&spa! 895495_896331
+*MAR:	oops@:eng&spa! 895495_896331
 *OSE:	www .
-*SON:	yeah, that's fine . 897190_898351
+*MAR:	yeah, that's fine . 897190_898351
 *OSE:	www .
-*SON:	oh@s:eng&spa the xxx be here . 901160_904086
+*MAR:	oh@s:eng&spa the xxx be here . 901160_904086
 *OSE:	www .
-*SON:	some xxx . 906245_907755
+*MAR:	some xxx . 906245_907755
 *OSE:	www .
-*SON:	and then how would they access? 912283_913699
-*SON:	xxx . 913444_915023
+*MAR:	and then how would they access? 912283_913699
+*MAR:	xxx . 913444_915023
 *OSE:	www .
-*SON:	oh@eng&spa there'd still be a gate o_k . 916114_917716
+*MAR:	oh@eng&spa there'd still be a gate o_k . 916114_917716
 *OSE:	www .
-*SON:	split it in that . 918947_919574
-*SON:	it's a good idea . 919597_920758
+*MAR:	split it in that . 918947_919574
+*MAR:	it's a good idea . 919597_920758
 *OSE:	www .
-*SON:	that's a good idea . 921246_922174
-*SON:	cause it at least hides it . 922360_923405
-*SON:	cause those things are uglier so . 923521_924891
+*MAR:	that's a good idea . 921246_922174
+*MAR:	cause it at least hides it . 922360_923405
+*MAR:	cause those things are uglier so . 923521_924891
 *OSE:	www .
-*SON:	that's a good idea . 926842_927956
+*MAR:	that's a good idea . 926842_927956
 *OSE:	www .
-*SON:	yeah right that . 933691_934643
+*MAR:	yeah right that . 933691_934643
 *OSE:	www .
-*SON:	it's a good idea . 936919_937523
-*SON:	uh xxx see . 938637_939450
-*SON:	what is this thing called again? 939404_941168
+*MAR:	it's a good idea . 936919_937523
+*MAR:	uh xxx see . 938637_939450
+*MAR:	what is this thing called again? 939404_941168
 *OSE:	www .
-*SON:	that's the one . 944535_945766
-*SON:	 now there's water starting to stand up again . 947205_952337
+*MAR:	that's the one . 944535_945766
+*MAR:	 now there's water starting to stand up again . 947205_952337
 *OSE:	www .
-*SON:	after you haunted me for that recommendation . 955170_959117
+*MAR:	after you haunted me for that recommendation . 955170_959117
 *OSE:	www .
-*SON:	and you killed my poor plant . 960510_962647
+*MAR:	and you killed my poor plant . 960510_962647
 *OSE:	www .
-*SON:	[- spa] dígame . 964319_965108
+*MAR:	[- spa] dígame . 964319_965108
 %eng:	tell me.
 *OSE:	www .
-*SON:	&=laugh . 966873_967500
-*SON:	oh@s:eng&spa oh@s:eng&spa . 967384_968127
-*SON:	that's a lot of water that has been used . 971498_973820
-*SON:	there is in there . 973890_975469
+*MAR:	&=laugh . 966873_967500
+*MAR:	oh@s:eng&spa oh@s:eng&spa . 967384_968127
+*MAR:	that's a lot of water that has been used . 971498_973820
+*MAR:	there is in there . 973890_975469
 *OSE:	www .
-*SON:	I put some water and it's coming back and starting +/. 981552_983851
+*MAR:	I put some water and it's coming back and starting +/. 981552_983851
 *OSE:	www .
-*SON:	wow I have no idea . 984803_986916
-*SON:	haven' gone to that point yet . 986916_988379
+*MAR:	wow I have no idea . 984803_986916
+*MAR:	haven' gone to that point yet . 986916_988379
 *OSE:	www .
-*SON:	I don't know . 988147_988867
-*SON:	I think it's not edible or not for consumption or someth(ing) +//. 989099_992675
+*MAR:	I don't know . 988147_988867
+*MAR:	I think it's not edible or not for consumption or someth(ing) +//. 989099_992675
 *OSE:	www .
-*SON:	hey Goldman@s:eng&spa . 995182_996645
-*SON:	there's a pie up hang lonely out here . 998699_1001346
+*MAR:	hey Goldman@s:eng&spa . 995182_996645
+*MAR:	there's a pie up hang lonely out here . 998699_1001346
 *OSE:	www .
-*SON:	oh@s:eng&spa you are work(ing)! 1002321_1003343
-*SON:	I'm so sorry . 1003459_1004480
-*SON:	I humbly beg forgiveness . 1005293_1007081
+*MAR:	oh@s:eng&spa you are work(ing)! 1002321_1003343
+*MAR:	I'm so sorry . 1003459_1004480
+*MAR:	I humbly beg forgiveness . 1005293_1007081
 *OSE:	www .
 @End

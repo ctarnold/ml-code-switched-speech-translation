@@ -3,19 +3,15 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|MAR|(age;)|female|||Adult||
+@ID:	spa, eng|bangor3|MAR|45;|female|||Adult||
 @ID:	spa, eng|bangor3|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleague.
-@Comment:	MAR background?
 @Date:	JAN-2008
 @Comment:	MAR is wearing a microphone to record conversation
-@Coder:	Maria Carmen Parafita Couto, Prifysgol Bangor University
+@Transcriber:	Maria Carmen Parafita Couto, Fraibet Aveledo, Lara Gil Vallejo
 @Time Duration:	01:38:40
-@Comment:	Filename: maria18.cha
-@Media:		MAR18.wav
+@Media:		MAR18, audio
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
-@Warning:	Soundfile is mono
-@Warning:	Other speakers' speech have been edited using bleeps.
 *OSE:	www .
 *MAR:	[- spa] sí no . 11779_12104
 %eng:	yes, no.

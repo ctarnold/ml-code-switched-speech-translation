@@ -2,21 +2,16 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	eng, spa|Maria|MAR|(age;)|female|||Adult||
+@ID:	eng, spa|Maria|MAR|45;|female|||Adult||
 @ID:	eng, spa|Maria|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleague.
-@Comment:	MAR background?
 @Date:	JAN-2008
 @Comment:	MAR is wearing a recorder to tape conversation
-@Coder:	Maria Carmen Parafita Couto, Prifysgol Bangor University
+@Transcriber:	Maria Carmen Parafita Couto
 @Time Duration:	00:17:32
-@Media:	MAR6.wav
-@Comment:	Filename: maria10.CHA; Soundfile: maria10.wav
-@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
-@Warning:	Soundfile is mono
-@Warning:	Other speakers' speech have been edited using bleeps.
-%com:	someone is dialing numbers on a phone.
-%com:	when the speaker is on the phone and in some other cases inaudible interlocutor words are not transcribed.
+@Media:	MAR6, audio
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English,
+@s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *MAR:	good morning Martha@s:eng&spa . 24643_25476
 *MAR:	this is María@s:eng&spa . 25548_25919
 *MAR:	this is Tom@s:eng&spa there? 25902_26715

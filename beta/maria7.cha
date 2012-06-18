@@ -3,18 +3,16 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	eng, spa|Miami|MAR|(age;)|female|||Adult||
+@ID:	eng, spa|Miami|MAR|45;|female|||Adult||
 @ID:	eng, spa|Miami|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleague.
-@Comment:	MAR background?
 @Date:	JAN-2008
 @Comment:	MAR is wearing a microphone to record conversation
-@Coder:	Maria Carmen Parafita Couto, Prifysgol Bangor University
-@Time Duration:	04:35:42
-@Media: maria7.CHA; Soundfile: maria7.wav
-@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
-@Warning:	Soundfile is mono
-@Warning:	Other speakers' speech have been edited using bleeps.
+@Trancriber:	Maria Carmen Parafita Couto, Lara Gil Vallejo
+@Time Duration:	00:04:35
+@Media: maria7, audio
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English,
+@s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MAR:	which movie ? 801_1295
 *OSE:	www .
 %Comment:	several speakers in background, the speaker is in a phone conversation

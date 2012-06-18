@@ -3,19 +3,15 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|MAR|(age;)|female|||Adult||
+@ID:	spa, eng|bangor3|MAR|45;|female|||Adult||
 @ID:	spa, eng|bangor3|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleague.
-@Comment:	MAR background?
 @Date:	JAN-2008
 @Comment:	MAR is wearing a microphone to record conversation
-@Coder:	Maria Carmen Parafita Couto, Prifysgol Bangor University
+@Transcriber:	Maria Carmen Parafita Couto, Fraibet Aveledo, Lara Gil Vallejo
 @Time Duration:	02:41:36
-@Comment:	Filename: maria16.cha; Soundfile: MAR16.wav
-@Media:	MAR16.wav
+@Media:	MAR16, audio
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
-@Warning:	Soundfile is mono
-@Warning:	Other speakers' speech have been edited using bleeps.
 *OSE:	www .
 *MAR:	&=cough . 19911_20811
 *MAR:	[- spa] aló papi . 28184_28735
@@ -1017,7 +1013,7 @@
 *OSE:	www .
 *MAR:	what do they taste like? 6177638_6179072
 *OSE:	www .
-*MAR:	thank you. 6183262_6183732
+*MAR:	thank you . 6183262_6183732
 *OSE:	www .
 *MAR:	all [?] taste like bagel chips . 6208712_6210140
 *OSE:	www .
