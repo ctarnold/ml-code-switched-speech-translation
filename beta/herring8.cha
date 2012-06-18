@@ -5,9 +5,9 @@
 @Participants:	MEL Melanie Adult, ROB Robert Adult, OSE non_participant Child, OSA non_participant Teenager, OSB non_participant Adult
 @ID:	eng, spa|Miami|MEL|39;|female|||Adult|
 @ID:	eng, spa|Miami|ROB|42;|male|||Adult||
-@ID:	eng, spa|Miami|OSE|?;|female|||Child|
-@ID:	eng, spa|Miami|OSA|?;|female|||Teenager|
-@ID:	eng, spa|Miami|OSB|?;|male|||Adult|
+@ID:	eng, spa|Miami|OSE||female|||Child|
+@ID:	eng, spa|Miami|OSA||female|||Teenager|
+@ID:	eng, spa|Miami|OSB||male|||Adult|
 @Situation:	Informal conversation between a couple in their garden;  their children join them for a while
 @Date:	21-MAR-2008
 @Transcriber:	M. Carmen Parafita Couto and Marika Fusser, Bangor University.  Original translation by Kevin Donnelly
