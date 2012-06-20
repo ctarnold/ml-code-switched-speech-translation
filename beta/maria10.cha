@@ -10,8 +10,7 @@
 @Transcriber:	Maria Carmen Parafita Couto
 @Time Duration:	00:17:32
 @Media:	MAR6, audio
-@Comment:	Language markers : @s:spa = Spanish, @s:eng = English,
-@s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *MAR:	good morning Martha@s:eng&spa . 24643_25476
 *MAR:	this is María@s:eng&spa . 25548_25919
 *MAR:	this is Tom@s:eng&spa there? 25902_26715
@@ -76,11 +75,11 @@
 %eng:	fuck [...]
 *MAR:	[- spa] pero ustedes son blanquitos . 146136_147762
 %eng:	but you are white.
-*MAR:	[- spa] qué hacen ustedes dando ese día? 147460_149329
+*MAR:	[- spa] qué hacen ustedes dando ese día ? 147460_149329
 %eng:	what are you doing giving that day?
 *MAR:	&=laugh . 149681_151666
 %com:	pause.
-MAR:	oh@s:eng&spa verdad@s:spa verdad@s:spa verdad@s:spa. 152026_153535
+*MAR:	h@s:eng&spa verdad@s:spa verdad@s:spa verdad@s:spa . 152026_153535
 %eng:	oh, that's true, that's true, that's true.
 *MAR:	so sorry so sorry . 153675_155289
 *MAR:	&=laugh . 154309_155203

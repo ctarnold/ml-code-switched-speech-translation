@@ -21,7 +21,7 @@
 %com:	pause. Another conversation goes on in which Maria doesn't take part. She is still handling some heavy boxes and she is panting. Then she is using a pen to write something on boxes or similar. During the first few minutes, her jewellery or something else is tinkling. There is no conversation for a few minutes.
 *MAR:	&=clicking_noises . 41163_43833
 *MAR:	ah@s:eng&spa &=noise &=pants . 45354_48148
-*MAR:	[-spa] &=bang ay coño ! 51722_53571
+*MAR:	[- spa] &=bang ay coño ! 51722_53571
 %eng:	oh, damn it!
 *MAR:	ah@s:eng&spa &=coughs &=sniffs . 70216_73585
 *MAR:	tsk@s:eng&spa &=noise all right huh@s:eng&spa [=! pants] . 73626_77941
@@ -47,13 +47,13 @@
 %com:	background conversations in which Maria doesn't take part. She is still busy with boxes, etc.
 *MAR:	ok@s:eng&spa [=! sighs] . 213185_214376
 *MAR:	ay@s:eng&spa ugh@s:eng&spa ugh@s:eng&spa &=noise . 220293_224032
-*MAR:	[-spa] a ver qué es to esta (.) &=sighs qué es to esta mierda que me  mandaron esta gente ! 231469_237386
+*MAR:	[- spa] a ver qué es to esta (.) &=sighs qué es to esta mierda que me  mandaron esta gente ! 231469_237386
 %eng:	Let's see what's all this shit this people sent me.
 *OSE:	www .
 *MAR:	no@s:eng&spa I brought some lunch thank you . 238824_240549
 *OSE:	+< www .
 *MAR:	&=tapping_noises . 241370_242890
-*MAR:	[-spa] ay dios mío (.) &=noise qué es to esta mierda . 245312_248783
+*MAR:	[- spa] ay dios mío (.) &=noise qué es to esta mierda . 245312_248783
 %eng:	oh my god, what's all this shit?
 *MAR:	&=squeals . 249945_250438
 *MAR:	wow as long as you don't put any peppers on mine . 258168_262277
@@ -240,7 +240,7 @@
 *MAR:	I'm gonna sit there and have lunch with you . 1123730_1125160
 %com:	pause, Maria is pouring some water in a glass or bottle. Then she sits to have lunch and chats to a colleague. For the remaining of the recording, Maria is eating so at times her utterances are not very clear.
 *OSE:	www .
-*MAR:	[-spa] a ver . 1159025_1159457
+*MAR:	[- spa] a ver . 1159025_1159457
 %eng:	let's see.
 *OSE:	www .
 *MAR:	Liam@s:eng&spa you can't even see it whatever it is that she does . 1169954_1173248
@@ -253,49 +253,49 @@
 *OSE:	www .
 *MAR:	pennywise poundfool . 1188790_1190128
 %com:	Maria is handling plates and food containers. There is a lot of background noise.
-*MAR:	[-spa] quieres probar un poquitico [=! handles_kitchenware] ? 1191331_1192175
+*MAR:	[- spa] quieres probar un poquitico [=! handles_kitchenware] ? 1191331_1192175
 %eng:	do you wanna taste a little bit?
 *OSE:	+< www .
 *OSE:	www .
 *MAR:	ay@s:eng&spa mija@s:spa [?] me@s:spa traje@s:spa un@s:spa platico@s:spa [=! opens_a_food_container] . 1193472_1194460
 %eng:	bring me a little dish.
 *OSE:	www .
-*MAR:	[-spa] tienes un platico o no [=! opens_a_food_container] ?  1196566_1197146
+*MAR:	[- spa] tienes un platico o no [=! opens_a_food_container] ?  1196566_1197146
 %eng:	do you have a little dish?
 *OSE:	www .
 *MAR:	ok@s:eng&spa [=! whispers] . 1198249_1198413
 *OSE:	www .
-*MAR:	+< [-spa] mira . 1199956_1200327
+*MAR:	+< [- spa] mira . 1199956_1200327
 %eng:	look
 *OSE:	www .
 %com:	Maria is preparing for her lunch. She is opening food containers, etc. There are background noises and she doesn't take part in the conversation for a bit.
 *OSE:	www .
 *MAR:	they went to lunch &=noises aw@s:eng&spa . 1225603_1227411
 %com:	noises of cutlery.
-*MAR:	[-spa] ay coño [=! whisper] . 1236776_1239159
+*MAR:	[- spa] ay coño [=! whisper] . 1236776_1239159
 %eng:	oh, damn
 *MAR:	tienes@s:spa paper towel por@s:spa casualidad@s:spa ? 1240309_1241788
 %eng:	do you have paper towel by any chance?
 *OSE:	www .
 *MAR:	we have too many eggs [=! handles_kitchenware] . 1245635_1246950
-*MAR:	[-spa] quieres huevo duro [=! handles_kitchenware] ? 1247133_1247969
+*MAR:	[- spa] quieres huevo duro [=! handles_kitchenware] ? 1247133_1247969
 %eng:	do you want a boiled egg?
 *OSE:	www .
-*MAR:	[-spa] en mi casa tengo tanto huevo duro &=laughs [=! handles_kitchenware] . 1248429_1251141
+*MAR:	[- spa] en mi casa tengo tanto huevo duro &=laughs [=! handles_kitchenware] . 1248429_1251141
 %eng:	at home I have so many boiled eggs...
 *MAR:	oh@s:eng&spa thank you [=! handles_kitchenware] . 1254514_1256240
 *OSE:	www .
 %com:	background noises. A phone is ringing.
-*MAR:	[-spa] te están llamando a la hora del almuerzo . 1263882_1264663
+*MAR:	[- spa] te están llamando a la hora del almuerzo . 1263882_1264663
 %eng:	they're calling you at lunch time
-*MAR:	[-spa] se creen . 1265238_1266142
+*MAR:	[- spa] se creen . 1265238_1266142
 %eng:	who do they think they are?
-*MAR:	[-spa] no pero eso no es el mío . 1268306_1268840
+*MAR:	[- spa] no pero eso no es el mío . 1268306_1268840
 %eng:	no, but that's not mine.
 %com:	a recorded message can be heard, similar to an announcement or a voice mail message.
 *MAR:	tsk@s:eng&spa . 1270499_1270789
 *MAR:	&=phone_rings <I'm coming> [//] <here I come> [/] here I come [?] . 1272620_1274798
-*MAR:	[-spa] mi marido . 1275126_1275907
+*MAR:	[- spa] mi marido . 1275126_1275907
 %eng:	my husband
 *MAR:	yes ? 1276236_1277140
 %com:	Maria is speaking on the phone. The other person can't be heard.
@@ -314,7 +314,7 @@
 *MAR:	yes so they know who to deliver it to . 1347451_1349506
 *MAR:	ok@s:eng&spa bye . 1353508_1354658
 %com:	Maria puts the phone down.
-*MAR:	[-spa] sírvete . 1360739_1361479
+*MAR:	[- spa] sírvete . 1360739_1361479
 %eng:	help yourself
 *OSE:	www .
 %com:	brief pause.
@@ -322,7 +322,7 @@
 *MAR:	uhhuh@s:eng&spa [=! eats] . 1382124_1382494
 *OSE:	www .
 *MAR:	actually I need to find out what he's doing [=! eats] . 1382740_1384959
-*MAR:	[-spa] no siga yendo tanto [=! eats] . 1385792_1387312
+*MAR:	[- spa] no siga yendo tanto [=! eats] . 1385792_1387312
 %eng:	not continue doing so.
 *OSE:	www .
 *MAR:	I think he's working with Robert@s:eng&spa [=! eats] . 1394609_1395735
@@ -381,7 +381,7 @@
 *OSE:	www .
 *MAR:	+, like [//] you can make like a curry you know with (.) +//. 1579353_1582517
 *OSE:	+< www .
-*MAR:	[-spa] se lo echas a lo último porque se pone suavecito . 1582435_1584448
+*MAR:	[- spa] se lo echas a lo último porque se pone suavecito . 1582435_1584448
 %eng:	you put it at the very last, because it gets soft
 *MAR:	it's pretty good isn't it ? 1587235_1587892
 *OSE:	www .
@@ -399,18 +399,18 @@
 *OSE:	www .
 *MAR:	they have good furniture [=! eats] . 1644468_1645020
 *OSE:	www .
-*MAR:	[-spa] ay por favor &=noise . 1667339_1667873
+*MAR:	[- spa] ay por favor &=noise . 1667339_1667873
 %eng:	oh, please
 *OSE:	www .
 *MAR:	yep [=! eats] . 1673951_1674526
-*MAR:	[-spa] que estén bien hechos [=! eats] . 1675225_1676211
+*MAR:	[- spa] que estén bien hechos [=! eats] . 1675225_1676211
 %eng:	let them be well made.
 *OSE:	www .
 *MAR:	<with xxx parker wood> [//] parker wood &=laughs [=! eats] . 1692463_1695544
 *OSE:	www .
 *MAR:	uhhuh@s:eng&spa [=! eats] . 1709993_1710651
 *OSE:	www .
-*MAR:	[-spa] coge más [=! eats] . 1720263_1721166
+*MAR:	[- spa] coge más [=! eats] . 1720263_1721166
 %eng:	take more
 *OSE:	www .
 *MAR:	they do [=! eats] . 1724453_1725521
@@ -470,10 +470,10 @@
 *OSE:	www .
 *MAR:	+< &=coughs . 1891971_1892423
 *OSE:	www .
-*MAR:	[-spa] coge más [=! eats] . 1909584_1909912
+*MAR:	[- spa] coge más [=! eats] . 1909584_1909912
 %eng:	take more
 *OSE:	www .
-*MAR:	[-spa] lo que &=noise ? 1920675_1921003
+*MAR:	[- spa] lo que &=noise ? 1920675_1921003
 %eng:	what?
 *OSE:	www .
 *MAR:	sí@s:spa los@s:spa avocados están@s:spa caros@s:spa &=coughs [=! eats_from_a_package] . 1921743_1924947
@@ -510,9 +510,9 @@
 *OSE:	+< www .
 *MAR:	right [=! eats] . 1993234_1993521
 *OSE:	www .
-*MAR:	[-spa] ves ? 1995881_1996014
+*MAR:	[- spa] ves ? 1995881_1996014
 %eng:	you see it?
-*MAR:	[-spa] y tienen el mismo +//. 1996090_1996769
+*MAR:	[- spa] y tienen el mismo +//. 1996090_1996769
 %eng:	and they have the same...
 *MAR:	míralo@s:spa aquí@s:spa be(cause) es@s:spa el@s:spa mismo@s:spa simbolito@s:spa . 1996862_1998865
 %eng:	take a look here, it seems to be the same symbol.
@@ -526,25 +526,25 @@
 *MAR:	Mona@s:eng&spa acábatelo@s:spa . 2030390_2031048
 %eng:	Mona, finish it.
 *OSE:	www .
-*MAR:	[-spa] acábatelo &=noise . 2032075_2032938
+*MAR:	[- spa] acábatelo &=noise . 2032075_2032938
 %eng:	finish it
-*MAR:	[-spa] no si yo traje mis cubiertos porque dije [=! eats] +"/. 2042745_2044727
+*MAR:	[- spa] no si yo traje mis cubiertos porque dije [=! eats] +"/. 2042745_2044727
 %eng:	no, but I brought my cutlery because I said
-*MAR:	+" [-spa] no hay cuchillo [=! eats] . 2044861_2045919
+*MAR:	+" [- spa] no hay cuchillo [=! eats] . 2044861_2045919
 %eng:	there's no knife
 *MAR:	&=laughs . 2047367_2048148
 *OSE:	www .
-*MAR:	[-spa] sí to (e)l mundo está comiendo [=! eats] . 2058338_2059817
+*MAR:	[- spa] sí to (e)l mundo está comiendo [=! eats] . 2058338_2059817
 %eng:	yes, everyone's eating
 *OSE:	www .
 *MAR:	right [=! eats] . 2062028_2062214
-*MAR:	+< [-spa] pero ahora to (e)l mundo . 2062636_2063390
+*MAR:	+< [- spa] pero ahora to (e)l mundo . 2062636_2063390
 %eng:	but now everyone.
 *OSE:	+< www .
-*MAR:	[-spa] ca(si) [//] de aquí casi to (e)l mundo . 2069977_2071476
+*MAR:	[- spa] ca(si) [//] de aquí casi to (e)l mundo . 2069977_2071476
 %eng:	here almost everyone.
 *OSE:	www .
-*MAR:	[-spa] qué raro exacto porque ella +//. 2080601_2082737
+*MAR:	[- spa] qué raro exacto porque ella +//. 2080601_2082737
 %eng:	that's strange, exactly, because she...
 *MAR:	me@s:spa estaba@s:spa diciendo@s:spa Emily@s:eng&spa +//. 2084462_2085941
 %eng:	she was telling me that
@@ -562,7 +562,7 @@
 %eng:	says Lorrie
 *MAR:	+" tú@s:spa te@s:spa imaginas@s:spa ella@s:spa tratar@s:spa de@s:spa conseguir@s:spa un@s:spa daycare [=! handles_kitchenware] . 2114337_2117286
 %eng:	can you picture her trying to get a daycare?
-*MAR:	[-spa] no va a poder . 2118587_2119368
+*MAR:	[- spa] no va a poder . 2118587_2119368
 %eng:	she won't be able to.
 *OSE:	www .
 *MAR:	no@s:eng&spa I thought she's moving to +... 2124913_2126639
@@ -573,18 +573,18 @@
 *OSE:	www .
 *MAR:	no@s:eng&spa [/] no@s:eng&spa xxx [=! eats] . 2165532_2167010
 *OSE:	www .
-*MAR:	[-spa] la mamá y todas las amistades porque los papás llevan aquí muchos años [=! eats] . 2174733_2179251
+*MAR:	[- spa] la mamá y todas las amistades porque los papás llevan aquí muchos años [=! eats] . 2174733_2179251
 %eng:	her mom and all the friendships because it's been many years since their parents are here
 *OSE:	www .
 *MAR:	&=laughs . 2188124_2189521
 *OSE:	www .
-*MAR:	[-spa] como dice el [/] el [/] el dicho "/. 2191480_2192671
+*MAR:	[- spa] como dice el [/] el [/] el dicho "/. 2191480_2192671
 %eng:	how's that saying?
-*MAR:	+" [-spa] estás peor que los cómicos malos . 2192806_2193956
+*MAR:	+" [- spa] estás peor que los cómicos malos . 2192806_2193956
 %eng:	you're worst than a bad comedian
-*MAR:	+" [-spa] dices que te vas y te vas . 2193997_2194819
+*MAR:	+" [- spa] dices que te vas y te vas . 2193997_2194819
 %eng:	you keep on saying that you're leaving...
-*MAR:	+" [-spa] y no te vas . 2195024_2195600
+*MAR:	+" [- spa] y no te vas . 2195024_2195600
 %eng:	and you don't go.
 *OSE:	www .
 *MAR:	yep [=! eats] . 2213410_2213615
@@ -593,7 +593,7 @@
 *MAR:	but you know un@s:spa cambio@s:spa nunca@s:spa viene@s:spa mal@s:spa . 2219984_2221586
 %eng:	but you know a change never hurts.
 *OSE:	+< www .
-*MAR:	[-spa] pa pasar frío tú estás loca . 2223065_2224791
+*MAR:	[- spa] pa pasar frío tú estás loca . 2223065_2224791
 %eng:	to get cold? you're crazy.
 *OSE:	www .
 *MAR:	+< hmm@s:eng&spa . 2226846_2227544
@@ -608,9 +608,9 @@
 *OSE:	www .
 *MAR:	head of the department or department head or something [=! eats] . 2279919_2282959
 *OSE:	www .
-*MAR:	[-spa] no están tus papás . 2320702_2321647
+*MAR:	[- spa] no están tus papás . 2320702_2321647
 %eng:	no, you parents are there...
-*MAR:	[-spa] están los papás de Ramón . 2321647_2323106
+*MAR:	[- spa] están los papás de Ramón . 2321647_2323106
 %eng:	Ramón's parents
 *OSE:	www .
 *MAR:	uhhuh@s:eng&spa [=! eats] . 2326374_2326929
@@ -623,11 +623,11 @@ eng%:	no, and the elderly's health they already are... I mean, thank God my mom 
 %eng:	look, your sister really helps you.. a lot
 *OSE:	www .
 *MAR:	&=coughs . 2369360_2369976
-*MAR:	[-spa] &=noise me voy a echar agua [=! chokes] . 2373606_2374818
+*MAR:	[- spa] &=noise me voy a echar agua [=! chokes] . 2373606_2374818
 %eng:	I'll put some more water.
-*MAR:	[-spa] se me acabó el agua &=noise [=! chokes] . 2374901_2376359
+*MAR:	[- spa] se me acabó el agua &=noise [=! chokes] . 2374901_2376359
 %eng:	I ran out of water
-*MAR:	[-spa] &=noise quieres agua ? 2376626_2377058
+*MAR:	[- spa] &=noise quieres agua ? 2376626_2377058
 %eng:	do you want some water?
 *MAR:	you've got agua@s:spa . 2377428_2378023
 %eng:	you've got water.
@@ -637,27 +637,27 @@ eng%:	no, and the elderly's health they already are... I mean, thank God my mom 
 %com:	pause. Maria is pouring and drinking water.
 *MAR:	&=coughs . 2414510_2415907
 *OSE:	www .
-*MAR:	[-spa] tú sabes que a mí no me gusta para nada el brócoli . 2427591_2429933
+*MAR:	[- spa] tú sabes que a mí no me gusta para nada el brócoli . 2427591_2429933
 %eng:	you know I don't like broccoli at all
 *OSE:	+< www .
-*MAR:	[-spa] tú sa(bes) [/] sabes cómo me gusta a +/? 2431112_2432389
+*MAR:	[- spa] tú sa(bes) [/] sabes cómo me gusta a +/? 2431112_2432389
 %eng:	you know... do you know how I like it?
 *OSE:	+< www .
 *MAR:	+< doesn't +/. 2433736_2433898
 *OSE:	+< www .
-*MAR:	++ [-spa] coliflor . 2434850_2435222
+*MAR:	++ [- spa] coliflor . 2434850_2435222
 %eng:	cauliflower
 *OSE:	+< www .
-*MAR:	[-spa] esos dos +//. 2436522_2437335
+*MAR:	[- spa] esos dos +//. 2436522_2437335
 %eng:	those two.
-*MAR:	[-spa] tú sabes cómo yo me como el brócoli ? 2437404_2438658
+*MAR:	[- spa] tú sabes cómo yo me como el brócoli ? 2437404_2438658
 %eng:	do you know how I eat broccoli?
 *MAR:	si@s:spa está@s:spa chopped up in little pieces  [?] con@s:spa una@s:spa sopa@s:spa de@s:spa queso@s:spa . 2439169_2441886
 %eng:	if it's chopped up in little pieces with a cheese soup.
 *OSE:	+< www .
 *MAR:	and then of course I'm really eating cheese . 2442490_2444092
 *OSE:	www .
-*MAR:	[-spa] son arbolitos (.) no [=! opens_a_package] . 2445763_2447017
+*MAR:	[- spa] son arbolitos (.) no [=! opens_a_package] . 2445763_2447017
 %eng:	they're little trees.
 *OSE:	+< www .
 *MAR:	oh@s:eng&spa I should have brought you some more tomato soup I've made &=eats . 2454439_2456738
@@ -666,7 +666,7 @@ eng%:	no, and the elderly's health they already are... I mean, thank God my mom 
 *OSE:	www .
 *MAR:	uhhuh@s:eng&spa [=! eats] . 2467872_2468272
 *OSE:	www .
-*MAR:	[-spa] con nada o qué [=! eats] ? 2475110_2475737
+*MAR:	[- spa] con nada o qué [=! eats] ? 2475110_2475737
 %eng:	alone or with what?
 *OSE:	+< www .
 *MAR:	where did you have Easter dinner [?] [=! eats] ? 2514934_2515839
@@ -677,7 +677,7 @@ eng%:	no, and the elderly's health they already are... I mean, thank God my mom 
 *OSE:	www .
 *MAR:	&=laughs . 2533324_2534857
 *OSE:	www .
-*MAR:	+< [-spa] y cómo a ustedes se los mandan [=! eats] ? 2575959_2577445
+*MAR:	+< [- spa] y cómo a ustedes se los mandan [=! eats] ? 2575959_2577445
 %eng:	and how do they send them to you?
 *OSE:	www .
 *MAR:	uhhuh@s:eng&spa [=! eats] . 2581834_2582492
@@ -686,7 +686,7 @@ eng%:	no, and the elderly's health they already are... I mean, thank God my mom 
 *OSE:	+< www .
 *MAR:	and how does he get it through customs [=! eats] ? 2599616_2601424
 *OSE:	www .
-*MAR:	+< [-spa] <y cómo se traen> [//] y cómo te traen a ti todos esos (.) mariscos [=! eats] ? 2609393_2612514
+*MAR:	+< [- spa] <y cómo se traen> [//] y cómo te traen a ti todos esos (.) mariscos [=! eats] ? 2609393_2612514
 %eng:	and how are they brought? and how do they bring all that seafood?
 *OSE:	+< www .
 *MAR:	but are they carrying it with it ? 2616444_2617675
@@ -705,7 +705,7 @@ eng%:	no, and the elderly's health they already are... I mean, thank God my mom 
 *MAR:	y@s:spa no@s:spa te@s:spa dan@s:spa problemas@s:spa as long as you put that it was frozen . 2640937_2643433
 %eng:	and you have no problem as long as you put that it was frozen.
 *OSE:	+< www .
-*MAR:	[-spa] no se te va a bañar no [=! eats] . 2649381_2650682
+*MAR:	[- spa] no se te va a bañar no [=! eats] . 2649381_2650682
 %eng:	it's not gonna get wet.
 *OSE:	+< www .
 *MAR:	uhhuh@s:eng&spa [=! eats] . 2661319_2661597
@@ -716,7 +716,7 @@ eng%:	no, and the elderly's health they already are... I mean, thank God my mom 
 *OSE:	www .
 *MAR:	+< you like nísperos@s:spa ? 2687876_2688712
 %eng:	you like loquats?
-*MAR:	[-spa] mi mamá tiene una mata con +/. 2689193_2690725
+*MAR:	[- spa] mi mamá tiene una mata con +/. 2689193_2690725
 %eng:	my mom has a bush with...
 *OSE:	+< www .
 *MAR:	+< I'll bring you some [=! eats] . 2692861_2693302
@@ -763,7 +763,7 @@ eng%:	no, and the elderly's health they already are... I mean, thank God my mom 
 *OSE:	www .
 *MAR:	+< no@s:eng&spa xxx [=! eats] . 2858120_2859385
 *OSE:	+< www .
-*MAR:	[-spa] no si obvia(mente) te rompió todas las reglas [=! eats_from_a_package] . 2859820_2862388
+*MAR:	[- spa] no si obvia(mente) te rompió todas las reglas [=! eats_from_a_package] . 2859820_2862388
 %eng:	yeah, obviously he wroke all the rules
 *OSE:	+< www .
 *MAR:	++ forty-something yeah &=cough . 2864709_2866373
@@ -771,17 +771,17 @@ eng%:	no, and the elderly's health they already are... I mean, thank God my mom 
 %com:	Maria is tidying up the table, placing things into containers, etc.
 *MAR:	+< &=laughs [=! eats] . 2906137_2907944
 *OSE:	+< www .
-*MAR:	[-spa] sí . 2921089_2921582
+*MAR:	[- spa] sí . 2921089_2921582
 %eng:	yes
 *OSE:	www .
-*MAR:	[-spa] coño la tapa [=! noise_and_laughs] &=sniff . 2926593_2929551
+*MAR:	[- spa] coño la tapa [=! noise_and_laughs] &=sniff . 2926593_2929551
 %eng:	Damn... the lid.
 *MAR:	&=coughs &=eats_from_a_package . 2932590_2933823
 *OSE:	www .
-*MAR:	[-spa] qué es eso [=! eats] ? 2944473_2945274
+*MAR:	[- spa] qué es eso [=! eats] ? 2944473_2945274
 %eng:	what's that?
 *OSE:	www .
-*MAR:	[-spa] qué es eso [=! eats] ? 2948582_2949157
+*MAR:	[- spa] qué es eso [=! eats] ? 2948582_2949157
 %eng:	what's that?
 *OSE:	+< www .
 *MAR:	oh@s:eng&spa [=! eats] . 2950718_2950965
@@ -826,10 +826,10 @@ eng%:	no, and the elderly's health they already are... I mean, thank God my mom 
 *MAR:	+< oh@s:eng&spa ah@s:eng&spa <he chan(ged)> [///] él@s:spa le@s:spa cambiaba@s:spa el@s:spa aceite@s:spa y@s:spa eso@s:spa [=! eats] . 3023459_3026151
 %eng:	oh, he did changed the oil and that...
 *OSE:	www .
-*MAR:	+< [-spa] qué es eso [=! eats] ? 3026289_3026680
+*MAR:	+< [- spa] qué es eso [=! eats] ? 3026289_3026680
 %eng:	what's that?
 *OSE:	+< www .
-*MAR:	[-spa] cuánto gastaste [=! eats] ? 3028292_3029114
+*MAR:	[- spa] cuánto gastaste [=! eats] ? 3028292_3029114
 %eng:	how much you spent?
 *OSE:	+< www .
 *MAR:	how much you spent [=! eats] ? 3031291_3031928
