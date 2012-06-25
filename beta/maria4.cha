@@ -2,16 +2,15 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	SON  sonia Adult, OSE other Adult
-@ID:	eng, spa|Maria||45;|female|||Adult||
-@ID:	eng, spa|OSE||||||Adult||
+@Participants:	MAR Maria Adult, OSE other Adult
+@ID:	spa, eng|Maria|MAR|45;|female|||Adult||
+@ID:	spa, eng|Other_Speaker|OSE|||||Adult||
 @Situation:
-@Date:	JAN-2008
+@Date:	00-JAN-2008
 @Media:	Maria4, audio
 @Transcriber:	Maricarmen Parafita, Lara Gil Vallejo.  Original translation by Lara Gil Vallejo
 @Time Duration:	00:17:22
-@Comment:	Language markers : @s:spa = Spanish, @s:eng = English,
-@s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *OSE:	www .
 *MAR:	[- spa] mira quien apareció . 4505_5712
 %eng:	look who showed up.
@@ -26,10 +25,10 @@
 *OSE:	www .
 *MAR:	yeah, he got here on the thirtieth . 17810_21455
 *OSE:	www .
-*MAR:	no, both him and my other brother got here after Christmas bef(ore) +// . 24288_28235
+*MAR:	no, both him and my other brother got here after Christmas bef(ore) +//. 24288_28235
 *MAR:	[- spa] niña . 28468_29350
 %eng:	girl.
-*MAR:	right aft(er) +// . 29489_30093
+*MAR:	right aft(er) +//. 29489_30093
 *MAR:	[- spa] no queda nada . 30000_30975
 %eng:	there is nothing left.
 *MAR:	and nobody throws the things away . 31347_32694
@@ -56,7 +55,7 @@
 *OSE:	www .
 *MAR:	not a single comment came back from [/] from them . 103654_107183
 *OSE:	www .
-*MAR:	 there wasn't a single comment so I can only assume that the [/] their A@s:eng&spa they were o_k with the B@s:eng&spa with they needed them so it's nice to have them . 111502_119211
+*MAR:	there wasn't a single comment so I can only assume that the [/] their A@s:eng&spa they were o_k with the B@s:eng&spa with they needed them so it's nice to have them . 111502_119211
 *MAR:	I don't know . 118886_120094
 *OSE:	www .
 *MAR:	we don't need him . 133979_134629
@@ -127,7 +126,7 @@
 *MAR:	and Defoe@s:eng&spa sent a picture and it clearly shows the Insta_Hot@s:eng&spa under the sink . 281568_286730
 *OSE:	www .
 *MAR:	but I need to go look to see what my discusion with García@s:eng&spa was in terms of what they xxx extra money . 287812_294556
-*MAR:	 and I think they said that yesterday they put on there and they had the moon to the top . 294556_300134
+*MAR:	and I think they said that yesterday they put on there and they had the moon to the top . 294556_300134
 *MAR:	and I am like xxx I got a picture . 299634_301216
 *MAR:	I got a xxx an A@s:eng&spa or U@s:eng&spa . 300550_302881
 *MAR:	I don't know which one of this . 302548_304380
@@ -168,7 +167,7 @@
 *MAR:	[- spa] sí tú eres novelera . 377143_379058
 %eng:	yes, you're imaginative.
 *MAR:	[- spa] tú eres novelera . 378809_380474
-&eng:	yes, you're imaginative.
+%eng:	yes, you're imaginative.
 *MAR:	Rebeca@s:eng&spa novelera@s:spa . 380224_381806
 %eng:	Rebeca's imaginative.
 *OSE:	www .
@@ -266,7 +265,7 @@
 %eng:	do you remember?
 *OSE:	www .
 *MAR:	[- spa] sí sí lo devolvieron . 491863_492716
-%eng.	yes, they did return it.
+%eng:	yes, they did return it.
 *OSE:	www .
 *MAR:	y@s:spa está@s:spa de@s:spa lo@s:spa más@s:spa contento@s:spa porque@s:spa le@s:spa &deb mandaron@s:spa de@s:spa eh@s:eng&spa de@s:spa too much on the xxx . 494548_498899
 %eng:	and he is most happy because they sent him from [...].
@@ -338,7 +337,7 @@
 *MAR:	no no . 638026_638692
 *MAR:	that's more than five . 638692_640524
 *OSE:	www .
-*MAR:	xxx [!= laugh]. 644187_646269
+*MAR:	xxx &=laugh . 644187_646269
 *OSE:	www .
 *MAR:	cause I think it's what we had . 653262_654344
 *MAR:	and they cannot imitate it . 654011_655676
@@ -421,7 +420,7 @@
 *MAR:	they [/] they couldn't care less about this one . 808123_809455
 *MAR:	particularly when you have a fence . 809788_811037
 *OSE:	www .
-*MAR:	and <we need to> [/] we need to make sure we have a way to fence just like we did in the U_V@eng&spa . 811287_816781
+*MAR:	and <we need to> [/] we need to make sure we have a way to fence just like we did in the U_V@s:eng&spa . 811287_816781
 *MAR:	a way to close this . 816865_819279
 *MAR:	in other words the entrance here is a little bit different . 821111_823359
 *OSE:	www .
@@ -466,7 +465,7 @@
 *MAR:	o_k xxx . 890200_892522
 *MAR:	I xxx oops@s:eng&spa! 892917_894798
 *OSE:	www .
-*MAR:	oops@:eng&spa! 895495_896331
+*MAR:	oops@s:eng&spa! 895495_896331
 *OSE:	www .
 *MAR:	yeah, that's fine . 897190_898351
 *OSE:	www .
@@ -477,7 +476,7 @@
 *MAR:	and then how would they access? 912283_913699
 *MAR:	xxx . 913444_915023
 *OSE:	www .
-*MAR:	oh@eng&spa there'd still be a gate o_k . 916114_917716
+*MAR:	oh@s:eng&spa there'd still be a gate o_k . 916114_917716
 *OSE:	www .
 *MAR:	split it in that . 918947_919574
 *MAR:	it's a good idea . 919597_920758
@@ -495,7 +494,7 @@
 *MAR:	what is this thing called again? 939404_941168
 *OSE:	www .
 *MAR:	that's the one . 944535_945766
-*MAR:	 now there's water starting to stand up again . 947205_952337
+*MAR:	now there's water starting to stand up again . 947205_952337
 *OSE:	www .
 *MAR:	after you haunted me for that recommendation . 955170_959117
 *OSE:	www .

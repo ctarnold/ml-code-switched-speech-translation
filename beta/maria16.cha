@@ -3,14 +3,14 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|MAR|45;|female|||Adult||
-@ID:	spa, eng|bangor3|OSE|||||Adult||
-@Situation:	MAR is in her office talking to colleague.
-@Date:	JAN-2008
+@ID:	spa, eng|Maria|MAR|45;|female|||Adult||
+@ID:	spa, eng|Maria|OSE|||||Adult||
+@Situation:	MAR is in her office talking to a colleague.
+@Date:	24-MAR-2008
 @Comment:	MAR is wearing a microphone to record conversation
 @Transcriber:	Maria Carmen Parafita Couto, Fraibet Aveledo, Lara Gil Vallejo.  Original translation by Sara Viñas
 @Time Duration:	02:41:36
-@Media:	MAR16, audio
+@Media:	maria16, audio
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 *OSE:	www .
 *MAR:	&=cough . 19911_20811
@@ -26,7 +26,7 @@
 %eng:	yes yes yes.
 *OSE:	www .
 *MAR:	[- spa] sí si Dios quiere pronto . 46990_48174
-%eng:	 yes, soon, God willing.
+%eng:	yes, soon, God willing.
 *OSE:	www .
 *MAR:	mmhm . 54163_54633
 *OSE:	www .
@@ -34,7 +34,7 @@
 *OSE:	www .
 *MAR:	[- spa] sí yo creo que cuando tú le pegastes a la verja +... 57893_60627
 %eng:	yes I believe that when you hit the fence...
-*OSE:	www . %snd:"mar16"_60634_62457
+*OSE:	www . 
 *MAR:	[- spa] sí [?] pa(ra) mí (.) tiene un &ser [/] &ser xxx . 61925_65838
 %eng:	yes for me (s)he has a ...
 *OSE:	www .
@@ -78,7 +78,7 @@
 *OSE:	www .
 *MAR:	[- spa] no sí exacto sí . 122114_123913
 %eng:	no, yes, exactly.
-*MAR:	[- spa] sí y vinieron todos o no ? %snd:"mar16"_123432_125731
+*MAR:	[- spa] sí y vinieron todos o no ? 123432_125731
 %eng:	yes, and did everyone come or not?
 *OSE:	www .
 *MAR:	ah@s:eng&spa caray@s:spa [=! laughs] . 126792_128116
@@ -90,21 +90,21 @@
 %eng:	we're offering drinks to everybody.
 *MAR:	[- spa] y yo +"/. 131138_131556
 %eng:	and I.
-*MAR:	+"ah@s:eng&spa cará@s:spa &=laugh . 131423_132439
+*MAR:	+" ah@s:eng&spa cará@s:spa &=laugh . 131423_132439
 %eng:	oh God.
 *OSE:	www .
 *MAR:	oh@s:eng&spa . 139467_140268
 %eng:	oh.
-*MAR:	www .
-*MAR:	mmhm sí@s:spa . %snd:"mar16"_144147_145708
+*OSE:	www .
+*MAR:	mmhm sí@s:spa . 144147_145708
 %eng:	yes.
 *OSE:	www .
-*MAR:	oh@s:eng&spa . %snd:"mar16"_155489_156481
+*MAR:	oh@s:eng&spa . 155489_156481
 %eng:	oh.
 *MAR:	sí@s:spa porque@s:spa (.) ah@s:eng&spa ustedes@s:spa como@s:spa ya@s:spa yo@s:spa no@s:spa xxx papaya@s:spa no@s:spa comí@s:spa porque@s:spa a@s:spa mí@s:spa no@s:spa me@s:spa gusta@s:spa mucho@s:spa la@s:spa papaya@s:spa . 156657_161236
 %eng:	yes because, for you, as I did not eat papaya because I don't like it too much.
 *OSE:	www .
-*MAR:	no@s:eng&spa &psss [=! laughs] . %snd:"mar16"_163948_164790
+*MAR:	no@s:eng&spa &psss [=! laughs] . 163948_164790
 %eng:	no.
 *MAR:	o_k@s:eng&spa . 165305_166071
 %eng:	ok
@@ -119,7 +119,7 @@
 *MAR:	mmhm . 198183_199251
 *OSE:	www .
 *MAR:	ah@s:eng&spa &pssss [=! laughs] . 201216_203004
-*OSE:	www . %snd:"mar16"_202943_204325
+*OSE:	www . 202943_204325
 *MAR:	mmhm . 204180_204830
 *OSE:	www .
 *MAR:	mmhm no@s:spa te@s:spa están@s:spa andando@s:spa diciendo@s:spa [?] [///] te@s:spa están@s:spa dando@s:spa trabajo@s:spa ni@s:spa nada@s:spa ? 207389_210326
@@ -161,7 +161,7 @@
 *MAR:	mmhm sí@s:spa . 265118_266326
 %eng:	yes
 *OSE:	www .
-*MAR:	ay@s:spa the cabin hubs . %snd:"mar16"_274138_275496
+*MAR:	ay@s:spa the cabin hubs . 274138_275496
 %eng:	oh, the cabin hubs
 *OSE:	www .
 *MAR:	mmhm . 276549_277118
@@ -178,7 +178,7 @@
 *OSE:	www .
 *MAR:	[- spa] pero [/] pero de plástico o de +... 287949_290318
 %eng:	but a plastic one or...?
-*OSE:	www . %snd:"mar16"_290255_291898
+*OSE:	www . 290255_291898
 *MAR:	ah@s:eng&spa cará@s:spa . 291893_292543
 %eng:	oh God.
 *OSE:	www .
@@ -212,7 +212,7 @@
 *OSE:	www .
 *MAR:	hey@s:eng&spa hey@s:eng&spa hey@s:eng&spa . 524961_527458
 %eng:	hey, hey, hey.
-*OSE:	www . %snd:"mar16"_526668_528705
+*OSE:	www . 526668_528705
 *MAR:	you are in <a coma> [?] or it is this end of the office ? 527791_532120
 *OSE:	www .
 *MAR:	use my staff . 532120_535200
@@ -263,7 +263,7 @@
 *MAR:	[- spa] mira quien pide una camisita verdecita tan (.) chula . 970169_973749
 %eng:	look, who orders a green t-shirt, so nice.
 *OSE:	www .
-*MAR:	ah@s:eng&spa 974914_976496
+*MAR:	ah@s:eng&spa . 974914_976496
 *MAR:	uh I like the fabric of this (.) one . 980158_983571
 *OSE:	www .
 *MAR:	did you get any ? 987317_989065
@@ -272,7 +272,7 @@
 *MAR:	in white . 991496_993494
 *OSE:	www .
 *MAR:	yes I did . 995408_996490
-*OSE:	www . %snd:"mar16"_996553_1000459
+*OSE:	www . 996553_1000459
 *MAR:	déjame@s:spa ver@s:spa ya@s:spa &gu [/] ya@s:spa guardaste@s:spa tu@s:spa pink shirt . 1000070_1002983
 %eng:	let me see, did you already put away your pink shirt?
 *OSE:	www .
@@ -286,7 +286,7 @@
 *OSE:	www .
 *MAR:	this blue one? 1015825_1017074
 *OSE:	www .
-*MAR:	 uh es@s:spa esta@s:spa [///] se@s:spa parece@s:spa a@s:spa la@s:spa que@s:spa teníamos@s:spa ya@s:spa ? 1019988_1022444
+*MAR:	uh es@s:spa esta@s:spa [///] se@s:spa parece@s:spa a@s:spa la@s:spa que@s:spa teníamos@s:spa ya@s:spa ? 1019988_1022444
 *OSE:	www .
 *MAR:	sí@s:spa . 1023111_1023735
 %eng:	yes.
@@ -304,18 +304,18 @@
 *OSE:	www .
 *MAR:	since I didn't get a copy of that . 1129071_1131569
 *OSE:	www .
-*MAR:	Tom@s:eng&spa this is María@s:eng&spa . %snd:"mar16"_1138711_1141654
+*MAR:	Tom@s:eng&spa this is María@s:eng&spa . 1138711_1141654
 *OSE:	www .
 *MAR:	where ? 1144558_1145682
 *MAR:	my (.) as_builts ! 1146057_1147972
-*MAR:	forty_one and +// . 1148805_1151594
-*OSE:	www . %snd:"mar16"_1151386_1152895
+*MAR:	forty_one and +//. 1148805_1151594
+*OSE:	www . 1151386_1152895
 *MAR:	had files (.) from A_one@s:eng&spa that your staff did not bind properly . 1152843_1162460
 *OSE:	www .
 *MAR:	thank you . 1163973_1165139
 *OSE:	www .
-*MAR:	[=! coughs] I'm sure he is going to have a comment [=! laughs] . 1170556_1173621
-*OSE:	www . %snd:"mar16"_1173601_1174745
+*MAR:	&=cough I'm sure he is going to have a comment [=! laughs] . 1170556_1173621
+*OSE:	www . 1173601_1174745
 *MAR:	he <is gonna say what are you doing on xxx> [?] Hanna's@s:eng&spa computer ? 1175505_1177753
 *OSE:	www .
 *MAR:	&=sigh . 1182186_1183477
@@ -333,7 +333,7 @@
 *MAR:	&=laugh . 1333315_1335022
 *MAR:	they thought he was a white Oreos@s:eng&spa ! 1352814_1355520
 *MAR:	you've seen the ones that are the white cookies with chocolate in the middle they xxx [/] they make a white oreo or something I don't know what they call it . 1355395_1361807
-*MAR:	you've never seen <any Hannah@s:eng&spa> [?] 1361858_1362833
+*MAR:	you've never seen <any Hannah@s:eng&spa> [?] ? 1361858_1362833
 *OSE:	+< www .
 *MAR:	you who eat more Oreos than all of us put together ? 1363555_1366886
 *OSE:	www .
@@ -351,7 +351,7 @@
 *OSE:	www .
 *MAR:	Saddam_Hussein's@s:eng&spa [=! laughs] (.) oh@s:eng&spa yeah let's take him down . 1439764_1444635
 *OSE:	www .
-*MAR:	oh@s:eng&spa boy . %snd:"mar16"_1459002_1459750
+*MAR:	oh@s:eng&spa boy . 1459002_1459750
 *OSE:	www .
 *MAR:	[- spa] oye pero te quedan chirriquiticos . 1484988_1487694
 %eng:	look, but they are small for you.
@@ -369,7 +369,7 @@
 *OSE:	www .
 *MAR:	it's a tank . 1532563_1533568
 *OSE:	www .
-*MAR:	it figures (.) I put this going the freaking wrong way! %snd:"mar16"_1539412_1541380
+*MAR:	it figures (.) I put this going the freaking wrong way! 1539412_1541380
 *OSE:	www .
 *MAR:	I would assume so . 1543745_1545330
 *OSE:	www .
@@ -388,7 +388,7 @@
 *OSE:	www .
 *MAR:	they're arguing ? 1713258_1713949
 *OSE:	www .
-*MAR:	the love  [=! kisses].
+*MAR:	the love &=kisses . 1715504_1718691
 *OSE:	www .
 *MAR:	xxx . 1720496_1721361
 *OSE:	www  .
@@ -464,7 +464,7 @@
 %eng:	so, so he can go whenever he'll be ready to go.
 *MAR:	ah@s:eng&spa bueno@s:spa . 2237366_2238075
 %eng:	ah, well.
-*OSE:	www . %snd:"mar16"_2237979_2242408
+*OSE:	www . 2237979_2242408
 *MAR:	[- spa] sí no [/] no [/] no yo los voy a buscar a casa de mi mamá . 2242412_2245384
 %eng:	yes, no, no, I'm going to pick them up at my mum's house.
 %com:	pause.
@@ -493,7 +493,7 @@
 *MAR:	xxx that doesn't mean anything because if they haven't disconnected the phone . 2362018_2364851
 *OSE:	www .
 *MAR:	not necessarily . 2365164_2366024
-*OSE:	 www .
+*OSE:	www .
 *MAR:	not necessarily . 2367730_2368717
 *OSE:	www .
 *MAR:	you would hope ! 2371182_2372024
@@ -521,7 +521,7 @@
 *MAR:	but who's on first ? 2585651_2586719
 *OSE:	www .
 *MAR:	that's pretty bad Hannah@s:eng&spa . 2655284_2656463
-*MAR:	a week ? %snd:"mar16"_2656601_2657786
+*MAR:	a week ? 2656601_2657786
 *OSE:	www .
 *MAR:	on your message ? 2658601_2659594
 *OSE:	www .
@@ -544,7 +544,7 @@
 *OSE:	www .
 *MAR:	then he did his job . 2738822_2739861
 *OSE:	www .
-*MAR:	I don't wanna know how many doors they have . %snd:"mar16"_2898377_2900153
+*MAR:	I don't wanna know how many doors they have . 2898377_2900153
 *OSE:	www .
 *MAR:	it's a scary thought . 2901678_2903704
 *OSE:	www .
@@ -556,9 +556,9 @@
 *OSE:	www .
 *MAR:	<what can I say> [/] what can I say ? 2926508_2928511
 *OSE:	www .
+*MAR:	all right where the hell is my book ? 2930314_2932363
 *MAR:	&=cough . 2961983_2962773
 %com:	pause.
-*MAR:	all right where the hell is my book ? 2930314_2932363
 *OSE:	www .
 %com:	very long time period with machinery noise.
 *MAR:	[- spa] préstame unas tijeras . 3373709_3374702
@@ -568,13 +568,13 @@
 %com:	imitating Italian.
 *MAR:	thank you . 3377245_3377831
 *OSE:	www .
-*MAR:	no@s:spa cortando@s:spa la@s:spa caja@s:spa . %snd:"mar16"_3379462_3380762
+*MAR:	no@s:spa cortando@s:spa la@s:spa caja@s:spa . 3379462_3380762
 %eng:	no, cutting the box.
 *MAR:	pa(ra)@s:spa sacar@s:spa el@s:spa copy paper . 3381513_3382477
 %eng:	to take the copy paper out.
 *OSE:	www .
 %com:	long time period with machinery noise.
-*MAR:	remind me again to kill um what's his name ? %snd:"mar16"_3528467_3530423
+*MAR:	remind me again to kill um what's his name ? 3528467_3530423
 *OSE:	www .
 *MAR:	Gerardo@s:eng&spa . 3533910_3534839
 *OSE:	www .
@@ -582,8 +582,8 @@
 *OSE:	www .
 *MAR:	yes . 3549378_3549825
 *OSE:	www .
-*MAR:	there was a commercial when I lived in England+/. 3576695_3578866
-*OSE:	 www .
+*MAR:	there was a commercial when I lived in England +/. 3576695_3578866
+*OSE:	www .
 *MAR:	+, on the Minis@s:eng&spa . 3579574_3580236
 *MAR:	how many people you can get at the Minis@s:eng&spa ? 3580410_3581948
 *OSE:	www .
@@ -597,7 +597,7 @@
 *OSE:	www .
 *MAR:	oh@s:eng&spa they were tiny tiny tiny tiny . 3614679_3616873
 *OSE:	www .
-*MAR:	but I remember this [/] this commercial and you can get like I don't know fifteen people in there it was ridiculous 3617555_3622112
+*MAR:	but I remember this [/] this commercial and you can get like I don't know fifteen people in there it was ridiculous . 3617555_3622112
 *OSE:	www .
 *MAR:	una@s:spa que@s:spa you can drive it but +/. 3622971_3625032
 %eng:	one that, you can drive it but.
@@ -613,7 +613,7 @@
 *MAR:	what happened ? 3763820_3764568
 *OSE:	www .
 %com:	long time period with machinery noise in background.
-*MAR:	trying to sneak in on me ? %snd:"mar16"_3899418_3900457
+*MAR:	trying to sneak in on me ? 3899418_3900457
 *OSE:	www .
 *MAR:	do you want me to call you when you are done ? 3900702_3901898
 %com:	pause.
@@ -622,7 +622,7 @@
 *MAR:	o_k@s:eng&spa . 3906276_3906595
 *OSE:	www .
 %com:	long time period with machinery noise in background.
-*MAR:	o_k@s:eng&spa what's everybody looking at ? %snd:"mar16"_4010344_4011528
+*MAR:	o_k@s:eng&spa what's everybody looking at ? 4010344_4011528
 *OSE:	www .
 *MAR:	where xxx? 4015678_4017199
 *MAR:	uh we had a white one like that . 4017402_4019788
@@ -640,7 +640,7 @@
 *MAR:	oh@s:eng&spa my God . 4048720_4049568
 *OSE:	www .
 *MAR:	we went to  xxx John@s:eng&spa and had one . 4051293_4053499
-*OSE:	+< www . %snd:"mar16"_4053122_4053801
+*OSE:	+< www . 4053122_4053801
 *MAR:	John@s:eng&spa had one . 4053708_4054991
 *MAR:	and he was restoring it . 4055200_4056895
 *MAR:	and you know he took the engine aw(ay) [//] he had two . 4056866_4058691
@@ -656,17 +656,17 @@
 *MAR:	+" they are perfect because they had not rusted because it's dry . 4069219_4072547
 *MAR:	+" no . 4072609_4073149
 *OSE:	www .
-*MAR:	no . %snd:"mar16"_4073882_4074509
+*MAR:	no . 4073882_4074509
 *OSE:	www .
-*MAR:	no . %snd:"mar16"_4074910_4075531
-*MAR:	no ! %snd:"mar16"_4075537_4076223
+*MAR:	no . 4074910_4075531
+*MAR:	no ! 4075537_4076223
 *OSE:	www .
 *MAR:	right . 4082228_4082536
 *MAR:	it's dry . 4082704_4083250
 *OSE:	www .
 *MAR:	here [?] with all this humidity . 4084280_4085697
 *OSE:	www .
-*MAR:	huh ? . 4091454_4091895
+*MAR:	huh ? 4091454_4091895
 *OSE:	www .
 *MAR:	what did you get ? 4093901_4094470
 *OSE:	www .
@@ -674,7 +674,7 @@
 *OSE:	www .
 *MAR:	and why did you think +/? 4122323_4123803
 *OSE:	www .
-*MAR:	and why did you +/ ? 4124088_4125185
+*MAR:	and why did you +/? 4124088_4125185
 *OSE:	www .
 *MAR:	that's right [/] that's right . 4127652_4129074
 *OSE:	www .
@@ -690,8 +690,8 @@
 *OSE:	www .
 *MAR:	what are you looking for ? 4172841_4173689
 *OSE:	www .
-*MAR:	that was it . %snd:"mar16"_4177301_4177841
-*MAR:	that was all that was in them . %snd:"mar16"_4177835_4178880
+*MAR:	that was it . 4177301_4177841
+*MAR:	that was all that was in them . 4177835_4178880
 *MAR:	I took it out of the (.) sorter . 4180783_4182629
 %com:	machinery background noise.
 *OSE:	www .
@@ -704,7 +704,7 @@
 *OSE:	www .
 *MAR:	[- spa] ésta fuiste tú o no ? 4268164_4269402
 %eng:	was it you or not?
-*OSE:	www . %snd:"mar16"_4269881_4270966
+*OSE:	www . 4269881_4270966
 *MAR:	xxx the names did he xxx . 4270998_4272960
 *OSE:	www .
 *MAR:	ah@s:eng&spa o_k@s:eng&spa . 4273599_4274075
@@ -712,7 +712,7 @@
 *MAR:	ah@s:eng&spa perfect . 4276426_4276966
 *MAR:	xxx . 4278215_4279091
 *OSE:	www .
-*MAR:	I know it's like [///] it's too dark .
+*MAR:	I know it's like [///] it's too dark . 4280905_4283047
 *OSE:	www .
 *MAR:	you sure ? 4284410_4285083
 *OSE:	www .
@@ -761,7 +761,7 @@
 *MAR:	ah@s:eng&spa eres@s:spa tú@s:spa . 4450702_4451440
 %eng:	ah, it's you.
 *OSE:	www .
-*MAR:	[- spa] pensé que estabas quema(do) +// . 4453177_4454193
+*MAR:	[- spa] pensé que estabas quema(do) +//. 4453177_4454193
 %eng:	I thought you were burning.
 *MAR:	[- spa] acuérdate de desconectarlo . 4454187_4455203
 %eng:	remember to disconnect it.
@@ -769,7 +769,7 @@
 *MAR:	coño@s:spa what's wrong with this stupid thing ? 4458655_4460338
 %eng:	hell, what's wrong with this stupid thing?
 *OSE:	www .
-%com: 	background noise .
+%com:	background noise .
 *MAR:	one [/] five more prints . 4469838_4471544
 *MAR:	and someone is trying to print . 4471498_4472879
 *MAR:	sneaking in there . 4472874_4474296
@@ -778,7 +778,7 @@
 *MAR:	huh . 4482671_4483037
 *OSE:	www .
 *MAR:	ah@s:eng&spa yes I am recording . 4485059_4486353
-*OSE:	www . %snd:"mar16"_4486482_4488601
+*OSE:	www . 4486482_4488601
 *MAR:	so don't say nothing you don't wanna be said . 4488706_4491179
 *MAR:	ajá@s:spa (.) it's you (.) causing issues . 4490373_4493253
 %eng:	aha, it's you, causing issues.
@@ -786,7 +786,7 @@
 *MAR:	no@s:spa ése@s:spa cómo@s:spa se@s:spa llama@s:spa Edelmiro@s:eng&spa . 4495035_4497147
 %eng:	no, this one, what's his name, Edelmiro.
 *OSE:	www .
-*MAR:	[- spa] estaba tostando su +/ . 4497994_4499393
+*MAR:	[- spa] estaba tostando su +/. 4497994_4499393
 %eng:	he was toasting his...
 *OSE:	www .
 *MAR:	yes that's exactly what he was doing . 4500607_4502627
@@ -831,18 +831,18 @@
 *MAR:	[- spa] xxx &pss pa(ra) la basura . 4555834_4557175
 %eng:	to the trash can.
 *OSE:	www .
-*MAR:	[- spa] que me vengan . %snd:"mar16"_4559180_4559557
+*MAR:	[- spa] que me vengan . 4559180_4559557
 %eng:	they can come.
-*MAR:	[- spa] y me regañen . %snd:"mar16"_4559557_4560051
+*MAR:	[- spa] y me regañen . 4559557_4560051
 %eng:	and scold me.
-*MAR:	[- spa] que me vengan . %snd:"mar16"_4560045_4560445
+*MAR:	[- spa] que me vengan . 4560045_4560445
 %eng:	they can come.
-*MAR:	[- spa] y me digan algo . %snd:"mar16"_4560434_4561020
+*MAR:	[- spa] y me digan algo . 4560434_4561020
 %eng:	and say whatever.
 *MAR:	[- spa] a ver si se atreven . 4561765_4562520
 %eng:	let's see if they are brave enough to do it.
 *OSE:	www .
-*MAR:	[- spa] bueno . %snd:"mar16"_4589431_4589710
+*MAR:	[- spa] bueno . 4589431_4589710
 %eng:	fine.
 *OSE:	www .
 *MAR:	<I think> [/] I think xxx cleaned it the other day . 4604483_4606793
@@ -863,13 +863,13 @@
 *OSE:	www .
 *MAR:	and she won . 4659769_4660785
 *OSE:	www .
-*MAR:	well in fact that airborne+//. 4661785_4663672
+*MAR:	well in fact that airborne +//. 4661785_4663672
 *MAR:	somebody sued . 4664392_4666017
 *MAR:	them saying +"/. 4666336_4667399
 *MAR:	+" it does not cure the common cold . 4667381_4669303
 *OSE:	www .
 *MAR:	right . 4672881_4673107
-*OSE:	www . %snd:"mar16"_4685192_4688472
+*OSE:	www .
 *MAR:	and [/] and [/] and so +... 4675209_4676881
 *MAR:	somebody is sued . 4677109_4678270
 *MAR:	and if you have like a receipt or even if you don't . 4678211_4680991
@@ -877,9 +877,9 @@
 *OSE:	www .
 *MAR:	I don't know the details . 4688387_4689490
 *MAR:	I don't know the details . 4689443_4690778
-*OSE:	www . %snd:"mar16"_4709634_4711677
+*OSE:	www .
 *MAR:	go on the website &=cough . 4691285_4692852
-*OSE:	www . %snd:"mar16"_4714245_4739475
+*OSE:	www .
 *MAR:	you don't have to have it ! 4693644_4695072
 *MAR:	apparently you don't even have to have the receipt . 4695051_4696957
 *MAR:	if you have the receipt and the box even better . 4696744_4698880
@@ -888,7 +888,7 @@
 *MAR:	it's what somebody told me . 4700826_4701714
 *OSE:	www .
 *MAR:	they are totally wrong . 4708378_4709731
-*OSE:	www . %snd:"mar16"_4788473_4800907
+*OSE:	www .
 *MAR:	it's like (.) guys please . 4711619_4713628
 *MAR:	you know ? 4713575_4714220
 *OSE:	www .
@@ -899,15 +899,15 @@
 *MAR:	he'll never know . 4786548_4787981
 *MAR:	oh@s:eng&spa they're in jail . 4787354_4788585
 *OSE:	www .
-*MAR:	what were you watching I'm sorry? . 4800204_4802369
+*MAR:	what were you watching I'm sorry ? 4800204_4802369
 *OSE:	www .
 *MAR:	what the hell is that ? 4803881_4805367
-*OSE:	www . %snd:"mar16"_4939758_4944251
+*OSE:	www .
 *MAR:	xxx happen . 4867549_4868687
 *MAR:	<what happen> [/] what xxx happen here? 4868669_4870045
 *MAR:	what did I do ? 4870918_4872601
-*OSE:	www . %snd:"mar16"_4951117_4965833
-*MAR:	the same Will@s:eng&spa that er+//. 4914883_4916566
+*OSE:	www .
+*MAR:	the same Will@s:eng&spa that er +... 4914883_4916566
 *OSE:	www .
 *MAR:	has he even drop those <O_R@s:eng&spa> [?] at the building department  . 4936927_4939191
 *MAR:	do we know? 4939011_4939818
@@ -916,14 +916,14 @@
 *OSE:	www .
 *MAR:	xxx we may have to +... 4949938_4951186
 *OSE:	www .
-*MAR:	oh@s:eng&spa fuck! . 4965815_4967243
+*MAR:	oh@s:eng&spa fuck ! 4965815_4967243
 %com:	pause.
 *MAR:	xxx . 4975295_4976392
 *OSE:	www .
 *MAR:	xxx ! 4976718_4977537
 *OSE:	www .
 *MAR:	yes I'm a star cursing him . 4982935_4984444
-%com: pause.
+%com:	pause.
 *MAR:	and I forgot my xxx machine done ! 4990772_4993262
 *MAR:	what is this ? 4996000_4996667
 *MAR:	why showing drawings I don't have ? 4997010_4998821
@@ -969,7 +969,7 @@
 *MAR:	&=laugh . 5137955_5141328
 *OSE:	www .
 *MAR:	yeah I have too . 5150567_5151884
-*OSE:	www . %snd:"mar16"_5918789_6141568
+*OSE:	www .
 *MAR:	but this not off the cliff though . 5160875_5162994
 *OSE:	www .
 %com:	pause with machinery noise.
@@ -982,12 +982,12 @@
 *MAR:	one space per legend for each area being xxx . 5316506_5319444
 *OSE:	www .
 *MAR:	xxx every [/] every building ? 5319067_5321691
-*OSE:	www . %snd:"mar16"_6267349_6455712
-*MAR:	but just er+... 5322964_5324252
+*OSE:	www .
+*MAR:	but just er +... 5322964_5324252
 *OSE:	www .
 *MAR:	xxx to fix and I don't know how many people to fit them both in by Friday . 5326452_5330152
 *OSE:	www .
-*MAR:	and labelling +// . 5333407_5335113
+*MAR:	and labelling +//. 5333407_5335113
 *OSE:	www .
 *MAR:	yeah . 5335352_5335851
 *MAR:	or different colours xxx . 5335671_5338040
@@ -1043,7 +1043,7 @@
 %com:	long pause.
 *MAR:	what ? 6944367_6945116
 *OSE:	www .
-*MAR:	I'm copying . %snd:"mar16"_6950991_6951676
+*MAR:	I'm copying . 6950991_6951676
 *OSE:	www .
 %com:	phone conversation with electrical noise in the background.
 *MAR:	hey . 7007349_7007738
@@ -1056,10 +1056,10 @@
 %eng:	there's more croquettes.
 *MAR:	but your niece and nephew xxx a few . 7020566_7023473
 %com:	pause.
-*MAR:	so you [//] your [//] you're gone next week right? . 7034380_7036673
+*MAR:	so you [//] your [//] you're gone next week right ? 7034380_7036673
 *MAR:	so xxx to take a car this week . 7036587_7038600
 *MAR:	so when I call you xxx talk to you . 7038758_7042554
-*MAR:	right? . 7042862_7043541
+*MAR:	right ? 7042862_7043541
 *MAR:	o_k@s:eng&spa &=cough . 7045294_7047163
 %com:	pause
 *MAR:	I saw that . 7055524_7056691
@@ -1091,7 +1091,7 @@
 *OSE:	www .
 %com:	lots of background noise.
 *MAR:	&=cough . 7667466_7668842
-*OSE:	www . %snd:"mar16"_7668860_7682647
+*OSE:	www . 7668860_7682647
 *MAR:	xxx copy?  7682664_7683192
 *MAR:	go ahead . 7683189_7683555
 *OSE:	www .
@@ -1117,9 +1117,9 @@
 *MAR:	&=cough . 8991463_8992496
 *OSE:	www .
 *MAR:	I'm done xxx . 9405716_9407121
-*OSE:	www . %snd:"mar16"_9411554_9529517
+*OSE:	www .
 *MAR:	ay@s:spa I know . 9410418_9411834
 %eng:	ah, I know.
 *OSE:	www .
-%com: long period with lots of background machinery noise.
+%com:	long period with lots of background machinery noise.
 @End

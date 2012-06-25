@@ -5,11 +5,11 @@
 @ID:	eng, spa|Maria|MAR|45;|female|||Adult||
 @ID:	eng, spa|Maria|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleague.
-@Date:	JAN-2008
+@Date:	10-JAN-2008
 @Comment:	MAR is wearing a recorder to tape conversation
 @Transcriber:	Maria Carmen Parafita Couto.  Original translation by Lara Gil Vallejo
 @Time Duration:	00:17:32
-@Media:	MAR6, audio
+@Media:	maria10, audio
 @Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *MAR:	good morning Martha@s:eng&spa . 24643_25476
 *MAR:	this is María@s:eng&spa . 25548_25919
@@ -29,14 +29,14 @@
 *MAR:	eh@s:eng&spa did [/] did Aaron@s:eng&spa give yoy my message? 38609_41315
 %com:	pause.
 *MAR:	oh@s:eng&spa . 42387_43366
-*MAR:	eh@s:eng&spa Sean@eng&spa wants to have a meeting at A_One@s:eng&spa con@s:spa [///] todavía@s:spa  tienen@s:spa  problemas@s:spa con@s:spa  la@s:spa  torre@s:spa  de@s:spa  la@s:spa televisión@s:spa . 42991_51047
+*MAR:	eh@s:eng&spa Sean@s:eng&spa wants to have a meeting at A_One@s:eng&spa con@s:spa [///] todavía@s:spa  tienen@s:spa problemas@s:spa con@s:spa  la@s:spa  torre@s:spa  de@s:spa  la@s:spa televisión@s:spa . 42991_51047
 %eng:	eh Sean wants to have a meeting at A One with, they still have problems with the television tower.
 *MAR:	and he would like for you to be an attendance with N_D_R@s:eng&spa which is a subcontractor for the tower and Mario@s:eng&spa wich is the W_R_N@s:eng&spa guy . 51512_60567
 *MAR:	so that they can not be on the same page . 60443_62503
 *MAR:	porque@s:spa  uno@s:spa  dice@s:spa  una@s:spa cosa@s:spa  el@s:spa  otro@s:spa  dice@s:spa otra@s:spa and apparently it's been +//. 62274_65730
 %eng:	because one says one thing, the other says another and apparently it has been...
 *MAR:	we are just mincing [?] by standards but +//. 65751_67687
-*MAR:	[=! laugh]. 67572_68211
+*MAR:	&=laugh . 67572_68211
 *MAR:	eh@s:eng&spa next tuesday <a@s:spa las@s:spa > [//] &com  [//] a@s:spa  las@s:spa  nueve@s:spa o@s:spa  las@s:spa  diez@s:spa . 69197_72111
 %eng:	next tuesday at, com, at nine or ten.
 *MAR:	[- spa] qué hora prefieres? 72049_73215
@@ -83,7 +83,7 @@
 %eng:	oh, that's true, that's true, that's true.
 *MAR:	so sorry so sorry . 153675_155289
 *MAR:	&=laugh . 154309_155203
-*MAR:	right y@s:spa sí@s:spa &e 156585_157444
+*MAR:	right y@s:spa sí@s:spa &e . 156585_157444
 %eng:	right, yes.
 *MAR:	A@s:eng&spa es@s:spa cuestión@s:spa de@s:spa check it through that everything is ok . 157804_160753
 %eng:	A is a matter of check it through that everything is ok.
@@ -254,7 +254,7 @@
 *MAR:	he said we can call him at cell or something but he has meetings all next week . 517911_521556
 *MAR:	he says +"/. 521445_522374
 *MAR:	+" you are not gonna leave it but I will work until friday . 521514_524173
-*MAR:	it's like oh@s:end&spa my god . 523976_524986
+*MAR:	it's like oh@s:eng&spa my god . 523976_524986
 %com:	pause.
 *MAR:	oki dok(i). 529646_530343
 *MAR:	all right . 530912_531295
@@ -274,7 +274,7 @@
 *MAR:	but did you tell him que@s:spa Craig@s:eng&spa dijo@s:spa that they are already been altered verdad@s:spa? 565381_568702
 %eng:	but did you tell him that Craig said that they are already been altered right?
 *OSE:	www .
-*MAR:	 that's right . 573230_573973
+*MAR:	that's right . 573230_573973
 *MAR:	they &s +/. 575215_575784
 *OSE:	www .
 *MAR:	on the eighteen it's a teacher plannig day so we should +//. 586397_590658
@@ -435,7 +435,7 @@
 *MAR:	now they are going to Max@s:eng&spa and James@s:eng&spa . 1005087_1006794
 *MAR:	when Danny grows up the one who is reading now (be)cause he is much older . 1007788_1010690
 *MAR:	they all go to +... 1010681_1011877
-*OSE:	www ..
+*OSE:	www .
 *MAR:	xxx my sister xxx . 1013549_1015430
 *MAR:	xxx . 1016335_1018030
 *MAR:	my nephew is twenty_four . 1018731_1020786

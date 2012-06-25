@@ -2,15 +2,14 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|MAR|45;|female|||Adult||
-@ID:	spa, eng|bangor3|OSE|||||Adult||
+@ID:	spa, eng|Maria|MAR|45;|female|||Adult||
+@ID:	spa, eng|Maria|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleague.
-@Date: JAN-2008
-@Transcriber: Esther Núñez, Sarah Fairchild.  Original translation by Esther Núñez
-@Time Duration: 00:31:50
-@Media:	MAR20, audio
-@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined,
-@s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Date:	25-MAR-2008
+@Transcriber:	Esther Núñez, Sarah Fairchild.  Original translation by Esther Núñez
+@Time Duration:	00:31:50
+@Media:	maria20, audio
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MAR:	no@s:eng&spa pero@s:spa vino@s:spa porque@s:spa he came to check on my machine . 2589_4708
 %eng:	no but he came because he came to check on my machine.
 *OSE:	www .
@@ -29,7 +28,7 @@
 *MAR:	yo@s:spa le@s:spa invité@s:spa pa@s:spa Easter porque@s:spa me@s:spa daba@s:spa pena@s:spa el@s:spa pobre@s:spa aquí@s:spa solo@s:spa sin@s:spa familia@s:spa ni@s:spa nada@s:spa .  38312_43125
 %eng:	I invited him for Easter because I felt sorry that the poor thing was here on his own without family or anything.
 *MAR:	so we (.) had him over for Easter  [=! background_noises] . 43143_44850
-*MAR:	[-spa] me dice +"/. 44862_45123
+*MAR:	[- spa] me dice +"/. 44862_45123
 %eng:	he says to me.
 *MAR:	+" ay@s:spa sí@s:spa I feel so bad ! 45117_46795
 %eng:	oh yes I feel so bad!
@@ -39,10 +38,10 @@
 *OSE:	+< www .
 *MAR:	+< did he just get it ? 57205_58146
 *OSE:	+< www .
-*MAR:	[-spa] no te lo creo . 59098_59998
+*MAR:	[- spa] no te lo creo . 59098_59998
 %eng:	I don't believe you.
 *OSE:	www .
-*MAR:	[-spa] esto diez dólares ? 60950_62372
+*MAR:	[- spa] esto diez dólares ? 60950_62372
 %eng:	this ten dollars?
 *OSE:	www .
 *MAR:	coño está +/. 63864_64514
@@ -52,52 +51,52 @@
 %eng:	who xxx that one?
 *MAR:	Miguel@s:spa . 67629_67914
 *OSE:	www .
-*MAR:	coño@s:spa that's [//] that diez@s:spa dólares@s:spa na@s:spa más@s:spa !? 68747_70483
+*MAR:	coño@s:spa that's [//] that diez@s:spa dólares@s:spa na@s:spa más@s:spa +!? 68747_70483
 %eng:	bloody hell that's that ten dollars only?
 *MAR:	that's really cheap ! 72715_73679
 %com:	María is checking the suitcase.
 *OSE:	www .
-*MAR:	[-spa] <qué comieron> [//] qué (.) pidieron &=noise ? 83757_84907
+*MAR:	[- spa] <qué comieron> [//] qué (.) pidieron &=noise ? 83757_84907
 %eng:	what did you eat? what did you order?
 *OSE:	www .
 %com:	Maria is reading a gossip magazine and she is talking with a colleague about a feature there. They are talking about a famous couple, Jennifer Lopez and Marc Anthony.
-*MAR:	[-spa] cuánto le habrán pagado pa las fotos <de los> [/] de los &=noise niños ? 90088_93554
+*MAR:	[- spa] cuánto le habrán pagado pa las fotos <de los> [/] de los &=noise niños ? 90088_93554
 %eng:	how much do you think they were paid for the pictures of the children?
 *OSE:	www .
-*MAR:	[-spa] &=noise y qué hicieron con ello ? 94866_96085
+*MAR:	[- spa] &=noise y qué hicieron con ello ? 94866_96085
 %eng:	what did they do with that?
 *MAR:	lo@s:spa dieron@s:spa a@s:spa [//] con@s:spa charity I hope ? 96085_98163
 %eng:	they gave it to, with charity I hope?
 *OSE:	www .
-*MAR:	[-spa] a ver . 105821_106642
+*MAR:	[- spa] a ver . 105821_106642
 %eng:	let me see.
 *OSE:	www .
 *MAR:	what do you mean she's doing a triathlon ? 116320_117673
 *OSE:	+< www .
 *MAR:	like the kids are gonna be proud of a (.) six weeks um@s:eng&spa and you know . 143493_147040
 *OSE:	+< www .
-*MAR:	[-spa] ay por favor . 157725_159153
+*MAR:	[- spa] ay por favor . 157725_159153
 %eng:	oh please.
 *OSE:	+< www .
-*MAR:	[-spa] sh@s:eng&spa por favor ! 178734_179942
+*MAR:	[- spa] sh@s:eng&spa por favor ! 178734_179942
 %eng:	please!
-*MAR:	[-spa] &=coughs a ver déjame ver dónde están las fotos de la casa . 179943_182463
+*MAR:	[- spa] &=coughs a ver déjame ver dónde están las fotos de la casa . 179943_182463
 %eng:	let's see, let me see where are the pictures of the house.
 *OSE:	www .
-*MAR:	[-spa] el cuarto [=! mumbles] +... 183699_184349
+*MAR:	[- spa] el cuarto [=! mumbles] +... 183699_184349
 %eng:	the bedroom...
 *MAR:	déjame@s:spa but [=! mumbles] +... 184302_185555
 %eng:	let me but...
 *OSE:	www .
-*MAR:	[-spa] y él no tiene una pila de hijos <con otra gente> [//] con otra mujer ? 219895_222559
+*MAR:	[- spa] y él no tiene una pila de hijos <con otra gente> [//] con otra mujer ? 219895_222559
 %eng:	and doesn't he have a lot of children with other people? with other woman?
 *OSE:	+< www .
-*MAR:	++ [-spa] con la [/] (.) la portorriqueña . 224276_226238
+*MAR:	++ [- spa] con la [/] (.) la portorriqueña . 224276_226238
 %eng:	with the, the Puerto Rican lady.
 *OSE:	+< www .
-*MAR:	[-spa] le gustan las por(torriqueñas) +//. 227203_227797
+*MAR:	[- spa] le gustan las por(torriqueñas) +//. 227203_227797
 %eng:	he likes Puerto Rican ladies.
-*MAR:	[-spa] bueno él es portorro también . 227789_228860
+*MAR:	[- spa] bueno él es portorro también . 227789_228860
 %eng:	well he is Puerto Rican too.
 *MAR:	&=coughs . 229845_230796
 *OSE:	www .
@@ -116,20 +115,20 @@
 *MAR:	there's nothing pink . 265341_266275
 *MAR:	there's nothing . 266240_266844
 *OSE:	www .
-*MAR:	+< [-spa] espérate [/] espérate . 267279_267895
+*MAR:	+< [- spa] espérate [/] espérate . 267279_267895
 %eng:	wait, wait.
-*MAR:	 [-spa] aquí tienen (.) lo mismo que tienen los hijos míos la medalla . 267912_270891
+*MAR:	[- spa] aquí tienen (.) lo mismo que tienen los hijos míos la medalla . 267912_270891
 %eng:	here they have got the same thing that my children have, the medal.
 *OSE:	+< www .
-*MAR:	[-spa] aquí está la azul . 270843_271542
+*MAR:	[- spa] aquí está la azul . 270843_271542
 %eng:	here is the blue one.
-*MAR:	[-spa] y aquí está el rosado &=bang . 271550_272742
+*MAR:	[- spa] y aquí está el rosado &=bang . 271550_272742
 %eng:	and here is the pinky one.
-*MAR:	[-spa] &=coughs t(odo) [//] es todo blanco . 274294_275804
+*MAR:	[- spa] &=coughs t(odo) [//] es todo blanco . 274294_275804
 %eng:	all is white.
-*MAR:	[-spa] muy formal . 275793_277067
+*MAR:	[- spa] muy formal . 275793_277067
 %eng:	very formal.
-*MAR:	[-spa] es muy formal . 277416_278146
+*MAR:	[- spa] es muy formal . 277416_278146
 %eng:	it's very formal.
 *OSE:	www .
 %com:	Maria is reading the magazine out loud.
@@ -137,24 +136,24 @@
 *MAR:	+" that was the last attachment we had [=! reads] . 291036_292957
 *MAR:	+" where it was just us [=! reads] . 292957_294182
 *MAR:	ay@s:spa please . 294188_294908
-*MAR:	[-spa] espérate [/] espérate . 294992_295497
+*MAR:	[- spa] espérate [/] espérate . 294992_295497
 %eng:	wait, wait.
 *MAR:	+" I miss feeling them inside of me . 296133_297950
 *MAR:	says Jennifer +". 298019_298780
 *MAR:	+" it's funny . 298796_299433
 *MAR:	+" when their little umbilical cords fell off I cried &=noise . 299525_302689
 *OSE:	www .
-*MAR:	[-spa] sí estaba gordita . 304747_305844
+*MAR:	[- spa] sí estaba gordita . 304747_305844
 %eng:	yes, she was big.
 *OSE:	+< www .
-*MAR:	[-spa] cincuenta libras . 307502_308721
+*MAR:	[- spa] cincuenta libras . 307502_308721
 %eng:	fifty pounds.
 *OSE:	www .
 *MAR:	even with twins . 310723_312099
 *OSE:	www .
 *MAR:	forty [//] maybe even forty or forty five with twins . 313958_317050
 *OSE:	+< www .
-*MAR:	[-spa] sí exacto [=! laughs] . 335537_336796
+*MAR:	[- spa] sí exacto [=! laughs] . 335537_336796
 %eng:	yes exactly.
 *OSE:	www .
 *MAR:	no@s:eng&spa olvídate@s:spa al@s:spa día@s:spa siguien(te)@s:spa +//. 337833_339673
@@ -162,25 +161,25 @@
 *OSE:	+< www .
 *MAR:	+" designers Dolce@s:eng&spa and Gabbana@s:eng&spa presented the babies with custom-made fur wraps [=! reads] . 352293_357663
 *OSE:	www .
-*MAR:	+< [-spa] dónde están ? 360452_361514
+*MAR:	+< [- spa] dónde están ? 360452_361514
 *OSE:	+< www .
 *MAR:	+< oh@s:eng&spa (.) the one here where they were laying in them ? 363102_365372
 *OSE:	www .
 *MAR:	el@s:spa pink . 367968_368492
 %eng:	the pink one.
-*MAR:	[-spa] y dónde está el azul ? 368492_369365
+*MAR:	[- spa] y dónde está el azul ? 368492_369365
 %eng:	and where is the blue one?
 *MAR:	el@s:spa pobre@s:spa Max@s:eng&spa lo@s:spa [/] lo@s:spa [/] lo@s:spa rodean@s:spa de@s:spa rosadito@s:spa . 369355_372817
 %eng:	poor Max is surrounded by pinky.
 %com:	they are talking about Jennifer Lopez's son.
 *MAR:	+" it's just made me feel so good [=! reads] . 377504_379385
 *MAR:	+" that my children were being welcomed into the [=! reads] +//. 379385_381463
-*MAR:	[-spa] ay por favor . 381422_382334
+*MAR:	[- spa] ay por favor . 381422_382334
 %eng:	oh please.
 *OSE:	www .
 *MAR:	olvídate@s:spa si@s:spa tiene@s:spa como@s:spa tres@s:spa trainers ! 389509_391047
 %eng:	forget it, she has about three trainers.
-*MAR:	[-spa] tiene un cocinero ! 391697_392794
+*MAR:	[- spa] tiene un cocinero ! 391697_392794
 %eng:	she has a cook!
 *OSE:	www .
 *MAR:	oh@s:eng&spa she's not breastfeeding . 399142_400373
@@ -193,39 +192,39 @@
 *MAR:	I mean like dos@s:spa goticas@s:spa de@s:spa nada@s:spa . 420864_422705
 %eng:	I mean like nothing more than two drops.
 *MAR:	with <none of us> [//] none four . 423575_425143
-*MAR:	[-spa] con el primero dice mi mamá que probó y probó . 425154_428254
+*MAR:	[- spa] con el primero dice mi mamá que probó y probó . 425154_428254
 %eng:	my mum says that she tried and tried with the first one.
 *MAR:	le@s:spa daban@s:spa toda@s:spa clase@s:spa de@s:spa you know shakes and things to +//. 428197_431854
 %eng:	she was given all sorts of you know shakes and things to...
-*MAR:	[-spa] nada . 432088_432581
+*MAR:	[- spa] nada . 432088_432581
 %eng:	nothing.
 *OSE:	www .
-*MAR:	[-spa] nada . 432786_433238
+*MAR:	[- spa] nada . 432786_433238
 %eng:	nothing.
-*MAR:	[-spa] con el segundo dice que probó . 433238_434553
+*MAR:	[- spa] con el segundo dice que probó . 433238_434553
 %eng:	she says that she tried with the second one.
-*MAR:	[-spa] y ya con mi hermana dijo +"/. 434533_435519
+*MAR:	[- spa] y ya con mi hermana dijo +"/. 434533_435519
 %eng:	and, with my sister, she said.
 *MAR:	+" phew@s:eng&spa forget it . 435498_436176
 *MAR:	+" I'm not even gonna bother . 436163_437075
-*MAR:	[-spa] y mi hermana tampoco (.) <ni con> [/] ni con el grande ni con el chiquito &=coughs . 438199_443109
+*MAR:	[- spa] y mi hermana tampoco (.) <ni con> [/] ni con el grande ni con el chiquito &=coughs . 438199_443109
 %eng:	and my sister with neither the oldest or the youngest.
 *MAR:	what's with this let's put your feet up ? 443690_445919
 *MAR:	I mean that's so posed . 445924_447347
 *OSE:	www .
-*MAR:	[-spa] (es)tá puñetero . 452519_453825
+*MAR:	[- spa] (es)tá puñetero . 452519_453825
 %eng:	he looks wicked.
 *MAR:	he looks very queer . 454562_455654
 *MAR:	+" matching three thousand xxx [=! reads] . 456780_459438
 *MAR:	+" gifts from pals Eva@s:spa Longoria@s:eng&spa and hairstylist Ken@s:eng&spa Paves@s:eng&spa [=! reads] . 459813_463633
 *MAR:	ay@s:spa please . 463702_464486
 *MAR:	+" the nineteen sixty-two Mercedes was a Christmas gift for Jennifer@s:eng&spa from Marc@s:eng&spa along with a Himalayan cat named Misty [=! reads] . 470993_477503
-*MAR:	[-spa] ay por favor . 478330_479111
+*MAR:	[- spa] ay por favor . 478330_479111
 %eng:	oh please.
 *OSE:	www .
 *MAR:	sí@s:spa un@s:spa convertible . 481397_482589
 %eng:	yes a convertible.
-*MAR:	[-spa] está lindo . 482527_483493
+*MAR:	[- spa] está lindo . 482527_483493
 %eng:	it's gorgeous.
 *MAR:	ha@s:eng&spa <looks f(ull)> [//] (.) looking glam in full make-up (.) and a bathrobe &=laughs . 486040_490273
 *MAR:	&=laughs . 490814_491563
@@ -236,7 +235,7 @@
 *OSE:	www .
 %com:	brief pause.
 *OSE:	www .
-*MAR:	[-spa] ay por favor ! 523935_524753
+*MAR:	[- spa] ay por favor ! 523935_524753
 %eng:	oh please.
 *OSE:	www .
 *MAR:	+< a public school . 529110_530410
@@ -250,7 +249,7 @@
 *MAR:	you don't . 566596_567298
 *MAR:	that thing doesn't +//. 567655_568236
 *MAR:	I mean they don't fold down . 568229_569524
-*MAR:	[-spa] pero es una +//. 569503_570284
+*MAR:	[- spa] pero es una +//. 569503_570284
 %eng:	but it's a...
 *MAR:	it [/] it's not a +//. 571661_572525
 *MAR:	it [/] it is a showing off coche@s:spa . 572862_575155
@@ -264,25 +263,25 @@
 *OSE:	+< www .
 *MAR:	con@s:spa dos@s:spa full +... 613979_615191
 %eng:	with two full...
-*MAR:	[-spa] qué decía aquí ? 615253_616116
+*MAR:	[- spa] qué decía aquí ? 615253_616116
 %eng:	what did it say here?
 *OSE:	www .
 *MAR:	+< two [/] two baby nurses on around-the-clock duty . 615972_619362
 *OSE:	www .
 *MAR:	two . 627438_628053
-*MAR:	[-spa] <y to> [//] y con to eso dicen que ellos son los que se levantan <a d(ar)> [//] a alimentar a los niños . 628335_633793
+*MAR:	[- spa] <y to> [//] y con to eso dicen que ellos son los que se levantan <a d(ar)> [//] a alimentar a los niños . 628335_633793
 %eng:	and after all that they said that they are the ones who get up to feed the children.
 *OSE:	+< www .
-*MAR:	[-spa]  (en)tonces pa que rayos tú tienes dos mujeres ? 633773_636279
+*MAR:	[- spa]  (en)tonces pa que rayos tú tienes dos mujeres ? 633773_636279
 %eng:	so what the hell do you employ two women for?
-*MAR:	[-spa] <pa que le estás> [///] le estás regalando el dinero . 636300_638375
+*MAR:	[- spa] <pa que le estás> [///] le estás regalando el dinero . 636300_638375
 %eng:	why are you? you are paying them for nothing.
 *OSE:	+< www .
-*MAR:	+< [-spa] ay oye ! 641559_642401
+*MAR:	+< [- spa] ay oye ! 641559_642401
 %eng:	hey!
 *OSE:	+< www .
 *MAR:	&=laughs . 644792_645483
-*MAR:	[-spa] qué ma(la) [=! laughs] ! 645488_645976
+*MAR:	[- spa] qué ma(la) [=! laughs] ! 645488_645976
 %eng:	how wicked!
 *OSE:	www .
 *MAR:	no@s:eng&spa they look normal . 647329_649000
@@ -293,10 +292,10 @@
 *OSE:	+< www .
 *MAR:	no@s:spa te@s:spa acuerdas@s:spa que@s:spa ese@s:spa era@s:spa el@s:spa lío@s:spa con@s:spa Tom@s:eng&spa Cruise@s:eng&spa (.) porque@s:spa la@s:spa niña@s:spa no@s:spa se@s:spa le@s:spa veía@s:spa la@s:spa foto@s:spa por@s:spa casi@s:spa seis@s:spa meses@s:spa que@s:spa +//. 655475_660713
 %eng:	don't you remember that was the rumour with Tom Cruise, because there wasn't any pictures of his daughter for almost six months that...
-*MAR:	[-spa] te acuerdas que decían que la chiquita tenía +/? 660734_662223
+*MAR:	[- spa] te acuerdas que decían que la chiquita tenía +/? 660734_662223
 %eng:	do you remember that they said the little girl had....?
 *OSE:	+< www .
-*MAR:	+< [-spa] ay por favor . 669466_670505
+*MAR:	+< [- spa] ay por favor . 669466_670505
 %eng:	oh please.
 *OSE:	+< www .
 *MAR:	+< ay@s:spa please . 683369_684350
@@ -304,7 +303,7 @@
 *OSE:	+< www .
 *MAR:	they claim that (.) th(ey) [/] they didn't do in vitro . 685554_688235
 *OSE:	+< www .
-*MAR:	+< so <what does that have to do with> that's nothing to do with in vitro ? 700676_703863
+*MAR:	+< so <what does that have to do with> [///] that's nothing to do with in vitro ? 700676_703863
 *OSE:	+< www .
 *MAR:	+< in vitro is <your own> [/] your own genes . 703991_706818
 *OSE:	www .
@@ -324,7 +323,7 @@
 *MAR:	I was always heard that the one that runs in the family is the identical . 731753_734773
 *MAR:	one egg [=! claps] splits into two &=coughs . 734755_737035
 *OSE:	www .
-*MAR:	+< [-spa] pero in vitro no significa que no es [//] son los genes de ellos . 741094_744176
+*MAR:	+< [- spa] pero in vitro no significa que no es [//] son los genes de ellos . 741094_744176
 %eng:	but in vitro doesn't mean that the genes aren't theirs.
 *OSE:	www .
 *MAR:	+< they take +/. 744908_745656
@@ -338,7 +337,7 @@
 *MAR:	because normally they don't . 753850_755493
 *MAR:	in fact I was watching (.) las@s:spa noticias@s:spa . 755903_757793
 %eng:	in fact I was watching the news.
-*MAR:	y@s:spa había@s:spa una@s:spa mujer @s:spa que@s:spa salió@s:spa con@s:spa identical (.) triplets . 758102_760916
+*MAR:	y@s:spa había@s:spa una@s:spa mujer@s:spa que@s:spa salió@s:spa con@s:spa identical (.) triplets . 758102_760916
 %eng:	and there was a woman on the news who has had identical triplets.
 *OSE:	www .
 *MAR:	and <they did in> [/] they did in vitro . 762334_763977
@@ -358,27 +357,27 @@
 *MAR:	le@s:spa pusieron@s:spa un@s:spa solo@s:spa embryo (.) pa@s:spa que@s:spa bueno@s:spa si@s:spa cogía@s:spa bien@s:spa perfecto@s:spa &=bang [=! laughs] . 789361_794270
 %eng:	she was implanted with only one embryo to see well if it worked well, brilliant.
 *OSE:	+< www .
-*MAR:	+< [-spa] y cayeron tr(es) idén(ticos) [=! laughs] +/. 794263_795931
+*MAR:	+< [- spa] y cayeron tr(es) idén(ticos) [=! laughs] +/. 794263_795931
 %eng:	and they ended up with three identical...
 *OSE:	+< www .
-*MAR:	[-spa] tres idénticos [=! laughs] . 796858_798011
+*MAR:	[- spa] tres idénticos [=! laughs] . 796858_798011
 %eng:	three identical...
 *MAR:	<se@s:spa le@s:spa pintan@s:spa las@s:spa uñas@s:spa> [///] like each of them have a different colored nail painted so they can tell them apart because they're identical [=! laughs] . 797980_805220
 %eng:	they paint the nails like each of them have a different colored nail painted to they can tell them apart because they're identical.
-*MAR:	[-spa] tú te imaginas [=! laughs] . 806382_807538
+*MAR:	[- spa] tú te imaginas [=! laughs] . 806382_807538
 %eng:	can you imagine?
-*MAR:	[-spa] y dice el marido +"/. 807532_808263
+*MAR:	[- spa] y dice el marido +"/. 807532_808263
 %eng:	and the husband says.
 *MAR:	+" here they were doing everything right . 808281_809563
 *MAR:	+" we only want one kid . 809651_811160
 *MAR:	+" let's not do them +/. 811560_812559
 *OSE:	+< www .
-*MAR:	+< [-spa] ya gasta &=bang &=laughs ! 813370_815079
+*MAR:	+< [- spa] ya gasta &=bang &=laughs ! 813370_815079
 %eng:	enough!
 *OSE:	www .
 *MAR:	cómo@s:spa xxx . 851638_852369
 %eng:	how xxx ?
-*MAR:	[-spa] cuál es la diferencia ? 854953_855707
+*MAR:	[- spa] cuál es la diferencia ? 854953_855707
 %eng:	what's the difference?
 *OSE:	www .
 *MAR:	oh@s:eng&spa no@s:eng&spa I don't like the baby blue . 858531_860261
@@ -388,22 +387,22 @@
 %eng:	Pam offered that option?
 *OSE:	+< www .
 *MAR:	no@s:eng&spa I like this better . 866505_868205
-*MAR:	[-spa] yo ví el de Ramona y +/. 868554_870075
+*MAR:	[- spa] yo ví el de Ramona y +/. 868554_870075
 %eng:	I saw Ramona's one and...
 *OSE:	+< www .
-*MAR:	[-spa] lo había cambia(do) +/. 874170_875180
+*MAR:	[- spa] lo había cambia(do) +/. 874170_875180
 %eng:	she had changed it...
 *OSE:	+< www .
-*MAR:	[-spa] y por qué ? 876219_877235
+*MAR:	[- spa] y por qué ? 876219_877235
 %eng:	and why?
 *OSE:	www .
-*MAR:	[-spa] las mías todas vinieron azules . 880889_882300
+*MAR:	[- spa] las mías todas vinieron azules . 880889_882300
 %eng:	mine were all blue.
 *OSE:	www .
 *MAR:	oye@s:spa gracias@s:spa Katie@s:eng&spa te@s:spa lo@s:spa agradezco@s:spa (be)cause I hate that one . 883253_886177
 %eng:	hey thanks, Katie, I am grateful because I hate that one.
 *MAR:	I really don't like it . 886184_887194
-*MAR:	[-spa] yo se lo vi en el suéter de [/] de +/. 887205_888871
+*MAR:	[- spa] yo se lo vi en el suéter de [/] de +/. 887205_888871
 %eng:	I saw that in the sweater of...
 *OSE:	+< www .
 *MAR:	I'll have to bring my tee [//] black tee shirt again because <I think> [/] I think it's this color . 895030_900198
@@ -411,14 +410,14 @@
 *MAR:	I'll have to bring it in . 900992_901764
 *OSE:	www .
 *MAR:	looks horrible . 904388_905056
-*MAR:	[-spa] &=coughs no me gustó . 905354_906018
+*MAR:	[- spa] &=coughs no me gustó . 905354_906018
 %eng:	I didn't like it.
-*MAR:	[-spa] yo pensé que lo Ramona era por equivocación . 906028_908133
+*MAR:	[- spa] yo pensé que lo Ramona era por equivocación . 906028_908133
 %eng:	I thought that Ramona's one was a mistake.
 *OSE:	+< www .
-*MAR:	[-spa] y no le dijiste [=! laughs] +"/. 913662_914274
+*MAR:	[- spa] y no le dijiste [=! laughs] +"/. 913662_914274
 %eng:	and you didn't tell him.
-*MAR:	+" [-spa] María te lo va a tirar por la cabeza [=! laughs] ! 914269_916086
+*MAR:	+" [- spa] María te lo va a tirar por la cabeza [=! laughs] ! 914269_916086
 %eng:	María is going to throw it at you!
 *OSE:	www .
 *MAR:	then he goes +"/. 918834_919362
@@ -432,11 +431,11 @@
 *MAR:	+" I had one of the best pregnancies ever [=! reads] . 965018_966765
 *MAR:	+" and I have to say one of the best husbands who helped me through every emotional xxx [=! reads] +/. 966796_970801
 *OSE:	+< www .
-*MAR:	[-spa] ay por favor ! 970620_972002
+*MAR:	[- spa] ay por favor ! 970620_972002
 %eng:	oh please!
-*MAR:	+" [-spa] qué cursi ! 972628_973457
+*MAR:	+" [- spa] qué cursi ! 972628_973457
 %eng:	how corny!
-*MAR:	[-spa] como diría mi [/] mi [/] mi hermana [=! laughs] +". 973457_976128
+*MAR:	[- spa] como diría mi [/] mi [/] mi hermana [=! laughs] +". 973457_976128
 %eng:	as my sister would say.
 %com:	Maria doesn't take part in the conversation for a while.
 *OSE:	www .
@@ -459,11 +458,11 @@
 *MAR:	they find something else . 1644440_1645572
 *OSE:	www .
 *MAR:	tú@s:spa ves@s:spa a@s:spa Katie@s:eng&spa en@s:spa un@s:spa P_T_A meeting ? 1650242_1652396
-*MAR:	[-spa] tú ves +/? 1652848_1653324
+*MAR:	[- spa] tú ves +/? 1652848_1653324
 *OSE:	+< www .
 *MAR:	+< shhh@s:eng&spa . 1654871_1655570
 *OSE:	+< www .
-*MAR:	+< [-spa] ay dios mío . 1656672_1658150
+*MAR:	+< [- spa] ay dios mío . 1656672_1658150
 %eng:	oh my god.
 *MAR:	&=laughs . 1659765_1660636
 *OSE:	www .

@@ -2,15 +2,14 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|MAR|45;|female|||Adult||
-@ID:	spa, eng|bangor3|OSE|||||Adult||
+@ID:	spa, eng|Maria|MAR|45;|female|||Adult||
+@ID:	spa, eng|Other_Speaker|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleague.
-@Date: JAN-2008
-@Transcriber: Sarah Fairchild, Esther Núñez.  Original translation by Esther Núñez
+@Date:	11-APR-2008
+@Transcriber:	Sarah Fairchild, Esther Núñez.  Original translation by Esther Núñez
 @Time Duration:	00:59:58
-@Media:	MAR30, audio
-@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined,
-@s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Media:	maria30, audio
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MAR:	+< well maybe partially because a lot (.) of [/] of the boy scout leaders are . 296_5248
 *MAR:	+< I mean and it [/] it sounds +... 5538_7134
 *MAR:	+< <and I> [/] and I'm making this up I might be . 7355_9625
@@ -28,14 +27,14 @@
 *MAR:	that [/] that's my theory (.) you know . 37666_39274
 *MAR:	they do require that (.) you know one of our leaders must be you know certified you know <those kind of things> [//] that those +//. 39420_45852
 *OSE:	+< www .
-*MAR:	most of us aren't you know . 46432_48011
-*MAR:	we don't +/. 46386_48197
+*MAR:	most of us aren't you know . 46432_47806
+*MAR:	we don't +/. 47835_48197
 *OSE:	+< www .
 *MAR:	but +//. 52925_53181
 *OSE:	www .
 *MAR:	hey Bob@s:eng&spa ! 56262_56860
 *MAR:	a question for you . 57556_58439
-*MAR:	who's our commissioning agent for FKKA ? 58479_61318
+*MAR:	who's our commissioning agent for F_K_K_A ? 58479_61318
 *MAR:	is it us because it's under fifty thousand ? 61463_63698
 *OSE:	www .
 *MAR:	right [/] right [/] right . 75177_75873
@@ -49,7 +48,7 @@
 *MAR:	but I think if it's under fifty thousand (.) square feet it can be done by (.) one of the engineer's designers . 92981_101770
 *OSE:	www .
 *MAR:	+< which is another presentation I went to yesterday . 104016_106152
-*MAR:	 it was by a company called Spinnaker@s:eng&spa Group@s:eng&spa that does +... 106198_109426
+*MAR:	it was by a company called Spinnaker@s:eng&spa Group@s:eng&spa that does +... 106198_109426
 *OSE:	+< www .
 *MAR:	+< they're doing the +/. 110443_111569
 *OSE:	www .
@@ -98,11 +97,11 @@
 *OSE:	www .
 *MAR:	oh@s:eng&spa . 486493_487149
 *OSE:	www .
-*MAR:	[-spa] y cómo que no ? 489004_489374
+*MAR:	[- spa] y cómo que no ? 489004_489374
 %eng:	how come not?
-*MAR:	[-spa] abre [/] abre allá arriba a ver . 489476_491140
+*MAR:	[- spa] abre [/] abre allá arriba a ver . 489476_491140
 %eng:	open open that over there to check.
-*MAR:	[-spa] abre el de arriba . 491648_492983
+*MAR:	[- spa] abre el de arriba . 491648_492983
 %eng:	open the upper one.
 *MAR:	just out of curiosity . 494686_496033
 *MAR:	no@s:eng&spa ? 496079_496660
@@ -116,7 +115,7 @@
 *MAR:	but I haven't done that yet . 558948_560037
 *OSE:	www .
 *MAR:	I made it . 564529_565272
-*MAR:	now <this one> [//] (.) this is an AutoCAD drawing . 565574_568082
+*MAR:	now <this one> [//] (.) this is an Autocad drawing . 565574_568082
 *MAR:	&=laughs . 567978_569046
 *OSE:	www .
 *MAR:	I've just traced it (.) because your stupid girl scout website doesn't give you the ability to download a decent [=! tinkling_noise] +/. 569542_575649
@@ -178,7 +177,7 @@
 *OSE:	+< www .
 *MAR:	yeah ! 684083_684455
 *MAR:	+, details [=! reads] [=! mumbles] +... 685337_686870
-*MAR:	I mean I don't need to make those [=! mumbles] +// . 686893_688704
+*MAR:	I mean I don't need to make those [=! mumbles] +//. 686893_688704
 *MAR:	+, reflection [=! reads] [=! mumbles] +... 688356_689726
 *MAR:	+, types of architecture (.) this is architecture [=! reads] +... 690021_693179
 *OSE:	www .
@@ -248,11 +247,11 @@
 *MAR:	and I already got xxx . 825797_827098
 *MAR:	+, tools of an architect . 827388_828735
 *MAR:	again these are Jane's little pictures . 828929_830572
-*MAR:	and then I show them a little bit about AutoCAD . 831307_833780
+*MAR:	and then I show them a little bit about Autocad . 831307_833780
 *MAR:	I stole it from +//. 833890_834749
-*MAR:	it's not even AutoCAD . 834749_835469
-*MAR:	you know AutoCAD doesn't have decent images to steal ? 835492_838244
-*MAR:	this was from like CAD or some website or some other . 838236_840953
+*MAR:	it's not even Autocad . 834749_835469
+*MAR:	you know Autocad doesn't have decent images to steal ? 835492_838244
+*MAR:	this was from like Cad or some website or some other . 838236_840953
 *MAR:	ah@s:eng&spa there's the elevation . 841325_842660
 *MAR:	and then (.) you know our school [=! tinkling_noise] . 843439_846115
 *MAR:	you know so they can see a real building . 846622_848654
@@ -288,7 +287,7 @@
 *MAR:	+" I'd have an easier life if I didn't have to work eighty billable hours a week . 920936_924059
 *OSE:	www .
 *MAR:	I mean there are people who say +"/. 929321_930859
-*MAR:	+"one day you know if I was to do something different I wouldn't do this . 930859_933692
+*MAR:	+" one day you know if I was to do something different I wouldn't do this . 930859_933692
 *MAR:	but for the most I mean . 933796_934905
 *MAR:	if I was to do something different it would still be design related . 935104_937850
 *MAR:	o_k@s:eng&spa you know graphic designer (.) you know . 938026_941039
@@ -314,7 +313,7 @@
 *MAR:	todavía@s:spa tienes@s:spa cookies ? 1055217_1056471
 %eng:	you still got cookies?
 *OSE:	www .
-*MAR:	[-spa] qué fue? . 1063813_1064451
+*MAR:	[- spa] qué fue ? 1063813_1064451
 *MAR:	what ? 1064533_1065119
 *MAR:	what happened [/] what happened ? 1066291_1067145
 *OSE:	www .
@@ -397,9 +396,9 @@
 *MAR:	this is probably +... 1347914_1351501
 *MAR:	twenty +/. 1352441_1352877
 *OSE:	www .
-*MAR:	this is a CAD color presentation xxx . 1355600_1358810
+*MAR:	this is a Cad color presentation xxx . 1355600_1358810
 *OSE:	www .
-*MAR:	but why would it be CAD color ? 1360870_1362240
+*MAR:	but why would it be Cad color ? 1360870_1362240
 *OSE:	www .
 *MAR:	that's right . 1364568_1365520
 *MAR:	this is the cameras . 1365520_1366565
@@ -413,7 +412,7 @@
 *MAR:	but you get the point . 1387883_1389021
 *MAR:	uh@s:eng&spa so it was the copies for the owner copies for the contractor copies for us copy for mechanical so it +/. 1389330_1395716
 *OSE:	www .
-*MAR:	the [/] the [/] <the CCTV> [//] the security cameras coordination . 1396266_1399755
+*MAR:	the [/] the [/] <the C_C_T_V> [//] the security cameras coordination . 1396266_1399755
 *OSE:	www .
 *MAR:	right . 1400324_1400579
 *OSE:	www .
@@ -427,7 +426,7 @@
 *OSE:	www .
 *MAR:	we should charge em@s:eng&spa for that one . 1415509_1416815
 *OSE:	www .
-*MAR:	[-spa] qué más tienes ? 1417279_1418034
+*MAR:	[- spa] qué más tienes ? 1417279_1418034
 %eng:	what else have you got?
 *OSE:	www .
 *MAR:	oh@s:eng&spa that's nice . 1419397_1420095
@@ -486,7 +485,7 @@
 *MAR:	well you were downstairs when I came back from the Las@s:eng&spa Vegas@s:eng&spa . 1582396_1585554
 *OSE:	www .
 *MAR:	five +//. 1586252_1586676
-*MAR:	he was the gold medalist for the AIA national convention about (.) three years ago . 1586676_1591691
+*MAR:	he was the gold medalist for the A_I_A national convention about (.) three years ago . 1586676_1591691
 *MAR:	so he was the speaker . 1592159_1593081
 *MAR:	usually <the gold medalist> [///] (.) they try to have them you know speak at one of the sessions on Saturday . 1593076_1598214
 *MAR:	and (.) you know it's [///] he [/] he pulls out +//. 1598677_1601417
@@ -591,7 +590,7 @@
 *MAR:	+" from now on anytime we go anywhere and it's camping you all have a permission slip none of you are going [=! taps] ! 1912181_1917057
 *MAR:	it's like &=bang coño@s:spa ! 1917961_1918577
 %eng:	it's like bloody hell!
-*MAR:	[-spa] porque es una mala crianza . 1919777_1921240
+*MAR:	[- spa] porque es una mala crianza . 1919777_1921240
 %eng:	because it's bad education.
 *MAR:	all of them have gotten away with it for years . 1920896_1923172
 *MAR:	and they think they'll just keep doing it . 1923079_1924565
@@ -796,7 +795,7 @@
 *MAR:	but we've selected those colors a long time ago . 3020865_3023169
 *MAR:	why had we never updated this ? 3023185_3024869
 *OSE:	www .
-*MAR:	+< and we still didn't read our ASI ? 3028990_3030982
+*MAR:	+< and we still didn't read our A_S_I ? 3028990_3030982
 *OSE:	www .
 *MAR:	no (.) [/] no I'll tell you what happened . 3045474_3047186
 *MAR:	this is a legend being xrefed from a different file . 3047432_3050515

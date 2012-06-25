@@ -6,16 +6,15 @@
 @ID:	eng, spa|Miami|MAR|45;|female|||Adult||
 @ID:	eng, spa|Miami|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleague.
-@Date:	JAN-2008
+@Date:	00-JAN-2008
 @Comment:	MAR is wearing a microphone to record conversation
-@Trancriber:	Maria Carmen Parafita Couto, Lara Gil Vallejo.  Original translation by Lara Gil Vallejo
+@Transcriber:	Maria Carmen Parafita Couto, Lara Gil Vallejo.  Original translation by Lara Gil Vallejo
 @Time Duration:	00:04:35
-@Media: maria7, audio
-@Comment:	Language markers : @s:spa = Spanish, @s:eng = English,
-@s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Media:	maria7, audio
+@Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MAR:	which movie ? 801_1295
 *OSE:	www .
-%Comment:	several speakers in background, the speaker is in a phone conversation
+@Comment:	several speakers in background, the speaker is in a phone conversation
 *MAR:	good morning Susan@s:eng&spa . 20419_21446
 %com:	phone conversation - long pauses when other speaker responds.
 *MAR:	it's Maria@s:eng&spa . 21336_21754
@@ -49,7 +48,7 @@
 *MAR:	like los@s:spa dos@s:spa tres@s:spa días@s:spa antes@s:spa de@s:spa Christmas . 93088_94812
 *MAR:	[- spa] y le digo +"/. 94795_95166
 %eng:	like two or three days before Christmas
-*MAR:	+" Juana@s:eng&spa tú@s:spa estás@s:spa loca@s:spa? . 95149_95700
+*MAR:	+" Juana@s:eng&spa tú@s:spa estás@s:spa loca@s:spa ? 95149_95700
 %eng:	and I tell her: Juana, are you crazy?
 *MAR:	[- spa] me dice +"/. 95880_96072
 %eng:	she tells me.
@@ -60,7 +59,7 @@
 *MAR:	right . 98838_101375
 *MAR:	so eh@s:eng&spa me@s:spa llamó@s:spa mister@s:eng&spa um Bowers@s:eng&spa . 101375_105705
 %eng:	so Mr Bowers called me.
-*MAR:	eh@eng&spa he wants you to do something for him . 105699_109583
+*MAR:	eh@s:eng&spa he wants you to do something for him . 105699_109583
 *MAR:	&di:m [///] you know el@s:spa vecino@s:spa de@s:spa A_one@s:eng que@s:spa se@s:spa queja@s:spa que@s:spa la@s:spa luz@s:spa de@s:spa (.) dump slide in his backyard or something . 109572_116921
 %eng:	you know the neighbor from A One who complains about the light, the dump slide in his backyard or something.
 *MAR:	that we put that light shield [///] the house light shield . 116910_121641
@@ -87,13 +86,13 @@
 *MAR:	and then his other thing he noted when he was at the U_One@s:eng siding and connector road (.) que@s:spa pusimos@s:spa luces@s:spa . 166943_173321
 %eng:	and then his other thing he noted that when he was at the UOne siding and connector road that we put lights on
 *MAR:	you know the new road we put in . 173300_174827
-*MAR:	[- spa] <me dice> [/] me dice esos están hasta más cerca todavía [!= laugh] (.) de los vecinos . 174803_179883
+*MAR:	[- spa] <me dice> [/] me dice esos están hasta más cerca todavía &=laugh (.) de los vecinos . 174803_179883
 %eng:	he tells me that those are even closer to the neighbors'.
 *MAR:	right . 179877_182635
 *MAR:	so he wants to at least have some [/] some comment from you from the photometrics saying you know the light level is [/] is acceptable you know whatever standard that is . 182587_190853
-*MAR:	I don't know how you wanna coach [?] it you know <they want> [//] they are not going to remove it but they wanna be able to say bueno@s:spa you know it's no different than (.) whatever your house your street light or something so+... 190822_200418
+*MAR:	I don't know how you wanna coach [?] it you know <they want> [//] they are not going to remove it but they wanna be able to say bueno@s:spa you know it's no different than (.) whatever your house your street light or something so +... 190822_200418
 *MAR:	which is the pole at A_One@s:eng and then at U_One@s:eng did we run photometrics for that new connector road way? 200410_208613
-*MAR:	ok so it'll be the same thing and we may have to put house shi(elds) you know home house shields on those para@s:spa por@s:spa lo@s:spa menos@s:spa quitar@s:spa un@s:spa poquitico@s:spa porque@s:spa he wants to at least show the+// 208607_216683
+*MAR:	ok so it'll be the same thing and we may have to put house shi(elds) you know home house shields on those para@s:spa por@s:spa lo@s:spa menos@s:spa quitar@s:spa un@s:spa poquitico@s:spa porque@s:spa he wants to at least show the +//. 208607_216683
 %eng:	ok so it'll be the same thing and we may have to put house shi(elds) you know home house shields on those in order to at least  remove a little bit because he wants to at least show the.
 *MAR:	mira@s:spa cuando@s:spa no@s:spa tenía@s:spa un@s:spa shield este@s:spa era@s:spa el@s:spa luz que@s:spa te@s:spa tocaba@s:spa . 216681_219665
 %eng:	look when he didn't have a shield this one was the one that corresponded to you.
@@ -107,7 +106,7 @@
 *MAR:	yes that is Hannah@s:eng&spa . 233585_234740
 *MAR:	she's smiling . 234740_237387
 *MAR:	xxx . 237354_238759
-*OSE:	 www . 238765_243258
+*OSE:	www . 238765_243258
 *MAR:	did you hear Hannah@s:eng&spa &=laughs ? 243246_246172
 *MAR:	Peter@s:eng&spa James@s:eng&spa and Lauren@s:eng&spa &=laughs . 246161_248779
 *OSE:	www . 248767_251147

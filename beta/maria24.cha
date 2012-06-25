@@ -3,20 +3,19 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|MAR|45;|female|||Adult||
-@ID:	spa, eng|bangor3|OSE|||||Adult||
+@ID:	spa, eng|Maria|MAR|45;|female|||Adult||
+@ID:	spa, eng|Maria|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleagues.
-@Date:	JAN-2008
+@Date:	10-APR-2008
 @Transcriber:	Lara Gil Vallejo.  Original translation by Rubén Chapela
 @Time Duration:	00:41:40
-@Media:	mar24, audio
-@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined,
-@s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
+@Media:	maria24, audio
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MAR:	oh@s:eng&spa you're recycling . 15813_17038
 *MAR:	you are so good . 16863_18042
 %com:	backgroung noise .
 *MAR:	goody morning . 83563_84950
-OSE:	www .
+*OSE:	www .
 *MAR:	[- spa] a ver ? 86930_87824
 %eng:	let's see?
 *MAR:	ay@s:spa is very pretty . 88422_89646
@@ -282,12 +281,12 @@ OSE:	www .
 *OSE:	www .
 *MAR:	I know . 664003_664513
 *MAR:	I always +//. 664420_664943
-*MAR:	those when I go to the zoo (.) I always feel (.) bad for the animals 665089_670104 	. 665036_670150
+*MAR:	those when I go to the zoo (.) I always feel (.) bad for the animals . 665089_670104
 *MAR:	although the zoos are much better than they were when you and I were kids . 670284_673482
 *OSE:	www .
 *MAR:	they were <in a> [/] in a una@s:spa caja@s:spa una@s:spa jaula@s:spa . 674510_677023
 %eng:	they were in a box, a cage.
-%com:  caja could be a translation from cage.
+%com:	caja could be a translation from cage.
 *OSE:	www .
 *MAR:	a chlorified [?] cage . 677743_679223
 *MAR:	and that was it . 679212_680274
@@ -316,7 +315,6 @@ OSE:	www .
 *MAR:	I remember going to the Washington@s:eng&spa zoo when I moved to Virginia@s:eng&spa . 715684_719249
 *MAR:	this was fifteen eighteen years ago . 719341_721809
 *MAR:	give or take . 721849_722720
-*MAR:	www .
 *MAR:	and I hated it . 723254_724136
 *MAR:	because it was still the old type zoo that still had a lot of the cages +//. 724170_727920
 *MAR:	they were converting . 727914_729214
@@ -324,7 +322,7 @@ OSE:	www .
 *MAR:	and I'm thinking +"/. 730096_730555
 *MAR:	+" man this is my tax dollars . 730538_731803
 *MAR:	you know . 731977_732372
-*MAR:		and [///] but they had the pandas@s:eng&spa . 732749_734200
+*MAR:	and [///] but they had the pandas@s:eng&spa . 732749_734200
 *MAR:	and I still remember going to see the pandas@s:eng&spa . 734810_737155
 *MAR:	and feeling so bad for them . 737422_739001
 *MAR:	the &pa [///] there was one inside and one in the top . 739286_741712
@@ -444,7 +442,7 @@ OSE:	www .
 *MAR:	oh@s:eng&spa I think that for some reason I think that you were Jeff@s:eng&spa . 1085847_1087612
 *MAR:	I'm sorry . 1087594_1088175
 *MAR:	I don't know why I think xxx +//. 1090137_1091275
-*MAR:		I guess the letter they adressed to me they just fax it . 1092395_1095605
+*MAR:	I guess the letter they adressed to me they just fax it . 1092395_1095605
 *MAR:	this is a thing that Sonia@s:eng&spa was telling me about . 1095686_1098420
 *MAR:	that we were disqualified or something . 1098689_1100773
 *OSE:	www .
@@ -561,11 +559,11 @@ OSE:	www .
 *OSE:	www .
 *MAR:	[- spa] mira allá . 1305764_1306287
 %eng:	look there.
-*MAR:	Pérez@s:emg&spa [///] a@s:spa Pérezs:eng&spa . 1306582_1308381
+*MAR:	Pérez@s:eng&spa [///] a@s:spa Pérez@s:eng&spa . 1306582_1308381
 *MAR:	xxx who's been doing +//. 1308509_1310111
 *MAR:	[- spa] ellos no los conozco &pe +/. 1310076_1311841
 %eng:	I don't know them, but...
-*OSE:	+<www .
+*OSE:	+< www .
 *MAR:	right . 1313095_1313449
 *MAR:	and I think so have they . 1313455_1314726
 *OSE:	www .
@@ -612,7 +610,7 @@ OSE:	www .
 *MAR:	no@s:spa . 1361584_1362124
 *MAR:	para@s:spa mí@s:spa es@s:spa (.) something . 1362182_1364713
 %eng:	for me it's something.
-*OSE:	+<www .
+*OSE:	+< www .
 *MAR:	which means we need to be diligent . 1364846_1366576
 *OSE:	+< www .
 *MAR:	we need to be diligent . 1366675_1367784
@@ -653,7 +651,7 @@ OSE:	www .
 %eng:	and he said.
 *MAR:	+" es@s:spa un@s:spa public fail form . 1424876_1426299
 %eng:	it's a public fail form.
-*MAR:		[- spa] pero la [/] la [///] xxx +//. 1426444_1427552
+*MAR:	[- spa] pero la [/] la [///] xxx +//. 1426444_1427552
 %eng:	but the...
 *MAR:	en@s:spa xxx county tienen@s:spa ese@s:spa salón@s:spa grande@s:spa . 1427304_1429637
 %eng:	in xxx county they have that big lounge.
@@ -661,7 +659,7 @@ OSE:	www .
 *MAR:	pero@s:spa en@s:spa xxx county no@s:spa es@s:spa tan@s:spa comfy como@s:spa eso@s:spa . 1431511_1434118
 %eng:	but in xxx county is not as comfy as that.
 *OSE:	www .
-*MAR:	 [- spa] es un &sa [///] imagínate el salón de nosotros de conferencias (.) chiquito . 1434536_1438222
+*MAR:	[- spa] es un &sa [///] imagínate el salón de nosotros de conferencias (.) chiquito . 1434536_1438222
 %eng:	imagine our conference hall, small.
 *MAR:	[- spa] tiene una mesa como cuatro o cinco gatos sentados ahí . 1439441_1442256
 %eng:	it has a table with four or five cats (persons) sitting there.
@@ -733,7 +731,7 @@ OSE:	www .
 *OSE:	www .
 *MAR:	termpera yes . 1527684_1528316
 *MAR:	but you know . 1528375_1529338
-MAR:	they love to p(aint) . 1528787_1530238
+*MAR:	they love to p(aint) . 1528787_1530238
 *MAR:	[- spa] y se acaban así . 1529565_1530882
 %eng:	and they end up like this.
 *OSE:	+< www .
@@ -890,7 +888,7 @@ MAR:	they love to p(aint) . 1528787_1530238
 *MAR:	because +/. 1871299_1871920
 *OSE:	www .
 *MAR:	really ? 1884395_1885016
-*MAR:	what was his problem ? 	1885272_1886322
+*MAR:	what was his problem ? 1885272_1886322
 *OSE:	www .
 *MAR:	ah@s:eng&spa bueno@s:spa . 1896760_1898089
 %eng:	ah, ok.
@@ -967,8 +965,8 @@ MAR:	they love to p(aint) . 1528787_1530238
 %eng:	I should do that, because it's through my...
 *MAR:	you know . 2376903_2377495
 *OSE:	www .
-*MAR:	 right . 2378145_2378551
-*MAR:	pero@s:spa en@s:spa que@s:spa [/] que@s:spa [//]  en @s:spa caso@s:spa que@s:spa alguien@s:spa +... 2378528_2380397
+*MAR:	right . 2378145_2378551
+*MAR:	pero@s:spa en@s:spa que@s:spa [/] que@s:spa [//]  en@s:spa caso@s:spa que@s:spa alguien@s:spa +... 2378528_2380397
 %eng:	but just in case someone...
 *MAR:	porque@s:spa Patrick@s:eng&spa me@s:spa dijo@s:spa que@s:spa él@s:spa no@s:spa sabía@s:spa que@s:spa tipo@s:spa ordering . 2380566_2383579
 %eng:	because Patrick told me that he didn't know what type ordering.
@@ -1004,12 +1002,12 @@ MAR:	they love to p(aint) . 1528787_1530238
 *MAR:	[- spa] no esa no es . 2424951_2425821
 %eng:	no, it's not that one.
 *OSE:	www .
-*MAR:	 [- spa] no tienen opción de blanco ? 2427017_2428486
+*MAR:	[- spa] no tienen opción de blanco ? 2427017_2428486
 %eng:	don't you have a white option?
 *OSE:	+< www .
-*MAR:	 they have a nice colour . 2440375_2441768
-*MAR:	I don't think I +// 2442563_2443567
-*MAR:	 I don't remember how much I spent . 2443556_2444902
+*MAR:	they have a nice colour . 2440375_2441768
+*MAR:	I don't think I +//. 2442563_2443567
+*MAR:	I don't remember how much I spent . 2443556_2444902
 *OSE:	www .
 *MAR:	[- spa] yo creo que era de veinte pesos . 2453952_2455177
 %eng:	I think it was twenty pesos
@@ -1027,7 +1025,7 @@ MAR:	they love to p(aint) . 1528787_1530238
 *OSE:	www .
 *MAR:	[- spa] qué es la que está rebajada ? 2467704_2469138
 %eng:	what is, the discounted one?
-*MAR:	xxx .
+*MAR:	xxx . 2469091_2469950
 *OSE:	www .
 *MAR:	[- spa] esa no está mal . 2470015_2471135
 %eng:	that's not bad.

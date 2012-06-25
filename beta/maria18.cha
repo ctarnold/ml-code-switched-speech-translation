@@ -3,14 +3,14 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|MAR|45;|female|||Adult||
-@ID:	spa, eng|bangor3|OSE|||||Adult||
+@ID:	spa, eng|Maria|MAR|45;|female|||Adult||
+@ID:	spa, eng|Maria|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleague.
-@Date:	JAN-2008
+@Date:	25-MAR-2008
 @Comment:	MAR is wearing a microphone to record conversation
 @Transcriber:	Maria Carmen Parafita Couto, Fraibet Aveledo, Lara Gil Vallejo.  Original translation by Rubén Chapela
 @Time Duration:	01:38:40
-@Media:	MAR18, audio
+@Media:	maria18, audio
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 *OSE:	www .
 *MAR:	[- spa] sí no . 11779_12104
@@ -568,7 +568,7 @@
 *MAR:	yeah . 1483178_1483550
 *OSE:	www .
 *MAR:	that's true . 1484705_1485030
-*MAR:	you did start before. 1485001_1486278
+*MAR:	you did start before . 1485001_1486278
 *OSE:	www .
 *MAR:	maybe pollen . 1488351_1489146
 *MAR:	maybe you are starting to get alergic to something . 1489065_1491532
@@ -734,7 +734,7 @@
 *MAR:	what does that mean? 1764973_1765751
 *OSE:	www .
 *MAR:	that's true . 1770366_1770743
-*MAR:	it is only for you . 1770319_1771654
+*MAR:	it is only for you . 1770765_1771508
 *MAR:	how did you figure that out? 1771351_1772355
 *OSE:	www .
 *MAR:	&=laugh . 1796122_1797243

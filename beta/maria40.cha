@@ -2,15 +2,15 @@
 @Begin
 @Languages:	spa, eng
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|MAR|45;|female|||Adult||
-@ID:	spa, eng|bangor3|OSE|||||Adult||
+@ID:	spa, eng|Maria|MAR|45;|female|||Adult||
+@ID:	spa, eng|Maria|OSE|||||Adult||
 @Situation:	MAR is in a house with some of her relatives, at a family reunion.
 @Comment:
-@Date:	JAN-2008
-@Transcriber:  Susana Sabín-Fernández, Rubén Chapela, Lara Gil Vallejo.  Original translation by Lara Gil Vallejo and Rubén Chapela
+@Date:	00-JAN-2008
+@Transcriber:	Susana Sabín-Fernández, Rubén Chapela, Lara Gil Vallejo. Original translation by Lara Gil Vallejo and Rubén Chapela
 @Comment:	MAR is wearing a recorder to tape conversation.
 @Time Duration:	02:25:47
-@Media:	MAR40, audio
+@Media:	maria40, audio
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:ita = Italian. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Multiple people speak at the same time throughout the majority of the recording. There is also a high level of background noise, but the volume of the recording sometimes gets very low. This impedes understanding of what is being said or who says it.
 *MAR:	okay@s:eng&spa . 11_501
@@ -50,7 +50,7 @@
 *MAR:	+< <para xxx> [//] de un micrófono built@s:eng in@s:eng ? 131187_132979
 %eng:	to [...] [//] from a built in microphone ?
 *OSE:	www .
-*MAR:	mejor porque la vainita está colgando luego del xxx .
+*MAR:	mejor porque la vainita está colgando luego del xxx . 138834_141986
 %eng:	better because the thing is latter hanging out from the [...] .
 *OSE:	+< www .
 *MAR:	mmhm . 144038_144544
@@ -116,7 +116,7 @@
 *MAR:	porque así +/. 306699_307968
 %eng:	because this way .
 *OSE:	+< www .
-*MAR:	+< sí todavía existe sí .
+*MAR:	+< sí todavía existe sí . 308871_310206
 %eng:	yes it still exists yes .
 *OSE:	+< www .
 *MAR:	sí existe todavía . 310190_311379
@@ -164,14 +164,14 @@
 *MAR:	se puede mover todos los juguetes de los hijos míos . 361515_365265
 %eng:	we can move the toys of my children .
 *OSE:	+< www .
-*MAR:	no sé xxx +/.
+*MAR:	no sé xxx +/. 366087_367543
 %eng:	I don't know [...]
 *OSE:	+< www .
 *MAR:	en el Freedom_Tower@s:eng&spa tien [/] <tienen que> [//] eh tenían <una exhibi> [//] no una exhibición como un evento (.) pa(ra) el Freedom_Tower@s:eng&spa la torre esa donde venían todos los cubanos . 372493_383265
 %eng:	in Freedom Tower they have an exhibition, not an exhibition, like an event to the Freedom Tower, the tower where all the Cubans came .
 *OSE:	www .
 *MAR:	+< y si vayas a &mia +//. 383178_384100
-%eng:	and if you go to &mia  .
+%eng:	and if you go to [...] .
 *MAR:	creo que yo les mandé a ustedes un link@s:eng . 384052_386804
 %eng:	I think I sent you a link .
 *OSE:	www .
@@ -284,7 +284,7 @@
 *MAR:	+< y quién las iba a ir xxx +..? 561514_563114
 %eng:	and who was going to [...] .
 *OSE:	+< www .
-*MAR:	+< oh@s:eng&spa !
+*MAR:	+< oh@s:eng&spa ! 567835_568603
 *OSE:	www .
 %com:	for a while several speakers talk all of them at the same time.
 *MAR:	si yo no me quejé . 599068_600156
@@ -334,7 +334,7 @@
 *OSE:	+< www .
 *MAR:	vengan let's@s:eng see@s:eng . 656819_657779
 %eng:	come on let's see .
-*MAR:	vas a ver cómo está xxx .
+*MAR:	vas a ver cómo está xxx . 657715_659251
 %eng:	let's see hoe the [...] is .
 *OSE:	+< www .
 *MAR:	[- eng] &uuu look ! 659836_660786
@@ -405,7 +405,7 @@
 *MAR:	oh@s:eng&spa ! 757994_758469
 *MAR:	okay@s:eng&spa . 758458_759280
 *MAR:	okay@s:eng&spa ya no más papo [?] . 759272_760883
-%eng:	ok,that's enough darling .
+%eng:	ok, that's enough, darling .
 *OSE:	www .
 *MAR:	+< ah ! 761844_762660
 *OSE:	www .
@@ -443,7 +443,7 @@
 *OSE:	+< www .
 *MAR:	+< y los otros . 816943_817978
 %eng:	and the others .
-*MAR:	no entonces le dije que todos tienen que ser (.) igual de duros .
+*MAR:	no entonces le dije que todos tienen que ser (.) igual de duros . 817962_822057
 %eng:	no then I told her that all of them must be equally hard .
 *OSE:	+< www .
 *MAR:	you@s:eng like@s:eng the@s:eng bread@s:eng Patrisha@s:eng&spa . 824009_825385
@@ -604,7 +604,7 @@
 *MAR:	bueno ya aprenderás a no agarrar las cosas calientes en las manos . 1247512_1250525
 %eng:	well you will learn not to hold hot things with your hands .
 *OSE:	www .
-*MAR:	+< xxx fuerte .
+*MAR:	+< xxx fuerte . 1257265_1259516
 %eng:	[...] strong .
 *OSE:	www .
 *MAR:	anda entonces &eee se merece que se haya quemado (.) porque no prestó atención . 1260576_1265888
@@ -676,7 +676,7 @@
 *MAR:	ay la [//] mmm es que la compañía estaba convirtiéndose más bien en [/] en plumbing@s:eng contractors@s:eng . 1384679_1391550
 %eng:	eh the company was transforming into more or less a plumbing contractor .
 *OSE:	www .
-*MAR:	+< y eso no le interesa .
+*MAR:	+< y eso no le interesa . 1391464_1393566
 %eng:	and he is not interested in that .
 *MAR:	you@s:eng know@s:eng él quiere hacer un poco más de diseño . 1393472_1395371
 %eng:	you know he wants to design a bit .
@@ -888,7 +888,7 @@
 *MAR:	sí pero estaba cansado porque +/. 1886749_1888359
 %eng:	yes but he was tired because .
 *OSE:	www .
-*MAR:	+, en el avión uno no [/] no se duerme .
+*MAR:	+, en el avión uno no [/] no se duerme . 1888971_1891185
 %eng:	in the plain you can't sleep .
 *OSE:	+< www .
 *MAR:	en el avión uno no duerme . 1893796_1895182
@@ -896,10 +896,10 @@
 *OSE:	+< www .
 *MAR:	lo leí en el periódico de hoy . 1900873_1903187
 %eng:	I read it at the newspaper today .
-*MAR:	cien vuelos en Chicago@s:eng&spa los cancelaron ayer .
+*MAR:	cien vuelos en Chicago@s:eng&spa los cancelaron ayer . 1903136_1906592
 %eng:	one hundred flights were cancelled yesterday in Chicago .
 *OSE:	+< www .
-*MAR:	cien vuelos cancelaron en Chicago@s:eng&spa ayer .
+*MAR:	cien vuelos cancelaron en Chicago@s:eng&spa ayer . 1906582_1909259
 %eng:	one hundred flights were cancelled yesterday in Chicago .
 *OSE:	www .
 *MAR:	bueno durante el xxx de ahora . 1910120_1912605
@@ -956,10 +956,10 @@
 *MAR:	el [/] el pobre que tenga que traducir la parcita [?] cómo se llama Catalina@s:eng&spa va a decir +"/. 2021453_2025770
 %eng:	the poor one that has to translate, the girl, how is she called, Catalina, is going to say .
 *OSE:	www .
-*MAR:	+< +" Dios mío !
+*MAR:	+< +" Dios mío ! 2025335_2028796
 %eng:	oh my god .
 *OSE:	+< www .
-*MAR:	+< xxx demasiada gente hablando al mismo tiempo .
+*MAR:	+< xxx demasiada gente hablando al mismo tiempo . 2030114_2033522
 %eng:	[...] too many people talking at the same time .
 *OSE:	+< www .
 *MAR:	+< gallega española . 2039847_2041575
@@ -968,27 +968,27 @@
 *MAR:	bueno y a mí Beni@s:eng&spa me tomó tiempo a veces entenderle . 2046556_2049809
 %eng:	well and i took time to understand Beni .
 *MAR:	ella me decía (.) la pacha o algo así pacha . 2049582_2053726
-%eng:	she told me 'pacha' or something like that 'pacha' .
+%eng:	she told me "pacha" or something like that, "pacha" .
 *MAR:	era pacha ? 2053558_2054592
-%eng:	was it 'pacha' ?
+%eng:	was it "pacha" ?
 *OSE:	+< www .
 *MAR:	sí digo +"/. 2054573_2055251
 %eng:	yes I say .
 *MAR:	+" &patcha ? 2055229_2055864
 *OSE:	www .
-*MAR:	algo parecido a pacha el biberón !
-%eng:	something similar to 'pacha' the feeding bottle .
+*MAR:	algo parecido a pacha el biberón ! 2056804_2059471
+%eng:	something similar to "pacha" the feeding bottle .
 *OSE:	+< www .
 *MAR:	+< se le xxx la pacha de [//] cuando es medio +//. 2059725_2062535
-%eng:	it has [...] the 'pacha' when it is half .
+%eng:	it has [...] the "pacha" when it is half .
 *MAR:	se tomó la pacha como a las tres de la tarde . 2062535_2064349
-%eng:	it had the 'pacha' at three in the afternoon .
+%eng:	it had the "pacha" at three in the afternoon .
 *MAR:	y yo dije +"/. 2064136_2064573
 %eng:	and I said .
 *MAR:	ah el biberón ! 2064515_2066056
 %eng:	ah the feeding bottle !
 *MAR:	algo [?] parecido a pacha no era pacha pero era algo así que no +... 2066050_2069202
-%eng:	similar to 'pacha', it wasn't 'pacha' but it was somethink like that that doesn't ...
+%eng:	similar to "pacha", it wasn't "pacha" but it was something like that that doesn't ...
 *MAR:	sepa Dios lo que era ! 2069349_2071242
 %eng:	god knows what it was .
 *MAR:	cua [//] las primeras cuatro veces cuando lo dije [?] xxx +"/. 2071203_2073352
@@ -1011,13 +1011,13 @@
 %eng:	yes .
 *OSE:	www .
 *MAR:	+< ah tanquearte ! 2127642_2129882
-%eng:	ah 'tanquearte' .
+%eng:	ah "tanquearte" .
 *OSE:	www .
 *MAR:	+< no . 2153374_2154126
 %eng:	no .
 *OSE:	www .
 *MAR:	tanquear . 2162499_2163368
-%eng:	'tanquear' .
+%eng:	"tanquear" .
 %com:	it means to fuel up a vehicle .
 *OSE:	www .
 *MAR:	no . 2171532_2172247
@@ -1041,20 +1041,20 @@
 *MAR:	dice el pa(dre) [?] que la pasó muy bien . 2232265_2233998
 %eng:	daddy [?] says that he he had fun .
 *OSE:	www .
-*MAR:	(es)tuvieron rato de rato !
+*MAR:	(es)tuvieron rato de rato ! 2247875_2250115
 %eng:	they were a lot of time .
 *OSE:	+< www .
-*MAR:	+< si ella te dijo que +/.
+*MAR:	+< si ella te dijo que +/. 2263725_2266200
 %eng:	if she told you that .
 *OSE:	+< www .
 *MAR:	+< bueno acuérdate que <él era> [/] él era [/] era el marinero . 2269004_2272481
 %eng:	well remember that he was the marine .
-*MAR:	era +/.
+*MAR:	era +/. 2272364_2273164
 %eng:	he was .
 *OSE:	+< www .
 *MAR:	bueno o tal vez se hace el que no sabía la media papa . 2275191_2278012
 %eng:	well maybe he pretends to know nothing .
-*MAR:	y sabe más de lo que +//.
+*MAR:	y sabe más de lo que +//. 2278012_2279639
 %eng:	and he knows more than .
 *OSE:	+< www .
 *MAR:	no cuando [//] él no era un merchant@s:eng marine@s:eng ? 2283834_2285924
@@ -1084,7 +1084,7 @@
 *MAR:	por cierto ahí hablando de dulces &re eh rompope (.) <ten de dieta> [?] en la nevera de fuera . 2382267_2387232
 %eng:	by the wat talking about sweets eh rompope, have for diet, in the outer refrigerator .
 *OSE:	www .
-*MAR:	ay ya lo descubrieron !
+*MAR:	ay ya lo descubrieron ! 2388825_2390345
 %eng:	ah you aleady discover it !
 *OSE:	+< www .
 *MAR:	qué ? 2394413_2394754
@@ -1103,7 +1103,7 @@
 *MAR:	pero sigue siendo <un sa> [/] un sacrilegio . 2409340_2412620
 %eng:	but it's still a sacrilege .
 *OSE:	+< www .
-*MAR:	a mí no me gustó mucho .
+*MAR:	a mí no me gustó mucho . 2417948_2419623
 %eng:	I didn't like it very much .
 *OSE:	+< www .
 *MAR:	mira que son inteligentes . 2432958_2434996
@@ -1114,7 +1114,7 @@
 *OSE:	+< www .
 *MAR:	+, y cuarenta spoons@s:eng . 2439585_2440555
 %eng:	and forty spoons .
-*MAR:	o sea que dan más tenedores que es lo que siempre hace falta más +/.
+*MAR:	o sea que dan más tenedores que es lo que siempre hace falta más +/. 2440161_2444742
 %eng:	so they give more forks because you need always more .
 *OSE:	+< www .
 *MAR:	<que es una caja de [/] de los otros plásticos> [?] . 2445620_2447940
@@ -1129,7 +1129,7 @@
 *MAR:	que no quiero chica ! 2459962_2461722
 %eng:	I don't want girl !
 *OSE:	www .
-*MAR:	mío !
+*MAR:	mío ! 2464563_2466424
 %eng:	mine .
 *OSE:	+< www .
 *MAR:	el xxx sin fondo ! 2466665_2468905
@@ -1269,16 +1269,16 @@
 *MAR:	y [//] pero tú echaste el cuento como na(da) más que tenía siete años de una manera que no captaba y papi llegó absolutamente loco [?] como si lo hubiera insultado . 2758308_2770181
 %eng:	but you told the story being only seven in a way that wasn't accurate and daddy came back mad, as he had been insulted .
 *OSE:	www .
-*MAR:	+< [- eng] <do you see> [/] do you see what I mean ?
+*MAR:	+< [- eng] <do you see> [/] do you see what I mean ? 2775935_2779413
 *MAR:	+< el spam@s:eng a ellos les encanta . 2779293_2781891
 %eng:	they love the spam .
 *OSE:	+< www .
 *MAR:	+< no <en la sierra> [//] en la hill@s:eng en el Hawaii@s:eng&spa en Polinesia@s:eng&spa todos esos les dan al xxx . 2813250_2819376
-%eng:	not in the mountains, in the hill, in Hawaii ,in Polynesia all of them are given to [...] .
+%eng:	not in the mountains, in the hill, in Hawaii, in Polynesia all of them are given to [...] .
 *MAR:	<y yo creo que> [///] <a mí me xxx> [///] creo que ahora que lo dices en República_Dominicana les gusta el spam@s:eng porque cuando llegaron los gringos con el spam@s:eng y pa(ra) esos es un delicatessen@s:eng&spa . 2819273_2826871
 %eng:	and I think that, to me [...], now you mention it in the Dominican Republic they like spam because when the Americans came with the spam and to them there's a delicatessen .
 *OSE:	www .
-*MAR:	ah pero el spam@s:eng <y el jamón de diablo era lo mismo> [?] .
+*MAR:	ah pero el spam@s:eng <y el jamón de diablo era lo mismo> [?] . 2850628_2853236
 %eng:	ah but the spam and the devil ham were the same .
 *OSE:	+< www .
 *MAR:	no boten la botella pa poder hacer más . 2897503_2900101
@@ -1286,16 +1286,16 @@
 *OSE:	+< www .
 *MAR:	el Miami_Herald@s:eng&spa tenía el otro día un artículo sobre el Encanto@s:eng&spa . 2925308_2930065
 %eng:	the Miami Herald had the oter day an article about Encanto .
-*MAR:	que tienen toda una asociación de sus [?] antiguos empleados del Encanto@s:eng&spa .
+*MAR:	que tienen toda una asociación de sus [?] antiguos empleados del Encanto@s:eng&spa . 2930056_2934867
 %eng:	that they have an Encanto ex-employee association .
 *OSE:	+< www .
-*MAR:	y que se quemó qué es tres días antes que la invasión de +..?
+*MAR:	y que se quemó qué es tres días antes que la invasión de +..? 2942589_2947117
 %eng:	and it was burnt three days after the invasion of ..?
 *OSE:	www .
 *MAR:	+< sí ? 2947593_2948078
 %eng:	yes ?
 *OSE:	www .
-*MAR:	tres cuatro días antes <de de> [/] de +..?
+*MAR:	tres cuatro días antes <de de> [/] de +..? 2949223_2951548
 %eng:	three, four days before the ?
 *OSE:	+< www .
 *MAR:	ah . 2952674_2953788
@@ -1328,7 +1328,7 @@
 %eng:	we have to put, we have to put .
 *OSE:	www .
 *MAR:	le pusiste Oxiclean@s:eng&spa ? 3037808_3039136
-%eng:	 did you put Oxiclean ?
+%eng:	did you put Oxiclean ?
 *OSE:	www .
 *MAR:	+< xxx que es lo que está sucio ? 3039918_3041273
 %eng:	[...] what is it that is dirty ?
@@ -1339,7 +1339,7 @@
 *MAR:	+< xxx un rato . 3057028_3058868
 %eng:	[...] a while .
 *OSE:	www .
-*MAR:	+< pero lo secaste en la secadora ?
+*MAR:	+< pero lo secaste en la secadora ? 3081158_3083948
 %eng:	but did you leave it in the dryer ?
 *OSE:	+< www .
 *MAR:	<porque ya> [/] porque lo hubieras dejado mojado porque ya le +/. 3085850_3089476
@@ -1702,7 +1702,7 @@
 *MAR:	no te asustes . 3977817_3979566
 %eng:	don't be scared .
 *OSE:	www .
-*MAR:	+< okay@s:eng&spa .
+*MAR:	+< okay@s:eng&spa . 3986409_3987379
 *OSE:	www .
 *MAR:	[- eng] alright ? 3996047_3996633
 *MAR:	[- eng] or we're not ready yet ? 3996628_3998095
@@ -1751,7 +1751,7 @@
 *MAR:	Silvio@s:eng&spa tú tienes cara que tú vienes a lavar platos verdad ? 4138473_4141807
 %eng:	Silvio you look like coming to wash dishes right ?
 *OSE:	www .
-*MAR:	[- eng] he has that look on his face .
+*MAR:	[- eng] he has that look on his face . 4141946_4143903
 *OSE:	+< www .
 *MAR:	+< la rompí . 4144302_4146446
 %eng:	I broke it .
@@ -1945,7 +1945,7 @@
 *MAR:	<da igual> [?] eight@s:eng en xxx .
 *OSE:	+< www .
 *MAR:	[- eng] so you see ? 4654451_4655912
-*MAR:	we've@s:eng <done@s:eng that@s:eng> in@s:eng la playa . 4655283_4656536
+*MAR:	we've@s:eng done@s:eng that@s:eng in@s:eng la playa . 4655283_4656536
 %eng:	we have done that in the beach .
 *OSE:	www .
 *MAR:	[- eng] you eight . 4658152_4659379
@@ -1960,7 +1960,7 @@
 *MAR:	aún cuando somos ocho once nos xxx demasiado . 4666944_4670998
 %eng:	even when we are eight eleven [...] we  [...] too much .
 *OSE:	+< www .
-*MAR:		o sea xxx ocho . 4670470_4671958
+*MAR:	o sea xxx ocho . 4670470_4671958
 %eng:	so [...] eight .
 *OSE:	www .
 *MAR:	sí . 4672054_4672400
@@ -1978,14 +1978,14 @@
 %eng:	lady do you have pain killers ?
 *MAR:	xxx . 4704804_4706601
 *OSE:	www .
-*MAR:		señora tiene aspi(rinas) //+. 4708841_4710863
+*MAR:	señora tiene aspi(rinas) +//. 4708841_4710863
 %eng:	lady do you have pain killers .
-*MAR:	oye pero ustedes no se &inven +// . 4710371_4712014
-%eng:	hey but don't you &inven .
+*MAR:	oye pero ustedes no se &inven +//. 4710371_4712014
+%eng:	hey but don't you [...] ...
 *MAR:	eh moviendo pieza . 4711726_4713790
 %eng:	eh moving a piece .
 *OSE:	www .
-*MAR:	deme ocho a ver cuantas +// . 4724856_4726467
+*MAR:	deme ocho a ver cuantas +//. 4724856_4726467
 %eng:	give me eight to see how many .
 *OSE:	www .
 *MAR:	siete . 4727272_4728163
@@ -2214,7 +2214,7 @@
 *MAR:	debemos ver las instrucciones . 5041722_5043492
 %eng:	we should see the instructions .
 *MAR:	[- eng] I think it needs a little more time . 5044148_5045994
-*MAR:	espera few@s:eng more@s:eng minutes@s:eng okay@eng&spa ? 5048004_5049722
+*MAR:	espera few@s:eng more@s:eng minutes@s:eng okay@s:eng&spa ? 5048004_5049722
 %eng:	wait a few more minutes ok?
 *OSE:	www .
 *MAR:	[- eng] and then we make a frosty okay ? 5052410_5054266
@@ -2303,7 +2303,7 @@
 %eng:	me .
 *OSE:	www .
 *MAR:	y tú .
-%eng:	 and you .
+%eng:	and you .
 *OSE:	www .
 *MAR:	[- eng] double checking double checking . 5308015_5309989
 *OSE:	www .
@@ -2374,7 +2374,7 @@
 *OSE:	www .
 *MAR:	eso sí . 5471819_5472422
 %eng:	that yes .
-*MAR:	[- eng ] how convenient . 5472395_5473339
+*MAR:	[- eng] how convenient . 5472395_5473339
 *OSE:	www .
 *MAR:	esa es tuya ! 5480384_5481536
 %eng:	this is yours !
@@ -2450,14 +2450,14 @@
 *MAR:	men@s:eng [?] ! 5633466_5634799
 *OSE:	www .
 *MAR:	yo dejé mis instrucciones +... 5637471_5638554
-%eng:	 left my instructions ...
+%eng:	I left my instructions ...
 *OSE:	+< www .
 *MAR:	[- eng] ah what happend to +...
 *OSE:	www .
 *MAR:	no esa no es . 5641754_5642943
 %eng:	no this is not .
 *OSE:	+< www .
-*MAR:	 the kitchen instructions . 5642895_5644282
+*MAR:	the kitchen instructions . 5642895_5644282
 *OSE:	+< www .
 *MAR:	ve ! 5648917_5649647
 %eng:	go !
@@ -2530,7 +2530,7 @@
 *MAR:	Carla@s:eng&spa quiere ver . 5971855_5973119
 %eng:	Carla wants to see .
 *OSE:	www .
-*MAR:	one@:eng for@:eng you@:eng and@:eng one@:eng for@:eng &a [///] Jack@s:eng&spa ? 5974975_5976996
+*MAR:	one@s:eng for@s:eng you@s:eng and@s:eng one@s:eng for@s:eng &a [///] Jack@s:eng&spa ? 5974975_5976996
 *OSE:	www .
 *MAR:	okay@s:eng&spa . 5977652_5978138
 *OSE:	www .
@@ -2716,7 +2716,7 @@
 *OSE:	www .
 *MAR:	<lija la tablita> [=! singing] . 6492499_6494259
 %eng:	sand down the little table .
-*MAR:	 <ya yo la lijé> [=! singing] . 6493993_6496489
+*MAR:	<ya yo la lijé> [=! singing] . 6493993_6496489
 %eng:	I already sanded it down.
 *OSE:	www .
 *MAR:	&=laughs . 6521630_6522974
@@ -2741,7 +2741,7 @@
 *OSE:	+< www .
 *MAR:	[- eng] <sir gash> [?] your turn . 6582814_6585299
 *OSE:	www .
-*MAR:	moi@s:fr . 6585619_6586526
+*MAR:	moi@s:fra . 6585619_6586526
 %com:	MAR says a word in French .
 *OSE:	www .
 *MAR:	<pa(ra) dar> [/] pa(ra) dar su aire de [/] de +... 6599273_6602761
@@ -2783,7 +2783,7 @@
 *OSE:	+< www .
 *MAR:	porque juegan todos los downs@s:eng . 6665886_6667966
 %eng:	because all the downs play .
-*OSE:	 +< www .
+*OSE:	+< www .
 *MAR:	este tipo de juego necesita los downs@s:eng porque no hay manera de [/] de +/. 6669715_6673949
 %eng:	this kind of game needs all the downs because there's no way of .
 *OSE:	+< www .
@@ -2945,7 +2945,7 @@
 *OSE:	www .
 *MAR:	xxx .
 *OSE:	www .
-*MAR:	[-eng] xxx I need to be xxx so I xxx doing that .
+*MAR:	[- eng] xxx I need to be xxx so I xxx doing that .
 *OSE:	www .
 *MAR:	no está muy limpia . 7020179_7020829
 %eng:	it's not very clean.
@@ -2981,13 +2981,13 @@
 *OSE:	www .
 *MAR:	Jenny@s:eng&spa is@s:eng down@s:eng . 7112163_7113267
 *OSE:	www .
-*MAR:	[-eng] don't do that . 7121517_7122317
+*MAR:	[- eng] don't do that . 7121517_7122317
 *OSE:	www .
 *MAR:	xxx you know .
 *OSE:	www .
 *MAR:	no@s:eng&spa . 7125040_7125291
 *OSE:	www .
-*MAR:	[-eng] I don't have anything below a ten ! 7127291_7129904
+*MAR:	[- eng] I don't have anything below a ten ! 7127291_7129904
 *OSE:	www .
 *MAR:	look ! 7131539_7131821
 *OSE:	www .
@@ -3013,7 +3013,7 @@
 *OSE:	www .
 *MAR:	&=vocalizes . 7157496_7158237
 *OSE:	www .
-*MAR:	[-eng] big spender aren't you ? 7159677_7161315
+*MAR:	[- eng] big spender aren't you ? 7159677_7161315
 *OSE:	www .
 *MAR:	ni siete ni seis ? 7167811_7168893
 %eng:	not even seven or six?
@@ -3045,22 +3045,22 @@
 *MAR:	ya (.) ya (.) no más . 7209976_7211037
 %eng:	enough, enough, that's enough.
 *OSE:	www .
-*MAR:	[-eng] enough . 7211699_7212152
+*MAR:	[- eng] enough . 7211699_7212152
 *OSE:	www .
 *MAR:	xxx Thomas@s:eng&spa y Lucy@s:eng&spa .
 %eng:	xxx Thomas and Lucy.
 *OSE:	www .
 *MAR:	que no +...
 %eng:	I said no.
-*MAR:	+, [-eng] I really don't appreciate this .
+*MAR:	+, [- eng] I really don't appreciate this .
 *OSE:	www .
 *MAR:	Thomas@s:eng&spa at seven .
 *OSE:	www .
-*MAR:	[-eng] I think Ana@s:eng&spa xxx .
+*MAR:	[- eng] I think Ana@s:eng&spa xxx .
 *MAR:	yo no fui .
 %eng:	it wasn't me.
-*MAR:	fue xxx	. 7243373_7243816
-%eng:	it was xxx.
+*MAR:	fue xxx . 7243373_7243816
+%eng:	it was xxx .
 *MAR:	pégale (.) pégale xxx .
 %eng:	hit them, hit them xxx.
 *OSE:	www .
@@ -3093,8 +3093,8 @@
 *MAR:	verdad . 7320333_7320552
 %eng:	it's true.
 *OSE:	www .
-*MAR:	[-eng] that's why we have you in the game . 7323075_7324707
-*MAR:	[-eng]	so that you can keep us xxx . 7324696_7326563
+*MAR:	[- eng] that's why we have you in the game . 7323075_7324707
+*MAR:	[- eng] so that you can keep us xxx . 7324696_7326563
 *MAR:	er@s:eng&spa Thomas@s:eng&spa xxx . 7327347_7328477
 *OSE:	www .
 *MAR:	la verdad es que siempre hay el mismo delay@s:eng . 7329912_7331677
@@ -3106,16 +3106,16 @@
 *OSE:	www .
 *MAR:	oye you@s:eng are@s:eng as@s:eng ugly@s:eng as@s:eng me@s:eng . 7347272_7348776
 *OSE:	www .
-*MAR:	[-eng] you are worse +//. 7349325_7349843
-*MAR:	[-eng] you have a pattern . 7349976_7350840
+*MAR:	[- eng] you are worse +//. 7349325_7349843
+*MAR:	[- eng] you have a pattern . 7349976_7350840
 *OSE:	www .
 *MAR:	xxx .
 *OSE:	www .
 *MAR:	oh@s:eng&spa ahi tienes el dos . 7362120_7362589
 %eng:	oh, you have the two there.
-*MAR:	[-eng] you are worse than I am +//. 7363256_7364339
+*MAR:	[- eng] you are worse than I am +//. 7363256_7364339
 *OSE:	www .
-*MAR:	[-eng] if it's possible . 7364557_7364824
+*MAR:	[- eng] if it's possible . 7364557_7364824
 *OSE:	www .
 *MAR:	voy a decir +"/. 7367309_7367816
 %eng:	I am going to say...
@@ -3138,7 +3138,7 @@
 *OSE:	www .
 *MAR:	xxx .
 *OSE:	www .
-*MAR:	[-eng] who cares ? 7413352_7414611
+*MAR:	[- eng] who cares ? 7413352_7414611
 *OSE:	www .
 *MAR:	seis y doce . 7422824_7423907
 %eng:	six and twelve.
@@ -3146,7 +3146,7 @@
 *MAR:	no importa que xxx individuos .
 %eng:	it doesn't matter that xxx individual.
 *OSE:	www .
-*MAR:	[-eng] excuse it . 7433805_7434499
+*MAR:	[- eng] excuse it . 7433805_7434499
 *OSE:	www .
 *MAR:	mira nos callamos por ti . 7441491_7443016
 %eng:	look, we are shutting up for you.
@@ -3160,7 +3160,7 @@
 *MAR:	xxx cuatro .
 %eng:	xxx four.
 *OSE:	www .
-*MAR:	[-eng] oh not down either . 7468275_7469107
+*MAR:	[- eng] oh not down either . 7468275_7469107
 *OSE:	www .
 *MAR:	el único que está down@s:eng mira ya +//. 7470429_7471533
 %eng:	the only one who is down, look now.
@@ -3195,7 +3195,7 @@
 *MAR:	tu no empezabas xxx ?
 %eng:	didn't you use to start xxx?
 *OSE:	www .
-*MAR:	[-eng] like mine is any better ? 7564141_7565059
+*MAR:	[- eng] like mine is any better ? 7564141_7565059
 *OSE:	www .
 *MAR:	mira al silencioso +//. 7584349_7585325
 %eng:	look at the quiet one.
@@ -3220,14 +3220,14 @@
 *MAR:	sí (.) el silencioso .
 %eng:	yes, the quiet one.
 *OSE:	www .
-*MAR:	[-eng] you have four . 7638995_7639779
+*MAR:	[- eng] you have four . 7638995_7639779
 *OSE:	www .
-*MAR:	[-eng]	xxx four xxx .
+*MAR:	[- eng] xxx four xxx .
 *OSE:	www .
 *MAR:	dime Jack@s:eng&spa . 7644899_7645923
 %eng:	what's the matter, Jack?
 *OSE:	www .
-*MAR:	[-eng] yes you could have a banana .
+*MAR:	[- eng] yes you could have a banana .
 *MAR:	dale una banana a tu hermano .
 %eng:	give your brother a banana.
 *OSE:	www .
@@ -3240,8 +3240,8 @@
 *MAR:	fue sin querer muñeca . 7659688_7660339
 %eng:	he didn't mean to, doll.
 *OSE:	www .
-*MAR:	[-eng] go over there . 7661459_7661992
-*MAR:	[-eng] get away from these chairs . 7662275_7663256
+*MAR:	[- eng] go over there . 7661459_7661992
+*MAR:	[- eng] get away from these chairs . 7662275_7663256
 *OSE:	www .
 *MAR:	dale un little@s:eng banana@s:eng .
 %eng:	give him a little banana.
@@ -3249,7 +3249,7 @@
 *MAR:	ya ?
 %eng:	done?
 *OSE:	www .
-*MAR:	[-eng] I don't know if there's any . 7677715_7678659
+*MAR:	[- eng] I don't know if there's any . 7677715_7678659
 *MAR:	ve y fíjate . 7678835_7679480
 %eng:	go and have a look.
 *OSE:	www .
@@ -3262,37 +3262,37 @@
 *MAR:	Richie@s:eng&spa . 7723533_7723960
 *MAR:	Richie@s:eng&spa . 7724637_7725011
 *OSE:	www .
-*MAR:	[-eng] there is none . 7728083_7728824
+*MAR:	[- eng] there is none . 7728083_7728824
 *OSE:	www .
-*MAR:	[-eng]	xxx we need to buy some more .
-*MAR:	[-eng] do you want this one ? 7733592_7734509
+*MAR:	[- eng] xxx we need to buy some more .
+*MAR:	[- eng] do you want this one ? 7733592_7734509
 *OSE:	www .
-*MAR:	[-eng] I know what there is none . 7736797_7737997
-*MAR:	[-eng] so do you want this one ? 7738024_7739469
+*MAR:	[- eng] I know what there is none . 7736797_7737997
+*MAR:	[- eng] so do you want this one ? 7738024_7739469
 *OSE:	www .
-*MAR:	[-eng]	you want this one ? 7741208_7742120
-*MAR:	[-eng] yes ? 7742504_7743256
+*MAR:	[- eng] you want this one ? 7741208_7742120
+*MAR:	[- eng] yes ? 7742504_7743256
 *OSE:	www .
-*MAR:	[-eng] yes or not? 7744136_7744611
+*MAR:	[- eng] yes or not? 7744136_7744611
 *MAR:	sí . 7746163_7746525
 %eng:	yes.
 *OSE:	www .
-*MAR:	[-eng] do you want a cut? 7748264_7748893
+*MAR:	[- eng] do you want a cut? 7748264_7748893
 *OSE:	www .
-*MAR:	[-eng]	how do you want me to cut it ? 7760205_7761800
+*MAR:	[- eng] how do you want me to cut it ? 7760205_7761800
 *OSE:	www .
-*MAR:	[-eng]	xxx cut it like that in half ? 7769320_7770728
+*MAR:	[- eng] xxx cut it like that in half ? 7769320_7770728
 *OSE:	www .
-*MAR:	[-eng] that's the size of a little banana right there . 7774643_7775827
+*MAR:	[- eng] that's the size of a little banana right there . 7774643_7775827
 *OSE:	www .
-%comment:	long pause without speakers being present .
+@Comment:	long pause without speakers being present .
 *MAR:	xxx estás buscando ? 7797512_7798445
 %eng:	xxx are you searching?
 *OSE:	www .
 *MAR:	Thomas@s:eng&spa . 7803517_7804200
-*MAR:	[-eng]	do you have anything to play ? 7804227_7805379
+*MAR:	[- eng] do you have anything to play ? 7804227_7805379
 *OSE:	www .
-*MAR:	[-eng] these are down ? 7816675_7817368
+*MAR:	[- eng] these are down ? 7816675_7817368
 *OSE:	www .
 *MAR:	eso las come sin ningún problema . 7831800_7833139
 %eng:	they'll eat these one without problem.
@@ -3300,11 +3300,11 @@
 *MAR:	eso es only@s:eng un castigo (.) exacto . 7836019_7837251
 %eng:	that's only a punishment, exactly.
 *OSE:	www .
-*MAR:	[-eng] I don't like your other hand . 7841555_7842728
+*MAR:	[- eng] I don't like your other hand . 7841555_7842728
 *OSE:	www .
-*MAR:	[-eng] xxx is the only thing you have to play ? 7844968_7846643
+*MAR:	[- eng] xxx is the only thing you have to play ? 7844968_7846643
 *OSE:	www .
-*MAR:	[-eng] do you have something else to play ? 7848984_7849629
+*MAR:	[- eng] do you have something else to play ? 7848984_7849629
 *OSE:	www .
 *MAR:	roba . 7853560_7853923
 %eng:	pick one up.
@@ -3334,8 +3334,8 @@
 *OSE:	www .
 *MAR:	treinta_y +... 7957565_7958429
 %eng:	thirty...
-*MAR:	[-eng] thirty (.) forty yup . 7960749_7963187
-*MAR:	[-eng] fifty (.) yup . 7964104_7965741
+*MAR:	[- eng] thirty (.) forty yup . 7960749_7963187
+*MAR:	[- eng] fifty (.) yup . 7964104_7965741
 *OSE:	www .
 *MAR:	ella quiere ver cual es el score@s:eng . 7992888_7994253
 %eng:	she wants to see what the score is.
@@ -3358,7 +3358,7 @@
 *MAR:	tengo de ocho y veinticinco .
 %eng:	from twenty-five past eight.
 *OSE:	www .
-*MAR:	[-eng] oh these are yours .
+*MAR:	[- eng] oh these are yours .
 *OSE:	www .
 *MAR:	el nueve . 8102888_8103997
 %eng:	the nine.
@@ -3385,7 +3385,7 @@
 *MAR:	mira gracias mami . 8189885_8190888
 %eng:	look, thanks mum.
 *OSE:	www .
-*MAR:	[-eng] really? 8199699_8199827
+*MAR:	[- eng] really? 8199699_8199827
 *OSE:	www .
 *MAR:	Jenny@s:eng&spa y Thomas@s:eng&spa . 8212061_8212595
 %eng:	Jenny and Thomas.
@@ -3421,7 +3421,7 @@
 *MAR:	no cariño . 8359507_8360280
 %eng:	no darling.
 *OSE:	www .
-*MAR:	[-eng] do you get more points out ? 8369219_8370861
+*MAR:	[- eng] do you get more points out ? 8369219_8370861
 *OSE:	www .
 *MAR:	la pobre Jenny@s:eng&spa . 8385485_8386259
 %eng:	poor Jenny.
@@ -3431,13 +3431,13 @@
 *MAR:	tiene un nueve . 8388792_8389485
 %eng:	she has a nine.
 *OSE:	www .
-*MAR:	a ver que viene una aquí .
+*MAR:	a ver que viene una aquí . 8414087_8415303
 %eng:	let's see, one is about to come out.
 *OSE:	www .
-*MAR:	cinco .
+*MAR:	cinco . 8415074_8415644
 %eng:	five.
 *OSE:	www .
-*MAR:	se necesita pero no está dado . 8417395_8418077
+*MAR:	se necesita pero no está dado . 8417395_8418290
 %eng:	it's needed but it hasn't been given yet.
 *OSE:	www .
 *MAR:	por ahí tiene que haber un nueve rumbeando . 8453837_8455965
@@ -3484,7 +3484,7 @@
 *OSE:	www .
 *MAR:	oh@s:eng&spa . 8693971_8694248
 *OSE:	www .
-*MAR:	[-eng] Tom@s:eng&spa you are a little bit of a messy eater . 8702301_8704152
+*MAR:	[- eng] Tom@s:eng&spa you are a little bit of a messy eater . 8702301_8704152
 *OSE:	www .
 *MAR:	pero si en una fiesta cogió setenta_y_nueve puntos ! 8715533_8717747
 %eng:	but if out of the sudden he got seventy-nine points!

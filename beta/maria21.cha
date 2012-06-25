@@ -2,14 +2,14 @@
 @Begin
 @Languages:	spa, eng
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|MAR|45;|female|||Adult||
-@ID:	spa, eng|bangor3|OSE|||||Adult||
-@Situation:	MAR is in her office talking to colleague.
-@Date:	JAN-2008
+@ID:	spa, eng|Maria|MAR|45;|female|||Adult||
+@ID:	spa, eng|Maria|OSE|||||Adult||
+@Situation:	MAR is in her office talking to a colleague
+@Date:	25-MAR-2008
 @Comment:	MAR is wearing a microphone to record conversation
 @Transcriber:	Fraibet Aveledo.  Original translation by Vanesa Bonavota
 @Time Duration:	00:05:29
-@Media:	MAR21, audio
+@Media:	maria21, audio
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 *MAR:	[- eng] uhhuh . 3059_4040
 *MAR:	esperando . 5410_6415
@@ -54,7 +54,7 @@
 *MAR:	aló ? 63758_64478
 %eng:	hello?
 *MAR:	llamé al [//] el número de [//] del +... 64820_67507
-rng%:	I called the number of the ...
+%eng:	I called the number of the ...
 *MAR:	que ya yo había encontrado esa misma companía en el website . 67482_69874
 %eng:	that I had already found that same company on the website.
 *MAR:	mm@s:eng del el artículo ese que tú habías encontrado . 70064_74400
@@ -111,7 +111,7 @@ rng%:	I called the number of the ...
 %eng:	yes
 *MAR:	ellos se llaman es un xxx brokers@s:eng . 129965_132571
 %eng:	they are called,  it's a [...] brokers
-*MAR:	yo no lo había llamado porque Pedro@s:eng&spa había dicho +/". 132720_134397
+*MAR:	yo no lo había llamado porque Pedro@s:eng&spa había dicho +"/. 132720_134397
 %eng:	I haven't called him because Pedro told me:
 *MAR:	+" no que si no estaban en la lista que si no sé qué que si no sé cuánto . 134392_136928
 %eng:	no, that if they weren't on the list for whatever reason
@@ -121,19 +121,19 @@ rng%:	I called the number of the ...
 %eng:	so
 *MAR:	entonces exacto . 144322_145309
 %eng:	so, exactly.
-*MAR:	entonces me dice +/". 145265_145938
+*MAR:	entonces me dice +"/. 145265_145938
 %eng:	then he said to me
 *MAR:	+" bueno y  [/] y que traiga los papeles que tiene . 145926_147871
 %eng:	ok, and tell him to bring all the papers he has.
 *MAR:	y le digo +"/. 147865_148080
 %eng:	and I said to him
-*MAR:	bueno lo que él tiene es un certificate@s:eng specification@s:eng que la compañía se lo ha comprado con la ITT@s:eng&spa . 147928_152641
+*MAR:	bueno lo que él tiene es un certificate@s:eng specification@s:eng que la compañía se lo ha comprado con la I_T_T@s:eng&spa . 147928_152641
 %eng:	well, he has a specification certificate that the company bought it for him with the ITT
 *MAR:	me dice +"/. 152595_152868
 %eng:	he told me
 *MAR:	+" ay mira qué casualidad . 152849_154137
 %eng:	oh, what a coincidence.
-*MAR:	su suegro empezó la compañía de seguros con algo que estaba haciendo para la ITT@s:eng&spa . 154195_158437
+*MAR:	su suegro empezó la compañía de seguros con algo que estaba haciendo para la I_T_T@s:eng&spa . 154195_158437
 %eng:	his father-in-law started in the insurance company with something he was doing for the ITT.
 *OSE:	www .
 *MAR:	uhhuh@s:eng . 163063_163696
@@ -143,7 +143,7 @@ rng%:	I called the number of the ...
 *MAR:	sí . 166481_166801
 %eng:	yes
 *MAR:	me dice +"/. 167211_167640
-eng%.	he told me
+%eng:	he told me
 *MAR:	+" no te cuesta ver si alguien lo viene a comprar o no  . 167640_170015
 %eng:	it costs you nothing to see if anyone comes to buy it or not.
 *MAR:	bueno yo estaba leyendo la póliza . 174893_176763
@@ -188,7 +188,7 @@ eng%.	he told me
 %eng:	uhhuh, he said
 *MAR:	+" bueno está tan cerca de cien mil . 248857_250616
 %eng:	well, it's so close to a hundred thousand
-*MAR:	me dice +" . 250593_251307
+*MAR:	me dice +". 250593_251307
 %eng:	he told me
 *MAR:	+" tal vez alguien quiera comprarlo . 251481_253019
 %eng:	maybe someone might want to buy it.
@@ -234,7 +234,7 @@ eng%.	he told me
 *MAR:	tú todavía tienes que encontrar todavía alquien que lo quiera comprar . 310840_313243
 %eng:	you still have to find someone still who's interested in buying it.
 *MAR:	bueno pero por lo bueno el xxx dice +"/. 313838_315504
-eng%.	well, but for the good [...] he said.
+%eng:	well, but for the good [...] he said.
 *MAR:	no te cuesta nada . 315370_316334
 %eng:	it costs you nothing.
 *MAR:	pues y si alguien está interesado . 316317_317913
