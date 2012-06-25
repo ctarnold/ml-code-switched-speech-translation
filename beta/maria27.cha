@@ -3,13 +3,13 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|bangor3|MAR|45;|female|||Adult||
-@ID:	spa, eng|bangor3|OSE|||||Adult||
+@ID:	spa, eng|Maria|MAR|45;|female|||Adult||
+@ID:	spa, eng|Maria|OSE|||||Adult||
 @Situation:	MAR is in her office talking to colleague.
-@Date: JAN-2008
-@Transcriber:  Lara Gil Vallejo.  Original translation by Sara Viñas
-@Time Duration: 1:22:55
-@Media:	mar27, audio
+@Date:	10-APR-2008
+@Transcriber:	Lara Gil Vallejo.  Original translation by Sara Viñas
+@Time Duration:	1:22:55
+@Media:	maria27, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
 *MAR:	not having fun yet . 12980_13863
 *MAR:	are you ? 13682_14269
@@ -21,7 +21,7 @@
 *MAR:	you've to know if you have something . 37239_38475
 *OSE:	www .
 %com:	long pause with voices and noise in the background.
-*MAR:	 &=sighs . 363706_364658
+*MAR:	&=sigh . 363706_364658
 *OSE:	www .
 *MAR:	well I disagree . 369917_371246
 *MAR:	there are [///] you have to teach your children +//. 371229_373400
@@ -122,9 +122,9 @@
 *MAR:	y@s:spa no@s:spa tenemos@s:spa xxx . 1788402_1789749
 %eng:	we don't have already.
 *OSE:	www .
-*MAR:	xxx .
+*MAR:	xxx . 1798887_1799897
 *OSE:	www .
-*MAR:	that's all I response . 1803843_1804934
+*MAR:	that's a lot of spoons . 1803843_1804934
 *MAR:	[- spa] pero había un montón . 1804900_1805620
 %eng:	but there were a lot.
 *OSE:	www .
@@ -133,7 +133,7 @@
 *MAR:	[- spa] porque a veces te las encuentras todas las cucharitas ahí (.) puestas . 1808992_1812696
 %eng:	because sometimes you find all the spoons there placed.
 *OSE:	+< www .
-*MAR:	eh@s:eng&spa eh@s:eng&spa eh@s:eng&spa .
+*MAR:	eh@s:eng&spa eh@s:eng&spa eh@s:eng&spa . 1817166_1818275
 *MAR:	[- spa] yo llegué a la conclusión que [/] que son tipo marido . 1818193_1821745
 %eng:	I reached the conclusion that they are husband type.
 *MAR:	ay@s:spa tengo@s:spa que@s:spa hablar@s:spa con@s:spa mi@s:spa marido@s:spa . 1821711_1823278
@@ -143,7 +143,7 @@
 *MAR:	[- spa] la deja [/] deja chora aquí en el piso . 1826088_1828421
 %eng:	he leaves it here at the flat eight hours.
 *MAR:	[- spa] y la camisa . 1830308_1831196
-*MAR:	and the shirt .
+%eng:	and the shirt .
 *MAR:	[- spa] y el cosa para lavar la ropa está menos (.) de quince pulgadas . 1831144_1835648
 %eng:	and the the thing to wash the clothes is less than fifteen inches near to it.
 *OSE:	www .
@@ -161,7 +161,7 @@
 %eng:	and leave it.
 *MAR:	[- spa] te lo juro . 1851984_1852779
 %eng:	I swear.
-*MAR:	no@s:spa está@s:spa ni@s:spa a@s:spa dos@s:spa pies@s:spa del@s:spa hamper .
+*MAR:	no@s:spa está@s:spa ni@s:spa a@s:spa dos@s:spa pies@s:spa del@s:spa hamper . 1852598_1854856
 %eng:	he's not even two feet far from the hamper.
 *OSE:	www .
 *MAR:	[- spa] y la deja regada al piso +/. 1855025_1856471
@@ -171,7 +171,7 @@
 %eng:	five inches here is the pullover.
 *MAR:	&si it's like caballero@s:spa . 1860842_1862572
 %eng:	it's like gentleman.
-*MAR:	it's like +//.
+*MAR:	it's like +//. 1862656_1863387
 *OSE:	+< www .
 *MAR:	[- spa] entonces se la quitó . 1863913_1864975
 %eng:	then he took it off.
@@ -245,7 +245,7 @@
 %eng:	and I told him.
 *MAR:	comiendo@s:spa two bowls of cereal (.) todas las noches those six pounds you just lost +... 1957883_1963560
 %eng:	eating two bowls of cereal every night those six pounds you just lost.
-*MAR:	+< www .
+*OSE:	+< www .
 *MAR:	it [/] it doesn't matter that it's fat free milk . 1964553_1966347
 *MAR:	cereals are not fat free . 1966370_1967879
 *MAR:	you know . 1968036_1968605
@@ -316,8 +316,8 @@
 %eng:	no, the fifteenth is the mummy day college.
 *OSE:	www .
 *MAR:	sant_michel@s:spa ? 2110380_2111210
-*OSE.	www .
-*MAR:	[- spa] más barato .
+*OSE:	www .
+*MAR:	[- spa] más barato . 2112295_2113236
 %eng:	cheaper.
 *MAR:	[- spa] de dónde [///] dónde tú xxx ? 2113643_2115460
 %eng:	from where? where do you [...]?
@@ -327,21 +327,21 @@
 *OSE:	www .
 *MAR:	y@s:spa el@s:spa [/] el@s:spa too far ? 2121161_2123523
 %eng:	and the, the, too faar?
-*MAR:	 el@s:spa [/] el@s:spa de@s:spa enfrente@s:spa de@s:spa U_M@s:eng&spa ? 2123500_2125560
+*MAR:	el@s:spa [/] el@s:spa de@s:spa enfrente@s:spa de@s:spa U_M@s:eng&spa ? 2123500_2125560
 %eng:	the one just opposite of UM?
-*MAR:	 that's too far ? 2125682_2126814
+*MAR:	that's too far ? 2125682_2126814
 *OSE:	www .
-*MAR:	xxx creo@s:spa que@s:spa +/.
+*MAR:	xxx creo@s:spa que@s:spa +/. 2127790_2129092
 %eng:	[...] I believe that.
 *OSE:	www .
 *MAR:	el@s:spa Holiday_Inn@s:eng&spa que@s:spa está@s:spa enfrente@s:spa de@s:spa U_M@s:eng&spa ? 2129636_2131563
 %eng:	the Holiday Inn that is just opposite to UM?
 *OSE:	www .
-*MAR:	[- spa] la mierdita esa +...
-%eng:	that shitty place?
+*MAR:	[- spa] la mierdita esa +..? 2135697_2137618
+%eng:	that shitty place...?
 *OSE:	+< www .
-*MAR:	[- spa] el más [///] la mierdita esa ?
-%eng:	the more, that shitty place?
+*MAR:	[- spa] el más [///] la mierdita esa ? 2138847_2141088
+%eng:	the more... that shitty place?
 *OSE:	www .
 *MAR:	ese@s:spa . 2147085_2148200
 %eng:	that one.
@@ -360,7 +360,7 @@
 %eng:	there's a part of Ponce that is still a bit...
 *MAR:	no@s:spa shady pero@s:spa no@s:spa +... 2161766_2163409
 %eng:	not shady but not...
-*OSE;	www .
+*OSE:	www .
 *MAR:	no@s:eng&spa . 2165870_2166654
 *OSE:	www .
 *MAR:	sí@s:spa . 2167617_2167960
@@ -386,7 +386,7 @@
 *MAR:	[- spa] oy qué cosa más linda ! 2205814_2207643
 %eng:	omg, such a cute thing.
 *MAR:	his daughter . 2207457_2208200
-*MAR:	she's adorable .
+*MAR:	she's adorable ! 2208784_2210780
 *OSE:	+< www .
 *MAR:	must take after her mother . 2213309_2214342
 *OSE:	www .
@@ -395,15 +395,15 @@
 *OSE:	www .
 *MAR:	+< that's the best one . 2235367_2236528
 *OSE:	www .
-*MAR:	that's very cute .
+*MAR:	that's very cute . 2239739_2241196
 *OSE:	+< www .
-*MAR:	that's cute .
+*MAR:	that's cute . 2241393_2242798
 *OSE:	+< www .
-*MAR:	that's very cute .
+*MAR:	that's very cute . 2244935_2246363
 *OSE:	+< www .
 *MAR:	I told you . 2265739_2267173
 *MAR:	I told you . 2268044_2269094
-*MAR:	this crazy woman (.) is obsessed about +//.
+*MAR:	this crazy woman (.) is obsessed about +//. 2269231_2272637
 *OSE:	+< www .
 *MAR:	those two planes . 2272717_2274192
 *MAR:	back a house . 2274193_2275058
@@ -475,7 +475,7 @@
 *MAR:	[- spa] como somos dos . 2394186_2394906
 %eng:	as we are two.
 *MAR:	you know . 2394957_2395363
-*MAR:	whatever is +// . 2395208_2395585
+*MAR:	whatever is +//. 2395208_2395585
 *MAR:	you know . 2395543_2396193
 *OSE:	www .
 *MAR:	I rather see the water . 2409028_2410253
@@ -521,7 +521,7 @@
 *MAR:	your stuff are +//. 2457896_2458981
 *MAR:	you know . 2459137_2459531
 *MAR:	it's there . 2460182_2460942
-*MAR:	o_k@eng&spa then . 2460936_2461395
+*MAR:	o_k@s:eng&spa then . 2460936_2461395
 *OSE:	www .
 *MAR:	sí@s:spa ellos@s:spa te@s:spa dan@s:spa tickets@s:eng&spa . 2462220_2463149
 %eng:	yes they give you tickets.
@@ -567,7 +567,7 @@
 *MAR:	yeah go for the learning toys . 2544396_2546515
 *MAR:	you know . 2546497_2547072
 *MAR:	the thing that (.) she has +//. 2546944_2548314
-*OSE:	+<www .
+*OSE:	+< www .
 *MAR:	mhm . 2550114_2551013
 *OSE:	www .
 *MAR:	she's still little . 2552349_2553260
@@ -610,7 +610,7 @@
 *OSE:	www .
 *MAR:	aunque@s:spa you know what ? 2638345_2639448
 %eng:	althought you know what?
-*MAR:	they're &ly [/] &ly +// . 2639442_2640057
+*MAR:	they're &ly [/] &ly +//. 2639442_2640057
 *MAR:	their food is not that bad . 2639831_2641061
 *MAR:	hay@s:spa otros@s:spa xxx que@s:spa he@s:spa estado@s:spa +//. 2641032_2642820
 %eng:	I've been in others.
@@ -626,8 +626,8 @@
 *OSE:	www .
 *MAR:	o_k@s:eng&spa . 2652306_2652619
 *OSE:	www .
-*MAR:	mmhm xxx .
-%com:	pause with noise and voices in the background .
+*MAR:	mmhm xxx . 2665919_2668854
+@Comment:	pause with noise and voices in the background .
 *MAR:	there it is xxx &=coughs . 2721674_2725076
 *MAR:	[- spa] qué tú estás haciendo ? 2754757_2755523
 %eng:	what are you doing?
@@ -642,11 +642,11 @@
 *OSE:	www .
 *MAR:	o@s:spa porcelain whatever . 2772114_2773171
 *OSE:	www .
-*MAR:	just the basic tone whatever it is .
+*MAR:	just the basic tone whatever it is . 2773859_2775641
 *OSE:	+< www .
 *MAR:	right . 2776654_2777055
 *OSE:	www .
-*MAR:	+< right .
+*MAR:	+< right . 2780628_2781383
 *OSE:	www .
 *MAR:	yeah . 2783550_2784026
 *OSE:	www .
@@ -659,14 +659,14 @@
 *MAR:	pero@s:spa you see this one . 2790325_2791596
 %eng:	but you see this one.
 *OSE:	+< www .
-*MAR:	 and this one . 2791683_2792327
+*MAR:	and this one . 2791683_2792327
 *OSE:	www .
 *MAR:	xxx a wall here ? 2795520_2796635
 %eng:	[...] a wall here?
 *OSE:	+< www .
 *MAR:	this hole . 2798574_2798974
 *OSE:	www .
-*MAR:	where is the wall ?
+*MAR:	where is the wall ? 2799764_2800719
 *OSE:	+< www .
 *MAR:	no no no just graphically I see wall here . 2806051_2808152
 *OSE:	www .
@@ -674,7 +674,7 @@
 *MAR:	there should be a wall . 2810004_2811025
 *OSE:	+< www .
 *MAR:	a teacher xxx a wall there . 2810927_2812657
-*OSE:	www ,
+*OSE:	www .
 *MAR:	I guess some wrong [///] some happened . 2813011_2814659
 *OSE:	www .
 *MAR:	right . 2815292_2815600
@@ -692,7 +692,7 @@
 *MAR:	o_k@s:eng&spa then graphically is not +//. 2831691_2832852
 *MAR:	how I see xxx . 2833143_2834026
 *OSE:	www .
-*MAR:	right 2837165_2837618
+*MAR:	right . 2837165_2837618
 *MAR:	and in the back I would maybe put something open the top just all the way across . 2837670_2841803
 *MAR:	or something . 2841896_2842622
 *MAR:	(be)cause there's equipement back there . 2842622_2843911
@@ -843,7 +843,7 @@
 *MAR:	so you need to add a piece . 3139583_3141464
 *MAR:	to give it +/. 3141823_3142816
 *OSE:	+< www .
-*MAR:	 to gi(ve) +/.
+*MAR:	to gi(ve) +/. 3142900_3143590
 *OSE:	www .
 *MAR:	yes which means you are gonna add a piece to get that . 3143989_3146514
 *OSE:	www .
@@ -898,7 +898,7 @@
 *MAR:	I mean the tiles are four by four right ? 3258817_3261400
 *OSE:	www .
 *MAR:	could you make it out of +//. 3263484_3264930
-*MAR:	do they come +/? . 3265029_3265638
+*MAR:	do they come +//?  3265029_3265638
 *MAR:	do you see what I'm saying ? 3265632_3266857
 *MAR:	just a different colour tile . 3266840_3268500
 *MAR:	I mean if that's what they wanna create . 3268796_3270288
@@ -964,7 +964,7 @@
 *OSE:	www .
 *MAR:	but you are making this a reveal or a tile . 3399397_3401957
 *OSE:	www .
-*MAR:	+< o_k@s:eng&spa .
+*MAR:	+< o_k@s:eng&spa . 3403195_3403752
 *MAR:	so this [/] this is a different detail than this detail . 3403634_3406757
 *MAR:	to different &sif surfaces . 3409015_3410055
 *MAR:	this [/] this is +... 3410147_3410965
@@ -983,14 +983,14 @@
 *OSE:	www .
 *MAR:	because if you give them that they ain't gonna praise it . 3457231_3458921
 *OSE:	www .
-*MAR:	+< correct .
+*MAR:	+< correct . 3462492_3462991
 *MAR:	right . 3464940_3465236
 *MAR:	and [/] and what's this tile was this Gibson@s:eng&spa reveal . 3465237_3468249
 *OSE:	www .
 *MAR:	see <I would have> [/] I would have +//. 3478413_3480056
 *OSE:	www .
 *MAR:	no . 3481449_3482181
-*MAR:	if you're gonna do that then actually make it a real reveal  	not a tile reveal .
+*MAR:	if you're gonna do that then actually make it a real reveal not a tile reveal . 3482139_3486518
 *OSE:	+< www .
 *MAR:	I wouldn't tile that . 3487417_3488566
 *OSE:	www .
@@ -1057,7 +1057,7 @@
 *MAR:	you just have to go back . 3975108_3976501
 *OSE:	www .
 *MAR:	right it's right there right . 3978121_3979566
-*OSE:	www ,
+*OSE:	www .
 *MAR:	yeah (be)cause you are talking about that . 3980849_3982439
 *OSE:	www .
 *MAR:	I would +//. 3989047_3989621
@@ -1083,7 +1083,7 @@
 *MAR:	it's in . 4024938_4025501
 *MAR:	do you see what I'm asking ? 4026337_4027956
 *MAR:	what are we bugeting ? 4027997_4029704
-*MAR:	what it would take to rehabilitate it ' 4028949_4031376
+*MAR:	what it would take to rehabilitate it ? 4028949_4031376
 *OSE:	www .
 *MAR:	right . 4039764_4040089
 *OSE:	www .
@@ -1110,14 +1110,14 @@
 *OSE:	www .
 *MAR:	right right right . 4103659_4104426
 *OSE:	www .
-*MAR:	right (be)cause that's a xxx right .
+*MAR:	right (be)cause that's a xxx right . 4113523_4116296
 *OSE:	+< www .
 *MAR:	the(n) [/] then it's a rehabilitation . 4120459_4122316
 *MAR:	it [/] it . 4122137_4122792
 *OSE:	www .
-*MAR:	liberally open box . 4130478_4132649
+*MAR:	deliberately [?] &o open box . 4130192_4132649
 *OSE:	www .
-*MAR:	+< right .
+*MAR:	+< right . 4135544_4136037
 *OSE:	www .
 *MAR:	right right right . 4138420_4139801
 *MAR:	not righ  right . 4141903_4142850
@@ -1150,7 +1150,7 @@
 *OSE:	www .
 *MAR:	right . 4231468_4231915
 *OSE:	www .
-*MAR:	remove .
+*MAR:	remove . 4236650_4237672
 *OSE:	+< www .
 *MAR:	removal of all +... 4238614_4240117
 *OSE:	www .
@@ -1165,7 +1165,8 @@
 *MAR:	you know what I'm saying ? 4282911_4283916
 *MAR:	I mean that +//. 4283753_4285193
 *MAR:	to protect the building from further +//. 4288478_4290162
-*MAR:	www .
+*MAR:	um what's the word I'm looking for ? 4290144_4292333
+*MAR:	we call it <demolition by neglect> [?] but it's um +//. 4292336_4294989
 *MAR:	further ah@s:eng&spa +... 4294719_4296286
 *MAR:	I mean you're protecting the building . 4297621_4298933
 *MAR:	I mean it's really to protect the building . 4298800_4300257
@@ -1258,7 +1259,7 @@
 *OSE:	www .
 *MAR:	o_k@s:eng&spa that [/] that's what I'm asking . 4539004_4540757
 *MAR:	that's what I'm saying . 4541419_4542168
-*MAR:	you know &sh . 4542121_4542737
+*MAR:	you don't &ts . 4542121_4542737
 *OSE:	www .
 *MAR:	right o_k@s:eng&spa  . 4546899_4547677
 *OSE:	www .
@@ -1270,11 +1271,11 @@
 *OSE:	www .
 *MAR:	right . 4579227_4579575
 *OSE:	www .
-*MAR:	mhm not necesarily .
+*MAR:	mhm (.) not necesarily . 4580348_4582803
 *OSE:	www .
 *MAR:	right . 4589293_4589595
 *OSE:	www .
-*MAR:	xxx .
+*MAR:	<we'll let you have that> [?] . 4590235_4591708
 *OSE:	www .
 *MAR:	oh@s:eng&spa (.) you should . 4593537_4595319
 *OSE:	www .
@@ -1293,12 +1294,12 @@
 *MAR:	although you do describe them almost +//. 4663196_4665483
 *MAR:	+, separately . 4665797_4666551
 *MAR:	so you could argue +... 4666784_4668021
-*MAR:	xxx .
+*MAR:	xxx . 4669011_4670189
 *OSE:	+< www .
 *MAR:	mhm . 4676606_4677105
 *OSE:	www .
 *MAR:	it's really the report . 4679026_4680071
-*OSE:	www ,
+*OSE:	www .
 *MAR:	right . 4682927_4683287
 *OSE:	www .
 *MAR:	you can take it from the report . 4683769_4685197
