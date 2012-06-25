@@ -164,7 +164,7 @@
 %eng:	and big mangoes.
 *LUI:	+< pero quince mangos te dieron nada más ? 138855_140649
 %eng:	but fifteen mangoes gave you nothing more?
-*LUI:	[-eng] two jars ? 140649_141360
+*LUI:	[- eng] two jars ? 140649_141360
 *AVA:	aha@s:eng&spa . 141724_142037
 *AVA:	<mira como > [//] mira así eran de grandes . 142035_144166
 %eng:	look, they were this big.
@@ -200,7 +200,7 @@
 %eng:	yes, I saw it.
 *AVA:	pero óyeme la mata de mango esa que estaba muerta cuando yo la traje de tu casa +/. 172956_176961
 %eng:	but listen to me, that mango tree that was dead when I brought it from your place.
-*LUI:	[-eng] yeah . 177010_177410
+*LUI:	[- eng] yeah . 177010_177410
 *AVA:	+, está bien viva . 177661_178851
 %eng:	it's alive.
 *LUI:	[- eng] really ? 179014_179478
@@ -616,7 +616,7 @@
 %eng:	don't you know that one day I came round...
 *AVA:	+< no pero te [/] te voy a decir una cosa que un día +/. 540804_543637
 %eng:	no, but I'll tell you something: that one day...
-*AVA:	+, <cuando Juan era un xxx undercover@s:eng [///] xxx cuando vivíamos en la ciento treinta y cuatro (.) eh nos [/] nos levantamos tu padre y yo . 544052_552763
+*AVA:	+, <cuando Juan era un xxx undercover@s:eng> [///] xxx cuando vivíamos en la ciento treinta y cuatro (.) eh nos [/] nos levantamos tu padre y yo . 544052_552763
 %eng:	when Juan was a [...] undercover [...], when we were living in 134, er, our father and I got up one day...
 *AVA:	y vemos a Juan@s:eng&spa durmiendo en un mattre(ss)@s:eng (.) en la sala en el piso de la sala . 552734_558115
 %eng:	and we saw Juan sleeping on a mattress in the living room, on the floor of the living room.
@@ -656,10 +656,10 @@
 *LUI:	+< &=laugh ! 584222_585615
 *AVA:	no pues entonces le digo +/. 584784_586417
 %eng:	no, then I told him...
-*AVA:	+" muchacho . 586379_587819
-%eng:	boy...
 *LUI:	+< y como xxx hijo puta ese . 586343_588497
 %eng:	and, like, [...] that son of a bitch.
+*AVA:	+" muchacho . 586379_587819
+%eng:	boy...
 *AVA:	sí ahora se ríe . 588503_589652
 %eng:	yes, now he laughs.
 *LUI:	+< xxx . 588868_589652
@@ -1419,7 +1419,7 @@
 %eng:	and he came with it.
 *LUI:	+< [- eng] one forty Flagler@s:eng&spa I think it is . 1470048_1471680
 *AVA:	ah@s:eng&spa . 1471724_1472392
-*AVA:	entonces cuando Juan@s:eng&sp <me fue a llevar a ca(sa)> [///] fue a casa (.) para llevarme a la corte esa (.) me dice +"/. 1472937_1478783
+*AVA:	entonces cuando Juan@s:eng&spa <me fue a llevar a ca(sa)> [///] fue a casa (.) para llevarme a la corte esa (.) me dice +"/. 1472937_1478783
 %eng:	so when Juan took me home, came home to take me to that court, he said...
 *AVA:	+" mami yo he venido a llevarte . 1478766_1480786
 %eng:	Mum, I've come to take you there.
@@ -1866,7 +1866,7 @@
 *AVA:	eso [/] eso [///] después que salimos de allí tú me dices +"/. 2004321_2006573
 %eng:	this, this, after we left there you told me...
 *AVA:	+" ese perro vale mil y pico pesos &= laugh . 2006562_2008843
-%eng:	that dog is worth 1,000 and something dollars.
+%eng:	that dog is worth 1000 and something dollars.
 *LUI:	[- eng] oh yeah yeah yeah &=laugh ! 2009127_2012308
 *AVA:	&=laugh &=claps_hands ! 2010091_2012308
 *LUI:	we@s:eng saw@s:eng one@s:eng at@s:eng the@s:eng flea@s:eng market@s:eng &e near@s:eng Sally's@s:eng&spa+eng house@s:eng . 2012896_2016489
@@ -1875,13 +1875,13 @@
 *LUI:	negro chiquitito así ! 2020037_2021599
 %eng:	black and really small like this!
 *LUI:	mil cuatrocientos pesos . 2021610_2023224
-%eng:	1,400 dollars.
+%eng:	1400 dollars.
 *AVA:	+< ah@s:eng&spa . 2021735_2022263
 *LUI:	mil cuatrocientos pesos . 2023918_2025270
-%eng:	1,400 dollars.
+%eng:	1400 dollars.
 *AVA:	+< oh@s:eng&spa wow@s:eng&spa ! 2024307_2025793
 *LUI:	y el hermano mil quinientos . 2025735_2027430
-%eng:	and its brother 1,500.
+%eng:	and its brother 1500.
 *LUI:	y <tenía un> [/] tenía un [//] otro perrito que era blanco pero estaba rosado rosado rosado pink@s:eng . 2028060_2032981
 %eng:	and they had another little dog that was white, but it looked pink, pink, pink, pink.
 *AVA:	sí . 2033978_2034727
@@ -1974,7 +1974,7 @@
 *LUI:	no . 2136136_2136647
 %eng:	no.
 *AVA:	+< no pero eso &e eso es <ahí chunguero> [?] . 2136217_2138874
-%eng:	no,but that's a bit dodgy there.
+%eng:	no, but that's a bit dodgy there.
 *LUI:	tú crees ? 2139700_2140303
 %eng:	do you think so?
 *AVA:	sí sí sí (.) ya +... 2140338_2141807
@@ -2041,7 +2041,7 @@
 %eng:	look at that.
 *LUI:	+< donde tú [/] tú puedes conseguir eso ? 2210290_2211642
 %eng:	where can you get one like that?
-*LUI:	en BrandsMart@s:eng&spa . 2211544_2212525
+*LUI:	en Brands_Mart@s:eng&spa . 2211544_2212525
 %eng:	in BrandsMart.
 *LUI:	lo bueno <es que> [/] es que [/] que [/] que vaya (.) uno tiene que usar una tarjeta de crédito normal pa(ra) pagarlo cash@s:eng . 2213268_2219428
 %eng:	the only thing is that well, you have to use a regular credit card to pay cash.
@@ -2057,7 +2057,7 @@
 %eng:	a freezer like that.
 *AVA:	pero es una tienda de nueva ? 2230471_2232300
 %eng:	but is that a new shop?
-*LUI:	yeah@s:eng BrandsMart@s:eng&spa . 2232439_2233751
+*LUI:	yeah@s:eng Brands_Mart@s:eng&spa . 2232439_2233751
 *AVA:	de veras ? 2233819_2234841
 %eng:	really?
 *LUI:	[- eng] one ninety seven we paid for that thing . 2234829_2236669
