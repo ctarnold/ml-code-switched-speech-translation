@@ -1,4 +1,4 @@
-@Font:	Win95:@Arial Unicode MS:-16:0
+@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	eng, spa
@@ -77,7 +77,7 @@
 *MAR:	+" you need to go and walk around the place [=! laugh] . 66309_69281
 *FLA:	&=laugh you need to know what to do &=pant when you to an happy hour . 69258_73159
 *MAR:	+< yeah [=! laugh] . 70571_71471
-*MAR:	+< so well now we know &=laugh +//. 70825_73472
+*MAR:	+< so well now we know &=laugh +//. 71482_73472
 *MAR:	+, well now we know you need to [=! laugh] (.) walk around and mingle because if you are there +/. 73484_78221
 *FLA:	+< I don't think you've er@s:eng&spa &=laugh +/. 75870_78041
 *MAR:	[- spa] no es como (.) en nuestros países que [/] que los hombres son atrevidos que te hablan . 78099_83057
@@ -567,7 +567,7 @@
 %eng:	easily.
 *MAR:	+< [- spa] más . 569475_570298
 %eng:	more.
-*FLA:	uhuh@s:eng&spa . 569722_571185
+*FLA:	uhuh@s:eng&spa . 570170_570687
 *MAR:	[- spa] se hacen seis mil . 570582_571581
 %eng:	a total of six thousand.
 *FLA:	[- spa] ay dios mío . 571724_572630
@@ -619,17 +619,15 @@
 *MAR:	&=sigh I don't know . 626205_627842
 *FLA:	medium size so +//? 627802_629079
 *MAR:	no@s:eng&spa no@s:eng&spa (.) I don't want augmentation . 629043_632386
-*FLA:	&=laugh . 631056_633249
-*MAR:	I want elevation [=! laugh] . 632375_636247
-*FLA:	+< &=laugh . 632392_634714
-%com:	they both laugh
+*FLA:	&=laugh . 631056_634662
+*MAR:	+< I want elevation [=! laugh] . 632375_636247
 *FLA:	ay Marcela@s:eng&spa [=! laugh]. 636828_639342
 %eng:	oh Marcela
 *MAR:	because no@s:spa [///] porque@s:spa si@s:spa no@s:spa voy@s:spa a@s:spa parecer@s:spa más@s:spa gorda@s:spa . 639159_641998
 %eng:	because no, otherwise I'm going to look fatter.
 *FLA:	[- spa] pero que tú no estás gorda . 641963_643507
 %eng:	but you are not fat
-*FLA:	+< [- spa] coño +/. 641963_643507
+*MAR:	+< [- spa] coño +/. 641963_643507
 %eng:	damn
 *MAR:	[- spa] no pero si me pongo +/. 643501_645597
 %eng:	no, but if I augment
@@ -826,15 +824,15 @@
 *FLA:	ahhah@s:eng&spa . 837052_837754
 %com:	they both laugh
 *MAR:	you know . 841236_843105
-*MAR:	+< [- spa] ay sí . 841236_843105
+*FLA:	+< [- spa] ay sí . 841236_843105
 %eng:	oh yes
 *MAR:	so (..) you never know . 843111_844922
-*MAR:	+< [- spa] sí no yo creo que uno tiene que envejecer con dignidad . 843123_846356
+*FLA:	+< [- spa] sí no yo creo que uno tiene que envejecer con dignidad . 843123_846356
 %eng:	yes, I believe you have to grow older with dignity.
 *MAR:	yeah <I agree> [/] (.) I agree . 846344_849584
 *MAR:	[- spa] sí porque +/. 849575_850770
 %eng:	yes, because
-*MAR:	+< [- spa] porque es que te estás engañando a ti misma y al esposo &=laugh . 849580_853434
+*FLA:	+< [- spa] porque es que te estás engañando a ti misma y al esposo &=laugh . 849580_853434
 %eng:	because you are cheating on yourself and your husband.
 *MAR:	[- spa] &=squeal bueno el esposo qué importa &=laugh . 853390_856316
 %eng:	well, who cares about the husband?
@@ -844,7 +842,7 @@
 *MAR:	+< no@s:eng&spa but +/. 858284_859190
 %eng:	no, but.
 *MAR:	[- spa] no@s:eng&spa pero +/. 859061_860289
-*MAR:	+< +, we don't care any_more . 859958_861713
+*FLA:	+< +, we don't care any_more . 859958_861713
 %eng:	no, but.
 *MAR:	(.) no@s:eng&spa xxx after so many years . 860574_863116
 %eng:	no, after so many years.
@@ -869,9 +867,9 @@
 *FLA:	++ like a (.) priority . 883353_887091
 *MAR:	I don't know . 887039_887893
 *FLA:	at this point things change . 887086_890284
-*MAR:	+< because <if it's> [//] I think that if it's going to create like a psychological thing you [/] you know +... 887904_892862
+*MAR:	+< because <if it's> [//] I think that if it's going to create like a psychological thing . 887904_892071
 %com:	Flavia laughs
-*MAR:	<if you are> [///] you know if you are really so unhappy that (.) well fine . 891908_896076
+*MAR:	<you know> [/] you know if you are really so unhappy that [///] (.) well fine . 892048_896076
 *FLA:	+< [- spa] sí exacto si te sientes bien mal +... 894683_897280
 %eng:	yes, exactly, if you feel really bad ...
 *MAR:	[- spa] pero si es más o menos xxx si estás &=groan . 896542_899670
@@ -927,7 +925,7 @@
 *FLA:	+< [- spa] verdad ? 933276_934373
 %eng:	really?
 *MAR:	yeah . 934348_935288
-*MAR:	+< y@s:spa <cuánto@s:spa le@s:spa costó@s:spa> [///] how much &=mumble +/? 934349_936483
+*FLA:	+< y@s:spa <cuánto@s:spa le@s:spa costó@s:spa> [///] how much &=mumble +/? 934349_936483
 %eng:	and how much did it cost her, how much?
 *MAR:	+< [- spa] como tres mil dólares . 935892_937018
 %eng:	like three thousand dollars.
@@ -1093,8 +1091,8 @@
 *MAR:	one day is yoga . 1089332_1090214
 *FLA:	+< y@s:spa haces@s:spa kick-bo(xing) ? 1089750_1091038
 %eng:	and do you do kick-boxing?
-*FLA:	+, one day is Pilates@s:eng&spa . 1090005_1090986
-*FLA:	one day is +/. 1090969_1091932
+*MAR:	+, one day is Pilates@s:eng&spa . 1090005_1090986
+*MAR:	one day is +/. 1090969_1091932
 *FLA:	[- spa] sí ? 1090969_1091932
 %eng:	yes?
 *FLA:	[- spa] y todo(s) lo(s) día(s) va(s) ? 1091874_1092855
@@ -1248,9 +1246,9 @@
 %eng:	and no-one had invited them
 *MAR:	+< [- spa] y cuando llega(mos) +/. 1218973_1219861
 %eng:	and when we arrived.
-*MAR:	[- spa] no &=laugh . 1219803_1221028
-%eng:	no.
-*MAR:	[- spa] &=laugh y cuando llegamos +... 1220436_1221916
+*MAR:	[- spa] no ! 1219803_1220111
+%eng:	no!
+*MAR:	[- spa] &=laugh y cuando llegamos +... 1220140_1221916
 %eng:	and when we arrived ...
 *FLA:	ok . 1221440_1221904
 *MAR:	[- spa] Mick@s:eng&spa nos invitó +... 1221922_1222885
@@ -1297,7 +1295,7 @@
 *FLA:	oh god . 1258227_1259261
 *MAR:	+< [- spa] me quería morir &=laugh . 1258547_1259951
 %eng:	I wanted to die
-*MAR:	+< &=sigh oh god . 1259274_1260568
+*FLA:	+< &=sigh oh god ! 1259274_1260568
 *FLA:	you know (.) Carmen@s:eng&spa does that a lot . 1261186_1262848
 *MAR:	+< &=sight . 1261186_1262848
 *FLA:	the(e) [/] the age that's the age . 1262892_1264674
@@ -1447,7 +1445,7 @@
 *FLA:	uhuh . 1422968_1423357
 *MAR:	one sixty &=mumble let's say +//. 1423360_1424858
 *FLA:	sixty nine I think it was . 1424608_1426077
-*FLA:	no@s:eng&spa er@s:eng&spa whatever . 1425372_1426568
+*MAR:	no@s:eng&spa er@s:eng&spa whatever . 1425372_1426568
 *MAR:	y@s:spa después@s:spa te@s:spa ponen@s:spa (..) processing fee (.) esto@s:spa +... 1426568_1432850
 %eng:	and then they put on a processing fee, this
 *FLA:	+< [- spa] &=laugh la letra chiquita . 1429872_1431950
@@ -1470,10 +1468,10 @@
 %eng:	no, two instead of a hundred and ten, like they were a hundred and seventy, something like that.
 *FLA:	uhhum@s:eng&spa yeah . 1453083_1453803
 *MAR:	yeah but in &=mumble anyway it's a good deal . 1453832_1456293
-*FLA:	it is half of +... 1456126_1457803
+*MAR:	it is half of +//. 1456126_1457601
 *FLA:	+< [- spa] sí . 1457077_1457797
 %eng:	yes.
-*MAR:	but they got all the people that were going to Lady_of_America@s:eng&spa +... 1457215_1460420
+*MAR:	but they got all the people that were going to Lady_of_America@s:eng&spa +... 1457629_1460420
 *MAR:	+, los@s:spa trajeron@s:spa (.) because como@s:spa cerraron@s:spa +... 1460250_1462909
 %eng:	they got them because as they closed
 *FLA:	+< I know . 1460645_1461493
@@ -1481,7 +1479,7 @@
 *FLA:	they have too many people ? 1465165_1466320
 *MAR:	<that they can't> [///] no@s:spa dan@s:spa abasto@s:spa . 1466129_1468335
 %eng:	that they can't, they can't cope with everyone.
-*MAR:	so the machines are always (.) occupied . 1468331_1473592
+*MAR:	so the machines are always (.) occupied . 1468331_1472786
 *FLA:	++ busy uhhum@s:eng&spa . 1471920_1473064
 *MAR:	yeah . 1473029_1473551
 *MAR:	and the classes are always full . 1473603_1475583
@@ -1931,7 +1929,7 @@
 *MAR:	+< ok . 1985413_1986394
 *FLA:	I'd like to because esas@s:spa [=! mumble] cosas@s:spa son@s:spa especiales@s:spa . 1986512_1988619
 %eng:	I'd like to because those things are special
-*FLA:	+< [- spa] cómo +/? 1987551_1988230
+*MAR:	+< [- spa] cómo +/? 1987551_1988230
 %eng:	what?
 *MAR:	yeah cómo@s:spa está@s:spa tu@s:spa suegra@s:spa ? 1988622_1990178
 %eng:	yeah, how's your mother in law?
@@ -1973,7 +1971,7 @@
 %eng:	and how so?
 *MAR:	he looked (.) well +/. 2032327_2033494
 *MAR:	&=mumble you look fine until you die &=laugh . 2033500_2035967
-*MAR:	+< he er@s:eng&spa he had &=laugh +/. 2033605_2035956
+*FLA:	+< he er@s:eng&spa he had &=laugh +/. 2033605_2035956
 %com:	they both laugh.
 *FLA:	+< you look alive till you die [=! laugh] . 2037206_2039389
 *FLA:	[- spa] te ves lo más débil xxx te moriste [=! laugh] . 2040049_2042307
@@ -2117,7 +2115,7 @@
 %eng:	but the, there are people who had their spleen removed.
 *MAR:	+< so it could be susceptible +/. 2182250_2184421
 *MAR:	<unless is (..) comple(tely)> [/] unless is completely necessary because it compromises the immune system . 2185177_2192168
-*MAR:	++ [- spa] canceroso . 2187283_2188269
+*FLA:	++ [- spa] canceroso . 2187283_2188269
 %eng:	cancerous.
 *MAR:	that's what I've been told . 2192464_2193782
 *MAR:	[- spa] eso es lo que me dijo . 2193765_2194595

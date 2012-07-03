@@ -76,10 +76,9 @@
 %eng:	no.
 *LAR:	oh okay@s:eng&spa . 60072_60873
 *HER:	&=laugh . 60507_61633
-*LAR:	xxx . 60695_62814
+*LAR:	xxx &=laugh . 60695_62814
 *HER:	+< nada que ver . 61833_62599
 %eng:	not at all
-*LAR:	+< &=laugh . 61942_62778
 *HER:	+< &=laugh . 62522_63074
 *HER:	entonces llego . 63065_64186
 %eng:	then I arrive.
@@ -107,10 +106,10 @@
 %eng:	Henry wanted to do that to go to Canada.
 *HER:	[- eng] uhuh . 86963_88513
 %eng:	uh-huh
-*HER:	entonces me dijo eso . 88414_90754
+*HER:	entonces me dijo eso . 88414_90221
 %eng:	then he told me that.
-*LAR:	que (.) . 88414_90754
-%eng:	that.
+*LAR:	que +... 89060_90122
+%eng:	that...
 *HER:	no el +//. 90124_90914
 %eng:	no, he.
 *HER:	demasiado pana xxx me dice +"/. 90833_92435
@@ -385,7 +384,7 @@
 *HER:	[- eng] so she doesn't talk to anyone . 367112_368296
 *HER:	entonces +... 368289_370663
 %eng:	so [...]
-*HER:	[- eng] I didn't know that she was that bad . 370768_373246
+*HER:	[- eng] I didn't know that she was that bad . 370768_372283
 *HER:	hasta que se [/] se emborrachó . 372270_373710
 %eng:	until she got drunk.
 *HER:	y ahí fue que [/] que caí en cuenta y yo dije bueno o sea . 373677_375923
@@ -535,13 +534,13 @@
 *LAR:	[- eng] you're never gonna learn . 471210_472365
 *LAR:	y entonces yo y que +"/. 472376_473682
 %eng:	and then I say.
-*LAR:	+" Cecilia es porque ella no sabe . 472554_475126
+*LAR:	+" Cecilia es porque ella no sabe . 473681_475126
 %eng:	Cecilia, it's because she herself doesn't know how.
 *LAR:	+" y entonces te tiene envidia a ti . 475108_476931
 %eng:	and she envies you.
 *LAR:	porque you@s:eng are@s:eng doing@s:eng everything@s:eng that@s:eng she@s:eng can@s:eng never@s:eng do@s:eng . 476886_478766
 %eng:	because you are doing everything that she can never do.
-*LAR:	+< exacto . 477031_477762
+*HER:	+< exacto . 477031_477762
 %eng:	exactly.
 *HER:	hum@s:eng&spa . 478731_479161
 *LAR:	me entiendes entonces ella te ve bien con Luis@s:eng&spa (.) que es el novio . 478923_482492
@@ -570,7 +569,7 @@
 %eng:	and Cecilia said.
 *LAR:	le dijo a mi mamá . 492612_493302
 %eng:	she told my mother.
-*LAR:	todo esto me lo contó mi mamá porque yo no he hablado con Ceci@s:eng&spa . 493302_495665
+*LAR:	todo esto me lo contó mi mamá porque yo no he hablado con Ceci@s:eng&spa . 493302_495045
 %eng:	she told me all this, because I have not talked with Ceci.
 *LAR:	ella me escribió en Facebook@s:eng&spa . 495040_496025
 %eng:	she wrote to me on Facebook.
@@ -774,7 +773,7 @@
 %eng:	what was I telling you?
 *LAR:	de que tu papás te van a acompañar . 663569_664841
 %eng:	that your parents are going to go with you.
-*HER:	a ajá entonces sabes mi mamá me dice +"/. 664835_667064
+*HER:	a ajá entonces sabes mi mamá me dice +"/. 664835_666345
 %eng:	aha, so, you know, my mother tells me.
 *LAR:	+< xxx . 665090_665926
 *HER:	+" no sabes te acompañamos . 666222_667853
@@ -1007,7 +1006,7 @@
 *HER:	[- eng] &e: we couldn't print out the boarding pass . 878350_881724
 *HER:	justamente porque seguro era porque tú lo tenías que conocer a él . 881701_884441
 %eng:	exactly, because surely it was because you had to meet him.
-*HER:	y yo y que +"/. 884476_887158
+*HER:	y yo y que +"/. 885202_885673
 %eng:	and I say.
 *HER:	+" hay más fino . 885538_886194
 %eng:	he's really nice.
@@ -1311,7 +1310,7 @@
 %eng:	so in August I apply to start in January.
 *HER:	y (..) ahorita sabes voy a aplicar en todas las que vi . 1142660_1144849
 %eng:	and right now, you know, I'm going to apply to all the ones I saw.
-*HER:	vi como ocho universidades . 1144843_1147264
+*HER:	vi como ocho universidades . 1144843_1146226
 %eng:	I saw like eight universities.
 *LAR:	+< y vas a seguir con psicología o no ? 1144878_1147291
 %eng:	and you are going to continue with Psychology or not?
@@ -1429,7 +1428,7 @@
 %eng:	and really for me the blocks are twenty paces.
 *LAR:	caminas más rápido o no [=! laugh] ? 1270476_1271503
 %eng:	do you walk quicker or not?
-*HER:	sí (.) lo peor es que sí . 1271546_1274361
+*HER:	sí (.) lo peor es que sí . 1271546_1273015
 %eng:	yes, and the worst is that, yes.
 *LAR:	&guau . 1272672_1273438
 *HER:	&=laugh . 1273131_1273589
@@ -1489,11 +1488,11 @@
 %eng:	so it's fifty thousand a year with the dorms.
 *HER:	y treinta y cinco [//] entre treinta y treinta y cinco +//. 1333217_1335666
 %eng:	and thirty-five, between thirty and thirty-five.
-*HER:	no me acuerdo &e sin los dorms@s:eng o sea el tuition@s:eng nada más . 1335613_1339676
+*HER:	no me acuerdo &e sin los dorms@s:eng o sea el tuition@s:eng nada más . 1335613_1339096
 %eng:	I don't remember, without the dorms, I mean, the tuition only.
 *HER:	pero sabes estoy aplicando a lo del xxx . 1339154_1343461
 %eng:	but, you know, I am applying to the [...].
-*HER:	para que me den broma . 1343426_1346528
+*HER:	para que me den broma . 1343426_1345043
 %eng:	so they can give me something.
 *LAR:	+< claro . 1344572_1344967
 %eng:	of course.
@@ -1629,7 +1628,7 @@
 %eng:	and him and her would be living there with the cat.
 *HER:	+< pero el apartamento de tu mamá todavía o sea no lo va a vender . 1474704_1477415
 %eng:	but your mother's apartment, I mean, she is not going to sell it yet.
-*LAR:	+< no ese es para nosotros . 1476906_1480000
+*LAR:	+< no ese es para nosotros . 1477156_1478201
 %eng:	no, it is for us.
 *HER:	+< exacto . 1478119_1478728
 %eng:	exactly.
@@ -1735,9 +1734,9 @@
 %eng:	well, there are four rooms in my apartment.
 *LAR:	y él dijo +"/. 1574117_1574547
 %eng:	and he said.
-*LAR:	+" bueno un cuarto sería +//. 1574529_1576468
+*LAR:	+" bueno un cuarto sería +//. 1574529_1575598
 %eng:	well, one room will be.
-*LAR:	obviamente él y mi mamá cuando se casen . 1574529_1577368
+*LAR:	obviamente él y mi mamá cuando se casen . 1575616_1577368
 %eng:	obviously him and my mother when they get married.
 *LAR:	y sería la niñera con Mario@s:eng&spa . 1577339_1582126
 %eng:	and it would be the nanny with Mario.
@@ -1761,7 +1760,7 @@
 *LAR:	+" ok@s:eng&spa let's@s:eng rent@s:eng an@s:eng apartment@s:eng . 1598551_1600188
 %eng:	okay, let's rent an apartment.
 *LAR:	[- eng] and they were looking into apartments . 1600194_1602264
-*LAR:	pero después mi mamá y que +"/. 1600194_1602264
+*LAR:	pero después mi mamá y que +"/. 1602256_1603330
 %eng:	but then my mother said.
 *LAR:	+" es absurdo . 1603532_1604524
 %eng:	it is ridiculous.
@@ -1829,7 +1828,7 @@
 %eng:	your uncle is going to tell him.
 *HER:	+" estás loco eres un niño . 1685901_1687422
 %eng:	you are crazy, you are a child.
-*HER:	+" o sea piensa bien las cosas . 1687370_1691468
+*HER:	+" o sea piensa bien las cosas . 1687370_1689309
 %eng:	I mean, think things through properly.
 *HER:	o sea es una tipa de veintisiete años con un chamito de veinte . 1690007_1693465
 %eng:	I mean, she is a girl of twenty-seven year with a boy of twenty
@@ -1900,7 +1899,7 @@
 %eng:	we were there.
 *HER:	y después nos fuimos al xxx express@s:eng&spa Carmen@s:eng&spa Miguel@s:eng&spa y yo . 1765432_1767950
 %eng:	and later we went to [...] express, Carmen, Miguel and I.
-*HER:	y Carmen@s:eng&spa tenía demasiado sueño . 1765432_1767950
+*HER:	y Carmen@s:eng&spa tenía demasiado sueño . 1767954_1769475
 %eng:	and Carmen was really sleepy.
 *HER:	entonces se quedó dormida en el carro . 1769396_1770476
 %eng:	so she went to sleep in the car.

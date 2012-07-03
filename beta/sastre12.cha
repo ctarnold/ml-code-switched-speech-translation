@@ -64,7 +64,7 @@
 *SAM:	Billy@s:eng&spa has had his red truck . 63318_65681
 *MAD:	+< so your car had to go inside too to jump it . 65251_67582
 *SAM:	no@s:eng&spa [/] no@s:eng&spa [/] no@s:eng&spa I jumped it outside . 67193_69000
-*SAM:	+< oh@s:eng&spa ok . 67555_68466
+*MAD:	+< oh@s:eng&spa ok . 67555_68466
 *SAM:	er@s:eng&spa (..) er@s:eng&spa (..) Billy@s:eng&spa had his red truck . 68957_74178
 *MAD:	++ washing it . 74116_75799
 *SAM:	+< or +/. 74992_75712
@@ -212,7 +212,7 @@
 *SAM:	+" was that you ? 251513_252453
 *MAD:	+< &=laugh . 251630_252176
 *SAM:	and I'm cracking up . 252308_254183
-*SAM:	so I go to her +"/. 254043_255651
+*SAM:	so I go to her +"/. 254043_255071
 %com:	noises as if Sam is playing with her jewellery.
 *SAM:	+" wait wait wait . 254914_256406
 *SAM:	so I had to go with her going +"/. 256400_257607
@@ -403,8 +403,8 @@
 *MAD:	+< y@s:spa entonces@s:spa er@s:eng&spa that she you know again she's telling me about her stepson . 465788_471208
 %eng:	and then, that she, you know, again she's telling me about her stepson
 *MAD:	and how +//. 471291_472853
-*MAD:	she goes like +"/. 472806_473677
-*MAD:	+" we think it's can(cer) . 472806_473677
+*MAD:	she goes like +"/. 472806_473214
+*MAD:	+" we think it's can(cer) . 473126_474230
 *SAM:	+< he's still in the hospital ? 473410_474553
 *MAD:	no he's out . 474548_475447
 *MAD:	he's been out . 475453_476457
@@ -458,7 +458,7 @@
 *MAD:	and the guy told her . 531809_533127
 *MAD:	I guess like they saw her with him . 533092_535077
 *SAM:	right . 534832_535575
-*MAD:	+< (be)cause they are not really +//. 535169_536777
+*MAD:	+< (be)cause they are not really +//. 535169_536000
 *MAD:	xxx laws (.) says you are not supposed to . 536005_538612
 *SAM:	+< yeah &=mumble . 536660_538065
 *SAM:	+< right . 538438_539401
@@ -508,7 +508,7 @@
 %eng:	so then she kept telling the guy.
 *MAD:	+" please call me . 598355_599098
 *MAD:	she gave them the cell phone the work number you know . 599079_601738
-*MAD:	apparently he ended up calling her . 602353_607142
+*MAD:	apparently he ended up calling her . 602353_604919
 *SAM:	oh really ? 605012_605801
 *MAD:	he [//] <the guy> [//] er@s:eng&spa her stepson called her . 605805_608133
 *MAD:	<and said> [/] um and said (.) that the doctor had called him . 608127_614257
@@ -628,7 +628,7 @@
 *SAM:	oh my god she called at eight thirty this morning . 737535_739572
 *SAM:	but I didn't hear the phone . 739566_740408
 *SAM:	and then I heard a message . 740402_741534
-*SAM:	I go xxx because I had put the phone on low yesterday on silence . 740423_745879
+*SAM:	I go xxx because I had put the phone on low yesterday on silent . 741323_745879
 *MAD:	+< right . 744637_745380
 *SAM:	<so I> [//] and I see a missed call and a message . 745869_749891
 *MAD:	&=whisper . 748716_750539
@@ -882,8 +882,8 @@
 %com:	one of the kids is talking in the background.
 *MAD:	we're doing a study [=! whisper] . 1113251_1114743
 %com:	Mad is talking to one of the kids.
-*SAM:	like I went with Rachel@s:eng&spa +... 1114640_1116538
-*SAM:	+, then what we did is that when we got there I called you know with the cell phone . 1115790_1119610
+*SAM:	like I went with Rachel@s:eng&spa +... 1114640_1116341
+*SAM:	+, then what we did is that when we got there I called you know with the cell phone . 1116430_1119610
 *MAD:	+< yeah . 1119175_1120080
 *SAM:	everybody was like +"/. 1119567_1120293
 *SAM:	+" hey where are you ? 1120270_1120925
@@ -1092,7 +1092,7 @@
 *SAM:	that's right . 1349885_1350703
 *MAD:	xxx . 1350732_1351937
 *MAD:	the healing . 1352160_1353420
-*MAD:	+< xxx . 1352160_1353394
+*SAM:	+< xxx . 1352160_1353394
 *MAD:	this is something that he xxx doing for linguistics . 1353400_1359594
 *SAM:	+< xxx . 1353400_1359594
 *MAD:	that means how do we speak . 1359609_1361461
@@ -1162,7 +1162,7 @@
 *SAM:	Patty@s:eng&spa has a really good um +... 1429863_1433230
 *MAD:	[- spa] ella es lin(da) . 1432695_1433351
 %eng:	she's cute.
-*MAD:	xxx lindo@s:spa yeah . 1433100_1435340
+*SAM:	xxx lindo@s:spa yeah . 1433100_1435340
 %eng:	cute, yeah.
 *MAD:	+< [- spa] tiene algo linda . 1433355_1434267
 %eng:	she has something cute.
@@ -1377,7 +1377,6 @@
 *MAD:	doing good ? 1693690_1694410
 %com:	third speaker
 *MAD:	that's good [=! laughing] . 1694973_1696250
-*MAD:	+< &= laughing . 1694973_1696250
 *SAM:	so I was like +"/. 1696275_1699793
 *SAM:	+" they are doing worse . 1699799_1700803
 *SAM:	+" you don't +... 1700778_1701579
@@ -1479,8 +1478,8 @@
 *SAM:	I'm before everything . 1817393_1818467
 *SAM:	and <when you put a> [/] when you put a picture especially living person . 1818502_1823736
 *SAM:	you know . 1823711_1824477
-*MAD:	+< because we do or will say some people do put [///] light [/] light candles for[/] for someone who has just passed away to give them light . 1823914_1834577
-*MAD:	+< right the Mexicans do . 1832284_1834868
+*MAD:	+< because we do or will say some people do put [///] light [/] light candles for [/] for someone who has just passed away to give them light . 1823914_1834577
+*SAM:	+< right the Mexicans do . 1832284_1834868
 *MAD:	right . 1834868_1836145
 *SAM:	no and the Mexicans in that thing they [/] they honour on death day or something . 1835773_1840732
 *MAD:	yeah the day after +//. 1840750_1841433
