@@ -1,4 +1,3 @@
-@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	eng, spa
@@ -730,8 +729,8 @@
 *MAR:	you know . 1526645_1527225
 *OSE:	www .
 *MAR:	termpera yes . 1527684_1528316
-*MAR:	but you know . 1528375_1529338
-*MAR:	they love to p(aint) . 1528787_1530238
+*MAR:	but you know . 1528375_1528956
+*MAR:	they love to pai(nt) . 1529013_1529652
 *MAR:	[- spa] y se acaban así . 1529565_1530882
 %eng:	and they end up like this.
 *OSE:	+< www .
@@ -853,7 +852,7 @@
 *OSE:	www .
 *MAR:	no . 1789207_1789649
 *OSE:	www .
-*MAR:	do you know how you get them to stop this little crack ? 1789916_1793283
+*MAR:	do you know how you get them to stop this little crack ? 1789916_1792657
 *OSE:	www .
 *MAR:	you write a little letter . 1792650_1794809
 *MAR:	&cha &ca &cha &ca &cha . 1794798_1796144
@@ -920,7 +919,7 @@
 *OSE:	www .
 *MAR:	xxx it's <an appl(y)> [/] an apply pannel . 2222258_2224487
 *OSE:	www .
-*MAR:	no no no no no . 2225108_2226832
+*MAR:	no no no no no no no no ! 2225108_2226323
 *MAR:	I want a letter . 2226327_2227866
 *OSE:	www .
 *MAR:	I want a letter . 2229491_2231018
@@ -947,7 +946,7 @@
 *MAR:	she did . 2323288_2324658
 *MAR:	she ride through me . 2324524_2325854
 *OSE:	www .
-*MAR:	[- spa] esta camisita me gusta . 2355430_2356916
+*MAR:	[- spa] esta camisita me gusta . 2355430_2356557
 %eng:	I like this little shirt.
 *MAR:	[- spa] voy a ver si &vie [//] tienen otro color . 2356411_2358669
 %eng:	I am going to check if they have other colours.

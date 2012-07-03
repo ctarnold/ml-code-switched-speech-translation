@@ -1,4 +1,3 @@
-@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	eng, spa
@@ -8,7 +7,7 @@
 @Situation:
 @Date:	00-JAN-2008
 @Media:	Maria4, audio
-@Transcriber:	Maricarmen Parafita, Lara Gil Vallejo.  Original translation by Lara Gil Vallejo
+@Transcriber:	Maricarmen Parafita, Lara Gil Vallejo. Original translation by Lara Gil Vallejo
 @Time Duration:	00:17:22
 @Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *OSE:	www .
@@ -38,7 +37,7 @@
 *OSE:	www .
 *MAR:	no . 46904_47415
 *MAR:	hey yeah . 47415_48205
-*MAR:	he's got like a shirt +//. 47833_49551
+*MAR:	he's got like a shirt +//. 47967_49157
 *MAR:	my brother lives in Wales . 49041_50759
 *MAR:	he's got like a shirt and a jacket . 50294_51780
 *MAR:	&=laugh uh@s:eng . 52013_53592
@@ -74,7 +73,7 @@
 *MAR:	but Double_U@s:eng&spa had already been issued or what have you told . 161797_165837
 *MAR:	it probably never got picked up . 165883_168298
 *OSE:	www .
-*MAR:	they [/] they aren't  the [/] the B_C_C@s:eng&spa . 179304_180883
+*MAR:	they [/] they aren't the [/] the B_C_C@s:eng&spa . 179304_180883
 *OSE:	www .
 *MAR:	yeah . 181209_181998
 *OSE:	www .
@@ -116,19 +115,19 @@
 *OSE:	www .
 *MAR:	the width is for a panel . 266332_268664
 *OSE:	www .
-*MAR:	what we had [///] what &th the &mi xxx guy  just made made a panel to cover that . 268830_273576
+*MAR:	what we had [///] what &th the &mi xxx guy just made made a panel to cover that . 268830_273576
 *MAR:	but I have a picture like Defoes@s:eng&spa . 273576_276156
 *OSE:	www .
 *MAR:	no . 276406_277072
 *MAR:	this is why they need spaces in the dressing webs . 277155_280153
 *MAR:	(be)cause thats the only ones that you see . 280153_282317
 *OSE:	www .
-*MAR:	and Defoe@s:eng&spa sent a picture and it clearly shows the Insta_Hot@s:eng&spa under the sink . 281568_286730
+*MAR:	and Defoe@s:eng&spa sent a picture and it clearly shows the Insta_Hot@s:eng&spa under the sink . 282232_286730
 *OSE:	www .
 *MAR:	but I need to go look to see what my discusion with García@s:eng&spa was in terms of what they xxx extra money . 287812_294556
-*MAR:	and I think they said that yesterday they put on there and they had the moon to the top . 294556_300134
-*MAR:	and I am like xxx I got a picture . 299634_301216
-*MAR:	I got a xxx an A@s:eng&spa or U@s:eng&spa . 300550_302881
+*MAR:	and I think they said that yes they (ha)d put him there and then they had to move him to the top . 294556_299347
+*MAR:	and I am like wait a minute I got a picture . 299446_301216
+*MAR:	I gotta figure out whether it's A@s:eng&spa or U@s:eng&spa . 301221_302881
 *MAR:	I don't know which one of this . 302548_304380
 *OSE:	www .
 *MAR:	well I mean just to check . 310124_311706
@@ -143,14 +142,13 @@
 *MAR:	sí@s:spa es funny . 335600_336349
 %eng:	yes it's funny.
 *MAR:	she pulls out and she's [//] she looks at me and I'm like +"/. 336432_338930
-*MAR:	+" oh@s:eng&spa hi! 338291_338970
+*MAR:	+" oh@s:eng&spa hi! 338606_339163
 *MAR:	and like +"/. 338680_339429
-*MAR:	+" I know who you are . 338847_340678
+*MAR:	+" I know who you are &=laugh . 339471_340794
 *OSE:	www .
-*MAR:	&=laugh . 343093_344758
-*MAR:	I was telling my parents . 344092_345757
-*MAR:	that she loves yelling with you . 345424_347672
-*MAR:	cause you can talk in Spanish and she can say anything . 347339_350086
+*MAR:	&=laugh . 343987_344758
+*MAR:	I was telling my parents that she loves xxx with you . 344832_347676
+*MAR:	(be)cause you can talk in Spanish and she can say anything . 347339_350086
 *MAR:	and give you the whole +... 350086_351668
 *OSE:	www .
 *MAR:	&=laugh . 357995_360493
@@ -176,8 +174,8 @@
 *MAR:	[- spa] ay xxx que rica . 387467_388799
 %eng:	ah, so tasteful.
 *OSE:	www .
-*MAR:	I didn't the apple . 390797_393211
-*MAR:	[- spa] y de qué más tienes? 392212_393295
+*MAR:	again [?] the apple . 390797_392527
+*MAR:	[- spa] y de qué más tienes? 392463_393295
 %eng:	and what else do you have?
 *OSE:	www .
 *MAR:	tomato . 394127_395043
@@ -209,7 +207,7 @@
 *OSE:	www .
 *MAR:	[- spa] no . 422600_423433
 %eng:	no.
-*MAR:	[- spa] él sólo nada más . 422850_424099
+*MAR:	[- spa] él sólo nada más . 423502_424367
 %eng:	himself alone, nothing else.
 *OSE:	www .
 *MAR:	[- spa] vino sólo nada más . 424432_426097
@@ -317,9 +315,9 @@
 *MAR:	[- spa] no puede ser que tu seas tan enana que no puedas ver eso . 609054_612051
 %eng:	it can't be that you are so small that you can't see it.
 *OSE:	www .
-*MAR:	you need &sa [///] do you need glasses? 612634_615298
+*MAR:	you need &sa [///] do you need glasses? 612634_614727
 *OSE:	www .
-*MAR:	Annete@s:eng&spa Smith@s:eng&spa do you need reading &gla? 614731_617413
+*MAR:	Annete@s:eng&spa Smith@s:eng&spa do you need reading gla(sses) ? 614731_617413
 *OSE:	www .
 *MAR:	twenty in the xxx . 617296_618212
 *MAR:	but you just &d . 618046_619211
@@ -333,8 +331,8 @@
 *OSE:	www .
 *MAR:	the heel is like ten inches? 633031_635362
 *OSE:	www .
-*MAR:	look at those things! 637111_638776
-*MAR:	no no . 638026_638692
+*MAR:	look at those things! 637111_638539
+*MAR:	no no ! 638527_639032
 *MAR:	that's more than five . 638692_640524
 *OSE:	www .
 *MAR:	xxx &=laugh . 644187_646269
@@ -416,8 +414,8 @@
 *MAR:	we &d [//] I think he just forgot about it . 798799_801379
 *MAR:	we gave him for here . 800880_802295
 *MAR:	we told him that there's a way to this back here . 801962_805043
-*MAR:	<the school> [//] all schools says there were interested in this one . 804959_808706
-*MAR:	they [/] they couldn't care less about this one . 808123_809455
+*MAR:	<the school> [//] all schools says there were interested in this one . 804959_808300
+*MAR:	they [/] they could care less about this one . 808300_810263
 *MAR:	particularly when you have a fence . 809788_811037
 *OSE:	www .
 *MAR:	and <we need to> [/] we need to make sure we have a way to fence just like we did in the U_V@s:eng&spa . 811287_816781
@@ -428,8 +426,8 @@
 *MAR:	that R_A_U@s:eng&spa and V@s:eng&spa we +/. 826106_828354
 *OSE:	www .
 *MAR:	right . 828437_829353
-*MAR:	they need to be able to [/] to +... 829186_831018
-*MAR:	because visitors are parking here . 831059_833544
+*MAR:	they need to be able to [/] to +... 829186_831362
+*MAR:	because visitors are parking here . 831356_833138
 *MAR:	and they could theoretically sneak in back here . 832987_836353
 *MAR:	the layout is a little bit different here . 836307_838141
 *OSE:	www .
