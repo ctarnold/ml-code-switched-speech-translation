@@ -2,8 +2,8 @@
 @Begin
 @Languages:	spa, eng
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|Maria|MAR|45;|female|||Adult||
-@ID:	spa, eng|Maria|OSE|||||Adult||
+@ID:	spa, eng|Miami|MAR|45;|female|||Adult||
+@ID:	spa, eng|Miami|OSE|||||Adult||
 @Situation:	MAR is in a house with some of her relatives, at a family reunion.
 @Comment:
 @Date:	00-JAN-2008
@@ -13,7 +13,7 @@
 @Media:	maria40, audio
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish, @s:ita = Italian. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Multiple people speak at the same time throughout the majority of the recording. There is also a high level of background noise, but the volume of the recording sometimes gets very low. This impedes understanding of what is being said or who says it.
-*MAR:	okay@s:eng&spa . 11_501
+*MAR:	o_k@s:eng&spa . 11_501
 *OSE:	www .
 *MAR:	y ya tú les preguntaste a todos los [/] los [/] los contrincantes ? 2927_7407
 %eng:	did you ask the opponents yet ?
@@ -41,7 +41,7 @@
 *MAR:	y cuánto tiempo ando con la vaina esta ? 95132_97708
 %eng:	and how much time do I walk with this thing ?
 *OSE:	www .
-*MAR:	+< okay@s:eng&spa . 113251_113918
+*MAR:	+< o_k@s:eng&spa . 113251_113918
 *OSE:	www .
 *MAR:	+< mmhm mmhm . 122243_123955
 *OSE:	www .
@@ -97,7 +97,7 @@
 *MAR:	yo <en la ca> [/] en la caja negra yo creo que la boté . 285589_288155
 %eng:	me in the black box i thing I threw it away .
 *OSE:	www .
-*MAR:	+< ah okay@s:eng&spa . 289332_290591
+*MAR:	+< ah o_k@s:eng&spa . 289332_290591
 *OSE:	www .
 *MAR:	qué lindo está ! 292316_293767
 %eng:	it's so nice !
@@ -342,13 +342,13 @@
 *MAR:	so@s:eng we@s:eng gotta@s:eng wait@s:eng hasta que todos estén así . 663229_665597
 %eng:	so we gotta wait until everyone is like that .
 *MAR:	[- eng] you see how ? 665576_666552
-*MAR:	yeah@s:eng wait@s:eng until@s:eng they're@s:eng all@s:eng like@s:eng that@s:eng okay@s:eng&spa ? 666550_668859
+*MAR:	yeah@s:eng wait@s:eng until@s:eng they're@s:eng all@s:eng like@s:eng that@s:eng o_k@s:eng&spa ? 666550_668859
 *MAR:	[- eng] they're [/] they're getting there . 668835_670409
 *OSE:	+< www .
 *MAR:	están llegando muñeca . 671318_673403
 %eng:	they are gettin there honey .
 *OSE:	www .
-*MAR:	this@s:eng need@s:eng to@s:eng be@s:eng like@s:eng this@s:eng one@s:eng (.) okay@s:eng&spa ? 675270_678022
+*MAR:	this@s:eng need@s:eng to@s:eng be@s:eng like@s:eng this@s:eng one@s:eng (.) o_k@s:eng&spa ? 675270_678022
 *MAR:	[- eng] put it back in there . 678019_679208
 *OSE:	www .
 *MAR:	+< [- eng] I know . 681807_682495
@@ -403,8 +403,8 @@
 %eng:	do you want a glass Jack ?
 *OSE:	www .
 *MAR:	oh@s:eng&spa ! 757994_758469
-*MAR:	okay@s:eng&spa . 758458_759280
-*MAR:	okay@s:eng&spa ya no más papo [?] . 759272_760883
+*MAR:	o_k@s:eng&spa . 758458_759280
+*MAR:	o_k@s:eng&spa ya no más papo [?] . 759272_760883
 %eng:	ok, that's enough, darling .
 *OSE:	www .
 *MAR:	+< ah ! 761844_762660
@@ -564,7 +564,7 @@
 %eng:	the handle it says .
 *MAR:	+" [- eng] fly interval [?] . 1138210_1139447
 *OSE:	www .
-*MAR:	okay@s:eng&spa okay@s:eng&spa . 1146115_1147363
+*MAR:	o_k@s:eng&spa o_k@s:eng&spa . 1146115_1147363
 *MAR:	here@s:eng we@s:eng don't@s:eng have@s:eng the@s:eng right@s:eng house@s:eng for@s:eng it@s:eng Sophy@s:eng&spa . 1147342_1150497
 *OSE:	www .
 *MAR:	si ya lo veo . 1156440_1157613
@@ -589,7 +589,7 @@
 *MAR:	+< todavía estás en la fase vegetariana o qué ? 1223931_1226406
 %eng:	are you still in your vegetarian phase ot what ?
 *OSE:	+< www .
-*MAR:	+< okay@s:eng&spa . 1226923_1227477
+*MAR:	+< o_k@s:eng&spa . 1226923_1227477
 *OSE:	www .
 *MAR:	como una más que veo arroz y frijol [?] en el negro ? 1227456_1231653
 %eng:	like one more I see rice and bean [?] in the black .
@@ -1200,7 +1200,7 @@
 *MAR:	+< me hace falta otra botella pa hacer después más (.) cuando se acabe una botella de vino . 2587232_2591572
 %eng:	I need another bottle to make more, when a bottle of wine is empty .
 *OSE:	www .
-*MAR:	+< okay@s:eng&spa no la botes . 2592955_2594859
+*MAR:	+< o_k@s:eng&spa no la botes . 2592955_2594859
 *OSE:	www .
 *MAR:	oye se lo dije . 2597102_2598292
 %eng:	listen I told him/her .
@@ -1568,7 +1568,7 @@
 *OSE:	www .
 *MAR:	sí aquí está todo . 3626320_3627622
 %eng:	yes here is everything .
-*MAR:	okay@s:eng&spa muñeca . 3628368_3629803
+*MAR:	o_k@s:eng&spa muñeca . 3628368_3629803
 %eng:	ok honey .
 *OSE:	+< www .
 *MAR:	el ice@s:eng está ready@s:eng . 3630502_3631905
@@ -1633,12 +1633,12 @@
 *MAR:	[- eng] that's the mix . 3720167_3721805
 *MAR:	cinco [?] xxx more@s:eng (.) frosting@s:eng cupcake@s:eng mix@s:eng . 3723498_3733506
 %eng:	five [...] more frosting cupcake mix .
-*MAR:	okay@s:eng&spa you@s:eng want@s:eng a@s:eng vanilla@s:eng or@s:eng strawberry@s:eng ? 3733456_3735819
+*MAR:	o_k@s:eng&spa you@s:eng want@s:eng a@s:eng vanilla@s:eng or@s:eng strawberry@s:eng ? 3733456_3735819
 *OSE:	www .
 *MAR:	[- eng] strawberry . 3743949_3745106
 *OSE:	www .
 %com:	background noise and voices
-*MAR:	okay@s:eng&spa and@s:eng we@s:eng need@s:eng three@s:eng of@s:eng these@s:eng . 3790705_3794843
+*MAR:	o_k@s:eng&spa and@s:eng we@s:eng need@s:eng three@s:eng of@s:eng these@s:eng . 3790705_3794843
 %com:	background noise and voices
 *MAR:	alright@s:eng Patrisha@s:eng&spa come@s:eng stir@s:eng ! 3818516_3820692
 *OSE:	www .
@@ -1702,7 +1702,7 @@
 *MAR:	no te asustes . 3977817_3979566
 %eng:	don't be scared .
 *OSE:	www .
-*MAR:	+< okay@s:eng&spa . 3986409_3987379
+*MAR:	+< o_k@s:eng&spa . 3986409_3987379
 *OSE:	www .
 *MAR:	[- eng] alright ? 3996047_3996633
 *MAR:	[- eng] or we're not ready yet ? 3996628_3998095
@@ -1805,7 +1805,7 @@
 *MAR:	que se rompe . 4232939_4233931
 %eng:	it can break .
 *OSE:	www .
-*MAR:	okay@s:eng&spa . 4238483_4239976
+*MAR:	o_k@s:eng&spa . 4238483_4239976
 *OSE:	www .
 *MAR:	ay si &ac +//. 4244054_4246246
 %eng:	oh if .
@@ -1901,8 +1901,8 @@
 *OSE:	www .
 *MAR:	[- eng] relax xxx . 4555641_4559150
 *MAR:	[- eng] there is no reason to get upset . 4559234_4562696
-*MAR:	there@s:eng is@s:eng no@s:eng reason@s:eng to@s:eng cry@s:eng (.) okay@s:eng&spa ? 4562636_4566236
-*MAR:	okay@s:eng&spa ? 4567197_4568984
+*MAR:	there@s:eng is@s:eng no@s:eng reason@s:eng to@s:eng cry@s:eng (.) o_k@s:eng&spa ? 4562636_4566236
+*MAR:	o_k@s:eng&spa ? 4567197_4568984
 *MAR:	[- eng] now hold on . 4568984_4571118
 *MAR:	[- eng] I will protect you [?] . 4571099_4574219
 *MAR:	xxx ? 4574032_4576080
@@ -1966,7 +1966,7 @@
 *MAR:	sí . 4672054_4672400
 %eng:	yes .
 *OSE:	+< www .
-*MAR:	okay@s:eng&spa . 4676361_4677199
+*MAR:	o_k@s:eng&spa . 4676361_4677199
 *MAR:	eh xxx . 4677433_4679241
 *OSE:	www .
 *MAR:	+< como se diga eso en español . 4680308_4681897
@@ -2094,7 +2094,7 @@
 %eng:	oh my god .
 *OSE:	www .
 *MAR:	oh@s:eng&spa yeah@s:eng xxx . 4861246_4862638
-*MAR:	okay@s:eng&spa ese le paso al Thomas@s:eng&spa . 4866046_4867620
+*MAR:	o_k@s:eng&spa ese le paso al Thomas@s:eng&spa . 4866046_4867620
 %eng:	ok this I pass on to Thomas .
 *MAR:	ese [///] pasa tu pieza pa(ra) acá pa(ra) doña Angy@s:eng&spa . 4867401_4869406
 %eng:	this, pass on your piece over here miss Angy .
@@ -2154,7 +2154,7 @@
 *MAR:	xxx de ella . 4935023_4935994
 %eng:	[...] of her .
 *OSE:	+< www .
-*MAR:	okay@s:eng&spa can@s:eng we@s:eng take@s:eng your@s:eng garbage@s:eng de la mesa ? 4944012_4946513
+*MAR:	o_k@s:eng&spa can@s:eng we@s:eng take@s:eng your@s:eng garbage@s:eng de la mesa ? 4944012_4946513
 %eng:	ok can we take your garbage from the table ?
 *MAR:	pánfilo . 4946948_4947882
 %eng:	dimwit .
@@ -2185,7 +2185,7 @@
 *MAR:	oh@s:eng&spa que suerte ! 4977338_4978575
 %eng:	oh have good luck !
 *OSE:	www .
-*MAR:	okay@s:eng&spa now@s:eng you@s:eng pay@s:eng . 4979130_4980271
+*MAR:	o_k@s:eng&spa now@s:eng you@s:eng pay@s:eng . 4979130_4980271
 *OSE:	+< www .
 *MAR:	+< no . 4981642_4982020
 %eng:	no .
@@ -2214,10 +2214,10 @@
 *MAR:	debemos ver las instrucciones . 5041722_5043492
 %eng:	we should see the instructions .
 *MAR:	[- eng] I think it needs a little more time . 5044148_5045994
-*MAR:	espera few@s:eng more@s:eng minutes@s:eng okay@s:eng&spa ? 5048004_5049722
+*MAR:	espera few@s:eng more@s:eng minutes@s:eng o_k@s:eng&spa ? 5048004_5049722
 %eng:	wait a few more minutes ok?
 *OSE:	www .
-*MAR:	[- eng] and then we make a frosty okay ? 5052410_5054266
+*MAR:	[- eng] and then we make a frosty o_k ? 5052410_5054266
 *OSE:	www .
 *MAR:	[- eng] come in . 5064095_5064772
 *OSE:	www .
@@ -2462,7 +2462,7 @@
 *MAR:	ve ! 5648917_5649647
 %eng:	go !
 *OSE:	www .
-*MAR:	okay@s:eng&spa . 5655306_5656570
+*MAR:	o_k@s:eng&spa . 5655306_5656570
 *MAR:	[- eng] right now we're going to take [/] take them out . 5657313_5661420
 *OSE:	+< www .
 %com:	pause with background noise and voices .
@@ -2511,7 +2511,7 @@
 *MAR:	está xxx . 5930068_5931530
 %eng:	it is [...] .
 *OSE:	www .
-*MAR:	okay@s:eng&spa . 5933754_5934623
+*MAR:	o_k@s:eng&spa . 5933754_5934623
 *OSE:	www .
 *MAR:	lo malo de siete piececitas es que no hay muchas opciones . 5937167_5940298
 %eng:	the bad thing about seven pieces is that there are not a lot of options .
@@ -2532,7 +2532,7 @@
 *OSE:	www .
 *MAR:	one@s:eng for@s:eng you@s:eng and@s:eng one@s:eng for@s:eng &a [///] Jack@s:eng&spa ? 5974975_5976996
 *OSE:	www .
-*MAR:	okay@s:eng&spa . 5977652_5978138
+*MAR:	o_k@s:eng&spa . 5977652_5978138
 *OSE:	www .
 *MAR:	que dijo precioso . 5989535_5991050
 %eng:	that he said beautiful .
@@ -3479,7 +3479,7 @@
 *MAR:	por qué tanto rato a Silvio@s:eng&spa ? 8680328_8682307
 %eng:	why Silvio for so long?
 *OSE:	www .
-*MAR:	okay@s:eng&spa . 8690195_8690333
+*MAR:	o_k@s:eng&spa . 8690195_8690333
 *OSE:	www .
 *MAR:	oh@s:eng&spa . 8693971_8694248
 *OSE:	www .
