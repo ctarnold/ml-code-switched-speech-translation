@@ -156,9 +156,9 @@
 *IRI:	[- spa] y@s:spa este@s:spa cómo@s:spa es@s:spa +... 196024_198828
 %eng:	and how is this ...
 *IRI:	clary sage es@s:spa [/] es@s:spa salvia@s:spa . 198779_201438
-%eng:	"clary sage" is sage.
+%eng:	clary sage is sage.
 *IRI:	sage es@s:spa salvia@s:spa . 201589_202959
-%eng:	"sage" is sage.
+%eng:	sage is sage.
 *IRI:	eh@s:eng&spa +... 202995_204058
 *JAM:	ah@s:eng&spa sí@s:spa yo@s:spa no@s:spa sabía@s:spa . 203948_205097
 %eng:	yes, I didn't know.
@@ -243,7 +243,7 @@
 *JAM:	+< oh@s:eng&spa yeah . 301892_302948
 *IRI:	ginger . 303035_304678
 *JAM:	+< ginger jengibre@s:spa ? 304794_306036
-%eng:	"ginger", ginger?
+%eng:	ginger, ginger?
 *IRI:	[- spa] coño ! 304818_305843
 %eng:	damn!
 *IRI:	eso@s:spa mismo@s:spa . 306125_307146
