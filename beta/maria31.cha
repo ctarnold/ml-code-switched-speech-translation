@@ -229,7 +229,7 @@
 *OSE:	www .
 *MAR:	huh@s:eng&spa ? 1041108_1041422
 *OSE:	www .
-*MAR:	uhhuh@s:eng&spa  . 1051831_1052284
+*MAR:	uhhuh  . 1051831_1052284
 *OSE:	www .
 *MAR:	yeah . 1054779_1055397
 *OSE:	www .
@@ -339,9 +339,9 @@
 %eng:	he is better.
 *MAR:	[- spa] le dio el jarabe que yo traje o no ? 2102576_2104393
 %eng:	did you give him the syrup I brought or not?
-*MAR:	uhhuh@s:eng&spa . 2112618_2113214
-*MAR:	uhhuh@s:eng&spa . 2118802_2119655
-*MAR:	uhhuh@s:eng&spa . 2120302_2120888
+*MAR:	uhhuh . 2112618_2113214
+*MAR:	uhhuh . 2118802_2119655
+*MAR:	uhhuh . 2120302_2120888
 *MAR:	[- spa] sí mucho jugo sí . 2122905_2124353
 %eng:	yes a lot of juice, yes.
 *MAR:	[- spa] Ave María ! 2132451_2133694
@@ -357,7 +357,7 @@
 %eng:	yes.
 *MAR:	[- spa] y eso los refrescó . 2161591_2162793
 %eng:	and that cools them down.
-*MAR:	uhhuh@s:eng&spa . 2166179_2166816
+*MAR:	uhhuh . 2166179_2166816
 *MAR:	ah@s:eng&spa que@s:spa entonces@s:spa se@s:spa siente@s:spa mejor@s:spa ? 2169545_2171075
 %eng:	oh, then they feel better.
 *MAR:	[- spa] con la bañada sí [/] sí . 2173086_2174607
@@ -411,14 +411,14 @@
 %eng:	he woke up, he woke up easily, he woke up at least three or four times.
 *MAR:	[- spa] no se sentía bien . 2243183_2244169
 %eng:	he didn't feel well.
-*MAR:	uhhuh@s:eng&spa . 2244158_2244662
+*MAR:	uhhuh . 2244158_2244662
 *MAR:	[- spa] sí . 2245032_2245391
 %eng:	yes.
 *MAR:	[- spa] yo creo que estaba tupido . 2245822_2247014
 %eng:	I think he had a blocked nose.
 *MAR:	[- spa] entonces no podía respirar bien &=breathing_noise . 2247014_2248780
 %eng:	so he couldn't breath normally.
-*MAR:	uhhuh@s:eng&spa . 2255571_2256279
+*MAR:	uhhuh . 2255571_2256279
 *MAR:	[- spa] sí &=laugh . 2262958_2265063
 %eng:	yes.
 *MAR:	[- spa] si tiene que estar cansadito . 2271780_2273249
@@ -433,8 +433,8 @@
 %eng:	so fresh.
 *MAR:	[- spa] sí . 2283726_2284026
 %eng:	yes.
-*MAR:	uhhuh@s:eng&spa . 2290646_2291093
-*MAR:	uhhuh@s:eng&spa . 2296470_2296909
+*MAR:	uhhuh . 2290646_2291093
+*MAR:	uhhuh . 2296470_2296909
 *MAR:	[- spa] sí . 2297620_2297853
 %eng:	yes.
 *MAR:	[- spa] ajá sí . 2305259_2305897
@@ -464,12 +464,12 @@
 %eng:	he was playing OK.
 *MAR:	[- spa] pero no [/] no se sentí(a) +/. 2343326_2344412
 %eng:	but didn't feel well.
-*MAR:	uhhuh@s:eng&spa . 2351864_2352412
-*MAR:	uhhuh@s:eng&spa . 2359857_2360327
+*MAR:	uhhuh . 2351864_2352412
+*MAR:	uhhuh . 2359857_2360327
 *MAR:	[- spa] sí exacto a [/] a la temperatura de ambiente . 2361572_2363987
 %eng:	yes, exactly at room temperature.
-*MAR:	uhhuh@s:eng&spa . 2364126_2364611
-*MAR:	uhhuh@s:eng&spa . 2368235_2368613
+*MAR:	uhhuh . 2364126_2364611
+*MAR:	uhhuh . 2368235_2368613
 *MAR:	&=laughs . 2371484_2373604
 *MAR:	[- spa] en lo que a la otra le gusta caliente a él le gusta frío . 2376123_2378992
 %eng:	he loves the cold as much as she loves the heat.
@@ -698,7 +698,7 @@
 *OSE:	www .
 *MAR:	but they don't have that kind of stuff <at Bush@s:eng&spa> [//] at Disney@s:eng&spa I don't think . 4311066_4313728
 *OSE:	www .
-*MAR:	+< uhhuh@s:eng&spa . 4327797_4328106
+*MAR:	+< uhhuh . 4327797_4328106
 *OSE:	+< www .
 *MAR:	+< uhuh@s:eng&spa . 4347926_4349449
 *OSE:	www .
@@ -1013,7 +1013,7 @@
 *MAR:	[- spa] coño pero +/. 6115696_6116033
 %eng:	fuck, but.
 *OSE:	+< www .
-*MAR:	+< uhhuh@s:eng&spa . 6123944_6124055
+*MAR:	+< uhhuh . 6123944_6124055
 *MAR:	+< [- spa] un [/] un sombrerita . 6126356_6127146
 %eng:	a little hat.
 %com:	agreement error above or mistake with the word sombrerita, which usually is masculine, that is sombrerito.
@@ -1027,7 +1027,7 @@
 *OSE:	+< www .
 *MAR:	+< right . 6142044_6142253
 *OSE:	+< www .
-*MAR:	+< uhhuh@s:eng&spa . 6143692_6144063
+*MAR:	+< uhhuh . 6143692_6144063
 *OSE:	www .
 *MAR:	[- spa] sí un [/] un +... 6145888_6146689
 %eng:	yes a...
