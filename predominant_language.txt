@@ -6,6 +6,9 @@ herring5: spa
 herring11: spa
 herring12: spa
 
+maria21: spa
+maria40: spa
+
 sastre1: spa                                                                
 sastre3: spa                                                                
 sastre5: spa                                                                
@@ -28,6 +31,20 @@ herring13: eng
 herring14: eng - NOTE: the predominant language needs to be changed to spa
 herring16: eng
 herring17: eng
+
+maria1: eng
+maria2: eng
+maria4: eng
+maria7: eng
+maria10: eng
+maria16: eng
+maria18: eng
+maria19: eng
+maria20: eng
+maria24: eng
+maria27: eng
+maria30: eng
+maria31: eng
 
 sastre4: eng                                                                
 sastre6: eng                                                                
