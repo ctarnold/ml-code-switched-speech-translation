@@ -10,13 +10,12 @@ maria21: spa
 maria40: spa
 
 sastre1: spa                                                                
-sastre3: spa                                                                
+sastre2: spa                                                                
 sastre5: spa                                                                
-sastre9: spa    
 
 zeledon1: spa 
 zeledon5: spa
-zeledon8: spa
+zeledon7: spa
 zeledon14: spa
 
 Predominantly-English files
@@ -29,6 +28,7 @@ herring9: eng
 herring10: eng
 herring13: eng
 herring14: eng - NOTE: the predominant language needs to be changed to spa
+herring15: eng
 herring16: eng
 herring17: eng
 
@@ -46,19 +46,22 @@ maria27: eng
 maria30: eng
 maria31: eng
 
-sastre4: eng                                                                
-sastre6: eng                                                                
-sastre7: eng                                                                
+sastre3: eng
+sastre4: eng
+sastre6: eng
+sastre7: eng
 sastre8: eng
-sastre10: eng                                                               
-sastre11: eng                                                               
-sastre12: eng                                                               
+sastre9: eng
+sastre10: eng
+sastre11: eng
+sastre12: eng
 sastre13: eng
 
 zeledon2: eng
 zeledon3: eng
 zeledon4: eng
 zeledon6: eng
+zeledon8: eng
 zeledon9: eng
 zeledon11: eng
 zeledon13: eng
