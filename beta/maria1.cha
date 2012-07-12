@@ -2,13 +2,12 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	MAR Lourdes Adult, OSE Other_Speaker Adult
-@ID:	eng|Miami|MAR|45;|female|||Adult||
-@ID:	eng|Miami|OSE|||||Adult||
-@Situation:	Informal conversation between Lourdes and OSE, probably at OSE's place
+@Participants:	MAR María Adult, OSE Other_Speaker Adult
+@ID:	eng|Miami|MAR|45;|female|||Adult|||
+@ID:	eng|Miami|OSE|||||Adult|||
+@Situation:	Informal conversation between MAR and OSE, probably at OSE's place
 @Date:	01-JAN-2008
-@Comment:
-@Transcriber:	Mari-Carmen Parafita, Susana Sabín-Fernández.  Original translation by Sara Viñas
+@Transcriber:	Mari-Carmen Parafita, Susana Sabín-Fernández. Initial translation by Sara Viñas
 @Time Duration:	00:15:02
 @Media:	maria1, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
@@ -73,7 +72,7 @@
 *MAR:	[- spa] ya (.) más muerta que viva . 100931_102423
 %eng:	yeah, more dead than alive.
 *OSE:	www .
-*MAR:	[- spa] pero xxx  a qué hora te llamó a las ocho de la mañana ? 105421_107563
+*MAR:	[- spa] pero xxx a qué hora te llamó a las ocho de la mañana ? 105421_107563
 %eng:	but [...] what time did she call you, eight in the morning?
 *MAR:	[- spa] xxx anoche ? 107801_108811
 %eng:	[...] last night?
@@ -186,7 +185,7 @@
 *MAR:	[- spa] bueno . 230433_230845
 %eng:	good.
 *OSE:	www .
-*MAR:	[- spa] cuál el que vive aquí al lado, no? 232266_233414
+*MAR:	[- spa] cuál el que vive aquí al lado, no ? 232266_233414
 %eng:	who, the one who lives near here?
 *OSE:	www .
 *MAR:	+< [- spa] cóbrale . 237421_238083
@@ -539,7 +538,7 @@
 %eng:	and she has two fathers which can be a little, can be a little challenging.
 *OSE:	+< &=laughs www .
 *MAR:	+< that's great . 859664_860425
-*MAR:	that's great .  860455_861215
+*MAR:	that's great . 860455_861215
 *OSE:	www .
 %com:	someone pours a drink
 *OSE:	www .

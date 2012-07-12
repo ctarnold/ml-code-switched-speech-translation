@@ -3,12 +3,12 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	LEA Leah Adult, VAN Vanessa Adult, OSE non_participant Adult
-@ID:	spa, eng|Miami|LEA||female|||Adult||
-@ID:	spa, eng|Miami|VAN|32;|female|||Adult||
-@ID:	spa, eng|Miami|OSE|||||Adult||
+@ID:	spa, eng|Miami|LEA||female|||Adult|||
+@ID:	spa, eng|Miami|VAN|32;|female|||Adult|||
+@ID:	spa, eng|Miami|OSE|||||Adult|||
 @Situation:	Conversation between coworkers
 @Date:	31-MAR-2008
-@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University. Original translation by Mary Silva
+@Transcriber:	Amelia J. Dietrich, The Pennsylvania State University. Initial translation by Mary Silva
 @Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:29:54
 @Media:	herring13, audio
@@ -578,8 +578,8 @@
 *OSE:	www . 582757_583942
 *OSE:	www . 583814_584719
 *VAN:	<he's a> [//] he's [/] he [//] él@s:spa encanta@s:spa &m pintar@s:spa . 586274_588996
-%com:	[m] here is a syllabic 'm'
 %eng:	he loves to paint .
+%com:	[m] here is a syllabic 'm'
 *VAN:	he paints really really nice . 588700_589988
 *OSE:	www . 589629_590604
 *VAN:	yeah . 589971_590772
@@ -604,7 +604,7 @@
 *VAN:	yeah . 621246_621577
 *VAN:	eleven minutes . 621556_623193
 *OSE:	www . 623170_625887
-*VAN:	but yeah this is hers? 625629_627364
+*VAN:	but yeah this is hers ? 625629_627364
 *OSE:	www . 625629_627364
 *VAN:	yeah . 627248_627695
 *OSE:	+< www . 627400_632479
@@ -679,7 +679,7 @@
 *OSE:	www . 715821_716070
 *VAN:	+< we got the payment on the credit card . 715919_717660
 *VAN:	[- spa] pero &aiʃ +/. 717777_718920
-%eng:	but  +/.
+%eng:	but +/.
 *OSE:	www . 718535_719312
 *VAN:	yes yeah it's [/] it's mailed out . 719556_721106
 *VAN:	and then Citizens sent me that fax thing that they sent . 720816_723678
@@ -691,7 +691,7 @@
 *VAN:	[- spa] pero le tengo que mandar la foto . 729558_731584
 %eng:	but I have to send the picture to them .
 *LEA:	+< xxx . 732475_734089
-%com:	It looks as if it is LEA  talking to somebody else at the back.
+%com:	It looks as if it is LEA talking to somebody else at the back.
 *VAN:	and that's the message that I left her . 732475_734089
 *OSE:	www . 733793_735279
 *VAN:	exactly porque@s:spa eso@s:spa es@s:spa lo@s:spa del@s:spa mensaje@s:spa so she's aware of it . 735279_738733
@@ -867,7 +867,7 @@
 *LEA:	I doubt very much . 985889_987004
 *VAN:	[- spa] sí yo lo dudo . 986904_988094
 %eng:	yes I doubt it .
-*VAN:	y@s:spa era@s:spa na(da)@s:spa más@s:spa que@s:spa twenty eight thousand building? 987972_990154
+*VAN:	y@s:spa era@s:spa na(da)@s:spa más@s:spa que@s:spa twenty eight thousand building ? 987972_990154
 %eng:	and it was only a twenty eight thousand building ?
 @Comment:	Please check main tier and translation.
 *LEA:	yeah . 990283_991473

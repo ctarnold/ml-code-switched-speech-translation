@@ -2,12 +2,12 @@
 @Begin
 @Languages:	spa, eng
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|Miami|MAR|45;|female|||Adult||
-@ID:	spa, eng|Miami|OSE|||||Adult||
+@ID:	spa, eng|Miami|MAR|45;|female|||Adult|||
+@ID:	spa, eng|Miami|OSE|||||Adult|||
 @Situation:	MAR is in her office talking to a colleague
 @Date:	25-MAR-2008
 @Comment:	MAR is wearing a microphone to record conversation
-@Transcriber:	Fraibet Aveledo.  Original translation by Vanesa Bonavota
+@Transcriber:	Fraibet Aveledo. Initial translation by Vanesa Bonavota
 @Time Duration:	00:05:29
 @Media:	maria21, audio
 @Comment:	Language markers: @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
@@ -59,7 +59,7 @@
 %eng:	that I had already found that same company on the website.
 *MAR:	mm@s:eng del el artículo ese que tú habías encontrado . 70064_74400
 %eng:	from that article you found.
-*MAR:	eh@s:eng&spa y el hombre me [///] me <el tipo>  [///] el muchacho agrable me dice +". 74692_78524
+*MAR:	eh@s:eng&spa y el hombre me [///] me <el tipo> [///] el muchacho agrable me dice +". 74692_78524
 %eng:	and the man, the guy, nice guy told me
 *MAR:	+" bueno por lo general ellos son más de cien mil . 78549_80911
 %eng:	well, usually, they are more than a hundred thousand
@@ -79,13 +79,13 @@
 %eng:	why don't you come?
 *MAR:	+" no te cuesta nada . 89512_90818
 %eng:	it'll cost you nothing.
-*MAR:	+" podemos [///] a ver si hay algún banco que esté interesado en comprarlo  . 90807_93765
+*MAR:	+" podemos [///] a ver si hay algún banco que esté interesado en comprarlo . 90807_93765
 %eng:	we can see if there's any bank interested in buying it.
 *MAR:	+" no cuesta nada . 94043_94850
 %eng:	it costs nothing.
 *MAR:	entonces le digo +"/. 95100_95536
 %eng:	so I said to him
-*MAR:	bueno no me habían dicho que si es turn_light@s:eng  [?] ya tiene más de setenta y cinco no tiene valor . 95530_99793
+*MAR:	bueno no me habían dicho que si es turn_light@s:eng [?] ya tiene más de setenta y cinco no tiene valor . 95530_99793
 %eng:	well, they haven't told me that if it was ... it's already more than seventy five and has no value.
 *MAR:	+" no bueno no es necesariamente (.) pasa por las +//. 99847_102697
 %eng:	no, well, it's not necessarily, you go by the
@@ -99,9 +99,9 @@
 %eng:	he told me:
 *MAR:	+" no te cuesta nada venir y aveiguar y eso . 109889_112345
 %eng:	it costs nothing for you to come here, and find out, and that.
-*MAR:	entonces <me dice que si>  [//] que nos hizo una cita el el jueves a las once de la mañana . 112640_116646
+*MAR:	entonces <me dice que si> [//] que nos hizo una cita el el jueves a las once de la mañana . 112640_116646
 %eng:	then he told me he would make us an appointment on Thursday at eleven in the morning.
-*MAR:	ustedes tienen algo? 116568_117607
+*MAR:	ustedes tienen algo ? 116568_117607
 %eng:	do you have anything on?
 *MAR:	ok@s:eng&spa . 124321_124966
 %eng:	OK
@@ -110,12 +110,12 @@
 *MAR:	sí . 129848_130162
 %eng:	yes
 *MAR:	ellos se llaman es un xxx brokers@s:eng . 129965_132571
-%eng:	they are called,  it's a [...] brokers
+%eng:	they are called, it's a [...] brokers
 *MAR:	yo no lo había llamado porque Pedro@s:eng&spa había dicho +"/. 132720_134397
 %eng:	I haven't called him because Pedro told me:
 *MAR:	+" no que si no estaban en la lista que si no sé qué que si no sé cuánto . 134392_136928
 %eng:	no, that if they weren't on the list for whatever reason
-*MAR:	pero como todas las otras demás no me han dado ningún (.) calor déjame  [/] déjame llamar al número que ellos tienen aquí . 137204_143137
+*MAR:	pero como todas las otras demás no me han dado ningún (.) calor déjame [/] déjame llamar al número que ellos tienen aquí . 137204_143137
 %eng:	but as all the rest haven't given me any interest, let me call the number that they have here.
 *MAR:	enton(ces) . 143382_144270
 %eng:	so
@@ -123,7 +123,7 @@
 %eng:	so, exactly.
 *MAR:	entonces me dice +"/. 145265_145938
 %eng:	then he said to me
-*MAR:	+" bueno y  [/] y que traiga los papeles que tiene . 145926_147871
+*MAR:	+" bueno y [/] y que traiga los papeles que tiene . 145926_147871
 %eng:	ok, and tell him to bring all the papers he has.
 *MAR:	y le digo +"/. 147865_148080
 %eng:	and I said to him
@@ -144,7 +144,7 @@
 %eng:	yes
 *MAR:	me dice +"/. 167211_167640
 %eng:	he told me
-*MAR:	+" no te cuesta ver si alguien lo viene a comprar o no  . 167640_170015
+*MAR:	+" no te cuesta ver si alguien lo viene a comprar o no . 167640_170015
 %eng:	it costs you nothing to see if anyone comes to buy it or not.
 *MAR:	bueno yo estaba leyendo la póliza . 174893_176763
 %eng:	well, I was reading the policy.
@@ -163,7 +163,7 @@
 %com:	long pause.
 *MAR:	exacto exacto exacto . 206672_208715
 %eng:	exactly, exactly, exactly.
-*MAR:	eh@s:eng&spa bueno <él lo> [/] él  [/] él es . 211232_214709
+*MAR:	eh@s:eng&spa bueno <él lo> [/] él [/] él es . 211232_214709
 %eng:	OK, he is.
 *MAR:	bueno el effective@s:eng date@s:eng es julio . 217504_219408
 %eng:	well the effective date is July.
@@ -172,7 +172,7 @@
 %com:	MAR clears her throat.
 *MAR:	sí sí sí . 231857_232350
 %eng:	yes, yes, yes.
-*MAR:	pero el  [/] el  [/] el  [//] los pagos si no lo pagas inmediatamente no te lo quitan . 232345_236594
+*MAR:	pero el [/] el [/] el [//] los pagos si no lo pagas inmediatamente no te lo quitan . 232345_236594
 %eng:	but the, the, the payments, if you don't make them immediately, they don't take it from you.
 *MAR:	eh@s:eng&spa inmediatamente . 237403_239574
 %eng:	immediately
@@ -194,11 +194,11 @@
 %eng:	maybe someone might want to buy it.
 *MAR:	le hacen a tu papá un life@s:eng expectancy@s:eng report@s:eng . 253089_255748
 %eng:	they do a life expectancy report for your dad.
-*MAR:	a ver si basado en la gente de la edad de él cuánta [///] xxx si se mueren etc etc etc  . 256303_261168
+*MAR:	a ver si basado en la gente de la edad de él cuánta [///] xxx si se mueren etc etc etc . 256303_261168
 %eng:	to see if, based on people from within his age-group, how much [...] if they die, etc, etc.
 *MAR:	le digo +"/. 261259_261920
 %eng:	I said to him:
-*MAR:	+" bueno pero eso es lo mismo del [/] del viático  . 261642_264138
+*MAR:	+" bueno pero eso es lo mismo del [/] del viático . 261642_264138
 %eng:	well, but that's the same as the Last Rites
 *MAR:	me dice +"/. 264061_264427
 %eng:	he told me
@@ -251,7 +251,7 @@
 %eng:	exactly.
 *MAR:	xxx yo sé que ellos &po venden pólizas de seguro también . 323333_325551
 %eng:	[...] I know that they sell insurance policies too.
-*MAR:	pero eh@s:eng&spa ahora están [//]  se están metiendo en en xxx también . 325609_328871
+*MAR:	pero eh@s:eng&spa ahora están [//] se están metiendo en en xxx también . 325609_328871
 %eng:	but now they are also getting involved in [...], too.
 *MAR:	no le puedo decir que no . 332142_333193
 %eng:	I can't tell him no.

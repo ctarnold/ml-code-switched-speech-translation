@@ -3,15 +3,15 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	PAO Paola Teenager, AUD Audrey Adult
-@ID:	spa, eng|Miami|PAO|13;|female|||Teenager||
-@ID:	spa, eng|Miami|AUD|63;|female|||Adult||
+@ID:	spa, eng|Miami|PAO|13;|female|||Teenager|||
+@ID:	spa, eng|Miami|AUD|63;|female|||Adult|||
 @Situation:	Informal conversation between Paola and her grandmother at a friend's house
 @Date:	21-MAR-2008
-@Transcriber:	Diana Carter, Bangor University.  Original translation by Vanesa Bonavota García
+@Transcriber:	Diana Carter, Bangor University. Initial translation by Vanesa Bonavota García
 @Comment:	Researcher: Lergia Sastre
 @Time Duration:	00:33:20
 @Media:	sastre8, audio
-@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which  untagged words are Spanish
+@Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 *AUD:	well usually before you go to the bed (.) you have to take him (.) &f to do pee pee . 104_4778
 *PAO:	yeah we did . 4685_5840
 *AUD:	but he still +... 5879_7046
@@ -124,7 +124,7 @@
 *PAO:	but maybe that's not the reason . 147211_148436
 *PAO:	maybe they just didn't like her . 148433_150192
 *PAO:	or maybe they had better players . 150192_151567
-*AUD:	and when do you have to practice? 151519_153428
+*AUD:	and when do you have to practice ? 151519_153428
 *PAO:	we have to practice <every day> [//] uh@s:eng&spa every <week> [///] um school day . 153417_157367
 *PAO:	Monday Tuesday (.) Thursday and Friday . 157455_160335
 *AUD:	+< &ha . 160166_160642
@@ -171,7 +171,7 @@
 *PAO:	<where they> [//] where the bus is for [/] for the kids that go on the bus . 213707_216383
 *PAO:	they drop the kids off xxx . 217147_218970
 *AUD:	where I leave you early &ɛ every morning ? 218366_220177
-*PAO:	uh? 220144_221003
+*PAO:	uh ? 220144_221003
 *AUD:	the same place I leave you ? 220562_222123
 *PAO:	no the &əð [//] and on the other side . 221418_223084
 *AUD:	[- spa] dónde los niños juegan por la tablita esa ? 224540_226764
@@ -487,7 +487,7 @@
 *AUD:	[- spa] las tostadas . 633473_634925
 %eng:	the toasts.
 *PAO:	+< [- spa] los &to [//] las tostadas . 633758_635668
-%eng:	the  the toasts.
+%eng:	the the toasts.
 *AUD:	[- spa] y jugo de naranja . 635598_636974
 %eng:	and orange juice.
 *PAO:	[- spa] y jugo de naranja . 636167_637601
@@ -670,8 +670,8 @@
 *AUD:	+< it &wʊ +/. 861382_862050
 *AUD:	I remember that one day we went . 862030_863679
 *AUD:	y@s:spa compramos@s:spa un@s:spa hot_dog tú@s:spa un@s:spa hot_dog yo papitas@s:spa tú@s:spa agua@s:spa y@s:spa yo@s:spa &hɘ unas@s:spa &m (.) boniaticos@s:spa esos@s:spa (.) sweet potato (.) y@s:spa un@s:spa té@s:spa (.) and it was like thirteen fourteen dollars . 863675_874874
-%com:	[m] is syllabic.
 %eng:	and we bought a hotdog for you, a hotdog for me, fries, you had water and I, some of those sweet potatoes, sweet potato, and a tea, and it was like thirteen, fourteen dollars.
+%com:	[m] is syllabic.
 *PAO:	thirteen fourteen ? 874841_876135
 *AUD:	yeah that's very expensive for a hot_dog this small . 875746_879400
 %com:	a clap or smack sound
@@ -685,7 +685,7 @@
 %eng:	all, yes.
 *PAO:	+< it's not worth it . 892409_893402
 *AUD:	[- spa] xxx &p por dos o tres de pesos vamos a cubanito . 893378_897075
-%eng:	...  for two or three pesos we go to Cubanito.
+%eng:	... for two or three pesos we go to Cubanito.
 *AUD:	[- spa] pon un arroz frijoles bistec (.) o si no arroz frijoles picadillos . 897066_900940
 %eng:	like rice, beans, steak or rice and chopped beans.
 *AUD:	uh qué@s:spa hambre@s:spa tengo@s:spa . 900917_904138
@@ -1284,7 +1284,7 @@
 *AUD:	Lisboa@s:spa está@s:spa en@s:spa Portugal@s:eng&spa . 1688443_1689923
 %eng:	Lisbon is in Portugal.
 *AUD:	[- spa] <y yo estoy &m> [///] yo tengo muchas ganas de conocer a Lisboa . 1689926_1693293
-%eng:	and I'm,  I really want to get to know Lisbon.
+%eng:	and I'm, I really want to get to know Lisbon.
 *AUD:	[- spa] esa es uno de las cosas que más me +/. 1694343_1696433
 %eng:	that's one of the things that most [...] me.
 *PAO:	+< [- spa] y dónde es eso otra vez ? 1695434_1696897

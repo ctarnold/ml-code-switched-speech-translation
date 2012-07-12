@@ -2,11 +2,11 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|Miami|MAR|45;|female|||Adult||
-@ID:	spa, eng|Miami|OSE|||||Adult||
+@ID:	spa, eng|Miami|MAR|45;|female|||Adult|||
+@ID:	spa, eng|Miami|OSE|||||Adult|||
 @Situation:	MAR is in her office talking to colleagues.
 @Date:	10-APR-2008
-@Transcriber:	Lara Gil Vallejo.  Original translation by Rubén Chapela
+@Transcriber:	Lara Gil Vallejo. Initial translation by Rubén Chapela
 @Time Duration:	00:41:40
 @Media:	maria24, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
@@ -405,7 +405,7 @@
 *MAR:	no isn't xxx . 918798_919343
 *MAR:	xxx they alwasy do that . 919413_920580
 *MAR:	they always do that . 920684_921259
-*MAR:	you response to him  . 921625_922571
+*MAR:	you response to him . 921625_922571
 *MAR:	and say +"/. 922466_923070
 *MAR:	+" Smith@s:eng&spa I am so sorry . 923645_925369
 *MAR:	+" we didn't solid the colour . 925357_926553
@@ -619,7 +619,7 @@
 *OSE:	www .
 *MAR:	how did we &fa [/] how did we find out these projects ? 1380380_1382395
 *OSE:	www .
-*MAR:	and  then there was nothing in xxx ? 1384043_1385553
+*MAR:	and then there was nothing in xxx ? 1384043_1385553
 *OSE:	www .
 *MAR:	right right you would have seen . 1387822_1388525
 *MAR:	[- spa] sí porque yo +/. 1388902_1389622
@@ -717,7 +717,7 @@
 *MAR:	a blank piece of paper gives them freedom . 1510854_1514232
 *OSE:	www .
 *MAR:	my kids loved to paint . 1517118_1518395
-*MAR:	and Paula@s:spa  loves to &p +//. 1518360_1519515
+*MAR:	and Paula@s:spa loves to &p +//. 1518360_1519515
 *MAR:	you know . 1519498_1519927
 *MAR:	uh@s:spa by the little +//. 1519766_1520851
 *MAR:	you know . 1521263_1521588
@@ -896,7 +896,7 @@
 *MAR:	xxx has not done a very good job (.) out there . 1911179_1914215
 *MAR:	beca(use) [/] because <we did> [/] we did a +/. 1928438_1930417
 *MAR:	right . 1931050_1931578
-*MAR:	we [/] we did a paint makeup  at A_U_B@s:eng&spa . 1931682_1934695
+*MAR:	we [/] we did a paint makeup at A_U_B@s:eng&spa . 1931682_1934695
 *MAR:	and figured we didn't like that yellow and that blue . 1934672_1936919
 *OSE:	www .
 *MAR:	which I never liked to begin with but . 1937487_1939275
@@ -965,7 +965,7 @@
 *MAR:	you know . 2376903_2377495
 *OSE:	www .
 *MAR:	right . 2378145_2378551
-*MAR:	pero@s:spa en@s:spa que@s:spa [/] que@s:spa [//]  en@s:spa caso@s:spa que@s:spa alguien@s:spa +... 2378528_2380397
+*MAR:	pero@s:spa en@s:spa que@s:spa [/] que@s:spa [//] en@s:spa caso@s:spa que@s:spa alguien@s:spa +... 2378528_2380397
 %eng:	but just in case someone...
 *MAR:	porque@s:spa Patrick@s:eng&spa me@s:spa dijo@s:spa que@s:spa él@s:spa no@s:spa sabía@s:spa que@s:spa tipo@s:spa ordering . 2380566_2383579
 %eng:	because Patrick told me that he didn't know what type ordering.

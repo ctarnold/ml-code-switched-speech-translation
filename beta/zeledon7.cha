@@ -3,12 +3,12 @@
 @Begin
 @Languages:	spa, eng
 @Participants:	JAS Jasmine Adult, NAT Nathaniel Adult, OSE non_participant Adult
-@ID:	spa, eng|Miami|JAS|19;|female|||Adult||
-@ID:	spa, eng|Miami|NAT|21;|male|||Adult||
-@ID:	spa, eng|Miami|OSE|||||Adult||
+@ID:	spa, eng|Miami|JAS|19;|female|||Adult|||
+@ID:	spa, eng|Miami|NAT|21;|male|||Adult|||
+@ID:	spa, eng|Miami|OSE|||||Adult|||
 @Situation:	Informal conversation between a couple at Florida International University
 @Date:	12-MAR-2008
-@Transcriber:	M. Carmen Parafita Couto, Bangor University.  Original translation by Vanesa Bonavota García
+@Transcriber:	M. Carmen Parafita Couto, Bangor University. Initial translation by Vanesa Bonavota García
 @Comment:	Researcher: Marilyn Zeledón
 @Time Duration:	00:30:21
 @Media:	zeledon7, audio
@@ -40,7 +40,7 @@
 *NAT:	en no xxx a trabajar en la clínica . 31386_33684
 %eng:	in no, to work at the clinic.
 *NAT:	[- eng] mmhm . 33696_34439
-*JAS:	[- eng]  &=laughing . 34513_36004
+*JAS:	[- eng] &=laughing . 34513_36004
 *JAS:	tu papá él ni loco . 36022_37345
 %eng:	your dad, no way.
 *NAT:	por qué ? 37351_38228
@@ -205,7 +205,7 @@
 *JAS:	xxx un bicho xxx . 238861_240951
 %eng:	[...] a bug [...].
 *NAT:	+< xxx . 239157_242727
-*JAS:	[- eng]  &=yawning anyways . 242850_246705
+*JAS:	[- eng] &=yawning anyways . 242850_246705
 *JAS:	y hacemos una cada uno . 246753_249528
 %eng:	and each of us do one.
 *JAS:	qué ? 249582_251416
@@ -438,12 +438,12 @@
 %eng:	oh, OK, it's fine, thanks.
 *JAS:	no xxx eso mentiroso . 472699_475729
 %eng:	not [...] that liar.
-*JAS:	[- eng]  &=laughing . 475715_476934
+*JAS:	[- eng] &=laughing . 475715_476934
 *JAS:	bueno ya tuvimos a otra persona más en nuestras conversaciones del día de hoy . 476981_479953
 %eng:	well, we've already had one more person in our conversations today.
 *NAT:	sí que ahí tienen tres . 479968_481408
 %eng:	yes, you have three right there.
-*JAS:	[- eng]  &=laughing . 481404_483256
+*JAS:	[- eng] &=laughing . 481404_483256
 *NAT:	entonces . 483250_484028
 %eng:	so.
 *JAS:	+< ay I'm gonna@s:eng go@s:eng nuts@s:eng . 483628_485021
@@ -484,7 +484,7 @@
 %eng:	oh, that's true.
 *JAS:	yummy@s:eng sushi@s:eng otra vez . 520571_523828
 %eng:	yummy, sushi again.
-*JAS:	[- eng]  &=laughing . 523845_524547
+*JAS:	[- eng] &=laughing . 523845_524547
 *NAT:	xxx . 524508_526447
 *JAS:	qué ? 526476_527231
 %eng:	what?

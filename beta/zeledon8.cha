@@ -3,11 +3,12 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Marcela Adult, FLA Flavia Adult, OSE non_participant Adult
-@ID:	spa, eng|Miami|MAR|45;|female|||Adult||
-@ID:	spa, eng|Miami|FLA|42;|female|||Adult||
+@ID:	spa, eng|Miami|MAR|45;|female|||Adult|||
+@ID:	spa, eng|Miami|FLA|42;|female|||Adult|||
+@ID:	spa, eng|Miami|OSE||female|||Adult|||
 @Situation:	Informal conversation between two neighbours at Marcela's house
 @Date:	22-MAR-2008
-@Transcriber:	Esther Nuñez Villanueva, Bangor University.  Original translation by Vanesa Bonavota García
+@Transcriber:	Esther Nuñez Villanueva, Bangor University. Initial translation by Vanesa Bonavota García
 @Comment:	Researcher: Marilyn Zeledón
 @Time Duration:	00:37:53
 @Media:	zeledon8, audio
@@ -330,7 +331,7 @@
 *FLA:	uh@s:eng&spa . 332801_333811
 *MAR:	but she [/] she is very [/] very nice . 333990_335969
 *FLA:	+< nice ? 335923_336689
-*FLA:	where does she live Miami@s:eng&spa or here? 336662_338491
+*FLA:	where does she live Miami@s:eng&spa or here ? 336662_338491
 *MAR:	+< very funny . 337334_338240
 *MAR:	she lives [//] she used to live almost next door to the school where we used to work at in Sunset@s:eng&spa Lakes@s:eng&spa . 338228_344126
 *FLA:	aw because you are working here now . 344097_345496
@@ -1044,7 +1045,7 @@
 *FLA:	ok . 1046024_1046517
 *MAR:	[- spa] justo enfrente del canal de televisión . 1046494_1048967
 %eng:	just opposite the television station.
-*FLA:	did it bother your neck or <your ma@s:eng&spa [=! self-interruption]> [///] your back? 1048944_1051411
+*FLA:	did it bother your neck or <your ma@s:eng&spa [=! self-interruption]> [///] your back ? 1048944_1051411
 *MAR:	+< if I don't exercise +... 1050906_1052467
 *MAR:	+, I'm in excruciating pain . 1052316_1053884
 *FLA:	+< yeah that's why . 1052316_1053884
@@ -1350,7 +1351,7 @@
 *FLA:	because last time we were not . 1314492_1316454
 *FLA:	[- spa] ay los +//. 1316512_1318131
 %eng:	oh the
-*MAR:	+< remember Sean@s:eng&spa when we went to (.) er@s:eng&spa Fiona's@s:eng&spa+eng birthday (..) last time? 1317347_1325962
+*MAR:	+< remember Sean@s:eng&spa when we went to (.) er@s:eng&spa Fiona's@s:eng&spa+eng birthday (..) last time ? 1317347_1325962
 %com:	presumably John says not with a head movement.
 *FLA:	he doesn't . 1325940_1327391
 *MAR:	no she didn't . 1327354_1328620

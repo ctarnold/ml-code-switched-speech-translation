@@ -1,14 +1,12 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	MAR Maria Adult,  OSE non_participant Adult
-@ID:	spa, eng|Miami|MAR|45;|female|||Adult||
-@ID:	spa, eng|Miami|OSE||female|||Adult||
-@Situation:	MAR is in her office talking to colleagues. There are  times when Maria is working and not taking part in the conversation, so there are long pauses where you can hear background voices and other noices.
+@Participants:	MAR Maria Adult, OSE non_participant Adult
+@ID:	spa, eng|Miami|MAR|45;|female|||Adult|||
+@ID:	spa, eng|Miami|OSE||female|||Adult|||
+@Situation:	MAR is in her office talking to colleagues. There are times when Maria is working and not taking part in the conversation, so there are long pauses where you can hear background voices and other noices.
 @Date:	07-APR-2008
-@Transcriber:	Esther Núñez Villanueva.  Original translation by Sara Viñas
-@Comment:
-@Time Duration:
+@Transcriber:	Esther Núñez Villanueva. Initial translation by Sara Viñas
 @Media:	maria31, audio
 @Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 @Warning:	Soundfile is mono
@@ -102,7 +100,7 @@
 *OSE:	www .
 %com:	Maria is unwrapping and eating some sweets.
 *MAR:	I still don't understand <that> [///] the advantage of that over cable [=! speaking with a candy in her mouth] . 205767_209157
-*MAR:	but (.) I gave up  . 209284_210735
+*MAR:	but (.) I gave up . 209284_210735
 %com:	pause. Maria is eating some sweets.
 *OSE:	www .
 *MAR:	is it ? 221591_222502
@@ -139,7 +137,7 @@
 *MAR:	<he's not like> [/] he's not like Eddie [?] . 311966_314036
 %com:	pause, background conversation but Maria doesn't take part until later.
 *OSE:	www .
-*MAR:	well +...  338244_338758
+*MAR:	well +... 338244_338758
 *MAR:	+, that's because she didn't tell anybody . 339538_340741
 *MAR:	and she didn't gain practically any weight . 341174_343020
 *MAR:	and she wore clothes who hide the fact that she was pregnant . 343014_345577
@@ -229,7 +227,7 @@
 *OSE:	www .
 *MAR:	huh ? 1041108_1041422
 *OSE:	www .
-*MAR:	uhhuh  . 1051831_1052284
+*MAR:	uhhuh . 1051831_1052284
 *OSE:	www .
 *MAR:	yeah . 1054779_1055397
 *OSE:	www .
@@ -329,7 +327,7 @@
 %eng:	hi, Rosaura?
 *MAR:	[- spa] aló Rosaura ? 2092124_2092997
 %eng:	hi, Rosaura?
-*MAR:	[- spa] hola cómo estás? 2094004_2095021
+*MAR:	[- spa] hola cómo estás ? 2094004_2095021
 %eng:	hi, how are you?
 *MAR:	[- spa] bien . 2096058_2096325
 %eng:	good.
@@ -907,7 +905,7 @@
 *MAR:	+< and she sends my dad to get sunscreen +"/. 5868537_5872641
 *MAR:	+" Ramón@s:spa se@s:spa nos@s:spa olvidó@s:spa el@s:spa sunscreen . 5872309_5873888
 %eng:	Ramón, we forgot the sunscreen.
-*MAR:	+"[- spa] entra que tú y tu [//] María se queman mucho . 5873882_5876332
+*MAR:	+" [- spa] entra que tú y tu [//] María se queman mucho . 5873882_5876332
 %eng:	go in there, or you and María will get very burned.
 *MAR:	mi@s:spa papá@s:spa xxx like blondish-coloured hair big blue eyes . 5877013_5882449
 %eng:	my dad [...] like blondish-coloured hair, big blue eyes.
@@ -1099,7 +1097,7 @@
 *OSE:	www .
 *MAR:	am I reading the graphic ? 6291641_6292279
 *OSE:	+< www .
-*MAR:	it's required tab per xxx prior to installing our newly installed cleat  [=! skim reading from a piece of paper] . 6293684_6298421
+*MAR:	it's required tab per xxx prior to installing our newly installed cleat [=! skim reading from a piece of paper] . 6293684_6298421
 *OSE:	+< www .
 *MAR:	cleat are noise in a building I don't wish to talk about [?] [=! skim reading from a piece of paper and yawning at the same time] . 6299637_6301913
 *OSE:	+< www .

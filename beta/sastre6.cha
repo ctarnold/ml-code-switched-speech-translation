@@ -2,13 +2,13 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	AAR Aaron Adult, ALY  Alyssa Adult, OSE Investigator Adult
-@ID:	spa, eng|Miami|AAR|43;|male|||Adult||
-@ID:	spa, eng|Miami|ALY|42;|female|||Adult||
-@ID:	spa, eng|Miami|OSE|?;|female|||Adult||
+@Participants:	AAR Aaron Adult, ALY Alyssa Adult, OSE Investigator Adult
+@ID:	spa, eng|Miami|AAR|43;|male|||Adult|||
+@ID:	spa, eng|Miami|ALY|42;|female|||Adult|||
+@ID:	spa, eng|Miami|OSE||female|||Adult|||
 @Situation:	Informal conversation between a couple in their living room
 @Date:	19-MAR-2008
-@Transcriber:	Diana Carter, Bangor University.   Original translation by by Magdalena Gazda
+@Transcriber:	Diana Carter, Bangor University.  Initial translation by by Magdalena Gazda
 @Comment:	Researcher: Lergia Sastre
 @Time Duration:	00:30:20
 @Media:	sastre6, audio

@@ -2,12 +2,12 @@
 @UTF8
 @Begin
 @Languages:	spa, eng
-@Participants:	CAR Carolina Adult, AME  Amelia Adult
-@ID:	spa, eng|Miami|CAR|21;|female|||Adult||
-@ID:	spa, eng|Miami|AME|26;|female|||Adult||
+@Participants:	CAR Carolina Adult, AME Amelia Adult
+@ID:	spa, eng|Miami|CAR|21;|female|||Adult|||
+@ID:	spa, eng|Miami|AME|26;|female|||Adult|||
 @Situation:	Informal conversation between two classmates at Florida International University
 @Date:	04-MAR-2008
-@Transcriber:	Jon Russell Herring, Bangor University.   Original translation by Jennifer Plaistowe
+@Transcriber:	Jon Russell Herring, Bangor University.  Initial translation by Jennifer Plaistowe
 @Time Duration:	00:29:39
 @Media:	zeledon1, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English
@@ -1214,7 +1214,7 @@
 %eng:	in Brooks Brothers
 *CAR:	ok@s:eng&spa . 1256651_1257256
 %eng:	ok
-*AME:	que no lo hay el [///] no [///] &seaz [///] nunca [//] casi nunca tenía  (.) yo (.) tú sabes dificultades con clientes porque son me tratan también gente un nivel . 1257256_1263822
+*AME:	que no lo hay el [///] no [///] &seaz [///] nunca [//] casi nunca tenía (.) yo (.) tú sabes dificultades con clientes porque son me tratan también gente un nivel . 1257256_1263822
 %eng:	there was that I mean I almost never had I you know the difficulties with clients because they treated me as a person on a different level
 *AME:	o sea no es cualquiera que vaya a comprar +//. 1263789_1265475
 %eng:	or whatever it's not just anyone who shops there
@@ -1243,7 +1243,7 @@
 *AME:	y estaba con su esposa y yo le digo +"/. 1292457_1293546
 %eng:	and he was with his wife and I said to him
 *AME:	+" bueno quiere que le [///] yo le [///] si es lo que ya lleva varios si yo se lo puedo tener . 1293521_1296362
-%eng:	well would you like me to  it's that you're carrying so many can I carry a few
+%eng:	well would you like me to it's that you're carrying so many can I carry a few
 *AME:	y ahí no hacemo(s) comisión así <no hay> [//] no es que (.) sabe que era venta mía y yo me iba a pelear . 1296489_1300437
 %eng:	and here we don't do commision so I know it's my sale and someone was going to fight me
 *AME:	no yo le digo para qué si el hombre pudiera caminar por la tienda más fácil . 1300445_1303908
@@ -1329,7 +1329,7 @@
 *CAR:	sí no horrible imagínate . 1371407_1373102
 %eng:	I can imagine it's awful
 *AME:	<y yo> [///] <y de> [///] créeme que yo después de que trabajé mi mamá también que me dio a trabajar allí to(do) +... 1373140_1377601
-%eng:	and I believe me that after  I started working my mom because I told her all about working there
+%eng:	and I believe me that after I started working my mom because I told her all about working there
 *AME:	<cada (vez) que salimos> [/] <cada (vez) que> [///] oye el tremendo tip@s:eng el tremendo o sea porque uno dice dios mío esta gente . 1377726_1382834
 %eng:	every time that we went out listen the huge tips I mean because one says oh my God these people
 *CAR:	+< uno aprende de verdad que sí de verdad que sí . 1381246_1384652

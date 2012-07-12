@@ -3,11 +3,12 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	CHA Chantal Teenager, GIL Gillian Child, OSE non_participant Adult
-@ID:	spa, eng|Miami|CHA|12;|female|||Child||
-@ID:	spa, eng|Miami|GIL|9;|female|||Child||
+@ID:	spa, eng|Miami|CHA|12;|female|||Child|||
+@ID:	spa, eng|Miami|GIL|9;|female|||Child|||
+@ID:	spa, eng|Miami|OSE||female|||Adult|||
 @Situation:	Informal conversation between two cousins
 @Date:	22-MAR-2008
-@Transcriber:	Diana Carter, Bangor University.  Original translation by Kevin Donnelly
+@Transcriber:	Diana Carter, Bangor University. Initial translation by Kevin Donnelly
 @Comment:	Researcher: Marilyn Zeledón
 @Time Duration:	00:30:51
 @Media:	zeledon9, audio
@@ -329,7 +330,7 @@
 *GIL:	it had like four floors . 549712_551848
 *CHA:	I know all chocolate . 551821_553644
 *CHA:	[- spa] mucho mucho chocolate . 553621_556401
-%eng:	an awful  lot of chocolate.
+%eng:	an awful lot of chocolate.
 *GIL:	there's this one floor that you had (.) a total view of Times_Square@s:eng&spa . 556387_563414
 *GIL:	serious . 563427_564042
 *CHA:	I know it was fun . 564031_566103

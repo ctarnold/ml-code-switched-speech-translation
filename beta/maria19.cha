@@ -1,11 +1,11 @@
 @UTF8
 @Begin
 @Languages:	eng, spa
-@Participants:	MAR Maria Adult,  OSE non_participant Adult
-@ID:	spa, eng|Miami|MAR|45;|female|||Adult||
-@ID:	spa, eng|Miami|OSE||female|||Adult||
+@Participants:	MAR Maria Adult, OSE non_participant Adult
+@ID:	spa, eng|Miami|MAR|45;|female|||Adult|||
+@ID:	spa, eng|Miami|OSE||female|||Adult|||
 @Date:	08-MAR-2008
-@Transcriber:	Esther Núñez Villanueva.  Original translation by Vanesa Bonavota
+@Transcriber:	Esther Núñez Villanueva. Initial translation by Vanesa Bonavota
 @Time Duration:	00:53:58
 @Media:	maria19, audio
 @Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
@@ -46,7 +46,7 @@
 %com:	background conversations in which Maria doesn't take part. She is still busy with boxes, etc.
 *MAR:	ok@s:eng&spa [=! sighs] . 213185_214376
 *MAR:	ay@s:eng&spa ugh@s:eng&spa ugh@s:eng&spa &=noise . 220293_224032
-*MAR:	[- spa] a ver qué es to esta (.) &=sighs qué es to esta mierda que me  mandaron esta gente ! 231469_237386
+*MAR:	[- spa] a ver qué es to esta (.) &=sighs qué es to esta mierda que me mandaron esta gente ! 231469_237386
 %eng:	Let's see what's all this shit this people sent me.
 *OSE:	www .
 *MAR:	no@s:eng&spa I brought some lunch thank you . 238824_240549
@@ -74,7 +74,7 @@
 *MAR:	ugh@s:eng&spa &=noises ugh@s:eng&spa &=noises pack one [=! pants] &=sniffs . 314148_322324
 *MAR:	ugh@s:eng&spa &=noises just xxx [=! whispers] . 331012_335749
 *MAR:	&=bang tsk@s:eng&spa &=noises yeah [/] yes [=! whispers] . 338071_346709
-*MAR:	phew@s:eng&spa [/] ph(ew)@s:eng&spa [/] ph(ew)@s:eng&spa [/] ph(ew)@s:eng&spa pack one ugh@s:eng&spa [=!  pants] . 349217_354372
+*MAR:	phew@s:eng&spa [/] ph(ew)@s:eng&spa [/] ph(ew)@s:eng&spa [/] ph(ew)@s:eng&spa pack one ugh@s:eng&spa [=! pants] . 349217_354372
 *MAR:	aw@s:eng&spa six [=! whispers] . 354040_355781
 *MAR:	yep &=bang one two three four five six aw@s:eng&spa . 355680_361578
 *MAR:	aw@s:eng&spa ugh@s:eng&spa [/] ugh@s:eng&spa [/] ugh@s:eng&spa aw@s:eng&spa [=! pants] . 381815_385923
@@ -259,7 +259,7 @@
 *MAR:	ay@s:eng&spa mija@s:spa [?] me@s:spa traje@s:spa un@s:spa platico@s:spa [=! opens_a_food_container] . 1193472_1194460
 %eng:	bring me a little dish.
 *OSE:	www .
-*MAR:	[- spa] tienes un platico o no [=! opens_a_food_container] ?  1196566_1197146
+*MAR:	[- spa] tienes un platico o no [=! opens_a_food_container] ? 1196566_1197146
 %eng:	do you have a little dish?
 *OSE:	www .
 *MAR:	ok@s:eng&spa [=! whispers] . 1198249_1198413
@@ -362,7 +362,7 @@
 *OSE:	www .
 *MAR:	uhhuh [=! eats] . 1538815_1539472
 *OSE:	www .
-*MAR:	mija@s:spa [?] no@s:spa está@s:spa tan@s:spa bonita@s:spa be(cause) [/]  be(cause) it's all mixed up but [=! eats] +//. 1540293_1544319
+*MAR:	mija@s:spa [?] no@s:spa está@s:spa tan@s:spa bonita@s:spa be(cause) [/] be(cause) it's all mixed up but [=! eats] +//. 1540293_1544319
 %eng:	darling, it's not that good because it's all mixed up but.
 *OSE:	www .
 *MAR:	xxx it's funny [=! eats] . 1545384_1548999
@@ -618,7 +618,7 @@
 *OSE:	www .
 *MAR:	yeah [=! eats] . 2349114_2349586
 *OSE:	www .
-*MAR:	mira@s:spa <your sis(ter)> [/] your sister really helps you (.)  a lot [=! eats] . 2354989_2357824
+*MAR:	mira@s:spa <your sis(ter)> [/] your sister really helps you (.) a lot [=! eats] . 2354989_2357824
 %eng:	look, your sister really helps you.. a lot
 *OSE:	www .
 *MAR:	&=coughs . 2369360_2369976
@@ -651,7 +651,7 @@
 %eng:	those two.
 *MAR:	[- spa] tú sabes cómo yo me como el brócoli ? 2437404_2438658
 %eng:	do you know how I eat broccoli?
-*MAR:	si@s:spa está@s:spa chopped up in little pieces  [?] con@s:spa una@s:spa sopa@s:spa de@s:spa queso@s:spa . 2439169_2441886
+*MAR:	si@s:spa está@s:spa chopped up in little pieces [?] con@s:spa una@s:spa sopa@s:spa de@s:spa queso@s:spa . 2439169_2441886
 %eng:	if it's chopped up in little pieces with a cheese soup.
 *OSE:	+< www .
 *MAR:	and then of course I'm really eating cheese . 2442490_2444092
@@ -689,7 +689,7 @@
 %eng:	and how are they brought? and how do they bring all that seafood?
 *OSE:	+< www .
 *MAR:	but are they carrying it with it ? 2616444_2617675
-*MAR:	or they're checking in ?  2617634_2618859
+*MAR:	or they're checking in ? 2617634_2618859
 *OSE:	www .
 *MAR:	+< uhhuh . 2623325_2623551
 *OSE:	www .
@@ -697,7 +697,7 @@
 *OSE:	www .
 *MAR:	+< right . 2628149_2628375
 *OSE:	www .
-*OSE:	but +//.  2630429_2630799
+*OSE:	but +//. 2630429_2630799
 *OSE:	www .
 *MAR:	they checked it in like luggage [=! eats] . 2632902_2633847
 *OSE:	+< www .

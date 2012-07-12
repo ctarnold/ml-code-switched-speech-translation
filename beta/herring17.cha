@@ -3,11 +3,11 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	IRI Iris Adult, JAM James Adult
-@ID:	spa, eng|Miami|IRI|25;|female|||Adult||
-@ID:	spa, eng|Miami|JAM||male|||Adult||
+@ID:	spa, eng|Miami|IRI|25;|female|||Adult|||
+@ID:	spa, eng|Miami|JAM||male|||Adult|||
 @Situation:	Informal conversation between two friends at a café
 @Date:	12-APR-2008
-@Transcriber:	Fraibet Aveledo and Jonathan Stammers, Bangor University.  Original translation by Kevin Donnelly
+@Transcriber:	Fraibet Aveledo and Jonathan Stammers, Bangor University. Initial translation by Kevin Donnelly
 @Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:29:58
 @Media:	herring17, audio
@@ -210,7 +210,7 @@
 *JAM:	but still I [///] what I was telling you is that we can check a couple of books and maybe ah@s:eng&spa (..) like self help something . 254242_261318
 *JAM:	and I actually need to check some books for myself . 261195_263738
 *IRI:	<a woman> [///] and I have woman's Dong_Quai@s:eng&spa tonic . 263270_267101
-*IRI:	esto@s:spa tiene@s:spa cinnamon que@s:spa es@s:spa canela@s:spa orange peel que@s:spa eso@s:spa es@s:spa eh@s:eng&spa (.) la@s:spa cáscara@s:spa de@s:spa [/] de@s:spa naranja@s:spa  +//. 267136_276406
+*IRI:	esto@s:spa tiene@s:spa cinnamon que@s:spa es@s:spa canela@s:spa orange peel que@s:spa eso@s:spa es@s:spa eh@s:eng&spa (.) la@s:spa cáscara@s:spa de@s:spa [/] de@s:spa naranja@s:spa +//. 267136_276406
 %eng:	this contains "cinnamon", which is cinnamon, "orange peel", and this is the skin of an orange.
 *IRI:	+, eh@s:eng&spa ginebra@s:spa . 276363_277576
 %eng:	gin.
@@ -267,7 +267,7 @@
 *IRI:	esto@s:spa tiene@s:spa eh@s:eng&spa eh@s:eng&spa manzanilla@s:spa . 319915_322666
 %eng:	this contains camomile.
 *IRI:	eh@s:eng&spa dandelion . 322912_324137
-*IRI:	eh@s:eng&spa no@s:spa  sé@s:spa  cómo@s:spa  se@s:spa dice@s:spa  . 324125_325362
+*IRI:	eh@s:eng&spa no@s:spa sé@s:spa cómo@s:spa se@s:spa dice@s:spa . 324125_325362
 %eng:	I don't know how do you say it.
 *JAM:	+< and how long +//. 324433_325571
 *JAM:	how long are your eh@s:eng&spa periods ? 325437_326662
@@ -368,7 +368,7 @@
 *JAM:	+< no I know that it [///] I [/] I [/] I +//. 424532_426116
 *JAM:	but the [/] (.) the person will be able to keep the same shape and the [/] the muscle tone and everything . 427272_434121
 *IRI:	carajo@s:spa carajo@s:spa <you're thinking of> [//] you're thinking about oh@s:eng&spa <you don't want> [//] <I don't want> [/] I don't want my [/] my wife to have stretch out <her puss(y)> [//] her tight pussy . 432925_440096
-%eng:	fuck, fuck, you're thinking about, I don't want my  wife to have stretched her tight pussy.
+%eng:	fuck, fuck, you're thinking about, I don't want my wife to have stretched her tight pussy.
 *JAM:	yeah . 440690_441706
 *JAM:	&=laugh I am thinking that . 441711_443114
 *IRI:	well [?] +/. 443021_443834
@@ -556,7 +556,7 @@
 *JAM:	and talk to me like +//. 636910_638599
 *IRI:	+< exactly . 637281_637908
 *JAM:	I don't know . 638495_638878
-*JAM:	if I'm doing this xxx for you because I do not like it and I know that I could faint  . 638910_642604
+*JAM:	if I'm doing this xxx for you because I do not like it and I know that I could faint . 638910_642604
 *IRI:	+< mmhm . 639754_640602
 *IRI:	mmhm . 642697_643260
 *JAM:	I'm doing it because I want to be nice and maybe help a child or something like that . 643092_646577
@@ -741,11 +741,11 @@
 %eng:	I was the photographer.
 *JAM:	+< [- spa] tu herma(na) +//. 860764_861124
 %eng:	your sister.
-*JAM:	[- spa]  tú tienes una hermana mayor ? 861094_862180
+*JAM:	[- spa] tú tienes una hermana mayor ? 861094_862180
 %eng:	have you got an older sister?
 *IRI:	[- spa] no . 862285_862668
 %eng:	no.
-*IRI:	de@s:spa Carla@s:eng&spa  . 862650_863666
+*IRI:	de@s:spa Carla@s:eng&spa . 862650_863666
 %eng:	from Carla.
 *JAM:	ah@s:eng&spa ! 863850_864454
 *IRI:	[- spa] yo estuve ahí . 864297_865168
@@ -768,7 +768,7 @@
 %eng:	yes.
 *IRI:	[- spa] me dio un poquito de cosa . 872877_874034
 %eng:	I felt a bit awkward.
-*JAM:	+< [- spa]  <no te dio> [//] no te sentiste mal viendo a tu mamá ? 872906_875078
+*JAM:	+< [- spa] <no te dio> [//] no te sentiste mal viendo a tu mamá ? 872906_875078
 %eng:	didn't you feel, didn't you feel bad by looking at your mother?
 *IRI:	[- spa] no no lo único que me [/] me dolía +/. 875637_878105
 %eng:	no, the only thing is that I was feeling pain ...
@@ -789,7 +789,7 @@
 *JAM:	like the [///] how do you say that ? 898402_899621
 *JAM:	in [/] in Spanish se@s:spa dice@s:spa el@s:spa cigoto@s:spa . 899621_901339
 %eng:	in Spanish you say zygote.
-*JAM:	eh@s:eng&spa la@s:spa mórula@s:eng&spa blástula@s:eng&spa  . 901918_904605
+*JAM:	eh@s:eng&spa la@s:spa mórula@s:eng&spa blástula@s:eng&spa . 901918_904605
 %eng:	eh, the morula, blastula.
 *IRI:	+< that's [?] xxx +/. 903322_904158
 *IRI:	ajá@s:spa . 904576_905174
@@ -826,17 +826,17 @@
 *JAM:	+< it's going to become a product sooner [=! laughs] (.) than later ! 941527_944539
 *IRI:	[- spa] no pero es no no no eso es +/. 943327_946113
 %eng:	no but this is, no no no this is.
-*JAM:	+<  xxx let's buy a baby ! 945705_947261
+*JAM:	+< xxx let's buy a baby ! 945705_947261
 *IRI:	that's &f [//] I know that's +... 947737_949326
 *JAM:	+" let's get a baby ! 948502_949648
-*IRI:	[- spa] <un be(bé)> [/]  un bebé no es un perrito tam(poco) sabes . 952630_956580
+*IRI:	[- spa] <un be(bé)> [/] un bebé no es un perrito tam(poco) sabes . 952630_956580
 %eng:	a baby, a baby is not a dog you know.
 *IRI:	[- spa] <eso es> [/] <eso es &inna> [//] <eso es> [/] eso es tan contra Dios y contra la naturaleza que <la i> [//] la iglesia está opuesta a todo eso . 956986_965759
 %eng:	this is, this is, this is so against God and nature that the church is opposed to all of this.
 *IRI:	[- spa] <es tan> [/] es tan contra la vida . 965906_968774
 %eng:	it's so, it's so against life.
 *JAM:	mmhm . 968814_969505
-*JAM:	qué@s:spa es@s:spa [///]  yo@s:spa no@s:spa sé@s:spa muy@s:spa bien@s:spa qué@s:spa es@s:spa eso@s:spa de@s:spa las@s:spa células@s:spa madres@s:spa que@s:spa  Bush@s:eng&spa [/] Bush@s:eng&spa no@s:spa apoya@s:spa ? 971180_975883
+*JAM:	qué@s:spa es@s:spa [///] yo@s:spa no@s:spa sé@s:spa muy@s:spa bien@s:spa qué@s:spa es@s:spa eso@s:spa de@s:spa las@s:spa células@s:spa madres@s:spa que@s:spa Bush@s:eng&spa [/] Bush@s:eng&spa no@s:spa apoya@s:spa ? 971180_975883
 %eng:	what is, I don't know very well what the stem cell thing is that Bush doesn't support.
 *IRI:	+< oh@s:eng&spa stem cell . 975029_976434
 *IRI:	stem cell . 976585_977827
@@ -848,7 +848,7 @@
 *JAM:	ay@s:spa [///] no more no more ! 984154_985442
 *JAM:	I don't want more &bða [=! groans] . 985437_986586
 *JAM:	no . 986539_986870
-*IRI:	what Dong_Quai@s:eng&spa  +/. 986905_987967
+*IRI:	what Dong_Quai@s:eng&spa +/. 986905_987967
 *JAM:	no more herbs and stuff . 987305_988617
 *JAM:	boring stuff . 988623_989772
 *JAM:	<do you ever hear me> [?] talk about that like um +..? 990555_992175
@@ -861,7 +861,7 @@
 *IRI:	organic Dong_Quai@s:eng&spa . 1001946_1003321
 *IRI:	<that's the> [/] ah@s:eng&spa that's the Chinese . 1003317_1005459
 *IRI:	the <ching chang chong chong> ["] . 1005477_1007451
-*JAM:	y qué es esto? 1006900_1007800
+*JAM:	y qué es esto ? 1006900_1007800
 %eng:	and what's that?
 *JAM:	a P_M_S@s:eng&spa lollipop ? 1007718_1009582
 *IRI:	yeah . 1009077_1009640
@@ -897,20 +897,20 @@
 *JAM:	no no I [/] I [/] I mean the [/] the leaves . 1042007_1043795
 *IRI:	ah@s:eng&spa tú@s:spa solo@s:spa ? 1042618_1044025
 %eng:	ah you, alone.
-*IRI:	no@s:spa no@s:spa no@s:spa no@s:spa no@s:spa  . 1044321_1045436
+*IRI:	no@s:spa no@s:spa no@s:spa no@s:spa no@s:spa . 1044321_1045436
 %eng:	no no no no.
 *JAM:	+< the leaves . 1044435_1045068
 *JAM:	the leaves itself . 1045132_1045927
-*IRI:	ah@s:eng&spa no@s:spa [/] no@s:spa xxx [/] no@s:spa lo@s:spa he@s:spa probado@s:spa  . 1045927_1047552
+*IRI:	ah@s:eng&spa no@s:spa [/] no@s:spa xxx [/] no@s:spa lo@s:spa he@s:spa probado@s:spa . 1045927_1047552
 %eng:	ah no [..], I didn't try it.
-*JAM:	and you know what is stevia  ? 1046844_1048528
+*JAM:	and you know what is stevia ? 1046844_1048528
 *IRI:	[- spa] sí . 1047913_1048343
 %eng:	yes.
 *JAM:	it's like a plant that grows in Chile@s:eng&spa . 1048898_1050941
 *IRI:	+< xxx . 1049206_1049780
 *IRI:	yeah . 1051321_1051750
 *JAM:	in Chile@s:eng&spa . 1051983_1052871
-*JAM:	recently discover I don't know but um the fact is that er (.) might  be ah@s:eng&spa (.) the (.) next big thing (.) to replace sugar or xxx . 1053367_1062743
+*JAM:	recently discover I don't know but um the fact is that er (.) might be ah@s:eng&spa (.) the (.) next big thing (.) to replace sugar or xxx . 1053367_1062743
 *IRI:	+< &=grunt . 1055183_1055467
 *IRI:	+< aha@s:eng&spa . 1060250_1060796
 *IRI:	[- spa] sí eso mismo . 1062333_1063319
@@ -925,9 +925,9 @@
 %eng:	it's very expensive.
 *IRI:	+< [- spa] sí sí sí . 1065751_1066343
 %eng:	yes, yes, yes.
-*JAM:	+< [- spa] es carísima  . 1065818_1066224
+*JAM:	+< [- spa] es carísima . 1065818_1066224
 %eng:	it's very expensive.
-*JAM:	[- spa]  son unas hojitas dulces . 1066178_1067269
+*JAM:	[- spa] son unas hojitas dulces . 1066178_1067269
 %eng:	they are sweet little leaves.
 *JAM:	+, [- spa] que tú las coges . 1067301_1068166
 %eng:	that you pick.
@@ -935,7 +935,7 @@
 %eng:	and dry.
 *JAM:	[- spa] y te las metes en la boca y te endulzan . 1069161_1071169
 %eng:	and you put them in your mouth and they make things taste sweet to you.
-*IRI:	sí@s:spa yeah  . 1071280_1071970
+*IRI:	sí@s:spa yeah . 1071280_1071970
 *JAM:	[- spa] xxx endulzan natural y rico . 1071618_1073081
 %eng:	[...] they sweeten naturally and in a delicious way.
 *JAM:	[- spa] y sin una sola caloría . 1073081_1074219
@@ -943,7 +943,7 @@
 *IRI:	+< [- spa] es(o) [/] es(o) [/] eso es esto mismo . 1074048_1075935
 %eng:	that is this itself.
 *JAM:	um . 1076294_1076694
-*IRI:	stevia leaf <eso@s:spa es@s:spa> [//] esto@s:spa es@s:spa  +/. 1076605_1078416
+*IRI:	stevia leaf <eso@s:spa es@s:spa> [//] esto@s:spa es@s:spa +/. 1076605_1078416
 %eng:	stevia leaf, that is, this is.
 *JAM:	+< [- spa] pero es bien caro . 1077934_1078875
 %eng:	but it is really expensive.
@@ -954,7 +954,7 @@
 *IRI:	y@s:spa son@s:spa hechos@s:spa como@s:spa <en@s:spa la@s:spa> [/] en@s:spa la@s:spa tradición@s:spa hindú@s:spa de@s:spa Ayur(veda)@s:eng&spa [/] &ai Ayur(veda)@s:eng&spa [/] Ayur(veda)@s:eng&spa +/. 1084545_1092584
 %eng:	and they are made like in the Hindu tradition, Ayur, Ayur, Ayur, Ayur.
 *JAM:	+< Ayurdeva@s:eng&spa [* Ayurveda@s:eng&spa] . 1091634_1092371
-*IRI:	yeah@s:spa eso@s:spa  [/]  eso@s:spa mismo@s:spa  ! 1092569_1093840
+*IRI:	yeah@s:spa eso@s:spa [/] eso@s:spa mismo@s:spa ! 1092569_1093840
 *IRI:	Ayurdeva@s:eng&spa [* Ayurveda@s:eng&spa] . 1093904_1094827
 *IRI:	Ayurdevic [* Ayurvedic] [//] Ayurvedic . 1095701_1097535
 *IRI:	um . 1098658_1099517
@@ -997,11 +997,11 @@
 %eng:	that's New Age.
 *JAM:	[- spa] eso es lo que llaman espiritismo en español o ciencia espírita . 1159545_1162512
 %eng:	that is what they call spiritualism in Spanish, or spiritual science.
-*IRI:	+<  [- spa] sí si yo sé . 1160811_1161960
+*IRI:	+< [- spa] sí si yo sé . 1160811_1161960
 %eng:	yes, I know.
 *IRI:	[- spa] yo sé . 1162624_1163570
 %eng:	I know.
-*JAM:	+< [- spa] <yo estuve en es>  [//]  yo estuve en tres de esos . 1162880_1164418
+*JAM:	+< [- spa] <yo estuve en es> [//] yo estuve en tres de esos . 1162880_1164418
 %eng:	I was in three of those.
 *JAM:	[- spa] tres diferentes . 1164807_1165544
 %eng:	three different.
@@ -1017,7 +1017,7 @@
 %eng:	another was called Asonde.
 *IRI:	+< aha@s:eng&spa . 1169642_1170100
 *IRI:	+< aha@s:eng&spa . 1171313_1171819
-*JAM:	eh@s:eng&spa (..) y@s:spa el@s:spa otro@s:spa cambio@s:spa de@s:spa nombre@s:spa después@s:spa  . 1172332_1175032
+*JAM:	eh@s:eng&spa (..) y@s:spa el@s:spa otro@s:spa cambio@s:spa de@s:spa nombre@s:spa después@s:spa . 1172332_1175032
 %eng:	and the other one changed it's name later.
 *JAM:	[- spa] pero [/] pero fueron esos tres básicamente . 1174778_1176775
 %eng:	but there were those three basically.
@@ -1055,7 +1055,7 @@
 %eng:	what I liked about Coconut Grove is that that's where the Hari Krishna temple is.
 *IRI:	[- spa] y ahí ellos [///] antes se pasaban así &tan &tan &tan &tan &tan &tan &tan &tan &tan &tan . 1212298_1215985
 %eng:	and before they were like tan tan tan.
-*JAM:	+<  [- spa] cantando eso [/] eso [/] eso [/] ellos [///] ellos cantan +/. 1214901_1217321
+*JAM:	+< [- spa] cantando eso [/] eso [/] eso [/] ellos [///] ellos cantan +/. 1214901_1217321
 %eng:	singing that, that, that, do they sing?
 *IRI:	+< [- spa] la procesión . 1216285_1217371
 %eng:	the procession.
@@ -1065,12 +1065,12 @@
 *JAM:	y@s:spa para@s:spa coger@s:spa donaciones@s:spa se@s:spa llama@s:spa prasha@s:eng&spa . 1219608_1221796
 %eng:	and to collect donations, it's called prasha.
 *IRI:	aha@s:eng&spa . 1221773_1222243
-*JAM:	[- spa] y es para &rega [/] para coger comida gratis  . 1222708_1224821
+*JAM:	[- spa] y es para &rega [/] para coger comida gratis . 1222708_1224821
 %eng:	and it is to get free food.
 *JAM:	[- spa] y darle comida a los demás . 1224856_1226058
 %eng:	and give food to the rest.
 *IRI:	mmhm . 1225888_1226335
-*JAM:	para@s:spa que@s:spa la@s:spa gente@s:spa que@s:spa tiene@s:spa hambre@s:spa coma@s:spa y@s:spa aprenda@s:spa el@s:spa Bhagavad_Gita@s:eng&spa   . 1226332_1229989
+*JAM:	para@s:spa que@s:spa la@s:spa gente@s:spa que@s:spa tiene@s:spa hambre@s:spa coma@s:spa y@s:spa aprenda@s:spa el@s:spa Bhagavad_Gita@s:eng&spa . 1226332_1229989
 %eng:	so that people who are hungry eat and learn the Bhagavad Gita.
 *JAM:	it's like marketing . 1230110_1231102
 *IRI:	[- spa] sí . 1231120_1231538
@@ -1084,11 +1084,11 @@
 *JAM:	and they [/] they [/] they give away people for food . 1241206_1243818
 *IRI:	+< eh@s:eng&spa es@s:spa como@s:spa una@s:spa misión@s:spa ? 1241322_1242822
 %eng:	it's like a missionary group ?
-*IRI:	[- spa] es misión? 1243007_1243872
+*IRI:	[- spa] es misión ? 1243007_1243872
 %eng:	it's a missionary group.
 *JAM:	+< but you need to first listen the Bhagavad_Gita@s:eng&spa . 1243809_1246207
 *JAM:	and then you get the soup . 1246823_1248356
-*IRI:	oh@s:eng&spa no@s:spa  . 1248409_1248967
+*IRI:	oh@s:eng&spa no@s:spa . 1248409_1248967
 %eng:	oh no.
 *IRI:	[- spa] <eso &n no> [/] eso no es cristiano . 1248979_1250947
 %eng:	that's not Christian.
@@ -1110,7 +1110,7 @@
 %eng:	because at least.
 *IRI:	[- spa] lo que [///] mi entendimiento de las misiones católicas . 1273996_1277349
 %eng:	what my understanding is of Catholic missions.
-*IRI:	en@s:spa eh@s:eng&spa le@s:spa daban@s:spa comida@s:spa  . 1277435_1279362
+*IRI:	en@s:spa eh@s:eng&spa le@s:spa daban@s:spa comida@s:spa . 1277435_1279362
 %eng:	in, eh, they gave them food.
 *IRI:	[- spa] no impor(taba) [///] y después si querían [/] querían aprender del cristianismo pues le enseñaban . 1279130_1285136
 %eng:	it didn't matter and after that if they wanted to learn about Christianity, they taught them.
@@ -1145,7 +1145,7 @@
 *IRI:	aha@s:eng&spa . 1317756_1318331
 *JAM:	eh@s:eng&spa fue@s:spa interesante@s:spa . 1318818_1319961
 %eng:	it was interesting.
-*JAM:	[- spa] ellos suelen meditar  . 1320008_1321297
+*JAM:	[- spa] ellos suelen meditar . 1320008_1321297
 %eng:	they usually meditate.
 *IRI:	aha@s:eng&spa sí@s:spa sí@s:spa sí@s:spa . 1321355_1322254
 %eng:	yeah, yes, yes.
@@ -1166,7 +1166,7 @@
 %eng:	they did vespers each...
 *JAM:	[- spa] sí . 1332193_1332385
 %eng:	yes.
-*JAM:	estuve@s:spa en@s:spa otro@s:spa grupo@s:spa que@s:spa llamaban@s:spa Madame_Blavatsky_H_P_B@s:eng&spa .  1332215_1335994
+*JAM:	estuve@s:spa en@s:spa otro@s:spa grupo@s:spa que@s:spa llamaban@s:spa Madame_Blavatsky_H_P_B@s:eng&spa . 1332215_1335994
 %eng:	I was in another group that they called Madame Blavatsky HPB.
 *IRI:	aha@s:eng&spa . 1335901_1336290
 *JAM:	[- spa] que era como de metafísica . 1336162_1337590
@@ -1196,7 +1196,7 @@
 %eng:	I was in El Camino.
 *JAM:	[- spa] estuve en xxx . 1364474_1366059
 %eng:	I was in [...].
-*JAM:	[- spa] estuve también en [/] en este de  +//. 1366639_1369315
+*JAM:	[- spa] estuve también en [/] en este de +//. 1366639_1369315
 %eng:	I was also in this one.
 *JAM:	[- spa] que eso fue hace veinte años . 1369315_1370245
 %eng:	it was like twenty years ago.
@@ -1262,7 +1262,7 @@
 %eng:	so you came back.
 *IRI:	[- spa] regresastes a la familia . 1459133_1461214
 %eng:	you came back to the family.
-*IRI:	[- spa] <por lo menos busca> [//] por lo menos este [///] entendemos que [///] o sea los católicos entendemos que esto es un proceso .  1461681_1470458
+*IRI:	[- spa] <por lo menos busca> [//] por lo menos este [///] entendemos que [///] o sea los católicos entendemos que esto es un proceso . 1461681_1470458
 %eng:	at least look for, at least we understand that, whatever, as Catholics we understand that this is a process.
 *IRI:	[- spa] porque y nos tenemos que ayudar los unos a los otros . 1470448_1473444
 %eng:	because, and we have to help each other
@@ -1333,7 +1333,7 @@
 *JAM:	at least once . 1535453_1536422
 *IRI:	[- spa] <no te> [/] no te lo xxx +//. 1537402_1538662
 %eng:	you don't, you don't [...].
-*IRI:	bueno@s:spa es@s:spa que@s:spa como@s:spa yo@s:spa tengo@s:spa mis@s:spa issues  . 1538644_1540757
+*IRI:	bueno@s:spa es@s:spa que@s:spa como@s:spa yo@s:spa tengo@s:spa mis@s:spa issues . 1538644_1540757
 %eng:	well, it's like I have my issues.
 *IRI:	[- spa] pues no te lo recomiendo . 1540736_1541641
 %eng:	I don't recommend it to you.
@@ -1343,24 +1343,24 @@
 %eng:	it was, it was seeds.
 *IRI:	se@s:spa llamaban@s:spa Hawaiian_Baby_Woodrose@s:eng&spa . 1546789_1548995
 %eng:	they were called Hawaiian Baby Woodrose.
-*IRI:	[- spa] y yo hice un té  . 1549145_1550690
+*IRI:	[- spa] y yo hice un té . 1549145_1550690
 %eng:	I made a tea.
-*IRI:	[- spa] se supone que eran con cinco semillas  . 1550870_1552866
+*IRI:	[- spa] se supone que eran con cinco semillas . 1550870_1552866
 %eng:	it was supposed to be with five seeds.
 *JAM:	<it was> [?] something natural ? 1551758_1552919
 *IRI:	[- spa] sí . 1552936_1553348
 %eng:	yes.
 *JAM:	so then it's not L_S_D@s:eng&spa . 1553344_1554516
 *JAM:	L_S_D@s:eng&spa is totally a chemical (.) stuff . 1554516_1556833
-*IRI:	+< no@s:spa <esto@s:spa es@s:spa> [/] <esto@s:spa es@s:spa> [/] esto@s:spa es@s:spa  L_S_A@s:eng&spa  . 1555785_1558604
+*IRI:	+< no@s:spa <esto@s:spa es@s:spa> [/] <esto@s:spa es@s:spa> [/] esto@s:spa es@s:spa L_S_A@s:eng&spa . 1555785_1558604
 %eng:	no this is, this is, this is LSA.
-*IRI:	en@s:spa vez@s:spa de@s:spa D@s:eng&spa es@s:spa  L_S_A@s:eng&spa  . 1558723_1560506
+*IRI:	en@s:spa vez@s:spa de@s:spa D@s:eng&spa es@s:spa L_S_A@s:eng&spa . 1558723_1560506
 %eng:	instead of D it's LSA.
 *JAM:	+< that has nothing to +//. 1560218_1560903
-*JAM:	well &el L_S_D@s:eng&spa  [/] L_S_D@s:eng&spa  is [/] is [/] is [/] er is made xxx in a lab . 1560903_1564711
-*IRI:	+< [- spa] sí sí no es [/] es similar  . 1561622_1563950
+*JAM:	well &el L_S_D@s:eng&spa [/] L_S_D@s:eng&spa is [/] is [/] is [/] er is made xxx in a lab . 1560903_1564711
+*IRI:	+< [- spa] sí sí no es [/] es similar . 1561622_1563950
 %eng:	yes, yes, it's similar.
-*IRI:	[- spa] no no no cállate  . 1564233_1565342
+*IRI:	[- spa] no no no cállate . 1564233_1565342
 %eng:	no, no, no, shut up.
 *IRI:	[- spa] no . 1565292_1565489
 %eng:	no.
@@ -1375,7 +1375,7 @@
 *IRI:	+< no@s:spa no@s:spa no@s:spa no@s:spa es@s:spa una@s:spa semilla@s:spa se@s:spa llama@s:spa Hawaii@s:eng&spa +/. 1574546_1577423
 %eng:	no no no, it's a seed, it's called Hawaii.
 *JAM:	+< I might try something natural maybe . 1576773_1578851
-*IRI:	[- spa] lo que [/] lo que pa(sa) [/] lo que pasó fue   . 1579379_1581162
+*IRI:	[- spa] lo que [/] lo que pa(sa) [/] lo que pasó fue . 1579379_1581162
 %eng:	what happens, what happened was.
 *IRI:	[- spa] bueno es que yo quiero que <tú &se> [//] tú aprendas de mi experiencia . 1581167_1583989
 %eng:	well, it's that I want you to learn from my experience.
@@ -1386,8 +1386,8 @@
 *JAM:	still +//. 1588022_1589061
 *JAM:	I told you the other day . 1589429_1590497
 *JAM:	er (.) sometimes life is like flat . 1591326_1593718
-*JAM:	like (..) without (.) I don't know (.) intereses@s:spa o@s:spa intensidades@s:spa o@s:spa  +... 1593849_1599877
-%eng:	like without, I don't know,  interest or intensity.
+*JAM:	like (..) without (.) I don't know (.) intereses@s:spa o@s:spa intensidades@s:spa o@s:spa +... 1593849_1599877
+%eng:	like without, I don't know, interest or intensity.
 *IRI:	+< mmhm . 1599199_1599669
 *JAM:	sometimes just being an adult is a little boring . 1600881_1603284
 *IRI:	yes I know . 1603278_1604242
@@ -1420,7 +1420,7 @@
 *IRI:	[- spa] sí . 1639496_1640152
 %eng:	yes.
 *JAM:	so there wasn't for me any other way to feel what I felt +... 1640124_1642771
-*IRI:	xxx no  &=mumble . 1642835_1643973
+*IRI:	xxx no &=mumble . 1642835_1643973
 *JAM:	+, through [?] marijuana@s:eng&spa just with marijuana@s:eng&spa . 1643960_1645522
 *IRI:	+< &=mumble . 1644580_1645137
 *JAM:	even [///] I [/] I can experience what is love +... 1645546_1648002
@@ -1471,7 +1471,7 @@
 *IRI:	yeah . 1720182_1720658
 *JAM:	and maybe &n (..) not really with a big faith . 1720442_1723699
 *JAM:	but um I have been better than other people that have faith and has done (.) bad stuff . 1724576_1728976
-*IRI:	+< [- spa] <sí pero> [/] sí pero imagínate <si tú> [//] <si tuvie(ras)> [/] si tú tuvieras fé  . 1726265_1733025
+*IRI:	+< [- spa] <sí pero> [/] sí pero imagínate <si tú> [//] <si tuvie(ras)> [/] si tú tuvieras fé . 1726265_1733025
 %eng:	yes, but imagine if you had faith.
 *JAM:	+< xxx . 1729535_1730272
 *IRI:	[- spa] con la buena persona que tú eres xxx tienes que pedir a Dios +"/. 1732577_1735055
@@ -1489,7 +1489,7 @@
 *JAM:	[- spa] bueno lo que te estaba diciendo era lo siguiente este +... 1743249_1745814
 %eng:	well, what I was telling you was this.
 *IRI:	aha@s:eng&spa . 1744699_1745361
-*JAM:	[- spa] yo sé que ya no fumo nada ni hago nada  . 1746594_1748318
+*JAM:	[- spa] yo sé que ya no fumo nada ni hago nada . 1746594_1748318
 %eng:	I know that I don't smoke anything and I don't do anything anymore.
 *JAM:	[- spa] pero un día de estos me gustaría probar algo una sola vez . 1748324_1751203
 %eng:	but some of these days I'd like to try something just once.
@@ -1512,13 +1512,13 @@
 *JAM:	+< xxx . 1770587_1771080
 *IRI:	[- spa] <yo te> [/] yo te estoy cuidando por lo menos yo te estoy . 1772256_1774102
 %eng:	I am taking care of you at least.
-*IRI:	[- spa] yo te estoy cuidando porque yo no  +... 1774096_1776007
+*IRI:	[- spa] yo te estoy cuidando porque yo no +... 1774096_1776007
 %eng:	I'm taking care of you because I don't.
 *JAM:	[- spa] yo sé pero yo tengo claro que solamente es una vez y ya . 1776065_1778730
 %eng:	I know, but for me it's clear that it's just once and this is it.
 *IRI:	[- spa] sí . 1778745_1779441
 %eng:	yes.
-*IRI:	[- spa] pero lo [/] lo  +/. 1780016_1780922
+*IRI:	[- spa] pero lo [/] lo +/. 1780016_1780922
 %eng:	but the.
 *JAM:	+< [- spa] es [/] es lo que mucha gente dice no pero +... 1780138_1781601
 %eng:	it's what a lot of people say right but...

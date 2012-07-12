@@ -2,11 +2,11 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|Miami|MAR|45;|female|||Adult||
-@ID:	spa, eng|Miami|OSE|||||Adult||
+@ID:	spa, eng|Miami|MAR|45;|female|||Adult|||
+@ID:	spa, eng|Miami|OSE|||||Adult|||
 @Situation:	MAR is in her office talking to colleague.
 @Date:	11-APR-2008
-@Transcriber:	Sarah Fairchild, Esther Núñez.  Original translation by Esther Núñez
+@Transcriber:	Sarah Fairchild, Esther Núñez. Initial translation by Esther Núñez
 @Time Duration:	00:59:58
 @Media:	maria30, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
@@ -224,7 +224,7 @@
 *MAR:	alright where was I ? 787282_787921
 *MAR:	+, industrial revolution (.) the art nouveau (.) art deco [=! reads] +... 787926_791061
 *OSE:	+< www .
-*MAR:	+, <modernism> [/] (.) modernism  [=! reads] +... 791279_793728
+*MAR:	+, <modernism> [/] (.) modernism [=! reads] +... 791279_793728
 *MAR:	+, then what is an architect [=! reads] . 794934_796217
 *MAR:	and then I left Jane's little +/. 796351_797802
 *OSE:	&=laughs .
@@ -753,7 +753,7 @@
 *MAR:	+< ah@s:eng&spa it is not xxx a color [=! types] . 2855352_2858371
 *MAR:	it is simply a (.) simply <a different (.) manufac(turer)> [//] a <different shade by a different manufac(turer)> [/] different shade by a different manufacturer [=! types] . 2858324_2873789
 *OSE:	+< www .
-*MAR:	hence (.) the painting sub (.)  needs to match (.) the basis of design [=! types] . 2875306_2884982
+*MAR:	hence (.) the painting sub (.) needs to match (.) the basis of design [=! types] . 2875306_2884982
 *MAR:	how's that [=! types] ? 2885625_2886177
 *OSE:	www .
 *MAR:	+< you wanna put something yes . 2889956_2891256
@@ -770,7 +770,7 @@
 *OSE:	+< www .
 *MAR:	o_k@s:eng&spa let me ask you a stupid question . 2917140_2918371
 *OSE:	www .
-*MAR:	<why did we took> [/] why did we took so long to give it back to them? 2930722_2933131
+*MAR:	<why did we took> [/] why did we took so long to give it back to them ? 2930722_2933131
 *MAR:	I thought we picked the colors a long long time ago . 2933300_2935320
 *OSE:	+< www .
 *MAR:	+< so why are they saying they just got it this week ? 2959022_2961564
@@ -863,7 +863,7 @@
 *OSE:	+< www .
 %com:	brief pause.
 *OSE:	www .
-*MAR:	what'd they do? 3298114_3299838
+*MAR:	what'd they do ? 3298114_3299838
 *OSE:	www .
 *MAR:	they +//. 3321130_3321559
 *MAR:	oh@s:eng&spa they definitely [/] definitely . 3321559_3323446

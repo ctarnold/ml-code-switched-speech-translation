@@ -3,11 +3,11 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	ETH Ethan Adult, HEN Henry Adult
-@ID:	spa, eng|Miami|ETH|40;|male|||Adult||
-@ID:	spa, eng|Miami|HEN|?;|male|||Adult||
+@ID:	spa, eng|Miami|ETH|40;|male|||Adult|||
+@ID:	spa, eng|Miami|HEN||male|||Adult|||
 @Situation:	Informal conversation between neighbours at Ethan's house
 @Date:	09-MAR-2008
-@Transcriber:	M. Carmen Parafita Couto, Bangor University. Original translation by Vanesa Bonavota García
+@Transcriber:	M. Carmen Parafita Couto, Bangor University. Initial translation by Vanesa Bonavota García
 @Comment:	Researcher: Marilyn Zeledón
 @Time Duration:	00:21:48
 @Media:	zeledon4, audio
@@ -256,7 +256,7 @@
 *ETH:	[- spa] yo xxx una vez yo lo vi . 293552_295607
 %eng:	I've seen him once.
 *HEN:	+< &=laughs . 293552_296948
-*HEN:	yeah? 296971_297604
+*HEN:	yeah ? 296971_297604
 *ETH:	yeah that's it . 297505_298422
 *ETH:	[- spa] quién más ? 298509_299154
 %eng:	who else?

@@ -2,11 +2,11 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MAR Maria Adult, OSE Other_Speaker Adult
-@ID:	spa, eng|Miami|MAR|45;|female|||Adult||
-@ID:	spa, eng|Miami|OSE|||||Adult||
+@ID:	spa, eng|Miami|MAR|45;|female|||Adult|||
+@ID:	spa, eng|Miami|OSE|||||Adult|||
 @Situation:	MAR is in her office talking to colleague.
 @Date:	25-MAR-2008
-@Transcriber:	Esther Núñez, Sarah Fairchild.  Original translation by Esther Núñez
+@Transcriber:	Esther Núñez, Sarah Fairchild. Initial translation by Esther Núñez
 @Time Duration:	00:31:50
 @Media:	maria20, audio
 @Comment:	Language markers: @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish.
@@ -25,9 +25,9 @@
 *MAR:	I mean it's not (.) &=coughs gonna kill me . 25884_27857
 *MAR:	no@s:eng&spa si@s:spa él@s:spa me@s:spa lo@s:spa dijo@s:spa el@s:spa domingo@s:spa (be)cause he went to our [/] (.) <our mom> [//] my mother in law's house . 34301_38260
 %eng:	no but he told me on Sunday because he went to our our mom, my mother in law's house.
-*MAR:	yo@s:spa le@s:spa invité@s:spa pa@s:spa Easter porque@s:spa me@s:spa daba@s:spa pena@s:spa el@s:spa pobre@s:spa aquí@s:spa solo@s:spa sin@s:spa familia@s:spa ni@s:spa nada@s:spa .  38312_43125
+*MAR:	yo@s:spa le@s:spa invité@s:spa pa@s:spa Easter porque@s:spa me@s:spa daba@s:spa pena@s:spa el@s:spa pobre@s:spa aquí@s:spa solo@s:spa sin@s:spa familia@s:spa ni@s:spa nada@s:spa . 38312_43125
 %eng:	I invited him for Easter because I felt sorry that the poor thing was here on his own without family or anything.
-*MAR:	so we (.) had him over for Easter  [=! background_noises] . 43143_44850
+*MAR:	so we (.) had him over for Easter [=! background_noises] . 43143_44850
 *MAR:	[- spa] me dice +"/. 44862_45123
 %eng:	he says to me.
 *MAR:	+" ay@s:spa sí@s:spa I feel so bad ! 45117_46795
@@ -272,7 +272,7 @@
 *MAR:	[- spa] <y to> [//] y con to eso dicen que ellos son los que se levantan <a d(ar)> [//] a alimentar a los niños . 628335_633793
 %eng:	and after all that they said that they are the ones who get up to feed the children.
 *OSE:	+< www .
-*MAR:	[- spa]  (en)tonces pa que rayos tú tienes dos mujeres ? 633773_636279
+*MAR:	[- spa] (en)tonces pa que rayos tú tienes dos mujeres ? 633773_636279
 %eng:	so what the hell do you employ two women for?
 *MAR:	[- spa] <pa que le estás> [///] le estás regalando el dinero . 636300_638375
 %eng:	why are you? you are paying them for nothing.

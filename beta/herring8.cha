@@ -3,17 +3,17 @@
 @Begin
 @Languages:	eng, spa
 @Participants:	MEL Melanie Adult, ROB Robert Adult, OSE non_participant Child, OSA non_participant Teenager, OSB non_participant Adult
-@ID:	eng, spa|Miami|MEL|39;|female|||Adult|
-@ID:	eng, spa|Miami|ROB|42;|male|||Adult||
-@ID:	eng, spa|Miami|OSE||female|||Child|
-@ID:	eng, spa|Miami|OSA||female|||Teenager|
-@ID:	eng, spa|Miami|OSB||male|||Adult|
-@Situation:	Informal conversation between a couple in their garden;  their children join them for a while
+@ID:	eng, spa|Miami|MEL|39;|female|||Adult|||
+@ID:	eng, spa|Miami|ROB|42;|male|||Adult|||
+@ID:	eng, spa|Miami|OSE||female|||Child|||
+@ID:	eng, spa|Miami|OSA||female|||Teenager|||
+@ID:	eng, spa|Miami|OSB||male|||Adult|||
+@Situation:	Informal conversation between a couple in their garden; their children join them for a while
 @Date:	21-MAR-2008
-@Transcriber:	M. Carmen Parafita Couto and Marika Fusser, Bangor University.  Original translation by Kevin Donnelly
+@Transcriber:	M. Carmen Parafita Couto and Marika Fusser, Bangor University. Initial translation by Kevin Donnelly
 @Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:29:43
-@Media:	Herring8, audio
+@Media:	herring8, audio
 @Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are English except where part of an utterance headed [- spa], in which untagged words are Spanish
 @Warning:	Should speakers OSE and OSB be integrated with proper pseudonyms (consent forms exist according to Jon's notes)? Or should the three additional speakers all be called OSE??
 @Warning:	Spanish/possibly Spanish bits to be transcribed have been marked with [CHECK].
@@ -229,7 +229,7 @@
 *ROB:	Sunshine@s:eng&spa . 461073_463140
 *MEL:	[- spa] ella luce limpia ? 463095_464291
 %eng:	she's squeaky clean?
-*ROB:	+<  &=kiss . 463095_464291
+*ROB:	+< &=kiss . 463095_464291
 *ROB:	no . 464256_464814
 *MEL:	ah@s:eng&spa . 464812_465875
 *ROB:	she hasn't been bathed . 465758_467273
@@ -302,7 +302,7 @@
 *MEL:	A Aesop . 589299_591134
 *ROB:	Aesop's fable . 591267_592597
 *MEL:	you know xxx <the crow and the pitcher> ["] ? 592600_593849
-*MEL:	anyway (.) it has to do with a crow who wants to <get uh> [//] drink  some water from a pitcher . 594385_598811
+*MEL:	anyway (.) it has to do with a crow who wants to <get uh> [//] drink some water from a pitcher . 594385_598811
 *MEL:	but his beak doesn't go inside . 598812_600455
 *MEL:	so he needs xxx putting little stones in until the water rises enough he can drink it . 600452_604074
 *MEL:	and the thing is using your wit to get whatever . 604023_606525
@@ -440,7 +440,7 @@
 *MEL:	me ? 877665_879053
 *OSE:	xxx . 879971_881712
 *OSE:	xxx ! 881648_882798
-*ROB:	whoa  ! 884904_886036
+*ROB:	whoa ! 884904_886036
 *OSE:	xxx . 886651_888544
 *MEL:	was that toy in your xxx ? 888892_890535
 *MEL:	or was it in Tina's house ? 891314_892486
@@ -537,14 +537,14 @@
 *ROB:	<could double as a superstar> [=! sings] . 1098914_1101689
 *OSE:	+< xxx a little bit . 1100464_1101695
 *MEL:	xxx just a little Ryan@s:eng&spa ? 1101666_1102850
-*ROB:	+<  but I wanna hear you xxx . 1102442_1103974
+*ROB:	+< but I wanna hear you xxx . 1102442_1103974
 *OSE:	&=cough only a little bit . 1103858_1106284
 *ROB:	+< o_k alright . 1105971_1107207
 *ROB:	well you know what I got a surprise for you doll . 1107197_1109455
 *ROB:	you're gonna Hollywood@s:eng&spa ! 1110443_1112144
 *MEL:	I say yes . 1111940_1112666
 *OSE:	xxx . 1112643_1113850
-*ROB:	&=whistle .  1113787_1114420
+*ROB:	&=whistle . 1113787_1114420
 *MEL:	+< xxx ! 1114025_1114425
 *ROB:	Rosa@s:eng&spa ! 1115569_1116225
 *OSE:	<pretty good> [?] . 1116211_1117151
@@ -766,14 +766,14 @@
 *ROB:	o_k sing the Jonas_Brothers@s:eng&spa . 1458960_1460449
 *MEL:	+< o_k . 1459125_1459810
 *ROB:	are you Joe_Jonas@s:eng&spa ? 1460435_1461578
-*MEL:	Kevin@s:eng&spa  ? 1461696_1462520
+*MEL:	Kevin@s:eng&spa ? 1461696_1462520
 *OSE:	xxx . 1465446_1466741
 *ROB:	uhuh I put xxx . 1466677_1468076
 *MEL:	+< <the D_J has arrived> [=! sings] . 1467606_1469202
 *ROB:	I [/] I put in ear [//] ear_worm in my studios . 1469151_1472013
 *MEL:	what ? 1473581_1474150
 *ROB:	uh <if you look me in the eye> [=! sings] . 1474723_1478061
-*OSE:	<tell me that you love me>  [=! sings] . 1478026_1482177
+*OSE:	<tell me that you love me> [=! sings] . 1478026_1482177
 *ROB:	<everything's alright> [=! sings] . 1482103_1484045
 *OSE:	+< xxx . 1482106_1484266
 *ROB:	sorry . 1484126_1484724
@@ -853,7 +853,7 @@
 *ROB:	xxx she gave us the gift certificate . 1613163_1615416
 *OSE:	+< bye_bye . 1613424_1614388
 *OSE:	bye guys bye Simon@s:eng&spa ! 1615400_1617838
-*MEL:	+< can it be the Monday or the Tuesday ?  1616538_1618860
+*MEL:	+< can it be the Monday or the Tuesday ? 1616538_1618860
 *MEL:	then I'm here . 1618878_1619621
 *ROB:	the Tuesday is <your graduation your &dis> [//] your defense . 1619609_1622783
 *OSE:	+< bye Simon@s:eng&spa ! 1619724_1621367

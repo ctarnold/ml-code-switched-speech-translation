@@ -3,14 +3,14 @@
 @Begin
 @Languages:	spa, eng
 @Participants:	TOM Tomás Adult, MIG Miguel Adult
-@ID:	spa, eng|Miami|TOM|19;|male|||Adult|
-@ID:	spa, eng|Miami|MIG|21;|male|||Adult||
+@ID:	spa, eng|Miami|TOM|19;|male|||Adult|||
+@ID:	spa, eng|Miami|MIG|21;|male|||Adult|||
 @Situation:	Informal telephone conversation between two friends
 @Date:	11-MAR-2008
-@Transcriber:	M. Carmen Parafita Couto, Bangor University.  Original translation by Bronwyn Wrigley.
+@Transcriber:	M. Carmen Parafita Couto, Bangor University. Initial translation by Bronwyn Wrigley.
 @Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:30:42
-@Media:	herring2 audio
+@Media:	herring2, audio
 @Comment:	Language markers : @s:spa = Spanish, @s:eng = English, @s:eng&spa = Undetermined, @s:spa+eng = word with first morpheme(s) Spanish, second morpheme(s) English, @s:eng+spa = word with first morpheme(s) English, second morpheme(s) Spanish. Untagged words are Spanish except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	remaining translation uncertainties are recorded with [?] (and comment tier)
 *MIG:	<no se> [/] no se andan juntando con todo el mundo me entendés o sea que no hay +... 0_3873
@@ -580,13 +580,13 @@
 %eng:	and he's one of my best friends
 *TOM:	desde chiquito lo conozco . 613230_614049
 %eng:	I've known him since I was little
-*MIG:	a huevo entonces creo que yo lo tengo en mi Facebook@s:eng&spa Armando@s:eng&spa Cura@s:eng&spa no? 614049_617777
+*MIG:	a huevo entonces creo que yo lo tengo en mi Facebook@s:eng&spa Armando@s:eng&spa Cura@s:eng&spa no ? 614049_617777
 %eng:	oh right...actually I think I have him as a friend on Facebook, as Armando Cura
 *TOM:	sí Armando@s:eng&spa Cura@s:eng&spa . 617684_618636
 %eng:	yeah, Armando Cura
 *MIG:	sí creo que a no [/] no [/] no lo tengo . 618630_621950
 %eng:	yes, I think that, no, no, no, I don't have him.
-*MIG:	&cre yo lo había &gre [/] agregado sí o no? 622240_624858
+*MIG:	&cre yo lo había &gre [/] agregado sí o no ? 622240_624858
 %eng:	I think I've added him, yes or no?
 *MIG:	bueno no sé . 624854_626219
 %eng:	well I don't know
@@ -953,7 +953,7 @@
 %com:	MIG is talking to this third person on the phone
 *MIG:	bueno . 1010569_1011330
 %eng:	okay.
-%com:	MIG continue  talking to this third person on the phone
+%com:	MIG continue talking to this third person on the phone
 *MIG:	&=laughs . 1014371_1015376
 *MIG:	no tranquilo vale turca . 1015985_1017767
 %eng:	no, it's cool, no worries dude.

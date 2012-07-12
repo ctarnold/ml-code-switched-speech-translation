@@ -3,11 +3,12 @@
 @Begin
 @Languages:	spa, eng
 @Participants:	ASH Ashley Adult, JAC Jack Adult, OSE non_participant Adult
-@ID:	spa, eng|Miami|ASH|37;|female|||Adult||
-@ID:	spa, eng|Miami|JAC|41;|male|||Adult||
+@ID:	spa, eng|Miami|ASH|37;|female|||Adult|||
+@ID:	spa, eng|Miami|JAC|41;|male|||Adult|||
+@ID:	spa, eng|Miami|OSE||male|||Adult|||
 @Situation:	Informal conversation in the communal lounge area of an apartment
 @Date:	12-MAR-2008
-@Transcriber:	Jon Russell Herring and M. Carmen Parafita Couto, Bangor University.    Original translation by Mary Silva
+@Transcriber:	Jon Russell Herring and M. Carmen Parafita Couto, Bangor University.  Initial translation by Mary Silva
 @Comment:	Researcher: Jon Russell Herring, Bangor University
 @Time Duration:	00:31:37
 @Media:	herring3, audio
@@ -1099,7 +1100,7 @@
 *ASH:	[- eng] like three months . 1530833_1532041
 *JAC:	[- eng] like three month(s) ? 1532099_1533492
 *JAC:	[- eng] oh my . 1533655_1534688
-*ASH:	&=laugh@s:eng . 1534765_1536867
+*ASH:	&=laugh . 1534765_1536867
 *ASH:	[- eng] I don't know . 1536878_1537842
 *ASH:	[- eng] he was talking about some stuff . 1537819_1539734
 *JAC:	[- eng] some stuff ? 1539955_1540547
