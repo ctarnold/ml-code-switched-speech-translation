@@ -5,3 +5,9 @@ Learning to Recognize Dialect Features - Dorottya Demszky, Devyani Sharma, Jonat
 End-to-End Speech Translation for Code-Switched Speech - Orion Weller, Matthias Sperber, Telmo Pires, Hendra Setiawan, Christian Gollan, Dominic Telaar, Matthias Paulik
 	   This study combines the Fisher data and the Miami data to build a Speech Translation (ST) model for translating code-switched speech. I use the same data
 	   uses in this study for differentiating between the Miami dialect and the dialects of other Spanish speakers.
+
+Automatic dialect identification system for Kannada language using single and ensemble SVM algorithms- Chittaragi, Koolagudi
+	  This study is another framework study for investigation of dialect identification systems.
+
+Sociolinguistic Approaches to Sibilant variation in Spanish - Eva Núñez-Méndez
+	   This contains a chapter on Miami Spanish, and demonstrates that grandchildren of exiles speak differently from recently arrived immigrants. Grandchildren are more likely to prnounce the /s/. 
