@@ -1,0 +1,1 @@
+In this project I will be developing a machine learning model to distinguish between the Miami dialect and other dialects of English and Spanish. The Miami data and Fisher data in this repository will make up my training and testing data. 
