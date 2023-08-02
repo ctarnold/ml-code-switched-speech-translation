@@ -1,3 +1,7 @@
 Learning to Recognize Dialect Features - Dorottya Demszky, Devyani Sharma, Jonathan H.Clark, Vinodkumar Prabhakaran, Jacob Eisenstein
+	    I am using this study as a framework for exploring a computational approach to recognizing dialect features. I will consult
+	    other sources regarding the unique features of Miami speech, and apply a similar methodology to my investigation.
 
 End-to-End Speech Translation for Code-Switched Speech - Orion Weller, Matthias Sperber, Telmo Pires, Hendra Setiawan, Christian Gollan, Dominic Telaar, Matthias Paulik
+	   This study combines the Fisher data and the Miami data to build a Speech Translation (ST) model for translating code-switched speech. I use the same data
+	   uses in this study for differentiating between the Miami dialect and the dialects of other Spanish speakers.
