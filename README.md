@@ -1,5 +1,5 @@
 # Overview
-This repository contains the code and instructions needed to reproduce the dataset splits for ["Speech Translation for Code-Switched Speech"](LINK_TODO).
+Please see the Dialect Difference folder for Christian Arnold's approach to this repository. This is forked from a repository for a study regarding speech translation of code-switched data. This repository contains the code and instructions needed to reproduce the dataset splits for ["Speech Translation for Code-Switched Speech"](LINK_TODO).
 
 You can create both datasets with the `bash create_datasets.sh` command, following the instructions in the [Instructions Section](#Instructions). The `fisher` and `miami` directories contain the scripts needed to for each dataset used by `bash create_datasets.sh`. 
 
