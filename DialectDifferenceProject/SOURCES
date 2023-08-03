@@ -10,4 +10,8 @@ Automatic dialect identification system for Kannada language using single and en
 	  This study is another framework study for investigation of dialect identification systems.
 
 Sociolinguistic Approaches to Sibilant variation in Spanish - Eva Núñez-Méndez
-	   This contains a chapter on Miami Spanish, and demonstrates that grandchildren of exiles speak differently from recently arrived immigrants. Grandchildren are more likely to prnounce the /s/. 
+	   This contains a chapter on Miami Spanish, and demonstrates that grandchildren of exiles speak differently from recently arrived immigrants. Grandchildren are more likely to pronounce the /s/.
+
+Cambio de código y mantenimiento del español por cubano-americanos en Dade County, Florida, y Filadelfia, Pennsylvania, Chapters 8 and 9. Jose Jesus Zuazo.
+       	  I will use this source to investigate the defining characteristics of Cuban-American Spanish. These defining characteristics can be used as variables in the machine learning classification model.
+
