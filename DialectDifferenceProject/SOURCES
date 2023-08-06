@@ -13,5 +13,5 @@ Sociolinguistic Approaches to Sibilant variation in Spanish - Eva Núñez-Ménde
 	   This contains a chapter on Miami Spanish, and demonstrates that grandchildren of exiles speak differently from recently arrived immigrants. Grandchildren are more likely to pronounce the /s/.
 
 Cambio de código y mantenimiento del español por cubano-americanos en Dade County, Florida, y Filadelfia, Pennsylvania, Chapters 8 and 9. Jose Jesus Zuazo.
-       	  I will use this source to investigate the defining characteristics of Cuban-American Spanish. These defining characteristics can be used as variables in the machine learning classification model.
-
+       	  I will use this source to investigate the defining characteristics of Cuban-American Spanish. These defining characteristics can be used as variables in the machine learning classification model. The dialect features that can be detected in text data include use of the subjuctive, use of the dimunitive, and use of the imperfect tense. In combination with LID on the input to detect frequency of English and Spanish, studying the use of these tenses will aid in developing a classification model.
+ 
